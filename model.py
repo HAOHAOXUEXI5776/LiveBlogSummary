@@ -10,6 +10,18 @@ from torch.utils.data import DataLoader
 import numpy as np
 import time
 
+embed_path = "word2vec/embedding.npz"
+voca_path =  "word2vec/word2id.json"
+train_dir = "label_data/guardian_label/train/"
+val_dir = "label_data/guardian_label/valid/"
+batch_size = 32
+learning_rate = 1e-3
+max_norm = 1.0
+sent_trunc = 20
+doc_trunc = 10
+
+use_cuda = torch.cuda.is_available()
+
 class MyModule(nn.Module):
     def __init__(self, embed_num, embed_dim, doc_trunc, embed = None):
         super(MyModule, self).__init__()
@@ -49,7 +61,10 @@ class MyModule(nn.Module):
         out = []
         for index, t in enumerate(x):
             if sent_lens[index] == 0:
-                out.append(torch.zeros(1, 2*self.H, 1))
+                if use_cuda:
+                    out.append(torch.zeros(1, 2*self.H, 1).cuda())
+                else:
+                    out.append(torch.zeros(1, 2 * self.H, 1))
             else:
                 try:
                     tmpsize = t.shape
@@ -96,17 +111,6 @@ class MyModule(nn.Module):
         return self
 
 
-embed_path = "word2vec/embedding.npz"
-voca_path =  "word2vec/word2id.json"
-train_dir = "label_data/guardian_label/train/"
-val_dir = "label_data/guardian_label/valid/"
-batch_size = 32
-learning_rate = 1e-3
-max_norm = 1.0
-sent_trunc = 20
-doc_trunc = 10
-
-use_cuda = torch.cuda.is_available()
 
 embed = torch.Tensor(np.load(embed_path)['embedding'])
 with open(voca_path) as f:
