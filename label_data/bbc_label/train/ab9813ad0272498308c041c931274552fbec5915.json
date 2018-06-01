@@ -1,0 +1,816 @@
+{
+    "blog_id": "ab9813ad0272498308c041c931274552fbec5915", 
+    "title": "BBC Local Live: Northamptonshire for Wednesday, 6 January 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-35232649", 
+    "summary": [
+        "closing headlines on wednesday , 6 january 2016 .", 
+        "a man from raunds has been arrested in a dawn raid linked to a cold case murder .", 
+        "saints back coach alex king says he had no intention of leaving the club despite england speculation .", 
+        "some gp surgeries in northamptonshire say patient safety is being `` put at risk '' due to increasing demand .", 
+        "more news , sport , weather and travel from 08:00 on thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d4dc92100008a2cb40e1a", 
+            "title": "our live coverage throughout the day", 
+            "text": [
+                "that 's it for today folks - we 've had gp practices under pressure , ghostly apparitions in weedon , and saints ' alex king dismissing the speculation around a possible move to the england set up .", 
+                "we 'll be back at 08:00 tomorrow with more news , weather , travel and updates for northamptonshire .", 
+                "in the meantime , if you want to get in touch , please email , tweet us or head to facebook ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d45f33e0000da297e60cd", 
+            "title": "christmas drink drive arrests up slightly", 
+            "text": [
+                "the number of people arrested for drink-driving in northamptonshire over christmas and the new year is up on the previous year .", 
+                "a total of 78 people were arrested for driving over the limit during northamptonshire police 's drink-drive campaign in december 2015 - two more arrests than the same period in 2014 .", 
+                "a further 10 people were arrested for drug driving ."
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d4234350000482bc9ddc8", 
+            "title": "a508 congestion : council 'regrets ' delays for motorists", 
+            "text": [
+                "northamptonshire county council says it `` regrets '' the long delays motorists have been experiencing on the a508 while roadworks have been in place .", 
+                "the works at the boughton roundabout are in place to allow infrastructure for the new buckton fields housing development to be installed .", 
+                "a council spokesman said : `` if road users are able to stagger their journeys , or have an alternative route , we would advise them to do so until the work is completed at the end of this week . ''"
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d02fa3e0000c4287e5f8f", 
+            "title": "a wholesale power grab : how the uk government is handing housing over to private developers", 
+            "text": [
+                "dr bob colenutt from the university of northampton gives his view on private housing developers :", 
+                "in any sane universe , something called the housing and planning bill might safely be assumed to stimulate house building and improve planning .", 
+                "but the bill , which receives its third and final reading in the house of commons today , does exactly the opposite of what it says on the tin ."
+            ], 
+            "author": [
+                "The Guardian"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568d3f0b210000a22eb40de4", 
+            "title": "motorists warned of severe congestion on a508 at boughton", 
+            "text": [
+                "temporary traffic lights and roadworks on the a508 north of northampton - which have caused long delays for motorists this week - will continue until saturday .", 
+                "the works , taking place near the boughton roundabout , are in place to allow a utility company to install infrastructure for the new buckton fields development .", 
+                "the four way traffic lights will now be manually operated to allow for changes in traffic flow ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d3c5b2100008b2cb40dd5", 
+            "title": "christmas pudding bush in gretton reunited with owner", 
+            "text": [
+                "as festive traditions go , one in the village of gretton near corby is quite unique - each year , two very old , round box trees are decorated to resemble christmas puddings .", 
+                "but just before christmas one of the one hundred-year-old bushes was stolen ; ripped out of the ground with some force .", 
+                "today residents are celebrating as the 'pudding bush ' has been recovered and replanted ."
+            ], 
+            "author": [
+                "Carroll Weston", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568d05fe350000652ac9dcbc", 
+            "title": "mp backs man 's fight for justice after death of his son in northampton care home", 
+            "text": [
+                "an mp has taken up a father 's fight for justice following the death of his son in care ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d3996350000482bc9ddac", 
+            "title": "saga of the lost pudding in gretton comes to an end", 
+            "text": [
+                "a 100-year old box tree - which was stolen from outside a house in gretton - has been reunited with its owners .", 
+                "the tree is one of two which had been decorated to look like christmas puddings .", 
+                "one of the pair went missing before christmas , but following a facebook appeal has been recovered after being found dumped behind a hedge in a nearby layby .", 
+                "residents helped to retrieve it and it 's now been replanted in its original spot ."
+            ], 
+            "author": [
+                "Carroll Weston", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d15543e0000da297e5fe8", 
+            "title": "norovirus : the signs and symptoms", 
+            "text": [
+                "with health bosses in northamptonshire urging people to help prevent the spread of norovirus , just what is the bug and how can you spot the signs ?", 
+                "for most people it is no worse than a short bout of diarrhoea and vomiting that should clear up within 24-72 hours .", 
+                "however , for the more vulnerable , it can have a more significant effect .", 
+                "nene ccg - which delivers healthcare across northamptonshire - has issued the following advice :"
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d2d17350000652ac9dd75", 
+            "title": "ghost on horseback - can you see it ?", 
+            "text": [
+                "a photo taken by a northampton man is all over the tabloid newspapers today - as it apparently captures a ghost on horseback in a graveyard .", 
+                "the graveyard is in weedon - and the man who took the richard durham .", 
+                "he told me earlier : `` some people think i 've had one too many sherbets , but i can see it and so can other people - and whether people can believe in ghosts or not , it 's there . ''", 
+                "the is on our facebook page , where you can also leave your comments ."
+            ], 
+            "author": [
+                "Annabel Amos", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d13c63e0000c3287e5fe3", 
+            "title": "nhs bosses urge people to help prevent the spread of norovirus", 
+            "text": [
+                "health bosses in the county are urging the public to help prevent the spread of the highly contagious winter sickness bug , norovirus .", 
+                "the bug is very common at this time of year and outbreaks are being reported around northamptonshire", 
+                "the nhs says it can be very dangerous to the elderly and sick - and is asking people who have experienced diarrhoea and vomiting to stay away from hospitals if at all possible ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d36283e0000da297e6081", 
+            "title": "indecent exposure in northampton 's grosvenor centre", 
+            "text": [
+                "police are searching for a man who indecently exposed himself to another man in the grosvenor centre public toilet at 17:10 on wednesday , 30 december .", 
+                "officers say the offender , described as white , in his early 20s , around 5ft 8ins tall , with a tall , slim or scrawny build with blonde-like hair and .", 
+                "a hearing aid , exposed himself to the victim before `` carrying out a lewd act '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d00f23500004729c9dc9a", 
+            "title": "northampton firm fined after worker struck by bus", 
+            "text": [
+                "a northampton company contracted to lay a pipe across station road in long buckby in 2014 has been fined \u00a3 12,000 following a serious injury to a worker .", 
+                "during the roadworks , a worker was struck by a bus and suffered injuries , including a dislocated knee and severe ligament and muscle damage .", 
+                "rebeck communications limited , of billing road , northampton , pleaded guilty to breaching construction regulations at northampton magistrates ' court after the health and safety executive said a safety zone had not been maintained ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cf4062100002927b40c6d", 
+            "title": "council closes 'filthy ' food business in wellingborough", 
+            "text": [
+                "emergency hygiene powers were used by environmental health officers in wellingborough to close a newly opened food business .", 
+                "sklep miesny u jasia , based on midland road , had no hot water supply , no hand washing facilities where raw meat and ready to eat foods were being handled , and dirty water and waste on the floor in the rear food preparation and storage areas .", 
+                "officers decided there was an imminent health risk and served a hygiene emergency prohibition notice upon jadlo spod strzechy limited to close it until the health risk had been removed - which was confirmed by northampton magistrates ' court on tuesday , 22 december ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cfa8c2100002927b40c8a", 
+            "title": "family-run northampton music shop down but not out as it downsizes in battle with online shopping", 
+            "text": [
+                "an independent family-run music store in northampton has relocated next door to a smaller premises - as it battles to cope with the boom of online shopping ."
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d24143e0000c12b7e6020", 
+            "title": "northamptonshire surgeries 'may have to close '", 
+            "text": [
+                "some gp practices in northampton have got so few gps they may actually have to close .", 
+                "that is the view of dr jamie green , from delapre medical centre , who was speaking after the bbc revealed at least 100 surgeries nationally applied to stop taking on new patients in 2014/15 ,", 
+                "dr green said : `` we 're also seeing that some practices have got so few gps that actually nobody wants to go and work there ; and what that might mean is that rather than just closing lists you might actually see surgeries closing . ''"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d281c350000482bc9dd5d", 
+            "title": "saints alex king says media speculation was 'frustrating '", 
+            "text": [
+                "saints back coach alex king says he 's been frustrated by media speculation linking him to the england set-up .", 
+                "speaking to me earlier , he confirmed his future is with northampton saints :", 
+                "`` i think eddie has met most of the coaches and directors of rugby in england now , to get as much information as he can about his squad , moving into the six nations , '' he said .", 
+                "`` just because you have a conversation with eddie jones , does n't mean there 's any more to it . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d2645210000a72ab40d64", 
+            "title": "saints alex king : `` i 'm staying ''", 
+            "text": [
+                "northampton saints back coach alex king says he was never going to be leaving the club - despite speculation linking him with england .", 
+                "he was very clear about his future when i spoke to him earlier , saying : `` there 's been a lot of unfounded speculation and i 'm just glad that now i can move on and concentrate on the game ( against leicester ) on saturday . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d0eb0210000a72ab40d02", 
+            "title": "cold case murder detectives arrest man from raunds area", 
+            "text": [
+                "police in cambridgeshire say dawn raids by officers investigating an unsolved murder , have resulted in the arrests of eight people this morning - including one from northamptonshire .", 
+                "andrew bedford - who was 27 and from huntingdon - was last seen in september 1990 .", 
+                "cold case detectives think he was killed with a shotgun sometime during the evening of 28 september at a garage in ramsey .", 
+                "a 52-year-old man from the raunds area was arrested this morning on sus of assisting an offender and conspiracy to prevent lawful burial .", 
+                "he has been taken to march police station in cambridgshire for questioning ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cfb022100002927b40c8c", 
+            "title": "kettering cafe run by johnny 's happy place to extend opening times", 
+            "text": [
+                "a cafe run by the family and friends of a man who took his own life is to extend its opening hours due to its popularity ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568cf20e2100005c25b40c61", 
+            "title": "northants 'logistics hub ' perfect for rail central , says developer", 
+            "text": [
+                "freight interchanges like the proposed rail central development between blisworth and milton malsor are `` supported by the government as a whole , '' the developers have said .", 
+                "planning director for rail central , claire cope , said the 8m sq ft ( 743,200 sq metre ) facility , which would include warehouses and a lorry park , was a `` prime location '' with great connectivity .", 
+                "she said government policy encourages freight distribution and that northamptonshire `` is recognised as a logistics hub ' ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568d176e350000482bc9dd13", 
+            "title": "bmw confirms plan to expand its northampton warehouse and create 70 new jobs", 
+            "text": [
+                "car maker bmw has applied to expand its part distribution factory in northampton by 150,000 sq ft in a move it says would create 70 new jobs ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568cfb863e0000c3287e5f6a", 
+            "title": "lamborghini careers off a45 near higham ferrers and ends up in lake", 
+            "text": [
+                "two people managed to swim to safety after the lamborghini they were travelling in hit the central reservation and collided with another barrier before ending up in a fishing lake ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568d04c93e000091277e5f9d", 
+            "title": "latest headlines : raunds man arrested in cold case murder investigation gp surgeries call for more support from the government", 
+            "text": [
+                "the top stories in northamptonshire this lunchtime :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d0c6f350000652ac9dce0", 
+            "title": "man from raunds arrested in connection with murder 25 years ago", 
+            "text": [
+                "a man from the raunds area has been arrested in connection with the murder of a man in cambridgeshire 25 years ago .", 
+                "andrew bedford - who was 27 and from huntingdon - was last seen in september 1990 .", 
+                "the 52-year-old , from the raunds area , is one of eight people arrested in dawn raids this morning - on sus of assisting an offender and conspiracy to prevent lawful burial ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "12:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568d04ca2100005f28b40cc1", 
+            "title": "'crocoholic ' collector 's first buy 'looked pretty cool '", 
+            "text": [
+                "a self-proclaimed 'crocoholic ' who has more than 6,000 novelty crocodiles says he bought his first crocodile after his partner at the time sent him out to buy furniture .", 
+                "andrew grey said he `` thought it looked pretty cool '' ."
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568cd8a63e0000a6247e5eaa", 
+            "title": "northampton standpipe running since june 'will be turned off soon '", 
+            "text": [
+                "anglian water has pledged to find an alternative solution after unsuccessfully trying to flush a northampton water main since june ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568ce91b2100002927b40c2d", 
+            "title": "six people injured in serious accident near stoke albany", 
+            "text": [
+                "six people were injured following a four vehicle collision on the a427 near stoke albany last night - three of them seriously .", 
+                "a red vw bora , driven by a 26-year-old man , and a white mercedes axor lorry , driven by a 54-year-old man , were both travelling towards market harborough when the collision took place .", 
+                "a blue seat leon , driven by a 64-year-old man , and a grey vw fox , driven by a 27-year-old woman , were travelling in the opposite direction .", 
+                "the injured people were taken to kettering hospital , queens medical centre in nottingham and university hospital coventry ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cf6753500004829c9dc64", 
+            "title": "'political pressure ' is dampening down gp concerns , bma claim", 
+            "text": [
+                "richard vautrey , from the british medical association ( bma ) , says the government and nhs bosses need to be more honest about the serious pressures on gp surgeries .", 
+                "`` one of the issues they have is the political pressure from above to try and dampen down any concerns that gps are raising , but we ca n't hide from the problem that practices are raising right around the country , '' he said .", 
+                "`` we simply do n't have enough gp 's to deal with the rising workload pressures that practices are under . ''"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568ce90a2100002827b40c2c", 
+            "title": "witnesses of serious stoke albany accident urged to come forward", 
+            "text": [
+                "police are appealing for people who witnessed a serious four vehicle collision near stoke albany last night to contact them .", 
+                "the collision took place on the a427 near the stoke hill turning at 18:20 and involved a red vw bora , blue seat leon , grey vw fox and a white mercedes axor lorry .", 
+                "it 's believed the bora was overtaking the lorry when it had a minor collision with the leon , before colliding with the vw fox and the lorry ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568ce83c3e000061267e5f00", 
+            "title": "campaigners ask if new rail interchange is needed when dirft is n't at capacity ?", 
+            "text": [
+                "campaigners against a planned rail interchange in south northamptonshire say the facility is n't necessary because the daventry international rail freight terminal ( dirft ) is n't yet at capacity .", 
+                "developer ashfield land is talking to residents ahead of a full consultation on the plans , which would include warehouses , a lorry park , a service depot , and a hotel and pub .", 
+                "milton malsor parish councillor shaun hope said : `` dirft has still got another 17 years before it is at capacity so we are not sure why this is being considered at milton malsor and blisworth . ''"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568ce03e3e000061267e5ecf", 
+            "title": "northamptonshire gps say increased demand is 'putting patient safety at risk '", 
+            "text": [
+                "several family doctors and practice managers in northamptonshire say patients ' safety is being `` put at risk '' because gp surgeries are struggling to cope with demand .", 
+                "it comes as a bbc investigation reveals at least 100 surgeries nationally applied to stop taking on new patients in 2014/15 .", 
+                "half of them were ordered to stay open by the nhs , meaning surgeries already under pressure are being forced to take on new patients or face sanctions .", 
+                "despite this evidence , trish thompson from nhs england maintains there is no problem with list closures in northamptonshire , but doctors in the county have told bbc radio northampton that if they 're forced to keep lists open patient safety could be put at risk ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cd43f3e0000a4247e5e97", 
+            "title": "northampton town : new striker admits it was tough to leave shrewsbury", 
+            "text": [
+                "northampton town 's new striker james collins has admitted it was tough to leave his former club .", 
+                "the 25-year-old arrived at sixfields on loan until the end of the season yesterday , just 72 hours after captaining shrewsbury in what was his 154th game for them .", 
+                "he said : `` there 's some budget issues at shrewsbury and it 's not been going the way we wanted i spoke to the gaffer and we thought it would be best on all parties to make way and free up some money . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568ce4872100005c25b40c18", 
+            "title": "rail central plans would 'blight ' blisworth and milton malsor", 
+            "text": [
+                "a new strategic rail interchange earmarked for land between blisworth and milton malsor will `` blight '' the two villages .", 
+                "that 's the view of blisworth resident , mark redding , who said the `` immense project '' would ruin 250 hectares of farmland and cause 24/7 noise and light pollution .", 
+                "the 8m sq ft ( 743,200 sq metre ) rail central development is planned for land at arm farm in milton malsor ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cc8b63500004b26c9db7c", 
+            "title": "county 's pcc launches new community award", 
+            "text": [
+                "northamptonshire 's police and crime commissioner , adam simmonds , has launched a new award for people who make a difference in their community .", 
+                "the winner of the first commissioner 's award for outstanding contribution to northamptonshire will be announced in march with nominations open until the end of the month .", 
+                "leanne buckingham , from the commissioner 's office , said : `` for the commissioner it 's absolutely imperative we give back something when somebody gives it to us . ''"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "09:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cc7693e0000a8247e5e5a", 
+            "title": "english gp surgeries reach new patient 'breaking point '", 
+            "text": [
+                "large numbers of gp surgeries across the country have stopped taking on new patients , with at least 100 having applied to nhs england to stop accepting new patients in 2014/15 .", 
+                "it is a story bbc northampton 's elinor cross has been following in the county for some time , highlighted by the decision of kettering gp , dr hadrian moss , to close his list to new patients despite not having permission for nhs england to do so ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cc9ad2100007825b40b7f", 
+            "title": "school place deadline looms", 
+            "text": [
+                "parents across the county are being reminded that the deadline for applying for a school place for their child is just over a week away .", 
+                "families wanting to send a child to an infant or junior school in september have to get the forms filled in by 15 january ."
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568ccaba2100006d25b40b84", 
+            "title": "crocodile collector from northampton claims world record", 
+            "text": [
+                "a man who has collected more than 6,000 novelty crocodiles is claiming a new world record .", 
+                "andrew gray , who calls himself a 'crocoholic ' , keeps 6,739 crocodile related items at his home in burton latimer , northamptonshire .", 
+                "he is using the collection to raise money for two hos", 
+                "he said he became the official 'biggest collector of crocodiles in the world ' after breaking an existing record of 1,000 items .", 
+                "guinness world records could not be contacted for comment ."
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568cbdb63e00009f247e5e39", 
+            "title": "latest headlines : gp surgeries 'struggling to cope ' pcc launches new award", 
+            "text": [
+                "here are the top stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_568cbc9e3500004d26c9db56", 
+            "title": "today 's weather : fog and scattered showers", 
+            "text": [
+                "any early mist or fog will clear to leave some bright spells across the county with the chance of a shower in some places .", 
+                "maximum temperature : 7c ( 45f ) ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cc4603500004726c9db68", 
+            "title": "travel : queuing traffic on a508", 
+            "text": [
+                "there is queuing traffic in the roadworks on the a508 in boughton at the brampton lane junction .", 
+                "get the latest updates from bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_568cbb412100005c25b40b4f", 
+            "title": "welcome to local live for northamptonshire", 
+            "text": [
+                "good morning and welcome to today 's live page where we 'll be bringing you the latest news , weather , sport and travel for the county between now and 18:00 .", 
+                "if you want to get in touch then please email me , tweet us or head to facebook ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

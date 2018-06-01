@@ -1,0 +1,1214 @@
+{
+    "blog_id": "c1cf0e21d937534639f7149e9508f74c75c9fef5", 
+    "title": "BBC Local Live: Leicestershire on Friday 4 November 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-37870193", 
+    "summary": [
+        "david stokes died from stab wound to chest .", 
+        "post-mortems on sons adam and matthew not yet completed .", 
+        "woman found guilty of steak-knife murder .", 
+        "'neglect ' contributed to care home overdose death .", 
+        "vardy and mahrez make shortlist for best fifa men 's player .", 
+        "ranieri : schmeichel operation 'went well ' .", 
+        "airport closing for 48 hours on saturday evenings .", 
+        "updates for friday 4 november 2016 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_581cc3c7e4b05d511bb30e6a", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from local live for this week .", 
+                "updates will start again on monday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cc1ace4b0ece2f905caca", 
+            "title": "weather : chance of hail tomorrow", 
+            "text": [
+                "scattered showers for some this evening , especially in the west .", 
+                "further east it 'll be mostly dry with clear spells .", 
+                "overnight cloud will increase , with a few showers pushing through during the early hours and lows of 5c ( 41f ) .", 
+                "a colder day tomorrow with a blustery northerly wind developing ."
+            ], 
+            "author": [
+                "Kay Crewdson", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cb8e1e4b05d511bb30e2f", 
+            "title": "latest headlines for leicestershire", 
+            "text": [
+                "latest headlines for leicestershire"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cbd47e4b0ece2f905cab6", 
+            "title": "your comments : new abbey park footbridge", 
+            "text": [
+                "on facebook you 've been commenting on plans for a new footbridge connecting abbey park with belgrave road .", 
+                "jerry wilson says : `` i 'm sure its a very nice bridge , but i cant help think that \u00a3 1.3m could be better spent on more needy causes , like homes for the homeless , or health care issues . ''", 
+                "mandy clarke says : `` not necessary at all waste of money ! ! ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cc21ce4b0ece2f905cacc", 
+            "title": "travel : glenhills way closed", 
+            "text": [
+                "looks like they 've closed the road now", 
+                "glenhills way is closed just after the pork pie island in one direction and after soar valley way in the other"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cbedbe4b0ece2f905cabd", 
+            "title": "travel : crash in leicester", 
+            "text": [
+                "i think they mean blocked", 
+                "accident on glenhills way ( a563 ) only just passable from soar valley way end but the carriageway is clocked from the pork pie island end"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cbe5ce4b05d511bb30e4d", 
+            "title": "care home apologises for 'unacceptable ' death", 
+            "text": [
+                "we 've now had a statement from the cedar court care home about the death of patricia rosen .", 
+                "we are deeply sorry for the failings that led to this tragic and unacceptable death , and our thoughts and feelings remain with the family .", 
+                "we have worked extremely hard to ensure that lessons have been learnt and this must never occur again .", 
+                "this includes putting in place rigorous and robust protocols and ending our contract with the nursing agency in question . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cb701e4b0ece2f905ca94", 
+            "title": "police : stab victim could have survived", 
+            "text": [
+                "`` it has been incredibly difficult for james ' family to sit through the trial and hear how she lied , was deceitful and sat back and watched him die .", 
+                "if she had up the phone to the ambulance service earlier and been truthful about his injuries he may have still been here today . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cb62ae4b0ece2f905ca90", 
+            "title": "murderer delayed getting her victim help", 
+            "text": [
+                "magson had denied murder , claiming mr knight was strangling her and her actions were in self-defence .", 
+                "the prosecutor in court said magson had `` sacrificed '' her partner by waiting about 40 minutes to call an ambulance to tend to mr knight as he lay dying .", 
+                "police say when she did call she did n't mention he 'd been stabbed - just that he 'd `` collapsed on her '' ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581cb441e4b05d511bb30e1b", 
+            "title": "woman found guilty of steak knife murder", 
+            "text": [
+                "a woman who stabbed her boyfriend to death with a steak knife has been found guilty of murder .", 
+                "emma-jayne magson from sylvan street in leicester knifed james knight in the chest during an argument on 27 march .", 
+                "the 23-year-old will be sentenced on monday ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581cb1d8e4b0455bb82a9224", 
+            "title": "breakinghinckley deaths : children formally identified", 
+            "text": [
+                "the post-mortem examinations on the two children have yet to be completed .", 
+                "however , the boys have now been formally identified as 11-year adam stokes and his brother five-year-old matthew ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581cb0d5e4b05d511bb30e06", 
+            "title": "breakingdavid stokes died from stab wound", 
+            "text": [
+                "a post-mortem examination has revealed david stokes died from a stab wound to the chest .", 
+                "the 43-year old was found dead at a house in hinckley on wednesday along with his two sons ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cae6ee4b05d511bb30dfd", 
+            "title": "your photos : november in leicestershire", 
+            "text": [
+                "as it 's weather watchers birthday today , why not show you a few more ?", 
+                "these were taken by suej in ab kettleby and scrappy in loughborough - keep up the good work ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581cac68e4b0ece2f905ca6a", 
+            "title": "your photos : autumn trees", 
+            "text": [
+                "here are just two of the lovely autumn photos uploaded from leicestershire today .", 
+                "the photo on the left was taken by catuk85 on a lunchtime stroll in castle donington .", 
+                "the one on the right comes from scrappy in loughborough ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581ca7b8e4b0ece2f905ca51", 
+            "title": "surprising stories from leicestershire", 
+            "text": [
+                "i 've been out into our wonderful county in search of our past along with peter liddle - a retired county archaeologist .", 
+                "we went to the far south east of leicestershire to a tiny place called bringhurst with an enormous history .", 
+                "this is inside st nicholas church in the village", 
+                "hear all about the history of it here ( about an hour and 10 minutes in ) ."
+            ], 
+            "author": [
+                "Ben Jackson", 
+                "BBC Radio Leicester presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581ca961e4b0ece2f905ca5d", 
+            "title": "knives handed in across the city", 
+            "text": [
+                "police have tweeted an update on the amount of knives handed in at the six police stations in leicester during their knife amnesty", 
+                "107 knives handed in during the first 2 weeks of our # livesnotknives amnesty .", 
+                "why not hand yours in and make it 108 ?"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581ca422e4b05d511bb30dc7", 
+            "title": "weather watchers : one year on", 
+            "text": [
+                "here 's a selection of photos taken by weather watchers in leicestershire and rutland - on display in reception at bbc leicester", 
+                "if you 'd like to become a weather watcher , you can sign up here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c837ae4b0455bb82a9141", 
+            "title": "community to raise money for memorial", 
+            "text": [
+                "a justgiving page has been set up to raise money for a memorial for adam and matthew stokes .", 
+                "it 's been organised by parents who say their son was close friends with 11-year-old adam - they have set a target of \u00a3 5,000 .", 
+                "the two brothers and their father were found dead at their home in welwyn road , hinckley on wednesday ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c8c88e4b0455bb82a916f", 
+            "title": "anti-islamic teacher banned indefinitely", 
+            "text": [
+                "a religious education teacher at a leicester school has been struck off for expressing anti-islamic views , attending far right marches and working as a security guard while off sick .", 
+                "nicholas hall faced a professional conduct panel after a number of allegations were made against him while teaching at soar valley college .", 
+                "he was also found guilty of allowing pupils to watch an 18 certificate film and accessing pornographic websites on a college laptop ."
+            ], 
+            "author": [
+                "Neil Heath", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c8fe7e4b0ece2f905c9d4", 
+            "title": "watch : press conference verdict", 
+            "text": [
+                "here are my thought 's on today 's press conference and the fifa award nominations ."
+            ], 
+            "author": [
+                "Ian Stringer", 
+                "BBC Radio Leicester Foxes commentator"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5f18e4b0455bb82a9078", 
+            "title": "happy birthday weather watchers", 
+            "text": [
+                "it 's a year since the bbc launched its weather watchers website .", 
+                "if you have n't signed up to it already , register now , and start sharing your weather reports with others across the country ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c8cb7e4b05d511bb30d5c", 
+            "title": "watch : nurse who gave the accidental overdose", 
+            "text": [
+                "mariana birsesteanu spoke to me about the night she gave patricia rosan the fatal overdose"
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c884ee4b0455bb82a915b", 
+            "title": "foxes make award shortlist", 
+            "text": [
+                "jamie vardy and riyad mahrez have been named on the shortlist for the best fifa men 's player 2016 award .", 
+                "i guess we can should mention that former fox n'golo kante is also on the list ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "21:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c80f0e4b0455bb82a9136", 
+            "title": "family believes care home death was 'wholly avoidable '", 
+            "text": [
+                "`` while our mum was frail , her tragic death at cedar court that night was wholly avoidable .", 
+                "we hope that the coroner 's conclusions will serve to remind all nursing staff of the need to adhere to medication protocols and that the safety of residents and the training of , and support for , staff in their homes should always be at the forefront of their minds . ''"
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c7f57e4b0ece2f905c97c", 
+            "title": "patricia rosen had been 'looking forward ' to moving into cedar court", 
+            "text": [
+                "`` the family wish to thank the coroner for leading an extremely fair , empathetic , comprehensive and diligent inquest into the death of our mum .", 
+                "our mum , a nurse herself for much of her life , had been in declining health for a number of years and had been in hospital for four months prior to going to cedar court but she was a strong-willed woman with a zest for life , who came through many problems and was very much looking forward to moving into the home . ''"
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c7cffe4b0ece2f905c96f", 
+            "title": "latest leicestershire headlines", 
+            "text": [
+                "latest leicestershire headlines"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c7952e4b0ece2f905c957", 
+            "title": "rowdiness and petty crime by street drinkers", 
+            "text": [
+                "police want a shop to be stopped from selling strong beer , lager and cider because of drink-fuelled anti-social behaviour around new walk ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c75a1e4b0ece2f905c946", 
+            "title": "care home overdose : 'changes made '", 
+            "text": [
+                "patricia rosen died at the home on 18 february 2013 - at this time international nurses working in the uk were not made to carry out a language test .", 
+                "this has since changed .", 
+                "procedures at the care home have also changed to try to prevent this from happening again ."
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c746de4b0ece2f905c93f", 
+            "title": "nurse 'struggled to understand care home drug system '", 
+            "text": [
+                "the coroner found there was no proper care plan in place for patricia rosen .", 
+                "she 'd only been there a few hours when she was given the fatal medication .", 
+                "the coroner said the unit was short staffed and that agency nurse marianna birasteanu , who administered the medication , had poor english and struggled to understand the drug system at cedar court ."
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c7247e4b0ece2f905c932", 
+            "title": "breaking'neglect contributed to care home overdose death '", 
+            "text": [
+                "a coroner has concluded that neglect at cedar court care home in wigston contributed to the death of patricia rosen .", 
+                "the 78-year-old was given 16 times her usual dose of the painkiller oxycodone , which was meant for another resident called patricia ."
+            ], 
+            "author": [
+                "Rob Sissons", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c6cf8e4b05d511bb30cb3", 
+            "title": "thousands expected at bonfire display", 
+            "text": [
+                "it 's that time of the year again yes bonfire night is upon us .", 
+                "i 've been over to leicester racecourse , speaking to the event organiser for their display .", 
+                "vicki blunt from the rainbows charity told me more than 10,000 people are expected to attend and she hopes to raise a staggering \u00a3 40,000 .", 
+                "with two magical firework displays and a huge bonfire , it 's sure to be a toasty night ahead ."
+            ], 
+            "author": [
+                "Helen McCarthy", 
+                "BBC Radio Leicester Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c6b46e4b0455bb82a90ba", 
+            "title": "listen : ranieri talks about schmeichel 's injury", 
+            "text": [
+                "we asked claudio if kasper said anything about his hand hurting at half time"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c6a36e4b0455bb82a90b9", 
+            "title": "led lighting to be installed on runway", 
+            "text": [
+                "the first of the 48-hour airport closures starts tomorrow at 20:00 - it 'll then reopen at the same time on monday .", 
+                "this will continue until monday 19 december .", 
+                "as well as being resurfaced , led lighting is also being added to the runway ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c5bdde4b05d511bb30c75", 
+            "title": "airport closing runway for repairs", 
+            "text": [
+                "if you were looking to use east midlands airport over the next few weeks you might have noticed an unusual lack of flights on certain days - that 's because the airport is closing for resurfacing between saturday and monday evenings .", 
+                "usually this is done in a full 14-day block but , for the first time ever in the uk , east midlands airport is doing it in seven 48-hour blocks .", 
+                "over seven weeks , in other words ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c673be4b0455bb82a90a7", 
+            "title": "ranieri thanks players for nomination", 
+            "text": [
+                "earlier this week we found out claudio ranieri was on the shortlist for fifa best men 's coach .", 
+                "he told us : it 's amazing .", 
+                "i can only say thank you to my players .", 
+                "leicester made something special . ''"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c6647e4b0ece2f905c8e9", 
+            "title": "ranieri on schmeichel 's fractured hand", 
+            "text": [
+                "claudio ranieri has been speaking about kasper schmeichel at the leicester city press conference - he 's confirmed he 's out for four to six weeks with a fractured hand .", 
+                "he said : last night he had an operation .", 
+                "the surgeon said he 's ok .", 
+                "the hands for the keepers as with the boxer is very important . ''", 
+                "the boss said he has confidence in his replacement goalkeeper ron-robert zieler ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c648de4b0ece2f905c8e5", 
+            "title": "a message from kasper", 
+            "text": [
+                "we found out yesterday that leicester city 's keeper had fractured his hand , and this morning he 's tweeted this message", 
+                "my operation went well last night .", 
+                "thank you for all the messages of support .", 
+                "deeply frustrating but i 'll do all i can to be back asap", 
+                "tnk god for succ\u00e8s in operation", 
+                "worlds number 1 for me", 
+                "hope you 're on the mend soon mate !", 
+                "you will be missed .", 
+                "p1", 
+                "how was your beef stroganoff champ !", 
+                "# champ # hospital # food", 
+                "glad to hear you are doing ok. be good to see you back when you are ready", 
+                "hope you 're feeling better", 
+                "glad it went well well fella , get well soon !", 
+                "your a legend", 
+                "get well sonn kasper", 
+                "get well soon .", 
+                "we will miss you", 
+                "@ twitterid hope you get better soon dude", 
+                "pls , get very very fast ok !", 
+                "one love", 
+                "get well soon sir !", 
+                "we 're not the same without you controlling the back", 
+                "best of luck with your recovery .", 
+                "ca n't wait for the danish fox to return !", 
+                "the movie inferno is so so good", 
+                "good luck , rest well and see you back in no time ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c642de4b0ece2f905c8e1", 
+            "title": "your photos : a dull start in south wigston", 
+            "text": [
+                "not a very cheerful photo , but weather watching is n't all blue skies and sunshine !", 
+                "thanks to xkizzi for uploading this photo of a lock in south wigston , where they had quite a dull and damp start ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c6388e4b0455bb82a9093", 
+            "title": "band excited about download 's 'energy and atmosphere '", 
+            "text": [
+                "system of a down previously headlined donwload in 2005 and 2011 .", 
+                "the band said : `` it 'll have been a couple of years since our memorable wake up the souls show at wembley , so returning to the uk to headline download , a festival we always love to play , is really exciting for us .", 
+                "the energy and atmosphere there is always electric . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c623de4b05d511bb30c8f", 
+            "title": "download announces 2017 headliners", 
+            "text": [
+                "haavy metal band system of a down will headline donington 's download festival for the third time next year", 
+                "they 'll be joined at the top of the bill by aerosmith and biffy clyro ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5fc4e4b05d511bb30c86", 
+            "title": "wigston 's big worms", 
+            "text": [
+                "following the excellent news about dave the record breaking worm i was sent on a hunt to find `` worms and a worm expert ''", 
+                "i arrived at wigston tackle fishing shop as it opened , and brian allen was only to happy to show off the size of his .", 
+                "you can buy 50 of the 20cm-long variety for \u00a3 16 , and apparently they fly off the shelves ."
+            ], 
+            "author": [
+                "Helen McCarthy", 
+                "BBC Radio Leicester Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5eece4b0455bb82a9077", 
+            "title": "foxes hand out danish treats for the press", 
+            "text": [
+                "lovely comedy from lcfc - 36 hours after playing a champions league game in denmark , danish pastries have been put out"
+            ], 
+            "author": [
+                "Ian Stringer", 
+                "BBC Radio Leicester Foxes commentator"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5c8ce4b0ece2f905c8bb", 
+            "title": "foxes press conference ahead of west brom match", 
+            "text": [
+                "another quiet one at lcfc .", 
+                "given it 's his fifth press conference in just over a week i 'm not surprised .", 
+                "a few injuries and formation questions to get us going , i 'd imagine ."
+            ], 
+            "author": [
+                "Ian Stringer", 
+                "BBC Radio Leicester Foxes commentator"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c57e6e4b05d511bb30c60", 
+            "title": "a 56-mile walk to loughborough for charity", 
+            "text": [
+                "a father and son walked from stoke-on-trent to loughborough to raise funds to help a children 's orphanage in uganda ."
+            ], 
+            "author": [
+                "Loughborough Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c573de4b0ece2f905c89e", 
+            "title": "fifa to announce best men 's player shortlist", 
+            "text": [
+                "the 23-man shortlist for the fifa best men 's player will be announced this afternoon - will vardy or mahrez feature ?"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5526e4b0ece2f905c895", 
+            "title": "foxes international call-up", 
+            "text": [
+                "foxes daniel amartey and jeff schlupp have been called up by ghana for this month 's world cup qualifier against egypt in alexandria .", 
+                "bartosz kaputska has also been named in the poland squad for their upcoming international matches against romania and slovenia ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c543ee4b0455bb82a9043", 
+            "title": "mayor claims new bridge could mean more 'major events '", 
+            "text": [
+                "abbey park is already the venue for hugely popular events such as bonfire night , and a bridge with the capacity to carry a larger number of people will not only be helpful to existing events , but could also increase the potential for abbey park to host further major events and attractions . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c52bee4b05d511bb30c47", 
+            "title": "new plans for abbey park footbridge", 
+            "text": [
+                "the city council have revealed plans for this - a new , five-metre wide footbridge connecting abbey park to belgrave road .", 
+                "last year , the idea was to build a three-metre wide one , but they 've since decided a wider bridge might be better .", 
+                "they said it would be more suitable when there are large numbers of people crossing - for example on bonfire night ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c5020e4b0ece2f905c87b", 
+            "title": "internationals in anglo welsh cup squad", 
+            "text": [
+                "leicester tigers pay bath tonight in their opening game in the anglo-welsh cup .", 
+                "tomas leonardi starts at number eight and prop pat cilliers is among the replacements after recovering from a groin injury .", 
+                "tom croft is also included in the 23 for the first time this season after having the start of his campaign delayed by a back injury ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c4c16e4b0ece2f905c865", 
+            "title": "latest leicestershire headlines", 
+            "text": [
+                "latest leicestershire headlines"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c4e14e4b0455bb82a901f", 
+            "title": "'beautiful ' vigil for stokes family", 
+            "text": [
+                "father frank daly described the vigil and service as `` very beautiful indeed '' ."
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c4ca3e4b0455bb82a9017", 
+            "title": "foxes press conference", 
+            "text": [
+                "in sport news , claudio ranieri is due to speak to the media this morning - we 'll give yo updates on all the key quotes and headlines from 10:00 ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c471fe4b0455bb82a8ff9", 
+            "title": "tears for stokes family", 
+            "text": [
+                "some heartbreaking messages for adam and matthew at the vigil last night ."
+            ], 
+            "author": [
+                "Helen Astle", 
+                "BBC East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c4b6ae4b0455bb82a9013", 
+            "title": "mercury front page", 
+            "text": [
+                "more from the stokes family vigil in the leicester mercury today ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c47fae4b0455bb82a8ffd", 
+            "title": "weather watchers : autumn sunrise", 
+            "text": [
+                "if you 've been admiring the beautiful photo at the top of today 's page i should probably tell you where it 's from", 
+                "it was taken but one of our trusty bbc weather watchers known as andy 's rutland .", 
+                "it shows the sunrise over empingham , with rutland water beyond ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c44c9e4b0ece2f905c839", 
+            "title": "man charged with bede park rape", 
+            "text": [
+                "in other news , police have charged a man with raping a woman in bede park in leicester at the weekend .", 
+                "michal cezary podlaszczyk , of no fixed address , is accused of three counts of rape , one count of assault abh , sexual touching , assault by penetration , attempted theft , theft and robbery .", 
+                "he 's due to appear at leicester magistrates ' court today ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c42cce4b0ece2f905c82b", 
+            "title": "emmanuel ties ribbon in memory of classmate", 
+            "text": [
+                "five-year-old emmanuel went to school with matthew stokes - last night he tied a ribbon to remember him ."
+            ], 
+            "author": [
+                "Helen Astle", 
+                "BBC East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c4224e4b05d511bb30bee", 
+            "title": "how the community is feeling", 
+            "text": [
+                "at the vigil last night , one person told me : `` i had to be here , it 's not personally affected me because i did n't know them but it 's really , really come close to home . ''", 
+                "another said : `` we knew the family - beautiful children , just a normal lovely family , loving mum and dad . ''"
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c423ae4b0ece2f905c826", 
+            "title": "east midlands weather forecast", 
+            "text": [
+                "heads up !", 
+                "could be some hail this afternoon"
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c401ae4b05d511bb30bdc", 
+            "title": "children leave messages for family", 
+            "text": [
+                "after the service , children in their school uniform hung ribbons and messages around the church garden .", 
+                "one read : `` loved loads , sorely missed . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c3eb9e4b0ece2f905c80f", 
+            "title": "hundreds attend vigil for hinckley family", 
+            "text": [
+                "i 'll start off this morning with more on that tragic story about the deaths of a man and two children at a house in hinckley .", 
+                "last night hundreds of people went to a vigil for david , adam and matthew stokes at st peter 's church in the town .", 
+                "these are some of the candles that were lit for them ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_581c3c7ce4b0455bb82a8faf", 
+            "title": "travel : lights broken", 
+            "text": [
+                "# leicester traffic lights are not working at the narborough rd/braunstone ln junction .", 
+                "engineer on the way .", 
+                "care needed on all approaches ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_581c3d34e4b05d511bb30bc8", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "happy friday leicestershire - i hope you 're well this morning .", 
+                "i 'll be writing the updates on your local live page today with all the latest news , sport , weather and travel .", 
+                "it 's always nice to hear from you so if you 'd like to share a story or comment on one we 're talking about you can send an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

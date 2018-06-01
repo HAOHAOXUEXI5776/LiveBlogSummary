@@ -1,0 +1,843 @@
+{
+    "blog_id": "21dcfb17dae6a679945574baf04f2615d7ab484d", 
+    "title": "BBC Local Live: Shropshire on Wednesday 15 June 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-shropshire-36491070", 
+    "summary": [
+        "sex abuse trials of ex head teacher , 97 , halted .", 
+        "school refuses to screen brexit film .", 
+        "firefighters travel to romania to donate refurbished engines .", 
+        "updates on wednesday 15 june 2016 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "sty_36542372", 
+            "title": "sex abuse trials of ex-head , 97 , halted", 
+            "text": [
+                "sex abuse trials of ex-head , 97 , halted"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57618703e4b0902cf32b090f", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back from 08:00 tomorrow with the usual mix of news , sport , travel , your and weather - but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57618085e4b06c65bdc3698a", 
+            "title": "weather : rain showers should clear overnight", 
+            "text": [
+                "we 're due some more showers across shropshire this evening , but they will clear overnight ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57615dcae4b0902cf32b080a", 
+            "title": "'tour de cake ' around newport today", 
+            "text": [
+                "the newport cycling club is holding a popular race with a difference this evening - the tour de cake .", 
+                "it 's described as a gentle ride of about 15 miles ( 24km ) with a halfway stop for tea and cakes .", 
+                "the race starts at 18:30 in the town centre ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57617bb4e4b0902cf32b08dc", 
+            "title": "on midlands today this evening : getting the midlands ' mood on eu referendum", 
+            "text": [
+                "in just over a week , thousands of us will take to the polls to vote on whether to leave or stay in the european union .", 
+                "and all this week i 've been taking a road trip through the heart of britain to gauge the mood on the streets .", 
+                "find out what i 've found in my latest stop on midlands today this evening on bbc one - at the slightly earlier time of 18:25 .", 
+                "the @ twitterid # euref road trip has taken a thespian twist in oldbury today"
+            ], 
+            "author": [
+                "Patrick Burns", 
+                "Political editor, Midlands"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57616df0e4b06c65bdc36917", 
+            "title": "car crashes into hedge near bridgnorth", 
+            "text": [
+                "the fire service has had to cut a person free from their car after a two-car crash which ended with one vehicle in a hedge .", 
+                "the ambulance service says it was called out at 14:42 to the b4176 at stableford , just outside bridgnorth , and the patient was taken to telford 's princess royal hospital with chest injuries caused by the seatbelt ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57616ea2e4b0902cf32b0890", 
+            "title": "ludlow riverside homes 'will not block country view '", 
+            "text": [
+                "artist 's impressions have been released to show that homes planned for the last piece of green space along a ludlow 's riverside would not hide views of the countryside ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57618357e4b06c65bdc3699f", 
+            "title": "travel : overturned vehicle causing problems on m54 eastbound", 
+            "text": [
+                "an overturned vehicle between junction three , for albrighton , and two , for wolverhampton , is causing delays on the m54 eastbound this evening .", 
+                "queues are stretching back to junction four , for shifnal ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57617dece4b0fdc373273588", 
+            "title": "watch : out-of-use fire engines are shipped out to romania", 
+            "text": [
+                "earlier today , three out-of-use shropshire fire engines set off on the long journey to transylvania , in romania .", 
+                "they 're being donated to the fire service over there .", 
+                "we heard from the president of the charity behind this , steve worrall ."
+            ], 
+            "author": [
+                "Sam Fleet", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576179dbe4b0902cf32b08cf", 
+            "title": "former head teacher one of oldest defendants to stand trial in england and wales", 
+            "text": [
+                "the former head teacher jack mount was one of the oldest defendants ever to face trial in england and wales .", 
+                "and in a statement after being cleared of a number of sex abuse charges , the 97-year-old said it had been `` a difficult and trying process '' .", 
+                "he also said he was `` delighted '' proceedings had been halted ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57615b5fe4b0fdc373273499", 
+            "title": "cow rescued from reservoir", 
+            "text": [
+                "a cow has been rescued from a reservoir at quatford .", 
+                "firefighters were able to clear a path down to the water and set up a ramp and then pull the animal out with rope attached to the back of a 4x4 .", 
+                "it took about two hours to get the cow out ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57617aeee4b0902cf32b08d6", 
+            "title": "headlines : 97-year-old head teacher cleared of historical sex offences ; school explains brexit film decision ; cow rescued", 
+            "text": [
+                "these are our headlines this evening :", 
+                "- 97-year-old former head teacher cleared of historical sex offences", 
+                "- school explains why it refused to screen brexit film", 
+                "- cow rescued from reservoir"
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576177e8e4b06c65bdc3694b", 
+            "title": "former head teacher cleared of historical sex offences", 
+            "text": [
+                "a 97-year-old former head teacher has been cleared of a number of sex abuse charges , some of which were alleged to have taken place at a school in shropshire in the 1960s and 70s .", 
+                "juries in two trials found jack mount not guilty of on charges relating to three complainants and judge geoffrey mercer qc dismissed jury members in the second trial after they failed to agree verdicts on a number of other charges .", 
+                "a third trial concerning further sex abuse allegations will not go ahead because of a deterioration in the defendant 's medical condition .", 
+                "mr mount now lives in devon and always maintained his innocence ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_36540355", 
+            "title": "school refuses to screen brexit film", 
+            "text": [
+                "school refuses to screen brexit film"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576169fbe4b06c65bdc36900", 
+            "title": "pictures : tong castle as it used to look before demolition", 
+            "text": [
+                "these days tong castle is a ruin , but before it fell into disuse and was demolished , it was an impressive building .", 
+                "this is owned by landscape historian advolly richmond , who is taking groups on a tour around the ruins at the end of the month .", 
+                "the building went through a number of redesigns as it passed from owner to owner , over the centuries .", 
+                "and in the foreground you can see the lake , which was designed to look like a river ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576133c9e4b0fdc373273382", 
+            "title": "weather watchers : grey skies all over the county", 
+            "text": [
+                "it 's pretty grim all over the county , looking at these photos from the bbc weather watchers .", 
+                "they were taken a short time ago in badger ( top ) and ludlow ( bottom ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576131bee4b0fdc37327336c", 
+            "title": "wind turbine parts to travel through shropshire", 
+            "text": [
+                "huge wind turbine parts ( like the one below ) will be transported through north shropshire from the end of the month .", 
+                "they 're needed for the tir gwynt wind farm near carno , in powys , which has been planned for almost a decade .", 
+                "part of the delay has been down to rows over transporting the parts , which will need to come along the a483 from wrexham and through welshpool and has meant some roads being widened .", 
+                "a trial journey has been set for 30 june , with more regular deliveries from the end of july ."
+            ], 
+            "author": [
+                "Andrew Hewkin", 
+                "Newsreader, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57615d2be4b06c65bdc3689b", 
+            "title": "headlines : school explains brexit film decision ; tcat disappointed with ofsted rating ; cow rescued", 
+            "text": [
+                "these are our top stories this afternoon :", 
+                "- school explains decision to cancel brexit movie showing", 
+                "- tcat 'disappointed ' with inadequate ofsted rating", 
+                "- cow rescued from reservoir"
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576123f5e4b0fdc3732732fd", 
+            "title": "traders concerned about ludlow supermarket plans", 
+            "text": [
+                "plans for a new supermarket just outside ludlow are worrying a number of local traders , who have written to shropshire council objecting to the plans .", 
+                "they say they 're concerned it will draw shoppers out of the town and jeanette rowlatt , from the chocolate gourmet store , told us the town is n't big enough for another superstore .", 
+                "the applicant says its research shows there is clear need for another food store and people are travelling to other towns to do their shopping at the moment .", 
+                "i 'm really worried that ludlow will lose its healthy market town feel with yet another supermarket"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57613bb6e4b06c65bdc367af", 
+            "title": "pictures : fire engines get big clean before romania trip", 
+            "text": [
+                "shropshire firefighters are driving a convoy of old fire engines to romania this afternoon as part of a charity project .", 
+                "before they left , the engines got a last-minute clean .", 
+                "as well as donating redundant firefighting equipment , they 'll also be re-decorating an old people 's home and visiting a children 's refuge ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57614b5ee4b06c65bdc36817", 
+            "title": "watch : tornado-like shapes in midlands skies", 
+            "text": [
+                "tornado-like shapes called funnel clouds have been forming in skies above the west midlands .", 
+                "these images were captured yesterday by matthew lee hancox in shrewsbury , helen vann in north rugby and robert brooker , east of coventry .", 
+                "and earlier today , jason mason burns , near droitwich , spotted the same meteorological phenomenon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57614331e4b06c65bdc367ea", 
+            "title": "school explains its decision to cancel brexit movie showing", 
+            "text": [
+                "church stretton school has explained its decision to cancel a screening of brexit the movie last night .", 
+                "it claims when leave campaigners booked the room , it was not obvious the film was designed to support one side of the eu referendum argument .", 
+                "the school accepts it should have checked , but says it `` takes its responsibility to remain impartial on such matters very seriously '' ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5761263ce4b0902cf32b0681", 
+            "title": "watch : capability brown 's lake at tong going on show", 
+            "text": [
+                "it 's not just the ruins of capability brown 's tong castle which are being opened up to the public at the end of the month .", 
+                "visitors will also get to see this lake , which he designed to look like a winding river .", 
+                "the tours of the site are being timed to coincide with the 300th anniversary of the birth of the landscape architect , who also designed the grounds at nearby weston park ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57612d7ee4b0902cf32b06b7", 
+            "title": "unemployment rises in west midlands", 
+            "text": [
+                "unemployment in the west midlands rose in the past three months , according to official figures .", 
+                "the total increased to 159,000 in the february-to-april period , up by 7,000 from the previous quarter , the office for national statistics ( ons ) said ."
+            ], 
+            "author": [
+                "Daniel Wainwright", 
+                "Data unit - English regions"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57613935e4b0902cf32b070b", 
+            "title": "fire service attempting to rescue cow in reservoir", 
+            "text": [
+                "the fire service are attempting to rescue a cow stuck in a reservoir at quatford .", 
+                "they were called out at 11:08 ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576136ece4b0fdc37327339e", 
+            "title": "headlines : college rated inadequate ; brexit campaigners ' anger at school ; ruins and lake opening to public", 
+            "text": [
+                "our top stories this lunchtime :", 
+                "- inspectors rate telford college of arts and technology inadequate", 
+                "- brexit campaigners angry after school cancels campaign video screening", 
+                "- capability brown ruins and lake to be opened up to visitors"
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57611923e4b0fdc3732732b2", 
+            "title": "ice hockey : tigers looking for two more imports", 
+            "text": [
+                "telford tigers are looking to bring in two more overseas players to improve their forward line .", 
+                "they 're allowed five foreign players in total and already have polish netminder ondrej raszka ( and the returning jason silverthorn and doug clarkson .", 
+                "head coach tom watkins said that with their strength in defence , adding more forwards is a `` no brainer '' , but has n't revealed who he is targeting .", 
+                "the decision to go with four import forwards for next season was made a long time ago .", 
+                "it was very easy to opt for that , along with the import netminder"
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5761340ce4b0fdc373273384", 
+            "title": "weather : more rain forecast this afternoon", 
+            "text": [
+                "there is more heavy rain forecast for shropshire this afternoon ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57610f03e4b06c65bdc3667f", 
+            "title": "telford college of arts and technology branded inadequate", 
+            "text": [
+                "one of shropshire 's biggest colleges has been branded inadequate .", 
+                "telford college of arts and technology has already been criticised by the skills funding agency and the further education commissioner .", 
+                "now ofsted inspectors have condemned it for low exam results and say lessons are dull and uninspiring .", 
+                "they say achievement is low ; attendance is low and getting lower ; apprentices make slow progress ; and governors and managers are not acting quickly enough to tackle poor performance .", 
+                "interim principal jo lomax says she 's disappointed and recent funding reductions have been `` very challenging '' .", 
+                "earlier this year , chris scott , who had been in charge for almost two years , stepped down , saying unprecedented cuts in finance in the further education sector had changed the principal 's job beyond recognition ."
+            ], 
+            "author": [
+                "Tim Page", 
+                "News Editor, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576105e8e4b0fdc37327323a", 
+            "title": "heavy downpours set to continue across shropshire today and tomorrow", 
+            "text": [
+                "there 's no let up in sight to the heavy rain over shropshire , with weather warnings in place for heavy downpours today and tomorrow .", 
+                "yesterday , police had to rescue a motorist from floods near lilleshall and buildings were flooded across the county , from criftins to donnington ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576100d0e4b06c65bdc36636", 
+            "title": "firefighters leave for romania to donate refurbished fire engines", 
+            "text": [
+                "shropshire firefighters are due to leave for romania this lunchtime , to donate three redundant fire engines they 've bought and refurbished .", 
+                "they 've been regular visitors to the country in recent years .", 
+                "they 'll drive the fire engines across europe and will fly back next week ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57611e75e4b06c65bdc366dc", 
+            "title": "anger over decision not to screen brexit movie", 
+            "text": [
+                "campaigners who want britain to leave the eu are complaining they were n't allowed to put on a showing of `` brexit the movie '' at church stretton school .", 
+                "they said the school agreed in april to the hiring of the auditorium , but changed its mind last week , blaming election guidelines .", 
+                "the school has not yet commented , but the department for education says while the regional schools commissioner would advise academies if asked , the decision rests with schools themselves ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57611c2ee4b0902cf32b0634", 
+            "title": "on air : jim 's asking who should get priority on public transport ?", 
+            "text": [
+                "on the jim hawkins programme this morning , jim 's asking who should be given priority when travelling on public transport ?", 
+                "wheelchair users ?", 
+                "parents with buggies ?", 
+                "elderly people ?", 
+                "or should it be every person for themselves ?", 
+                "it comes after a wheelchair user , who could n't travel on a bus because a mother with a children 's buggy refused to move from the wheelchair space , is taking his case to the supreme court today .", 
+                "the outcome of doug paulley 's case for unlawful disability discrimination could have major implications for bus and train companies .", 
+                "you can call jim on ( 01743 ) 248321 or text him on 81333 and start your text with the word shrop .", 
+                "you can also email jim , tweet him or get in touch via the facebook page ."
+            ], 
+            "author": [
+                "Jim Hawkins Show"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576116a6e4b0fdc3732732a6", 
+            "title": "headlines : college rated inadequate ; more telford council land could be sold ; firefighters ' mission to romania", 
+            "text": [
+                "these are our top stories this morning :", 
+                "- telford college of arts and technology rated inadequate", 
+                "- more land and property could be sold by telford and wrekin council", 
+                "- firefighters taking out-of-use fire engines to romania"
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57610c68e4b0fdc373273265", 
+            "title": "chance to visit demolished castle next to motorway", 
+            "text": [
+                "a landscape historian has been given permission to take a few groups of visitors to see what 's left of tong castle .", 
+                "it was demolished 60 years ago and the m54 now goes through the site .", 
+                "but there are remnants left , along with a lake designed by `` capability '' brown .", 
+                "there are a handful of spaces left on a visit to the castle site on 30 june ."
+            ], 
+            "author": [
+                "Kate Tebby", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57610754e4b0fdc373273245", 
+            "title": "weather : yellow severe weather warning in place for rain", 
+            "text": [
+                "make sure you take your umbrella with you if you 're out and about today and tomorrow .", 
+                "the met office has issued a yellow severe weather warning for rain .", 
+                "a yellow severe weather warning for # rain has been updated : stay # weatheraware @ twitterid", 
+                "what 's changed ?", 
+                "?", 
+                "hi , the update extended the warning area eastwards over yorkshire and humberside .", 
+                "^stephen", 
+                "@ twitterid @ twitterid = need4 sub- & -surface flow control re .", 
+                "# flooding via # forest # woodlands # soil"
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5761037de4b0fdc373273225", 
+            "title": "telford college of arts and technology rated inadequate by ofsted", 
+            "text": [
+                "telford college of arts and technology has been rated inadequate in a damning ofsted inspection ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5760fc1de4b0fdc3732731e3", 
+            "title": "land and property could be sold off by council", 
+            "text": [
+                "telford and wrekin council meets tomorrow to discuss selling off land and property it no longer has a use for .", 
+                "the five places that could be sold are : willow court in donnington ; 74 king street in dawley ; strickland house in wellington ; 30 west road ; and land at snedshill , which was being used as a temporary travellers site .", 
+                "a number of the buildings had been used by the council and , in the case of the building at west road , west mercia police had been using it alongside the clinical commissioning group .", 
+                "both organisations have been given notice ."
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5760fa9fe4b0fdc3732731d3", 
+            "title": "latest : land and property could be sold off by council ; pub landlady taken to court for no tv licence", 
+            "text": [
+                "the top stories in shropshire this morning :", 
+                "- more land and property could be sold off by telford and wrekin council", 
+                "- pub landlady from dawley fined \u00a3 442 for not having a tv licence", 
+                "- firefighters leave for romania to donate three redundant fire engines they 've bought and refurbished ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5760fdfde4b06c65bdc36621", 
+            "title": "watch : the latest shropshire weather forecast", 
+            "text": [
+                "a cloudy start with any mist patches clearing quickly , but also outbreaks of showery rain .", 
+                "showers will then become more widespread during the afternoon with some heavy , thundery and slow moving downpours in places .", 
+                "top temperatures of 17c ( 63f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5760f8fde4b06c65bdc36601", 
+            "title": "travel : no accidents to report , but roadworks may delay your journey", 
+            "text": [
+                "there are no accidents to report on the roads this morning , but roadworks may delay your journey .", 
+                "there 's slow traffic on the a4640 redhill way/ castle farm way in telford at the limekiln bank roundabout in the roadworks area .", 
+                "for more information on this and other roadworks which may affect your journey , visit the the bbc travel page ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5760f7f7e4b0fdc3732731bd", 
+            "title": "good morning from bbc shropshire", 
+            "text": [
+                "i 'm here with all your news , sport , travel and weather updates this morning .", 
+                "do get in touch if you have a story or that you 'd like to share .", 
+                "you can email , tweet or get in touch via our facebook page ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-shropshire", 
+    "quality": "high"
+}

@@ -1,0 +1,624 @@
+{
+    "blog_id": "f4c100a34f062bf948e28fba9fa6bbe492d19df1", 
+    "title": "BBC Local Live: Northamptonshire for Friday, 20 November 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-34871034", 
+    "summary": [
+        "a 36-year-old man has been arrested by police under anti-terrorism laws .", 
+        "the takeover of northampton town by kelvin thomas is `` hanging by a thread '' .", 
+        "news , sport , travel and weather updates resume at 08:00 on monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f5a243d000032760759a9", 
+            "title": "our live coverage through the day", 
+            "text": [
+                "local live is finished for today , but we 'll be back on monday from 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f59fa3a00007ca738032f", 
+            "title": "weather : freezing tonight with chance of snow tomorrow", 
+            "text": [
+                "weather : freezing tonight with chance of snow tomorrow"
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f37593d0000fe70075919", 
+            "title": "northampton cinema hosts lectures for university", 
+            "text": [
+                "undergraduates on the film and screen studies degree course at the university of northampton are holding seminars and screenings at the errol flynn filmhouse in northampton"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f4e5c3d0000fe70075978", 
+            "title": "northamptonshire 's weather is more local than you would think", 
+            "text": [
+                "join the nation 's favourite conversation and share what the weather is like where you live .", 
+                "find out more about becoming a bbc weather watcher"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f3531380000068f329cd7", 
+            "title": "northamptonshire councils have millions in reserve", 
+            "text": [
+                "the government said councils should be spending some of their reserves rather than cutting services .", 
+                "but councils argue it is important to plan for unforeseen costs"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f50023a0000c0a5380303", 
+            "title": "gritters to go out across northamptonshire as road temperatures plummet", 
+            "text": [
+                "gritting lorries will be out on main roads tonight after forecasts of wintry showers and low temperatures ."
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f4d483a000054a23802fb", 
+            "title": "pair jailed for 16-year-old 's death in a14 van crash", 
+            "text": [
+                "two men from northampton have been jailed after a teenage girl died when the van they were in crashed through hedges and landed on the a14 near rothwell .", 
+                "emmanuel price allowed william wallace , to drive and encouraged him to go faster .", 
+                "alysha bell , 16 , was a passenger in the van and suffered fatal injuries .", 
+                "price was jailed for six years and two months , and wallace for three years and two months ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f511e3a0000c2a5380309", 
+            "title": "headlines : former swindon chairman linked to cobblers councils have millions in reserve", 
+            "text": [
+                "if you are catching up"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f4fd83d0000d672075980", 
+            "title": "son 's frustration after driving test cancelled due to strike action in kettering", 
+            "text": [
+                "a learner driver due to take his test today was left frustrated after turning up to be told the examiners were on strike ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f34163d0000d67207590e", 
+            "title": "iran adventurer 's close encounter with wolves", 
+            "text": [
+                "along with his travelling companion leon mccarron , tom allen , from middleton near corby , took part in a six week expedition through iran .", 
+                "the pair have made a film about their trip .", 
+                "he said his adventure was `` fantastic , '' but there was one scary moment"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef87b3d0000e26e075808", 
+            "title": "construction industry has tradespeople , but lacks professionals", 
+            "text": [
+                "homes , offices , schools and factories may not get built over the next ten years if a shortage of construction professionals is not addressed , according to the northamptonshire enterprise partnership ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f3cdc3d0000fe7007592f", 
+            "title": "house-building in corby on the increase , says council", 
+            "text": [
+                "corby is performing better at building houses than last year , according to figures from theborough council ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f02523d0000fd70075837", 
+            "title": "saints ' glasgow clash sees them reunited with former star", 
+            "text": [
+                "saints ' glasgow clash sees them reunited with former star"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f2bda380000078f329cb1", 
+            "title": "weather warning for northamptonshire", 
+            "text": [
+                "stay up-to-date with bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef1c33a000020a0380174", 
+            "title": "bridge between islip and thrapston may re-open much sooner than planned", 
+            "text": [
+                "a bridge that was due to remain closed until a week before christmas - prompting fears among local businesses that they would be put out of business - is set to re-open next week .", 
+                "the bridge between thrapston and islip will open following a meeting between thrapston residents , business , and the county council ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "14:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f05233d0000fd7007584c", 
+            "title": "northamptonshire man makes film about iran adventrue", 
+            "text": [
+                "tom allen , from middleton near corby , along with his travelling companion leon mccarron , completed a six week expedition through iran .", 
+                "they turned their adventure into a film .", 
+                "here 's part of the trailer"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f2acd3a000020a0380275", 
+            "title": "headlines : mccrory cobblers interest rumoured northampton town staff hardship fund", 
+            "text": [
+                "here 's what we are looking at :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f270a380000068f329ca0", 
+            "title": "supporters ' trust founder brian lomax will 'never walk alone '", 
+            "text": [
+                "congregation sing you 'll never walk alone"
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564edd513a0000df9e38012e", 
+            "title": "enterprise partnership says northamptonshire need construction professionals", 
+            "text": [
+                "a shortage of construction professionals - people like site managers and surveyors - is causing big problems for building companies in the county , according to research by the northamptonshire enterprise partnership ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f0db53d0000e26e075877", 
+            "title": "shadow home secretary pays tribute to supporters ' trust founder", 
+            "text": [
+                "andy burham mp is among those at the funeral in barby of brian lomax , the founder of the northampton town supporters ' trust .", 
+                "mr lomax , who died aged 67 , then went on to help found supporters ' direct - the umbrella organisation representing other trusts run by fans ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f11693a00001ea038020f", 
+            "title": "myler returns to saints starting xv to face glasgow", 
+            "text": [
+                "northampton saints have announced their line-up for their european champions cup trip to glasgow warriors tomorrow ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f0b173d0000e26e07586a", 
+            "title": "northampton town : former swindon town chairman jed mccrory rumoured to be persuing cobblers deal", 
+            "text": [
+                "radio northampton understands former swindon town chairman jed mccrory is in talks with david cardoza about a potential buy-out of the club .", 
+                "yesterday evening kelvin thomas issued a statementclaiming talks are `` hanging by a thread '' .", 
+                "we have tried to contact both mr mccrory and mr cardoza without any success as yet , but will update this feed as when we hear anything more ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef63d3a000072a0380186", 
+            "title": "seven new primary schools needed in the daventry area by 2025", 
+            "text": [
+                "seven new primary schools and a new secondary school need to be built in the daventry area in the next decade to cope with the rising population in the town , the county council has revealed ."
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f11b83a000056a2380213", 
+            "title": "funeral of brian lomax , founder of northampton town supporters ' trust", 
+            "text": [
+                "coffin arrives at brian lomax 's funeral - andy burnham mp a pallbearer"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef847380000bc89329bcb", 
+            "title": "councils sitting on millions of pounds worth of reserves", 
+            "text": [
+                "a bbc investigation has found councils across the east of england are sitting on reserves of \u00a3 470m .", 
+                "in northamptonshire , the total estimated unallocated reserve for 2015-16 is \u00a3 40.2m ."
+            ], 
+            "author": [
+                "Deborah McGurran", 
+                "BBC Political editor, East of England"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "12:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef5953d0000e06e0757fc", 
+            "title": "kettering borough council funds local community initiatives to the tune of \u00a3 63,000", 
+            "text": [
+                "kettering borough council has recently awarded grants totalling \u00a3 63,000 forimportant local projects in the boroughas part of its community fund and capital hall grant schemes ."
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f07e83a000054a23801de", 
+            "title": "northampton town staff say ongoing takeover saga a 'nightmare '", 
+            "text": [
+                "staff at northampton town have released a statement regarding the club 's ongoing financial issues .", 
+                "in it , they said : `` as things drag on , each day gets more and more difficult both professionally and personally . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564efad03a0000de9e380199", 
+            "title": "'no immediate threat ' after oundle pharmacy terrorism search", 
+            "text": [
+                "west yorkshire police , who have searched an oundle pharmacy as part of a terrorism investigation , have told the bbc it was intelligence led and not in response to any immediate threat or risk '' .", 
+                "a 36-year-old leicester man was arrested at birmingham airport on 2 november under section 5 of the terrorism act .", 
+                "he has been released on bail pending further enquiries .", 
+                "a property in leicester was also searched ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "11:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef9793800000d8b329bd1", 
+            "title": "oundle pharmacy searched by anti-terror cops", 
+            "text": [
+                "a 36-year-old man has been arrested by police using anti-terrorism laws .", 
+                "as part of their investigation a pharmacy in oundle has been searched .", 
+                "police say the man , from leicester , was arrested at birmingham airport on 2 november under section 5 of the terrorism act .", 
+                "he has been bailed pending further enquiries ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "11:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ef5363d0000e06e0757f9", 
+            "title": "'uncertainty ' over midland mainline electrification , mps warn", 
+            "text": [
+                "mps have raised serious concerns about rail investment in the uk following a series of delays to large-scale projects including the midland mainline ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ee5853d00009c6d0757bc", 
+            "title": "northampton town : chairman needs to 'make his mind up '", 
+            "text": [
+                "northampton town : chairman needs to 'make his mind up '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ed7413d0000976d07578f", 
+            "title": "northampton town : chairman cardoza says he 's 'doing the best for the club '", 
+            "text": [
+                "the current chairman of northampton town , david cardoza , has spoken about kelvin thomas ' potential deal to buy the club , which mr thomas has said is `` hanging by a thread '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ee0523a0000e19e38013a", 
+            "title": "northampton borough council leader 'disappointed ' at prevaricating cardoza", 
+            "text": [
+                "northampton borough council leader 'disappointed ' at prevaricating cardoza"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ed8d43a0000de9e38011b", 
+            "title": "northampton town : kelvin thomas hoped deal 'would have been done ages ago '", 
+            "text": [
+                "former oxford united chairman kelvin thomas spoke to bbc radio northampton about the deal to buy northampton town which he said is `` hanging by a thread '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564edaa73d00009d6d07579b", 
+            "title": "what 's happening at northampton town ?", 
+            "text": [
+                "what 's happening at northampton town ?"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ed2653d00009c6d075778", 
+            "title": "weather : dry start but then scattered showers", 
+            "text": [
+                "largely dry morning but scattered showers this afternoon and top temperature of 8c ( 46f ) .", 
+                "you can see my full forecast below"
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ed3cf3d0000a66d075780", 
+            "title": "headlines : cobblers chairman is 'doing best for the club ' lump sum for veterans exposed to asbestos", 
+            "text": [
+                "here are our top stories"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ed0ef3a0000e19e380102", 
+            "title": "good morning and welcome to local live for northamptonshire", 
+            "text": [
+                "between now and 18:00 we 'll bring you all the latest news , weather , sport and travel for northamptonshire .", 
+                "plus , we 'll tell you about any developments at northampton town football club .", 
+                "if you have something you want to share with us then you can email us , tweet us or head to facebook ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

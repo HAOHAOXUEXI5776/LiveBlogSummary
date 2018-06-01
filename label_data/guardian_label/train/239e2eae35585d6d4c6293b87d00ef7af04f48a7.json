@@ -1,0 +1,2187 @@
+{
+    "blog_id": "239e2eae35585d6d4c6293b87d00ef7af04f48a7", 
+    "title": "Australian election 2016: expect more frequent storms, says Turnbull \u00e2\u0080\u0093 politics live | Australia news | The Guardian", 
+    "url": "https://www.theguardian.com/australia-news/live/2016/jun/09/australian-election-2016-malcolm-tunbull-defends-his-falling-popularity-politics-live", 
+    "summary": [
+        "'this is just another trick from labor '", 
+        "'today for me is not a day where i will join the dots about extreme weather events '", 
+        "bill shorten addresses reporters in latrobe .", 
+        "oh , poo .", 
+        "the view from redfern .", 
+        "magic mandates , with angus taylor .", 
+        "'use your voice and your vote '"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758faebe4b01a5ff948b014", 
+            "title": "so long", 
+            "text": [
+                "early i know , but the campaign is over for today , and i need to bid you farewell in order to finish recording this week 's campaign podcast episode .", 
+                "thanks very much for your company today .", 
+                "love this from mike bowers .", 
+                "natural disaster , meet travelling circus .", 
+                "the prime minister tours flood-affected areas around la trobe where the road was ripped up by flooding .", 
+                "bowers for the guardian let 's take stock of thursday .", 
+                "hiatus of sorts .", 
+                "the leaders went to tasmania to inspect the damage , and declined to take questions about the campaign .", 
+                "both were asked questions about climate change and extreme weather .", 
+                "malcolm turnbull addressed the subject delicately by saying we needed to prepare for more forceful tempests ; bill shorten said today was n't the day to join any dots .", 
+                "( do voters really get cranky if you suggest climate change may the culprit when they are dealing with a natural disaster ?", 
+                "like , really ? )", 
+                "sub leader , labor moved to back in its arguments about the budget by turning attention to the coalition 's black hole as a consequence of the $ 18bn in savings baked in to the budget that will never clear the senate .", 
+                "the coalition said what black hole ?", 
+                "we 'll have a mandate to do these things if we win the election .", 
+                "expect to hear more on this when normal campaign transition resumes .", 
+                "that 's the main threads .", 
+                "it 's been real .", 
+                "see you in the morning ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                5, 
+                36
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f917e4b01a5ff948b010", 
+            "title": "", 
+            "text": [
+                "the prime minister , malcolm turnbull , talks to a local farmer , laurie appleby , whose farm is at beulah in the flood-affected areas around la trobe in tasmania .", 
+                "bowers for the guardian the opposition leader , bill shorten , visits a former labor mp , sid sidebottom , in the tasmanian town of forth on thursday .", 
+                "tsikas/aap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                5, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758f89ee4b01a5ff948b00c", 
+            "title": "", 
+            "text": [
+                "neither leader has addressed campaign issues today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                5, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f7d2e4b00f7e4b17732f", 
+            "title": "", 
+            "text": [
+                "q : how disappointed are you or are you disappointed that you and malcolm turnbull could n't stand side by side today in tasmania ?", 
+                "bill shorten : it is good that the prime minister has been down to tasmania today .", 
+                "i was happy to do something with him and i spoke to him a couple of times in the last couple of days .", 
+                "we have had courteous discussions completely professional .", 
+                "this is about us showing solidarity with people in distress .", 
+                "i think even in the rancour and competition of an election , this country and its major political parties are able to focus on what we have in common here .", 
+                "i just think that is healthy for australian democracy full stop .", 
+                "( translation : i 'm annoyed , frankly , but ca n't say that . )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                5, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f67ce4b064f52e5f9683", 
+            "title": "'today for me is not a day where i will join the dots about extreme weather events '", 
+            "text": [
+                "q : do you believe we will see bigger and more frequent wild weather that we have experienced here as a result of climate change and do communities need to better prepare ?", 
+                "bill shorten wo n't go there .", 
+                "the prime minister joined the dots earlier , carefully , but shorten is n't inclined to .", 
+                "bill shorten : let me talk about preparation and mitigation .", 
+                "the levees which were being built and rebuilt in launceston i have no doubt have avoided a much greater disaster .", 
+                "flood mitigation is clearly a priority for all levels of government .", 
+                "it will help keep downward pressure on insurance costs .", 
+                "i think that governments need to start contemplating more flood mitigation rather than paying out more disaster relief because if you do n't do the flood mitigation , you will pay out the disaster relief .", 
+                "it has me thinking about how we can do much more in the space of flood mitigation .", 
+                "in terms of climate and weather , today for me is not a day where i will join the dots about extreme weather events .", 
+                "today is more about being reminded about what makes this country one of the best places in the world ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                57
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f57ee4b064f52e5f967e", 
+            "title": "bill shorten addresses reporters in latrobe", 
+            "text": [
+                "the labor leader is now addressing reporters after inspecting flood-damaged regions in tasmania .", 
+                "the leader of the opposition , bill shorten , steps over sandbags in the tasmanian town of forth on thursday .", 
+                "tsikas/aap bill shorten : we have seen houses flooded ; we see cost going forward in the future .", 
+                "we see the inevitable debates with the insurance industry but i am hearing positive things about how the insurance companies are going so far , which is fantastic .", 
+                "most of all , what we see here is that the things that unite us are greater than the things that divide us ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f460e4b064f52e5f967a", 
+            "title": "", 
+            "text": [
+                "sticking with disclosure , the greens have said today that reports involving parakeelia ( this is the data mining operation associated with the liberal party that has made donations to the liberal party ) underscore the need for a national corruption watchdog and political donation reform back on the agenda .", 
+                "the greens leader , richard di natale : revelations about the flow of money from liberal mps to parakeelia and from parakeelia to the liberal party demand investigation .", 
+                "i said earlier today there are a lot of small issues bubbling around the campaign about donations and disclosure , but no big cut through on integrity reform .", 
+                "more 's the pity ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758f3bce4b064f52e5f9677", 
+            "title": "", 
+            "text": [
+                "some particulars on tony windsor 's claims .", 
+                "windsor has accused barnaby joyce of a conflict of interest on water security , claiming the federal national party took more than $ 80,000 in donations from mining company santos after the water trigger legislation was introduced .", 
+                "windsor claimed since he introduced the water trigger legislation in 2011 to assess the impacts of large mining projects on water quality , a steady stream of donations from santos to the national party began .", 
+                "there 's a very , very strange money trail that has developed in relation to santos and the national party federally , windsor said outside his electoral office in tamworth .", 
+                "windsor said santos donated to the federal national party once in 2003 and again in 2009 .", 
+                "however , after the water trigger legislation was introduced in 2011 , the company donated 18 times , amounting to $ 80,360 .", 
+                "according to windsor , larger donations of $ 22,000 were given at the time of the 2013 federal election and in august 2014 , when the environment minister greg hunt 's legislation to throw out the water trigger was before the parliament ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f1a4e4b064f52e5f966f", 
+            "title": "oh , poo", 
+            "text": [
+                "we really are in challenging territory today .", 
+                "earlier on i mentioned that tony windsor , up north in new england , has been criticising political donations made by coal seam gas interests .", 
+                "oh , poo , says the deputy prime minister .", 
+                "literally .", 
+                "thanks to aap for these quotes .", 
+                "barnaby joyce : it 's a very sad poo-throwing exercise .", 
+                "it is sad and somewhat pathetic when the best we have is a doorstop about an allegation which even in their own statement they ca n't give any details about ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758f02be4b01a5ff948afee", 
+            "title": "", 
+            "text": [
+                "back to the sorry tale of the tampon tax .", 
+                "the post i shared a little while ago outlined the tale : labor was into removing the gst from tampons , then last night bill shorten said he would n't remove the gst from tampons , then today labor is saying it would like to remove the gst from tampons but the states wo n't agree .", 
+                "of the three positions , the shadow assistant treasurer , andrew leigh , is sticking with option three .", 
+                "from 3aw earlier today .", 
+                "q : do you want to take it off or not ?", 
+                "andrew leigh : we do .", 
+                "but we need the changes , we need the agreement of states and territories to make that change ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758ef68e4b00f7e4b17730a", 
+            "title": "", 
+            "text": [
+                "i 'm with andrew , says scott morrison , from perth earlier today .", 
+                "q : just on another matter , andrew hastie has been told his service with the army has been terminated as a reservist , because of not bringing down , campaigning in uniform .", 
+                "do you have any thoughts about that ?", 
+                "scott morrison : andrew hastie has served his country as a member of our defence force and as a member of our parliament exceptionally well .", 
+                "he is an extraordinary individual and i stand by andrew 100 % , as does the entire team .", 
+                "the thing about andrew is he always takes responsibility for the decisions he makes .", 
+                "he considers them carefully and he has had the responsibility of leading men and women and the responsibility of very serious matters that he has had to deal with in his career in the defence force and i think that has well prepared him for the role he now takes on .", 
+                "he is an extraordinary australian and i thank him and all other australians who have served like him .", 
+                "q : so you think it was right for him to refuse to take down the campaign materials ?", 
+                "scott morrison : i support andrew and his decision ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                4, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758e798e4b064f52e5f9651", 
+            "title": "the view from redfern", 
+            "text": [
+                "we vote too , a coalition of aboriginal and torres strait islander groups have warned both sides of politics .", 
+                "on thursday dozens of indigenous peak bodies and organisations released the 2016 redfern statement , outlining their call for government action on indigenous affairs , including health , justice and education .", 
+                "they also called for the next government to reinstate the scrapped funding of the national congress of australia 's first peoples , which the indigenous affairs minister , nigel scullion , accused of being unrepresentative .", 
+                "what we 've got done here today has been a united voice where we all come together and we do n't want to be marginalised , jacqui huggins , co-chair of the congress told media in redfern .", 
+                "they 've said to us and we say to government clearly : ignore us at your peril , because we vote too .", 
+                "the redfern statement calls on government to reform health , justice and disability , and to commit to refunding the congress and establishing national indigenous representative bodies for education , employment and housing .", 
+                "it also called for reform of the much-maligned indigenous advancement strategy , although huggins said realistically the government needed to go back to the drawing board on how it distribute funding to indigenous groups .", 
+                "government engagement with indigenous groups was key , the group said , urging both parties to sit down with leaders and representatives .", 
+                "engage with us in a very real and meaningful and genuine relationship that we have been screaming out for for years , said huggins .", 
+                "rod little , fellow co-chair , said government and political cycles were a big factor .", 
+                "when there 's a change of government there 's a change of relationship every time .", 
+                "what we 're saying is we want a longer-term arrangement \u0080\u00a6 with the parliament of australia so we can look at some long-term , long-lasting arrangements that are going to benefit generations to come .", 
+                "mick gooda , the aboriginal and torres strait islander social justice commissioner , said at the moment they did n't have a relationship with government .", 
+                "we need a relationship , whether it 's in the form of a treaty or not , he said .", 
+                "they 've defunded [ the ] congress , the only representative organisation we have .", 
+                "that 's our organisation .", 
+                "they 've appointed an indigenous adviser council who only represent themselves and they 'll tell you that .", 
+                "what we need is this relationship between our peoples and government , not with our peoples and government agencies and departments ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758e5c1e4b00f7e4b1772ef", 
+            "title": "magic mandates , with angus taylor", 
+            "text": [
+                "liberal angus taylor has just been on the abc with one message about the economic contest : do n't you worry about that .", 
+                "and mandates make budget numbers work .", 
+                "q : people are attuned to the question of affordability and there are big promises being laid out , the biggest being the company tax cut that you have already mentioned .", 
+                "as a member of the government , can you guarantee that the surplus projected for 2021 will be delivered and that a re-elected turnbull government is determined to stick with that surplus time line ?", 
+                "angus taylor : what i can say is our promises are funded .", 
+                "that is the most important thing .", 
+                "we have seen a contrast yesterday where it is clear now from chris bowen that labor 's promises are not funded and they will have a gap .", 
+                "there will be a black hole over the next four years q : how can you be so sure of that ?", 
+                "leaving aside the labor focus for a moment , but there is a massive pod of $ 18bn worth of assumed savings that will just fly through the senate , we 're led to believe .", 
+                "what gives you that confidence , when they have been so roundly rejected so far ?", 
+                "angus taylor : the australian people want to see action on these things .", 
+                "the frustration of the australian people , after the rudd-gillard-rudd experiment and the challenges we have had with minor parties in the senate , there is a strong desire out there to see governments get on with the job q : you 're going to claim a mandate for each and every one of those initiatives , are you ?", 
+                "angus taylor : we are asking for a mandate to do that .", 
+                "that is the purpose of this election .", 
+                "that is what we 're asking for right here right now .", 
+                "i think look , australians understand that we are the custodians of their tax payments .", 
+                "they want that managed well and that is exactly what we are going to the australian people with in this election .", 
+                "we will manage their tax payments well .", 
+                "we will spend it in the right places .", 
+                "we are asking for a mandate in the house of reps and the senate to do exactly that .", 
+                "q : even if magically and hypothetically the senate passed all the $ 18bn worth of the initiatives , they are not worth $ 18bn anymore , are they ?", 
+                "some were to kick in from 1 july and they ca n't probably until august or september , let 's presume .", 
+                "the budget repair work you might have done ca n't be done because the numbers do n't stack up , do they ?", 
+                "angus taylor : we are confident the numbers will stack up .", 
+                "there is no doubt about that .", 
+                "we are asking for a mandate in the senate , no doubt about that .", 
+                "( see , mandates , # magic . )"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758e504e4b01a5ff948afbf", 
+            "title": "", 
+            "text": [
+                "my colleague greg jericho has blogged on the economic contest today , four-year forecasts versus 10-year forecasts .", 
+                "his view is politicians would be better placed to keep their eye on the imperatives of the here and now .", 
+                "greg jericho : we have a situation where demand in the economy is at historic lows , national income growth is essentially at recession levels , inflation expectations remain very low and , as a result , wage growth is also expected to stay at record low marks .", 
+                "and in this situation we have a central bank wary of using its main weapon to stimulate the economy .", 
+                "so all eyes turn to the fiscal side .", 
+                "but there we have the media going into conniptions over suggestions the budget deficit projected by the alp in four years ' time might be larger than that of the lnp and where critics of plans to give big business a tax cut worth $ 8bn a year are called anti-business .", 
+                "and now it seems the whole purpose of the budget is to retain a aaa credit rating .", 
+                "i 'm all for long-term thinking ; i 'm all for policy that is well thought out and planned .", 
+                "but right now both parties seem to have more of an eye on the horizon and are ignoring the rocks immediately ahead .", 
+                "you can read greg here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758e34de4b064f52e5f9644", 
+            "title": "", 
+            "text": [
+                "i do need to address the vexed matter of the tampon tax .", 
+                "i was actually just working through a post when i saw this news report from aap .", 
+                "i think this really tells you what you need to know , so take it away aap .", 
+                "there 's one thing clear about the so-called tampon tax : nobody really wants to go near it .", 
+                "the sensitive issue of the gst on women 's sanitary products has been given new life in the federal election campaign after disappearing from the radar in the past year .", 
+                "it once made a treasurer blush and now it 's forced an opposition leader to backtrack .", 
+                "the labor leader , bill shorten , reignited the debate after flatly ruling out scrapping the tax on the feminine goods when quizzed at a brisbane voters ' forum on wednesday night .", 
+                "no , he answered , insisting a straight answer was better than a murky one .", 
+                "but a day later , the response turned into just that as the language become a tad cloudy .", 
+                "the labor leader pointed the finger at the states .", 
+                "labor has always been open to removing the gst from sanitary items , a spokesman for shorten said .", 
+                "if we can get the agreement of all jurisdictions and if an alternative revenue source can be identified .", 
+                "the shadow treasurer , chris bowen , insisted that money from the so-called netflix tax could have paid for removing the tampon tax , but the states refused that offer .", 
+                "bill was just making that clear last night , he told abc radio .", 
+                "he in turn pointed the finger at the former treasurer , joe hockey , for failing to push the point .", 
+                "for his part , hockey also stumbled , blushed and grinned when asked about the tampon tax on the abc 's q & a program last year .", 
+                "he agreed to lobby states to ditch the tax but in the end he too conceded it was an issue for the states and insisted nothing could be done .", 
+                "the greens came out swinging at the major parties for their inaction , saying tampons and pads should never have been taxed because they are not luxury items .", 
+                "it screams of policy created without enough women in the room , the deputy leader , larissa waters , said ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758e13de4b064f52e5f9638", 
+            "title": "'use your voice and your vote '", 
+            "text": [
+                "patrick mcgorry wound up his address on this note : just to sum up , we have got to invest much more strongly if we are going to reap the human and economic benefits of mental wealth .", 
+                "so just to recap , we are everywhere .", 
+                "we are everywhere in australia .", 
+                "every electorate , every marginal seat .", 
+                "i want to appeal to everyone affected directly or indirectly by mental illness , to expect a real plan .", 
+                "do n't get sold short this time .", 
+                "we have n't been sold short in the last 10 years .", 
+                "we have been making progress .", 
+                "do n't be fobbed off ; do n't accept ; do n't be short-changed .", 
+                "use your voice and your vote ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758dc54e4b00f7e4b1772c8", 
+            "title": "", 
+            "text": [
+                "back to patrick mcgorry .", 
+                "we need , i think i 've been reflecting a lot about this we need our own mental health minister .", 
+                "i mentioned christopher pyne .", 
+                "he was a mental health minister , did a good job .", 
+                "and mark butler did a very good job under julia gillard .", 
+                "things progressed in that situation .", 
+                "when you have a health minister worried about medicare freezes and hip surgery and god knows what else , mental health gets put on the back burner .", 
+                "it also needs to be under the prime minister 's direct vision , whoever the prime minister ends up being .", 
+                "the national mental health commission which originally was set up in relation to prime minister and cabinet , not health , needs to go back there .", 
+                "it was put back into health and it really needs it 's a whole of government issue , mental health , not just health ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758d9b7e4b01a5ff948af8f", 
+            "title": "zombie savings", 
+            "text": [
+                "while i 've got one ear on patrick mcgorry , here is the list of savings measures between 2016-17 and 2019-20 opposed by labor , according to the government 's material .", 
+                "i have n't added up the column but the government says the total is $ 18bn .", 
+                "when i did some analysis earlier this morning about the economic contest i said mind the number only in this sense .", 
+                "we do n't yet have the final list of labor 's savings measures for the campaign , so we do n't know if this list is 100 % accurate or not .", 
+                "perhaps labor will some measures from this list to support in order to boost its own bottom line .", 
+                "we 'll see before the campaign is out .", 
+                "but labor 's broad point is reasonable : there are measures here that will never get through the senate .", 
+                "so here 's the list .", 
+                "savings and revenue measures put forward by the government which labor are blocking .", 
+                "switching under-25s from newstart to youth allowance ( $ 639m ) ceasing the pensioner education supplement ( $ 284m ) one-week waiting period for working age payments ( $ 256m ) ceasing the education entry payment ( $ 65m ) revised higher education reforms ( $ 3.27bn ) australian renewable energy ( arena ) savings ( $ 1.03bn ) abolish the seafarer tax offset ( $ 16m ) maintain eligibility thresholds ( indexation ) ( $ 302m ) opposing government measure of under-25s one-month youth income support waiting period ( $ 245m ) phase out the family tax benefit end-of-year supplements ( $ 6.34bn ) restructure of family tax benefit part b rates less ceasing the ftb-b for couple families with children 13 years or over , which labor has said it will support ( $ 1.02bn ) changes to diagnostic imaging and pathology services bulk-billing incentives ( $ 923m ) australian working life residence ( $ 246m ) new adult and child public dental scheme ( $ 1.30bn ) abolishing the energy supplement ( $ 1.33bn ) research and development tax incentive : reducing the rates of the refundable and non-refundable tax offsets ( $ 890m )"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                3, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758d54ee4b064f52e5f960f", 
+            "title": "", 
+            "text": [
+                "i did think we 'd get shorten 's press conference , but we do n't seem to be getting that through , so let me turn for now to the national press club .", 
+                "the club today is trying to inject the issue of mental health into the election campaign by hosting mental health researcher patrick mcgorry .", 
+                "mcgorry : our country is seriously weakened by this .", 
+                "suicide rates have become a king tide : 2,864 people compared to 1153 dying on the roads .", 
+                "mcgorry says people with mental illness die 20 years younger than the rest of us from preventable medical illnesses .", 
+                "the average age of death in our part of melbourne for people with serious mental illness is 48 years , worse than we see in indigenous health ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                2, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758d44ae4b01a5ff948af7c", 
+            "title": "", 
+            "text": [
+                "a view of bill shorten 's flood investigations from fairfax media 's alex ellinghausen via twitter .", 
+                "opposition leader bill shorten and shadow a-g dreyfus view photos of flood affected tasmania during ses hq visit # auspol # ausvotes # election2016"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                2, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758d0cde4b01a5ff948af6d", 
+            "title": "", 
+            "text": [
+                "i 've asked my colleague gareth hutchens to get to the bottom of labor 's $ 18bn zombie cuts figure the number labor has cited over the past few days to make the argument the government 's budget numbers are unreliable .", 
+                "the $ 18bn figure derives from the coalition 's black hole calculations about labor from a fortnight ago .", 
+                "as part of those , the government nominated there were savings and revenue measures proposed by the turnbull government that labor are blocking or have said they would oppose .", 
+                "their calculated value of the measures was $ 18.15bn .", 
+                "if i get a chance i 'll remind people what some of those measures are .", 
+                "right now i 'm waiting for a press conference from the labor leader before i post a summary of events of the morning ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                2, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758ca8ae4b00f7e4b17727b", 
+            "title": "", 
+            "text": [
+                "bill shorten visits the state emergency service headquarters in launceston .", 
+                "tsikas/aap the labor leader talks to emergency services personnel .", 
+                "tsikas/aap bill shorten in with emergency services personnel in launceston .", 
+                "tsikas/aap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758c917e4b064f52e5f95dd", 
+            "title": "hurry up , rob", 
+            "text": [
+                "it looks as though bill shorten has arrived on the ground for his flood tour .", 
+                "and the australian is reporting that former independent mp rob oakeshott is weighing up making a comeback to federal parliament by contesting the 2 july election .", 
+                "he 's only got a very short window to make the call .", 
+                "nominations close today ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758c6eee4b064f52e5f95d6", 
+            "title": "'it 's a warm jacket '", 
+            "text": [
+                "the press event ends on a funny note .", 
+                "a reporter points out the prime minister is wearing a cradle mountain jacket .", 
+                "q : bill shorten pledged $ 15m last week , will you match that or offer more ?", 
+                "malcolm turnbull : i am here talking about floods .", 
+                "i 've worn this jacket to iraq , i 've worn it in afghanistan , it 's one of my favourite jackets and i acquired it when lucy and i were in cradle mountain quite some years ago now .", 
+                "q : why wear it today then if funding has n't been announced ?", 
+                "i 'm not sure who delivered the riposte , whether it was turnbull or someone else in the party doing the flood visit , but it was : it 's a warm jacket ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758c550e4b064f52e5f95cc", 
+            "title": "future tempests : 'these are people that really know this river '", 
+            "text": [
+                "q : on the climate change question , while we ca n't directly attribute one event to climate change , do you think we can rule out climate change as a contributing factor to the severity ?", 
+                "malcolm turnbull : climate change is a very important issue and it 's one that as you know i take very seriously .", 
+                "but attributing any particular event to climate change is just not sustainable .", 
+                "but there is no question that we live in the land of droughts and flooding rains .", 
+                "and fires too .", 
+                "and so we have to be very alert to natural disasters and michael keenan and i were discussing only this morning the importance to make greater make a greater commitment right across australia to ensuring that we have the measures in place to mitigate the impact of natural disasters , when they come .", 
+                "turnbull is choosing his words very carefully in the climate change answers , but he sends a strong signal about the future which is in perfect alignment with the climate science .", 
+                "he says conversations along the river this morning have yielded sobering insights .", 
+                "turnbull : they have never seen as much water move as quickly as this .", 
+                "and so this so what this means is that you can not you 've got to assume faster , more frequent tempests in the future , and do that out of prudence .", 
+                "put your preparations in place all of us have to do that and hope to be disappointed , hope that those precautions will never be needed .", 
+                "but this has plainly been a very rapid event .", 
+                "they have never seen these are people that really know this river .", 
+                "it 's their home .", 
+                "they know this river better than anyone ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758c50de4b01a5ff948af32", 
+            "title": "", 
+            "text": [
+                "q : you say you will cover 75 % of the repair bill .", 
+                "how much do you think that will be ?", 
+                "malcolm turnbull : well , i do n't i think it 's too early to say but it will be substantial ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758c46ee4b01a5ff948af2f", 
+            "title": "'excuse me \u0080\u00a6 '", 
+            "text": [
+                "q : should andrew hastie not have campaigned in his army uniform ?", 
+                "malcolm turnbull : excuse me , it 's kind of you to ask but we are just going to talk about the flood and the storm here in tasmania , and the way in which we 're supporting the community here and we can talk about politics on another occasion if that is all right ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                22
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758c3dae4b064f52e5f95c4", 
+            "title": "", 
+            "text": [
+                "q : it 's widely accepted in the scientific community among insurers and infrastructure companies that climate change will affect the predictability , the frequency and the severity of natural disasters like this .", 
+                "do you think australians should prepare for things like this to happen more ?", 
+                "are you concerned they will happen more as a result of climate change ?", 
+                "malcolm turnbull : certainly larger and more frequent storms are one of the consequences that the climate models and climate scientists predict from global warming .", 
+                "but you can not attribute any particular storm to global warming .", 
+                "so let 's be quite clear about that .", 
+                "and the same scientists would agree with that point .", 
+                "having said that , it 's very important to raise the issue of mitigation and making sure that communities are prepared and protected in the face of risks like this ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758c37de4b01a5ff948af2c", 
+            "title": "", 
+            "text": [
+                "to questions now .", 
+                "q : pm , why did you reject bill shorten 's offer to visit these communities together in a show of unity ?", 
+                "malcolm turnbull : can we focus on the storm , the damage from the storm , and let 's leave the politics until later ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758c27de4b064f52e5f95bf", 
+            "title": "malcolm turnbull addresses reporters in tasmania : damage bill will be north of $ 19m", 
+            "text": [
+                "i have to leave off the treasurer for a bit because malcolm turnbull is speaking about flood relief .", 
+                "he says the arrangement is after the damage bill gets north of $ 19m , we up 75 % of the cost .", 
+                "the prime minister says that will certainly be the case in tasmania .", 
+                "malcolm turnbull : this has been there 's a lot of damage .", 
+                "there are , i believe , 19 bridges in tasmania that are down , and several of them are million-dollar jobs or more to replace .", 
+                "so there 's a lot of work that 's going to have been undertaken ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758c12ee4b00f7e4b177248", 
+            "title": "'this is just another trick from labor '", 
+            "text": [
+                "the treasurer , scott morrison , is wearing a hard hat in perth .", 
+                "our budget is our plan , it 's all there , savings as well .", 
+                "morrison : labor are making promises in this election with money that just is n't there .", 
+                "they are seeking to raise a tax burden on the australian economy by over $ 100bn over the next 10 years .", 
+                "and they wo n't tell you what the impact of that higher tax burden will be on growth and on jobs in the australian economy .", 
+                "by contrast , the turnbull government has set out a very clear national economic plan .", 
+                "our commitments are contained in a budget .", 
+                "a budget we 're putting to the australian people at this election .", 
+                "the whole thing .", 
+                "it 's savings , it 's expenditure , it 's focus and enterprise tax plan , all of this , putting directly to the australian people .", 
+                "then the aaa credit rating .", 
+                "morrison : it was chris bowen himself who raised the issue of the credit rating .", 
+                "now , what he needs to understand is the credit rating agency also look at the certainty of numbers over four years .", 
+                "he can talk about a decade all he likes but , as the pm said yesterday , a decade ago there was n't the iphone .", 
+                "i mean , the uncertainties that go over 10 years are things that are dealt with in projections .", 
+                "but what you have to do if you are a treasurer is you have to put four years of firm numbers in a budget .", 
+                "and that is what we have done .", 
+                "the other thing he is doing is he 's saying after four years of higher deficits , and higher debt , they will magically return the budget to surplus .", 
+                "wayne swan promised a surplus 366 times .", 
+                "chris bowen is thinking he can play the same trick ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758bff9e4b01a5ff948af16", 
+            "title": "", 
+            "text": [
+                "the dispatch about andrew nikolic has prompted similar claims from my neighbouring electorate of eden-monaro about the liberal candidate , peter hendy .", 
+                "tas fitzer ( @ thetasman ) @ murpharoo nikolic not only marginal seat holder to refuse public forums/debates - peter hendy in eden monaro has not fronted one either tas fitzer ( @ thetasman ) @ murpharoo last saturday a forums on jobs and education in eden in the morning and clean energy in bermagui in the evening .", 
+                "hendy no did >"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758bf68e4b01a5ff948af11", 
+            "title": "", 
+            "text": [
+                "i assume the fairfax reporter tom mcillroy who shared some quotes from andrew hastie on perth radio after he was voted off the survivor island .", 
+                "tom mcilroy ( @ tommcilroy ) andrew hastie : they used a bit of policy to try and push me around as a parliamentarian , i do n't take orders from the military # ausvotes tom mcilroy ( @ tommcilroy ) andrew hastie : `` i got the termination notice , no worries , crack on .", 
+                "it was always a side show . ''", 
+                "# ausvotes"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                1, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758bca7e4b064f52e5f95aa", 
+            "title": "'mr hastie 's service has since been terminated . '", 
+            "text": [
+                "hello again .", 
+                "i 've sought confirmation from defence about the status of andrew hastie .", 
+                "the west australian reported this morning that the adf had terminated the liberal mp 's service in the army reserve because he refused to remove photos of himself in uniform from election campaign material .", 
+                "this statement sounds , well \u0080\u00a6 final .", 
+                "defence policy is designed to ensure that the adf remains apolitical .", 
+                "as a condition of their service , regular and reserve members of the australian defence force are obliged to comply with various defence instructions and policies .", 
+                "adf members are therefore not permitted to participate in any political activity in uniform , unless they are pre-approved to do so by an appropriate authority .", 
+                "defence contacted mr hastie , a member of the standby army reserve , and requested he remove imagery of himself in uniform from election campaign material .", 
+                "regrettably , mr hastie did not comply with this request .", 
+                "accordingly , the army issued mr hastie with a notice indicating the intention to terminate his service because he had failed to comply with directions and defence policy .", 
+                "mr hastie 's service has since been terminated ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                0, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758bb8ce4b064f52e5f95a5", 
+            "title": "", 
+            "text": [
+                "speaking of eyes everywhere , the independent tony windsor has been speaking to reporters this morning about money trails , specifically santos and coal seam gas regulations .", 
+                "crikey 's political editor , bernard keane , is pointing us all to a business fundraiser labor is hosting in sydney today .", 
+                "and there 's this story about the data-mining operation for the liberal party which is also making donations to the party .", 
+                "money , influence , donations , disclosure ca n't quite pierce the campaign fog , but it wo n't go away either .", 
+                "bernard keane ( @ bernardkeane ) got a lazy $ 10k ?", 
+                "labor is holding a business fundraiser in sydney all day today"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                0, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758b994e4b00f7e4b177224", 
+            "title": "", 
+            "text": [
+                "over on my facebook forum garth joore-short has left me a message .", 
+                "here it is .", 
+                "an interesting photo of the pm near the launceston floods with andrew nikolic malcolm turnbull with the member for bass , andrew nikolic , touring the flooded tamar river at launceston in tasmania on thursday morning .", 
+                "bowers for the guardian in bass , nikolic is notorious for blocking his constituents from facebook and it looks as if he will refuse to take part in a candidate 's debate , even though he is the sitting member .", 
+                "there 's even a facebook page called i was blocked by andrew nikolic and there 's a public meeting to discuss nikolic 's refusal to meet with his constituents on in launceston at 7pm tonight called \u0080\u0098we will be heard .", 
+                "in a marginal seat like bass , nikolic 's behaviour is quite interesting if you want to have a look at i 've been blocked my andrew nikolic i 've checked , it exists , have a look here .", 
+                "thanks for the dispatch from the hustings garth my facebook forum is a great place to leave tips and insights and vignettes , so feel free .", 
+                "it gives me eyes across the country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                0, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758b26de4b01a5ff948aed1", 
+            "title": "some thoughts about the economic contest , as of now", 
+            "text": [
+                "this is now a critically important phase of the campaign for labor .", 
+                "conventional campaign wisdom says it 's brave ( in the humphrey appleby sense ) to go to an election campaign saying our bottom line is worse than our opponent 's bottom line .", 
+                "and most of the coverage of labor 's positioning yesterday on the economy and budget management is very much within the rubric of conventional campaign wisdom .", 
+                "the sky host paul murray declared in sky news last night that labor had produced the electoral equivalent of fightback !", 
+                "( never mind the fine print folks , the comparison was about bombing with the public ) , and bill shorten had , in essence , thrown the election because \u0080\u00a6 deficits .", 
+                "there is an inclination for aggressive simplicity and aggressive feelings when commentating on political campaigns that should be obvious to all politics tragics .", 
+                "big calls are made , and many people are n't shy about making them , trapped as they are , in some permanent present where no one will hold you accountable for your predictions after the fact .", 
+                "labor 's only hope of punching through wet blanket of media overlay on this issue from the usual suspects is to campaign on the merits of their own argument , which is what they are currently trying to do today .", 
+                "chris bowen says scott morrison needs to explain why his budget numbers add up when they contain a bunch of cuts that are never going to happen .", 
+                "( this is about gaining some equivalence back over the forward estimates , if labor can convince voters the coalition 's position over the four years is a fiction then you are on the way to clawing back territory ) .", 
+                "given the coalition 's performance in 2013 , it 's also utterly reasonable for labor to raise questions about whether the government will promise one thing on cuts pre-election and do another thing afterwards .", 
+                "we 've seen them say one thing and do another .", 
+                "but in fairness we 've also seen labor say one thing and do another .", 
+                "so i 'm not sure that argument has much traction with voters weary of bipartisan dissembling , the default national spectator sport .", 
+                "labor can also point to the medium term for a couple of reasons : voters do want governments to have their eyes over the horizon , to be governing in the national interest not just now but for tomorrow and the next day , and next year and the next decade .", 
+                "i think a future pitch has some resonance .", 
+                "and the medium-term position does favour labor .", 
+                "the government is forgoing a huge amount of revenue courtesy of the business handout , for small economic gain .", 
+                "labor is starting to claw back revenue through changes like negative gearing and capital gains tax .", 
+                "that leaves the budget better off over time .", 
+                "i think labor is in with a shot of making a coherent argument .", 
+                "but it 's going to have to do the work , hammer the points , have the courage of its convictions and hope that honesty is the better policy .", 
+                "it wo n't happen by osmosis .", 
+                "and this is an enervating campaign , it 's almost a war of attrition courtesy of the length , and the coalition has every interest in keeping the tempo in that zone , because it benefits the incumbents .", 
+                "a win by default is a win , and with 2 july in sight , either side would take any win they can get ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                0, 
+                22
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758afdae4b00f7e4b1771fb", 
+            "title": "", 
+            "text": [
+                "chris bowen is asked whether labor 's commitment to returning to budget balance applies after it resets the budget .", 
+                "assuming a labor win , bowen has promised a mini budget to deal with the issue of dodgy assumptions .", 
+                "i 'm not certain whether the yes that follows is yes on the return to surplus or yes , we 'll have a mini budget .", 
+                "q : does your commitment to surplus stand after you reset the budget ?", 
+                "yes , we 've announced an economic statement within our first 100 days , that will update the budget forecast and projections but in terms of comparing the two offerings in this election , you use the existing budget as the starting point and that 's why we 've said the fiscal trajectory , the impact of our decision sees us returning to balance the same year as the government and the difference between our approach as well , remember scott morrison said at our debate there will be more cuts after the election , he just wo n't tell us what they are .", 
+                "this is deja vu all over again of the 2014 budget where they announced their election campaign promises eight months after the election .", 
+                "now we are taking a different approach .", 
+                "we 're taking controversial decisions , negative gearing , capital gains tax reform , tobacco , vet fee help , not having a baby bonus which the government reintroduced .", 
+                "all these measures , we could have taken a different approach which might have been more popular with some people but we 're calling it as it is .", 
+                "and yes , we are ensuring that we have a budget trajectory which sees us return to balance in the same year as the government .", 
+                "the difference is that we are telling the australian people our plans now .", 
+                "bowen is asked about the aaa credit rating , what is the impact of a deteriorating fiscal position over the forward estimates on the credit rating ?", 
+                "he says labor has identified the aaa credit rating is at risk unlike the government and will work to defend it .", 
+                "he says agencies like moody 's look at the total of the budget .", 
+                "chris bowen : it remains a priority for labor to defend the aaa rating ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                9, 
+                0, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758ad74e4b00f7e4b1771f3", 
+            "title": "is the government really saying they 're going to apply those savings measures retrospectively to 1 july , after the election ?", 
+            "text": [
+                "in sydney , the shadow treasurer , chris bowen , and the shadow finance minister , tony burke , are addressing the media in an effort to land the notion that the government 's budget , fundamentally , does not add up .", 
+                "bowen says people should look at the structural position in the budget : labor makes improvements over the medium term , can the government make the same claim ?", 
+                "chris bowen : the government 's corporate tax cut only cost $ 200m in 2017-18 , but it rises to a cost of $ 13bn a year at the end of the decade .", 
+                "our negative gearing , capital gains tax reforms make $ 600m for the budget in 2017-18 , but they rise over time to make $ 8bn a year for the budget at the end of the decade .", 
+                "so we improve the budget structurally and we do so every year under our plans .", 
+                "that is an important point .", 
+                "that is why we are more than happy to release our 4-year and 10-year costings and impact on the budget and the resulting budget bottom line , and we will do so during the course of this campaign .", 
+                "bowen goes on to identify the $ 18bn in savings the government is booking .", 
+                "the coalition needs to get real about these measures are they going to backdate them to take effect on 1 july ?", 
+                "if not .", 
+                "if not , then the budget is a fantasy .", 
+                "chris bowen : we know that despite malcolm turnbull 's strategic genius of having senate voting reform and then calling a double dissolution that there are very strong candidates for the senate crossbench .", 
+                "for the government to assume those $ 18bn of measures will pass is fiscal recklessness .", 
+                "as tony outlined yesterday , many measures start on 1 july , the day before the election .", 
+                "so the government has to fess up , and this is the second challenge for scott morrison today .", 
+                "is the government really saying they 're going to apply those measures retrospectively to 1 july , after the election , they 're going to apply those measures retrospectively ?", 
+                "if they 're not going to apply them retrospectively then their budget figures are mythical ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758ac48e4b00f7e4b1771ed", 
+            "title": "", 
+            "text": [
+                "i really hope mike bowers is wearing a splendid monogrammed jacket like the andrew nikolic jacket .", 
+                "if he 's not , he 's clearly not serious ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758abcae4b00f7e4b1771ea", 
+            "title": "", 
+            "text": [
+                "malcolm turnbull and the member for bass , andrew nikolic , tour the flooded tamar river at launceston in tasmania on thursday morning .", 
+                "bowers for the guardian turnbull and andrew nikolic tour the flooded tamar river at launceston .", 
+                "bowers for the guardian the media pack join malcolm turnbull and andrew nikolic on their tour of the flooded tamar river .", 
+                "bowers for the guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758ab50e4b01a5ff948aead", 
+            "title": "", 
+            "text": [
+                "man .", 
+                "look at this water .", 
+                "the flooded tamar river at launceston in tasmania , malcolm turnbull is due to see the flood damage for himself on thursday morning .", 
+                "bowers for the guardian mike bowers is down with malcolm turnbull beside the flooded tamar river ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758a9a9e4b00f7e4b1771e1", 
+            "title": "", 
+            "text": [
+                "julie bishop is asked about two portfolio issues png after the violence there yesterday , and the case of the australian missing in brazil .", 
+                "q : what does the australian government want peter o'neill to do ?", 
+                "julie bishop : peter o'neill is the elected prime minister of png and png is a sovereign nation .", 
+                "pm turnbull spoke to pm o'neill last evening and offered support if the government needed it but that offer was not taken up .", 
+                "we want there to be calm in png , we want png to focus on its strengths as a nation .", 
+                "it has an enormous economic opportunity with a number of lng projects .", 
+                "this can provide jobs and economic growth in png .", 
+                "but the violence is disturbing , of course , it is , and we call for calm and a deescalation of the tensions .", 
+                "these protests have been going on for some weeks now , the students have effectively boycotted the university .", 
+                "so we want to ensure that law and order is restored but that any police response to lawful peaceful protest is proportionate .", 
+                "q : there are reports that a body has been found in brazil , do you know whether that is the australian man who has been missing ?", 
+                "julie bishop : this is a very traumatic time for his family and he has been missing for some time now .", 
+                "i 'm not in a position to confirm that the reports of the body are indeed mr hunt .", 
+                "but as soon as we have any information from the authorities in brazil we provide it to the families .", 
+                "but this is obviously a very difficult time for them and we are providing the family with consular support .", 
+                "q : rye hunt 's family has given a statement to the media saying they 're disgusted with the local media there who apparently sent a photo of the body asking them to confirm that was their family member .", 
+                "if that was the situation , do you think that 's unprofessional ?", 
+                "julie bishop : i understand they have been seeking about his whereabouts , that they took to social media asking for any information about rye hunt 's whereabouts .", 
+                "i do n't know if the media have responded to that .", 
+                "i 'm not aware of the particular details of how the media got hold of their contacts in order to send such photographs .", 
+                "of course it 's insensitive and it 's a very difficult time for the family so i would urge the brazilian media to respect the family 's concerns and the obvious trauma that they 're experiencing at that time .", 
+                "q : so will you be contacting the family today ?", 
+                "julie bishop : well , the family are in contact with our consular staff .", 
+                "a number of them were in brazil and we obviously have an embassy that will be in contact with them ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5758a816e4b01a5ff948ae9c", 
+            "title": "", 
+            "text": [
+                "julie bishop is campaigning in sydney with the liberal mp david coleman , the member for banks .", 
+                "she 's just outlined some money for sporting facilities .", 
+                "q : this is just an investment in facilities , there 's no element of pork barrelling ?", 
+                "julie bishop : no , there 's are the certain announcements that a government concerned about local community should make .", 
+                "david has been advocating for more investment in community facilities and i think an announcement of $ 1.75m allocated across a number of sporting facilities is value for money .", 
+                "q : banks is one of your most marginal seats , are you worried about losing it ?", 
+                "julie bishop : every seat in australia is important to us and banks will be a close contest but i 'm quietly confident that the people of banks will have in david coleman a representative who is deeply concerned about their interests and engaged with the local community .", 
+                "it 's an important seat for us but i feel sure the people of banks will appreciate the fine member that they have in david coleman .", 
+                "q : do you want to share with us your internal polling ?", 
+                "julie bishop : that 's not going to happen ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758a463e4b01a5ff948ae89", 
+            "title": "", 
+            "text": [
+                "labor this morning is seizing on a remark from arthur sinodinos on radio national about savings measures in the budget .", 
+                "labor has been making the case over the past few days that the coalition has $ 18bn worth of savings in the budget that have no prospect of clearing the senate , therefore the coalition 's budget numbers do n't add up .", 
+                "setting aside the specific number , there 's a broad truth to this analysis .", 
+                "there are savings embedded in the budget that wo n't clear the senate , and if they were removed , then the government 's position over the forward estimates would be less favourable than it currently appears .", 
+                "on radio this morning the cabinet secretary said there was n't a hole in the numbers because the coalition is seeking a mandate for the savings measures this election , unlike [ clears throat ] another recent contest .", 
+                "arthur sinodinos : unlike what happened in the 2014 budget , we are actually putting these savings up to the public and saying we want a mandate to them .", 
+                "see !", 
+                "( says labor ) , an admission that tony abbott deliberately hid his agenda before the 2013 election .", 
+                "er , yes , we were all here .", 
+                "[ looks around to check ] .", 
+                "yes , we were here , we did see the coalition say one thing clearly before the election and another thing after it .", 
+                "in the event you were n't here , or if you 've forgotten that happened , i 'm sharing the sinodinos quote to confirm that political parties , in this case , the coalition , are perfectly capable of saying one thing before an election and another thing after it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758a31be4b064f52e5f9543", 
+            "title": "", 
+            "text": [
+                "speaking at his daily doorstop coalition campaign spokesman , mathias cormann , has batted away several questions on reports liberal mps use their office allowance to purchase data registry services from parakeelia pty ltd , a company that has donated significant sums to the liberal party .", 
+                "calla brought you julie bishop 's comments earlier today .", 
+                "the work expenses arrangements apply equally to all members of parliament across the board , and i think you 'll find the arrangements that are accessed , in terms of the relevant software , by liberal members and senators are the same as those accessed by labor members and senators , he told reporters .", 
+                "asked about the company 's donations to the liberal party , cormann said : work expenses arrangements are the same for all members of parliament , if you 've got questions on organisational matters i would refer you to the organisation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                23, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5758a012e4b064f52e5f9533", 
+            "title": "hand-wringing from lobbyists row", 
+            "text": [
+                "thanks calla , good morning everyone and welcome to thursday .", 
+                "let 's kick off this morning with business .", 
+                "business chambers are like big steam ships , capable of inflicting major trauma in a collision , but not fond of sudden movements .", 
+                "it 's interesting in that context to see the big business groups intervening in the election campaign this morning .", 
+                "ostensibly the worry of the business groups arrayed together on the front page of the australian financial review is anti-business rhetoric , which is , of course , code for wicked labor , prioritising health and education spending , social welfare if you like , above business welfare , that is , handing companies a tax cut .", 
+                "labor is also wicked enough to be suggesting there might be a cultural problem in the big banks , big enough to warrant a royal commission , so fair cop , there are thought crimes to point to if you earn a living defending corporate interests down in well heeled lobbyists row .", 
+                "but if i were a betting person i 'd put $ 20 on business being worried about something more practical : about the coalition going to water on the company tax cuts for behemoths .", 
+                "i suspect that 's why we 've seen various business groups line up on the front page of the financial review today to argue their corner .", 
+                "the business groups are , according the fin , countering the logic of the multi-tiered tax arrangement , which is a polite way of saying they 'd like the government to give everyone a tax cut , pronto .", 
+                "if you hold back one section of the business community , you are effectively holding every business back , the aig , the acci , and the bca says .", 
+                "so what is this , apart from a shameless bit of rent seeking ?", 
+                "it 's an expression of concern .", 
+                "like the rest of us , business groups have watched a trajectory of malcolm turnbull coming forth with his excitement machine , declaring tax cuts for business are the answer to what ails the australian economy , so much so that he 'll legislate the cuts over the period of a decade .", 
+                "then they watched him crab walk away from that rhetoric , suggesting the package is actually small business stimulus , and the tax cuts for big business are light years away .", 
+                "all this means the coalition is losing the pr battle on business tax cuts .", 
+                "they have n't been able to sustain the argument over an eight week election campaign .", 
+                "they are sandbagging their own policy .", 
+                "sandbagging a policy is often the first step on the path to repositioning .", 
+                "so i reckon labor 's thought crimes are convenient cover for the business community to do what they actually want to do : beg the government not to go to water in response to a public backlash .", 
+                "that 's my analysis for what it 's worth .", 
+                "now for your analysis .", 
+                "a reminder today 's comments thread is open for your business .", 
+                "if the thread 's too bracing for you , mike bowers and i are up and about on the twits he 's @ twitterid and i 'm @ twitterid .", 
+                "if you only speak facebook you can join my daily forum here .", 
+                "and if you want a behind-the-scenes look at the day and the campaign as a whole , give mike a follow on instagram .", 
+                "you can find him here .", 
+                "here comes thursday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57589f0ae4b064f52e5f952d", 
+            "title": "", 
+            "text": [
+                "the prime minister has arrived at the flood levee but , disappointingly , he is not wearing wellies .", 
+                "jackson gothe-snape ( @ jacksongs ) pm arrives at the tamar torrent .", 
+                "# ausvotes # tasfloods this is a rookie mistake .", 
+                "the cold in tasmania comes up through your feet and it 's even worse if your socks are wet .", 
+                "on that note , i 'll hand over to katharine murphy , who i 'm sure shares my pro-gumboot stance ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57589bdee4b00f7e4b1771af", 
+            "title": "", 
+            "text": [
+                "\u0080\u0098shouting over each other does n't really help anybody ' arthur sinodinos and chris bowen , the poor man 's christopher pyne and anthony albanese , have just wrapped up shouting at each other about the economy on radio national .", 
+                "sinodinos is scathing about labor 's economic plan , principally , it seems , because it has too many when you are treasurer , sinodinos tells bowen , you have to look at the overall macroeconomic effect of what you 're doing .", 
+                "it 's the macroeconomic effect , chris .", 
+                "you ca n't just look at the negative gearing policy in isolation .", 
+                "bowen said that he had taken a macro view of the economy , that 's why he had developed a 10-year plan , and why would the government not commit to developing a 10-year plan ?", 
+                "host frank kelly was forced to turn the water on .", 
+                "shouting over each other does n't really help anybody .", 
+                "stop !", 
+                "stop !", 
+                "bowen was asked about the decision of the greens to preference labor in key metropolitan seats .", 
+                "that does n't mean there 's a deal , he said .", 
+                "the only deal was between the greens and victorian liberal party state president michael kroger to the greens over labor .", 
+                "he said they will not do a deal with the greens to form a minority government .", 
+                "it takes two to tango and we 're not on the dance floor ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57589a04e4b01a5ff948ae61", 
+            "title": "", 
+            "text": [
+                "malcolm turnbull and entourage have just arrived in launceston , where flood waters peaked yesterday .", 
+                "he 'll join the tasmanian premier , will hodgman , for a tour around the flood waters , before heading up the coast .", 
+                "lisa martin ( @ lmarti ) tasmania v soggy .", 
+                "@ twitterid & @ twitterid visiting to inspect damage .", 
+                "# elections2016 # ausvotes # tasfloods mikearoo ( @ mpbowers ) pm turnbull media plane descends into launceston tasmania this morning @ twitterid @ twitterid # politicslive bill shorten is also flying into launceston .", 
+                "this beauteous sight awaits them .", 
+                "frank keany ( @ fjkeany ) the tamar river estuary , ahead of the pm 's visit to launceston @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-575896d2e4b064f52e5f9513", 
+            "title": "", 
+            "text": [
+                "speaking of andrew hastie , it appears he had a campaign visit yesterday from his good friend , tony abbott .", 
+                "the reunion was filmed for facebook , as part of what i 'm going to call hastie 's g'day canning series .", 
+                "they had a great buddy comedy routine during the canning by-election but the delivery this time around was a bit stilted .", 
+                "hastie : last year on august 22 , it was my first day in politics , and tony was standing right next to me , x marks the spot , for my first doorstop .", 
+                "tony , it 's great for you to be back in canning , i had your support then , i have it now , thanks for coming over to western australia .", 
+                "abbott : andrew , it 's great to be with you .", 
+                "you were a candidate then , you 're a member now , you 've done a great job locally and you 're doing a very good job in canberra as well and i hope to see you there after the election .", 
+                "hastie : thanks tony and i look forward to continue serving the people of canning into the future .", 
+                "abbott : well done , mate .", 
+                "good on you .", 
+                "hastie : thank you ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57589059e4b01a5ff948ae35", 
+            "title": "", 
+            "text": [
+                "tax-free tampons : a luxury labor can not afford the alp is doing a bit of damage control this morning after the opposition leader , bill shorten , appeared to back down on his previous support for removing the 10 % gst on tampons miscellaneous women 's sanitary items .", 
+                "labor said last year it would remove tax from tampons , giving them the same essential status as condoms and lubricant , and offset the $ 120m in lost revenue by introducing a tax on digital downloads , like netflix .", 
+                "but when shorten was asked about the issue at the people 's forum in brisbane last night , he said he would n't make promises he could n't keep , and that we ca n't afford the revenue loss .", 
+                "it did n't go down well .", 
+                "james o'doherty ( @ jmodoh ) here 's the @ twitterid in 2015 calling for gst on tampons to be removed .", 
+                "bill shorten says he ca n't afford it mark di stefano ( @ markdistef ) stunning.shorten says a labor government will not remove the tax on tampons # ausvotes in a statement this morning , shorten said : labor has always been open to removing the gst from sanitary items if we can get the agreement of all jurisdictions and if an alternative revenue source can be identified , like the government 's netflix tax .", 
+                "we argued that state and territory leaders should have removed the gst on tampons , and our position has n't changed .", 
+                "unfortunately , there has n't been agreement from the states and territories to make this change happen .", 
+                "new south wales and western australia strongly opposed the change at the last coag ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                22, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57588d08e4b01a5ff948ae2c", 
+            "title": "", 
+            "text": [
+                "the foreign minister , julie bishop , has rejected any suggestion of impropriety following a report in the fairfax press this morning that most liberal mps pay $ 2,500 a year out of their electoral allowance to a company called parakeelia pty ltd .", 
+                "the payment is a license fee for feedback software .", 
+                "fairfax reporter james robertson writes : parakeelia is registered to the same inner-canberra office building as the liberals .", 
+                "the company 's directors include the liberal party 's federal director , tony nutt , and president , richard alston .", 
+                "it is registered with authorities as being associated with the party .", 
+                "last financial year , parakeelia transferred $ 500,000 to the federal liberal division , making it the party 's second-biggest single source of funds .", 
+                "the year before it came in fourth with $ 400,000 ; before that $ 200,000 .", 
+                "but the liberals would not say how much of the company 's revenue began as taxpayer funding .", 
+                "some party figures question whether the party is profiting from public funding .", 
+                "speaking on the abc 's am , bishop rejected that allegation and said it was entirely legitimate for mps to use their electoral allowance to pay for software .", 
+                "all parliamentarians receive a money to pay for office expenses including a small amount , i think it 's a modest amount , for software costs , and the liberal party like the labor party , do have a preferred provider for that software\u0080\u00a6 i am told that the payments to that software provider do not result in a profit .", 
+                "bishop was on the program to talk about australia 's response to the fatal police shooting of four student protesters in papua new guinea .", 
+                "it is a complex legal and political and social situation in png .", 
+                "we are strong friends of png , we spend a lot of time and effort in png , and we certainly want to see the country focus on its strengths \u0080\u00a6 but we want to make sure the social and political unrest is effectively managed , and that 's a concern of the australian government ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                21, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57588a4be4b064f52e5f94e5", 
+            "title": "", 
+            "text": [
+                "speaking of the military , malcolm turnbull 's campaign yesterday took him to hmas albatross , the naval air base at nowra , nsw .", 
+                "malcolm turnbull sits in the cockpit of a romeo seahawk from 816 squadron at hmas albatross at nowra .", 
+                "bowers for the guardian turnbull holds a press conference at the nowra naval air base .", 
+                "bowers for the guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                21, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57588526e4b00f7e4b177151", 
+            "title": "", 
+            "text": [
+                "andrew hastie , the star of the canning byelection last year , whose pitch relied heavily on his experience as a former special forces soldier and army captain , has been sacked from the australian defence force , according to the west australian .", 
+                "the adf reportedly terminated hastie 's service in the army reserve after he repeatedly refused to remove photos of himself in uniform from election material .", 
+                "the west 's nick butterly reports hastie had used a few old uniformed photos on billboards and flyers , and declared the whole affair a fiasco .", 
+                "from hastie : the adf should be proud too that they have former adf personnel on both sides of politics .", 
+                "and then a parting shot at retired army chief and australian of the year , lt-gen. david morrison .", 
+                "david morrison politicised the adf long before i ever put my mug on a billboard .", 
+                "in fact , he hastened my exit from the army into politics ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                21, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-575878b9e4b064f52e5f949d", 
+            "title": "good morning", 
+            "text": [
+                "it 's remarkable , really .", 
+                "the prime minister , malcolm turnbull , fresh from refusing what he 's described as a decree by sky news to join its people 's forum in brisbane last night , spent an evening in the abc 's 7.30 studios getting grilled by host leigh sales .", 
+                "meanwhile bill shorten , man of the people , or at least man of the people 's forum , had the crowd at brisbane 's broncos leagues club to himself .", 
+                "and yet , somehow , they both managed to come off second best .", 
+                "it must just be that stage in the campaign .", 
+                "it 's day 32 .", 
+                "over the hump in week five now , just three and a bit to go .", 
+                "grab a cuppa and let 's get going .", 
+                "the big focus remains on the economy , and more specifically labor 's 10-year plan , which the opposition treasury spokesman , chris bowen , has said will create bigger deficits than the coalition has forecast before suddenly returning to surplus in the same year .", 
+                "as my colleague paul karp explains : labor 's claim it can return to surplus at the same time as the government is based on the fact a number of revenue measures will ramp up towards the end of the decade , including rejecting the government 's corporate tax cuts , increasing capital gains and abolishing negative gearing for existing properties .", 
+                "the finance minister , mathias cormann , who is presumably still nursing an icepack after that spectacular burn by tony burke following the pair 's press club debate yesterday , said bowen 's figures do n't add up .", 
+                "what [ bowen has ] admitted today is that labor will deliver bigger deficits over the four-year budget forward estimates period and [ is ] asserting that somehow over the medium term they 'll be able to pay for all their unfunded spending promises .", 
+                "elle hunt ( @ mlle elle ) `` moments of the debate have been like an argument with siri '' tony burke with the best sledge of the campaign thus far # ausvotes it is , as fairfax 's mark kenny writes , a risky strategy for labor to confirm the coalition 's de of them as a party that always runs into the red .", 
+                "after all , labor 's deeper deficit plan effectively reinforced their critique : that labor , as a party , is institutionally profligate and would never reach the long-term surplus .", 
+                "in light of this attack , one might have expected shorten and his shadow treasurer , chris bowen , to overcompensate to come in with a sharper fiscal consolidation than the government 's aimed at , snookering it politically .", 
+                "it has worked before : remember kevin rudd 's clever self-description as a fiscal conservative in 2007 ?", 
+                "backed by his campaign plea to a panicky john howard that the reckless election spending must stop in the national interest ?", 
+                "meanwhile , a survey has found that young people do n't care about the economy ; at least , not as much as they care about social issues .", 
+                "the entirely unsurprising findings were made by the australian research alliance for children and youth , which surveyed more than 3,000 people aged 12 to 25 .", 
+                "before those outside that age bracket start to scoff , remember that the number of enrolled voters under the age of 25 is a record 1.66m this election campaign , and only a third of that group has decided who to vote for .", 
+                "more from gareth hutchens : respondents were asked to nominate three issues they wanted addressed in the 2016 election an open-ended question to avoid bias , which allowed them to be unconstrained by predetermined responses .", 
+                "it found young people are most interested in hearing australia 's political leaders address questions to do with asylum seekers ( 21 % ) , marriage equality ( 19 % ) and climate change ( 16 % ) .", 
+                "on the campaign trail both malcolm turnbull and bill shorten are travelling to tasmania today to tour areas affected by devastating floods .", 
+                "the campaign you should be watching politicians ignore indigenous australians at their peril , and yet , apart from a few statements on sorry day , we 've not seen much from either major party in the way of policies geared toward aboriginal and torres strait islander peoples .", 
+                "this is despite the labor party standing a record number of indigenous candidates in lower-house seats .", 
+                "a group of peak indigenous organisations aims to change that today by releasing the redfern statement 2016 and demanding $ 534m be returned to the indigenous affairs portfolio .", 
+                "this from dr jackie huggins , co-chair of the national congress of australia 's first peoples : we have barely seen a mention of aboriginal and torres strait islander policy or issues this election campaign .", 
+                "that changes today .", 
+                "aboriginal and torres strait islander groups have come together to demand urgent action .", 
+                "it is time that aboriginal and torres strait islander voices are heard and respected .", 
+                "it is time for action .", 
+                "and another thing ( s ) the greens have released their marine policy , which includes $ 66m to protect marine wilderness areas and marine parks , $ 69.5m to compensate fisheries displaced by the establishment of said parks , $ 6m for shark research , and $ 2.5m to protect sharks from being finned .", 
+                "they have also proposed banning all super trawlers .", 
+                "my colleague michael slezak has the details here .", 
+                "michael has also released an extensive report this week on the health of the great barrier reef , which has begun to die after a severe coral bleaching event .", 
+                "experts have warned this is the last election to save the reef , so learn what 's happening here .", 
+                "meanwhile chris brown , the disendorsed labor candidate for the seat of fremantle , has said he wo n't sue the party for discriminating against him in contravention of the spent convictions act .", 
+                "brown was ousted after the party learned he had failed to disclose old convictions before being preselected .", 
+                "still in wa , senator dio wang , fresh from three years having cups of tea alone in the palmer united party offices in canberra , has told the australian he thinks it 's time for pup to drop the palmer ( and possibly the united , we suggest ) from it 's name .", 
+                "he told the australian : i think as a startup party the brand did help a lot .", 
+                "but at some time in the future when the time is right , we need to look at changing the party name to depersonalise it ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                6, 
+                8, 
+                20, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "australia-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.12am BST\n02:12\n'This is just another trick from Labor'\n", 
+                "block": "block-5758c12ee4b00f7e4b177248"
+            }, 
+            {
+                "text": "\n\n5.57am BST\n05:57\n'Today for me is not a day where I will join the dots about extreme weather events ...'\n", 
+                "block": "block-5758f67ce4b064f52e5f9683"
+            }, 
+            {
+                "text": "\n\n5.53am BST\n05:53\nBill Shorten addresses reporters in Latrobe\n", 
+                "block": "block-5758f57ee4b064f52e5f967e"
+            }, 
+            {
+                "text": "\n\n5.36am BST\n05:36\nOh, poo\n", 
+                "block": "block-5758f1a4e4b064f52e5f966f"
+            }, 
+            {
+                "text": "\n\n4.53am BST\n04:53\nThe view from Redfern\n", 
+                "block": "block-5758e798e4b064f52e5f9651"
+            }, 
+            {
+                "text": "\n\n4.50am BST\n04:50\nMagic mandates, with Angus Taylor\n", 
+                "block": "block-5758e5c1e4b00f7e4b1772ef"
+            }, 
+            {
+                "text": "\n\n4.26am BST\n04:26\n'Use your voice and your vote'\n", 
+                "block": "block-5758e13de4b064f52e5f9638"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "The prime minister talks flood relief and climate change in Tasmania as Bill Shorten begins his tour of the floods. Follow all the developments with Katharine Murphy.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

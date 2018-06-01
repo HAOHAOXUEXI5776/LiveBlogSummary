@@ -1,0 +1,2243 @@
+{
+    "blog_id": "e511dfd20eb25d74ccb9d9fdaf637f5f84802d8e", 
+    "title": "How cyber-attack is disrupting NHS - BBC News", 
+    "url": "http://www.bbc.com/news/live/39901370", 
+    "summary": [
+        "a cyber-attack on the nhs is affecting hospitals and gp surgeries across england and in scotland .", 
+        "ransomware software that locks computers , demanding payment , is being seen on screens .", 
+        "theresa may says the nhs incident is part of a wider cyber-attack affecting organisations around the world .", 
+        "similar infections are reported by spanish utility firms , and in the us , china , russia , italy , vietnam and taiwan .", 
+        "up to 28 nhs organisations in england are said to have been affected , as well as five gp surgeries in scotland .", 
+        "gps reported to be using pen and paper in some areas .", 
+        "some hospitals are diverting patients ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_59162817e4b0f4786086dcb6", 
+            "title": "that 's it from us", 
+            "text": [
+                "we 're wrapping up our live coverage of the cyber-attacks now but here 's a summary of what has happened so far :", 
+                "to follow updates on how the attack is affecting the nhs , see our story here and for the latest on international developments click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5916259be4b0f4786086dcb0", 
+            "title": "services will be affected 'well beyond the weekend '", 
+            "text": [
+                "health correspondent hugh pym says it is not clear how long the disruption to services will last but that it will almost certainly continue well beyond the weekend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59162307e4b05b6937f60c09", 
+            "title": "cyber-attack : view from an it specialist", 
+            "text": [
+                "terry baldwin tells us :", 
+                "the encryption virus attack on the nhs is commonly used against small businesses and individuals .", 
+                "as soon as this attack began , all hospitals and surgeries should have been told to shut down their computer systems to stop it spreading .", 
+                "apparently this did not happen and many surgeries were told it was safe to restart their computers around 3.30 this afternoon resulting in the further spread of the virus .", 
+                "this kind of attack usually causes some inconvenience or financial loss its victims but in this case it may well cause loss of life ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5916220ae4b05b6937f60c05", 
+            "title": "impact on staff morale", 
+            "text": [
+                "simon comments :", 
+                "i work in a it systems team in a nhs trust .", 
+                "we have spent all afternoon defending and protecting staff and patients from this .", 
+                "fingers crossed we will stay off the list .", 
+                "what i worry about is the long term effect this will have on staff moral and their trust of major it roll outs ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59162169e4b0f4786086dc99", 
+            "title": "snowden : hospital cyber security should be looked in to", 
+            "text": [
+                "nsa whistleblower edward snowden tweets", 
+                "in light of today 's attack , congress needs to be asking @ twitterid if it knows of any other vulnerabilities in software used in our hospitals .", 
+                "it 's not just hospitals .", 
+                "do you know how this works ?", 
+                "if you are interested in reading more follow @ twitterid this is a ms vuln that was patched in march .", 
+                "this is not the nsa 's fault .", 
+                "ah but patched in windows xp ?", 
+                "not sure , analysis suggests this is a recent unpatched variant ,", 
+                "the point is microsoft stopped support for xp years ago .", 
+                "people should not be using it e.g .", 
+                "in hospitals ! !", 
+                "!", 
+                "why are government agencies using windows at all ?", 
+                "why not a nix environment ?", 
+                "built for security and stability !", 
+                "even linux !", 
+                "i find it amusing that people think linux is secure .", 
+                "yes but a linux for the nhs developed by the nhs with strict signed code releases could be very secure and auditable .", 
+                "yes , ed , one huge vulnerability being gru stooges like you stealing exploits & handing them to tiny gangster putin .", 
+                "it 's you , ed , you .", 
+                "@ twitterid", 
+                "uk please ask who are board members on these mason health trusts deleting and selling our data to pie mmbrs , turn it round lets ask them id", 
+                "we will never be told .", 
+                "highpower members , corruption , uk people know our data is sold on the dark web @ twitterid", 
+                "hi lass , i see today bbc still spinning world cyber attack , reuters news suggest uk using cyber one off attcks ie basic count to exsagerate", 
+                "coverup for those in power", 
+                "the patch was released by ms in march .", 
+                "stop blaming the @ twitterid for ms vulns .", 
+                "but ca n't be used on many nhs pc 's as they run on xp .", 
+                "the patch does n't work on xp", 
+                "ms released a patch for xp", 
+                "not what reports are saying", 
+                "what frightens me as a doctor is how this thing seems to have jumped from one location to another so quickly", 
+                "all the computers are on the network .", 
+                "that 's what happens if a network is infected", 
+                "last count i saw , uk had 14 hospitals offline .", 
+                "people are going to die because of this", 
+                "i believe it 's increased now .", 
+                "it 's shocking .", 
+                "most nhs computers are running out of date windows xp .", 
+                "the patch that ms released does n't work", 
+                "legacy software is a serious problem in the healthcare sector ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_591620a0e4b0f4786086dc95", 
+            "title": "delayed appointment", 
+            "text": [
+                "alison tells us :", 
+                "i have tried to get an urgent gp appt for a patient this afternoon..", 
+                "unable to contact surgery and when i eventually had chance to call in , gp highlighted that without computer access he could n't order appropriate x-rays therefore appt had to be delayed until monday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161fd1e4b0be837140230d", 
+            "title": "trying to make contact", 
+            "text": [
+                "ruth , blackburn writes :", 
+                "as a chemotherapy patient i have a chemo unit helpline number ( in case of emergencies and queries ) .", 
+                "due to this cyber attack ( did n't know this at the time of ringing ) i could not get through .", 
+                "the phone lines had gone down .", 
+                "my query was not an emergency but was related to an important prescription .", 
+                "this is a real problem for the hospital and mine is just an example of the chaos it is causing .", 
+                "this could ultimately cost lives ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161e99e4b0be8371402308", 
+            "title": "fedex falls victim to ransomware", 
+            "text": [
+                "another firm that has confirmed it has been caught out by the cyber-attack is delivery company fedex , although it did not clarify in which territories it has been hit .", 
+                "`` like many other companies , fedex is experiencing interference with some of our windows-based systems caused by malware , '' it said in a statement .", 
+                "`` we are implementing remediation steps as quickly as possible . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161c79e4b0be83714022fb", 
+            "title": "west midlands a & e 'extremely busy '", 
+            "text": [
+                "sara describes the scene at the accident and emergency department at the university hospital coventry .", 
+                "`` it was extremely busy and hot and there were hardly any seats .", 
+                "the queue to be registered went out the door .", 
+                "`` they told people as they queued that there was a delay as the system was down .", 
+                "`` i am still waiting to be seen for an x-ray .", 
+                "i hope they are able to do it as obviously it will be done using a computer . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161a90e4b05b6937f60bd9", 
+            "title": "russian interior ministry targeted in attack", 
+            "text": [
+                "about 1,000 computers at the russian interior ministry have been affected by the cyber-attack , spokeswoman irina volk told interfax news agency .", 
+                "the news agency quoted the ministry as saying it had `` localised the virus '' and work was under way to destroy it .", 
+                "interfax added the the ministry had said servers were not affected `` owing to the use of other operating systems and homemade servers with russian elbrus processors '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161869e4b0f4786086dc6a", 
+            "title": "'carnage today ' : a dark verdict from london", 
+            "text": [
+                "an anonymous nhs staffer tells us :", 
+                "`` absolute carnage in the nhs today .", 
+                "two hyperacute stroke centres ( the field i work in ) in london have closed as of this afternoon .", 
+                "patients will almost certainly suffer and die because of this .", 
+                "`` had a patient that needed urgent neurosurgery referred , but unable to look at scans - stroke care is absolutely dependent on it systems and joined up systems . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59161576e4b0be83714022de", 
+            "title": "wales remains unaffected by attack", 
+            "text": [
+                "the nhs in wales has reported there are no issues with malware on any of its systems .", 
+                "a welsh government spokesperson said : `` we have had no reported cyber incidents affecting nhs wales but are monitoring the situation closely . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59160395e4b05b6937f60b6e", 
+            "title": "'things are taking longer ' - york hospital trust", 
+            "text": [
+                "york teaching hospitals nhs foundation trust says no operations have been cancelled as a result of the attack and surgeries will be continuing as usual over the weekend .", 
+                "but some mri scans will be cancelled .", 
+                "there have been no issues with sterilising equipment", 
+                "hospitals in scarborough , bridlington , york and malton and selby have had their email systems taken down .", 
+                "community services in malton and selby are also affected .", 
+                "the trust said the attack `` is having an impact - things are taking longer '' .", 
+                "plans are in place if the virus spreads so that the hospital can continue to run , it added .", 
+                "the hospital pharmacy is operating as usual and staff are still looking at if any routine appointments or scans need to be cancelled over the weekend ."
+            ], 
+            "author": [
+                "BBC Radio York"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_591603ffe4b05b6937f60b71", 
+            "title": "york trust cancels some breast screening services", 
+            "text": [
+                "in catterick , helmsley , pickering , malton and york breast screening services have been cancelled ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59160758e4b0f4786086dc0f", 
+            "title": "nhs has faced cyber-attacks before", 
+            "text": [
+                "health reporter philippa roxby reminds us that the nhs has faced cyber security issues in the past .", 
+                "the nhs has been hit by cyber-attacks before - but not on this scale .", 
+                "disruption is inevitable , particularly when something as important as patient records can not be accessed by hospitals and gps .", 
+                "this means appointments and operations having to be cancelled and rescheduled , and patients being transferred to hospitals that are not affected .", 
+                "but the nhs is stressing that it is still open for business and will do its best to give people the care they need , particularly in a genuine emergency .", 
+                "however , the message is to use the nhs wisely until computer systems are up and running again ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59160affe4b05b6937f60b93", 
+            "title": "explaining the global ransomware outbreak", 
+            "text": [
+                "what is ransomware , how does it work and what can be done to stop it ?", 
+                "the bbc takes a look at the wannacry virus ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59160813e4b05b6937f60b82", 
+            "title": "new cyber defence agency in the spotlight", 
+            "text": [
+                "the nhs ransomware attack is the biggest test ( that we know of ) for the national cyber security centre .", 
+                "what 's that ?", 
+                "it 's the uk 's frontline .", 
+                "cyber attacks are ranked among the top threats faced by the uk - but successive governments have been at odds and ends over how best to confront them .", 
+                "so much so in fact that mps recently warned that ministers had taken too long to consolidate an alphabet soup of agencies .", 
+                "the ncsc is supposed to be helping put an end to all that .", 
+                "its first chief , ciaran martin , said at the official opening in february that he wanted those who electronically attack the uk to think of us as the hardest of targets '' .", 
+                "today clearly shows they have a lot of work ahead .", 
+                "while they get on with it , here 's a link to the ncsc guide on how organisations - big and small - can protect themselves from ransomware ."
+            ], 
+            "author": [
+                "Dominic Casciani", 
+                "Home Affairs Correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915fab9e4b0f4786086dbd4", 
+            "title": "cybercrime wo n't beat nhs", 
+            "text": [
+                "dr ayesha malik posted this uplifting comment on whatsapp :", 
+                "`` i work as a gp in south london .", 
+                "it 's times like these that you realise how the nhs staff come together to tackle adversity .", 
+                "good old fashioned medicine and handwritten paper prescriptions - cybercrime wo n't beat us yet '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5916009ce4b0f4786086dbf1", 
+            "title": "how much is the ransom ?", 
+            "text": [
+                "computers in thousands of locations have apparently been locked by a program that demands $ 300 ( \u00a3 230 ) in bitcoin .", 
+                "bitcoin is a virtual currency , which is purchased with real money ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915fc46e4b05b6937f60b50", 
+            "title": "paper-based system 'is tried and tested '", 
+            "text": [
+                "the royal berkshire hospital in reading says access to patient records has not been affected but there are issues with the system it uses for discharging people .", 
+                "staff have reverted to using paper for these and some test results but maintain their paper-based system is `` tried and tested '' and that patient safety has not been compromised .", 
+                "however , the hospital does warn that patients should expect some delays to their care ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59160164e4b0be8371402283", 
+            "title": "'biggest worry ' for nhs staff is data security", 
+            "text": [
+                "one doctor says using paper and pen is not uncommon when computer systems fail .", 
+                "nhs staff used to reaching for the paper and pen when it systems fail .", 
+                "more worried abt confidential data security # nhscyberattack", 
+                "& ongoing effect on service provision with outage of key systems ( eg.radiology , theatre computers etc )", 
+                "hi ben .", 
+                "are you available to phone in to sky news for a chat about this and how it will affect doctors treating patients ?", 
+                "thanks .", 
+                "jill", 
+                "sorry-no", 
+                "unfortunately ca n't sketch cts or x-rays .", 
+                "let along radiotherapy plans .", 
+                "i just do n't have the artistic ability .", 
+                "just describe pixels over phone .", 
+                "`` black , black , grey , lighter grey , grey , white , dark grey , grey next line !", 
+                "black ``", 
+                "do n't worry too much .", 
+                "there 's nothing more unlikely to be uncoded than a doctor 's handwriting", 
+                "nhsd are saying no personal data been accessed so far .", 
+                "i do n't think this kind of ransomware designed for that ( but no expert myself )", 
+                "any news on what the next step is", 
+                "just wait .", 
+                "so long as a vulnerable pc is off it ca n't be held to ransom .", 
+                "until it 's patched it 'll be at risk .", 
+                "to shutting it down", 
+                "99 countries r hackd nt only uk thy wnt money nthng else its a serious issue for world", 
+                "but how do we know they are telling us ' all 'the implications risks etc", 
+                "pen and paper ?", 
+                "can the nhs afford this new technology ?", 
+                "hello ben .", 
+                "are you being affected by this ?", 
+                "we 'd like to hear from you on bbc 5 live if you are ?", 
+                "they do n't want data .", 
+                "just want money .", 
+                "also now hear that foreign sites also hit .", 
+                "our missile system has same system architecture !", 
+                ": ) !", 
+                "!", 
+                "yep .", 
+                "box under the reception desk with it-free ed inside .", 
+                "consequences may be far more wide reaching ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f8bae4b0f4786086dbce", 
+            "title": "nhs cyber-attack : 'quite scary and dangerous '", 
+            "text": [
+                "the national health service across england has been hit by a large scale cyber attack .", 
+                "several nhs organisations in england and scotland have had their computer systems compromised .", 
+                "chris maguire , a clinical pharmacist in north yorkshire , explains to pm how the cyber-attack affected him and his colleagues ."
+            ], 
+            "author": [
+                "Radio 4 PM"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915fdd3e4b05b6937f60b57", 
+            "title": "nhs 'not specific target for attack '", 
+            "text": [
+                "the pm has spoken to reporters about the cyber-attack on nhs digital .", 
+                "theresa may says : `` we are aware that a number of nhs organisations have reported that they have suffered from a ransomware attack .", 
+                "`` this is not targeted at the nhs , it 's an international attack and a number of countries and organisations have been affected .", 
+                "`` the national cyber security centre is working closely with nhs digital to ensure that they support the organisations concerned and that they protect patient safety .", 
+                "`` and , we are not aware of any evidence that patient data has been compromised . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ff2ee4b0f4786086dbe7", 
+            "title": "how widespread is the attack ?", 
+            "text": [
+                "earlier we were aware of 11 countries which have been affected by the ransomware cyber-attack .", 
+                "but now there have been reports of infections in as many as 74 countries , including the uk , us , china , russia , spain , italy and taiwan ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f8a3e4b0be8371402265", 
+            "title": "nhs trusts 'ran outdated software '", 
+            "text": [
+                "some who have followed the issue of nhs cyber security are sharing a report from the it news site silicon , which reported last december that nhs trusts had been running outdated windows xp software .", 
+                "the website says that microsoft officially ended support for windows xp back in april 2014 , meaning it was no longer fixing vulnerabilities in the system - except for clients that paid for an extended support deal .", 
+                "the uk government initially paid microsoft \u00a3 5.5 million to keep providing security support - but the website adds that this deal ended in may 2015 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f6dce4b0be837140225b", 
+            "title": "'senseless attack makes nhs staff work harder ' - unison", 
+            "text": [
+                "unison general secretary dave prentis said : `` staff are already facing huge challenges to keep the health service running and deliver the best care for patients .", 
+                "`` this senseless cyber-attack will make their jobs even harder .", 
+                "the government must take urgent action to get hospitals up and running again .", 
+                "`` they must also spend the cash to protect staff and patients from future incidents . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915fa53e4b0f4786086dbd1", 
+            "title": "may : this is part of wider international attack", 
+            "text": [
+                "there is no evidence that patient data has been compromised , prime minister theresa may confirms in a statement .", 
+                "the disruption to nhs digital is part of a wider international cyber attack , she adds ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f827e4b0be8371402261", 
+            "title": "newborns 'unable to have wrist name tags '", 
+            "text": [
+                "nurses at the royal london hospital have been unable to print identity tags to go around the wrists of newborn babies .", 
+                "warren jones ' partner gave birth to their fourth daughter , laurie , at about 10.30am this morning .", 
+                "the 24-year-old courier said : `` i do n't know what is going on , basically they are saying nobody is going to be around today , we are ready to go home .", 
+                "`` they are basically saying it is full , there are so many people , it is rammed , but they do n't want to let people go .", 
+                "`` it is normal to have two baby tags - we have got no tags .", 
+                "they ca n't print them out i 'm guessing .", 
+                "`` it is a bit disappointing really , i do n't know how easy it is but they have taken over a whole system and shut it down . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f65ce4b05b6937f60b38", 
+            "title": "explore ways to protect us from cyber-attacks , say lib dems", 
+            "text": [
+                "liberal democrat norman lamb , the party 's health spokesman , says today 's cyber-attack is `` deeply disturbing '' and warned of `` potentially awful consequences for patients '' .", 
+                "`` it shows we urgently need to explore what steps could be taken to better protect vital systems like this from cyber-attacks . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f468e4b0f4786086dbbd", 
+            "title": "nhs lanarkshire 'closing down non-essential it systems '", 
+            "text": [
+                "an nhs lanarkshire spokesman says the trust is closing down its non-essential networked it systems `` as a precaution '' .", 
+                "it says this will be temporary while specialists work to resolve the matter as quickly as possible .", 
+                "patients are advised to stay away from lanarkshire 's a & es unless they genuinely need immediate treatment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915f393e4b05b6937f60b30", 
+            "title": "turn it off !", 
+            "text": [
+                "kate tells us :", 
+                "this was the message staff were getting on their computers as i was leaving work . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f1cae4b05b6937f60b2b", 
+            "title": "a canadian 's first experience of the nhs", 
+            "text": [
+                "andy , ( currently in ) london , says :", 
+                "`` i was in a & e for the first time this morning .", 
+                "i 'm canadian so i had n't experienced the nhs before .", 
+                "i learned about the attack when a staff member came into the waiting room and explained that the delay was because of the cyber- attack .", 
+                "`` they were very professional , and worked really hard to make sure patients were still treated with respect and in a timely manner . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f024e4b0f4786086dbae", 
+            "title": "'my heart surgery was cancelled '", 
+            "text": [
+                "patrick ward was all prepared to have a septal myectomy today .", 
+                "he was in a gown , had been `` nil by mouth '' and already had a cannula [ the thin tube that drains fluid ] inserted when his operation was cancelled at the 11th hour ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915f01ce4b05b6937f60b28", 
+            "title": "nhs chief : 'trusts will activate silver command '", 
+            "text": [
+                "saffron cordery , director of policy and strategy at nhs providers which represents nhs trusts , says trusts will aim to ensure they handle the situation as quickly as possible to minimise the impact on patients ."
+            ], 
+            "author": [
+                "Radio 4 PM"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e9f4e4b0f4786086db9b", 
+            "title": "royal berkshire hospital affected by cyber-attack", 
+            "text": [
+                "a statement on the hospital foundation trust 's website says :", 
+                "`` there are currently national issues with the nhs it network .", 
+                "some of the rbft telephone lines may also be affected .", 
+                "engineers are aware of these and are seeking to rectify the issue .", 
+                "`` patient care remains unaffected , although there may be some delays as we switch on to our backup systems .", 
+                "`` we apologise for any inconvenience . ''"
+            ], 
+            "author": [
+                "Linda Serck", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ef8ae4b0f4786086dbaa", 
+            "title": "patient tells of cancelled scan", 
+            "text": [
+                "an anonymous patient tell us :", 
+                "i had an mri at hexham , northumberland , tonight so i called to find out if i should still go .", 
+                "i was told yes as the scans were being burned onto discs rather than go on the system but have since been called back and it has been cancelled as staff have been told to turn off all equipment as it 's not known how deep into the system the virus is ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915eef4e4b0f4786086dba7", 
+            "title": "outbreaks in 11 countries", 
+            "text": [
+                "cybersecurity expert prof alan woodward says 11 countries are reporting outbreaks of this wcry ransomware , with spain and russia the worst affected so far ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ee5fe4b05b6937f60b24", 
+            "title": "nhs england 's message of reassurance", 
+            "text": [
+                "nhs incident director , dr anne rainsberry , said : `` we 'd like to reassure patients that if they need the nhs and it 's an emergency that they should visit a & e or access emergency services in the same way as they normally would and staff will ensure they get the care they need .", 
+                "`` more widely we ask people to use the nhs wisely while we deal with this major incident which is still ongoing . ''", 
+                "she added there are contingency plans to `` keep the nhs open for business '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ee2ee4b05b6937f60b23", 
+            "title": "noisy newark", 
+            "text": [
+                "a reader , whose sister works in newark hospital , in nottinghamshire , contacts us to report that fire alarms at the hospital are going off so local fire services are being affected as well as hospital staff ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915eda1e4b0be8371402245", 
+            "title": "admin worker poses question about nhs email filters", 
+            "text": [
+                "an anonymous admin worker tells us : i 'm an admin worker for oxford university hospitals and can confirm our systems are unaffected , but i 've had a lot of what look like phishing emails asking me to upgrade my account in the last 2-3 weeks .", 
+                "having never had any of those get past our email filters before i wonder if those are connected ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ed3ce4b0be8371402241", 
+            "title": "district nurse services affected in cumbria", 
+            "text": [
+                "an anonymous update from cumbria :", 
+                "cumbria community nhs trust is also affected by the cyber attack .", 
+                "all their systems are down .", 
+                "the district nurse visiting us today said they ca n't access any of the notes or even print of the list of addresses they have to visit ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ed20e4b0f4786086dba2", 
+            "title": "gps 'have no idea what drugs people are on or their allergies '", 
+            "text": [
+                "dr emma fardon , a gp in dundee , told the bbc :", 
+                "`` it became very obvious at around 1pm .", 
+                "i came back from house visits to find all our computers hit by the virus .", 
+                "`` it was the red display asking for the money.. we ca n't access any patient records .", 
+                "`` everything is fully computerised .", 
+                "we have no idea what drugs people are on or the allergies they have .", 
+                "we ca n't access the appointments system .", 
+                "`` we 've had to try and phone as many people to rearrange their appointments to next week .", 
+                "`` it 's had a massively disruptive effect .", 
+                "we ca n't process any documents , ca n't issue prescriptions , or look up results .", 
+                "`` we 're trying to accommodate who we can .", 
+                "we are still seeing people who really need it .", 
+                "`` we 've had glitches in the past but i 've never seen anything as bad as this .", 
+                "we 've no idea how long it will last for . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915eb2ee4b05b6937f60b1c", 
+            "title": "x-rays put off until tomorrow in northumbria", 
+            "text": [
+                "a parent tells us : northumbria trust hospitals are also affected .", 
+                "my son had an accident at school today .", 
+                "we have to go back to hexham hospital tomorrow for an x-ray as all systems were down ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915eac1e4b0f4786086db9d", 
+            "title": "no indication of how long it will take to fix", 
+            "text": [
+                "nhs sources tell the bbc that the prevention patch for this particular malware can be quickly installed .", 
+                "but once systems are affected , there is no indication , as yet , on how long it will takes to fix them ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915eafae4b0be837140223c", 
+            "title": "doctor describes the impact on his hospital", 
+            "text": [
+                "dr tarek seda says he had to divert a serious case because of the `` cowards '' behind the nhs cyber attack ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ea37e4b05b6937f60b19", 
+            "title": "trusts 'remaining vigilant '", 
+            "text": [
+                "although not all nhs trusts have been affected by the cyber-attack , hospitals say protecting patient information is a `` top priority '' .", 
+                "we have not been affected by # nhscyberattack , but are remaining vigilant .", 
+                "protecting patient information is our top priority ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915ea2ae4b0f4786086db9c", 
+            "title": "gp practices , pharmacies and universities also affected", 
+            "text": [
+                "saffron cordery from nhs providers tells the bbc she believes around 21 hospital trusts are now affected .", 
+                "she added that gp practices , pharmacies and universities had also been affected .", 
+                "but she said that , despite the major incident , anyone who turned up at an a & e in an emergency situation would be given first-class treatment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e9f5e4b05b6937f60b16", 
+            "title": "always listen to matrons an anonymous doctor writes :", 
+            "text": [
+                "`` york , grimsby , bassetlaw are all affected .", 
+                "one doctor describes a matron running around the wards yelling at everyone to turn off their computers . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e990e4b0be8371402236", 
+            "title": "'bear with your gp '", 
+            "text": [
+                "a gp in york tweets asking patients to bear with their doctor after the cyber-attack affecting nhs digital .", 
+                "at least that 's the spelling we 're assuming is intended .", 
+                "seeing patients using a pen and paper .", 
+                "please bare with your gp / hospital today .", 
+                "# nhs # nhscyberattack", 
+                "this is why you have secretaries hahaha .", 
+                "well done for trying to get out a positive message on this difficult day aaron x", 
+                "ha ha absolutely !", 
+                "'bare with your gp ' unless you would like to request a chaperone .", 
+                "ha ha good point # fridaybrain !", 
+                "hi dr brown , 5 news are looking to speak to doctors live at 6.30pm tonight - have you been affected ?", 
+                "yes completely !", 
+                "dm me", 
+                "hi aaron , i 'm with press association .", 
+                "are you for a wuick chat about this ?", 
+                "dm me", 
+                "hope all is ok and nice share of this on the bbc news app that i 've just seen .", 
+                "rob", 
+                "looks like it 's a pretty tough problem - all the various emergency teams are on it .", 
+                "how 's ardens 's lands ?", 
+                "ok at present thanks but will be keeping a close eye on things .", 
+                "hi aaron .", 
+                "would we be able to speak to you on bbc 5 live about the issues you 've been having ?", 
+                "dm me", 
+                "thanks aaron .", 
+                "i see you 've already been on tv !", 
+                "we may well this up again next wk on drive .", 
+                "will follow you .", 
+                "cheers", 
+                "spelling mistakes must run in the family i think ( mother in law thinks @ twitterid was `` impressive inbred '' )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e8fbe4b0f4786086db99", 
+            "title": "in spain , it 's utilities that are today 's target", 
+            "text": [
+                "the cyber-attack in spain - similar but not yet linked to the one on the nhs in england - appears to have targeted utility firms .", 
+                "power firm iberdrola and utility provider gas natural have reported problems , as well as telecoms giant telefonica ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dfe8e4b0f4786086db7d", 
+            "title": "nhs attack 'could have been prevented ' , says security expert", 
+            "text": [
+                "dr mils hills , who is an associate professor of risk , resilience and corporate security at the university of northampton , has told the bbc the cyber attack on the nhs `` could have been prevented '' .", 
+                "`` it 's most certainly going to have come from a user clicking something they should n't have , whether it 's in an email or on an internet browser tab , '' he said .", 
+                "`` hospitals should have measures to prevent this .", 
+                "`` it will be fixed and removed , but it will cost a lot .", 
+                "the task to fix it wo n't be difficult , but will be time-consuming .", 
+                "`` the problem is this is a pretty low-level attack and it 's causing such chaos . ''", 
+                "an nhs digital statement said : `` nhs digital is working closely with the national cyber security centre , the department of health and nhs england to support affected organisations and ensure patient safety is protected . ''"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e6e2e4b05b6937f60b0e", 
+            "title": "hull and east yorkshire trust 'responded rapidly '", 
+            "text": [
+                "a spokesman for hull and east yorkshire hospitals nhs trust , confirmed malware was detected on their systems but it had `` not had a significant impact '' .", 
+                "he added : `` our it team responded rapidly and we have blocked all incoming email and all web mail for the time being .", 
+                "no patient systems are affected . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e62de4b0f4786086db90", 
+            "title": "why would anyone target the nhs ?", 
+            "text": [
+                "radio 4 presenter matthew price explains why cyber-attackers would potentially want to target the nhs .", 
+                "# nhscyberattack this from my previous tweet", 
+                "if the reports are correct the malware used to attack the nhs does not steal data .", 
+                "also it was a general attack not just on the nhs .", 
+                "and the nhs does n't have patient financial info- the journos tweet could n't be more pointless", 
+                "totally agree with both of you .", 
+                "news reporters are hopeless when it comes to reporting technology stories , as they do n't understand it .", 
+                "it is irresponsible to spread fud like this , no evidence to suggest data being stolen , just locked .", 
+                "that 's nothing to do with a crypto locker type attack though ?", 
+                "it is encrypt your data ask for a ransom fore the encryption key", 
+                "are you replying to me ?", 
+                "if so , you 've miss read my point .", 
+                "you ' ? '", 
+                "mark makes your statement confusing peter", 
+                "ok. fair enough .", 
+                "bad stuff , hope nhs not tempted to cough up , and security services get after the miscreants and nick them , wherever they may be .", 
+                "ransomware does not steal data , it stops the user from using their computer .", 
+                "does n't seem to be targeting the nhs specifically either .", 
+                "sorry @ twitterid but this attack is not designed to steal data at all .", 
+                "suggest you read up on what ransomware does .", 
+                "and chronically underfunded ones have no money to invest in security or modern it .", 
+                "plump target ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e56de4b05b6937f60b08", 
+            "title": "south west 'unharmed by cyber-attack '", 
+            "text": [
+                "health service journal correspondent tweets", 
+                "not hearing this happening in cornwall , devon , or somerset - not sure on hamps/dorset - but looks like south west unscathed .", 
+                "# nhscyberattack", 
+                "i 've heard that plymouth has been affected ?", 
+                "hi kane - you might have most recent update - feel free to dm me details .", 
+                "incompetent # jerrmyhunt not funding update to # windowsxp unsupported by # microsoft for several years # saveournhs"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_39902447", 
+            "title": "ex-hacker on how ransomware works", 
+            "text": [
+                "ex-hacker on how ransomware works"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915dfd5e4b05b6937f60aee", 
+            "title": "affected systems 'are all windows '", 
+            "text": [
+                "details from spain 's national cryptology centre on which computer systems are being affected :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e179e4b05b6937f60af5", 
+            "title": "is this attack happening on a global scale ?", 
+            "text": [
+                "as well as those in the uk and spain , there are also reports of mass computer infections in italy , portugal , russia , vietnam , kazakhstan and taiwan .", 
+                "it is not yet clear whether the attacks are all connected .", 
+                "one cyber-security researcher tweeted that he had detected 36,000 instances of the ransomware , called wannacry and variants of that name .", 
+                "36,000 detections of # wannacry ( aka # wanacypt0r aka # wcry ) # ransomware so far .", 
+                "russia , ukraine , and taiwan leading .", 
+                "this is huge .", 
+                "so , you are seeing the same as we :", 
+                "yes , pretty much the same .", 
+                "is this ones detected by your av or total infections ?", 
+                "detected just by us", 
+                "few hashes we 've seen :", 
+                "does this refer to to the full downloaded.exe ?", 
+                "or to part of the dropper ?", 
+                "both , there are 2 smaller sized files that i think are droppers , and 2 larger ones that are the exe .", 
+                "thanks .", 
+                "all four confirmed via live samples or virustotal .", 
+                "have you seen them ( or anything ) in email stream at all ?", 
+                "yes it is , been trying to get the word out .", 
+                "people so hung up on trump they do n't realize a world wide cyber attack is happening .", 
+                "maybe this was to distract from trump ?", 
+                "just putting that out there .", 
+                "no not world wide russia hit hard .", 
+                "this is what happens when people praise wiki leaks .", 
+                "we really should be concerned about it .", 
+                "the # attack was supposed to be contained within american/european countries .", 
+                "\u0432\u043e\u0441\u0441\u0442\u0430\u043d\u0438\u0435 \u043c\u0430\u0448\u0438\u043d \u043d\u0430\u0447\u0430\u043b\u043e\u0441\u044c ?", 
+                "@ twitterid", 
+                "\u0431\u044b\u0441\u0442\u0440\u0435\u043d\u044c\u043a\u043e \u0440\u0430\u0441\u0442\u0435\u0442 )", 
+                "\u043d\u0435 \u043d\u0440\u0430\u0432\u0438\u0442\u0441\u044f \u043c\u043d\u0435 \u044d\u0442\u0430 \u0441\u043a\u043e\u0431\u043e\u0447\u043a\u0430 \u0432 \u043a\u043e\u043d\u0446\u0435 .", 
+                "\u043f\u043e\u0434\u043e\u0437\u0440\u0435\u043d\u0438\u044f \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0442", 
+                "\u044d\u0442\u043e \u044f \u0435\u0449\u0451 \u0441\u0432\u043e\u0439 \u043d\u043e\u0443\u0442 \u043d\u0435 \u043f\u0440\u043e\u0432\u0435\u0440\u0438\u043b \u043f\u0440\u043e\u0441\u0442 .", 
+                "\u0430 \u0434\u043b\u044f \u044f\u0431\u043b\u043e\u043a\u0430 \u043e\u043f\u0430\u0441\u043d\u043e ?", 
+                "\u0443 \u043c\u0435\u043d\u044f \u0442\u0430\u043c \u0432\u0441\u0435 \u0441\u0430\u043c\u043e\u0435 \u0432\u0430\u0436\u043d\u043e\u0435", 
+                "\u0432\u0440\u043e\u0434\u0435 \u043d\u0435\u0442 .", 
+                "\u0432\u0438\u043d\u0434\u043e\u0432\u043e\u0435", 
+                "yuuuuuge = ]"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e28ce4b05b6937f60afc", 
+            "title": "may 'knows about the cyber-attack '", 
+            "text": [
+                "prime minister theresa may is being kept informed of the situation involving the nhs cyber-attack , a downing street spokesman says .", 
+                "health secretary jeremy hunt is currently being briefed by the national cyber security centre ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e41de4b05b6937f60b01", 
+            "title": "patient told to wait for a reboot", 
+            "text": [
+                "carl buckley from south shields , tyne & wear , tells us :", 
+                "i went to my gp 's this afternoon to collect a repeat prescription .", 
+                "while i was there i asked about the results of an x-ray i was also waiting on .", 
+                "`` the receptionist started to look on the computer and after a few minutes of her trying to find the details told me the system was n't working .", 
+                "she asked me to wait while they rebooted it .", 
+                "20 minutes later they told me it was n't working and suggested the computers were down across the nhs", 
+                "i told them i had read about the cyber attack .", 
+                "patients were arriving at the surgery and the automated appointments system was n't working either so it was quite chaotic ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e3f3e4b05b6937f60aff", 
+            "title": "'queue almost out the door '", 
+            "text": [
+                "kevin who works in the a & e department at the university hospital in coventry and warwickshire emailed the bbc to say : `` the computers are down so we ca n't register people arriving .", 
+                "`` the queue , currently 17 people and growing , is almost out the door ! ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e36ae4b0f4786086db87", 
+            "title": "going back to basicssteve thompson , waterloo medical centre , blackpool says :", 
+            "text": [
+                "i 'm in the middle of surgery .", 
+                "`` we 're just writing prescriptions by hand now .", 
+                "it 's a bit like a & e days .", 
+                "`` my hand is sore !", 
+                "`` i could n't connect with our it system at around midday .", 
+                "`` we 've been told not to use any it system yet .", 
+                "we 've had no updates .", 
+                "`` our patients have been very understanding . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e307e4b0be837140221c", 
+            "title": "not just in england", 
+            "text": [
+                "although the cyber-attack has appeared to be targeted on nhs services in england , four gp practices in the greater glasgow and clyde area report that they have experienced disruption to their computer systems .", 
+                "other nhs services in that area remain unaffected ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e0a7e4b0f4786086db7f", 
+            "title": "'do not attend appointment ' - southport and ormskirk trust", 
+            "text": [
+                "if you have an outpatient appointment at southport and ormskirk hospitals tomorrow , the nhs trust says please do not attend .", 
+                "they say they will phone patients on monday to rearrange .", 
+                "people are also being told to avoid a & e if it is possible and safe to do so .", 
+                "ormskirk hospital switchboard is currently unavailable but patients can contact wards via their direct lines ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e043e4b05b6937f60af0", 
+            "title": "get in touch", 
+            "text": [
+                "are you an nhs worker who has been affected by the cyber-attack ?", 
+                "are you a patient whose operation or treatment has been cancelled ?", 
+                "we want to hear from you .", 
+                "tell us what is happening where you are .", 
+                "contact us at haveyoursay @ bbc.co.uk"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915e1f6e4b0be8371402219", 
+            "title": "up to 25 nhs services have been affected", 
+            "text": [
+                "the bbc understands up to 25 nhs organisations and some doctors ' surgeries have been affected by the cyber-attack ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915df7ae4b05b6937f60aed", 
+            "title": "we 're managing , says preston gp", 
+            "text": [
+                "stephen hirst , gp at a primary care practice in new hall lane , preston :", 
+                "around 2:30pm all terminals started to show the error message warning that we 'd have to pay money to unlock the computer because it 's been encrypted .", 
+                "it 's compromising having to open files and complete prescriptions .", 
+                "`` it 's interfering with day-to-day functioning .", 
+                "`` we 're managing .", 
+                "it 's not too bad for us at the moment .", 
+                "`` we 've been advising people that , if they can wait , not to come down .", 
+                "`` i 'm carrying on with a small surgery .", 
+                "`` i 'm just with a small child at the moment .", 
+                "`` we 're doing ok .", 
+                "it 's ticking over .", 
+                "`` if we can delay things until things get sorted that 's what we 're trying to do . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d6e5e4b05b6937f60ac2", 
+            "title": "hospitals cyber attack : 'systems could be down for days '", 
+            "text": [
+                "a senior manager at east and north herts nhs trust has told the bbc the trust became aware of the cyber attack problems at about 11:30 .", 
+                "he said patients at its hospitals were being risk-assessed , with ambulances being sent elsewhere .", 
+                "he believed the problems could last all weekend and it was looking at using older phones as a form of contact ."
+            ], 
+            "author": [
+                "Lee Agnew", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dd9fe4b0be8371402209", 
+            "title": "anonymous update from a practice manager in st helens", 
+            "text": [
+                "i am a practice manager in st. helens , merseyside and this has also affected the whole of st. helens and knowsley trust and liverpool .", 
+                "we have been advised that it may not be fixed by monday and we have been told not to shut our computers down tonight as this is how they are getting in ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915deade4b0be837140220f", 
+            "title": "scottish gps and dentists affected", 
+            "text": [
+                "although this has been reported as a cyber-attack on nhs services in england , there are some services in scotland that have told of being affected .", 
+                "the health boards in dumfries and galloway and forth valley say that they have taken steps to minimise the risk of the problem spreading ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915de54e4b0be837140220c", 
+            "title": "services affected so far", 
+            "text": [
+                "here is a list of the hospitals that we know are affected :", 
+                "we 'll keep it updated as we get more information"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dc81e4b0be8371402200", 
+            "title": "what is ransomware ?", 
+            "text": [
+                "recovery experts databarracks says it is a type of malware that prevents access to certain parts of your system unless you pay a ransom to the attacker .", 
+                "ransomware encrypts data and system files by exploiting a security vulnerability or back door .", 
+                "if a payment is not made in time , the attacker can destroy the decryption key and any compromised data will be permanently lost and you will be unable to retrieve it ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dd29e4b0f4786086db6a", 
+            "title": "peterborough hospital suspend systems 'as a precaution '", 
+            "text": [
+                "peterborough hospital is unaffected by the cyber-attack but has suspended its website and email systems as a precaution ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dc9ee4b0be8371402201", 
+            "title": "a nurse writes anonymously", 
+            "text": [
+                "anon : i 'm a nurse in a hospital in yorkshire .", 
+                "we were told to disconnect all computers , which we did , we 've also been told our door entry and heating systems may also not work .", 
+                "our directorate is possibly calling a major incident .", 
+                "some of our equipment is internally networked and that function has been disabled , but we are still able to use them eg blood sugar metres and ventilators .", 
+                "kettle still working , so we 'll be ok !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915db63e4b0f4786086db65", 
+            "title": "patient 's mri scan terminated midway through", 
+            "text": [
+                "patient ron grimshaw tells the bbc of what happened to him in the past few hours at the lister hospital in east herts .", 
+                "he says :", 
+                "`` i was in the middle of a mri scan which was suddenly terminated and i was taken out of the machine .", 
+                "`` i was told of the suspected cyber-attack .", 
+                "`` i was told to wait to see if the systems could be restored but that turned out to be not possible so i had to get dressed and return home , 15 miles away , to await a possible message to return to complete the examination .", 
+                "`` i also had cancel a x-ray appointment that i was due to have there today . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dacce4b0be83714021f7", 
+            "title": "meanwhile in spain", 
+            "text": [
+                "spanish broadband provider telefonica says some of its employees in madrid have been affected by a similar cyber-attack today .", 
+                "a statement says : `` immediately , the security protocol for this type of incidents has been activated with the intention that the affected computers operate normally as soon as possible . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d9c4e4b05b6937f60ad1", 
+            "title": "how the computers look", 
+            "text": [
+                "alessio de luca is a technician in the cardiology dept at colchester general hospital .", 
+                "he sent in this", 
+                "we were working and all the computers went down .", 
+                "my job involves performing scans on patients and because the computers were stuck we were unable to report the scans .", 
+                "we had to start doing it with pen and paper . ''", 
+                "the whole hospital is affected .", 
+                "there have been long delays.. my colleagues in admin staff were completely unable to work . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915dab5e4b05b6937f60ada", 
+            "title": "'lessons have not been learned ' - patients ' group", 
+            "text": [
+                "the patients association condemned the criminals behind the cyber-attack on the nhs but said lessons from earlier incidents had not been learned .", 
+                "`` we should be clear that responsibility for today 's apparently extensive attack on nhs it systems , and for any harm that occurs to patients as a result , lies with the criminals who have perpetrated it .", 
+                "`` from reports so far , the attack appears to have been highly co-ordinated and aggressive and a police investigation will no doubt be required .", 
+                "`` however , that something of this sort could happen will surprise few people .", 
+                "`` it has long been known that the nhs struggles with it in multiple respects and that this includes serious security problems .", 
+                "though today 's may be the largest attack of this sort , it is not the first - yet the lessons from earlier incidents have not been learnt .", 
+                "`` the power of it in transforming services for patients is undoubted , yet the nhs has struggled to harness it : centralised approaches have failed badly , while smaller scale local projects can easily give rise to huge variations in both quality and security .", 
+                "we are seeing today that it security is critical to patient safety .", 
+                "`` in this election period , we must look to our political parties for leadership - now is not the time to be squeamish about the cost of keeping our nhs secure . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915da8de4b0be83714021f3", 
+            "title": "west middlesex hospitalupdate from emergency unit :", 
+            "text": [
+                "i 'm a general med doctor in the emergency acute dept..", 
+                "phones and pcs down at west middlesex hospital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915d9d5e4b05b6937f60ad2", 
+            "title": "'how to get your files back '", 
+            "text": [
+                "nurse helen barrow from littleborough , lancashire , found this icon on her desktop ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d954e4b05b6937f60ace", 
+            "title": "surgery staff are perseveringdr w emails :", 
+            "text": [
+                "`` i 'm a gp in suffolk we 've had similar problems here , with all it systems shut down .", 
+                "`` we 're only able to see emergencies , as all data is now on computers .", 
+                "`` there is a safety issue when managing patients without computers !", 
+                "`` as always we have broad shoulders and will persevere ! ! ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d941e4b0f4786086db57", 
+            "title": "gchq criticised for limerick tweet", 
+            "text": [
+                "gchq , the electronic surveillance agency , has been criticised on social media for a poorly-timed tweet which was sent as the cyber-attack unfolded ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d8dae4b0f4786086db53", 
+            "title": "lincolnshire hospitals 'will divert some emergencies '", 
+            "text": [
+                "united lincolnshire hospitals trust says all of its computer systems and many phone lines are switched off .", 
+                "where possible , the trust will be diverting some emergency cases to local hospitals which are not affected .", 
+                "the trust says : '' we ask patients to only come to our a & es if absolutely necessary .", 
+                "`` we do not yet know how long this incident will last , and therefore are cancelling all outpatient , endoscopy , cardiology and radiology appointments scheduled for this weekend . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915d891e4b0f4786086db52", 
+            "title": "`` email shut down - just to be safe ''", 
+            "text": [
+                "dr qassid in kettering emailed the bbc to say that the email system in kettering general hospital was shut down as a precaution .", 
+                "he added : `` i hope this attack does n't lead to any breaches of confidentially of our patient records . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d861e4b0be83714021e5", 
+            "title": "contingency plans in east london", 
+            "text": [
+                "we 're diverting patients from royal london to queens , romford .", 
+                "our trauma patients are also being diverted elsewhere .", 
+                "all phones at newham hospital are down .", 
+                "50 % of phones at whipps cross are down .", 
+                "all elective operations today and tomorrow are cancelled .", 
+                "pathology labs also severely affected so we ca n't get patient blood test results"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915d7b5e4b0be83714021e3", 
+            "title": "hopital advises against non-emergency a & e visits", 
+            "text": [
+                "hopital advises against non-emergency a & e visits"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d74fe4b0be83714021df", 
+            "title": "cyber attack : your stories", 
+            "text": [
+                "an anonymous hospital worker told the bbc :", 
+                "`` the cyber-attacks have really left our team in a bit of a rut , ca n't access our internet or use our emails .", 
+                "have had to put work on hold as i ca n't do anything .", 
+                "not really what the nhs needs right now ! ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d735e4b0f4786086db47", 
+            "title": "uk 's national cyber security centre looking into attack", 
+            "text": [
+                "the national cyber security centre tweets", 
+                "we are aware of cyber incident and we are working with @ twitterid and the @ twitterid to investigate", 
+                "ok guys .", 
+                "now you show us your mettle .", 
+                "go get them .", 
+                "was in my doctors when this happened .", 
+                "must say all staff handled it very well but does show how reliant on computers we are", 
+                "no it shows how inept nhs cyber security is .", 
+                "simple software , procedures and staff education can stop this type of attack easily .", 
+                "try ctrl , alt and delete", 
+                "are you going to recommend your parent organisation @ twitterid starts disclosing vulnerabilities rather than hoarding them , now ?", 
+                "icymi , ips/ids rule ahead of patching the endpoints :", 
+                "please reach out if there is anything the uk cyber security or it community can do to assist .", 
+                "many hands make light work .", 
+                "theresa may was n't paying attention to securing government infrastructure while she was home secretary .", 
+                "instead she weakened it with # ipact", 
+                "you need to go on the offensive against the cyber-criminals .", 
+                "non state actors or state-actors attacking our general elections .", 
+                "any plans to remove `` windows for warships '' after this stunt ?", 
+                "surprised that has n't hit the fan yet", 
+                "you got any proof for your claims ?", 
+                "your tweet was quoted in an article by @ twitterid", 
+                "is anybody try to open infected file in blackberry ?", 
+                "through blackberry rename and change extinction ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d6ace4b0f4786086db44", 
+            "title": "colchester a & e advises patients to only arrive for emergencies", 
+            "text": [
+                "colchester general hospital in essex is asking patients not to come to its accident and emergency department and is postponing all non-urgent procedures for the rest of the day .", 
+                "it 's due to the cyber-attack on nhs it systems across the uk .", 
+                "colchester is still open for 999 emergencies ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d627e4b0f4786086db40", 
+            "title": "more hospital trusts confirm they are not affected", 
+            "text": [
+                "nhs kernow ccg , royal cornwall hospitals trust and cornwall partnership trust all say they are not affected by the cyber-attack .", 
+                "north tees and south tees nhs trusts , ccg in hartlepool and stockton also say they are unaffected ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915cbade4b0f4786086db09", 
+            "title": "nhs computers hit by 'cyber attack '", 
+            "text": [
+                "nhs blackpool clinical commissioning group have said patients should avoid contacting gps or using hospital services `` unless absolutely necessary '' , while staff deal with the effects of a cyber attack .", 
+                "important notice"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d5c7e4b0f4786086db3d", 
+            "title": "'cyber-attack not the first but largest so far '", 
+            "text": [
+                "the patients association says the attack appears to have been `` highly co-ordinated and aggressive '' .", 
+                "`` a police investigation will no doubt be required , '' it adds .", 
+                "`` though today 's may be the largest attack of this sort , it is not the first - yet the lessons from earlier incidents have not been learnt . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d495e4b05b6937f60ab3", 
+            "title": "staff warned against using social media", 
+            "text": [
+                "a member of staff at the royal london hospital , who did not wish to be named , has said staff have been warned not to use social media ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d42fe4b0be83714021cc", 
+            "title": "'friend 's operation cancelled '", 
+            "text": [
+                "people have been reacting on twitter to news of the cyber-attack ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d41fe4b05b6937f60ab2", 
+            "title": "attack 'was not targeted at the nhs '", 
+            "text": [
+                "simon enright , director of communications for nhs england , tweets", 
+                "number of nhs organisations have reported to nhs digital they have been affected by a ransomware attack affecting a number of organisations", 
+                "this attack was not specifically targeted at the nhs and is affecting organisations from across a range of sectors .", 
+                "what other sectors ?", 
+                "well let 's see if you are right as surely in that case whoever behind will unlock all nhs data ?", 
+                "# unlikely # nhscyberattack", 
+                "you are wrong , i have seen these evil scum target a fostering charities twice because they paid first time"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d3f4e4b0be83714021cb", 
+            "title": "oxford hospitals 'on alert '", 
+            "text": [
+                "a spokesman for the oxford university hospitals trust said they have been notified about the cyber attacks and are `` on alert '' .", 
+                "`` so far , our strong security measures are holding solid .", 
+                "we continue to closely monitor the situation and have asked staff to be vigilant .", 
+                "protecting patient information is our top priority .", 
+                "`` we understand that nhs digital has set up a dedicated incident line , and suppliers are working to find solutions to this ransomware outbreak . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d353e4b05b6937f60aa9", 
+            "title": "herefordshire and worcestershire unaffected", 
+            "text": [
+                "nhs trusts in herefordshire and worcestershire have not been affected by the attack , the nhs clinical support unit has confirmed .", 
+                "it said doctors ' surgeries should continue to run as normal but advises all areas of the nhs to proceed with caution ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d2c3e4b0f4786086db2e", 
+            "title": "nhs digital : 'no evidence patient data has been accessed '", 
+            "text": [
+                "more from that nhs statement :", 
+                "`` a number of nhs organisations have reported to nhs digital that they have been affected by a ransomware attack which is affecting a number of different organisations .", 
+                "`` the investigation is at an early stage but we believe the malware variant is wan na decryptor .", 
+                "`` at this stage we do not have any evidence that patient data has been accessed .", 
+                "`` we will continue to work with affected organisations to confirm this .", 
+                "`` nhs digital is working closely with the national cyber security centre , the department of health and nhs england to support affected organisations and to recommend appropriate mitigations .", 
+                "`` this attack was not specifically targeted at the nhs and is affecting organisations from across a range of sectors .", 
+                "`` our focus is on supporting organisations to manage the incident swiftly and decisively , but we will continue to communicate with nhs colleagues and will share more information as it becomes available . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "23:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915cf03e4b0f4786086db1a", 
+            "title": "attack 'could be ransomware '", 
+            "text": [
+                "software that locks a computer and demands payment before allowing access again - ransomware - is one of the world 's biggest growing cyber threats .", 
+                "it certainly looks like that is what has hit the nhs in this case - and one it firm says eleven of its nhs customers have been affected .", 
+                "screenshots shared online , purportedly from nhs staff , show a program demanding $ 300 ( \u00a3 230 ) in bitcoin that looks similar to ransomware known as wannacryptor or wcry .", 
+                "there 's no indication of who is behind the attack yet , nor do we know exactly how it infected nhs systems .", 
+                "but hospitals have been targeted with similar software before - it struck three us hospitals last year ."
+            ], 
+            "author": [
+                "Chris Baraniuk", 
+                "Technology reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d2abe4b0be83714021c7", 
+            "title": "how widespread is the disruption ?", 
+            "text": [
+                "nhs digital has just issued a statement saying that 16 organisations from across the nhs have reported that their it systems have been affected ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5915d1fee4b0f4786086db2c", 
+            "title": "screenshot of nhs staff screens", 
+            "text": [
+                "staff have told the bbc they saw this image appear on their screens when issues began happening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915d0dfe4b0f4786086db25", 
+            "title": "'computers wo n't turn on ' - newham a & e doctor", 
+            "text": [
+                "a doctor , who wishes to remain anonymous , said the accident and emergency unit at newham general hospital is having issues with their computers .", 
+                "he said from 2pm there were problems and the computers were shutting on and off .", 
+                "staff now ca n't turn the computers on at all .", 
+                "staff have since been told to take the plugs out of computers .", 
+                "he also said there had been a board meeting and they have decided to close newham a & e ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5915cfe6e4b05b6937f60a97", 
+            "title": "nhs services hit by 'cyber attack '", 
+            "text": [
+                "nhs services across england have been hit by what is believed to be a large-scale cyber attack , causing it failure .", 
+                "trusts and hospitals in london , blackburn , nottingham , cumbria and hertfordshire are among those who have been affected .", 
+                "nhs england says they are aware of the issue and are looking into it .", 
+                "we will be updating this page as we find out more ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:09"
+        }
+    ], 
+    "genre": "", 
+    "quality": "high"
+}

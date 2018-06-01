@@ -1,0 +1,2162 @@
+{
+    "blog_id": "2cc2db9d37bf73ad7f9d8cec44883fc853e45fbe", 
+    "title": "Dow Jones suffers steep fall and FTSE 100 in bear market - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live", 
+    "summary": [
+        "dow closes down 245 points in day of drama .", 
+        "biden warns business leaders to protect their staff .", 
+        "pope urges davos not to neglect world 's poor .", 
+        "rogoff : precarious situation in emerging markets .", 
+        "roubini : this crash is n't as bad as last time .", 
+        "wall street heads sharply lower .", 
+        "us inflation dips unexpectedly ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-56a0019ce4b0e5eaffebb936", 
+            "title": "", 
+            "text": [
+                "and finally , here 's our news story about today 's drama : fears grow of repeat of 2008 financial crash as investors run for cover read more and that 's all for tonight .", 
+                "back tomorrow .", 
+                "gw"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                21, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569ff71de4b07032e4cb277c", 
+            "title": "dow closes down 245 points in day of drama", 
+            "text": [
+                "phew !", 
+                "today 's stock market rout is over , with wall street posting chunky losses - but not as bad as it looked earlier .", 
+                "the dow jones closed 245 points , or 1.5 % , in the red - bad , but better than the 500+ slump that had davos attendees gasping earlier today .", 
+                "cnbc now ( @ cnbcnow ) breaking : dow rebounds from 565 pt loss to close down 245 ; s & p down 1.1 % , nasdaq off 0.1 %"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                21, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569ff61ae4b04e61e2046eeb", 
+            "title": "", 
+            "text": [
+                "as if today was n't dramatic enough - deutsche bank has issued a profit warning : jill treanor ( @ jilltreanor ) deutsche bank boss john cryan after warns of full year loss : `` this will be the bank 's first full-year loss since 2008 , and it is sobering ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                21, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569fd3e5e4b04e61e2046ecc", 
+            "title": "", 
+            "text": [
+                "in another significant move , joe biden has used his trip to davos to urge executives to fight for the right of lesbian , gay , bisexual and transgender people .", 
+                "reuters has got the story : the issue is on the official agenda for the first time at the world economic forum , where political leaders from countries that discriminate against gay people , such as nigeria and russia , schmooze business leaders and billionaire investors .", 
+                "biden told u.s. executives including nathan blecharczyk , co-founder of apartment-sharing firm airbnb , muhtar kent , chairman and ceo of the coca cola company , and anthony scaramucci , founder of hedge fund skybridge capital , to push for change .", 
+                "you can change the terms of debate , '' he said .", 
+                "you actually put governments on notice . ''", 
+                "he said he and president barack obama privately raise the issue of repression of the lgbt community when they meet political leaders .", 
+                "i have had some run-ins with at least four heads of state already on this , '' said biden more here : biden urges u.s. business in davos to lean on anti-gay states"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                18, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569fd1f7e4b07032e4cb275e", 
+            "title": "biden warns business leaders to protect their staff", 
+            "text": [
+                "joe biden is giving quite a progressive speech tonight at davos .", 
+                "he 's telling the heads of the world 's biggest businesses that they need to ensure basic protection for workers are the world economy embraces the 4th industrial revolution .", 
+                "world economic forum ( @ davos ) embrace the obligation to your # workers as much as your shareholders : joe biden # wef # biden world economic forum ( @ davos ) 2 ) we need to continue to ensure basic protection for workers as these changes take place : joe biden # wef # biden"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                18, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569fd17be4b0e5eaffebb8f8", 
+            "title": "", 
+            "text": [
+                "joe biden also cited one of the statistics of the week - the continued concentration of wealth among the very richest .", 
+                "world economic forum ( @ davos ) according to @ twitterid , the 62 richest people in the world have as much wealth as the bottom 3.6 billion people : joe biden # wef # biden"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                18, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fc7ace4b054233539d952", 
+            "title": "", 
+            "text": [
+                "joe biden , the vice-president of the united states , has given the final keynote speech of the day .", 
+                "he started by joking with christine lagarde in the audience , saying that he might need some money .", 
+                "not for a bailout deal ( things are n't that bad today !", 
+                ") , but for his own purposes : whenever i see you , christine , you say i know , greece .", 
+                "i know , ukraine '' .", 
+                "but this time i need a personal loan .", 
+                "but then he turns to the issue of the 4th industrial revolution .", 
+                "it is creating new jobs , and even creating new industries .", 
+                "but will it actually transform the global economy ?", 
+                "and will it be for better , or worse ?", 
+                "those who think we must get used to the new normal of slower growth are mistaken , biden says .", 
+                "technology is improving productivity , and it can create employment - he cites ride-sharing companies are taking on more staff .", 
+                "and astounding '' breakthroughs in science will save lives .", 
+                "but there are dangers , and we must be pro-active .", 
+                "biden says : how will the warehouse worker who used to ship your order , or the salesman who used to take it , make a living when they are no longer needed ?", 
+                "and he goes on to warn that the old relationship between work and wages has been broken , and employees are n't getting a fair deal : world economic forum ( @ davos ) 1/2 there used to be a basic bargain ; if you contributed to an enterprise 's success , you : joe biden # wef # biden world economic forum ( @ davos ) 2/2 got to share in its benefits .", 
+                "that bargain has been broken : joe biden # wef # biden world economic forum ( @ davos ) the fundamental change of the last 4 decades is the divergence between productivity & wages : joe biden # wef # biden"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                18, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fc59be4b0c28fe0ef0f7a", 
+            "title": "", 
+            "text": [
+                "the dow jones industrial average is down over 500 points '' , whispers one davos attendee .", 
+                "and they 're right .", 
+                "the dow has shed 536 points , or 3.3 % , right now to leave it at 15,475 points ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                17, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fbf70e4b0e5eaffebb8d9", 
+            "title": "", 
+            "text": [
+                "alexis tsipras , the greek prime minister , just whisked through the davos conference room with a hall entourage .", 
+                "he was n't taking press questions , alas , but did share a quick , friendly handshake with finland 's finance minister , alex stubb .", 
+                "i guess relations are warmer than last year , during the months of debt negotiations .", 
+                "tsipras is meeting with several top officials during his visit , including christine lagarde of the imf .", 
+                "he 's hoping to make persuade them that athens is making progress , and should be given some leeway on austerity and debt relief .", 
+                "but there is concern that the imf will take a tough line on pension reform , threatening to reignite the debt crisis again"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                17, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fb73ee4b08d8673c972d0", 
+            "title": "london market closes deep in the red", 
+            "text": [
+                "us oil prices crashed below $ 27 for the first time since 2003 after the international energy agency warned on tuesday that the oil market could drown in oversupply '' .", 
+                "venezuela requested an emergency opec meeting to discuss steps to shore up oil prices , but other delegates dismissed the idea .", 
+                "new york light crude tumbled 5.5 % to $ 26.89 a barrel on wednesday , while brent crude , the global benchmark , lost 4.2 % to $ 27.56 .", 
+                "plunging oil prices piled further pressure on global stock markets .", 
+                "london 's leading index , the ftse 100 , slid 203.22 points , or 3.5 % , to 5673.58 .", 
+                "germany 's dax tumbled 272.57 points , or 2.8 % , to 9391.64 and france 's cac lost 147.31 points , or 3.5 % , to 4124.95 .", 
+                "on wall street , the dow jones has plunged more than 400 points to 15,62.42 , a 2.6 % drop .", 
+                "the nasdaq shed 115 points to 4361.53 , also a 2.6 % fall ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                16, 
+                47
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569fb87fe4b054233539d931", 
+            "title": "pope urges davos not to neglect world 's poor", 
+            "text": [
+                "back to davos , and the pope has sent a message to politicians and business leaders attending wef - do n't forget the poorest in society .", 
+                "pope francis warned that soulless machines '' should not be allowed to muscle humans out of work , saying : to all of you i appeal once more : 'do not forget the poor ! '", 
+                "he continued : weeping for other people 's pain does not only mean sharing in their sufferings , but also and above all realising that our own actions are a cause of injustice and inequality .", 
+                "once we realise this , we become more fully human , since responsibility for our brothers and sisters is an essential part of our common humanity .", 
+                "do not be afraid to open your minds and hearts to the poor .", 
+                "in this way , you will give free rein to your economic and technical talents , and discover the happiness of a full life , which consumerism of itself can not provide . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                16, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fb3d0e4b054233539d92a", 
+            "title": "", 
+            "text": [
+                "chris beauchamp , senior market analyst at ig , has summed up the action on financial markets : ftse bears have been enjoying themselves today , as the index touches levels not seen since late 2012 .", 
+                "the uk market has not been alone , as europe and now the us join in with the panic of january 2016 .", 
+                "bond yields are heading lower too as investors shun risky assets and stash their money in any safe place going .", 
+                "the main driver of the falls continues to be oil , which has pushed onwards to fresh lows , taking oil stocks with it .", 
+                "a fresh downgrade to imf growth forecasts underlines what stock markets are telling investors - that things are looking gloomy across the board . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                16, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fb0c2e4b054233539d921", 
+            "title": "", 
+            "text": [
+                "while we were quizzing ken rogoff , adam posen , et al , iranian officials have been taking a pop at saudi arabia .", 
+                "foreign minister javad zarif argued that the saudi 's are to blame for the crisis in the middle east .", 
+                "the telegraph has the details .", 
+                "zarif claimed that : saudi arabia has tried to keep the old staus quo in our region because they do n't think change is in their interest .", 
+                "they unnecessarily panicked and created a lot of mess in our region .", 
+                "and mohammad agha nahavandian , the chief of staff to iranian prime minister rouhani , has apparently said iran will 'certainly ' raise oil exports to the levels before sanctions were imposed ( they were lifted last week , of course ) .", 
+                "that 's likely to further inflame tensions within opec , and keep pressure on the oil price ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                16, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fb14ae4b054233539d922", 
+            "title": "", 
+            "text": [
+                "the sell-off in global market is gathering pace .", 
+                "the dow jones is now down more than 400 points , or 2.6 % , at 15,593.72 .", 
+                "the ftse 100 index in london has tumbled nearly 230 points , or 3.9 % , to 5649.55 .", 
+                "germany 's dax has lost 335 points , or 3.5 % , falling to 9329.09 , while france 's cac is down nearly 180 points to 4087.42 , a 4.2 % fall .", 
+                "spot us crude oil futures have dropped below $ 27 a barrel , the lowest since september 2003 , following a warning from the world 's energy watchdog that the oil market could drown in oversupply '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                16, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fabbae4b0e5eaffebb8b7", 
+            "title": "", 
+            "text": [
+                "adam posen , the peterson institute director who used to set uk interest rates , has also discussed the crisis with us .", 
+                "he 's not desperately alarmed : i do n't think we are on the edge of another financial crisis .", 
+                "i do n't even think we are on the edge of another crash .", 
+                "the idea that things are as over-valued as they were last time is false . ''", 
+                "posen said governments should be taking advantage of low interest rates to improve public infrastructure , called on china to boost the economy by creating a social safety net and said central banks should avoid making mistakes .", 
+                "at the margin i am not sure the federal reserve did the right thing by raising rates last month but i am not sure it was a big mistake .", 
+                "but if the bank of england or the ecb raised rates , that would be a big mistake . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569faa4ce4b04e61e2046e87", 
+            "title": "rogoff : precarious situation in emerging markets", 
+            "text": [
+                "we 've now grabbed some time with ken rogoff , former imf chief economist and now economics professor at harvard , to discuss the market turmoil , and the global economy .", 
+                "rogoff reckons the problems were concentrated in emerging markets .", 
+                "asked whether the world was on the edge of another crisis , rogoff said : it feels to me that there is a panic in the markets that does n't necessarily translate into the real economy . ''", 
+                "rogoff said that emerging markets would suffer in 2016 , but that the us and europe were solid '' .", 
+                "he added : if china goes from 7 % growth to minus 2 % growth then everybody will be in recession .", 
+                "if it goes to 3-4 % growth it will probably not be enough to cause a recession in the developed world .", 
+                "but it is definitely a very precarious situation for emerging markets . ''", 
+                "rogoff said it would help if chinese policy makers won back the credibility they had lost by their foolish '' attempts trying to control the stock market and the exchange rate .", 
+                "it 's like trying to control the weather .", 
+                "they should let the exchange rate and the stock market find their own level .", 
+                "this is the third leg of the debt super-cycle .", 
+                "first is was the us , then it was europe , now it is china . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fa66fe4b04e61e2046e7e", 
+            "title": "", 
+            "text": [
+                "bob diamond 's concerns about liquidity ( see earlier post ) have also been echoed by a top imf official earlier today : speaking on a panel , deputy director min zhu said : the key issue is that liquidity could drop dramatically , and that scares everyone . ''", 
+                "if everybody is moving together we do n't have any liquidity at all .", 
+                "we have to be ready to act very fast . ''", 
+                "hat-tip to aep"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569fa213e4b07032e4cb2707", 
+            "title": "", 
+            "text": [
+                "canadian prime minister justin trudeau gillieron/epa canada 's new prime minister , justin trudeau , has urged davos attendees to invest more in his country , in one of his first appearances on the international stage since winning power .", 
+                "trudeau jokes that while davos is lovely , business leaders should really check out whistler ( the canadian ski resort ) .", 
+                "john stackhouse ( @ stackhousejohn ) like him or not , @ twitterid does good job pitching # canada , incl this one : `` davos is lovely but you 've got to come to whistler '' # wef and on the big issue of wef , the rise of the robots , trudeau warns that technology needs to serve the cause of human progress , and growth only succeeds if everyone benefits from it .", 
+                "he also argues that canada can ride out the oil price slump : world economic forum ( @ davos ) low oil prices are a challenge but the canadian economy is a lot more than just natural resources : @ twitterid # wef"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569fa158e4b08d8673c972a8", 
+            "title": "", 
+            "text": [
+                "we 've also collared dennis nally , chairman of pricewaterhousecoopers , to talk about the turmoil in the markets .", 
+                "i do n't know whether we are heading for another crash but unquestionably the environment is clearly having an effect on markets , on everything that is going on here and on the attitudes that exist here in davos .", 
+                "confidence levels are down , the volatility we are seeing , there are more threats today than ever .", 
+                "how bad could it get ?", 
+                "who knows .", 
+                "some people are speculating oil could reach $ 10 a barrel .", 
+                "i do n't think any of us know .", 
+                "all of this uncertainty has a direct impact on confidence levels '' .", 
+                "what should be done ?", 
+                "there needs to be more dialogue about how [ bring ] to stability back into the system .", 
+                "i believe there is a disconnect between government , regulators and business '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f9fc4e4b07032e4cb2705", 
+            "title": "", 
+            "text": [
+                "bob diamond , the banker who was forced out of barclays during the libor rigging crisis , says there 's no comparison between the situation today and in 2008 .", 
+                "diamond , who has now founded a banking operation called altas mara which is expanding across africa , says : it is a correction , a heathy correction .", 
+                "a lot of people are trying to compare it to 2008 , but during the last quarter of 2008 and the first quarter of 2009 we probably had the deepest economic correction i have seen .", 
+                "i do n't see us going into that position .", 
+                "the us economy is still strong , europe is doing surprising well - the easier monetary policy led by governor [ of the european central bank mario ] draghi has sown some positives .", 
+                "there is a correction in china if china slows down to 6 or 7 % ( growth ) is that a success ?", 
+                "that 's fine '' he also suggests that new regulations brought in since 2008 are n't helping to calm the markets : a lot of people are taking about where is the liquidity , where are the buyers ?", 
+                "basel three , volcker rule , ring fenced banks , buffer upon buffer of capital .", 
+                "are we surprised there is less liquidity from the banks ? ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                15, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f9c41e4b08d8673c9729e", 
+            "title": "roubini : this crash is n't as bad as last time .", 
+            "text": [
+                "here 's one jot of good news , nouriel roubini , davos 's own doctor doom and the economist who predicted the last crash does n't think it is going to be that bad this time .", 
+                "it is not going to be like 2008-09 .", 
+                "there is not the excessive leverage in the financial system that there was last time . ''", 
+                "but 2016 is going to be a bumpy year until central banks respond , roubini warns .", 
+                "`` the big thing that should happen is china should stop kicking the can down the road and get on with some serious structural reforms '' .", 
+                "roubini is also concerned about the impact of smarter technology : nouriel roubini ( @ nouriel ) # wef16 insight : inequality is rising due to technology , trade , globalization , winner take all effects , power of elites .", 
+                "what to do about it ?", 
+                "nouriel roubini ( @ nouriel ) # wef16 debate .", 
+                "tech innovation is capital-intensive , skills-biased , labor-saving .", 
+                "so it increases income and wealth inequality ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                14, 
+                44
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f9aa6e4b04e61e2046e67", 
+            "title": "wall street heads sharply lower", 
+            "text": [
+                "to no one 's great surprise , the us markets have followed the rest of the world and moved sharply lower in early trading .", 
+                "the dow jones industrial average is down 271 points or 1.7 % while the s & p 500 has fallen more than 1 % and nasdaq has lost 1.5 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                14, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f9a33e4b07032e4cb26f6", 
+            "title": "", 
+            "text": [
+                "sir roger carr , chairman of bae systems , said : i think we 're witnessing a collision of events which has provoked an immediate sense of crisis .", 
+                "whether it 's commodities , china , oil prices , terrorism , geopolitical turbulence , all have landed particularly in the month of january and there is an immediate impact which is reflected in the stock market .", 
+                "at the moment what is being discounted are some of the positives that come out of low oil prices in economic terms .", 
+                "it is only being looked at in the lens of bad news .", 
+                "it is too early to say whether this is a crisis of lasting proportion but i think we should certainly continue to focus on addressing the challenges that are there for all .", 
+                "china may have slowed down but it 's not stopped .", 
+                "europe is fragile but is focused on improvement and with the uk 's engagement in encouraging a more competitive europe .", 
+                "america still has the fundamentals of an entrepreneurial spirit , self sufficiency in energy .", 
+                "when you look to the positive , while things are far from perfect , we are not at the point of absolute crisis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                14, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f96fde4b07032e4cb26ef", 
+            "title": "", 
+            "text": [
+                "back in davos and gavin patterson , chief executive of bt , was asked if we were on the brink of another crisis .", 
+                "he replied : on the balance of probabilities no , but it is very finely balanced .", 
+                "it is an unstable environment .", 
+                "in terms of doing business , i 've just been at a lunch and most of the ceos there say most of the underlying businesses are pretty good .", 
+                "if there is contagion in financial markets into the business markets that is going to affect confidence and that 's when we could see a slow down .", 
+                "how bad ?", 
+                "we 've got to be used to a period of time when the world is just more volatile and we have to be able to live and manage through those sort of conditions .", 
+                "i do n't think it 's going to go away .", 
+                "there could be quite significant swings but the underlying number when it 's evened out will be fine .", 
+                "what can be done ?", 
+                "we need the financial markets to settle down and hope that confidence remains strong and that it does n't affect people 's underlying desire to do business .", 
+                "what is really going in china is a big [ concern ] , elections and referendum around the world is an issue and the state of things in the middle east which have a knock on effect .", 
+                "gavin patterson at a previous world economic forum .", 
+                "euler/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                14, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f914fe4b0e5eaffebb888", 
+            "title": "", 
+            "text": [
+                "the us inflation figures suggest there may only be one federal reserve rate rise this year , says rob carnell of ing bank : us cpi for december fell 0.1 % month on month versus a consensus 0.0 % month on month expectation .", 
+                "energy prices were down 2.4 % month on month , and food prices also fell for a second consecutive month .", 
+                "but it is the weakness in the service sector inflation component that probably caught the consensus out the most .", 
+                "at only +0.1 % month on month , this was down on the trend 0.2-0.3 % growth in service sector prices over recent months , and may reflect a slightly weaker growth profile in residential rents , though it has to be said that the weakness in services was not confined to rentals , and was reflected also in areas such as recreation and education .", 
+                "goods ( commodities prices ) were as ever , very weak ( down 0.1 % month on month excluding food and energy , down 2.1 % year on year ) .", 
+                "at this stage , with the market looking for no further fed rate hikes until the second half of 2016 , and only one rate hike in total this year , it is our own forecasts with two further rate hikes , one in june , and another in the fourth quarter of 2016 , that look more in need of amendment than the market view .", 
+                "the fed dot diagram suggestion for four further hikes this year looks utterly out of touch with reality , if anyone was still paying any attention to this ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                13, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f8cf2e4b0e5eaffebb884", 
+            "title": "us inflation dips unexpectedly", 
+            "text": [
+                "in the us , the consumer price index fell 0.1 % month on month in december after being unchanged the previous month .", 
+                "analysts had been expected the index to also remain flat in december , but the falling oil price helped push it lower .", 
+                "but the year on year figure rose 0.7 % , following a 0.5 % gain in november .", 
+                "the core cpi , which strips out energy and food costs , rose 0.1 % month on month after rising 0.2 % for the previous three months , and 2.1 % year on year .", 
+                "meanwhile us housing starts fell 2.5 % in december , adding to worries about the strength of the us economy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                13, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f87c6e4b04e61e2046e4b", 
+            "title": "", 
+            "text": [
+                "goldman sachs has reported a drop in profits for the fourth straight quarter , hit by a $ 5bn settlement related to sales of mortgage bonds during the financial crisis .", 
+                "the bank 's fourth quarter earnings fell 71.8 % to $ 574m , with its results also affected by the plunge in oil prices , the slowdown in the chinese economy and us rate rises ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                13, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f835be4b0c28fe0ef0f10", 
+            "title": "", 
+            "text": [
+                "the slump in oil prices has sent the rouble to a new record low .", 
+                "the russian currency fell to 80.92 to the dollar before recovering to 80.85 , still down 2.8 % on the day .", 
+                "the fall comes amid fears that the commodity-dependent russian economy could be further hit by the continuing slide in crude prices ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                12, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f7fd5e4b08d8673c97269", 
+            "title": "ftse 100 enters bear market", 
+            "text": [
+                "london 's leading index has fallen into bear market territory , defined as 20 % below its recent peak .", 
+                "the ftse 100 has fallen to 5688 , down more than 3 % as the oil price continues to slide amid concerns about oversupply and lack of demand .", 
+                "worries about the outlook for china have rattled global markets , not helped by gloomy comments from the world economic forum in davos .", 
+                "the leading index has now fallen more than 20 % from its intra-day peak of 7122 , reached in april last year .", 
+                "meanwhile germany 's dax is down 2.9 % and france 's cac has fallen 3.4 % .", 
+                "brent crude is currently 2.7 % lower at $ 27.98 a barrel ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                12, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f77b5e4b0c28fe0ef0eee", 
+            "title": "", 
+            "text": [
+                "just grabbed a word with philip j. jennings , general secretary of uni global union , about the turmoil in the markets .", 
+                "are we heading into a crash ?", 
+                "yes , we are heading for a crash , i 'm worried about it .", 
+                "emerging markets were meant to pull us through this crisis .", 
+                "but china is slowing , and the impact will ripple out across the developing economy .", 
+                "and the jobs situation across the global economy will not improve how bad could it get ?", 
+                "we are worried abut the economic climate - how deep the crash will be .", 
+                "those rbs analysts [ who said to sell everything ] may be right - cataclysm '' could be the right word to use .", 
+                "what should be done ?", 
+                "we need leadership .", 
+                "the g20 needs to fulfil the promise they made at the last financial crisis , to not just save the banking sector but to also put the economy back on track .", 
+                "the private sector need to understand that lack of investment is n't helping , and we need to push wages higher .", 
+                "the g20 needs to put demand back in the economy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                12, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f76aee4b08d8673c97258", 
+            "title": "", 
+            "text": [
+                "some customers at italy 's monte dei paschi bank have started withdrawing their savings , according to its chief executive .", 
+                "the bank is struggling with its bad loans and has seen its stock market value have this year .", 
+                "reuters reports : chief executive fabrizio viola did not say how much money savers had withdrawn , or when the outflow began , though he said the fall in deposits was limited '' and that the bank could cope with it as he sought to reassure customers and investors .", 
+                "italian bank shares have lost 20 % so far this year as investors , already rattled about global economic growth , have sold out of a sector with low profitability and about 200 billion euros ( $ 218 billion ) of loans that are unlikely to be repaid .", 
+                "monte paschi - italy 's third-biggest bank - has lost the most ground as it is perceived to be the most vulnerable ; it has the highest level of bad loans as a proportion of assets and was the worst performer in a health check of eurozone lenders in 2014 .", 
+                "the tuscan-based bank 's stock , which had plunged 15 % on monday and 14.4 % on tuesday , was suspended from trading several times after falling 18.2 % on wednesday .", 
+                "the plunge helped dragged down all other italian banking stocks , with carige shedding 12.7 % and banco popolare falling more than 6 % .", 
+                "viola said the plunge in monte paschi shares was not a reflection of the bank 's fundamentals , which he said had improved in the last quarter of 2015 .", 
+                "a monte dei paschi advertisement in milan .", 
+                "rellandini/reuters of course clients turning to our local branches are worried about what they read , '' viola said in a statement .", 
+                "at present the size of the funding lost due to clients who decided to move part of their savings elsewhere is limited and anyway below levels seen during the previous crisis the bank faced in february 2013 which was overcome brilliantly . ''", 
+                "the 2013 crisis he was referring to was when the world 's oldest bank , already badly weakened by the euro zone debt crisis , was hit by a scandal about loss-making derivatives trades over the past few days many have been wondering about the pace at which people closed their accounts and sold bank bonds , '' said giuseppe sersale , a fund manager at anthilia capital partners .", 
+                "i would n't call it a bank run but there are definitely outflows , '' he added .", 
+                "meanwhile , there are reports of italian government meetings to discuss the problems in the country 's banking sector : ioan smith ( @ moved average ) # italy | italian prime minister met econ minister , bank of italy chief on weds to discuss italian banking sector -source"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                12, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f73ece4b0c21b28f18bad", 
+            "title": "", 
+            "text": [
+                "here 's some words of comfort amid the gloom .", 
+                "european economics commissioner pierre moscovici does not believe there will be a repeat of the financial crisis , nor does he think the eurozone 's growth outlook will be changed in the next ec forecasts .", 
+                "and he says central banks still have actions they can take to tackle any further slowdown , even if interest rates are at record lows and plenty of stimulus measures have already been taken .", 
+                "reuters reports from an interview with moscovici : central banks still have more firepower they can use to counter a slowdown in global growth , which does not change the outlook for recovery in the eurozone , european economics commissioner pierre moscovici said on wednesday .", 
+                "in an interview with reuters television at the world economic forum in davos , moscovici said he did not believe there would be any return to an international financial crisis , despite turmoil in world markets during the first few weeks of 2016 triggered by china 's slowdown and low oil prices .", 
+                "asked whether the world 's main central banks had run out of ammunition to revive the global economy after years of record low interest rates and quantitative easing , he said : they have got guns and they can act . ''", 
+                "pierre moscovici .", 
+                "dubrule/epa moscovici said he did not expect any major change in the euro zone 's growth outlook when the european commission issues an updated forecast in early february , despite the sharp slowdown in china and tumbling stock and commodity markets .", 
+                "the eu executive last forecast in november that the euro zone would grow by 1.8 percent this year and 1.9 percent in 2017 after an estimated 1.6 percent last year .", 
+                "as i see it today i see no change , no major change in our forecast for europe .", 
+                "but of course we 've got to take into account those downside risks .", 
+                "we do n't need to change our policy stance but to reinforce it , '' he said .", 
+                "on global market turbulence and falling commodity prices , moscovici said : i do n't feel that the financial crisis is coming back .", 
+                "we do n't feel that we are facing the risk of a breakdown in world growth , but there are downsides that we need to address ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                11, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f6b43e4b056ac49ef57a3", 
+            "title": "", 
+            "text": [
+                "the imf has also weighed in on migration , saying it can be positive .", 
+                "a new report predicts a short-term boot to gdp in countries who take refugees in , and long-term benefits if migrants are integrated well .", 
+                "imf says refugee influx could provide eu economic boost read more imf chief christine lagarde has also tried to crush worries that migrants will drive wages down : chris giles ( @ chrisgiles ) lagarde : native workers wage declines in face of migration likely to be limited and temporary"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                11, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f65d5e4b00027f718c7b3", 
+            "title": "", 
+            "text": [
+                "more on capital flows .", 
+                "the amount of money flowing out of emerging markets , especially china , was much worse than expected last year , according to a report from the institute of international finance .", 
+                "in october the finance industry group forecast net outflows from emerging markets of $ 540bn .", 
+                "now it says the figure was $ 735bn , with $ 676bn from china , as investors pulled out of emerging markets and chinese companies hurried to pay off overseas loans as the country 's currency depreciated .", 
+                "the institute said : net capital outflows from emerging markets in 2015 were even larger than we previously thought .", 
+                "we now estimate total net capital outflows ( including unrecorded flows captured by net errors and omissions ) at $ 735 billion , up from outflows of $ 111 billion in 2014 .", 
+                "the bulk of these outflows relate to china , driven in part by repayment of corporate foreign currency liabilities in the face of concerns about a weakening currency .", 
+                "we estimate total capital outflows from china amounted to $ 676 billion in 2015 other emerging markets also experienced net capital outflows , as non-resident inflows slumped on broader concerns about emerging market growth performance and corporate indebtedness .", 
+                "for 2016 , we expect continued net capital outflows albeit at a somewhat more moderate pace .", 
+                "the impact of the fed 's shift to a tightening cycle may be limited as long as it is gradual , but flows to emerging markets will continue to face headwinds from growth and debt concerns ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f6857e4b03a8e15afc66a", 
+            "title": "", 
+            "text": [
+                "hsbc ceo stuart gulliver spoke to reporters after he had finished talking about climate change .", 
+                "asked about the financial market turmoil , he said that part of the movement was self fulfilling '' as investors liquidated positions to make margin calls on positions .", 
+                "you always get an overshoot in times of significant sell offs '' .", 
+                "he also warned there could be more sell-offs .", 
+                "i think we will see further adjustments before we hit equilibrium .", 
+                "we 'll see a little more sell offs before we see equilibrium but we 're closer equilibrium than we were a couple of weeks ago , we 're towards the end of this sort of sell off '' .", 
+                "he indicated that growth in china was strong and that yesterday 's figures were 30 % of the entire chinese economy in 2005 .", 
+                "the bank is currently deciding whether to keep its headquarters in the uk .", 
+                "gullliver said an update would be made by the time of the results of february 22 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f66e1e4b03995a7b95439", 
+            "title": "", 
+            "text": [
+                "nariman behravesh , chief economist of ihs , has some interesting thoughts on china , where he thinks policy makers in beijing will respond to pressure on the yuan by quietly bringing back capital controls .", 
+                "there has been a massive amount of capital flight - around $ 1 trillion since last summer '' behravesh said .", 
+                "that puts huge downward pressure on the exchange rate .", 
+                "the question is what happens next . ''", 
+                "the first thing that policy makers could do is to let the currency go .", 
+                "that would result in a devaluation of 15-20 % .", 
+                "that would have horrible consequences .", 
+                "it could trigger a global currency war and a global recession . ''", 
+                "the second thing they could do is keep using foreign currency reserves , but there are limits to that . ''", 
+                "finally , either explicitly or implicitly , they could bring back capital controls '' .", 
+                "behravesh said the third approach would run counter to the reform agenda of china 's leaders , who have expressed a desire for greater financial liberalisation .", 
+                "but there are no good options .", 
+                "the least bad option would be capital controls . ''", 
+                "behravesh said there were already signs that china was making it harder for people to take money out of the country .", 
+                "he said the credibility of the chinese leadership had been undermined by their handling of the financial turbulence since last summer .", 
+                "the scary thing has been the ineptitude of chinese policy makers , who panicked when the stock market fell last august and panicked again at the beginning of this year .", 
+                "they want reform but they do n't really trust markets . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f634ee4b0809a5c91ba55", 
+            "title": "german president defends migration , within limits", 
+            "text": [
+                "dwnews ( @ dwnews ) # wef16 # davos gauck talks about germany 's post ww2 migration history .", 
+                "tune in joachim gauck , the president of germany , is addressing the davos congress hall now .", 
+                "he begins by touching on the migration crisis , which is a growing domestic issue in germany after chancellor angela merkel 's liberal refugee policy .", 
+                "almost 60 million are trying to escape war and conflict , and it is presenting the european union with its biggest ever test , he says .", 
+                "migration is n't a new problem , it 's been around for decades as people try to escape from peril , find a better life .", 
+                "he then quotes jk galbraith , who said that migration was the oldest action against poverty .", 
+                "a look at the list of american nobel laureates and oscar price winners shows just how much a country can benefit from migrants ' creativity , gauck says .", 
+                "migration , and integration , must be thought of in tandem , he says .", 
+                "but it is our humanitarian responsibility '' to take in people who are fleeing the refugee crisis .", 
+                "he also explains that germany feels a moral obligation to help , having 'fallen so low ' in the past ( a reference to the second world war ) .", 
+                "katja losch ( @ katjalosch ) # migration is always hope - and can be a chance for new and old homeland says # germany 's # gauck @ twitterid # wef16 this may not calm the rebellion within her own party , from those who believe germany needs to cut the number of migrants entering the country : angela merkel faces party rebellion over germany 's stance on refugees read more update : gauck goes on to warn that limits may need to be set .", 
+                "associated press has a good take : the president of germany says that limiting the number of refugees entering europe is necessary and morally acceptable '' if the continent is to continue to provide help to those in need .", 
+                "while stressing the humanitarian responsibility '' of taking in victims of persecution , joachim gauck told a conference in davos , switzerland , that germany and european countries must limit the numbers of people who want to come in to avoid being overwhelmed ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f64b0e4b03995a7b95435", 
+            "title": "", 
+            "text": [
+                "my colleague jill treanor has spoken to hsbc 's ceo stuart gulliver - he has admitted that the bank may not have a decision on whether it is moving its bank out of the uk by next month 's financial results .", 
+                "jill treanor ( @ jilltreanor ) stuart gulliver says will be update on hq decision by hsbc results on 22 feb jill treanor ( @ jilltreanor ) hsbc 's boss says he did not know if there would a decision on hq by 22 feb # davos"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5eb7e4b071fb77e16193", 
+            "title": "", 
+            "text": [
+                "al gore , former us vice-president , says last month 's paris agreement showed that the world is prepared to do what 's needed to tackle climate change .", 
+                "195 nations said yes , we will change .", 
+                "the direction of travel has been established and that message has been received by the world economic forum .", 
+                "in paris , countries committed to keeping global warming down to 1.5 degrees celsius .", 
+                "but there is also disappointment that even more was n't achieved .", 
+                "christiana figueres , un framework convention on climate change , says the paris talks did not end with an agreement on the carbon price because of the lack of unanimity .", 
+                "the paris agreement had to be unanimous , if there was one country that did n't agree with the carbon price in 2015 had that been rammed down the throat we would not have had a paris agreement . ''", 
+                "a fixed carbon price would encourage investment in solar and other alternative energy sources , she explains ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f600ce4b023fabcab6465", 
+            "title": "", 
+            "text": [
+                "the stock market sell off is getting worse .", 
+                "the ftse 100 is now down 170 points or 2.8 % at 5706 - only around 20 points off a bear market ( 20 % off its peak ) .", 
+                "germany 's dax is down more than 3 % and france 's cac has fallen 3.3 % .", 
+                "the us is unlikely to be much help .", 
+                "ahead of results from goldman sachs and the latest us inflation figures , the dow jones industrial average futures are showing a 329 point decline .", 
+                "european markets tumble ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f5f41e4b0ebbca0ddded0", 
+            "title": "sorrell and rogoff sound gloomy", 
+            "text": [
+                "sir martin sorrell sir martin sorrell , chairman of advertising giant wpp , has added his voice to those warning that the world faces slowing growth .", 
+                "the new normal is a low-growth world .", 
+                "inflation is under too much control , we could do with a bit more of it .", 
+                "that scenario will continue .", 
+                "the system could n't sustain pre-lehman growth rates because it blew up in september 2008 .", 
+                "ken rogoff , former imf chief economist and harvard professor , blamed china for the recent market turbulence .", 
+                "it wasnt due to the federal reserve 's 'microscopic increase ' in interest rates .", 
+                "he also sees trouble ahead in the developing world : for the next year there is going to be a lot of risk in china and the emerging markets , but not such elevated risks for europe and the us ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                24
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5c2ce4b071fb77e16189", 
+            "title": "", 
+            "text": [
+                "climate change is a big theme at davos , especially after leonardo dicaprio attacked the greed of the energy industry last night .", 
+                "stuart gulliver , boss of hbsc , has told one panel that the bank sets tougher lending criteria for coal-fired power stations in emerging markets than those in developed economies .", 
+                "he is also optimistic , he said , about funding alternative energy despite the low oil price .", 
+                "the public wants to do this , '' he said , when asked about funding alternative energy and while the cost of financing for such companies currently high he expected it to fall .", 
+                "jill treanor ( @ jilltreanor ) `` the maths do work '' says hsbc 's stuart gulliver when asked about financing of green fuel at # davos `` the public wants to do this '' he also had a warning about suddenly withdrawing all financing for fossil fuels .", 
+                "there would be unintended consequences '' he said as these companies were major employers and paid tax used by governments to pay for health care etc .", 
+                "gulliver admitted that hsbc 's annual meeting faced protesters from activists trying to end any investment in fossil fuels .", 
+                "christiana figueres , un expert on climate , insisted she was not one of the activities calling for all carbon fuels to be left in the ground ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5c21e4b023fabcab645a", 
+            "title": "", 
+            "text": [
+                "ngozi okonjo-iweala , former nigerian finance minister , has backed the ebola agreement between gavi and merck announced today .", 
+                "there was a shared terror '' in africa last year , she says , during the ebola outbreak in which more than 11,000 people died ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                10, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5524e4b0ebbca0dddebb", 
+            "title": "wef co-chair says there should be more women at wef", 
+            "text": [
+                "amira yahyaoui , the tunisian journalist who is co-chairing this year 's meeting , says the rise of smarter machines ( the 4th industrial revolution ) , should spur humans to understand what makes them human .", 
+                "speaking on a panel , she says humans are no longer in a monopoly on planet earth .", 
+                "we are in competition with things that might be better than we are .", 
+                "we are the ones destroying the planet , we are the ones killing humans .", 
+                "so this 4th industrial revolution should maybe be a revolution of values .", 
+                "amira yahyaoui today .", 
+                "yahyaoui also challenged wef for not achieving gender parity at the forum ( although there are three male and three female co-chairs this year , including general motors boss mary barra and international trade union chief sharan burrow ) .", 
+                "eighteen percent of this forum are women , 18 is nothing .", 
+                "i come from a country supposed to be very anti-woman and we are more than 33 % women in parliament and we have parity in every election .", 
+                "[ wef has made some efforts on this issue , and offers an extra place to businesses who send at least one female delegate ] she 's also concerned that the percentage of people under 30 here is way less than 18 % '' .", 
+                "every generation has been driven by youth , and this one will be too , yahyaoui continues .", 
+                "unfortunately , older people love progress , but they hate change , and revolutions are all about change , she concludes .", 
+                "it 's not by improving the candle that we created electricity , and it 's time to create electricity ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f595ce4b0ebbca0dddec0", 
+            "title": "", 
+            "text": [
+                "geraint johnes , professor of economics at lancaster university , said : all regions except london experienced a fall in the unemployment rate , suggesting that the recovery is now well and truly being felt nationwide .", 
+                "the construction industry has continued to play a leading part in the recovery - the number of jobs in this sector has increased by some 77000 .", 
+                "administrative and business support functions have also seen considerable growth - of 50000 jobs - over the latest period .", 
+                "the role played by construction is accentuated further by the continuing high rates of pay increase in that sector .", 
+                "compared with a year earlier , pay in this sector in november amounted to some 5.6 % higher .", 
+                "taking the economy overall , pay growth remains comparatively muted , at 2.0 % - though with negligible price inflation , workers are now experiencing noticeable increases in their real wages .", 
+                "so long as productivity gains can be restored , there is no reason to believe that the increase we are now seeing in pay levels should become inflationary .", 
+                "we should not therefore be expecting an interest rate hike any time soon ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5912e4b0f8908869a031", 
+            "title": "", 
+            "text": [
+                "and here 's chancellor george osborne on the day 's data : hm treasury ( @ hmtreasury ) .", 
+                "@ ons stats show the uk # employment rate is the highest since records began in 1971 .", 
+                "read the chancellor 's response :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f58fbe4b010f14d516c1c", 
+            "title": "", 
+            "text": [
+                "capital economics ( @ capeconuk ) continued weakness of uk pay growth still looks odd given the tightening labour market ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5893e4b0f8908869a02f", 
+            "title": "", 
+            "text": [
+                "rbs economics ( @ rbs economics ) uk unemployment hits 5.1 % , same as 2000-07 average , yet no inflation in sight ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5703e4b092fb85542ded", 
+            "title": "", 
+            "text": [
+                "on the jobs data , james knightley at ing bank said : the uk labour data looks pretty decent with employment growth in the three months to november rising 267,000 and the unemployment rate falling to 5.1 % , both are better than the 235,000 and 5.2 % consensus predictions .", 
+                "however , wage growth did slow close to expectations ( ex bonus the three month average is now 1.9 % year on year although the single month reading did rise to 2.1 % from 1.6 % ) .", 
+                "consequently , it is an encouraging report that should keep consumer confidence and spending running at healthy levels .", 
+                "however , with bank of england governor mark carney suggesting there is little appetite for a rate hike any time soon and with the prospect of a brexit vote set to weigh on activity it looks as though november remains the earliest possible opportunity for a rate rise .", 
+                "still , sterling has come off its lows following the figures .", 
+                "after hitting a seven year low of $ 1.4125 it has recovered to $ 1.4162 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f56c0e4b071fb77e1617e", 
+            "title": "", 
+            "text": [
+                "here 's are the average earnings : average earnings .", 
+                "for national statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f55e1e4b010f14d516c18", 
+            "title": "", 
+            "text": [
+                "the government 's plans to cut back the public sector show through in the jobs data .", 
+                "for september 2015 , 17.1 % of people in employment worked in the public sector , the lowest proportion since comparable records began in 1999 .", 
+                "public sector employment for national statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f55b9e4b092fb85542de7", 
+            "title": "", 
+            "text": [
+                "here 's the reuters take on the uk data : wage growth in britain in the three months to november was its slowest since february , official data showed on wednesday , the latest sign the bank of england will take its time before raising interest rates .", 
+                "the slowing in wage growth came even as britain 's unemployment rate unexpectedly fell to 5.1 percent , its lowest since early 2006 , from 5.2 percent in the three months to october .", 
+                "the boe is keeping a close eye on wage growth as it considers when to raise interest rates at a time when inflation has hovered near zero for months and weakness in the global economy is hurting british output ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f54fee4b023fabcab644b", 
+            "title": "", 
+            "text": [
+                "the unemployment rate of 5.1 % was below forecasts of a 5.2 % figure .", 
+                "ons ( @ ons ) # unemployment rate 5.1 % for sep-nov 2015 , down from 5.8 % a year earlier"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f54bee4b0f8908869a026", 
+            "title": "", 
+            "text": [
+                "total weekly earnings rose 2 % , compared to expectations of 2.1 % .", 
+                "this is also the weakest growth since february ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f54a5e4b0f8908869a025", 
+            "title": "", 
+            "text": [
+                "on the wages front , average weekly earnings excluding bonuses rose 1.9 % in the three months to november , compared to expectations of a 1.8 % rise .", 
+                "this was the weakest growth since february last year .", 
+                "the november figure was 2.1 % year on year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f5487e4b0ebbca0dddeb8", 
+            "title": "", 
+            "text": [
+                "for september to november 2015 , 74 % of people aged from 16 to 64 were in work , the highest employment rate since comparable records began in 1971 , according to the office for national statistics ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f527ce4b092fb85542dde", 
+            "title": "uk unemployment better than expected", 
+            "text": [
+                "the uk december claimant count has fallen 4,300 compared to expectations of a 2,500 rise .", 
+                "the jobless numbers fell 99,000 to 1.675m in the three months to november , meaning the unemployment rate is 5.1 % , its lowest since the three months to january 2006 .", 
+                "employment rose by 267,000 , the third biggest increase on record ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f4d7ce4b06544a9da9286", 
+            "title": "", 
+            "text": [
+                "with crude still tumbling - brent is now down 2.8 % at $ 27.88 a barrel - shell has spelled out the damage the slump in oil prices is doing to its business .", 
+                "our energy editor terry macalister reports : shell has warned that its fourth-quarter profits may be 50 % lower than last time with full year write-offs as high as $ 7bn ( \u00a3 5bn ) , underlining the damage being wreaked on the industry by low crude prices .", 
+                "in the first preliminary results to be reported this year by any of the large oil companies , shell said it expected earnings to come in at between $ 1.6bn and $ 1.9bn and full-year numbers as low as $ 10.4bn .", 
+                "further losses will be taken in the last three months of the year , bringing the total amount of writedowns on the sale of assets and other one-off losses to as high as $ 7bn .", 
+                "the dismal figures ramp up the pressure on shell 's chief executive , ben van beurden , who is trying to justify the \u00a3 35bn takeover of rival bg which must be agreed by more than 50 % of shell shareholders next week .", 
+                "the full story is here : shell warns of 50 % cut in profits amid plunging oil price read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f483ae4b0cdd2b1e0cfb4", 
+            "title": "ebola deal provides 300,000 vaccines", 
+            "text": [
+                "gavi , the vaccine group , is announcing a new deal with drugs company merck to get access to its ebola vaccine .", 
+                "under the scheme , merck will make 300,000 doses of the vaccine available in the next few months , for clinical trials and in case there is another outbreak .", 
+                "the vaccine not been fully licenced yet , but testing last year found it was 100 % effective in providing protection against ebola .", 
+                "seth berkley , the head of gavi , says there was initially a complete market failure '' with ebola , as there was no commercial demand for a vaccine .", 
+                "but the outbreak in 2015 , in which more than 11,000 people died , has helped force a rethink .", 
+                "merck 's product , called vsv-zebov live attenuated ebola zaire vaccine , is the most promising available , berkley says .", 
+                "the suffering caused by the ebola crisis was a wake-up call to many in the global health industry , '' berkley told an audience at davos .", 
+                "this agreement means we will be ahead of the curve '' next time .", 
+                "the deal will also help merck to get the vaccine win approval from the world health organisation , he added .", 
+                "gavi is providing $ 5m to help merck submit the drug for licensing by the end of 2017 .", 
+                "julie gerberding , vice-president for public health at merck , says her company is committed to getting their ebole vaccine fully licenced .", 
+                "she says : the scale and speed of the firestorm in africa reminded us that mother nature is the best terrorist .", 
+                "it showed that we need to prepare in advance , and also respond quickly when a crisis occurs .", 
+                "and when we have a licenced ebola vaccine , we will make it available at the lowest possible not-for-profit price , gerberding pledges ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                8, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f47c1e4b03e04102e18b0", 
+            "title": "sandberg : men still run the world ( and that might be a problem )", 
+            "text": [
+                "anand mahindra , director of indian company mahinda and mahindra , is one of the speakers on a panel about the transformation of tomorrow .", 
+                "i was scared '' he said when having dinner in new york and the young girls sitting next to him did n't talk to each other for 15 minutes while they used their phones .", 
+                "his daughter told him that they would be posting imagines on instagram .", 
+                "it was some kind of ghost world , '' he said .", 
+                "sheryl sandberg of facebook is sitting alongside him , making the point that tomorrow wo n't be transformed while men keep ruling the world .", 
+                "men still run the world and i 'm not sure it 's going that well '' .", 
+                "she conducted a poll of audience - how many women had been told they were too aggressive at work and asked if they should be working .", 
+                "hands went up .", 
+                "she talked about facebook 's civil courage initiative to try to end hate on he social network .", 
+                "there is no place for hate and intolerance on our platform , '' she said ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f43fce4b068127b3b1df7", 
+            "title": "", 
+            "text": [
+                "facebook 's ceo , sheryl sandburg , is discussing the future of technology now : jill treanor ( @ jilltreanor ) `` no place for hate and intolerance on our platform '' sheryl sandberg of facebook tells # davos"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                8, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f3dc5e4b03e04102e18a6", 
+            "title": "european markets open sharply lower", 
+            "text": [
+                "in the wake of falls on asian markets , investors in europe are seeing heavy losses at the start of trading .", 
+                "the ftse 100 is down 110 points or 1.8 % 5766 , its lowest level since november 2012 and less than 100 points off a bear market ( down 20 % from its all time high last april ) .", 
+                "germany 's dax is down 2.3 % while france 's cac has fallen 2.4 % and italy 's ftse mib is down 2.6 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                8, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f392ee4b0938bb7d2a069", 
+            "title": "ubs chairman : get used to lower growth", 
+            "text": [
+                "axel weber .", 
+                "shipenkov/epa the head of swiss banking giant ubs , axel weber , has added to the angst in davos by warning that we are stuck in an era of low growth .", 
+                "he pointed out that the international monetary fund has consistently been downgrading its short-term growth forecasts , as hopes for a strong recovery have consistently been dashed .", 
+                "weber says : last year the forecast of the imf for that year was 2 % lower than the forecast three years out .", 
+                "it 's just a sign of the fact we are and have moved to a lower growth environment , where the rebound of growth rates we 've seen in the past we are unlikely to see again soon .", 
+                "we are coming out of biggest global crisis in many decades and it will take time to heal '' .", 
+                "weber also argues that something fundamental has changed - this is n't just a cyclical phenomenon .", 
+                "and that has left central bankers struggling : as he put it : one of the reasons why growth can not be reignited is the central banks also have a difficulty to reignite inflation rates .", 
+                "most of the central banks tell you ( their target ) is to have inflation rate of around 2 % , quantitative easing and massively expanding the balance sheet does not lead to an uptick of inflation close to target at least on the time horizon of one to two years out '' .", 
+                "we are seeing a low growth , low interest rate environment with low interest rates .", 
+                "we will have to get used to the lower growth environment and low interest rate environment '' ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                7, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f3835e4b03e04102e189e", 
+            "title": "", 
+            "text": [
+                "tuesday 's market rally has proved shortlived , with asian markets down sharply and europe forecast to follow suit .", 
+                "after rising on talk of growing chinese demand for oil and hopes of more central bank stimulus to boost the world 's second largest economy , crude is falling back once more .", 
+                "that appears to be a belated reaction to the international energy agency saying the market could drown in oversupply . ''", 
+                "brent crude is now down nearly 2 % at $ 28.19 a barrel , while wti is down 3.3 % at $ 27.52 .", 
+                "michael hewson , chief market analyst at cmc markets uk , said the respite from recent negative sentiment has gained little traction : the inability of us markets to hold onto most of its gains was the first clue as oil prices slipped back off their highs once again .", 
+                "furthermore it is this inability to sustain rebounds for any length of time that continues to gnaw away at investor sentiment in the short term , and keep the pressure on the downside .", 
+                "here 's our story on the falling asian markets , with japan now technically in a bear market : asia pacific stock markets in full retreat as bears take control read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                7, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569f380ae4b06544a9da9274", 
+            "title": "", 
+            "text": [
+                "business leaders in davos are rather gloomier this year , according to a new report from pricewaterhousecoopers last night .", 
+                "terrorism , oil , and china , mean bosses are more worried than at any time in the last 5 years : davos 2016 : worries mount for world 's business leaders read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                7, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569f2c0de4b03e04102e1898", 
+            "title": "introduction : fears grip davos", 
+            "text": [
+                "good morning from davos , switzerland , where the 2016 annual meeting of the world economic forum is getting underway .", 
+                "there 's a bit of snow in the air this morning , and more than a bit of anxiety as global leaders , business chiefs , campaigners , celebrities and the media converge on the small ski resort .", 
+                "this year 's wef is racked with fears .", 
+                "for example : will robots devour millions of jobs ?", 
+                "how bad is the chinese economy really ?", 
+                "when will the rout in the stock markets end , and does it herald a wave of defaults ?", 
+                "is oil going to hit $ 20 per barrel , or even $ 10 , and what will that means for petr-exporters ?", 
+                "can the turmoil in the middle east be tamed ?", 
+                "will europe sink under the pressure of the refugee crisis ?", 
+                "delegates have a lot on their plates this year , whether they 're mingling in the congress centre or holding top-level meetings behind closed doors .", 
+                "a dinner during the eve of the opening of the 46th annual meeting of the world economic forum last night .", 
+                "-christophe bott/epa there 's a lot happening today , but here 's a few key events we 'll try to cover : 9am davos time ( 8am gmt ) : facebook 's sheryl sandberg and microsoft 's satya nadella debate the 4th industrial revolution 9.30am : vaccine group gavi and merck announce an ebola vaccine deal 10.30 : a session on preventing future shocks in the financial markets , 11.20am : german president joachim gauck discusses the migration crisis 3.20pm : canada 's new pm justin trudeau 3.45pm : a session on the refugee crisis , including queen rania of jordan , peter maurer of the red cross , and hamdi ulukaya of chobani 5.45pm : us vice-president joe biden discusses geopolitical security .", 
+                "the full programme is online here .", 
+                "we also get the latest uk unemployment report this morning ( 9.30am gmt ) and us inflation data this afternoon .", 
+                "and while all that 's going on , the stock markets are expected to suffer another bad day .", 
+                "there 's already been a heavy selloff in asia , and we 're expecting the ftse 100 to tumble at the open .", 
+                "here 's the opening calls : holger zschaepitz ( @ schuldensuehner ) another risk-off day : asia stocks tumble w/ japan down almost 4 % on global growth concerns and another # oil crash .", 
+                "uk ftse : 5767 -110 points german dax : 9438 -221 french cac : 4176 -96 spanish ibex : 8401 -154 angus nicholson of ig says that concerns over china 's slowing economy are building .", 
+                "the somewhat mystifying 3 % + rally in mainland equities yesterday has proved short-lived and this is likely to punish commodities on european and us exchanges .", 
+                "some more of the chinese gdp data has filtered out today and concerns about chinese economic growth seeing a very weak q1 in 2016 are growing .", 
+                "so it could be a dramatic day"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                20, 
+                7, 
+                17
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.08pm GMT\n21:08\nDow closes down 245 points in day of drama\n", 
+                "block": "block-569ff71de4b07032e4cb277c"
+            }, 
+            {
+                "text": "\n\n6.32pm GMT\n18:32\nBiden warns business leaders to protect their staff\n", 
+                "block": "block-569fd1f7e4b07032e4cb275e"
+            }, 
+            {
+                "text": "\n\n4.46pm GMT\n16:46\nPope urges Davos not to neglect world's poor\n", 
+                "block": "block-569fb87fe4b054233539d931"
+            }, 
+            {
+                "text": "\n\n3.45pm GMT\n15:45\nRogoff: Precarious situation in emerging markets\n", 
+                "block": "block-569faa4ce4b04e61e2046e87"
+            }, 
+            {
+                "text": "\n\n2.44pm GMT\n14:44\nRoubini: This crash isn't as bad as last time.\n", 
+                "block": "block-569f9c41e4b08d8673c9729e"
+            }, 
+            {
+                "text": "\n\n2.38pm GMT\n14:38\nWall Street heads sharply lower\n", 
+                "block": "block-569f9aa6e4b04e61e2046e67"
+            }, 
+            {
+                "text": "\n\n1.47pm GMT\n13:47\nUS inflation dips unexpectedly\n", 
+                "block": "block-569f8cf2e4b0e5eaffebb884"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "There's a gloomy feeling in the air as world leaders and business chiefs gather at the World Economic Forum in Davos.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live#block-569fb73ee4b08d8673c972d0"
+                ], 
+                "text": "FTSE plunges into bear market.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live#block-569fb87fe4b054233539d931"
+                ], 
+                "text": "Pope: Don't neglect the poor.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live#block-569f9c41e4b08d8673c9729e"
+                ], 
+                "text": "Roubini: Crash won't be as bad as last time.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live#block-569f96fde4b07032e4cb26ef"
+                ], 
+                "text": "BT chief fears contagion from financial markets.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jan/20/davos-2016-day-1-economic-fears-markets-migration-robots-live#block-569f76aee4b08d8673c97258"
+                ], 
+                "text": "Italian bank troubles.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

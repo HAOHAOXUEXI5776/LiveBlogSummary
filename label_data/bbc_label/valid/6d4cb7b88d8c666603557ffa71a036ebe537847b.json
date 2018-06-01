@@ -1,0 +1,743 @@
+{
+    "blog_id": "6d4cb7b88d8c666603557ffa71a036ebe537847b", 
+    "title": "BBC Local Live: Greater Manchester on Monday 19 September 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-manchester-37366287", 
+    "summary": [
+        "firefighters free a worker trapped by a lorry in ancoats .", 
+        "three men from south manchester are jailed for raping a teenage girl .", 
+        "'old man ' driving mobility scooter stopped on m60 .", 
+        "charity bike ride begins for viola beach band member killed in sweden crash .", 
+        "murder of teenage girl in 1971 to feature on bbc crimewatch ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dff6b1e4b0ee4d9b012ed5", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates from greater manchester and east cheshire have finished for the day , but we 'll be back from 08:00 on tuesday with the latest news , sport , weather and travel from across the region ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dff789e4b058d4ca648406", 
+            "title": "weather : dry with sunny spells", 
+            "text": [
+                "a bright afternoon with sunny spells .", 
+                "this evening will be dry but fairly cloudy .", 
+                "overnight lows of about 13c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df9abde4b0e473b5b95980", 
+            "title": "places in greater manchester that people always pronounce wrongly", 
+            "text": [
+                "a national list of the most hard-to-pronounce place names has just been released .", 
+                "but greater manchester has its fair share ."
+            ], 
+            "author": [
+                "Manchester Evening News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfaebce4b0c27cfe004f08", 
+            "title": "rio paralym 2016 : dame sarah storey elected to ipc athletes ' council", 
+            "text": [
+                "great britain 's 14-time paralympic gold medallist dame sarah storey has been elected to the international paralympic committee ( ipc ) athletes ' council .", 
+                "storey , 38 , who is gb 's most decorated female paralympian , won three golds in rio and is among four athletes elected .", 
+                "the athletes ' council operates as a liaison body between the ipc , athletes and the wider paralympic movement ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfaf3ce4b0e473b5b959c1", 
+            "title": "football : man utd lacking width , a playmaker and a plan", 
+            "text": [
+                "for a team with some of the best players in europe , manchester united 's performance in their 3-1 defeat by watford was nowhere near the level i would expect .", 
+                "united were sloppy and they did the sort of simple things badly - like losing runners , or kicking 30-yard passes straight out of play - that are the basics for top-quality teams .", 
+                "watford deserve some credit , of course , for breaking the game up and playing well themselves .", 
+                "but united were just not at it for long periods at vicarage road , and part of their problem was that they did not really look like they had a set gameplan when they came forward ."
+            ], 
+            "author": [
+                "Danny Murphy", 
+                "Former England midfielder on Radio 5 live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dff2e6e4b07071083cf0a3", 
+            "title": "christie nurse to complete seven marathons in seven days", 
+            "text": [
+                "a nurse at manchester 's christie hospital is on track to complete seven marathons in seven days .", 
+                "emma widdowson says she has been inspired by the people she treats and has dressed to represent a different cancer every day ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfe527e4b0e473b5b95a4e", 
+            "title": "firms ' waste disposal issues", 
+            "text": [
+                "wigan businesses are struggling to do the right thing with their waste , with almost half admitting to practices that mean they are not complying fully with the law ."
+            ], 
+            "author": [
+                "Wigan Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dffaf9e4b0ddb5ad0f93f2", 
+            "title": "gary neville 's skyscraper plans are 'grossly inappropriate '", 
+            "text": [
+                "more than 1,000 people have signed a petition against gary neville 's proposed city centre development - calling it 'grossly inappropriate ' ."
+            ], 
+            "author": [
+                "Manchester Evening News", 
+                "Manchester Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfe32fe4b04c0e8e41b029", 
+            "title": "oldham town hall reopening date announced", 
+            "text": [
+                "oldham council has confirmed a date to reopen the old town hall which has had a \u00a3 28m revamp to turn it into a leisure complex .", 
+                "the grade ii listed building will include a cinema - after 30 years without one in the town centre .", 
+                "the venue also include restaurants when it officially reopens on 21 october ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfeeebe4b0ddb5ad0f93d4", 
+            "title": "nearly 100 domestic abuse arrests in a week", 
+            "text": [
+                "almost 100 people have been arrested in greater manchester for domestic abuse in the past week .", 
+                "gmp 's month-long operation scratch comes eight months after a change in the law made coercive and controlling behaviour in relationships illegal .", 
+                "officers are urging people to report sus or get support if they are a victim ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57e00461e4b0c12058b4a4cb", 
+            "title": "latest headlines for greater manchester and east cheshire", 
+            "text": [
+                "latest headlines for greater manchester and east cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57e00433e4b058d4ca648424", 
+            "title": "football : manchester united defender luke shaw to have scan on groin injury", 
+            "text": [
+                "manchester united and england defender luke shaw will have a scan on a long-standing groin injury .", 
+                "shaw played 85 minutes of sunday 's 3-1 defeat by watford , after which he was criticised by manager jose mourinho .", 
+                "the portuguese said the 21-year-old , who returned at the start of the season after breaking his leg last september , was too far away from nordin amrabat in the build-up to watford 's second goal ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10065464", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dff077e4b0207e11272d5a", 
+            "title": "two stockport care homes rated 'inadequate '", 
+            "text": [
+                "two care homes in the stockport area have been rated as `` inadequate '' in a recent inspection by the care quality commission .", 
+                "the cqc criticised standards at rosemount care home in edgeley and newlands in heaton moor .", 
+                "rosemount told bbc radio manchester a new manager had been appointed just before the inspection and is working to improve the service .", 
+                "hc one limited , which runs newlands nursing home is yet to comment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df9387e4b0270fef35334f", 
+            "title": "drivers urged to put phones on flight mode", 
+            "text": [
+                "police advise motorists to put their phone to flight mode while driving to `` remove temptation '' .", 
+                "want to remove temptation to use a phone whilst driving ?", 
+                "why not set it to `` flight mode '' & leave it in your pocket !", 
+                "it 's not prohibited to have it on my dash displaying google maps however i would n't dare taking it into my hands while driving"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfeff4e4b0ee4d9b012ec2", 
+            "title": "latest headlines for greater manchester and east cheshire", 
+            "text": [
+                "latest headlines for greater manchester and east cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfaaf7e4b0e473b5b959b2", 
+            "title": "plans for \u00a3 45m campus at stockport special school", 
+            "text": [
+                "a special school for disabled children in stockport has submitted plans for a new \u00a3 45m campus .", 
+                "the seashell trust in cheadle hulme want to demolish its existing buildings to create a new school on the same site .", 
+                "the trust is hoping to raise the money by selling off part of the land is owns to a housing developer for up to 300 new homes on greenbelt land , next to the a34 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfd95be4b01be7fd3f23dc", 
+            "title": "trio plied schoolgirl with drink and drugs before gang raping her at house party", 
+            "text": [
+                "three men have been locked up for over forty years for gang raping a schoolgirl at a house party ."
+            ], 
+            "author": [
+                "Manchester Evening News", 
+                "Manchester Evening News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfb0e9e4b0207e11272cb4", 
+            "title": "half of bucket lists remain unticked , new figures show", 
+            "text": [
+                "over half of us in the north west will leave our `` bucket list '' unticked , according to new figures .", 
+                "statistics from the british heart foundation shows more than 50 % of us have never visited the eiffel tower .", 
+                "the charity says our region seems to be `` dreamers rather than doers '' .", 
+                "there are currently nearly 902,000 people living with heart and circulatory disease in the north west ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df9a46e4b0c27cfe004ede", 
+            "title": "residents turn out in force to oppose stockton heath library closure proposals", 
+            "text": [
+                "residents turned out in force to oppose proposals to close their library at stockton heath parish council 's meeting last tuesday ."
+            ], 
+            "author": [
+                "Warrington Guardian"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfd550e4b04c0e8e41b006", 
+            "title": "'old man ' driving mobility scooter stopped on m60", 
+            "text": [
+                "an `` old man '' riding a mobility scooter on the hard shoulder of the m60 near the trafford centre has been stopped by police .", 
+                "it happened on the hard shoulder of the m60 close to barton bridge near the trafford centre , greater manchester at about 11:25 on sunday .", 
+                "witnesses who were concerned for the man 's safety contacted officers after seeing him on a slip road ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfdacee4b0c27cfe004f77", 
+            "title": "weather : bright spells developing", 
+            "text": [
+                "drying up into this afternoon with some bright spells developing too .", 
+                "it will be a dry night for most , perhaps with odd spots of rain in the east .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfd33be4b0207e11272d0e", 
+            "title": "crimewatch appeal over dorothy leyden 's murder in 1971", 
+            "text": [
+                "a fresh appeal to find the killer of a teenage girl who was raped and murdered in manchester 45 years ago is to feature on bbc one 's crimewatch .", 
+                "dorothy leyden 's body was found hours after she had been to a jimmy ruffin concert at the golden garter nightclub in wythenshawe in april 197", 
+                "the 17-year-old 's body was found on waste ground in collyhurst .", 
+                "her sister pat atkinson has made an emotional appeal for more information on her death ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfc451e4b0e473b5b959fb", 
+            "title": "stone roses singer ian brown avoids driving ban - so he can go shopping for elderly parents", 
+            "text": [
+                "stone roses frontman ian brown escaped a driving ban by claiming he needs his car - to do shopping errands for his elderly parents ."
+            ], 
+            "author": [
+                "Manchester Evening News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "20:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfbdd1e4b0270fef3533ba", 
+            "title": "man wanted by police", 
+            "text": [
+                "a man from burnage is wanted by police .", 
+                "leon seale-edwards , 36 , is wanted in connection with a domestic-related assault on 11 august .", 
+                "he is also wanted on recall to prison ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfc2f2e4b01be7fd3f239f", 
+            "title": "power cut in m14 postcode", 
+            "text": [
+                "engineers are on their way to investigate a power cut in the m14 postcode area affecting ladybarn and fallowfield .", 
+                "we are aware of a power cut in the # m14 # manchester area , engineers are on route to investigate .", 
+                "we do apologise about any inconvenience zee", 
+                "do you know how many properties are affected ?", 
+                "hi , there is 67 properties affected that we are aware of right now .", 
+                "zee", 
+                "do you know which roads in ladybarn are affected ?", 
+                "is santon ave one of them ?", 
+                "hi , our records show that the power in this area has now been restored , if you are still having issues can you please dm 1/2", 
+                "do you know how long it takes to get fixed ?", 
+                "it 's the second time in less than a week now this has happened .", 
+                "i do apologise for the inconvenience that this fault is causing .", 
+                "would you be able to dm your full address details please ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfbf95e4b0207e11272cdc", 
+            "title": "developer selected for manchester regeneration", 
+            "text": [
+                "a developer has been appointed for an \u00a3 850m regeneration project in manchester .", 
+                "the mayfield scheme will be built on a derelict site next to piccadilly station and will include 1,300 homes , offices , a hotel , as well as retail and leisure facilities and a park .", 
+                "a company called u + i has been selected to carry out the development with a planning application likely to be submitted in spring next year ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfc114e4b0e473b5b959ed", 
+            "title": "latest headlines for greater manchester and east cheshire", 
+            "text": [
+                "latest headlines for greater manchester and east cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df99e8e4b01be7fd3f232d", 
+            "title": "can dna tests identify litter louts ?", 
+            "text": [
+                "whether it is cutting-edge dna profiling or covert surveillance , online naming and shaming or conscience-pricking children 's artwork , bbc inside out has been exploring the different ways to stop dumping and littering ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfbab1e4b0270fef3533b7", 
+            "title": "travel : broken-down lorry causing delays on m62", 
+            "text": [
+                "there are severe delays , queuing traffic and one lane is blocked on m62 eastbound between junction 19 , heywood , and junction 20 , rochdale , because of a broken down lorry ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df987ae4b01be7fd3f2328", 
+            "title": "figures show costs of fly-tipping", 
+            "text": [
+                "the scourge of fly-tipping across england is getting worse with councils spending more than \u00a3 67m to clean up public land and prosecute anyone they catch , according to official figures .", 
+                "a total of \u00a3 1.6m was spent in manchester last year and the council deals with up to 60 incidents a day"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfafe5e4b0207e11272cb1", 
+            "title": "football : players low on confidence - mourinho", 
+            "text": [
+                "manchester united manager jose mourinho says his players are low on confidence .", 
+                "they were beaten 3-1 by watford on sunday ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57df9057e4b0270fef353345", 
+            "title": "plans to rebuild oldham secondary school set to be approved", 
+            "text": [
+                "plans to rebuild royton and crompton secondary school at a cost of \u00a3 17.5m are set to be approved by oldham council .", 
+                "the cash would be used to build a new school on the current site , with room for 1,500 pupils .", 
+                "it is hoped \u00a3 14m will come from the education funding agency , with oldham council making up the rest ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57dfae09e4b01be7fd3f235d", 
+            "title": "latest headlines for greater manchester and east cheshire", 
+            "text": [
+                "latest headlines for greater manchester and east cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57df9327e4b0c27cfe004ecc", 
+            "title": "appeal to find killer of teenager 45 years ago", 
+            "text": [
+                "a fresh appeal to find the killer of a teenage girl who was raped and murdered in north manchester 45 years ago will feature on crimewatch tonight .", 
+                "dorothy leyden,17 , had been to watch the temptations soul singer jimmy ruffin , at the golden garter nightclub in wythenshawe in 1971 .", 
+                "her body was found the next morning , behind a pub in collyhurst ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57dfa739e4b0c27cfe004ef6", 
+            "title": "trapped man freed by firefighters", 
+            "text": [
+                "a man who was trapped between a lorry and metal racking in store street in ancoats has been freed by firefighters .", 
+                "north west ambulance service said he had been taken to manchester royal infirmary at about 09:30 .", 
+                "the man was admitted as a `` major trauma patient '' but there are no further details about his condition , a spokesperson added .", 
+                "greater manchester fire and rescue service was called at about 07:45 to the incident near to ducie street and great ancoats street ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57df9f23e4b01be7fd3f233c", 
+            "title": "man trapped between metal and hgv in ancoats", 
+            "text": [
+                "a worker has been trapped between metal racking and a hgv at a business in manchester .", 
+                "there is a cordon in place around ducie street and store street in ancoats while firefighters try to free the man .", 
+                "ambulance and police were also called at about 07:45 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57df9144e4b0c27cfe004ec5", 
+            "title": "family of viola beach 's river reeves cycle in his name", 
+            "text": [
+                "family and friends of one of the members of warrington band viola beach , who died in a car crash in sweden , are beginning a 400-mile bike ride today , to raise money for a charity in his name .", 
+                "river reeves lived in cornwall , before moving to warrington and joining the band .", 
+                "his father will be among a group cycling from penzance to warrington , in aid of disadvantaged youngsters ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57df9704e4b0207e11272c71", 
+            "title": "sister appeals to find killer of teenage girl in 1971", 
+            "text": [
+                "a fresh appeal to find the killer of a teenager whose body was discovered dumped on waste ground in 1971 has been launched by police .", 
+                "crimewatch : sister of dorothy leyden , who was raped and murdered in 1971 in mcr , makes appeal to find the killer ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df8f13e4b01be7fd3f2308", 
+            "title": "headlines for greater manchester and east cheshire", 
+            "text": [
+                "headlines for greater manchester and east cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df8d41e4b0270fef353338", 
+            "title": "weather : turning dry with bright spells later", 
+            "text": [
+                "after a grey and damp start to the day it will start to dry up into this afternoon .", 
+                "some bright spells will develop too and the winds will be light .", 
+                "highs of 16c ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57df8ce0e4b04c0e8e41af34", 
+            "title": "good morning : join us for today 's live coverage", 
+            "text": [
+                "welcome to greater manchester live .", 
+                "we 're here until 18:00 with all the latest news , sport , travel and weather from across the 10 boroughs and east cheshire .", 
+                "you can get in touch with all your comments , photographs and news by email , facebook or twitter ."
+            ], 
+            "author": [
+                "Rachael Connors", 
+                "Reporter, BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-manchester", 
+    "quality": "high"
+}

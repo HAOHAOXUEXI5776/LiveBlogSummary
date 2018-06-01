@@ -1,0 +1,3021 @@
+{
+    "blog_id": "2dacf0a3381dd88dfd820063ccb1faa12fe751ff", 
+    "title": "At Iowa forum, Trump says we must 'bring jobs back' and 'build a wall' \u00e2\u0080\u0093 as it happened | US news | The Guardian", 
+    "url": "https://www.theguardian.com/us-news/live/2015/nov/19/isis-plan-clinton-bernie-sanders-ben-carson-trump", 
+    "summary": [
+        "sanders ' speech at georgetown ends .", 
+        "sanders defines democratic socialism .", 
+        "clinton : intensify strikes and ground campaign .", 
+        "clinton rejects 'clash of civilizations '", 
+        "clinton supports no-fly zone with russia .", 
+        "clinton rebukes turkey over kurds ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-564e5763e4b07093b249eb7b", 
+            "title": "wrap up of today in politics", 
+            "text": [
+                "after major speeches from both hillary clinton and bernie sanders , an important vote on capitol hill and donald trump being himself in iowa , this is what we 've learned today .", 
+                "bernie sanders offered his definition of democratic socialism .", 
+                "hillary clinton supports implementing a no-fly zone over syria .", 
+                "the house of representatives passed a bill to add an extra layer of scrutiny to refugees from syria and iraq seeking asylum in the united states .", 
+                "donald trump thinks childcare is easy to provide ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                23, 
+                20
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e55cde4b06e1ab44e18e3", 
+            "title": "", 
+            "text": [
+                "trump makes clear i know muslim people , they are phenomenal people , they are a really great people but they get tarnished by the acts of others and goes on to warn about radical islam .", 
+                "he also says of refugees , these folks are n't coming from sweden ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                23, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e5532e4b062d400968564", 
+            "title": "", 
+            "text": [
+                "trump says i do n't think the caucuses are antiquated .", 
+                "he pledges if i win , the caucuses are n't going anywhere ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                23, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e53cee4b062d400968561", 
+            "title": "", 
+            "text": [
+                "trump now weighs in refugees .", 
+                "i feel totally bad for them but at the same time we do n't know who they are and we do n't know here they come from .", 
+                "but at the same time i also feel bad for people in this country , you 'll have hundreds of thousands people coming in .", 
+                "he thinks syria will eventually be wonderful but , in the meantime , letting in refugees will be a trojan horse ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                23, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e5290e4b07093b249eb72", 
+            "title": "", 
+            "text": [
+                "trump on unions , i 've done it both ways .", 
+                "he notes that you need to work with unions in new york city but that he does n't do so in florida which has a weak organized labor movement .", 
+                "trump says i 've been able to live with unions but if i had my choice , i 'd take it without [ unions ] ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e520ee4b062d400968560", 
+            "title": "", 
+            "text": [
+                "trump says i 'm ok with subsidies for wind energy .", 
+                "he adds wind is very tough to laughter .", 
+                "trump notes that with oil prices falling , wind energy has become less competitive .", 
+                "he noted the wind energy needs subsidies which he 's ok with but expresses concern about it .", 
+                "trump also expresses some wonder about the process of generating wind power .", 
+                "it 's amazing to think out of the wind , you make energy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e50cde4b062d40096855d", 
+            "title": "", 
+            "text": [
+                "on the subject of equal pay for women , trump praises his daughter ivanka who he says is cutting a television ad for him in georgia .", 
+                "trump says if you say everyone gets equal pay , you 're getting away from the american dream , you 're getting away from capitalism .", 
+                "instead , he says people have to go out there and fight for themselves ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e5046e4b07093b249eb6e", 
+            "title": "", 
+            "text": [
+                "trump is now praising the middle class and bemoaning those who he thinks got victimized the most in the economic downturn , those who saved .", 
+                "in trump 's view , those who saved now get almost no interest from the banks and those who spent freely made deals with the banks .", 
+                "however , he pledges under his tax plan , everyone will get a big , fat , beautiful deduction ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4e63e4b06e1ab44e18d9", 
+            "title": "", 
+            "text": [
+                "trump gets a question about childcare and says it 's not something you hear as much about .", 
+                "the questioner says she does n't have kids and trump jokes now i feel better when i do n't give her much of an answer .", 
+                "he talks about the childcare available at his businesses where the kids are called trumpeteers .", 
+                "trump adds childcare is n't very expensive for businesses to provide all you need is one or two people , some blocks and a swing ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4ddce4b07093b249eb6b", 
+            "title": "", 
+            "text": [
+                "carson in alabama teague for the guardian meanwhile , in alabama : ben carson enters the arena from the tunnel normally used by athletic teams , waving to an enthusiastic crowd of about 3,000 .", 
+                "it 's a good crowd for 4:20 pm local time on a thursday in mobile .", 
+                "the crowd , though , is notably homogeneous ; mobile 's population is half black , but the audience is almost entirely white .", 
+                "carson knows his audience .", 
+                "he opened with a story about prayer .", 
+                "i told god : \u0080\u0098if you 'll open the doors , i 'll walk through them .", 
+                "'then he reminisced about how as a child he loved stories of missionary doctors , the most noble people on the earth , traveling the globe to bring physical and spiritual healing .", 
+                "the last big candidate to pass through mobile was donald trump , whose bombastic style riled his audience.carson 's tone and his crowd are characteristically mellow .", 
+                "his biggest round of applause came on a note of indirect criticism about obama .", 
+                "he listed a series of objectives an enemy of america might have , and finished with , any resemblance to what 's actually going on today is purely coincidental .", 
+                "overall , carson is serving red meat in a red state .", 
+                "on the matter of government assistance , carson said , people have misread the preamble to the constitution .", 
+                "it says , \u0080\u0098promote the general welfare . '", 
+                "that does n't mean to put everybody on welfare.big applause .", 
+                "in closing , carson cited thomas jefferson , saying that the founding father predicted america 's government would expand and infiltrate , invade our lives and begin to dominate us.but , he said , just before it was too late , the people would realize what was going on and they would rise up .", 
+                "i say this is that moment.loud whoops from the crowd , as carson exited the stage ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4dcfe4b062d400968556", 
+            "title": "", 
+            "text": [
+                "trump is now touting his tax plan as the cure to economic woes of struggling factory towns like newton .", 
+                "the plan which involves major tax cuts across the board is available here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4bbce4b07093b249eb68", 
+            "title": "", 
+            "text": [
+                "trump says we are going to have to start a program to help students with loans .", 
+                "he says the one government program that the united states makes money off is student loans and that 's one that they should n't make money off of .", 
+                "trump continues to talk about helping people refinance student loans but without getting into specifics ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4b33e4b07093b249eb65", 
+            "title": "", 
+            "text": [
+                "not everyone is getting to enjoy trump 's town hall in newton today .", 
+                "buzzfeed 's evan mcmorris-santoro reports that he has been barred from the event on twitter .", 
+                "e mcmorris-santoro ( @ evanmcsan ) welp , i 'm adding `` barred from donald trump town hall in newton iowa '' to the ol list of career accomplishments .", 
+                "( 1/some ) mcmorris-santoro is not the first reporter to fall on trump 's blacklist .", 
+                "after an editorial from the des moines register that the real estate mogul objected to , his campaign has refused to credential any reporter from that outlet ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4a29e4b07093b249eb63", 
+            "title": "", 
+            "text": [
+                "trump has been rising in the polls in recent days and he points to the terrorist attacks in paris last friday as one reason .", 
+                "now since paris , people are really starting to like my hard line immigration , he says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e49fde4b06e1ab44e18d3", 
+            "title": "", 
+            "text": [
+                "in discussing oreo cookies , trump says i could stand to lose some weight ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e49a2e4b062d40096854c", 
+            "title": "", 
+            "text": [
+                "trump gets big applause from the room when he says we 're going to build the wall .", 
+                "he adds walls work ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4923e4b06e1ab44e18d2", 
+            "title": "", 
+            "text": [
+                "when he 's asked about newton 's economic issues , trump says i know something about this town because i saw 60 minutes four or five years ago ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e48cee4b07093b249eb5f", 
+            "title": "", 
+            "text": [
+                "trump 's first question is about how he can emphasize with those struggling to pay the rent and feed their families .", 
+                "he starts off by mentioning the financial downturn in the 1990s , when his real estate empire experienced serious losses .", 
+                "trump then segues into the passage in his stump speech where he argues the unemployment rate is far higher than the government claims ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4875e4b06e1ab44e18d0", 
+            "title": "", 
+            "text": [
+                "and only a few minutes late , trump arrives on stage in iowa to a crowd of about 300 attendees who will question him about job creation and the economy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e470be4b062d400968545", 
+            "title": "", 
+            "text": [
+                "donald trump is running late to his forum in iowa and moderator dave price tells attendees if you see a blur on interstate 80 that is the trump motorcade on its way ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4597e4b062d400968541", 
+            "title": "", 
+            "text": [
+                "ben carson 's business manager armstrong williams has served as an all purpose fixer , strategist and spokesman for the retired neurosurgeon 's presidential campaign .", 
+                "williams frequently appears on television as surrogate for carson and is one of the candidate 's closest friends however , now carson is separating himself from williams .", 
+                "he told reporters thursday [ williams ] has nothing to do with the campaign .", 
+                "nothing .", 
+                "armstrong can comment on his own behalf .", 
+                "he does not speak for the campaign at all .", 
+                "he does not speak for me .", 
+                "he speaks for himself .", 
+                "this comes after williams contradicted himself in an interview with mark halperin and john heilemann of bloomberg tv on tuesday .", 
+                "there , he provided varying explanations as to carson 's relations with a foreign policy advisor who said the candidate does n't know very much about the middle east .", 
+                "williams also admitted carson is on a learning curve on foreign policy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                22, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4486e4b07093b249eb57", 
+            "title": "", 
+            "text": [
+                "my colleague and guardian us southern correspondent matthew teague reports from on the trail with carson in alabama : with 10 minutes before ben carson is set to speak at the university of south alabama 's mitchell center , about 2,500 people have arrived and are taking their seats .", 
+                "there 's room for 3,500 , but more people are winding their way through security checks .", 
+                "uptempo jazz is playing over the arena 's public address system .", 
+                "carson staffers are passing out signs that read \u0080\u0098heal ' and \u0080\u0098inspire ' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e4177e4b07093b249eb55", 
+            "title": "", 
+            "text": [
+                "for the first time in eight years , a presidential candidate will receive federal election commission ( fec ) matching funds .", 
+                "the fec announced this afternoon that maryland democrat martin o'malley had been declared eligible for matching funds .", 
+                "he is the first candidate since john edwards in 2007 to do so .", 
+                "while the use of federal matching funds had long been common in presidential campaigns , their rejection by barack obama in the 2008 democratic primary quickly made them obsolete .", 
+                "federal matching funds means that for every dollar that a presidential candidate raises in a contribution of under $ 250 , they get an additional dollar from the federal government .", 
+                "however , they have to abide by strict limits for what they can spend both nationally and in individual states .", 
+                "o'malley 's campaign has long been on shaky financial ground and while the federal matching funds will make it more likely that his campaign will stay solvent through the iowa caucuses , it is an even bigger impediment to his already slim chances of actually winning the nomination ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3f19e4b07093b249eb52", 
+            "title": "", 
+            "text": [
+                "hillary clinton was n't just in the news today for her foreign policy speech .", 
+                "the washington post put together a comprehensive look at the clinton donor network over the past 40 years , from bill clinton 's first run for congress in 1974 until the present .", 
+                "the article takes a look at the $ 3 billion that the clintons have raised both for the clinton foundation and for their political campaigns and who they have raised that sum from ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3ad1e4b062d400968537", 
+            "title": "", 
+            "text": [
+                "on capitol hill today , the house of representatives approved legislation to add another layer of scrutiny for the process of admitting refugees from syria and iraq by a veto-proof margin .", 
+                "as i reported earlier : with almost unanimous support from republicans and 47 democrats voting in favor , the house approved by 289 votes to 137 the american security against foreign enemies act , which would require the secretary of homeland security , the fbi director and the director of national intelligence to each certify that a refugee was not a threat to national security before they were admitted to the united states .", 
+                "this certification would come on top of the pre-existing extensive screening process for refugees seeking admittance to the united states , which currently takes over 18 months .", 
+                "the bill will not be taken by the senate until december , after the thanksgiving recess .", 
+                "it is likely to face a democratic filibuster there and even if it somehow passes , the white house has already pledged to veto it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e38e4e4b07093b249eb49", 
+            "title": "", 
+            "text": [
+                "in about an hour donald trump will be holding a forum on job creation in the central iowa town of newton .", 
+                "newton received international attention during the 2008 iowa caucuses as its biggest employer maytag had recently shut its factory there .", 
+                "at one point , it had employed over 4,000 people in a town of roughly 15,000 .", 
+                "since then , a nascar track has opened there and several manufacturers associated with the wind energy industry have set up shop in the town ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3598e4b07093b249eb43", 
+            "title": "", 
+            "text": [
+                "bernie sanders is n't the only presidential candidate talking about foreign policy today .", 
+                "in an op-ed in politico , florida senator marco rubio wrote about his support for an international coalition to combat isis and to impose a no fly zone in syria .", 
+                "we will only be able to protect our people at home if we defeat isil abroad .", 
+                "i would build a multinational coalition of countries willing to send troops into iraq and syria to aid local forces on the ground .", 
+                "when i am president , i will tell my commanders that the mission is the total destruction of isil and will send them the forces necessary to succeed .", 
+                "cutting off oxygen to isil also requires defeating assad in syria .", 
+                "i would declare no-fly zones to ground assad 's air force and coalition-controlled safe zones in the country to stop his military .", 
+                "these safe zones would stem the flow of refugees and provide a place to train and arm rebel fighters .", 
+                "i would oppose russia and iran in their fight to prolong assad 's brutal regime ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                21, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-564e340be4b07093b249eb41", 
+            "title": "sanders ' speech at georgetown ends", 
+            "text": [
+                "after an hourlong address on both socialism and foreign policy and about 20 minutes worth of questions from students , the vermont senator has left georgetown university .", 
+                "the speech began with a reference to franklin delano roosevelt 's second inaugural , ended with the statement isis must be destroyed and , in between , compared the 1973 overthrow of the allende government in chile with the iraq war .", 
+                "in short , it was a campaign speech that only bernie sanders could give ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e33a2e4b062d40096852d", 
+            "title": "", 
+            "text": [
+                "the vermont senator says his campaign is not just about electing bernie sanders for president .", 
+                "it 's about much more than that ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e32d9e4b06e1ab44e18b1", 
+            "title": "", 
+            "text": [
+                "sanders now talking about compromise .", 
+                "when you are in congress , you compromise everyday .", 
+                "he cites bipartisan work with republicans like john mccain .", 
+                "however , he insists his platform is not radical and that he is not coming before the american people as this radical , wild-eyed socialist ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e31f0e4b07093b249eb40", 
+            "title": "", 
+            "text": [
+                "sanders say now talking about the links between global warming and terrorism , saying that extreme weather will lead to massive displacement of people as they are forced to migrate because of lack of land and water .", 
+                "he adds it is not debatable .", 
+                "climate change is a major major inducement to international conflict and terrorism ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3194e4b06e1ab44e18af", 
+            "title": "", 
+            "text": [
+                "an indirect shot at donald trump comes as sanders says he is unhappy to hear about people who are talking about closing mosques .", 
+                "trump said he would be open to the concept in the aftermath of the terrorist attacks in paris ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3132e4b07093b249eb3f", 
+            "title": "", 
+            "text": [
+                "sanders reiterates that it would be a terrible mistake for many many reasons for the united states to get involved unilaterally in the war in syria or reinvolved in iraq ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e3039e4b06e1ab44e18ac", 
+            "title": "", 
+            "text": [
+                "the vermont senator is now discussing his proposed legislation on college affordability .", 
+                "it would make all public colleges free and lower interest rates on student loans for those attending private colleges .", 
+                "he admits that it is a expensive proposition and would cost $ 70 billion a year .", 
+                "sanders says it would be paid for with a tax on wall street speculation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2f2de4b06e1ab44e18a9", 
+            "title": "", 
+            "text": [
+                "sanders ' first question is about why he identifies as a socialist .", 
+                "he answers by saying : i think the reason i have always , throughout my political career , defined myself as a democratic socialist is because that in fact is my vision .", 
+                "he goes on to define socialism as the belief that real change does not take place unless we have the courage to take on the very powerful special interests that control their country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-564e2e63e4b062d400968524", 
+            "title": "", 
+            "text": [
+                "with a rousing call for young people to engage in the political process , bernie sanders 's speech has ended and so has alan yuhas 's stewardship of this liveblog .", 
+                "this is ben jacobs taking over as sanders starts a question and answer session with questions submitted by students attending the speech ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2d77e4b062d400968520", 
+            "title": "", 
+            "text": [
+                "the bottom line is that isis must be destroyed , but it can not be defeated by the united states alone , he says .", 
+                "while individual nations indeed have historic disputes the u.s. and russia , iran and saudi arabia the time is now to put aside those differences to work towards a common purpose of destroying isis .", 
+                "sadly as we have seen recently , no country is immune from attacks by the violent organization or those whom they have radicalized .", 
+                "thus , we must work with our partners in europe , the gulf states , africa and south-east asia all along the way asking the hard questions whether their actions are serving our unified purpose .", 
+                "\u0080\u00a6 a new and effective coalition must be formed with the muslim nations leading the effort on the ground , while the united states and other major forces provide the support they need .", 
+                "he concludes : all across this country there is a significant alienation about the political process .", 
+                "people look to washington and they throw their hands up and they say \u0080\u0098what in god 's name is going on there \u0080\u00a6 why are n't we developing a rational foreign policy rather than getting involved in a quagmire in the middle east , which could lead to perpetual war ? '", 
+                "\u0080\u00a6 the problems that we face are very , very serious \u0080\u00a6 but by and large , all of these problems were caused by bad human decisions .", 
+                "and if we come together , if we stand together , if we do not allow ourselves to be divided up by race , by weather we 're gay whether we 're straight whether we 're born in america \u0080\u00a6 if we stand together \u0080\u00a6 if we are prepared to engage in the political process , i am confident there is nothing , nothing , nothing that we can not accomplish ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2d28e4b07093b249eb37", 
+            "title": "", 
+            "text": [
+                "sanders says a political solution must be found to transition bashar al-assad out of syria : the diplomatic plan for assad 's transition from power is a good step in a united front .", 
+                "but our priority must be to defeat isis .", 
+                "nations all over the world , who share a common interest in protecting themselves against international terrorist , must make the destruction of isis the highest priority .", 
+                "nations in the region must commit that instead of turning a blind eye they will commit their resources to preventing the free flow of terrorist finances and fighters to syria and iraq .", 
+                "we need a commitment that they will counter the violent rhetoric that fuels terrorism rhetoric that often occurs within their very borders .", 
+                "this is the model in which we must pursue solutions to the sorts of global threats we face"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2ce4e4b06e1ab44e18a5", 
+            "title": "", 
+            "text": [
+                "sanders says he wants an agreement from the gulf states that they will put aside their ideological and power disputes to focus on isis .", 
+                "all of this has got to change .", 
+                "wealthy and powerful muslim nations in the region can no longer sit on the sidelines and expect the united states to do their work for them .", 
+                "they have got to come up to the plate .", 
+                "as we develop a strongly coordinated effort , we need a commitment from these countries that the fight against isis takes precedence over the religious and ideological differences that hamper the kind of cooperation that we desperately need ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2c85e4b06e1ab44e18a3", 
+            "title": "", 
+            "text": [
+                "sanders is now criticizing the gulf states in earnest , denigrating saudi arabia for its fixation on yemen and qatar for its reported $ 200bn budget for the 2022 world cup .", 
+                "saudi arabia has the third largest defense budget in the world , yet instead of fighting isis they have focused more on a campaign to oust iran-backed houthi rebels in yemen .", 
+                "kuwait , a country whose ruling family was restored to power by us troops after the first gulf war , has been a well-known source of financing for isis and other violent extremists .", 
+                "it has been reported that qatar will spend $ 200 bn on the 2022 world cup , including the construction of an enormous number of facilities to host that event $ 200bn on hosting a soccer event , yet very little to fight against isis .", 
+                "worse still , it has been widely reported that the government has not been vigilant in stemming the flow of terrorist financing , and that qatari individuals and organizations funnel money to some of the most extreme terrorist groups in the region ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2c10e4b06e1ab44e18a1", 
+            "title": "", 
+            "text": [
+                "he outlines his ideas for a new alliance of nations , western and from the middle east , and calls out the gulf states for doing far too little despite their enormous wealth and resources .", 
+                "a new and strong coalition of western powers , muslim nations , and countries like russia must come together in a strongly coordinated way to combat isis , to seal the borders that fighters are currently flowing across , to share counter-terrorism intelligence , to turn off the spigot of terrorist financing , and to end support for exporting radical ideologies .", 
+                "what does all of this mean ?", 
+                "well , it means that , in many cases , we must ask more from those in the region .", 
+                "while jordan , turkey , egypt , and lebanon have accepted their responsibilities for taking in syrian refugees , other countries in the region have done nothing or very little .", 
+                "equally important , and this is a point that must be made countries in the region like saudi arabia , kuwait , qatar , uae countries of enormous wealth and resources have contributed far too little in the fight against isis .", 
+                "that must change .", 
+                "king abdallah is absolutely right when he says that that the muslim nations must lead the fight against isis , and that includes some of the most wealthy and powerful nations in the region , who , up to this point have done far too little ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2b81e4b06e1ab44e18a0", 
+            "title": "", 
+            "text": [
+                "but let us be very clear , he says neither the us nor the west alone should take destroying isis as their sole responsibility .", 
+                "while the us and other western nations have the strength of our militaries and political systems , the fight against isis is a struggle for the soul of islam .", 
+                "and countering violent extremism and destroying isis must be done primarily by muslim nations , with the strong support of their global partners .", 
+                "sanders says he 's been heartened by hearing from jordan 's king abdullah ii that muslims must lead the fight .", 
+                "like hillary clinton , he makes a special point to thank abdullah and the jordanians ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2b3fe4b07093b249eb31", 
+            "title": "", 
+            "text": [
+                "sanders says his foreign policy would be inspired by the same spirit that created nato , and that he wants to create a 21st century version of the organization .", 
+                "it is my belief that we must expand on these ideals and solidify our commitments to work together to combat the global threat of terror .", 
+                "we must create an organization like nato to confront the security threats of the 21st century an organization that emphasizes cooperation and collaboration to defeat the rise of violent extremism and importantly to address the root causes underlying these brutal acts .", 
+                "we must work with our nato partners , and expand our coalition to include russia and members of the arab league ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2a72e4b06e1ab44e189e", 
+            "title": "", 
+            "text": [
+                "i 'm not running to pursue reckless adventures abroad , he says , segueing into foreign policy .", 
+                "i will never hesitate to defend this nation , but i will never send our sons and daughters to war under false pretense or pretenses or into dubious battles with no end in sight .", 
+                "he takes a somber moment to say that he joins the mourning for the victims of paris , the russian jet downed in egypt , and a terrorist attack in lebanon .", 
+                "to my mind , it is clear that the united states must pursue policies to destroy [ isis ] , and to create conditions that prevent fanatical extremist ideologies from flourishing .", 
+                "but we can not and should not do it alone .", 
+                "he says that his foreign policy would be based on learning from the mistakes of the past : it begins with the acknowledgment that unilateral military action should be a last resort , not a first resort , and that ill-conceived military decisions , such as the invasion of iraq , can wreak far-reaching devastation and destabilize entire regions for decades .", 
+                "it begins with the reflection that the failed policy decisions of the past rushing to war , regime change in iraq , or toppling mohammad mossadegh in iran in 1953 .", 
+                "mossadegh was the president , cia , mi6 got rid of him to protect [ interests ] , the shah got rid of him \u0080\u00a6 and that is where we are in iran today .", 
+                "decisions are consequences , often unintended consequences .", 
+                "so whether it was saddam , or mossadegh , or guatemalan president \u00e3\u0081rbenz in 1954 , brazilian president goulart in 1964 , chilean president allende in 1973 .", 
+                "this type of regime change , this type of overthrowing governments we may not like , often does not work , often makes a bad or difficult decision even worse .", 
+                "these are lessons we must learn ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e29dce4b062d40096851a", 
+            "title": "", 
+            "text": [
+                "sanders says he 's been awed by the enthusiasm and idealism of young people , and that he hopes they can resist cynicism while accepting realism and continue to participate in politics .", 
+                "i 'm not running for president because it 's my turn , not quite i was born in a three and a half room apartment in working class brooklyn , new york i am running for president in order for all of us to live in a nation of hope and opportunity not for some , not for the few , but for my seven grandchildren and for all of you .", 
+                "nobody understood better than franklin delano roosevelt that the connection between american strength at home and our ability to defend america at home and across the world .", 
+                "that is why he proposed a second bill of rights in 1944 , and he said in that very same state of the union , and i quote again : america 's own rightful place in the world depends in large part upon how fully these and similar rights have been carried into practice for all our citizens .", 
+                "for unless there is security here at home there can not be lasting peace in the world ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                20, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e298ce4b062d400968518", 
+            "title": "", 
+            "text": [
+                "sanders says he despises appeals to nativism and prejudice , and i do believe in immigration reform that gives hispanics and others a pathway to citizenship and a better life .", 
+                "and while i 'm on that subject , let me just say a real word of concern from what i 'm hearing on that subject from some of the republican candidates \u0080\u00a6 people can have real disagreements \u0080\u00a6 that 's part of the political process , but people should not be using that process to inject racism into the debate .", 
+                "if donald trump and others want to open that door , he says , our job is to shut it , and to shut it tight !", 
+                "our country has come too far and too many people have died for us to continue hearing racist words from our political leaders ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e28fde4b07093b249eb2d", 
+            "title": "", 
+            "text": [
+                "so the next time someone accuses me of being a socialist tomorrow , sanders quips , before making a crescendo of statements about what he does and does not believe .", 
+                "i do n't believe the government should take over the grocery store down the street or own the means of prodcution , but i do believe that the middle class families who produce the goods of this country deserve a fair standard of living and that their incomes should go up , and not down .", 
+                "i believe that most americans can pay lower taxes if hedge fund managers who make billions manipulating the marketplace finally pay the taxes they should .", 
+                "i believe in private companies that thrive and invest and grow in america instead of shipping jobs and profits overseas .", 
+                "i do n't believe in special treatment for the top 1 % , but i do believe in equal treatment for african-americans who are right to proclaim the moral principle that black lives matter .", 
+                "he gets a huge ovation for the last line ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2819e4b07093b249eb2b", 
+            "title": "", 
+            "text": [
+                "it is not acceptable that major corporations stash their profits , sanders says , or that billionaires and speculators are able to able to gamble trillions of dollars in the derivatives market without paying a nickel in taxes on that speculation .", 
+                "democratic socialism , to me , does not just mean that we must create a nation of economic and social justice and environmental sanity .", 
+                "of course it does mean that .", 
+                "bt it also means that we must create a vibrant democracy based on the principle of one person one vote .", 
+                "\u0080\u00a6 it is extremely sad that the united states , one of the oldest democracies on earth , has one of the lowest voter turnouts of any major country , and that millions of young and working class people have given up on our political system entirely .", 
+                "he argues to automatically register americans to vote once they turn 18 .", 
+                "clearly , despite the efforts of many republican governors to suppress the vote , but our job together is to make it easier for people to vote , not harder to vote .", 
+                "it is not a radical idea , and i fight for this as president of this country , to say that everyone in this country who is 18 years of age or older is registered to vote end of discussion ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e279de4b07093b249eb29", 
+            "title": "", 
+            "text": [
+                "greed for the sake of greed is not something that public policy should support , he says , even if innovation and entrepreneurship deserve rewards .", 
+                "democratic socialism means , that in a democratic , civilized society the wealthiest people and the largest corporations must pay their fair share of taxes .", 
+                "he says that the wealthiest 15 americans saw their wealth increase by $ 170bn over the last two years it is not acceptable .", 
+                "he then again quotes pope francis : the worship of the golden calf of old has found a new and heartless image in the cult of money and the dictatorship of an economy which is faceless and lacking any truly humane goal .", 
+                "in other words , we 've got to do better than that \u0080\u00a6 we 've got to stop worshipping people who make billions and billions and billions of dollars while we have the highest rate of child poverty of any [ industrialized ] country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e26ede4b07093b249eb28", 
+            "title": "", 
+            "text": [
+                "sanders says democratic socialism means a $ 15 minimum wage , and a new conception of wages s living wages .", 
+                "it means that we join the rest of the world and pass the very strong paid family and medical leave legislation now in congress .", 
+                "he says he will help end the absurdity of the united states ' medical leave laws , saying he would make sure americans get at least three months .", 
+                "democratic socialism means that we have government policy which does not allow the greed and profiteering of the fossil fuel industry to destroy our environment , he says , to a big cheer .", 
+                "and it means to me that we have a moral responsibility to combat climate change and leave this planet healthy and habitable for our kids and grandchildren ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2666e4b06e1ab44e189b", 
+            "title": "", 
+            "text": [
+                "democratic socialism means the right to go to a public colleges or university tuition free , he says .", 
+                "is this a radical , socialistic idea ?", 
+                "i do n't think so .", 
+                "it exists today in many countries around the world .", 
+                "and you know what ?", 
+                "it used to exist in the united states .", 
+                "democratic socialism means investing in infrastructure , small businesses and jobs , he says .", 
+                "it is far smarter to invest in jobs and educational opportunities for young people who are unemployed than to lock them up and invest in jails and incarceration ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e25e7e4b062d400968511", 
+            "title": "", 
+            "text": [
+                "think about it , he says repeatedly , getting into the details of the pitch .", 
+                "people who get sick will not have to worry about paying a deductible or making a co-payment .", 
+                "they could go to the doctor when they should , and not end up in the emergency room .", 
+                "business owners will not have to spend enormous amounts of time worrying about how they are going to provide health care for their employees .", 
+                "think about it , and we do n't talk about this very much , we 've got millions of workers who are staying in jobs that they do not want to stay in but they 're there because they want a decent healthcare system for them and their families .", 
+                "he then suggests an alternative : we 've got millions of young people saying this is the job i love \u0080\u00a6 and i do n't have to worry about healthcare because all of us in america have healthcare .", 
+                "\u0080\u00a6 .", 
+                "and by the way , moving to a medicare for all program will end the disgrace of americans paying , by far , the highest prices in the world for prescription drugs ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e2525e4b06e1ab44e1896", 
+            "title": "", 
+            "text": [
+                "sanders now makes his pitch for what democratic socialism would do for middle class americans his stump speech rally against welfare for corporations and healthcare for all .", 
+                "in my view , it 's time we had democratic socialism for working families , not just wall street , billionaires and large corporations .", 
+                "it means that we should not be providing welfare for corporations , huge tax breaks for the very rich , or trade policies which boost corporate profits as workers losing their jobs .", 
+                "it means that we create a government that works for works for all of us , not just powerful special interests .", 
+                "it means that economic rights must be an essential part of what america stands for .", 
+                "it means that health care should be a right of all people , not a privilege .", 
+                "now i know that there are some people out there who think this is just a completely radical idea , imagine , all of us having healthcare as a right .", 
+                "but i hope all of you know this is not a radical idea , it is a conservative idea .", 
+                "it is an idea exists in every other major country on earth .", 
+                "not just denmark , sweden or scandanavia or noraway .", 
+                "it exists in canada , i live 50 miles away from canada .", 
+                "it exists in france , germany and taiwan \u0080\u00a6 i believe it is time for the united states to join the rest of the world .", 
+                "medicare for all would not only guarantee health care for all people , not only save middle class families and our entire nation significant sums of money , \u0080\u00a6 [ but it would ] would radically improve the lives of all americans and bring about significant improvements in our economy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e20a8e4b06e1ab44e188f", 
+            "title": "", 
+            "text": [
+                "he now flips the language of socialism and capitalism on its head , accusing wall street of rigging the system to redistribute power in its favor and secure its longevity .", 
+                "it is a system , for example , which during the 1990s allowed wall street to spend $ 5bn in lobbying and campaign contributions to get deregulated .", 
+                "they wanted the government off of their backs , they wanted to do whatever they wanted to do .", 
+                "\u0080\u00a6 then , 10 years later , after the greed , recklessness , and illegal behavior of wall street led to their collapse , it is a system which provided trillions in government aid to bail them out .", 
+                "wall street used their wealth and power to get congress to do their bidding for deregulation and then , when their greed caused their collapse , they used their wealth and power to get congress to bail them out .", 
+                "quite a system !", 
+                "and , then , to add insult to injury , we were told that not only were the banks too big to fail , the bankers were too big to jail .", 
+                "young people who get caught possessing marijuana , they get police records .", 
+                "\u0080\u00a6 on the other hand wall street ceos who help destroy the economy , they do n't get police records , they get raises in their salaries .", 
+                "this is what martin luther king jr meant by socialism for the rich and rugged individualism for everyone else ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1fb6e4b06e1ab44e188c", 
+            "title": "sanders defines democratic socialism", 
+            "text": [
+                "so let me define for you , simply and straightforwardly , what democratic socialism means to me , sanders says .", 
+                "it builds on what franklin delano roosevelt said when he fought for guaranteed economic rights for all americans .", 
+                "and it builds on what martin luther king jr said in 1968 when he stated that ; this country has socialism for the rich , and rugged individualism for the poor .", 
+                "it builds on the success of many other countries around the world that have done a far better job than we have in protecting the needs of their working families , their elderly citizens , their children , the sick and the poor .", 
+                "democratic socialism means that we must reform a [ political system ] that is corrupt , it means we create an economy that works for all , not just the very wealthy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1f0ce4b06e1ab44e188a", 
+            "title": "", 
+            "text": [
+                "sanders nears the heart of what he thinks of as democratic socialism , which is belief in the right to economic security .", 
+                "in that speech , roosevelt described the economic rights that he believed every american was entitled to : the right to a decent job at decent pay , the right to adequate food , clothing , and time off from work , the right for every business , large and small , to function in an atmosphere free from unfair competition and domination by monopolies .", 
+                "the right of all americans to have a decent home and decent health care .", 
+                "what roosevelt was stating in 1944 , what martin luther king jr stated in similar terms 20 years later and what i believe today , is that true freedom does not occur without economic security .", 
+                "people are not truly free when they are unable to feed their family .", 
+                "people are not truly free when they are unable to retire with dignity .", 
+                "people are not truly free when they are unemployed or underpaid or when they are exhausted by working long hours .", 
+                "people are not truly free when they do n't know how they 're goign to get help when they or a family member are sick ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1f02e4b07093b249eb1c", 
+            "title": "", 
+            "text": [
+                "the bottom line is that today in america we not only have massive wealth and income inequality , but a power structure which protects that inequality , sanders continues .", 
+                "a handful of super-wealthy campaign contributors have enormous influence over the political process , while their lobbyists determine much of what goes on in congress .", 
+                "he jumps back to fdr and a state of the union address in which he outlined what he called a second bill of rights .", 
+                "this is in my view one of the most important speeches ever made by a president but , unfortunately , it has not gotten the attention that it deserves .", 
+                "in that remarkable speech this is what roosevelt stated , and i quote : we have come to a clear realization of the fact that true individual freedom can not exist without economic security and independence .", 
+                "necessitous men are not free men .", 
+                "end of quote .", 
+                "in other words , real freedom must include economic security .", 
+                "that was roosevelt 's vision 70 years ago .", 
+                "it is my vision today .", 
+                "it is a vision that we have not yet achieved .", 
+                "and it is time that we did ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1e33e4b06e1ab44e1886", 
+            "title": "", 
+            "text": [
+                "he now points out that healthcare and retirement systems are in shambles : millions of seniors and people with disabilities trying to survive on $ 12,000 or $ 13,000 a year from soial security .", 
+                "from vermont to california , older workers are scared to death .", 
+                "how will i retire with dignity ?", 
+                "he tells students to get out their calculators later and try to do the math for surviving on these numbers .", 
+                "you ca n't do it .", 
+                "today in america , nearly 47 million americans are living in poverty and over 20 % of our children , including 36 % of african american children , are living in poverty the highest rate of childhood poverty of almost any major country on earth .", 
+                "\u0080\u00a6 how , with the proliferation of billionaires , is this possible , he asks .", 
+                "today in america , 29 million americans have no health insurance and even more are underinsured with outrageously high co-payments and deductibles .", 
+                "further , with the united states paying the highest prices in the world for prescription drugs , 1 out of 5 patients can not afford to fill the prescriptions \u0080\u00a6 what insanity is that ?", 
+                "today in america , youth unemployment and underemployment is over 35 % .", 
+                "for african american kids it is over 50 % .", 
+                "meanwhile , we have more people in jail than any other country .", 
+                "china , communist authoritarian country four times our size , we have more people in jail than china .", 
+                "and countless lives are being destroyed as we spend $ 80bn a year locking up our fellow americans ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1dbee4b07093b249eb18", 
+            "title": "", 
+            "text": [
+                "sanders hits the first real crescendo of his speech , railing against the grotesque inequality of life in the united states .", 
+                "today in america , we are the wealthiest nation in the history of the world , but few americans know that because so much of the new income and wealth goes to the people on top .", 
+                "in fact , over the last 30 years , there has been a massive redistribution of wealth .", 
+                "porblem is it has gone in the wrong direction .", 
+                "and the last 30 years we have seen trillions of wealth flow from the middle class to the top one-tenth of 1 % a handful of people top one-tenth of 1 % who have seen a doubling of the percentage of the wealth they own during that period .", 
+                "doubling of the percentage of wealth that they own .", 
+                "unbelievably , and grotesquely , the top one-tenth of 1 % today owns nearly as much wealth as the bottom 90 % .", 
+                "\u0080\u00a6 that is not the kind of america that we should accept .", 
+                "i can tell you that in my state of vermont and all over the country , it is absolutely not uncommon to see people are working two or three jobs to cobble together the healthcare they and their families need .", 
+                "in fact , americans work longer hours than do the people of any industrialized country .", 
+                "but despite the incredibly hard work \u0080\u00a6 husbands hardly see wives , people do n't have the quality time for the kids , because they 're working so hard , and despite all of that \u0080\u00a6 58 % of all new income generated today is going to the top 1 % .", 
+                "today in america , as the middle class continues to disappear , median family income , is $ 4,100 less than it was in 1999 .", 
+                "the median male worker made over $ 700 less than he did 42 years ago , [ adjusting for inflation ] people are so angry because they 're working so hard and all the income goes to the wealthy , he says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1d49e4b062d400968503", 
+            "title": "", 
+            "text": [
+                "if americans are serious about transforming our country and rebuilding the middle class and reinvigorating our democracy , sanders says , the us needs a new movement .", 
+                "we need to develop a political movement which , once again , is prepared to take on and defeat a ruling class whose greed is destroying our nation .", 
+                "now i know things like \u0080\u0098rling class ' are not too often talked about at georgetown , not too often talked about on cbs or nbc , but that is a simple fact .", 
+                "in my view , the billionaire class must be told clearly and simply that they can not have it all .", 
+                "that our government belongs to all of us , and not just a handful of billionaires .", 
+                "in what would be a surprise for any other democratic socialist , sanders invokes the pop , to denounce the worship of money .", 
+                "we need to create a culture which , as pope francis has reminded us , can not just be based on the worship of money .", 
+                "we must not accept a nation in which billionaires compete as to the size of their super-yachts , while children in america go hungry and veterans , men and women who have put their lives on the lines to defend us , sleep out on the streets ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1ce9e4b062d400968501", 
+            "title": "", 
+            "text": [
+                "but americans have to face a very hard truth , he says , the rich get much richer , almost everyone else gets poorer .", 
+                "he jumps back to an anecdote of getting computers in city hall as mayor of burlington , vermont in the 1980s \u0080\u00a6 despite a huge increase in technology and productivity , despite major growth in the us and global economy , tens of millions of american families continue to lack the basic necessities of life , while millions more struggle every day to provide a minimal standard of living for their families .", 
+                "and i hope that none of you will turn your back on that reality .", 
+                "and the truth is\u0080\u00a6 is that for the last 40 years the great middle class of this country has been in decline and faith in our political system is now extremely low .", 
+                "\u0080\u00a6 the very rich get much richer , almost everyone else gets poorer .", 
+                "super pacs funded by billionaires buy elections .", 
+                "koch brothers alone and a few of their friends will spend more money in this election cycle than either the democratic or republican parties .", 
+                "ordinary people , working people , young people do n't vote .", 
+                "we have an economic and political crisis in this country and the same old , same old establishment politics and economics will not effectively address it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1ca8e4b07093b249eb16", 
+            "title": "", 
+            "text": [
+                "sanders jumps to the 1960s , and invokes lyndon johnson 's healthcare reforms : medicare and medicaid for senior citizens , people with disabilities , families with children .", 
+                "once again these vitally important programs were derided by right wing forces as socialist programs that were a threat to our american way of life .", 
+                "that was then , now is now .", 
+                "today , in 2015 , despite the wall street crash of 2008 , which drove this country into the worst economic downturn since the depression , the american people are clearly better off economically than they were in 1937 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1c69e4b06e1ab44e1883", 
+            "title": "", 
+            "text": [
+                "and by the way , almost everything fdr proposed was called socialist , sanders says .", 
+                "i thought i would mention that just in passing .", 
+                "social security , which transformed life for the elderly in this country was defined by his opponents as \u0080\u0098socialist . '", 
+                "the concept of the \u0080\u0098minimum wage ' was seen as a radical intrusion into the marketplace and was described as \u0080\u0098socialist . '", 
+                "unemployment insurance , abolishing child labor , when children were working in factories or working in the fields , the 40-hour work week , collective bargaining \u0080\u00a6 strong banking regulations , deposit insurance , and job programs that put millions of people to work were all described , in one way or another , as \u0080\u0098socialist . '", 
+                "yet , these programs have become the fabric of our nation and in fact the foundation of the middle class .", 
+                "he does air quotes with his fingers when saying socialist ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1b03e4b062d4009684ff", 
+            "title": "", 
+            "text": [
+                "roosevelt acted , sanders goes on , against the ferocious opposition of the ruling class of his day , people he called economic royalists .", 
+                "roosevelt implemented a series of programs that put millions of americans back to work , took them out of poverty and restored their faith in government .", 
+                "he redefined the relationship of the federal government to the people of our country .", 
+                "he combatted cynicism , fear and despair .", 
+                "he reinvigorated democracy .", 
+                "he transformed the country .", 
+                "and that is exactly what we have to do today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e1af5e4b07093b249eb0f", 
+            "title": "", 
+            "text": [
+                "sanders takes the stage to absolutely raucous applause .", 
+                "our country faces some enormous problems , he says , saying that these problems wo n't be solved if people succumb to apathy .", 
+                "he begins his remarks to the georgetown students by the spirit of franklin delano roosevelt and his remarks in the depths of the great depression .", 
+                "he saw tens of millions of its citizens denied the basic necessities of life .", 
+                "he saw millions of families trying to live on incomes so meager that the pall of family disaster hung over them every single day .", 
+                "he saw millions of his fellow americans denied education , recreation , and the opportunity to better their lot and the lot of their children .", 
+                "he saw millions lacking the means to buy the products they needed and by their poverty , by their lack of disposable income denying employment \u0080\u00a6 he saw one-third of a nation ill-housed , ill-clad , ill-nourished .", 
+                "bernie sanders .", 
+                "ischay/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                19, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-564e1893e4b06e1ab44e1877", 
+            "title": "", 
+            "text": [
+                "dan roberts , the guardian 's dc bureau chief , is at georgetown university for senator bernie sanders ' long awaited speech on democratic socialism , his avowed system of belief .", 
+                "as in new york , where hipsters \u0080\u0098heart ' bernie , in the words of my colleague adam gabbatt , young people have embraced sanders ' message in washington .", 
+                "his speech is scheduled for 2pm et ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                18, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e137fe4b062d4009684e9", 
+            "title": "", 
+            "text": [
+                "elsewhere in the republican primary , the candidates have all filed paperwork for the new hampshire primary .", 
+                "ty trump put himself ( or at least his slogan ) center stage .", 
+                "jeb bush ( @ jebbush ) i 'm in .", 
+                "god bless america .", 
+                "bush on the other hand went to dunkin donuts .", 
+                "jeb bush ( @ jebbush ) dunkin drive thru # 2 .", 
+                "caught up with victoria and jacqueline about school .", 
+                "and senator rand paul made a curious plea from george washington university .", 
+                "dr. rand paul ( @ randpaul ) i 'm not just a part of the leave me alone coalition .", 
+                "i 'm a part of the leave me the hell alone coalition !", 
+                "paul is speaking at the school about surveillance and privacy , issues where he diverges from most of his competitors .", 
+                "he told the audience that more surveillance does not mean greater security , as spy chief so often insist .", 
+                "the washington post 's dave weigel is listening in , tweeting that paul uses french surveillance as an example .", 
+                "french programs are 1,000 times more invasive than ours and it did n't predict the attack in paris , paul says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                18, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e0dfae4b0b42aad590f5b", 
+            "title": "", 
+            "text": [
+                "congressional republicans are expected to vote on thursday to suspend the program bringing syrian refugees to the us , and several governors have said they would reject all refugees orphaned toddlers included for fear of a terror attack .", 
+                "barack obama has pledged to veto the bill and condemned rhetoric as un-american , but experts worry about backlash my colleagues lauren gambino , patrick kingsley and alberto nardelli try to parse the fact , fears and fiction .", 
+                "could dangerous refugees come to the us ?", 
+                "such a fear is misguided because the process of relocating refugees to america is very different from the way that refugees currently arrive in europe .", 
+                "syrians flown to the us will be the most heavily vetted group of people currently allowed into the us , according to the state department .", 
+                "each candidate is vetted first by the un 's refugee agency , and then separately by officials from the state department , the fbi , the department of homeland security and the defense department .", 
+                "the process takes between 18 months and two years .", 
+                "by contrast , a refugee hoping to reach europe can pay a smuggler approximately $ 1,000 ( \u00e2\u00a3 660 ) to take them in a dinghy across the six-mile-wide strait between turkey and the greek islands .", 
+                "are syrian refugees likely to be isis sympathizers ?", 
+                "syrian refugees are generally afraid of exactly the same thing that americans are : islamist terrorism .", 
+                "many are fleeing areas held by the islamic state , and they are doing so in contravention of isis edicts .", 
+                "on a dozen occasions , isis has condemned refugees for fleeing isis areas .", 
+                "for those who want to blame the attacks on paris on refugees , you might want to get your facts straight , wrote aaron zelin , an analyst of jihadis , in a blogpost .", 
+                "the reality is , [ isis ] loathes that individuals are fleeing syria for europe .", 
+                "it undermines [ isis 's ] message that its self-styled caliphate is a refuge .", 
+                "syrian and iraqi refugees are the victims of terrorism , fleeing the same type of atrocities that we 've recently witnessed , said shelly pitterman , of the united nations office of the high commissioner for refugees ( unhcr ) on wednesday .", 
+                "they 've rejected the ideology of extremism and share the values of freedom and tolerance .", 
+                "you can read more about how many refugees each country has accepted and plans to accept , and whether governors even can block refugees , through the link below .", 
+                "syrian refugees in america : separating fact from fiction in the debate read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                18, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564ddf81e4b0b42aad590ef5", 
+            "title": "", 
+            "text": [
+                "republican candidate ben carson is in mobile , alabama , responding to questions about his foreign policy expertise or lack thereof .", 
+                "in the last few days two of his advisers have said he struggles with the people and places of the world .", 
+                "carson responds now by saying that those men are n't really advisers after all .", 
+                "one , former cia operative duane clarridge , told the new york times that carson can not manage one iota of intelligent information about the middle east .", 
+                "carson now says clarridge is not an adviser but a consultant , cnn 's athena jones tweets .", 
+                "armstrong williams described variously as a top adviser , friend and business manager to carson was also involved in the story , and frequently appears on television to boost the retired doctor .", 
+                "carson has just disavowed williams too , telling reporters he is he has nothing to do with the campaign .", 
+                "the washington post 's philip rucker observes something amiss .", 
+                "philip rucker ( @ philiprucker ) but , carson said armstrong williams edited his wapo op-ed .", 
+                "carson then said that he takes foreign policy advice from retired army officer robert dees , nixon secretary of state henry kissinger and reagan adviser bud mcfarlane .", 
+                "the retired neurosurgeon did answer some questions about policy , saying isis is more of a threat to the us than al-qaida was in 2001 .", 
+                "he said that although he agrees islam itself is not necessarily [ the ] adversary in the fight against terrorism , he wants stricter screening measures for syrian refugees .", 
+                "he then used a rabid dog metaphor for illustration .", 
+                "athena jones ( @ athenacnn ) carson compared need to screen refugees w protecting a child from rabid dogs .", 
+                "must determine `` who are the mad dogs '' carson 's campaign also ran into criticism this week for publishing a graphic of the country with new england distended well beyond the actual boundaries of the united states .", 
+                "carson campaign/google you can read more about carson 's foreign policy ideas and his squad of eccentric helpers , including an ambassador for the lord jesus christ , in reporting by my colleague tom mccarthy .", 
+                "ben carson has a foreign policy 'learning curve ' , adviser says read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                17, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564e0557e4b0df061ac42d7c", 
+            "title": "", 
+            "text": [
+                "a check-in with the university of florida ' election analyst michael mcdonald on that other primary race and its multiform competitors .", 
+                "michael mcdonald ( @ electproject ) who 's up in the republican horse race ?", 
+                "trump rubio cruz who 's down ?", 
+                "everyone else , including carson"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                17, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564dfaffe4b0159760c5cfcc", 
+            "title": "clinton 's 'smart power ' summarized", 
+            "text": [
+                "hillary clinton outlined a sweeping strategy for the us in the middle east and combating extremism around the world at the council of foreign relations , its key points bulleted below .", 
+                "clinton said she would intensify the air and ground campaign against islamic state extremists ( isis ) in iraq and syria , but ruled out ground troops beyond special forces .", 
+                "she said those teams needed greater flexibility however , and could embed with kurdish and iraqi forces .", 
+                "the former secretary of state said she would directly arm kurds and sunni tribes if baghdad refused to do so , saying the war required a second sunni awakening after the alliance of tribes that took on al-qaida in iraq in the mid-2000s .", 
+                "clinton sharply rebuked longstanding us allies , including turkey and saudi arabia , for letting old enmities get in the way of cooperation and by extension letting syria collapse into chaos .", 
+                "she said she would press the turks to stop bombing kurds in syria and regain control of their border , and that she would push the gulf states to refocus on syria by appealing to their concerns of iranian influence .", 
+                "northern syrian needs a no-fly zone , enforced by the coalition and with russian cooperation , according to clinton , and europe and its middle east allies need an intelligence surge to direct air strikes and ground operations .", 
+                "european allies need to better coordinate with each other and the us over information , clinton said , in particular over surveilling western-born fighters .", 
+                "similarly , she said silicon valley companies should not view the us government as the enemy and should design encryption tools that the state can access a nod to the demands of security chiefs .", 
+                "she said such tools should respect privacy but did not say how .", 
+                "clinton also excoriated republican demands that the us screen syrian refugees by religion , or reject them entirely .", 
+                "such rhetoric alienates us allies she said , and plays into [ terrorists ' ] hands .", 
+                "we are in a conflict of ideas against an ideology of hate , she said , but let me clear , islam is not our adversary , the former adviser to barack obama also distanced herself from the president , saying she would have armed syrian rebels at the start of the civil war , to bring down bashar al-assad .", 
+                "she also subtly criticized his comment in recent weeks that isis was contained within syria and iraq , saying containment could not work alone ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                17, 
+                1
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564dfb3fe4b023c6482b8ca6", 
+            "title": "", 
+            "text": [
+                "zakaria closes out the q & a session to a smattering of applause and the audience of foreign policy experts and reporters rise to take cellphone photos of clinton .", 
+                "we 'll have a summary up of her speech and remarks shortly ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df967e4b03a791b2a7c7d", 
+            "title": "", 
+            "text": [
+                "we have a lot of work to do to decimate isis in iraq and syria , clinton says , but she stresses that that does not mean a large number of us forces , which would only complicate a campaign against isis .", 
+                "instead the us needs to actively do more for the kurds , press coalition allies to refous on syria , and encourage a second sunni awakening \u0080\u00a6 and that requires a lot of political pressure put on baghdad .", 
+                "right now we need to keep the pressure on the people on the ground and get them to change their priorities and work together .", 
+                "she says she advocates a no-fly zone over northern syrian near the border , and would hope to cobble some agreement together with russia to protect it .", 
+                "cutting off the supply lines , trying to supply some refuges for refugees \u0080\u00a6creating a safe space away from the barrel bombs and other bombardments \u0080\u00a6 and i would certainly hope to work with the russians to do that \u0080\u00a6 the russians as you know have been primarily focused on assad 's enemies and not on isis , and i think that has changed , i think there 's an indication that has changed .", 
+                "she says that assad needs to understand that what happens to him will be part of a political solution .", 
+                "but clinton does not broach some of the logistical problems of such a swath of territory that could be a safe zone , for instance the issue of policing who comes in and out of the territory and the danger of it being exploited by a haven for terrorist groups ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df88ce4b03a791b2a7c77", 
+            "title": "", 
+            "text": [
+                "clinton does n't shy from saying that she wanted to arm rebels who were fighting assad back in 2011 , and that she understand it 's much more difficult to draw lines and track where arms go when trying to train and equip rebels at this later , more chaotic stage of the civil war .", 
+                "i 've said many times i ca n't predict what would 've happened if we 'd have moved earlier , if it would 've worked , if it might not 've worked .", 
+                "there is not going to be a successful military [ point ] to overturn assad , she says .", 
+                "it has to be done politically .", 
+                "we had an opportunity , perhaps , but right no we\u0080\u0098ve got the russians in protecting assad , the iranians , perhaps hezbollah , we 've got to get the common [ fight ] against isis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df763e4b05cd757dd9054", 
+            "title": "", 
+            "text": [
+                "someone in the audience asks about the trans pacific partnership , a sweeping trade agreement that has found strong opposition among democrats .", 
+                "the final language of the treaty itself did n't meet the standards clinton sets for evaluating agreements , she says .", 
+                "does it help to create good paying jobs in america , does it raise incomes , does it [ improve ] national security ?", 
+                "she frames this re-evaluation as justification for her flip-flop on the treaty , which she had previously supported ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df6efe4b0b42aad590f34", 
+            "title": "", 
+            "text": [
+                "zakaria asks about republican suggestions of letting christian refugees into the us but treating muslims differently .", 
+                "clinton rejects it .", 
+                "i do n't think we should have a religious test for bringing refugees into our country .", 
+                "so far we know that trying to vet and understand the connections that a person or a family might have with somebody in the united states , looking to see what organization , often a faith based organization might sponsor them , is a proven model , she says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df613e4b05cd757dd9052", 
+            "title": "", 
+            "text": [
+                "the moderator notes that saudi arabia and the uae have dropped of coalition bombing raids and shifted their attention to yemen , where a civil war has spiraled into an international conflict and , arguably , a proxy war with iran .", 
+                "clinton again puts faith in diplomacy .", 
+                "noting the contradictory interests of nations in the region , she says that the us needs to treat both yemen and syria as larger challenges involving iran .", 
+                "what you 're facing in yemen could be a limited preview of what we could face going forward , unless we make a concerted effort to stop the fighting and get all the various groups [ to make an effort toward peace talks and have a voice ] .", 
+                "each problem needs consideration on their own as well as bigger trends , she says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-564df5a6e4b023c6482b8c9a", 
+            "title": "clinton supports no-fly zone with russia", 
+            "text": [
+                "zakaria points out that past and present pentagon leaders have said a no-fly zone is not a good idea at this stage .", 
+                "clinton politely disagrees : i believe that the no-fly zone is merited and can be implemented , again as a coalition and not as an america only situation .", 
+                "how she would convince coalition forces to enforce the no-fly zone and how she would convince russia and iran to stop flying in support of bashar al-assad goes unsaid ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                17
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df4dbe4b0159760c5cfbd", 
+            "title": "", 
+            "text": [
+                "asked about whether obama underestimated isis by calling them the junior varsity of terrorists , clinton says isis has had an evolution and increased its capabilities .", 
+                "she concurs that her foreign policy thinking has tacked with obama 's over the years : we largely agreed on what needed to be done to repair our alliances , to get our country in a position to deal with the wars that had been inherited .", 
+                "but she says she disagreed with him about faster intervention in syria around the start of the civil war , and that she wanted to arm opposition forces .", 
+                "there were some [ moderates back ] then ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df46de4b05cd757dd904e", 
+            "title": "", 
+            "text": [
+                "zakaria asks clinton how her strategy for the campaign in syria differs from barack obama 's .", 
+                "she says her plain entails intensification and acceleration of the [ air strike ] strategy , but it also has to intensify [ in ] the other parts of the strategy .", 
+                "that means arming sunni tribes and kurds even if baghdad does n't want to , she says , as well as convincing allies to bomb isis more and to target finances and travel routes .", 
+                "lauren gambino ( @ lgamgam ) is her plan a departure from obama 's ?", 
+                "`` it is in many ways an intensification and acceleration of the strategy . ''", 
+                "@ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-564df411e4b0b42aad590f2b", 
+            "title": "", 
+            "text": [
+                "finally she tells an anecdote about granting citizenship and the values that represents versus the wholesale rejection of those values by extremists .", 
+                "the speech ends , and she sits down with moderator fareed zakaria ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df3b3e4b0159760c5cfb6", 
+            "title": "", 
+            "text": [
+                "clinton lays down something like asmart power doctrine , to use her words .", 
+                "we have to use every pillar of american power , military and diplomacy , development and economic and cultural influence , technology and maybe most importantly , our values .", 
+                "that is smart power .", 
+                "we have to work with partners , like the eu , the arab league and the un .", 
+                "she says the us should have faith in old-fashioned shoe leather diplomacy and never be afraid to act alone , using the example of the raid on bin laden ( and not the invasion of iraq ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df34ce4b03a791b2a7c67", 
+            "title": "", 
+            "text": [
+                "since paris , no homeland security challenge is being more hotly debating than how to address syrian refugees seeking asylum in the united states , clinton goes on , excoriating republican comments on blocking or tracking refugees .", 
+                "she notes the grueling refugee vetting process , and takes up president obama 's comments that rejecting refugees contradicts american principles .", 
+                "discriminating against muslims , slamming the door on every syrian refugee , that 's just not who we are .", 
+                "many of these refugees are fleeing the same terrorists that the us is fighting , she says .", 
+                "we should be doing more to [ ameliorating ] this crisis , not less ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df2bbe4b023c6482b8c94", 
+            "title": "", 
+            "text": [
+                "clinton broaches the question of security vs privacy , but merely lays out two sides of the argument : law enforcement does n't like encryption , lots of other people do .", 
+                "we need silicon valley not to view government as its adversary \u0080\u00a6 to develop solutions that will both keep us safe and protect our privacy .", 
+                "now is the time to solve this problem , not after the next attack .", 
+                "lauren gambino ( @ lgamgam ) we need silicon valley not to view the government as their adversary - @ twitterid she does n't say how to strike a balance ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df262e4b0df061ac42d52", 
+            "title": "", 
+            "text": [
+                "she moves on to the problem of domestic terrorism and radicalization , and says that european nations are far behind the us in terms of sharing intelligence and counterterror coordination .", 
+                "and here at home we face a number of our own challenges .", 
+                "the threat of airline security is [ changing ] as terrorists develop new devices \u0080\u00a6 law enforcement also needs the trust of residents and communities , including in our own country muslim americans .", 
+                "this should go without saying , but in the current climate this bears repeating .", 
+                "muslim americans are working every day on the front lines against [ terrorism and radicalization ] ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df20de4b0159760c5cfb4", 
+            "title": "", 
+            "text": [
+                "the strategy of targeting terrorist financing , cyberspace , and blocking foreign fighters is necessary to defeating not only isis but defusing and defeating the next threat and the one after that , clinton says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df126e4b0b42aad590f23", 
+            "title": "clinton rejects 'clash of civilizations '", 
+            "text": [
+                "next clinton says the us needs to ramp up its efforts online to counter terrorist groups , saying that online territory should be treated exactly the same geographical territory .", 
+                "the government should do more , she says , and social media companies can do their part by swiftly shutting down terrorist accounts .", 
+                "offline or online , we are in a contest of ideas .", 
+                "but clinton rebukes comments by many republicans that the us is at war with radical islam : muslims are peaceful and tolerant people and have nothing whatsoever to do with terrorism .", 
+                "we are in a conflict of ideas against an ideology of hate but let me clear , islam is not our adversary , added clinton .", 
+                "the obsession in some quarters with a clash of civilizations , or repeating the word islamic terrorism , is n't just a distraction , it plays into their hands by alienating people we need by our sides .", 
+                "the kind of rhetoric used by some conservatives plays exactly into [ terrorists ' ] hands by alienating partners we need at our side , clinton says , even though she acknowledges a distorted extremist strain of islam .", 
+                "in the end it did n't matter what kind of terrorist that we called bin laden , it mattered that we killed bin laden .", 
+                "lauren gambino ( @ lgamgam ) we can not allow terrorists to intimidate us into turning away orphans discriminating against muslims that 's not who we are - hrc"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                16, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df0cbe4b0df061ac42d4d", 
+            "title": "", 
+            "text": [
+                "we have to place more obligations on countries to police their own banks , she says , and the us needs to press its allies to crack down on individual financing .", 
+                "and once and for all the saudis , the qataris and others need to stop their citizens from directly funding extremist organizations , as well as the schools and mosques around the world \u0080\u00a6 where recruitment happens in clusters ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564df04ce4b0df061ac42d4a", 
+            "title": "", 
+            "text": [
+                "clinton moves on to disrupting international terror cells , saying that although there 's been a lot of conversation about isis in the last week , al-qaida remains the most sophisticated network .", 
+                "most urgent is stopping the flow of foreign fighters to and from the middle east , she says .", 
+                "their western passports make it easier for them to cross borders and eventually to return home radicalized and battle-hardened .", 
+                "she says information sharing is a high priority , as is getting turkey to finally lock down its border .", 
+                "we also have to be smart and target interventions that have the greatest impact , using people smugglers and isis transporters as an example ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564defd9e4b023c6482b8c8a", 
+            "title": "", 
+            "text": [
+                "we can not deal with iran and isis as two separate questions , clinton continues , saying that regional politics amount to us national security interests .", 
+                "raising the cost to iran for bad behavior will contribute to a more effective fight against isis .", 
+                "she says the us needs to redouble its commitment to allies to send the message that the time for delay is over , we should get this done a rebuke to obama 's reluctance to intervene in syria ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564def73e4b0df061ac42d46", 
+            "title": "clinton rebukes turkey over kurds", 
+            "text": [
+                "she says greater cooperation with the turks , including arms and intelligence , is necessary to resolving the syrian civil war and defeating isis .", 
+                "countries like jordan have offered more and frankly we should take them up on it .", 
+                "our efforts will only succeed if the arabs and turks step up .", 
+                "\u0080\u00a6 so far turkey has been more focused on the kurds than countering isis , and to be fair turkey has a long and painful history [ with the kurds ] , we need to get turkey to stop bombing kurdish fighters in syria who are battling isis , and become a full partner in our coalition efforts against isis ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564deed2e4b05cd757dd903b", 
+            "title": "", 
+            "text": [
+                "clinton moves on to syria , saying that although she supports obama 's line that the nation requires a political transition away from assad , it also needs greater military intervention .", 
+                "the viable sunni opposition groups remain understandably preoccupied with fighting assad , who let us remember has killed many more syrians than the terrorists have , she says .", 
+                "we should retool and ramp up our efforts to sppotr and equip viable syrian opposition units .", 
+                "our increased support should go hand in hand with our increased support from our sunni and arab coalition forces .", 
+                "we should also work with the opposition and our allies to enforce no-fly zones .", 
+                "she adds that special forces could be involved in the war , and says that russia and iran have to fess up that supporting assad is making things worse .", 
+                "there is an important role for russia to help , she says , immediately after calling out vladimir putin by name .", 
+                "there is no alternative to a political transition that allows syrians to [ continue under ] assad 's rule ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564dee2fe4b0159760c5cfb2", 
+            "title": "clinton : intensify strikes and ground campaign", 
+            "text": [
+                "clinton says the us can and should support regional forces , even though the iraqi national army has struggled , and its going to take more work to get them up to shape .", 
+                "she says american forces may need greater mobility and flexibility including embedding with iraqi unites .", 
+                "even so , she continues , it will take sunnis to come together to fight back , as they did during the iraqi civil war .", 
+                "lauren gambino ( @ lgamgam ) must be realistic , clinton said .", 
+                "`` air strikes will have to be combined with ground forces '' but those militias were betrayed by former prime minister nouri al-maliki , she says .", 
+                "baghdad needs to accept , even embrace , arming sunni and kurdish forces in the war against isis .", 
+                "but if baghdad wo n't do that , the coalition should do so directly ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564ded9ee4b023c6482b8c81", 
+            "title": "", 
+            "text": [
+                "she says her strategy has three main points .", 
+                "defeat isis in syria , iraq and the middle east destory infrastructure of terrorist infrastructure harden our resolve domestically the first prong of the streagy starts with a more effective coalition campaign , involving more bombing and greater intelligence .", 
+                "arab speakers with deep expertise in the middle east and stronger partnerships .", 
+                "our goal should be to achieve the penetration that the us managed with al-qaida in the past .", 
+                "an air campaign is necessary but insufficient , she continues , but like president obama i do not believe we should again have 100,000 troops in combat in the middle east .", 
+                "that is just not the smart option ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564ded29e4b05cd757dd9037", 
+            "title": "", 
+            "text": [
+                "at the heart of modern terrorism is isis , clinton continues .", 
+                "a physical enclave in iraq and syria , an international terrorist network that includes affiliates across the region and beyond , and an ideological movement of radical jihadism .", 
+                "we have to target and defeat all three .", 
+                "she says our goal is not to contain and deter isis but to defeat and destroy isis , a backhand at remarks last week by barack obama .", 
+                "she says the us must also pursue the long-game , involving a generational struggle against an ideology with deep roots .", 
+                "this is a worldwide fight and america must lead it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564decdbe4b03a791b2a7c58", 
+            "title": "", 
+            "text": [
+                "hillary clinton takes the podium , beginning her speech .", 
+                "i wanted to come here to our city which has shown such resilience in the face of terrorism to talk about the events of the last week , clinton begins .", 
+                "our allies treated that attack against one as an attack against all .", 
+                "now it 's our turn .", 
+                "she says we face the same adversaries , and must show the same determination .", 
+                "every society faces a choice between fear and resolve .", 
+                "the world 's great democracies ca n't turn our backs on those in need ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564debc5e4b05cd757dd9031", 
+            "title": "", 
+            "text": [
+                "hillary clinton is due any minute on stage in new york , where cnn 's jeff zeleny and my colleague lauren gambino ( @ lgamgam ) are in the room waiting .", 
+                "jeff zeleny ( @ jeffzeleny ) the stage is set at council on foreign relations on upper east side for @ twitterid to deliver # isis speech ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564de78fe4b05cd757dd9022", 
+            "title": "", 
+            "text": [
+                "donald trump would not rule out tracking muslim americans in a database or giving them a special form of identification that noted their religion , yahoo news reports in a long interview with the republican presidential candidate .", 
+                "trump senne/ap we 're going to have to do things that were frankly unthinkable a year ago , trump said .", 
+                "some people are going to be upset about it , but i think that now everybody is feeling that security is going to rule .", 
+                "he said he would consider warrantless searches of muslims and increased surveillance of mosques .", 
+                "certain things will be done that we never thought would happen in this country in terms of information and learning about the enemy .", 
+                "we 're going to have to look at a lot of things very closely , trump said .", 
+                "we 're going to have to look at the mosques .", 
+                "we 're going to have to look very , very carefully .", 
+                "earlier this week trump suggested police surveillance of mosques , and praised a controversial program by the nypd to spy on muslims as great .", 
+                "he said he would consider former nypd police commissioner ray kelly , who led that program , for a cabinet position ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                15, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564dcc99e4b0159760c5cf5c", 
+            "title": "", 
+            "text": [
+                "hello and welcome to a busy day in american politics .", 
+                "democratic presidential frontrunner hillary clinton , and her biggest rival , senator bernie sanders , are due to lay out competing plans to defeat islamic state extremists in syria , iraq and elsewhere .", 
+                "sanders has also promised to explain to voters what he means by his self-declared philosophy of democratic socialism .", 
+                "the republican frontrunners are rambling through key states trying to nudge each off the top of the polls .", 
+                "ben carson is in alabama , meeting with voters before an afternoon event , and donald trump is holding a rally and town hall in iowa .", 
+                "among the 12 other candidates , ascendent senators ted cruz and marco rubio have sparred over military spending , and former governor jeb bush is pressing hawkish opinions about war in the middle east .", 
+                "the stump speeches and major policy announcements promise an eclectic day : the bickering of election season along with serious questions reflecting a troubled world .", 
+                "the democrats will announce their foreign policy plans only hours after france confirmed that a ferocious police raid in paris killed abdelhamid abaaoud , the suspected organizer of last week 's horrific terrorist attack in the city .", 
+                "and republicans will argue about extremism and religion as governors around the us resist accepting syrian refugees .", 
+                "barack obama has criticized the governors for their offensive and hysterical reactions to the refugee crisis , and promised to veto a bill that would increase screening on top of the year the us already requires .", 
+                "here 's how the day is due to unfold : at 10.30am et , the council of foreign relations in new york , hillary clinton will speak about terrorism ahead of her foreign policy speech .", 
+                "my colleague lauren gambino ( @ lgamgam ) is in the room and will file dispatches here .", 
+                "at 2pm et , georgetown university in washington , bernie sanders will speak about his own foreign policy ideas and his vision of democratic socialism .", 
+                "washington bureau chief dan roberts ( @ robertsdan ) will on campus .", 
+                "at 4pm et in newtown , iowa , donald trump will hold a town hall to answer voters ' questions and then hold a make america great again rally .", 
+                "at 4pm et at the university of south alabama , ben carson will hold a political rally after a day of visiting mobile schools and meeting with the press .", 
+                "somewhere in there , the republican-controlled house of representatives is expected to approve a measure aimed to block syrian and iraqi refugees from entry to the us without a strict background check .", 
+                "( barack obama has said he will veto it . )", 
+                "my colleagues ben jacobs and david smith will be up on capitol hill with the latest .", 
+                "meanwhile , follow along for all of that plus more from the other candidates on the trail ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                19, 
+                14, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "us-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n8.45pm GMT\n20:45\nSanders' speech at Georgetown ends\n", 
+                "block": "block-564e340be4b07093b249eb41"
+            }, 
+            {
+                "text": "\n\n7.35pm GMT\n19:35\nSanders defines democratic socialism\n", 
+                "block": "block-564e1fb6e4b06e1ab44e188c"
+            }, 
+            {
+                "text": "\n\n3.46pm GMT\n15:46\nClinton: intensify strikes and ground campaign\n", 
+                "block": "block-564dee2fe4b0159760c5cfb2"
+            }, 
+            {
+                "text": "\n\n4.00pm GMT\n16:00\nClinton rejects 'clash of civilizations'\n", 
+                "block": "block-564df126e4b0b42aad590f23"
+            }, 
+            {
+                "text": "\n\n4.17pm GMT\n16:17\nClinton supports no-fly zone with Russia\n", 
+                "block": "block-564df5a6e4b023c6482b8c9a"
+            }, 
+            {
+                "text": "\n\n3.50pm GMT\n15:50\nClinton rebukes Turkey over Kurds\n", 
+                "block": "block-564def73e4b0df061ac42d46"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Clinton lays out \u0080\u0098smart power' strategy for Middle East.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2015/nov/19/bernie-sanders-defends-democratic-socialism"
+                ], 
+                "text": "Bernie Sanders defends vision of \u0080\u0098democratic socialism'", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2015/nov/19/donald-trump-muslim-americans-special-identification-tracking-mosques"
+                ], 
+                "text": "Trump refuses to rule out Muslim-specific ID.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Carson disputes foreign policy weaknesses.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

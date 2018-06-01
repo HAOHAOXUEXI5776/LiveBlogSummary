@@ -1,0 +1,652 @@
+{
+    "blog_id": "a640db5f7e69d430b42459353aa64bbe778a42ad", 
+    "title": "BBC Local Live: Essex on Friday, 19 February 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-essex-35488364", 
+    "summary": [
+        "closing updates on friday , 19 february 2016 .", 
+        "four polish lorry drivers plead guilty to an immigration offence following the discovery of 68 suspected illegal immigrants .", 
+        "six-foot ( 1.8m ) sinkhole closes road to traffic in clacton .", 
+        "conservative mp for colchester , will quince , says he 'll be voting for britain to leave the european union .", 
+        "plans for a large retail and leisure park near colchester have been rejected ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c74a6b490000e06e844094", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "updates for essex live have finished for this week - thanks for joining us .", 
+                "we 'll be back on monday morning from 08:00 with the latest news for the county .", 
+                "have a great weekend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c756dd3e000081762694cd", 
+            "title": "lorry driver admits charge over cyclist death", 
+            "text": [
+                "an essex lorry driver has admitted killing a cyclist who died in an accident at a busy junction in central london .", 
+                "french-born mother-of-two claire hitier-abadie , 36 , collided with the construction vehicle during the morning rush-hour in victoria on february 19 last year .", 
+                "alan warwick , 61 , of rayleigh , essex , pleaded guilty to causing death by careless driving at southwark crown court ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c74a0a3d0000eb730b450d", 
+            "title": "weather : patchy rain clearing overnight", 
+            "text": [
+                "cloudy with patchy rain at times this evening , but this will gradually ease overnight with a few clear intervals developing later .", 
+                "staying breezy , but much milder than last night with temperatures only falling to 5c ( 41f ) .", 
+                "saturday will start dry and perhaps bright , but it will be rather cloudy for much of the day .", 
+                "temperatures reaching as high as 12c ( 54f ) ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c730cc3e0000b47326942c", 
+            "title": "colchester to resettle 50 more syrian families over next four to five years", 
+            "text": [
+                "colchester is to welcome 50 more families of syrian war refugees ."
+            ], 
+            "author": [
+                "Daily Gazette"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c749693e0000b473269499", 
+            "title": "football : braintree sign millwall goalkeeper tom king", 
+            "text": [
+                "national league side braintree town have signed millwall goalkeeper tom king on a 28-day emergency loan .", 
+                "the 20-year-old ex-england under-17 player joined the lions after he left crystal palace in the summer of 2014 .", 
+                "king spent time on loan at braintree 's national league rivals welling earlier this season , making 20 appearances ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c7485f490000de6e844088", 
+            "title": "your rayleigh windmill on a winter 's afternoon", 
+            "text": [
+                "thanks to bbc weather watcher , youcantbecirrus , who sent us this photo of rayleigh windmill earlier today .", 
+                "the 68ft ( 20.7m ) grade ii listed tower mill , built about 1809 , is the highest in essex .", 
+                "if you 'd like to find out more about becoming a bbc weather watcher - click here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c746053e00009e7426948a", 
+            "title": "snooker : ronnie o'sullivan into welsh open semi-finals", 
+            "text": [
+                "chigwell 's ronnie o'sullivan is into the welsh open snooker semi-finals .", 
+                "the essex player beat mark selby 5-1 in cardiff a short while ago .", 
+                "he will play for a place in the final tomorrow against either joe perry or ben woollaston ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c743ad3d000022730b44df", 
+            "title": "headlines : lorry drivers admit immigration offence dumped puppy found locked in cage", 
+            "text": [
+                "here are the latest stories from the essex newsroom :"
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c73f1d4900002f6d844053", 
+            "title": "clacton 's gilbey family back on the gogglebox", 
+            "text": [
+                "linda , pete and george gilbey , from clacton , are returning to channel 4 's gogglebox tonight .", 
+                "the family were removed from the show when george ( centre ) signed up for celebrity big brother in 2014 , breaking their contract .", 
+                "the news comes as we learned that george is going to be a dad .", 
+                "in a recent interview with heat magazine he told them : `` i feel like the cat that got the cream '' ."
+            ], 
+            "author": [
+                "BBC Newsbeat"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c730604900002f6d84401c", 
+            "title": "three teenage boys robbed of bikes by 'armed ' men", 
+            "text": [
+                "three teenagers were robbed of their bikes in colchester after being threatened with what is believed to have been a gun , police say .", 
+                "the boys , two aged 15 and a 16-year-old , were targeted by three men in flagstaff road at about 20:25 on tuesday .", 
+                "the suspects rode off towards abbey fields after the three bicycles were handed over .", 
+                "nobody is believed to have been injured ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c733de490000df6e844029", 
+            "title": "ronnie o'sullivan plays in welsh open snooker quarter-finals", 
+            "text": [
+                "chigwell 's ronnie o'sullivan is currently in action in the welsh open snooker quarter-finals .", 
+                "he is taking on mark selby in the best of nine frames match - you can watch ronnie in action here ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6fd093d00008d700b43bc", 
+            "title": "chelmsford car park cleared of unauthorised traveller encampment", 
+            "text": [
+                "an unauthorised traveller encampment that occupied a car park in chelmsford for nearly a month has been cleared .", 
+                "the wharf road long stay car park had been closed while chelmsford city council seeked a possession order to evict about seven caravans .", 
+                "pc alan conran from essex police tweeted the travellers had moved on following a `` peaceful resolution '' .", 
+                "the local authority says a `` comprehensive clean-up '' is now under way ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c7284a490000316d843fff", 
+            "title": "harwich immigrants : home office 'pleased ' with polish lorry drivers ' admission", 
+            "text": [
+                "the home office says it 's `` pleased '' four polish lorry drivers have admitted immigration offences following the discovery of 68 suspected illegal immigrants at harwich port last year .", 
+                "dariusz mokrogulski , 45 , dariusz drozdz , 40 , grzegoez czechowski , 39 , and radoslaw cwikla , 39 , pleaded guilty to conspiring to facilitate illegal entry of non-eu citizens into the uk during a hearing at chelmsford crown court .", 
+                "people smuggling is a vile trade and as this investigation demonstrates we are determined to bring those responsible to justice '' , a home office spokeswoman said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c70e5d490000266b843f8f", 
+            "title": "basildon one stop shop robbed in armed raid", 
+            "text": [
+                "armed robbers have raided a basildon shop and stole cash after threatening staff with a hand gun , police say .", 
+                "the one stop store in marsh view court was targeted by two men at about 22:50 last night .", 
+                "the shop worker was not injured but has been left shaken after the incident .", 
+                "the suspects are both described as about 5ft 9in ( 1.75m ) tall and wearing dark clothing , scarves and white gardening gloves ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c720d24900002f6d843fe3", 
+            "title": "clacton street remains closed after sinkhole appears", 
+            "text": [
+                "wellesley road in clacton-on-sea remains closed this afternoon after 6ft ( 1.8m ) deep sinkhole appeared earlier .", 
+                "essex county council says maintenance crews are working to fix the problem .", 
+                "you can stay up-to-date with the latest travel for essex here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c705f43e0000fd7026938c", 
+            "title": "lorry drivers plead guilty over 68 immigrants found at harwich port", 
+            "text": [
+                "four lorry drivers have pleaded guilty to an immigration offence after 68 suspected illegal immigrants were found inside lorries at harwich port last year .", 
+                "the polish men each admitted one offence of conspiring to facilitate illegal entry of non-eu citizens into the uk at chelmsford crown court today .", 
+                "dariusz mokrogulski , 45 , dariusz drozdz , 40 , grzegoez czechowski , 39 , and radoslaw cwikla , 39 , have been bailed and are due to be sentenced next month ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c70bb03e0000f6712693ae", 
+            "title": "football : southend united look to resign stephen hendrie on loan", 
+            "text": [
+                "southend united manager phil brown says he 's in talks to bring defender stephen hendrie back to the club on loan .", 
+                "the west ham united player has been with the blues for the last month , but his loan deal expired on tuesday .", 
+                "`` i 'm in talks to extend the loan , whether that 's a possibility to start again on monday we 'll have to wait and see '' , brown said ."
+            ], 
+            "author": [
+                "Victoria Polley", 
+                "BBC Essex Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c707e23e0000fd70269398", 
+            "title": "weather : cloudy with patchy rain this afternoon", 
+            "text": [
+                "there may be some sunny spells to begin with this afternoon though skies will cloud over with patchy light rain arriving later .", 
+                "the winds will also strengthen through the day , making it feel that bit cooler by the late afternoon .", 
+                "maximum temperature : 9c ( 48f ) .", 
+                "thanks to bbc weather watcher , steve b , who took this great photo in tilbury earlier today .", 
+                "his `` nowcast '' reported sunshine with temperatures at about 1c ( 33.8f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c70a293e0000fd702693a5", 
+            "title": "lunchtime headlines : lorry drivers plead guilty to immigration offence sinkhole closes clacton road", 
+            "text": [
+                "here are your top stories for essex this lunchtime :"
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6f4dd490000e968843f1c", 
+            "title": "puppy covered in excrement found dumped in cage", 
+            "text": [
+                "a 12-week-old puppy has been dumped in the garden of a stranger in boreham , the rspca says .", 
+                "the husky-german shepherd cross , who has since been named willow , was found covered in excrement inside a cage measuring 2ft ( 0.6m ) by 3ft ( 0.9m ) on wednesday .", 
+                "the rspca said : `` she is a lovely girl and just wants cuddles all the time .", 
+                "we hope someone might come forward who recognises her or who knows why she was left in this garden . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6dc933e0000ea6d2692d8", 
+            "title": "fire destroys 5,000 tonnes of hay in great baddow", 
+            "text": [
+                "this was the scene in great baddow last night as firefighters tackled a blaze involving 5,000 tonnes of hay .", 
+                "essex fire and rescue was called to the fire in a field on generals lane at about 00:45 this morning .", 
+                "it was highly visible to drivers on the nearby a12 .", 
+                "crews remained at the scene throughout the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6df933e0000056f2692e5", 
+            "title": "man found with head injuries in southend street", 
+            "text": [
+                "a man has been found with serious head injuries in a street in southend .", 
+                "essex police says the victim , who is believed to be in his 40s , was discovered in tylers avenue in the early hours of this morning .", 
+                "he is now being treated in hospital in london where his condition is described as `` serious '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6f8333e0000036f26934d", 
+            "title": "clacton street sinkhole estimated at about 6ft ( 1.8m ) deep", 
+            "text": [
+                "this is the sinkhole that has closed wellesley road in clacton .", 
+                "we understand the hole has opened up because the material under the road has been washed away due to a leaking sewer .", 
+                "an essex county council engineer who inspected the site estimated the hole to be about 6ft ( 1.8m ) deep ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6da89490000ef67843eaf", 
+            "title": "will quince 's vote to leave eu announcement 'quite surprising '", 
+            "text": [
+                "i was quite surprised when colchester mp will quince announced on bbc essex this morning that he would vote for britain to leave the european union .", 
+                "the conservative has been quite considered when looking at the eu , and in some ways he has bolted out of the stable before david cameron is even on back on the eurostar .", 
+                "he joins the likes of bernard jenkin and james cleverly who are essex conservative mps also backing for britain to leave the eu ."
+            ], 
+            "author": [
+                "Simon Dedman", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6d7ed4900000367843ea0", 
+            "title": "essex takes a trip to cameron close to gauge eu support", 
+            "text": [
+                "i 've been speaking to neighbours in cameron close , leigh-on-sea , in an unscientific attempt by bbc essex to gauge support for david cameron 's eu negotiations .", 
+                "graham ( britain should stay in europe and was the first person in the close to express support for britain 's eu membership , while clive believes brexit is best .", 
+                "two households have come out strongly against - several others are undecided as they follow the talks in brussels ."
+            ], 
+            "author": [
+                "Richard Smith", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6ef4e3d00006a6e0b437f", 
+            "title": "clacton sinkhole closes busy road", 
+            "text": [
+                "we 're currently trying to establish more information about a sinkhole that has closed wellesley road in clacton .", 
+                "the opening is said to be 6ft ( 1.8m ) deep and about 15ft ( 4.5m ) long , closing the road between alexandra road and pier avenue in both directions .", 
+                "our reporter is currently travelling to the scene ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c6d87b3d00007a6c0b4335", 
+            "title": "deal for extra c2c carriages falls through", 
+            "text": [
+                "rail operator c2c has failed in initial discussions to lease extra carriages and ease overcrowding ."
+            ], 
+            "author": [
+                "Southend Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6e6a53d00006b6e0b4364", 
+            "title": "travel : sinkhole closes clacton street", 
+            "text": [
+                "a sinkhole has closed wellesley road in clacton .", 
+                "we 're trying to find out some more information and will bring you more as we get it", 
+                "are you at the sinkole site ?", 
+                "email or tweet us your if it 's safe to do so .", 
+                "clacton , wellesley rd closed from alexandra rd to pier ave in both directions due to a large sink hole appearing measuring 2 x 6 x15ft"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6d1e03e00001a6d2692a7", 
+            "title": "douglas carswell calls colchester mp a 'hero ' for brexit announcement", 
+            "text": [
+                "the ukip mp for clacton , douglas carswell , has called colchester mp will quince a `` hero '' after the conservative told bbc essex he would vote for britain to leave the eu .", 
+                "breaking news with @ twitterid this morning as colchester mp @ twitterid says he will vote to leave the eu .", 
+                "@ twitterid @ twitterid @ twitterid will quince is a very great man !", 
+                "hero", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid we british want british not brussels rule , # vote leave"
+            ], 
+            "author": [
+                "Simon Dedman", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6d03a3e0000e96d26929d", 
+            "title": "kevin keen remains confident despite colchester 's league predicament", 
+            "text": [
+                "colchester united manager kevin keen has told me he is confident the team can turn their troubled season around .", 
+                "the u 's are currently bottom of their division , without a league one victory since october last year .", 
+                "they travel to bury tomorrow ."
+            ], 
+            "author": [
+                "Victoria Polley", 
+                "BBC Essex Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6c947490000fc66843e5c", 
+            "title": "weather : bright and dry initially , cloud and rain arriving late afternoon", 
+            "text": [
+                "after a frosty and perhaps foggy start , it will be dry this morning with plenty of sunshine around .", 
+                "through the afternoon , the skies will cloud over , with patchy light rain arriving later .", 
+                "maximum temperature : 9c ( 48f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6cc3b3e0000206d26928b", 
+            "title": "colchester mp , will quince , will vote for britain to leave the eu", 
+            "text": [
+                "the mp for colchester , will quince , has exclusively told bbc essex he 'll be voting for britain to leave the european union .", 
+                "the conservative has previously been undecided on the issue but says he has made his mind up in the last 24 hours .", 
+                "`` i was optimistic these renegotiations could reset our relations with the eu and make it suitable for the 21st century , but i do n't think that can be and has been achieved '' , mr quince said ."
+            ], 
+            "author": [
+                "Rob Jelly", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56c6ca6a3e0000206d26927b", 
+            "title": "headlines : colchester mp will vote to leave eu plans for tollgate village rejected", 
+            "text": [
+                "here are the top stories for essex this morning :"
+            ], 
+            "author": [
+                "Sonia Watson", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56c6c8273d00007a6c0b42e7", 
+            "title": "welcome to friday 's essex live page", 
+            "text": [
+                "hello !", 
+                "welcome to friday 's live page for essex .", 
+                "until 18:00 we 'll be bringing you all the latest news for the county .", 
+                "if you 'd like to say hello you can email us , send us a tweet or visit our facebook page ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }
+    ], 
+    "genre": "uk-england-essex", 
+    "quality": "high"
+}

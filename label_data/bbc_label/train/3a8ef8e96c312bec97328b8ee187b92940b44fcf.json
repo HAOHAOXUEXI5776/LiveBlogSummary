@@ -1,0 +1,1095 @@
+{
+    "blog_id": "3a8ef8e96c312bec97328b8ee187b92940b44fcf", 
+    "title": "BBC Local Live: Beds, Herts & Bucks - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-beds-bucks-herts-33506088", 
+    "summary": [
+        "closing headlines on monday 20 july 2015 .", 
+        "police searching for missing michelle higgins from hemel hempstead renew their appeal , nationwide , in an attempt to find her .", 
+        "a satellite designed to measure pollution in the atmosphere is revealed in stevenage ahead of its launch next year .", 
+        "the family of a hertfordshire man convicted of shaking his baby son and causing a seizure protest his innocence .", 
+        "more news , sport , weather and travel updates from 08:00 on tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33602909", 
+            "title": "goodnight", 
+            "text": [
+                "that 's all from the local live team for beds , herts and bucks today .", 
+                "we 'll be back with you from 08:00 on tuesday 21 july .", 
+                "a reminder of our top stories today :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33601821", 
+            "title": "peregrine fact file", 
+            "text": [
+                "the first peregrine chick ever known to have hatched at a breeding site in milton keynes has flown the nest here 's a few facts about the `` assassin '' of the bird kingdom , as wildlife presenter chris packham describes them ."
+            ], 
+            "author": [
+                "Martin Kincaid from The Parks Trust"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33602906", 
+            "title": "showers overnight but mainly dry on tuesday", 
+            "text": [
+                "rather cloudy this evening with scattered showers spreading east , perhaps heavy in places .", 
+                "showers clearing after midnight , with some good clear spells by tuesday morning .", 
+                "minimum temperature : 12c ( 54f ) .", 
+                "tomorrow : although the odd light shower ca n't be ruled out , tuesday should be a mainly dry but breezy day with some bright or sunny spells , although increasingly cloudy by afternoon .", 
+                "maximum temperature : 23c ( 73f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33601543", 
+            "title": "stevenage satellite still to go through more tests", 
+            "text": [
+                "the sentinel 5p satellite , designed to monitor atmospheric pollution from space , will be able to tell us who the big polluters are when it 's launched in 2016 .", 
+                "`` we now go off to toulouse for four months and we continue testing the spacecraft to make sure it will survive launch and survive in space '' , andy pilbeam", 
+                "the satellite built in stevenage , revealed at"
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33602907", 
+            "title": "david cameron cites bedfordshire schoolgirls in talk", 
+            "text": [
+                "david cameron has set out government plans to defeat what he 's calling the `` poison '' of islamist extremism in britain .", 
+                "he 's promising a crackdown on what he 's calling `` non violent '' fundamentalists who brainwash youngsters into travelling abroad to join militant groups like the so called", 
+                "the prime minister cited the case of two girls from bedfordshire at risk of being taken to africa to undergo female genital mutilation ."
+            ], 
+            "author": [
+                "Jane Killick", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33602901", 
+            "title": "pet cat dies after being shot in milton keynes", 
+            "text": [
+                "a two-year-old pet cat has died after being shot with a pellet gun in milton keynes .", 
+                "diva is thought to have been injured near downhead park between 10:45 and 19:30 on 9 july .", 
+                "she was found on her owner 's driveway acting unusually and moving very slowly .", 
+                "vets x-rayed diva and discovered an air pellet lodged in her abdomen .", 
+                "she died the next day .", 
+                "`` any deliberate act of animal cruelty found to have taken place will be dealt with in the appropriate manner , '' police say ."
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33602903", 
+            "title": "the news this evening", 
+            "text": [
+                "here are the top stories we 're looking at :"
+            ], 
+            "author": [
+                "Jane Killick", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33598558", 
+            "title": "stevenage is 'space city ' says head of uk space agency", 
+            "text": [
+                "the chief executive of the", 
+                "the satellite will be launched next year to monitor atmospheric pollution in much more detail than existing instruments are able to .", 
+                "it is so sensitive , that it can tell when it 's a sunday , as there are less emission from vehicles ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33601099", 
+            "title": "milton keynes ' peregrines thought to be first to choose football ground as home", 
+            "text": [
+                "peregrines nesting in the roof of mk dons ' stadiummk are thought to be the first ever pair to choose a football ground as home .", 
+                "`` peregrines are doing really well in urban areas but i think this might be the first ever pair to breed on a football ground , something for everyone to cheer , '' said mark thomas , the senior investigations officer at the", 
+                "there are plans to install a nesting platform in the stadium later this year which will be monitored by"
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33601823", 
+            "title": "elstree residents asked to check out-building in search for missing man", 
+            "text": [
+                "residents in and around elstree are being urged by police to check out-buildings and gardens as the search for missing david cahill continues .", 
+                "mr cahill , 52 , was last seen in the elstree hill south area at about 08:00 yesterday wearing light denim trousers , a light round-neck jumper , a casual black jacket with a hood and black trainers .", 
+                "he may have travelled to london .", 
+                "det ins phil moss said he `` may appear lost or confused '' and that `` he struggles to interact with people and may not express that he needs help . ''"
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33592541", 
+            "title": "glow worms : what to look for ?", 
+            "text": [
+                "wildlife lovers in hertfordshire are being asked", 
+                "despite their name , glow worms are actually beetles , and can be spotted throughout the summer months as the flightless females climb tall blades of grass at night and light up to attract a winged male to mate with .", 
+                "ecologist laura mullholland said : `` people often think of glow worms as being a romantic sight , but they 're more like the lonely hearts of the insect world - the ladies glowing away at the top of their stalks , waiting for their prince to come . ''"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33601819", 
+            "title": "ambulance staff petition minister to keep boss", 
+            "text": [
+                "more than 600", 
+                "the petition states dr anthony marsh , whose contract ends this year , has brought positive changes to the `` fragile but recovering '' trust .", 
+                "dr marsh , who heads the ambulance service in both the east of england and the west midlands , has previously faced criticism over his salary ."
+            ], 
+            "author": [
+                "BBC News", 
+                "UK"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591974", 
+            "title": "beds police blog : no honour in abuse", 
+            "text": [
+                "it 's the weekend .", 
+                "the start of my long seven day week .", 
+                "i am generally in the office by 7:15 am to find out what has happened overnight and to see if there is anything urgent to deal with .", 
+                "our priority is the safety of the girl and we arrange a safe place for her to spend the night .", 
+                "she is shaken , but supportive of our action ."
+            ], 
+            "author": [
+                "Bobbies on the beat"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33601093", 
+            "title": "first milton keynes peregrine chick flies nest", 
+            "text": [
+                "more now on the fledgling peregrine that has been raised on the roof of mk dons '", 
+                "it was back in 2013 the first peregrine was spotted at the stadium and by february this year a pair , one of about 1500 in the uk , were seen for the first time .", 
+                "they later nested in the upper reaches of the stadium 's roofline .", 
+                "`` this is a first for milton keynes and only the second known breeding site in buckinghamshire '' , martin kincaid , biodiversity officer at"
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33598563", 
+            "title": "the open : hemel-born luke donald four-under par", 
+            "text": [
+                "england 's former world number one and hemel hempstead-born former bucks amateur luke donald book-ended his", 
+                "having seen his hopes slip away on sunday with a 73 , his earlier start allowed him to take advantage of the more benign conditions , getting to within two shots of the lead at one stage on 10-under par before bogeying 17 .", 
+                "`` that 's exactly why i shot 73 yesterday as i knew conditions would be worse later on today , '' he joked .", 
+                "`` i knew if i could go really low and post a number then i 'd have a chance , but i did n't hole enough putts . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33597948", 
+            "title": "peregrine could be first in uk to fledge at a football stadium", 
+            "text": [
+                "a peregrine breeding site on the roof of stadium mk is the"
+            ], 
+            "author": [
+                "One MK"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33601091", 
+            "title": "crop fire in hitchin", 
+            "text": [
+                "hertfordshire fire and rescue", 
+                "14:52 4 fire appliances are attending hay bales and standing crop on fire - holwell road , hitchin .", 
+                "avoid the area if possible", 
+                "@ twitterid be nothing left for the mills at this rate grrrrrrrrr ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33598561", 
+            "title": "delays on the luton to dunstable busway", 
+            "text": [
+                "there are delays on the luton to dunstable busway this afternoon due to a broken down bus between luton town football club and the town centre .", 
+                "arriva have confirmed that a centrebus vehicle broke down about 40 minutes ago .", 
+                "we 'll bring you more on this as we get it ."
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33598560", 
+            "title": "if you 're just joining us", 
+            "text": [
+                "the top stories we 're looking at this afternoon :"
+            ], 
+            "author": [
+                "Carol Abercrombie", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33600002", 
+            "title": "missing man 'may be in london '", 
+            "text": [
+                "police in london have shared an appeal to try to find a", 
+                "david cahill , 52 , was last seen near elstree hill south at about 08:00 yesterday morning .", 
+                "he 's described as white , 5ft 6in tall and wears glasses .", 
+                "he was last seen wearing brown trousers , black trainers and a light coloured top and may appear lost or confused , police said ."
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33596444", 
+            "title": "suspected arson caused 'significant loss ' to farmer", 
+            "text": [
+                "earlier we told you about a suspected arson attack which caused about \u00a3 10,000 of damage to crops in rousebarn lane , croxley green .", 
+                "hertfordshire police has sent us this which shows the `` significant loss to the farmer '' .", 
+                "officers said the force was looking for two youths reportedly seen setting fire to the wheat who were described as white and of slight build .", 
+                "one was aged 13-14 years-old , about 5ft 7ins tall with short , straight auburn hair .", 
+                "the other was aged about 12-13 years-old , 5ft 2ins tall with dark collar length hair ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33593406", 
+            "title": "shaken baby 's mother saw 'only love ' with father", 
+            "text": [
+                "a mother whose former partner was jailed after being convicted of shaking his baby son says she believes", 
+                "matthew challis , 34 , from bishops stortford , denied causing serious physical harm to his son ollie whilst caring for him in march 2013 , but was unanimously found guilty by a jury in june .", 
+                "the child 's mother and challis ' former partner danielle moss said : `` i 've only ever associated love between ollie and his dad if i thought he was guilty i would want him locked up for a very long time . ''"
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33596939", 
+            "title": "stevenage fc preparations going well says boss sheringham", 
+            "text": [
+                "stevenage fc boss teddy sheringham has told the club 's", 
+                "the boro are two days into a training camp in seville , spain , where they have been focussing on possession and running .", 
+                "`` we are trying to get the players fitter , stronger , getting used to the training so hopefully things will get better every day '' , sheringham said ."
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33598555", 
+            "title": "man in court over swimming pool assaults", 
+            "text": [
+                "a man from luton is due to appear in court today , charged with sexual offences at a swimming pool in aylesbury .", 
+                "the man in his 40s is accused of offences against three victims at the aqua vale pool in february ."
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33598556", 
+            "title": "hemel shoplifters arrested", 
+            "text": [
+                "hemel town police", 
+                "two shoplifters arrested this morning with a combined total of \u00a3 598.86 of stolen clothes in their possession. # policeonecriminalsnil"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33596445", 
+            "title": "tunnel campaigners go before hs2 select committee", 
+            "text": [
+                "groups campaigning for the", 
+                "those presenting cases are", 
+                "you can watch proceedings on"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33594913", 
+            "title": "satellite built in stevenage to launch in 2016", 
+            "text": [
+                "the sentinel 5p , built in stevenage , will blast off in 2016 to monitor atmospheric pollution .", 
+                "i 'm at", 
+                "it will take atmospheric measurements at a higher resolution than existing instruments can and will identify areas of specific pollutants and pollution clouds drifting towards areas of population ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "13:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33596941", 
+            "title": "missing hemel mum michelle higgins : 'family missing you desperately '", 
+            "text": [
+                "officers trying to trace missing mum michelle higgins from hemel hempstead , who suffers with postnatal depression , have sent out appeals nationwide", 
+                "`` we are extremely concerned for michelle 's welfare i would appeal directly to michelle if she sees this appeal please make contact with your family or police your family are missing you desperately , '' det sgt ben freeman said .", 
+                "the 32-year-old mother of two was last seen at about 19:45 on wednesday in wyboston , cambridgeshire by a family member before driving to cambridge in a silver volkswagen golf , registration v25 mam .", 
+                "there is a"
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33592427", 
+            "title": "a changeable weather outlook this afternoon", 
+            "text": [
+                "this lunchtime we 'll see rather cloudy conditions at first , accompanied by a little patchy rain/drizzle .", 
+                "a bit later this afternoon , there will be some bright or sunny intervals , although there may still be the chance of a few showers .", 
+                "feeling warm and humid , and becoming breezy .", 
+                "maximum temperature : 25c ( 77f )"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33594238", 
+            "title": "police investigate crop fire 'arson '", 
+            "text": [
+                "police are investigating an arson attack which caused about \u00a3 10,000 of damage to crops in croxley green on sunday .", 
+                "officers were called to rousebarn lane ( just south of newlands spring woods , at 15:40 after reports two youths had been seen setting fire to wheat .", 
+                "one is described as white , aged 13-14 years-old , with short , straight auburn hair and the other as white , aged about 12-13 years-old with dark collar length hair .", 
+                "hertfordshire police said they believed it was a `` deliberate act '' and have appealed for anyone who saw the two boys to come forward ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33596935", 
+            "title": "eid mubarak : mosque opens doors in run up to holy day", 
+            "text": [
+                "thousands of muslims across the vale celebrated the festival of eid on saturday .", 
+                "in the run up to the holy day"
+            ], 
+            "author": [
+                "Bucks Herald"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33596937", 
+            "title": "the news so far today", 
+            "text": [
+                "here 's a glimpse of the top stories today :"
+            ], 
+            "author": [
+                "Jane Killick", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33592542", 
+            "title": "glow worms : why we need to track them ?", 
+            "text": [
+                "earlier we told you how people in hemel hempstead are being asked to record sightings of glow worms along the grand union canal to help `` make sure that they 're still glowing for the generations to come '' .", 
+                "ecologist laura mullholland said : `` glow worms are magical insects , we know that they have been spotted in hemel hempstead but we 're really keen to find out if they are living anywhere else and how they 're doing .", 
+                "`` because the females do n't have wings , colonies tend to stay around the same areas , so , once we 've found a new spot it 's important we make sure we protect them . ''"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33593766", 
+            "title": "hay stack fire in shefford", 
+            "text": [
+                "the fire service spent more than two hours"
+            ], 
+            "author": [
+                "Beds on Sunday"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33595717", 
+            "title": "luton-boy needs bone marrow match", 
+            "text": [
+                "this is six-year-old yusuf choudhury from luton .", 
+                "he was diagnosed with a rare blood disorder called", 
+                "as yusuf is of bangladeshi descent , his parents are appealing to those with similar south asian heritage to join the stem cell donor registry .", 
+                "`` at the moment he 's on a cocktail of drugs just to keep him going , just so that he can go to school and do his karate classes '' , yusuf 's mother laki told"
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "12:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33595712", 
+            "title": "enid blyton 's old home in bourne end for sale at \u00a3 1.85m", 
+            "text": [
+                "the idyllic cottage in buckinghamshire 's bourne end that was"
+            ], 
+            "author": [
+                "Get Bucks"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33594240", 
+            "title": "travel update : accident on m25", 
+            "text": [
+                "one lane is closed on the anti-clockwise m25 between j24 for potters bar and j23 for the a1 ( m ) due to an accident .", 
+                "get the latest updates from"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33594234", 
+            "title": "new satellite to be revealed in stevenage", 
+            "text": [
+                "a satellite designed to measure pollution in the atmosphere is due to be revealed in stevenage later ahead of its launch next year .", 
+                "the sentinel 5p spacecraft , due to be unveiled at", 
+                "the craft will soon be shipped to france for testing ahead of its planned launch in spring 2016 ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33593770", 
+            "title": "if you 're just joining us", 
+            "text": [
+                "the top stories we 're looking at today :"
+            ], 
+            "author": [
+                "Simon Oxley", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33594908", 
+            "title": "pollen levels high in the three counties", 
+            "text": [
+                "herts valleys clinical commissioning group", 
+                "with # pollen levels high in central areas - visit @ twitterid for # allergy & # hayfever advice"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33594906", 
+            "title": "hertfordshire couple tied-up by burglars", 
+            "text": [
+                "a couple in their 70s were tied-up by burglars at their stevenage home , who then stole cash and jewellery in the early hours of yesterday morning .", 
+                "police were called at about 12:20 to the sish lane area of the town .", 
+                "two men had threatened the couple , and police say they have been left extremely shaken .", 
+                "the man suffered minor injuries ."
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33593769", 
+            "title": "family increasingly concerned for welfare of missing hemel woman", 
+            "text": [
+                "a mum from hemel hempstead who suffers from postnatal depression `` could be anywhere in the country '' after being reported missing last week , police say .", 
+                "michelle higgins , 32 , was last seen by family at about 19:45 on wednesday and is believed to be driving a volkswagen golf .", 
+                "she is last thought to have been seen in cambridgeshire that night .", 
+                "ms higgins is described as white , of medium build , about 5ft 2in , with long straight blonde hair .", 
+                "she was wearing a black and beige camisole top , black jeans and black and gold sandals ."
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "Beds, Herts & Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33592537", 
+            "title": "public asked to look for glow worms", 
+            "text": [
+                "people living in hemel hempstead are being asked to record sighting of", 
+                "ecologist laura mulholland said : `` one of the best ways we can help them is to know where they are knowing that we 've got them on the grand union canal is really great and we really want people to get out there and record where they see them . ''"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591259", 
+            "title": "police seize 'large number ' of motorbikes", 
+            "text": [
+                "police in bedfordshire have seized a large number of motorbikes and quad bikes and made a number of arrests in a major operation involving the force helicopter yesterday .", 
+                "officers tracked riders who were seen driving dangerously in the caxton road area of bedford just after midday .", 
+                "they made their way along the a6 and a421 towards milton keynes , as well as the a1 at sandy before arrests were made on sus of road traffic-related offences ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33593762", 
+            "title": "thames swan census expects rise in numbers", 
+            "text": [
+                "the number of swans on the river thames recorded in the", 
+                "the queen 's swan marker , david barber , said there had been an increase in air gun shootings , particularly in windsor , berkshire , during the winter .", 
+                "the swan upping ceremony got underway at 09:00 in sunbury , surrey .", 
+                "the five-day survey also passes through oxfordshire and buckinghamshire ."
+            ], 
+            "author": [
+                "BBC News", 
+                "UK"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33593764", 
+            "title": "collision on m1 in bedfordshire", 
+            "text": [
+                "one lane is closed and there is queuing traffic on the m1 northbound between j10-j11 due to an accident involving a lorry and a car .", 
+                "there 's congestion back to j9 .", 
+                "stay up to date"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591258", 
+            "title": "family maintains convicted baby shaker 's innocence", 
+            "text": [
+                "the family of a hertfordshire man convicted of shaking his baby son and causing a seizure is protesting his innocence and have started a petition against his conviction .", 
+                "matthew challis , 34 , from bishops stortford , denied he caused serious physical harm to his son ollie whilst caring for him in march 2013 , but was unanimously found guilty by a jury in june and sentenced to three years in prison .", 
+                "his family plan to present the petition to prime minister david cameron and justice minister mike penning ."
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33592535", 
+            "title": "terror accused due in court", 
+            "text": [
+                "a man from high wycombe and two others are due to appear at the old bailey today accused of an alleged beheading plot .", 
+                "yousaf shah syed , 19 , together with a 22-year-old from hounslow and a 27-year-old from hayes were arrested in raids three days before remembrance sunday last november .", 
+                "they 're due to stand trial at the old bailey in october ."
+            ], 
+            "author": [
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591970", 
+            "title": "motorcyclist killed on a421", 
+            "text": [
+                "a motor bike rider from the netherlands was killed and another was seriously injured when they crashed on the a421 between milton keynes and buckingham at about 14:30 yesterday afternoon .", 
+                "a blue kawasaki and a red bmw were involved in the collision .", 
+                "the 49-year-old male rider of the kawasaki was taken to the john radcliffe hospital in oxford but died .", 
+                "the rider of the bmw , a 41-year-old man , was taken by air ambulance to university hospital in coventry .", 
+                "he sustained serious injuries but is in a stable condition ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "09:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33591978", 
+            "title": "watford end german trip with win", 
+            "text": [
+                "goals came from matej vydra and odion ighalo ("
+            ], 
+            "author": [
+                "Simon Oxley", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591260", 
+            "title": "fire crews tackle field fire overnight", 
+            "text": [
+                "fire crews in hertfordshire have been tackling a blaze in a field in ware overnight .", 
+                "herts fire control", 
+                "1/2 crews from hertford , ware , @ twitterid & cheshunt attended a fire on fanhams hall rd .", 
+                "call came in at 19:31 - 30 tons of hay &", 
+                "2/2 an area of stubble well alight - stop message came in at 03:30"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33591255", 
+            "title": "today 's weather : warm and humid", 
+            "text": [
+                "today will be cloudy with some patchy rain this morning and some sunny intervals this afternoon .", 
+                "it will also feel warm and humid with a maximum temperature of 25c ( 77f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33591256", 
+            "title": "escaped horse shuts motorway", 
+            "text": [
+                "a horse which escaped from an overturned horsebox", 
+                "firefighters caught the animal between j2 for gerrards cross and j3 for beaconsfield and a second horse that was injured and still stuck inside the horsebox was also rescued .", 
+                "thames valley police", 
+                "2/2 expecting to re-open by 6pm .", 
+                "fire , emergency vet & police working hard to minimise disruption.updates to follow", 
+                "@ twitterid both horses had to be sedated in order to keep them calm while they were rescued .", 
+                "they are now reunited , safe and well .", 
+                "@ twitterid that 's good news .", 
+                "@ twitterid great to hear they are ok , thank you for letting us know ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33591253", 
+            "title": "the news so far today", 
+            "text": [
+                "here are the top stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Simon Oxley", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33590978", 
+            "title": "good morning", 
+            "text": [
+                "welcome to another week of news , sport , leisure , travel and weather on the live page for bedfordshire , hertfordshire and buckinghamshire .", 
+                "i 'll get you started and dani bailey will join at 10:00 to take you through to 18:00 .", 
+                "if you have a story to share with us , please feel free to email your comments to"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "Beds, Herts and Bucks Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-beds-bucks-herts", 
+    "quality": "high"
+}

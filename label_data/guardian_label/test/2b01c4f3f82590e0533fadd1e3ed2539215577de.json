@@ -1,0 +1,1551 @@
+{
+    "blog_id": "2b01c4f3f82590e0533fadd1e3ed2539215577de", 
+    "title": "Nasa's Orion launch: first test flight postponed for 24 hours \u00e2\u0080\u0093 as it happened | Science | The Guardian", 
+    "url": "https://www.theguardian.com/science/live/2014/dec/04/orion-first-test-flight-for-nasas-mars-ship-live-updates", 
+    "summary": [
+        "mission cancelled for today .", 
+        "new launch time set .", 
+        "launch held again .", 
+        "new launch time set .", 
+        "yet another hold .", 
+        "new launch time .", 
+        "new launch time ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5480721de4b028bfea15a9c0", 
+            "title": "", 
+            "text": [
+                "well , that 's that .", 
+                "a combination of encroaching boats , wind gusts and dodgy valves has scuppered today 's first flight .", 
+                "many thanks for reading see you again tomorrow ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54807168e4b04151c2f491db", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) the # orion launch is scrubbed for today .", 
+                "next launch opportunity in 24 hours .", 
+                "lots of people are now saying disable over the radio .", 
+                "show 's over for today , as confirmed by tweet ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-548070fce4b00ed204c02707", 
+            "title": "mission cancelled for today", 
+            "text": [
+                "recommend we scrub for today , says the launch director over the radio .", 
+                "back again tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54807082e4b04151c2f491d9", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) # orion team will try for one more launch attempt today .", 
+                "new launch time is 9:44am et .", 
+                "here 's the confirmatory tweet .", 
+                "no exclamation marks this time .", 
+                "about ten minutes to go ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806f8be4b028bfea15a9bd", 
+            "title": "new launch time set", 
+            "text": [
+                "we have a fifth scheduled launch time 9.44am eastern time ( 2.44pm bst ) , right at the end of the launch window .", 
+                "it 's about 14 minutes from now ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                29
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54806f84e4b028bfea15a9bb", 
+            "title": "", 
+            "text": [
+                "the orion launch site .", 
+                "nesius/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806eede4b0f0b85f7b4354", 
+            "title": "", 
+            "text": [
+                "latest from the radio : if they try launching again technicians will turn off the automatic wind speed monitors which caused a couple of delays and monitor the wind manually .", 
+                "in layperson 's language , in sounds like they 're going to try and bodge it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806e72e4b0f0b85f7b4353", 
+            "title": "", 
+            "text": [
+                "the nasa radio is saying the valves are still not working properly .", 
+                "the next step involves filling the tanks in an attempt to jostle the valves into action .", 
+                "with about 20 minutes of the launch window left i 'm guessing it wo n't happen today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806e00e4b028bfea15a9b9", 
+            "title": "", 
+            "text": [
+                "orion reader comment .", 
+                "as we await news any news it 's good to see our readers are keeping themselves amused ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806c4ae4b028bfea15a9b8", 
+            "title": "", 
+            "text": [
+                "sesame street character elmo with this orion ticket .", 
+                "/sesame street if orion does launch today - and with less than half an hour left of today 's window it 's looking less likely there will be some unusual cargo .", 
+                "as part of a tie-in with the tv programme sesame street , to get children interested in the mission , items belonging to characters will be aboard , including one of cookie monster 's cookies , and ernie 's rubber duck .", 
+                "despite the photo above elmo will not be aboard , nor any other character , presumably over fears of traumatising the globe 's children if the mission went wrong ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806aeee4b0057ea72e76d5", 
+            "title": "", 
+            "text": [
+                "photographers await the orion launch .", 
+                "nesius/reuters it 's not just us waiting .", 
+                "but those press photographers are outside , in about 21c of sun ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806a90e4b0057ea72e76d4", 
+            "title": "", 
+            "text": [
+                "i 'm back from a quick break , and nasa tv is still talking about valves .", 
+                "there 's only about 40 minutes left in today 's launch window , but officials still say they 're hopeful it could happen .", 
+                "we 'll see ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                14, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480645ee4b00ed204c026dd", 
+            "title": "", 
+            "text": [
+                "the launch window expires at 9.44pm et ( 2.44pm gmt ) .", 
+                "nasa ( @ nasa ) fill- & -drain valves on 3 core boosters will be cycled open & closed to see if that solves the problem .", 
+                "watch # orion"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806291e4b029be747f9e88", 
+            "title": "", 
+            "text": [
+                "orion launch site the nasa radio feed says engineers plan to cycle the valves a series of times to test them before deciding whether to proceed with what would be a fifth different launch time of the morning ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548061ffe4b0a85667db5978", 
+            "title": "", 
+            "text": [
+                "the official orion blog explains what happened : a fill and drain valve on the rocket did not function correctly .", 
+                "standing by as rocket and spacecraft are safed ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806154e4b072280271454f", 
+            "title": "", 
+            "text": [
+                "it seems there were two valves on the boosters which indicators showed did not close properly .", 
+                "i 'm no space pundit , but i 'd say it 's not looking very hopeful for a launch today , even with an hour and a quarter of today 's launch window left ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54806051e4b0492ecd0a20eb", 
+            "title": "launch held again", 
+            "text": [
+                "yes .", 
+                "they 're shouting hold again over the radio .", 
+                "does n't seem to be the wind this time , but a technical issue .", 
+                "it seems to be that a fuel valve did not close as planned ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                24
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480601ee4b0492ecd0a20ea", 
+            "title": "", 
+            "text": [
+                "orion launch site view from the launch site - we 're almost in the last three minutes ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805fd2e4b06bd53893abad", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) a new poll has been taken .", 
+                "# orion is go for launch .", 
+                "l-6 minutes .", 
+                "five minutes to go .", 
+                "the orion twitter feed has escalated from exclamation marks to capital letters ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805f47e4b0492ecd0a20e8", 
+            "title": "", 
+            "text": [
+                "orion is back on internal power yet again .", 
+                "i 'm getting familiar with the process we 're back with all the people saying , go !", 
+                "over the radio .", 
+                "ends with : this is the launch director you have permission to launch ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805ef3e4b0492ecd0a20e7", 
+            "title": "", 
+            "text": [
+                "nasa ( @ nasa ) we 're `` go ! ''", 
+                "# orion 's new launch time is 8:26am et / 13:26 utc .", 
+                "watch : # orionlaunch official confirmation once again ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805e82e4b06bd53893aba6", 
+            "title": "new launch time set", 
+            "text": [
+                "we have yet another new launch time : 8.26am eastern time ( 1.26pm bst ) .", 
+                "so , in about ten minutes from now ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805e06e4b06bd53893aba5", 
+            "title": "", 
+            "text": [
+                "as well as the weather it seems that there are also some issues with the core engine temperature exceeding limits , though it seems these are now being tackled .", 
+                "we might still see a launch today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805da0e4b0492ecd0a20e1", 
+            "title": "", 
+            "text": [
+                "orion launch site .", 
+                "as we wait ( and wait and wait ) , here 's the latest view from cape canaveral ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805cbce4b0d98f5fb75ba1", 
+            "title": "", 
+            "text": [
+                "nasa 's fast-updated orion blog has this on the weather conditions : the weather system over the launch site that is producing the wind gusts that have scrubbed the first two tries this morning is forecast to break in the next 45 minutes to an hour , reports kathy winters , weather officer with the 45th weather squadron .", 
+                "our launch window this morning extends to 9:44 a.m. est ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                13, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805a3ae4b0d98f5fb75b98", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) we have another hold due to wind violation .", 
+                "we 're waiting to find out when we can resume the # orion countdown .", 
+                "nasa tv says weather experts at the site say it could take up to an hour for the windy conditions to pass .", 
+                "we still have till 9.44am florida time ( 1.44pm bst ) for the launch to take place today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54805980e4b0492ecd0a20da", 
+            "title": "", 
+            "text": [
+                "orion launch site .", 
+                "yes , it seems automatic detectors again sensed winds above the limit .", 
+                "the wind speeds have been higher than expected this morning , we are told .", 
+                "you can see from the photo above that weather conditions are quite overcast ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5480590ee4b0a85667db596e", 
+            "title": "yet another hold", 
+            "text": [
+                "we 're stopped again .", 
+                "not quite sure what yet .", 
+                "could be another wind violation ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548058f9e4b029be747f9e81", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) t-4 minutes .", 
+                "the # orion countdown is back on !", 
+                "the exclamation marks are back ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548058d3e4b0d98f5fb75b97", 
+            "title": "", 
+            "text": [
+                "now four minutes to go into what 's known as the terminal count ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548058a1e4b029be747f9e80", 
+            "title": "", 
+            "text": [
+                "we 're into the five minute countdown .", 
+                "barring wind gusts , or more errant boats , it looks like we 're go ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805802e4b0d98f5fb75b96", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) new # orion launch time has been set for 7:55am et .", 
+                "countdown will resume at 7:51am .", 
+                "here 's the confirmation .", 
+                "orion , meanwhile , is back on internal power ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805784e4b06bd53893ab94", 
+            "title": "new launch time", 
+            "text": [
+                "nasa has said the new launch time is 7.55am eastern time , or about nine minutes from now ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480575ee4b0492ecd0a20d1", 
+            "title": "", 
+            "text": [
+                "nasa , meanwhile , have released this very pretty video of the launch preparations ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548056ade4b0492ecd0a20ce", 
+            "title": "", 
+            "text": [
+                "orion launch site .", 
+                "in the meantime , nasa are treating us to lovely views of the launch site .", 
+                "they 've also confirmed that the gust which set off the alert exceeded the limit of 21 knots ( about 24mph ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480565ae4b06bd53893ab8e", 
+            "title": "", 
+            "text": [
+                "orion reader comment .", 
+                "it seems the tension of the long wait is getting to some of our readers , too ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54805533e4b06bd53893ab8a", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) # orion is currently in an extended hold waiting for winds to subside .", 
+                "2 hours and 7 minutes left in today 's launch window .", 
+                "the official orion word on where we are now ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548054d9e4b06bd53893ab89", 
+            "title": "", 
+            "text": [
+                "orion waits at the launch site .", 
+                "the latest image from nasa tv .", 
+                "not much going on for now , though we 're promised a weather briefing soon ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548053e6e4b029be747f9e74", 
+            "title": "", 
+            "text": [
+                "well , exciting as space travel undoubtedly is , it does involve a lot of waiting around at the start .", 
+                "there is talk of an extended delay as they assess the ground winds .", 
+                "in the meantime the orion craft has been placed back on external power .", 
+                "if the launch is delayed beyond today the owners of that boat are not going to be popular ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480526ae4b0722802714541", 
+            "title": "", 
+            "text": [
+                "the orion launch site no news yet on a possible launch time .", 
+                "here 's a view of the launch site , where it 's now very much daytime .", 
+                "there 's still more than two hours left in today 's launch window .", 
+                "on the nasa tv feed we are told , however , that everything remains go technically ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-548050cae4b06bd53893ab81", 
+            "title": "", 
+            "text": [
+                "nasa 's orion spacecraft prepares for launch .", 
+                "audette/reuters /bill ingalls/epa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5480506ee4b06bd53893ab7f", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) the countdown is on hold due to ground wind exceeding the set limits .", 
+                "confirmation again from the official twitter feed ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804ff7e4b0722802714540", 
+            "title": "launch held again", 
+            "text": [
+                "we have another hold seems the ground winds are too strong .", 
+                "but this is not a show-stopper says the reassuring voice on nasa tv .", 
+                "not sure how long the delay might be ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804fb2e4b029be747f9e70", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) t minus 5 minutes and counting down for # orion & delta iv heavy rocket liftoff at 7:17am et !", 
+                "five minutes to go .", 
+                "the orion team are excited they 've started using exclamation marks in their tweets ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804f72e4b0a85667db595e", 
+            "title": "", 
+            "text": [
+                "a view of the orion control room a view inside the orion control room , where everyone in turn has been saying go !", 
+                "in response to a series of pre-launch checks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804f09e4b0d98f5fb75b8e", 
+            "title": "", 
+            "text": [
+                "orion has now transferred to its own internal power system , a key stage before lift off .", 
+                "just under seven minutes to go .", 
+                "a mile or so away the crew of a small boat are getting a very stern talking to ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54804ec8e4b0492ecd0a20bb", 
+            "title": "", 
+            "text": [
+                "orion spacecraft ( @ nasa orion ) new launch time is set at 7:17am et confirmation of the new launch time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54804e5be4b06bd53893ab7a", 
+            "title": "new launch time", 
+            "text": [
+                "nasa says the new launch time will be 7.17am florida time , or 12 minutes later than planned about ten minutes from now ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804e1ee4b06bd53893ab77", 
+            "title": "", 
+            "text": [
+                "the official countdown reaches 10 seconds the official clock has counted down to ten seconds and then zero \u0080\u00a6 but has now restarted ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804daee4b06bd53893ab76", 
+            "title": "", 
+            "text": [
+                "nasa ( @ nasa ) teams are extending # orion 's launch countdown hold due to a range & technical issue being worked .", 
+                "launch time delayed .", 
+                "here 's the official nasa confirmation of the delay ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804cd1e4b0d98f5fb75b8a", 
+            "title": "", 
+            "text": [
+                "it does seem we will have a delay , but no one yet knows how long , nasa says , as the boat is escorted away .", 
+                "but there are no technical issues , and the official launch window lasts until 9.44am eastern time , more than two hours after the scheduled 7.05am departure , meaning orion should still take off this morning ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                12, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804c13e4b06bd53893ab6e", 
+            "title": "", 
+            "text": [
+                "there 's a lot of acronym-filled jargon being spoken over radios on the nasa tv feed , and i 'm not quite clear whether the launch is , indeed , being held up .", 
+                "nor , it seems , does the nasa tv voiceover man , who 's gone suddenly quiet ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804b6de4b0492ecd0a20b1", 
+            "title": "orion launch delayed", 
+            "text": [
+                "nasa ( @ nasa ) # orion is currently `` no-go '' due to a range issue .", 
+                "there 's a boat in the launch area .", 
+                "teams are working to remove the boat from the area .", 
+                "inevitably , the mission has its own twitter feed .", 
+                "here 's its latest update , a re-tweet from the nasa feed about the rogue boat in the launch area ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804b1ae4b0a85667db5955", 
+            "title": "", 
+            "text": [
+                "a still from nasa tv of orion of the launchpad ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54804a23e4b072280271453a", 
+            "title": "", 
+            "text": [
+                "the live nasa coverage of the launch build-up says a boat has been spotted inside an exclusion area around cape canaveral , which officials are trying to contact and escort away .", 
+                "they say it 's possible this could slightly delay the launch time , though it 's not yet clear .", 
+                "we 're now inside the final 15 minutes before the scheduled launch time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-548048c7e4b029be747f9e6a", 
+            "title": "", 
+            "text": [
+                "as we await the launch , here 's another nasa video , this one about the long lead-up to today 's test flight ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480487ce4b0722802714539", 
+            "title": "", 
+            "text": [
+                "the orion craft 20 minutes before liftoff a still from nasa tv .", 
+                "nasa tv has some lovely shots of the craft in the very early dawn light ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480458ee4b029be747f9e67", 
+            "title": "", 
+            "text": [
+                "want to know what the latest situation is with just over half an hour to launch time ?", 
+                "of course you do .", 
+                "luckily , nasa has its own rolling series of blog updates here .", 
+                "this is what it had to say just now : we are moving through this morning 's countdown and everything remains on track for a liftoff at 7:05 a.m. est , including the weather .", 
+                "we 'll have the final launch forecast shortly , followed by a 15-minute built-in hold at t-4 minutes that will set the stage for the terminal countdown phase .", 
+                "launch polls will be conducted during this hold to clear the way for liftoff .", 
+                "orion will switch over to its own battery power then the final go/no-go call will be made .", 
+                "after that , the delta iv 's three core stage engines will ignite and rev up to 2 million pounds of thrust .", 
+                "the delta iv heavy and orion will clear the tower in just a few seconds to begin a carefully choreographed climb skyward .", 
+                "the core stages on either side of the rocket will burn their propellants and fall away at t+3minutes , 56 seconds .", 
+                "the central core stage will continue for another 94 seconds as the rocket and spacecraft climb higher and up more speed .", 
+                "the first stage will fall away and the second stage will take over to put orion into an initial orbit of 115 miles by 552 miles ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548043dae4b06bd53893ab57", 
+            "title": "", 
+            "text": [
+                "a view this morning of the orion launch site at cape canaveral in florida .", 
+                "nesius/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5480430de4b06bd53893ab54", 
+            "title": "", 
+            "text": [
+                "refresh the page to watch the launch live above ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54803fcce4b0492ecd0a2097", 
+            "title": "", 
+            "text": [
+                "there 's still an hour to go until the launch , but you can watch nasa 's own increasingly and understandably excitable live tv coverage here in the meantime .", 
+                "on the main nasa website they even have a countdown clock to the launch .", 
+                "the nasa countdown clock for the orion mission ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-548017c6e4b06bd53893ab13", 
+            "title": "", 
+            "text": [
+                "welcome to our live coverage of the first test flight of nasa 's orion spacecraft .", 
+                "here 's a quick primer on orion and its test flight : orion is nasa 's successor to the space shuttle which the agency hopes will take humans further into space , possibly as far as mars .", 
+                "the test flight is the start of a new chapter in human space exploration , the agency said .", 
+                "the unmanned test flight is due to launch from cape canaveral just after dawn 7.05am ( 12.05 gmt ) and will last about four and a half hours .", 
+                "in that time it is due to circle the earth twice and reach a maximum altitude of 3,600 miles .", 
+                "the primary purpose of the mission is to test a new 16ft-wide heat shield aimed at protecting the capsule , which can carry up to six astronauts .", 
+                "orion will plunge to earth off the coast of baja california , in the pacific , at 20,000mph generating 2,200c of heat .", 
+                "nasa confidently asserts that orion will send man to an asteroid and onward to mars , but the first astronauts are not scheduled to travel in it for another seven years at the earliest .", 
+                "nasa is aiming to carry out a manned mission to mars within 20 years , following a statement of intent by barack obama , who in 2010 said : by the mid 2030s i believe we can send humans to orbit , mars and return them safely to earth .", 
+                "nasa has produced a helpful if gung-ho video explainer on the orion test flight that mixes flashy computer graphics with reassuringly low tech marker pen diagrams .", 
+                "in the video , entitled trial by fire , nasa engineer kelly smith explains that possibly the most dangerous part of the flight is when the orion capsule plummets to earth at temperatures almost twice as hot as molten lava .", 
+                "you can follow a livestream of orion as the minutes count down before the test flight begins .", 
+                "nasa is also posting regular updates on the launch on its twitterfeed @ twitterid ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54803070e4b0722802714518", 
+            "title": "", 
+            "text": [
+                "here 's our very pretty graphic showing the various elements of the orion craft , and how it fits into the launcher ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                4, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "science", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.35pm GMT\n14:35\nMission cancelled for today\n", 
+                "block": "block-548070fce4b00ed204c02707"
+            }, 
+            {
+                "text": "\n\n2.29pm GMT\n14:29\nNew launch time set\n", 
+                "block": "block-54806f8be4b028bfea15a9bd"
+            }, 
+            {
+                "text": "\n\n1.24pm GMT\n13:24\nLaunch held again\n", 
+                "block": "block-54806051e4b0492ecd0a20eb"
+            }, 
+            {
+                "text": "\n\n1.16pm GMT\n13:16\nNew launch time set\n", 
+                "block": "block-54805e82e4b06bd53893aba6"
+            }, 
+            {
+                "text": "\n\n12.52pm GMT\n12:52\nYet another hold\n", 
+                "block": "block-5480590ee4b0a85667db596e"
+            }, 
+            {
+                "text": "\n\n12.46pm GMT\n12:46\nNew launch time\n", 
+                "block": "block-54805784e4b06bd53893ab94"
+            }, 
+            {
+                "text": "\n\n12.07pm GMT\n12:07\nNew launch time\n", 
+                "block": "block-54804e5be4b06bd53893ab7a"
+            }
+        ], 
+        "bulletin": [
+            {
+                "text": "Wind and misfiring valves scupper today's first test flight for Nasa's Orion spacecraft which the agency hopes will eventually take astronauts to Mars.", 
+                "type": "p", 
+                "key_points": [], 
+                "link": [], 
+                "time": ""
+            }
+        ]
+    }, 
+    "quality": "high"
+}

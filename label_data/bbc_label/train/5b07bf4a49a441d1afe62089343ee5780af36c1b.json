@@ -1,0 +1,985 @@
+{
+    "blog_id": "5b07bf4a49a441d1afe62089343ee5780af36c1b", 
+    "title": "As it happened: Germanwings crash investigation, 27 March 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/32085476", 
+    "summary": [
+        "german prosecutors say material found at the home of germanwings co-pilot andreas lubitz suggests he concealed an illness from his airline and the authorities .", 
+        "medical documents , including a current sick note , were found but had been ripped up .", 
+        "a medical clinic in duesseldorf confirmed lubitz was a patient , but said he had not received treatment for depression .", 
+        "french prosecutors believe he deliberately crashed the plane into the french alps on tuesday , killing himself and 149 people on board .", 
+        "a major recovery operation is continuing at the crash site near seyne-les-alpes . families of the victims have visited the scene ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32095171", 
+            "title": "", 
+            "text": [
+                "that brings us to the end of our live coverage for today .", 
+                "you can continue to follow the latest developments"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32095169", 
+            "title": "", 
+            "text": [
+                "the european aviation safety agency has recommended that airlines require two crew members to be in an plane 's cockpit at all times .", 
+                "many carriers have already changed their policies following tuesday 's crash , including germanwings ' parent company lufthansa .", 
+                "the recommendation is not legally binding .", 
+                "but the bbc 's business reporter theo leggett says it sends out a powerful signal of intent , which airlines are unlikely to ignore ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32095037", 
+            "title": "", 
+            "text": [
+                "why did andreas lubitz crash the plane ?", 
+                "and can depression really explain his actions ?", 
+                "the bbc news website"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32095167", 
+            "title": "", 
+            "text": [
+                "correspondent anna holligan", 
+                "sunset outside andreas lubitz home .", 
+                "police maintain watchful presence .", 
+                "latest @ twitterid", 
+                "@ twitterid @ twitterid a muslim ?", 
+                "why wo n't the germans come clean on this ?", 
+                "# tcot"
+            ], 
+            "author": [
+                "@annaholligan"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32094863", 
+            "title": "", 
+            "text": [
+                "police are now examining dna samples from the site of the crash at a mobile laboratory set up at seyne-les-alpes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32092906", 
+            "title": "", 
+            "text": [
+                "there are detailed guidelines on dealing with mental health issues among pilots in a", 
+                "the report says : `` psychological testing of aircrew members is rarely of value as a screening tool .", 
+                "personality tests alone have not been proven to be reliable tools to predict mental disorders or to assess with any degree of certainty an applicant 's suitability for an aviation career . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32094601", 
+            "title": "", 
+            "text": [
+                "the deputy mayor of seyne-les-alpes michel rey and his wife diana have been speaking to the bbc about the atmosphere at the crash site .", 
+                "mrs rey said a memorial ceremony for the victims yesterday had been `` extremely distressing '' particularly for the families .", 
+                "`` they stayed i suppose for perhaps an hour .", 
+                "there was a speech from the german ambassador .", 
+                "we could n't hear it , but she was in tears .", 
+                "apparently it was extremely moving .", 
+                "some of them took stones , and they left photographs and flowers . ''", 
+                "the couple have been visiting the site to offer support to families and response teams .", 
+                "mrs rey said the mountains were `` incredibly beautiful '' , but admitted they did n't seem quite so beautiful today ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32092904", 
+            "title": "", 
+            "text": [
+                "reuters news agency has released"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32093601", 
+            "title": "", 
+            "text": [
+                "markus wahl from the german pilots association has been reacting to the news that mr lubitz had been issued with a medical note by doctors , but chose not to share it with his employers .", 
+                "he said : `` if a colleague was signed off sick then i have to be very clear , someone with a sick note has no business being in a cockpit .", 
+                "he should have stayed home .", 
+                "i can not comprehend that . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32092901", 
+            "title": "", 
+            "text": [
+                "could the germanwings crash have been avoided ?", 
+                "`` this is a terrible episode , all the worse-seeming because it was intentional .", 
+                "but even as we absorb its horror and extend deep sympathies , it is worth resisting the temptation to think that some new regulation or device can offer perfect protection against calculated malice .", 
+                "unfortunately , none can . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32093052", 
+            "title": "", 
+            "text": [
+                "juan padro - from sant cugat del valles , near barcelona - lost his ex-wife , his daughter and granddaughter in the crash .", 
+                "three other people from the small town were also killed .", 
+                "speaking outside the hotel in barcelona , where families have been receiving help , he said : `` there is nothing that can be done or that anyone can say , that changes the fact that i have lost such loved ones .", 
+                "`` it makes no difference to me whether it was an accident or whatever .", 
+                "for me , i do n't want to know .", 
+                "it does n't interest me . ''", 
+                "he praised the french prosecutor overseeing the investigation for `` giving us information with complete transparency '' .", 
+                "mr padro added : `` i like to be positive and what i have taken from all of this is that people are very good . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32092900", 
+            "title": "", 
+            "text": [
+                "between 400-600 pieces of human remains have been retrieved from the crash site , the associated press news agency quotes french police as saying .", 
+                "there are no intact bodies , the police says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32092920", 
+            "title": "", 
+            "text": [
+                "`` we will entirely and unreservedly support the investigations of the state prosecutor , '' said professor dr klaus hoeffken , medical director and chairman of the board of the clinic .", 
+                "`` our deepest sympathy goes out to the victims of the plane catastrophe , '' he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32092573", 
+            "title": "", 
+            "text": [
+                "the airline said : `` currently there is media coverage that the co-pilot of flight 4u 9525 was given a sick note for the day of the accident on tuesday .", 
+                "germanwings declares that a sick note for this day was not submitted to the company .", 
+                "`` this corresponds to the insights of the senior prosecutor of dusseldorf , '' the statement continued ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32091390", 
+            "title": "breakingbreaking news", 
+            "text": [
+                "duesseldorf university clinic says mr lubitz had been receiving treatment there - but denies that this was for depression , contrary to some media reports .", 
+                "the clinic says it can not give further details because of rules governing patient confidentiality ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32091132", 
+            "title": "", 
+            "text": [
+                "parts of the british media that have linked lubitz 's mental health problems to his actions have been accused of being `` overly simplistic '' ,", 
+                "three leading mental health groups ,"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32091387", 
+            "title": "", 
+            "text": [
+                "this is a view of the lufthansa flight school in arizona , where mr lubitz received some of his training .", 
+                "arizona 's arid climate and clear skies make it an ideal location for flight-training schools ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32091128", 
+            "title": "", 
+            "text": [
+                "germany 's rheinischer post newspaper", 
+                "duesseldorf 's university hospital told the paper that the 27-year-old had visited the hospital for `` diagnostic clarifications '' in february 2015 and , most recently , on 10 march 2015 .", 
+                "the hospital would not give any further details , citing medical confidentiality ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32091127", 
+            "title": "", 
+            "text": [
+                "more from the royal college of psychiatrists , responding to reports that andreas lubitz had suffered from depression .", 
+                "professor sir simon wessely , the college 's president , said depression was very common - affecting up to one in four people in britain at some point - and that people who had been treated for depression would not be considered at risk of doing something similar .", 
+                "`` i think it 's very , very unlikely that you 'll ever be able to screen , given the frequency of depression and the rarity of this event , '' he told bbc radio 4 .", 
+                "`` there are numerous pilots - and i 've personally actually dealt with some , and i have colleagues who do this for a living - who have had a history of depression and then will go on , resume flying , perfectly safely , for maybe tens of years afterwards .", 
+                "`` so having had a history of depression , so far , has not been a bar to having this kind of career , providing you are open , honest , get treated and recover , as most do . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "14:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32091383", 
+            "title": "", 
+            "text": [
+                "vanity fair magazine 's", 
+                "`` it 's a lot harder to do something like this if there are two people in the cockpit .", 
+                "it 's not impossible , but it 's harder . ''", 
+                "langewiesche , himself a pilot , has investigated several air disasters as a journalist .", 
+                "interviewed by vanity fair on thursday , he said it was not necessarily dangerous to leave only one person in the cockpit - `` but it 's dangerous when a guy with murderous intent is flying '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "14:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32090255", 
+            "title": "", 
+            "text": [
+                "this photo shows forensics experts studying clues from the crash zone , the gendarmerie national says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090259", 
+            "title": "", 
+            "text": [
+                "adverts for germanwings with the slogan , `` get ready to be surprised , '' have been removed from london underground stations after the french alps plane crash ,"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090407", 
+            "title": "breakingbreaking news", 
+            "text": [
+                "lufthansa , the german carrier that owns germanwings , says it has adopted the `` rule of two '' - requiring at least two authorised people to be present in the cockpit at all times .", 
+                "several other airlines have also pledged to adopt this rule over the last 24 hours , following the latest news about the germanwings crash .", 
+                "the rule has been in place for longer among us airlines .", 
+                "`` the passenger airlines of the lufthansa group will adopt the new procedure as soon as possible , in due consultation with their national aviation authority , '' a"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090405", 
+            "title": "", 
+            "text": [
+                "a few details have emerged about the pilot who flew the plane for the first 20 minutes , until he was locked out by mr lubitz .", 
+                "he has been named in the german media as patrick sonderheimer .", 
+                "french radio station europe1 interviewed a former colleague of his who said mr sonderheimer was married with two small children and was `` one of our best pilots '' .", 
+                "recordings show mr sonderheimer banged repeatedly on the cockpit door , in a vain attempt to regain access .", 
+                "german tabloid bild quoted security sources as saying that he then used an axe to try to break it down .", 
+                "he is profiled ,"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090256", 
+            "title": "", 
+            "text": [
+                "meanwhile an international team is collecting information on the victims from their relatives ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32090253", 
+            "title": "", 
+            "text": [
+                "france 's gendarmerie nationale has", 
+                "# crasha320 le laboratoire mobile , equipe de materiels analytiques , premier maillon de la cha\u00eene d'identification # adn", 
+                "@ twitterid # crasha320 laboratoire mobile , equipe de materiels analytiques,1er maillon cha\u00eene d'identification # adn", 
+                "@ twitterid bel equipement , dommage qu'on en parle pas plus aux info !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090252", 
+            "title": "", 
+            "text": [
+                "lucy burns , in duesseldorf , says andreas lubitz 's apartment building is in a quiet cul-de-sac on the outskirts of the suburb of unterbach .", 
+                "she says it 's around a 20-minute drive from the airport and not far from unterbacher see , a large lake with sport and leisure facilities including a number of running trails where lubitz , a keen runner , may have practised ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090250", 
+            "title": "", 
+            "text": [
+                "the bbc 's tim willcox , in seyne-les-alpes , says helicopters based there are travelling to and from the crash site with plastic boxes for the retrieval of body parts .", 
+                "these will be brought to a temporary mortuary where efforts will begin to identify them ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32090251", 
+            "title": "", 
+            "text": [
+                "relatives of crash victims who have chosen to travel to the french alps can pay their respects at a memorial set up in the hamlet of le vernet , close to the crash site .", 
+                "the site itself is in a remote mountain valley , hard to access without helicopter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32089687", 
+            "title": "", 
+            "text": [
+                "the parents of robert oliver , one of three americans on board the flight , have said they are taking solace from memories of their son .", 
+                "his father , robert oliver calvo , said he felt no anger towards andreas lubitz , adding : `` i 'm really sad for those parents of that young pilot .", 
+                "i ca n't imagine what they 're going through right now . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32088757", 
+            "title": "", 
+            "text": [
+                "a passenger on board a germanwings flight two days after the crash has shared a moving experience on facebook ,", 
+                "he said that he and his crew had families , and that he would do `` everything to be with his family again tonight .", 
+                "it was completely silent ''", 
+                "`` he understood what everybody was thinking .", 
+                "and that he managed to give , at least me , a good feeling for this flight . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32088755", 
+            "title": "", 
+            "text": [
+                "the lsc westerwald aviation club , where andreas lubitz first learned to fly ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32088973", 
+            "title": "", 
+            "text": [
+                "tom bateman , in andreas lubitz 's home town ,", 
+                "ernst mueller , 74 , says flying club of andreas lubitz had group trips to france & overflew seyne region of # alpscrash", 
+                "@ twitterid why publish this guy 's age ?", 
+                "how is it relevant ?", 
+                "lubitz avait deja vole dans les alpes , pr\u00e8s de seyne , avec son club , selon un ancien pilote du coin , ernst mueller , 74 , via @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32088972", 
+            "title": "", 
+            "text": [
+                "students from germany 's joseph koenig school arrive for the memorial service to their friends killed in the crash ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32088749", 
+            "title": "", 
+            "text": [
+                "more from the german president , joachim gauck , who attended a memorial service in haltern am see for the 16 students and two teachers from a local school who were killed in the germanwings crash .", 
+                "he gave a brief statement afterwards :", 
+                "`` we ca n't reverse all the suffering , but regardless of that , we all have arms and hands and hearts to help where we can , and we 'll do that when we hold the bereaved close and show them our solidarity . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32088971", 
+            "title": "", 
+            "text": [
+                "police remain outside the duesseldorf apartment building where lubitz lived ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32087894", 
+            "title": "", 
+            "text": [
+                "neighbours of andreas lubitz have said they believed was in good physical shape : `` he definitely did not smoke .", 
+                "he really took care of himself .", 
+                "he always went jogging .", 
+                "i am not sure whether he did marathons , but he was very healthy , '' johannes rossmann told the associated press ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32087788", 
+            "title": "", 
+            "text": [
+                "andreas lubitz had taken time out from his pilot training , according lufthansa , the parent company of germanwings , but the airline did not specify why .", 
+                "german media have reported that he had suffered from `` severe depression '' in the past .", 
+                "according to reports , the 27-year-old had recently had a `` crisis '' in his relationship with his girlfriend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32087892", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32087794", 
+            "title": "", 
+            "text": [
+                "the bbc 's bethany bell", 
+                "wreath to victims of # germanwings plane crash at barcelona airport"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32087891", 
+            "title": "", 
+            "text": [
+                "the statement from the state prosecutor , ralf herrenbrueck , does not specify the nature of the existing illness mentioned in the documents , for which lubitz was apparently receiving medical treatment .", 
+                "french colleagues have been informed of the findings , he said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32087890", 
+            "title": "", 
+            "text": [
+                "a full evaluation of lubitz 's treatment records will take several days , the prosecutor says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32087889", 
+            "title": "", 
+            "text": [
+                "some material had been ripped up and included current sick notes covering the day of the crash , prosecutors say ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32087888", 
+            "title": "", 
+            "text": [
+                "german prosecutors did not find a suicide note or a confession at the co-pilot 's apartments , nor did they find any evidence of a political or religious background to the events ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086844", 
+            "title": "breakingbreaking news", 
+            "text": [
+                "german prosecutors in duesseldorf say documents found at the dead co-pilot 's apartments suggest he concealed the extent of his illness from his employers and authorities ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086843", 
+            "title": "assistance centre", 
+            "text": [
+                "germanwings is setting up an assistance centre in marseille for relatives and friends of the victims .", 
+                "the centre will open on saturday .", 
+                "the airline is providing another flight for family members from barcelona on friday .", 
+                "chief executive thomas winkelmann said in a statement that `` in these dark hours we must give our full attention to the emotional support of the relatives and friends '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086842", 
+            "title": "", 
+            "text": [
+                "germany 's president , joachim gauck , is attending a memorial service in the town of haltern am see for the 16 students and two teachers at the town 's high school who were killed on their way back from an exchange trip to spain ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32086921", 
+            "title": "cockpit rules", 
+            "text": [
+                "airlines across the world"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086836", 
+            "title": "", 
+            "text": [
+                "the bbc 's tom bateman , in montabour ,", 
+                "some in montabaur including aviation club chairman worried french prosecutor has jumped to conclusions re andreas lubitz # alpscrash", 
+                "@ twitterid ( cont ) and try to open cabin , but finger being stuck trying to open it , keep it closed inadvertedly ?", 
+                "?", 
+                "@ twitterid i 'd like 2 know if in emerg situation ( ie stroke ) , if pilot out of cabin , a co-pilot might descend to alert pilot , ( cont )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086840", 
+            "title": "", 
+            "text": [
+                "the", 
+                "`` we caution against hasty decisions that might make it more , not less , difficult for people with depression to receive appropriate treatment .", 
+                "this will not help sufferers , families or the public . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32086838", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086917", 
+            "title": "", 
+            "text": [
+                "a makeshift memorial has been created in le vernet , the closest point families can get to the crash site ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32086915", 
+            "title": "'psychological autopsy '", 
+            "text": [
+                "professor robert bor , a clinical aviation psychologist , said investigators would in effect be conducting a `` psychological autopsy '' on lubitz .", 
+                "`` this person would have left footprints in his personal life which are likely to point to some of the issues that he might have been experiencing .", 
+                "and this could be anything from emails , websites he 'd been looking at , texts , obviously , his financial records , his health records and of course interviewing all those people with whom he worked or to whom he was related to try to understand whether there was anything about him which would have indicated that he was becoming unstable mentally . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "10:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32085910", 
+            "title": "", 
+            "text": [
+                "anna holligan in montabour , rhineland palatinate ,", 
+                "three police vans approach co-pilot andreas lubitz family home # germanwings"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32085480", 
+            "title": "", 
+            "text": [
+                "meanwhile recovery operations are continuing at the site of the crash in the french alps .", 
+                "specialist workers are still hunting for the second black box recorder from the flight ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32085479", 
+            "title": "", 
+            "text": [
+                "investigations centre on this man , andreas lubitz ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32085907", 
+            "title": "", 
+            "text": [
+                "german tabloid bild reports that lubitz had suffered from a `` severe depressive episode '' in 2009 .", 
+                "a note in his file with the german federal aviation authorities indicated that he should be subject to regular medical examinations , the paper reports , presumably because of his history of mental health difficulties ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32085905", 
+            "title": "", 
+            "text": [
+                "german police have seized items from the home of andreas lubitz , the co-pilot who french prosecutors say deliberately crashed the plane .", 
+                "read the latest bbc news article on the investigation"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32085903", 
+            "title": "", 
+            "text": [
+                "welcome to the bbc 's live coverage as investigations continue into tuesday 's plane crash in the southern french alps , which killed 150 people ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:34"
+        }
+    ], 
+    "genre": "", 
+    "quality": "high"
+}

@@ -1,0 +1,542 @@
+{
+    "blog_id": "5654115cafdee05060e8cd5db96b753835ed91c9", 
+    "title": "Latest updates: Leicestershire Live on Monday 27 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-39382547", 
+    "summary": [
+        "updates for monday 27 march 2017 .", 
+        "two arrested for fatal beaumont leys stabbing .", 
+        "sex offender fails to reverse guilty plea .", 
+        "scheme launched to protect cyclists .", 
+        "barrow upon soar bridge reopens after collapse .", 
+        "selby beats stefanov in china open .", 
+        "news , sport , travel and weather updates resume at 08:00 tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d94154e4b033806f503613", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live - updates will start again on tuesday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d93bdfe4b0762b96cdf69a", 
+            "title": "weather : dry start to tuesday with some rain in the afternoon", 
+            "text": [
+                "becoming fairly cloudy through this evening with the risk of some patchy mist and fog through the night .", 
+                "staying dry through the night with light winds and lows of around 5c ( 41f ) .", 
+                "a rather grey , misty start on tuesday but cloud will break up through the morning to give some brighter spells at times .", 
+                "dry through the morning , but some scattered showers will develop through the afternoon , especially further west , and some of these could be rather heavy and thundery ."
+            ], 
+            "author": [
+                "Jennifer Bartram", 
+                "BBC weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d93ab9e4b0a714a98f630d", 
+            "title": "your comments : scheme to promote cyclists ' safety", 
+            "text": [
+                "here 's another comment from a local live reader on the new police scheme to get drivers to keep a safe distance when passing cyclists", 
+                "cyclists should be made to use cycle ways where they are provided or face a fine if they cycle on the road .", 
+                "councils have spent time and money upgrading footpaths .", 
+                "also cyclists should have to pass a test to cycle on the road , pay the same fines and obey the same rules as motorists if they use the road . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d938d6e4b033806f5035ed", 
+            "title": "mp apologises for failing to declare a financial interest in hs2", 
+            "text": [
+                "the mp for north west leicestershire has apologised to the commons after failing to declare a financial interest during a parliamentary debate on the hs2 .", 
+                "conservative andrew bridgen , who opposes the high speed rail link , sold his home 500 yards from the proposed route under what 's called the exceptional hardship scheme .", 
+                "he received more than \u00a3 1.8m from the sale but had paid \u00a3 2.1m when he bought the property more than six years ago .", 
+                "raising a point of order in the commons to apologise , he said : `` i should have declared that , due to a court order caused by my divorce , i was in the final act of selling my house to hs2 under the extreme hardship scheme .", 
+                "`` i 've sought to co-operate with the commissioner for standards throughout this inquiry , i 've never made any secret of how close hs2 was running to my then-property in north west leicestershire , and this in no way clouded my view of the hs2 project , a project i opposed before the route was announced , during my interest and since .", 
+                "`` i apologise to the house profusely for any omissions i may have made . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d92a57e4b033806f5035ad", 
+            "title": "pride festival at risk of cancellation", 
+            "text": [
+                "organisers of leicester pride have said this year 's festival might not go ahead because of problems with funding .", 
+                "the lesbian , gay , bisexual and transgender festival is due to take place at victoria park on the first weekend in september but more money is `` urgently '' needed .", 
+                "organiser simon harrison told the bbc they need to find about \u00a3 10,000 in the next couple of weeks otherwise the event will be cancelled .", 
+                "the event normally attracts about 10,000 people ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d92a9ee4b0762b96cdf650", 
+            "title": "travel : traffic queuing in anstey", 
+            "text": [
+                "# anstey temporary lights at the nook .", 
+                "traffic is already back onto the a46 slip road .", 
+                "slow on all approaches avoid if you can"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d92637e4b0762b96cdf63f", 
+            "title": "snooker : selby beats stefanow in china open", 
+            "text": [
+                "leicester 's mark selby has beaten adam stefanow 5-3 in his opening match at the china open in beijing ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d918f6e4b033806f503565", 
+            "title": "your comments : scheme to promote cyclists ' safety", 
+            "text": [
+                "a local live reader has been in touch about leicestershire police 's new scheme to get drivers to keep a safe distance from cyclists", 
+                "`` perhaps cyclists should be instructed not to ride three abreast on narrow country roads as they do around here .", 
+                "it is not always motorists who are at fault .", 
+                "cyclists can be very inconsiderate and also frequently ignore red traffic lights , in my experience . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d9060ee4b0762b96cdf5ab", 
+            "title": "homes for homeless soldiers in coalville", 
+            "text": [
+                "four ex-servicemen who were sleeping rough in leicestershire have been given new homes thanks to a partnership between north west leicestershire district council and the coalville charity once we were soldiers .", 
+                "one of them is pete ( middle ) who was in the raf .", 
+                "he said : `` i could n't wish for anything else .", 
+                "it makes life worth living again . ''", 
+                "alongside pete in this photo are andy and fergus from the charity who say they can relate to the men they work with .", 
+                "up until last year fergus was homeless after serving in the gulf , bosnia , cyprus , northern ireland and iraq .", 
+                "andy told bbc radio leicester he was also homeless when he first came out the army .", 
+                "he said he was sofa-surfing with a newborn baby ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8e792e4b033806f503499", 
+            "title": "man fails to change guilty plea for sex offences", 
+            "text": [
+                "i 'm at leicester crown court for the appearance of michal podlaszczyk who 's pleaded guilty to sex offences in a city park .", 
+                "podlaszczyk wants to change his plea - the court has been told the defendant was suffering from mental illness at time of the sex offences in a park .", 
+                "the judge wo n't allow a plea change and adjourned the case to 6 april for sentencing ."
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d9016be4b033806f50350b", 
+            "title": "your photos : sunny sunday in loughborough", 
+            "text": [
+                "paul blackwell has shared these lovely photos with us - they were taken yesterday in queens park in loughborough"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8ec86e4b0762b96cdf538", 
+            "title": "two arrested in beaumont leys stabbing case", 
+            "text": [
+                "two people have been arrested in connection with the murder of a man in leicester .", 
+                "a 19-year-old man was arrested on sus of murder and a 21-year-old woman for assisting an offender .", 
+                "both are in police custody .", 
+                "a post-mortem examination revealed the 22-year-old man found fatally injured on canonsleigh road yesterday had been stabbed ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8e48be4b0762b96cdf515", 
+            "title": "tigers players show support for mauger after beating rivals", 
+            "text": [
+                "aaron mauger had his last game in charge of leicester tigers on saturday - and what a game it was !", 
+                "tigers beat rivals northampton saints 31-36 at franklin 's gardens .", 
+                "some players took to twitter after the game to show their emotions about their coaches exit", 
+                "great to send mage off with an away derby day win !", 
+                "support was unreal as was the boys resilience !", 
+                "well done boys .", 
+                "# thankyoumage .", 
+                "and hope your and @ twitterid heads are okay .", 
+                "so proud of you all , we have aaron the send off of all send offs .", 
+                "enjoy your break and see you at twickenham x", 
+                "great game today @ twitterid - proper tigers heart and soul from that team & a tribute to a good man .", 
+                "now onward & upward !", 
+                "well played freddie .", 
+                "hope injury not too bad .", 
+                "great showing from all freddie .", 
+                "have a good few weeks rest !", 
+                "do n't suppose the bang on the head has made you see sense and your staying now !", 
+                "!", 
+                "hope the head is ok ?", 
+                "enjoy the celebrations # tigers # mage # onceatigeralwaysatiger # bringonthefalcons", 
+                "fantastic to watch .", 
+                "heart in mouth moments but you guys did mage proud .", 
+                "was cheering on tigers fro glaws", 
+                "thanks freddie , you and the rest of the boys need to finish the job now # twickenhamx2 # tigersontour", 
+                "so chuffed for the group today - the result and the performance is a huge credit to mage , who is a top top bloke - # wegoagain"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8d9f3e4b033806f50345e", 
+            "title": "leicester mercury front page", 
+            "text": [
+                "the police and social services have been criticised for not prosecuting a self-confessed paedophile who sexually abused his step-daughter in the 1980s - leaving him free to foster a vulnerable teenage girl whom he twice made pregnant ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8ccf7e4b033806f50342a", 
+            "title": "scheme to protect cyclists launched in leicestershire", 
+            "text": [
+                "drivers that get too close to cyclists in leicestershire could find themselves getting a lesson from the police .", 
+                "the force here is adopting a scheme started in west midlands called # givespacebesafe .", 
+                "plain clothes officers on bikes pull over motorists seen driving too close to cyclists - they then show them exactly how much room they should be giving .", 
+                "it 's resulted in a drop in the number of close-passes reported to them , west midlands police said .", 
+                "eric ludlow is from the leicester cycling campaign group - he said : `` if you 're riding along and something comes so close that you can touch it , at any kind of speed , it really does frighten you .", 
+                "`` i 've been cycling for some time but it you were young or inexperienced chances are that would put you off for good .", 
+                "`` it 's intimidating , it 's frightening , it should n't happen . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c05ee4b033806f5033f2", 
+            "title": "football : goalkeeper 's leicester warning for stoke city players", 
+            "text": [
+                "the stoke city goalkeeper lee grant says they should n't underestimate leicester city this weekend .", 
+                "the potters are back in action on saturday after the international break and grant told bbc radio stoke that the players will need to be on top form .", 
+                "they were the champions of this country just short of 12 months ago so it will be a tough ask , going away from home in the premier league is never easy in any circumstances , so we know we 'll have to be right on our mettle . ''"
+            ], 
+            "author": [
+                "Matt Sandoz", 
+                "Stoke City commentator, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8c86be4b033806f503418", 
+            "title": "snooker : selby in china open", 
+            "text": [
+                "leicester 's mark selby takes on adam stefanow in the opening round of the china open today .", 
+                "play 's due to begin at 19:30 local time ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8bee5e4b0a714a98f60ec", 
+            "title": "concern over 'racist ' police form to be raised", 
+            "text": [
+                "the government is to respond to fears a police risk assessment form has been used in a `` racist '' way to target grime artists , the bbc understands .", 
+                "promoters and licensees in many areas are asked to complete a `` form 696 '' before hosting some music events featuring `` djs and mcs '' .", 
+                "the victoria derbyshire programme has found some forces , such as leicestershire police , still ask for the ethnic make-up of the audience attending and the music genre being played at an event , on the form .", 
+                "leicestershire police said its form was under review and its contents may change , but gave no date for when this may happen ."
+            ], 
+            "author": [
+                "Victoria Derbyshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c152e4b033806f5033f8", 
+            "title": "watch : east midlands weather", 
+            "text": [
+                "watch : east midlands weather"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8bca6e4b0a714a98f60e4", 
+            "title": "barrow upon soar bridge to reopen after collapse", 
+            "text": [
+                "cast your mind back eight months and you might remember us telling you about the railway bridge in barrow upon soar collapsing", 
+                "parts of the bridge fell onto the midland mainline in august 2016 and the bridge has been closed ever since while repairs were made .", 
+                "well - work is now complete and it will reopen to vehicles today .", 
+                "network rail said it has removed 200 tonnes of debris , restored the brick parapet wall , reconnected gas and water mains which run through the bridge and resurfaced the road .", 
+                "this is what it looks like this morning", 
+                "repairing this bridge has been a huge project .", 
+                "work to repair old bridges such as this one are complicated and can run into unforeseen challenges .", 
+                "i appreciate that the work has caused disruption to those living in the area and i apologise for this . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b718e4b033806f5033bc", 
+            "title": "man murdered in beaumont leys", 
+            "text": [
+                "a murder investigation has been launched after a man was found with fatal injuries in a residential parking area in leicester .", 
+                "the 22-year-old was found on canonsleigh road in the beaumont leys area yesterday morning - he died later in hospital .", 
+                "he 's thought to have been assaulted in the car park .", 
+                "officers are working to establish the exact circumstances surrounding the man 's death .", 
+                "i am keen to hear from anyone who saw what happened or who has information about how the man sustained his injuries . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b43de4b0762b96cdf42e", 
+            "title": "foxes ' vardy gets england goal", 
+            "text": [
+                "leicester city 's jamie vardy helped england to .", 
+                "victory against lithuania yesterday with a goal in the 66th minute", 
+                "the win means england are a step closer in their qualifying campaign for next year 's world cup ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8b2c8e4b0a714a98f60b3", 
+            "title": "join us for today 's live news coverage", 
+            "text": [
+                "good morning leicestershire - i hope you 're well this monday morning .", 
+                "i 'll be writing your local live page today with all with all the latest news , sport , weather and travel .", 
+                "if you 'd like to comment on any of the stories on this page you can send an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:30"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

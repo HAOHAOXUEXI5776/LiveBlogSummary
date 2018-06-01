@@ -1,0 +1,976 @@
+{
+    "blog_id": "5b3a77b6b9f662e7e497e16bb1068102a5d4ae25", 
+    "title": "BBC Local Live: Merseyside on Friday 20 May 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-merseyside-36337750", 
+    "summary": [
+        "cammell laird confirms it is to cut 68 jobs at its shipyard in birkenhead .", 
+        "liverpool john lennon airport is evacuated after a problem with the scanner leads to a security alert .", 
+        "elderly woman dies after her car plunges into the water at the docks in waterloo , liverpool .", 
+        "queen tribute band apologises after a band member wore a sun t-shirt in a show in liverpool .", 
+        "three liverpool men are convicted of \u00a3 130,000 cash machine raids in aberdeenshire .", 
+        "updates on friday 20 may ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f363fe4b05ae906b0b6ea", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates from merseyside and west cheshire have finished for the day , but we 'll be back from 08:00 on monday with the latest news , sport , weather and travel from around the region ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f3115e4b0affe8ad094e1", 
+            "title": "weather : some heavy rain", 
+            "text": [
+                "rain spreading eastwards , with some heavier and more persistent outbreaks developing over higher ground .", 
+                "turning breezy , as freshening south-westerly winds develop along the coast through the night ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f29f3e4b05ae906b0b698", 
+            "title": "pc dave phillips to be awarded freedom of wirral", 
+            "text": [
+                "a merseyside police officer , described as a hero after being killed in the line of duty , will receive wirral 's highest honour this evening .", 
+                "pc dave phillips died when he was hit by a stolen truck in wallasey last year .", 
+                "his family will attend a special ceremony where he will be posthumously awarded the freedom of the borough ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f28f0e4b0affe8ad094ae", 
+            "title": "plain packaging introduction 'could cut smokers '", 
+            "text": [
+                "the liverpool-based roy castle lung cancer foundation says there is evidence that plain packaging on cigarettes would reduce the number of smokers .", 
+                "all new packets of cigarettes on sale in the uk now have to be in plain packaging with graphic health warnings ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ed798e4b020b885362367", 
+            "title": "man , 67 , arrested over runcorn bomb hoax", 
+            "text": [
+                "a 67-year-old man has been arrested over a hoax bomb threat in runcorn .", 
+                "it was made from a phone box in high street early on thursday morning and claimed a device was inside a shopping centre .", 
+                "the man is now being questioned ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f2b45e4b0affe8ad094bb", 
+            "title": "drugs gang jailed over \u00a3 6m heroin haul inside furniture", 
+            "text": [
+                "a gang that smuggled heroin with a street value of \u00a3 6m inside a shipment of furniture has been jailed .", 
+                "hafiz akhtar , 34 , mohammed yaqub , 34 , and abdul wahid , 37 , were sentenced to 15 years , 11-and-a-half years and seven years respectively at manchester minshull street crown court .", 
+                "the consignment was found inside a shipping container sent from pakistan to royal seaforth docks in liverpool in april 2012 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f238be4b020b88536250f", 
+            "title": "apology over 'the sun ' t-shirt", 
+            "text": [
+                "the singer in the queen tribute band has apologised on bbc radio merseyside after the band 's guitarist wore a t-shirt with the sun newspaper 's logo on during a show in liverpool .", 
+                "many audience members walked out of the empire theatre when the bass guitarist performed in the top .", 
+                "singer gary mullen insists it was just a costume and the band had no idea how the newspaper was viewed in merseyside ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f3060e4b020b885362559", 
+            "title": "latest headlines for merseyside and west cheshire", 
+            "text": [
+                "this evening 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f2237e4b020b885362508", 
+            "title": "residents shocked over death of woman whose car plunged into dock", 
+            "text": [
+                "residents of a liverpool dockland apartment block have spoken of their shock after an elderly woman died when her car ploughed into the water ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f2446e4b020b885362513", 
+            "title": "'no security threat ' at john lennon airport", 
+            "text": [
+                "officials at liverpool john lennon airport insist there is no security threat - after the departure lounge had to be evacuated .", 
+                "there was a technical problem with a scanning machine so all passengers were removed and their luggage had to be re-checked .", 
+                "at no stage was there a threat to passenger safety , an airport spokesperson confirmed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef8dfe4b020b885362436", 
+            "title": "soldier callum cowan found dead at his barracks in germany", 
+            "text": [
+                "a soldier from st helens serving with the british army was found dead at his barracks in germany , an inquest has heard ."
+            ], 
+            "author": [
+                "St Helens Star"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f17e2e4b0affe8ad09449", 
+            "title": "dartmoor prison kitchen knife killer given life term", 
+            "text": [
+                "a convicted killer from liverpool who stabbed a fellow inmate to death with a knife he had been given to chop vegetables has been given another life sentence .", 
+                "william tolcher , 51 , killed alex cusworth in the kitchen of dartmoor prison last november .", 
+                "tolcher was already 15 years into a life sentence for murdering a woman in newquay in 1996 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f2808e4b0affe8ad094aa", 
+            "title": "cammel laird jobs to go", 
+            "text": [
+                "cammell laird has confirmed it is cutting 68 jobs at its shipyard in birkenhead .", 
+                "the company , which is set to build the polar research ship which the public voted to name boaty mcboatface , says it needed to address its cost base to remain competitive .", 
+                "the union unite said a ballot for possible industrial action over the redundancies closes on monday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f0902e4b020b885362485", 
+            "title": "hillsborough survivor meets 'hero ' rescuer after viral appeal", 
+            "text": [
+                "a hillsborough survivor has finally met the man who pulled him from the crush as an eight-year-old boy 27 years ago .", 
+                "joe smith , 35 , launched a facebook appeal after seeing himself on the shoulders of his rescuer while watching a bbc two documentary ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ef90de4b05ae906b0b585", 
+            "title": "group of men and teenagers charged with serious sex offences are named", 
+            "text": [
+                "fourteen men and teenagers accused of rape have been named ."
+            ], 
+            "author": [
+                "Chester Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f2574e4b05ae906b0b680", 
+            "title": "david ginola has quadruple heart bypass", 
+            "text": [
+                "former france winger david ginola is recovering in hospital in monaco after a quadruple heart bypass operation .", 
+                "the 49-year-old former newcastle , tottenham , aston villa and everton player - who retired in 2002 - collapsed in the south of france on thursday .", 
+                "he tweeted to say : `` hello world , never slept better .", 
+                "i 'm fine , just need to rest a bit . ''", 
+                "hello world , never slept better .", 
+                "i 'm fine , just need to rest a bit .", 
+                "thank you so much all of you for your magnificent support .", 
+                "can u take a selfie so i can relax my hearts in my mouth !", 
+                "the guy has just had heart surgery & you 're asking him to 'take a selfie ' # 21stcenturyproblems", 
+                "we did n't know this at the time , also i was concerned some was tweeting while he was rumoured to be in coma .", 
+                "do n't judge !", 
+                "he tweeted saying he was fine & needed rest & you 're asking him for a selfie .", 
+                "truly embarrassing", 
+                "it was n't him tweeting u moron !", 
+                "jog on ! ! ! ! !", 
+                "!", 
+                "get well soon david .", 
+                "pleased to hear it pal !", 
+                "!", 
+                "so shocked and worried about your news .", 
+                "stay strong & healthy and your fans will always be supporting and loving you", 
+                "take it easy david .", 
+                "your legion of fans in the uk will be glad that you are making a good recovery .", 
+                "great news !", 
+                "tottenham hotspur fc audere es facere facebook fan page send best wishes to you for your recovery - rest up and come back well", 
+                "get well soon david .", 
+                "great to hear you 're on the mend .", 
+                "# spurslegend # coys", 
+                "good to hear .", 
+                "get well soon # coys", 
+                "god bless", 
+                "so pleased you are on the mend xx", 
+                "get well soon david", 
+                "one of the best players ever to wear a spurs shirt .", 
+                "good luck in your recovery legend .", 
+                "so pleased and relieved to hear you are on the mend .", 
+                "take care ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f02dfe4b05ae906b0b5cc", 
+            "title": "liverpool men convicted of \u00a3 130,000 atm raids", 
+            "text": [
+                "thieves have been found guilty of using explosives to blow up cash machines in a series of raids which netted more than \u00a3 130,000 across aberdeenshire .", 
+                "joseph mchale , 38 , kevin schruyers , 42 , and robin vaughan , 43 , all from liverpool , were part of a gang who targeted atms ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f15f2e4b0affe8ad09437", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f0989e4b05ae906b0b5f3", 
+            "title": "jobs boost for chester based bank of america merrill lynch", 
+            "text": [
+                "around 1,000 jobs are due to come to bank of america merrill lynch in chester by 2020 ."
+            ], 
+            "author": [
+                "Phil McCann", 
+                "Cheshire Political Reporter, BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f0ef8e4b020b8853624a4", 
+            "title": "liverpool airport security error delays 1,000 passengers", 
+            "text": [
+                "up to 1,000 passengers were barred from boarding flights at liverpool john lennon airport because of a security incident .", 
+                "the departure lounge was evacuated at about 12:00 because of a technical problem with one of the scanning machines ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f0237e4b05ae906b0b5c9", 
+            "title": "convicted killer who stabbed inmate sentenced to life", 
+            "text": [
+                "a convicted killer who stabbed a fellow prisoner to death with a prison-issue kitchen knife , has been sentenced to life imprisonment with a minimum term of 33 years .", 
+                "alex cusworth ( 37 , was stabbed by 51-year-old william tolcher in dartmoor prison last november .", 
+                "a jury at plymouth crown court found tolcher guilty yesterday .", 
+                "tolcher , from liverpool , was already 15 years into a life sentence for murdering a woman in newquay in 1996 .", 
+                "the court heard he had 30 convictions for 72 offences .", 
+                "the judge said : `` the parole board may never consider you fit for release i am sure you are an extremely dangerous man because you have murdered two persons . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573edb3fe4b020b885362382", 
+            "title": "elderly residents preyed on in spate of distraction burglaries", 
+            "text": [
+                "elderly residents have been targeted during a spate of distraction burglaries in newton-le-willows ."
+            ], 
+            "author": [
+                "St Helens Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f0a16e4b020b885362489", 
+            "title": "airport : passengers re-enter departure lounge after evacuation", 
+            "text": [
+                "airport : passengers re-enter departure lounge after evacuation"
+            ], 
+            "author": [
+                "Bay TV", 
+                "Bay TV Liverpool"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573f0866e4b020b885362480", 
+            "title": "airport : statement from liverpool john lennon airport", 
+            "text": [
+                "please follow the link for the official statement on the removal of passengers from departures", 
+                "always better to be safe than sorry x", 
+                "exactly polly !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ef7d0e4b0affe8ad09396", 
+            "title": "travel : rail disruption at liverpool moorfields", 
+            "text": [
+                "trains are n't stopping on merseyrail northbound at liverpool moorfields due to engineering works .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef368e4b0affe8ad0937b", 
+            "title": "witnesses sought as woman dies after car plunges into waterloo quay", 
+            "text": [
+                "a woman 's died after her car plunged into a dock in liverpool .", 
+                "the accident happened at waterloo quay this morning .", 
+                "officers are working to identify the woman and contact her next of kin .", 
+                "witnesses are asked to contact the the roads policing team on 0151 777 5747 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573f006fe4b05ae906b0b5bb", 
+            "title": "airport : no security threat after terminal evacuated", 
+            "text": [
+                "officials at liverpool john lennon airport insist there is no security threat after the terminal had to be evacuated .", 
+                "there was a technical problem with a scanning machine so all passengers were removed from the departure lounge and their luggage is now being re-checked .", 
+                "at no stage was there a threat to passenger safety .", 
+                "the latest flight information can be found here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef651e4b020b885362428", 
+            "title": "watch : hillsborough survivor reunited with man who saved his life", 
+            "text": [
+                "joe smith appealed on facebook to find the man who carried him away from the packed terraces at hillsborough .", 
+                "he saw john mcmahon on a bbc two documentary ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef983e4b020b88536243a", 
+            "title": "liverpool airport evacuation : latest flight information", 
+            "text": [
+                "please visit for the latest on the removal of passengers from ljla .", 
+                "there is no threat to passenger security ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef83be4b0affe8ad0939a", 
+            "title": "liverpool airport evacuation : 'no threat to passengers '", 
+            "text": [
+                "liverpool airport has been evacuated .", 
+                "this is the statement on its website :", 
+                "removal of passengers from departure lounge 20/05/16 : due to a technical problem with one of the airport 's passenger scanning machines , all passengers have been removed from the departure lounge and are currently in the process of being rescreened .", 
+                "there is no threat to passenger safety"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eeeeee4b020b8853623fb", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ef60be4b0affe8ad0938d", 
+            "title": "liverpool airport evacuated after security alert", 
+            "text": [
+                "liverpool airport is being evacuated after a security alert ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ef32ce4b05ae906b0b561", 
+            "title": "hillsborough survivor finally meets man who rescued him", 
+            "text": [
+                "a hillsborough survivor has finally met the man who pulled him from the crush as an eight-year-old boy 27 years ago .", 
+                "joe smith , 35 , launched a facebook appeal after seeing himself on the shoulders of his rescuer while watching a bbc two documentary .", 
+                "the post was shared 145,000 times and was seen by john mcmahon who had hoisted joe on to his shoulders to get him away from the packed terraces .", 
+                "he sent a message saying : `` hey the person you 're looking for - it 's me . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573eb91de4b05ae906b0b41c", 
+            "title": "merseyside families living with dementia make films about their memories", 
+            "text": [
+                "merseyside families who are living with dementia have helped to make and star in a series of short films about the disease .", 
+                "the reflections project saw people with dementia record their memories on film during a series of workshops - the films were screened at woolton picture house ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "19:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573eea52e4b020b8853623e2", 
+            "title": "warrington care home stabbing : woman , 66 , detained", 
+            "text": [
+                "a woman has been arrested on sus of attempted murder after a 68-year-old woman was stabbed at a care home in cheshire , the bbc understands ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ed2e7e4b020b88536234e", 
+            "title": "weather : cloudy with bright spells and some rain later", 
+            "text": [
+                "nw : cloudy with brighter spells later .", 
+                "a few isolated showers to look out for .", 
+                "patchy rain this evening .", 
+                "17c"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ee697e4b05ae906b0b517", 
+            "title": "elderly woman dies after her car plunges into water at waterloo", 
+            "text": [
+                "an elderly woman has died after the car she was driving went into the water at waterloo quay .", 
+                "police and the fire service were called to the scene at 9:40 after reports of a car seen in the water .", 
+                "the woman was removed from the car and efforts were made to resuscitate her but sadly she later died in hospital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ee14ce4b0affe8ad092ff", 
+            "title": "a car has gone into water at waterloo dock in liverpool", 
+            "text": [
+                "a car has gone into water at waterloo dock in liverpool"
+            ], 
+            "author": [
+                "Bay TV", 
+                "Bay TV Liverpool"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ee3e5e4b05ae906b0b504", 
+            "title": "breakingcar plunges into docks at waterloo", 
+            "text": [
+                "a car went into the water this morning at the docks in waterloo .", 
+                "police and the fire service were called to the scene just after 9:30 this morning .", 
+                "more information to follow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ed2b1e4b020b88536234b", 
+            "title": "distraught dog owner warns others about risk of walking dogs in orford field", 
+            "text": [
+                "a distraught dog owner is warning people to take care while walking their pets after her dog died within hours of eating something sus on an orford field ."
+            ], 
+            "author": [
+                "Warrington Guardian"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eb86ae4b05ae906b0b418", 
+            "title": "pc dave phillips to be awarded freedom of wirral", 
+            "text": [
+                "a ceremony will be held at wallasey town hall later to posthumously award pc dave phillips the freedom of wirral .", 
+                "the 34-year-old was killed in october last year when he was struck by a stolen truck on the wallasey dock link road .", 
+                "council leader phil davies says pc phillips ' death `` touched the whole of merseyside '' , and serves as a reminder of `` the dangers police officers face '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ed5ede4b020b88536235e", 
+            "title": "suspect arrested on sus of attempted murder after stabbing in burtonwood", 
+            "text": [
+                "a 66-year-old woman was arrested on sus of attempted murder after a care home resident was stabbed multiple times in the back , neck and face ."
+            ], 
+            "author": [
+                "Warrington Guardian"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ed354e4b0affe8ad092a5", 
+            "title": "travel : birkenhead tunnel lane closed due to broken down bus", 
+            "text": [
+                "there is queuing traffic and one lane is closed in the birkenhead tunnel ( queensway ) inbound from the toll booths to liverpool city centre because of a broken down bus .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ed5c2e4b0affe8ad092b6", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ed419e4b05ae906b0b49f", 
+            "title": "southport air show wins people 's choice at liverpool city region tourism awards", 
+            "text": [
+                "sefton council 's tourism team are celebrating after winning the prestigious people 's choice award at the liverpool city region tourism awards ."
+            ], 
+            "author": [
+                "Southport Visiter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573eb3d2e4b05ae906b0b3fa", 
+            "title": "queen tribute act apologise for sun t-shirt 'oversight '", 
+            "text": [
+                "the lead singer of a queen tribute band has apologised after a member of the band wore a t-shirt with the sun 's logo on it during a show in liverpool last night .", 
+                "many audience members walked out of the empire theatre when the bass guitarist refused to change the top during the one night of queen event .", 
+                "on his twitter page the singer says `` we are trying to re-create the 1986 magic tour , and were completely unaware of the significance of the print worn we are devastated to have made this oversight . ''", 
+                "liverpool is one of our favourite cities , and we are devastated to have made this oversight .", 
+                "difficult situation that you recovered , well done : )", 
+                "thank , again our apologies , we were completely unaware of the situation .", 
+                "that was apparent & the vast majority of your audience knew that.inflammatory situation that you dealt with a good show x", 
+                "if it 's one of your favourite cities , how could you have not known the significance of that ?", 
+                "as i said in the interview today , it was an oversight on our part , and a genuine mistake .", 
+                "27 years a city has n't bought the sn and you call it 'an oversight ' ?", 
+                "i call it ignorance and stupidity .", 
+                "you handled it well .", 
+                "do n't beat yourselves up about it .", 
+                "it was a brilliant show and hope you will be back again soon .", 
+                "it was all handled well , as a member of the audience i could see this was a genuine mistake .", 
+                "you 'll never walk alone was g8", 
+                "the people who swore at you should be apologizing .", 
+                "you clearly did n't know .", 
+                "liverpool always loves you guys !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573ec257e4b0affe8ad09235", 
+            "title": "liverpool 's alder hey launch appeal to raise \u00a3 6m for next building phase", 
+            "text": [
+                "liverpool 's alder hey children 's hospital is launching an appeal to build the second phase of its world leading research centre that solely focuses on children 's medicine .", 
+                "the first phase of the institute in the park opened earlier this year , and they 're now trying to to raise \u00a3 6m to extend the building so they can develop better treatments for children and young people ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eb38ee4b0affe8ad091e4", 
+            "title": "travel : congestion at the rocket", 
+            "text": [
+                "slow traffic on the m62 and a5058 queens drive into liverpool at the rocket .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573ec41ae4b0affe8ad09241", 
+            "title": "david duckenfield 's wife : 'hillsborough has been terrible for us too '", 
+            "text": [
+                "the wife of shamed hillsborough match commander david duckenfield today claimed : it 's terrible for us too . ''", 
+                "- ann duckenfield also said she fears for her husband 's future ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_573eb9f4e4b020b8853622d6", 
+            "title": "dartmoor prison murder : convicted killer from liverpool guilty of stabbing", 
+            "text": [
+                "a convicted killer from liverpool has been found guilty of stabbing a fellow prisoner to death with a prison issue kitchen knife .", 
+                "william tolcher , 51 , denied attacking alex cusworth , 37 , with the 10in ( 23cm ) knife at dartmoor prison last november .", 
+                "a jury at plymouth crown court found him guilty of murder and he is due to be sentenced on friday .", 
+                "tolcher is serving a life sentence for the murder of a woman in newquay , cornwall , in 1996 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eb564e4b0affe8ad091f0", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eb342e4b0affe8ad091e1", 
+            "title": "weather : a mostly dry day but chance of rain later", 
+            "text": [
+                "scattered showers at first then mostly dry with some sunshine .", 
+                "it will cloud over later on so expect some spots of rain .", 
+                "highs of 17c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_573eb13ae4b020b8853622a1", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "hello from liverpool , i 'm here with all your news , sport , travel and weather updates from across merseyside and west cheshire today .", 
+                "if you 've got a story you 'd like me to hear about or a photograph you 'd like to share , you can contact me on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Jenny Coleman", 
+                "Reporter, BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-merseyside", 
+    "quality": "high"
+}

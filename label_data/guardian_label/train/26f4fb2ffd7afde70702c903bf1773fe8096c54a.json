@@ -1,0 +1,960 @@
+{
+    "blog_id": "26f4fb2ffd7afde70702c903bf1773fe8096c54a", 
+    "title": "Germany accelerates with 0.6% growth; US consumer confidence rallies \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/may/12/german-economy-gdp-accelerates-growth-us-inflation-retail-sales-business-live", 
+    "summary": [
+        "ftse 100 hits record closing high .", 
+        "closing summary .", 
+        "us consumer confidence rises again .", 
+        "us retail sales rise , but not as fast as hoped .", 
+        "us inflation drops to 2.2 % as core inflation dips .", 
+        "german finance minister : we need us leadership .", 
+        "while germany grows , britain faces pay squeeze ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5915d1f7e4b0762dda0ba5bc", 
+            "title": "closing summary", 
+            "text": [
+                "that 's all for today .", 
+                "here 's a quick closing summary .", 
+                "economists have hailed germany 's economic resilience after it grew by 0.6 % in the first quarter of the year , twice as fast as the uk and france .", 
+                "business investment , consumer spending and exports all helped germany 's gdp expand at a faster pace , up from 0.4 % in q4 2016 .", 
+                "some experts say it confirms that germany is still getting a competitive boost from the euro , which makes its exports more attractive to buyers outside the single currency .", 
+                "america 's economy continues to benefit from strong consumer confidence , with the university of michigan 's consumer sentiment index rising again .", 
+                "but us retail sales grew less than expected last month , and core inflation dipped - leaving wall street traders wondering if us interest rates may rise more gently than expected this year .", 
+                "matthew b ( @ boes ) market back to thinking just one more fed rate hike this year ( in june ) is a more likely scenario than two more after today 's inflation data britons woke up to fresh talk of falling real wages this year , and warnings that jobs and investment will be lost if a \u0080\u0098smooth brexit ' ca n't be achieved .", 
+                "but the country can also cheer its biggest ever investment in a private company , after virtual simulation firm improbable nailed a $ 500m investment .", 
+                "learn more here : what does $ 1bn tech firm improbable do ?", 
+                "thanks for reading and commenting .", 
+                "hope you have a great weekend .", 
+                "gw"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                15, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5915d553e4b0a8ea08b6d93d", 
+            "title": "ftse 100 hits record closing high", 
+            "text": [
+                "european stock markets have closed for the week , with britain 's blue-chip index leading the way .", 
+                "the ftse 100 finished 48 points higher at 7435 , a gain of 0.6 % .", 
+                "that 's just 12 points shy of its record intraday high , set in mid-march , and a new all-time closing high .", 
+                "the french cac and german dax both gained around 0.5 % .", 
+                "but chris beauchamp of ig sounds nervous , and suggests that the rally could be petering out it can not be said to have been the most exciting week in stock markets , despite the ftse 100 touching its highest level in over seven weeks with us earnings season out of the way , it looks like investors are fast running out of reasons to buy stocks .", 
+                "the attempt at a rally from earlier in the week has fizzled out , and while the decline has yet to turn into a full-blown rout , the number of fallers continues to outnumber the gainers , a sign that all is not well beneath the surface of the s & p 500 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                15, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915c73be4b0f5ae171e18e3", 
+            "title": "", 
+            "text": [
+                "us consumer sentiment is still sky-high , says michael pearce of capital economics , thanks to the stock market rally and strong jobs market .", 
+                "here 's his take on the michigan confidence report : the small increase in the university of michigan measure of consumer confidence leaves it at a level consistent with consumption growth rebounding to over 5 % annualised in the second quarter .", 
+                "spending growth is unlikely to rise quite that sharply , but this still suggests that the weak 0.3 % annualised gain in the first quarter was a one-off .", 
+                "the slight rise in the headline measure to 97.7 in may , from 97.0 was a little better than the consensus forecast for no change .", 
+                "the high level of consumer confidence is consistent with the strength of its underlying drivers ; labour market conditions are healthy , the stock market is close to a record high , and gasoline prices have remained low ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                14, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915c06ae4b0a8ea08b6d8e9", 
+            "title": "us consumer confidence rises again", 
+            "text": [
+                "us consumer confidence has risen has people become more optimistic about economic prospects .", 
+                "that 's according to the university of michigan 's closely watched confidence index , which has jumped to 97.7 from 97.0 in april , beating forecasts of a smaller rise to 97.2 .", 
+                "the survey 's tracker of current conditions was unchanged at 112.7 , but the expectations gauge rose pretty sharply , to 88.1 from 87.0 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                14, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915bd7fe4b0a8ea08b6d8db", 
+            "title": "", 
+            "text": [
+                "there are a couple of sharp moves on the london stock market today .", 
+                "pharmaceuticals firm astrazeneca has surged 9 % to the top of the ftse 100 leaderboard , after reporting that its immunotherapy drug , durvalumab , has been found to cut the risk of death in patients with advanced lung cancer .", 
+                "but petrofac , which provides services to the oil industry , has slumped by 13 % after telling shareholders that its chief executive and chief operating officer have been questioned by the serious fraud office .", 
+                "the sfo says the inquiry relates to an investigation into monaco-based unaoil , related to allegations of possible money-laundering and bribery ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                13, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915b928e4b0f5ae171e18a2", 
+            "title": "", 
+            "text": [
+                "wall street has just opened , cautiously , for the final trading day of the week .", 
+                "the dow jones and s & p 500 both dipped a little , while the nasdaq is creeping a little higher as the rally in tech stocks continues .", 
+                "reuters the dollar is coming under pressure , too , following the drop in core inflation an hour ago .", 
+                "that shows that traders are reassessing their expectations for us interest rate hikes this year .", 
+                "tv"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                13, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915b4d6e4b0a8ea08b6d8a8", 
+            "title": "", 
+            "text": [
+                "the drop in us core inflation last month is a headache for the federal reserve , says paul ashworth of capital economics .", 
+                "he says : to some extent , this new weakness in price inflation is due to competitive pressures rather than weak demand , so the fed can afford to discount it .", 
+                "but even under those circumstances , it increases the downside risks to our above-consensus view that the fed will hike interest rates three more times this year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                13, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915ad71e4b0f5ae171e1872", 
+            "title": "us retail sales rise , but not as fast as hoped", 
+            "text": [
+                "the us retail sales figures are a somewhat mixed bag .", 
+                "retail spending rose by 0.4 % in april , new figures show , missing forecasts of a 0.6 % rise .", 
+                "but it 's not all bad .", 
+                "march 's figure has been revised to a 0.1 % rise in spending , not the 0.2 % fall previously estimated .", 
+                "sales of furniture and home furnishings dipped by 0.5 % , while spending on electrical goods and appliances rose by 1.3 % .", 
+                "associated press has a good take : the increase suggests that consumers may spur faster growth in the april-june quarter after the economy barely expanded in the first three months of the year .", 
+                "the rise also indicates that the struggles of large retail chains , such as macy 's and jc penney 's , reflect changes in consumer buying patterns rather than broader economic weakness .", 
+                "sales at department stores fell 0.2 percent .", 
+                "yet a category that includes online retailers reported sales growth of 1.4 percent , the strongest of any group .", 
+                "cnbc ( @ cnbc ) us retail sales rose 0.4 % in april , vs 0.6 % increase expected"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                12, 
+                54
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915ab0be4b0f5ae171e1866", 
+            "title": "us inflation drops to 2.2 % as core inflation dips", 
+            "text": [
+                "here comes the deluge of us economic data and consumer prices rose by 0.2 % month-on-month in april , bang in line with forecasts .", 
+                "that follows a 0.3 % drop in march .", 
+                "housing , energy , tobacco , and food all contributed to the monthly increase in inflation , says the bureau of labor statistics .", 
+                "the energy index gained 1.1 % and the food index rose 0.2 percent , mostly due to a sharp increase in the index for fresh vegetables .", 
+                "the annual rate of cpi came in at 2.2 % , down from 2.4 % in march .", 
+                "but significantly , annual core inflation ( stripping out food and energy ) fell to 1.9 % .", 
+                "matthew b ( @ boes ) core inflation down to 1.9 % in the u.s. consumer price index , lowest since oct. 2015"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                12, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915a799e4b0f5ae171e1858", 
+            "title": "", 
+            "text": [
+                "a few more photos from the g7 finance ministers ' meeting in bari have arrived .", 
+                "italian economy minister pier carlo padoan ( left ) , bank of england governor mark carney ( centre ) and bank of italy governor ignazio visco ( right ) .", 
+                "fusco/epa italian finance minister pier carlo padoan told reporters that italy is pushing for more measures to fight inequality , saying : inclusive growth means first of all that growth has to be shared with all segment and regions of society , international monetary fund managing director christine lagarde medichini/ap christine lagarde is also in bari , and pushing european leaders to give more specific commitments to greece on debt relief .", 
+                "lagarde says : we will carry on working on this debt relief package .", 
+                "there is not enough clarity yet but i hope that the european partners will continue to progress in that .", 
+                "lagarde added that the imf 's position on greece has not changed , effectively dismissing reports that the fund had agreed to join the bailout .", 
+                "janet yellen , chair of the board of governors of the federal reserve system , flanked by padoan and visco .", 
+                "fusco/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                12, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915a1a8e4b0762dda0ba4ef", 
+            "title": "", 
+            "text": [
+                "germany 's success is due in no small part to the euro , says mihir kapadia , ceo of sun global investments .", 
+                "that 's because the single currency gives german exporters an extra competitive they would n't have with the deutsche mark ( which would surely trade at a higher exchange rate if it still existed ) .", 
+                "kapadia says : the german economy is firing on all cylinders , delivering a robust economic performance across all sectors supported by a surge in business investments and higher consumer spending .", 
+                "germany 's gross domestic product grew at a quarterly clip of 0.6 % , or 2.4 % in annualized terms , outpacing the likes of britain and france comfortably .", 
+                "the country may well be the top performer in the g7 .", 
+                "the only other major competitor could be canada .", 
+                "one of the most important factors to note here is that german trade is strong and helped by a undervalued euro , consistently delivering a trade surplus .", 
+                "it is now one of the most steady markets in europe and amongst developed economies ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                11, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59159d48e4b0762dda0ba4dc", 
+            "title": "", 
+            "text": [
+                "the pound has n't had a great morning , as worries over the uk 's economy linger .", 
+                "sterling has lost 0.25 % this morning to $ 1.2843 , a one-week low .", 
+                "yesterday , the bank of england trimmed its growth forecasts and warned that wages will lag behind inflation this year ( a message we 've heard again this morning ) .", 
+                "paresh davdra , ceo and co-founder of rationalfx says : the pound was down against major peers today despite the strength seen over the past week , mainly due to the reduction of the bank of england 's growth forecasts for 2017 which were cut from 2 % to 1.9 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                11, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915922ce4b0f5ae171e17ee", 
+            "title": "", 
+            "text": [
+                "germany 's strong growth in the last quarter is partly down to angela merkel 's open-door policy on refugees , argues timo klein , principal german economist at ihs markit .", 
+                "klein writes : private consumption continues to be underpinned by the ongoing improvement in labour market and income conditions and should thus overcome the recent setback related to the surge in headline inflation that has reduced real purchasing power .", 
+                "government consumption is being supported by expenditures for refugees .", 
+                "meanwhile , the construction sector may have received an extra boost in q1 from a mild winter , which will trigger a recoil effect in q2 , but a combination of large demographic pressure for residential building ( including pent-up demand ) , persistently favorable financing conditions , and government efforts to boost infrastructure investment will ensure strong growth impulses from this sector for many quarters to come .", 
+                "klein also believes german businesses have shed their worries over brexit and donald trump 's presidency , which is why they boosted capital spending .", 
+                "investors seem to have come to the conclusion that the threat of us president trump disrupting global trade patterns via protectionist measures has been overblown ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                10, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915728ae4b0a8ea08b6d7b1", 
+            "title": "", 
+            "text": [
+                "back in the uk , a software developer specialising in virtual simulation is celebrating after securing the biggest financing round for a private british company .", 
+                "improbable , set up by a group of 2o-something cambridge computer science graduates , has raised over $ 500bn from japan 's softbank .", 
+                "that values the company at over $ 1bn - putting it in unicorn territory .", 
+                "improbable uses distributed computing power , or cloud computing , to create virtual worlds and accurate simulations of the real world .", 
+                "here 's our news story on the deal : improbable sums ?", 
+                "cambridge graduates ' tech firm raises $ 500m read more and with \u0080\u0098unlimited vacation ' , free meals , social events and flexible working , improbable sounds like quite the model of a modern tech firm kadhim ( \u00ef\u00bc\u00be\u00ef\u00bd\u00b0^ ) \u00e3\u0083\u008e ( @ kadhimshubber ) improbable sounds like a nice place to work"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                10, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915814ce4b0a8ea08b6d7e6", 
+            "title": "german finance minister : we need us leadership", 
+            "text": [
+                "with strong growth figures in his pocket , germany 's finance minister is calling on america to deliver strong leadership to help the world economy .", 
+                "arriving in bari for a meeting of g7 finance ministers , wolfgang sch\u00e3\u00a4uble told reporters that his message to us treasury secretary steven mnuchin is : we need a strong united states to lead the global economy and global politics on a sustainable way .", 
+                "germany 's finance minister wolfgang sch\u00e3\u00a4uble in bari medichini/ap mnuchin has also arrived in bari , sporting a fine pair of shades and hailing the new trade agreement reached with china overnight .", 
+                "he told the press pack that : oh , i think we 're excited about us trade policies and i think you probably saw last night we made an announcement of a100-day economic plan with the chinese so i think we are very happy with how we are proceeding on trade .", 
+                "us secretary of treasury steven mnuchin today monteforte/afp/getty images as mentioned earlier , the new deal will open china up to us credit rating agencies and credit card companies , and also allow american farmers to export beef to chinese consumers ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                9, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59157a1be4b0a8ea08b6d7ca", 
+            "title": "", 
+            "text": [
+                "ho hum .", 
+                "the latest eurozone industrial production figures have just landed , and at first glance they 're weaker than expected .", 
+                "industrial output across the euro area fell by 0.1 % in march , dragged down by weak energy production , dashing hopes of a rise .", 
+                "eu eurostat ( @ eu eurostat ) euro area industrial production -0.1 % in march over february , +1.9 % over march 2016 # eurostat dig into the data , though , and it 's more encouraging .", 
+                "output of goods for consumers and businesses actually rose .", 
+                "here 's the details , via eurostat energy production : down by 3.2 % month-on-month capital goods : up by 0.2 % intermediate goods : up by 0.3 % durable consumer goods up by 0.9 % non-durable consumer goods : up by 2.1 % .", 
+                "howard archer ( @ howardarcheruk ) # eurozone # industrial production unexpectedly dipped 0.1 % m/m in mar ( as in feb ) .", 
+                "dragged down in both months by shrp falls in energy output howard archer ( @ howardarcheruk ) # eurozone industrial production only flat q/q in q1 after 0.1 % m/m dip in mar .", 
+                "but underlying decent after energy falls stripped out"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59157971e4b0a8ea08b6d7c7", 
+            "title": "", 
+            "text": [
+                "joshua mahony , market analyst at ig , agrees that germany 's gdp report has cheered the city .", 
+                "he writes : this morning has started in positive fashion for the eurozone , in what is fast becoming the go-to growth driver of the western world .", 
+                "the outperformance of german q1 gdp should have come as no surprise given the positive signs coming out of the industrial powerhouse over recent months .", 
+                "with the french hoping to strengthen their economy in the wake of macron 's election victory , there appears to be an end to the sight of the protracted downturn seen in the eurozone since the 2007 financial crisis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                9, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591574b0e4b0762dda0ba42e", 
+            "title": "", 
+            "text": [
+                "the in german growth should reassure global investors , who 've been throwing money into europe in recent weeks .", 
+                "as this chart shows , investors have been buying european shares for several weeks now - with a record surge following the french presidential election : mike bird ( @ birdyword ) baml : record inflows to european equities in the week following macron 's win # euroboom2017"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591573b8e4b0f5ae171e176b", 
+            "title": "while germany grows , britain faces pay squeeze", 
+            "text": [
+                "following a fresh warning on living standards from the bank of england on thursday , two leading economists have warned this morning that britons will all be poorer over the next five years as brexit delivers a blow to the economy .", 
+                "andrew lilico , executive director of europe economics , said that britain will probably lose out on a year 's worth of growth over the next few years , before expanding at a faster pace in the 2020s .", 
+                "lilico told bbc radio 4 ' today programme : few things in life involving major changes come cost free so i think we should expect to lose a couple of percentage points of gdp growth - the equivalent of one year 's growth over the period of 2019/2020 .", 
+                "then in the 2020s i expect it to grow a little bit faster and by 2030 everything will have come out in the wash. ngaire woods , dean of the blavatnik school of government at oxford university , agreed that uk households would be worse off over the next five years but was less optimistic about a swift turnaround in fortunes thereafter .", 
+                "the real effect of brexit wo n't happen until brexit happens .", 
+                "i 'm optimistic that britain can secure a free trade agreement with europe , but it will take at least 10 years .", 
+                "if there are no smooth arrangements we 're going to see a sharp decrease in investment and therefore a sharp decrease in jobs and that will mean a much more serious reduction in household incomes ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                8, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591568d4e4b0762dda0ba404", 
+            "title": "", 
+            "text": [
+                "germany 's robust growth has helped european stock markets to gain some ground in early trading .", 
+                "germany 's dax has gained 24 points , or 0.2 % , and the other main indices are also up a little : reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                7, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915661ee4b0a8ea08b6d78e", 
+            "title": "", 
+            "text": [
+                "only canada can prevent germany from claiming the title of becoming the fastest growing major economy in the first quarter of 2017 .", 
+                "nina adam of the wall street journal explains : germany 's economy accelerated in the first quarter , driven by a revival in global trade and buoyant construction activity .", 
+                "germany 's gross domestic product grew at a quarterly clip of 0.6 % , or 2.4 % in annualized terms , the destatis statistics office said friday .", 
+                "this met economists ' forecasts and meant germany 's economy comfortably outpaced the u.s. , which expanded by 0.7 % annualized in the first quarter .", 
+                "the u.k. , japan , france and italy also recorded lower growth rates than germany .", 
+                "canada is the only group of seven country that may record a stronger first-quarter result when it publishes its estimate in late may .", 
+                "paul hannon ( @ paulhannon29 ) german growth outpaces u.s. and u.k. as mild weather boosts construction via @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                7, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59156193e4b0762dda0ba3f3", 
+            "title": "", 
+            "text": [
+                "we have further good news on the european economy , via france .", 
+                "the french employment total has hit its highest level since the financial crisis , after jumping by almost 50,000 in the last quarter to 16.228 million .", 
+                "the service sector drove the recovery , creating 56,200 net new jobs , while 4,800 jobs were lost in industry and 2,000 in construction .", 
+                "this is the seventh quarter of net job creation in a row , indicating that president-elect emmanuel macron will inherit a strengthening economy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                7, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59155d53e4b0762dda0ba3df", 
+            "title": "", 
+            "text": [
+                "today 's growth report also provides fresh ammunition to critics - such as the trump administration - who claim germany is getting an unfair advantage from a weak currency .", 
+                "certainly , the jump in exports in q1 indicates that german trade is humming .", 
+                "that means germany 's trade surplus ( another cause of concern ) will remain around record levels .", 
+                "bankhaus lampe analyst alexander krueger believes .", 
+                "the european central bank 's stimulus programme is clearly helping , saying : a boom without end in germany and despite all the risks .", 
+                "however , it should be noted that the economy would be humming less without the support of interest rates which are too low for germany ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                7, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59155a82e4b0762dda0ba3d6", 
+            "title": "", 
+            "text": [
+                "today 's gdp report does n't contain any sign that brexit is hurting germany 's economy .", 
+                "the surge in business investment shows that german business leaders are planning for future growth , while higher consumer spending suggests families are n't worried either ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591559ece4b0a8ea08b6d76a", 
+            "title": "", 
+            "text": [
+                "carsten brzeski , chief economist at ing , is also impressed with germany 's performance , saying the economy seems to be firing on all cylinders ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59155957e4b0f5ae171e1715", 
+            "title": "", 
+            "text": [
+                "germany is on track for a decent year , according to jens kramer , an economist at nordlb in hanover .", 
+                "kramer says ( via bloomberg ) : economic momentum is extremely robust and very broadly based , the steady increase in employment is fertile soil for domestic demand , and trade is providing impulses as well .", 
+                "holger zschaepitz ( @ schuldensuehner ) # germany 's never ending success story , as ing puts it : german q1 gdp growth accelerates as investment jumps ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591555fde4b0a8ea08b6d75e", 
+            "title": "german gdp : instant reaction", 
+            "text": [
+                "fred ducrozet of swiss bank pictet says germany achieved broad-based growth in the last quarter - with decent weather helping to deliver that 0.6 % growth .", 
+                "frederik ducrozet ( @ fwred ) boost from construction due to mild weather , but otherwise broad-based expansion fueled by capex , exports & consumption .", 
+                "the ft points out that germany outperformed its international rivals in the last quarter : fastft ( @ fastft ) germany 's economy did better than france , the us , and the uk at the start of the year - expanding 0.6 % america 's quarterly growth rate was below 0.2 % in q1 , while the uk and france both grew by 0.3 % .", 
+                "howard archer of ihs markit has tweeted the key points : howard archer ( @ howardarcheruk ) federal statistics office says q1 # german # gdp growth of 0.6 % q/q due to growth in domestic demand ( notably investment ) & +ve net # trade howard archer ( @ howardarcheruk ) q1 # german # gdp # growth of 0.6 % : robust investment , modest rises in consumer & govt spending , net trade +ve as exports up more than imports"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5915516ee4b0a8ea08b6d750", 
+            "title": "germany posts 0.6 % growth as investment surges", 
+            "text": [
+                "tv breaking : germany 's economy grew twice as fast as britain at the start of 2017 .", 
+                "german gdp expanded by 0.6 % in the january-march quarter , up from 0.4 % in the final three months of 2016 .", 
+                "the growth was driven by higher business investment on new equipment and buildings , plus higher spending by consumers and the government .", 
+                "strong exports also helped europe 's powerhouse economy make a robust start to the year .", 
+                "the federal statistics office says : capital formation [ business spending ] increased substantially .", 
+                "due to the mild weather , fixed capital formation especially in construction , but also in machinery and equipment was markedly up compared with the fourth quarter of 2016 .", 
+                "households and general government increased their final consumption expenditure slightly at the beginning of the year .", 
+                "in addition , the development of foreign trade was more dynamic and contributed to growth as exports increased more than imports , according to provisional results .", 
+                "german gdp in contrast , britain 's gdp only rose by 0.3 % during the first quarter , as the uk service sector suffered a slowdown .", 
+                "but on an annual basis , the is different .", 
+                "germany 's q1 growth was 1.7 % higher than a year earlier ( once you adjust for seasonal factors ) , while britain 's was 2.1 % higher , year-on-year .", 
+                "more details and reaction to follow"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59154bbee4b0f5ae171e16f5", 
+            "title": "the agenda : german gdp and us", 
+            "text": [
+                "good morning , and welcome our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "today we 'll be looking at germany , as gdp figures for the first three months of this year are released at 7am bst .", 
+                "economists predict growth of around 0.6 % , after various soft data has suggested the german economy began strongly .", 
+                "at 10am , the latest eurozone industrial production report is expected to show growth of 0.3 % for march .", 
+                "america 's economy is also in focus , with inflation and retail sales figures at 1.30pm bst .", 
+                "headline inflation is expected to dip to 2.3 % , from 2.4 % , while retail sales are tipped to rise by 0.5 % after falling in february and march .", 
+                "traders are also digesting the news that america and china have signed a new trade agreement - perhaps a sign of warming relations between the two powers .", 
+                "from beijing , tom phillips reports : relations between the world 's two largest economies have hit a new high , donald trump 's commerce secretary has claimed , announcing a herculean trade deal between washington and beijing in the latest sign of warming ties .", 
+                "under the agreement china will allow imports of us beef , while the us will allow the import of cooked poultry from china .", 
+                "beijing will also permit foreign financial services companies to provide credit-rating services in china .", 
+                "us hails china trade deal as sign relations are 'hitting a new high ' read more european stock markets are expected to open calmly , with britain 's ftse 100 called up a modest 1 point .", 
+                "igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7389 +0.04 % $ dax 12720 +0.07 % $ cac 5392 +0.16 % $ ibex 10895 +0.31 % $ mib 21545 +0.29 % we 'll be tracking all the main events through the day"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                12, 
+                6, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n4.41pm BST\n16:41\nFTSE 100 hits record closing high\n", 
+                "block": "block-5915d553e4b0a8ea08b6d93d"
+            }, 
+            {
+                "text": "\n\n4.41pm BST\n16:41\nClosing summary\n", 
+                "block": "block-5915d1f7e4b0762dda0ba5bc"
+            }, 
+            {
+                "text": "\n\n3.20pm BST\n15:20\nUS consumer confidence rises again\n", 
+                "block": "block-5915c06ae4b0a8ea08b6d8e9"
+            }, 
+            {
+                "text": "\n\n1.54pm BST\n13:54\nUS retail sales rise, but not as fast as hoped\n", 
+                "block": "block-5915ad71e4b0f5ae171e1872"
+            }, 
+            {
+                "text": "\n\n1.39pm BST\n13:39\nUS inflation drops to 2.2% as core inflation dips\n", 
+                "block": "block-5915ab0be4b0f5ae171e1866"
+            }, 
+            {
+                "text": "\n\n10.53am BST\n10:53\nGerman finance minister: We need US leadership\n", 
+                "block": "block-5915814ce4b0a8ea08b6d7e6"
+            }, 
+            {
+                "text": "\n\n9.36am BST\n09:36\nWhile Germany grows, Britain faces pay squeeze.....\n", 
+                "block": "block-591573b8e4b0f5ae171e176b"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic and financial news, as Germany posts strong growth figures at the start of 2017", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/may/12/german-economy-gdp-accelerates-growth-us-inflation-retail-sales-business-live?page=with:block-5915c06ae4b0a8ea08b6d8e9#block-5915c06ae4b0a8ea08b6d8e9"
+                ], 
+                "text": "US consumer confidence rises again.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/may/12/german-economy-gdp-accelerates-growth-us-inflation-retail-sales-business-live?page=with:block-5915516ee4b0a8ea08b6d750#block-5915516ee4b0a8ea08b6d750"
+                ], 
+                "text": "Germany grew by 0.6% in Q1", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Business investment and domestic spending drive growth.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/may/12/german-economy-gdp-accelerates-growth-us-inflation-retail-sales-business-live?page=with:block-591555fde4b0a8ea08b6d75e#block-591555fde4b0a8ea08b6d75e"
+                ], 
+                "text": "UK, US and France all lag behind.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/may/12/german-economy-gdp-accelerates-growth-us-inflation-retail-sales-business-live?page=with:block-59154bbee4b0f5ae171e16f5#block-59154bbee4b0f5ae171e16f5"
+                ], 
+                "text": "The agenda: US-China trade deal, US data.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

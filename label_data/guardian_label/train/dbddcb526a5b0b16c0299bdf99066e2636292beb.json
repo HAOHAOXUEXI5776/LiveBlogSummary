@@ -1,0 +1,891 @@
+{
+    "blog_id": "dbddcb526a5b0b16c0299bdf99066e2636292beb", 
+    "title": "US growth and trade data disappoint but Trump promises 'revved-up economy' - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live", 
+    "summary": [
+        "wall street opens lower .", 
+        "sir philip green settles bhs pension dispute .", 
+        "us gdp growth slows in fourth quarter .", 
+        "trump : we need to spend a lot more on defence .", 
+        "dow close to longest ever winning streak .", 
+        "trump : extra defence spending will come from `` a revved up economy ''", 
+        "troika inspectors return to greece ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b58be4e4b030b6f7c90051", 
+            "title": "wall street opens lower", 
+            "text": [
+                "ahead of the much anticipated address to the us congress by president trump later and following slightly disappointing trade and gdp figures , wall street has slipped back from its record highs .", 
+                "if the dow jones industrial average closes at a new record high , it will equal its best ever winning streak of 13 days .", 
+                "but in early trading the dow is down 18 points or 0.09 % , while the s & p 500 opened down 0.16 % and the nasdaq composite 0.12 % .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                14, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b58d2ce4b030b6f7c90059", 
+            "title": "", 
+            "text": [
+                "here is our story on the bhs pension scheme , from graham ruddick : sir philip green has agreed to pay up to \u00a3 363m into the bhs pension scheme as part of a cash settlement with the pensions regulator .", 
+                "bhs collapsed into administration last april , leading to the loss of 11,000 jobs and leaving a \u00a3 571m pension deficit .", 
+                "the collapse of the retailer led to a high-profile parliamentary investigation and calls for green to be stripped of his knighthood .", 
+                "green said the settlement represented a significantly better outcome '' for former bhs staff than the scheme entering the pension protection fund , a lifeboat for failed pension funds .", 
+                "the pensions regulator started legal action against green last year in an attempt to force him to contribute cash to the pension scheme .", 
+                "this enforcement action has now been halted .", 
+                "the full story is here : philip green agrees to pay \u00a3 363m into bhs pension fund read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                14, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b58a9ee4b08ddc9a5e4802", 
+            "title": "sir philip green settles bhs pension dispute", 
+            "text": [
+                "sir philip green has agreed to pay \u00a3 363m to rescue the bhs pension scheme from the pension protection fund .", 
+                "graham ruddick ( @ grahamtruddick ) green says bhs settlement `` significantly better outcome '' than entering pension protection fund for pensioners"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                14, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b584b3e4b08ddc9a5e47ee", 
+            "title": "", 
+            "text": [
+                "the slightly underwhelming us data is not likely to hinder further rate rises from the federal reserve this year , according to the centre for economics and business research , but perhaps not in march .", 
+                "its senior economist oliver kolodseike said : although slightly disappointing , the release in unlikely to significantly change the mood at the federal reserve bank .", 
+                "with durable goods orders and retail sales data beating expectations , thereby adding to signs that the us economy is up pace again at the beginning of this year and inflation nearing a five-year high , cebr is pencilling in three rate hikes in 2017 and we see may as the most likely starting point for the process of normalising monetary policy .", 
+                "we believe that fed chair janet yellen will use the march meeting instead to prepare markets for a move at the following meeting , after the fed last year faced some criticism for some unclear communication about interest rates .", 
+                "that said , recent comments from policymakers suggest that the door remains open for a potential rate rise when the federal open market committee ( fomc ) meet on march 15th .", 
+                "the february jobs report is published a few days before the meeting and could potentially steer policy makers towards a rate hike sooner rather than later we currently project the us economy to grow 2.4 % in 2017 which would be stronger than the 1.6 % rate seen in 2016 , and above the average trend since the financial crisis .", 
+                "of course , much depends on the extent to which the us government can implement reforms ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                14, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b57edde4b030b6f7c90018", 
+            "title": "", 
+            "text": [
+                "the us trade deficit was also worse than expected .", 
+                "the advance january goods trade balance came in at - $ 69.2bn , compared to estimates of - $ 66bn and december 's figure of $ 64.4bn .", 
+                "us trade balance census bureau"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                13, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b57c20e4b05f755cc0d3d4", 
+            "title": "us gdp growth slows in fourth quarter", 
+            "text": [
+                "the us economy grew by less than expected in the final three months of 2016 , according to new figures from the commerce department .", 
+                "with donald trump promising a revved up '' economy , the last growth figures under the old administration showed gdp rising by an annualised 1.9 % in the fourth quarter .", 
+                "this was in line with initial estimates , but less than the 2.1 % expected by economists and well below the 3.5 % seen in the third quarter .", 
+                "for the whole of 2016 , the us economy grew by 1.6 % , as expected , its worst performance since 2011 .", 
+                "the commerce department said : the increase in real gdp in the fourth quarter reflected positive contributions from personal consumption expenditures ( pce ) , private inventory investment , residential fixed investment , nonresidential fixed investment , and state and local government spending .", 
+                "these increases were partly offset by negative contributions from exports and federal government spending .", 
+                "imports , which are a subtraction in the calculation of gdp , increased .", 
+                "the deceleration in real gdp in the fourth quarter primarily reflected a downturn in exports , an acceleration in imports , and a downturn in federal government spending that were partly offset by an upturn in residential fixed investment , an acceleration in private inventory investment , and an upturn in state and local government spending .", 
+                "us gdp commerce department"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                13, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b56f71e4b030b6f7c8ffb6", 
+            "title": "dow close to longest ever winning streak", 
+            "text": [
+                "the dow jones industrial average closed at a record high for the twelfth trading day in a row on monday , and is two days off its longest ever winning streak .", 
+                "if it closes higher on tuesday it will equal the 13 day run in january 1987 , and a similar move on wednesday will see it set a new record .", 
+                "at the moment , the us futures are indicating a flat open , but much will depend on how investors feel ahead of donald trump 's address to congress after the market closes - and their reaction to what he has said when trading begins on wednesday .", 
+                "there is also the small matter of some new us data due shortly , in form of growth and trade figures .", 
+                "mihir kapadia , chief executive of sun global investments , said : economists have been forecasting a growth rate of 1.6 % for 2016 , something which the current government has constantly criticised as being too pessimistic .", 
+                "the trade deficit is also expected to widen to $ 66 billion , from $ 65 billion in december , which may be used by the administration as supporting arguments for protectionism ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                12, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b56765e4b08ddc9a5e4771", 
+            "title": "", 
+            "text": [
+                "more from trump : chris snyder ( @ chrissnyderfox ) trump doubles down to @ twitterid says `` i 'm not touching social security '' when it comes to budget cuts"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                12, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b565a0e4b08ddc9a5e4766", 
+            "title": "trump : extra defence spending will come from `` a revved up economy ''", 
+            "text": [
+                "back with trump , and in his fox interview he is asked how he will fund the extra spending on defence .", 
+                "he is told that saving money from the environment and state department budget is not enough to cover his proposed increases .", 
+                "he says , well , i think the money is going to come from a revved up economy .", 
+                "i mean you look at the kind of numbers we 're doing , we were probably gdp of a little more than 1 % and if i can get that up to three or maybe more , we have a whole different ball game and that 's what we 're looking to do . ''", 
+                "fox & friends ( @ foxandfriends ) .", 
+                "@ potus expects he 'll be able to get some of the $ 54b increase in military spending `` from a revved up economy '' here he previews the to for his address to congress later : fox & friends ( @ foxandfriends ) exclusive : @ twitterid previews his address to congress tonight , says he 'll discuss health care , the military , and the border"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                12, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b55d32e4b08ddc9a5e473c", 
+            "title": "", 
+            "text": [
+                "as flagged earlier , the british chambers of commerce is holding its annual meeting in london at the moment , and our politics live blog is covering the appearances from george osborne and john mcdonnell , and the other attendees .", 
+                "you can follow all the action here : brexit : labour criticised for voting with tories in lords against single market amendment - politics live read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                11, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b55afce4b030b6f7c8ff46", 
+            "title": "trump : we need to spend a lot more on defence", 
+            "text": [
+                "president trump is giving an interview on fox news ahead of his address to congress later .", 
+                "in the pre-recorded interview , he was asked whether the $ 54bn increase in defence spending he was proposing was enough , and he said it could be $ 30bn more , but he would be involved in negotiating the contracts .", 
+                "there are many boats and planes we are , individually spending too much on we will get a lot more product for our buck we saved $ 700m plus on a f35 after i got involved we saved a lot of money on aeroplanes and that money will substantially increase . ''", 
+                "fox & friends ( @ foxandfriends ) `` we will be having the greatest military that we ever had by the time i finish . ''", 
+                "- @ potus here 's our report of a pre-released segment where trump accuses barack obama of organising protests against him .", 
+                "donald trump accuses obama of orchestrating protest against him read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                11, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b553e7e4b08ddc9a5e470c", 
+            "title": "troika inspectors return to greece", 
+            "text": [
+                "over in greece bailout monitors are resuming a stalled compliance review that recently reignited fears over the country 's ability to remain in the euro .", 
+                "from athens , helena smith reports : in a long-awaited moment for greece , the anxiously awaited return of monitors has finally begun .", 
+                "this morning , inspectors representing the european commission , euro zone bailout fund , imf and european central bank all filed into the finance ministry to discuss energy reforms , fiscal issues and privatizations .", 
+                "testing athens ' compliance with agreed reforms is at the heart of the review , a review that once completed will be key to releasing the \u20ac7bn plus the country requires to honour debt repayments in july .", 
+                "but , so too , are differences over a raft of new reforms that creditors want athens to adopt once its current three-year \u20ac86bn rescue programme in august 2018 .", 
+                "greek finance minister euclid tsakalotos arrives for talks with bailout inspectors about greece 's bailout progress .", 
+                "stavrakis/ap without further pension cuts and tax hikes , the imf does not think greece will be able to achieve the high primary surplus of 3.5 % that eurozone lenders are demanding as of next year .", 
+                "the monitors , who are backed by technical teams , are keen to make enough progress so that the imf - which has advised but not formally signed up to the bailout - finally participates in the programme .", 
+                "for leading lenders such as germany and the netherlands , imf oversight is key to easing concerns in an electoral year that good money is not being thrown after bad when it comes to greece .", 
+                "prime minister alexis tsipras believes the review can be concluded by march 20 when the eurogroup next meets .", 
+                "auditors have signalled they do not wish to be in athens for more than a week .", 
+                "but it is a tight deadline that many also recognise will be a tall order .", 
+                "although both sides will be working on an initial agreement reached in brussels last week , a great deal of bargaining over the type of counter measures athens can expect to reduce the impact of further cuts is likely to dominate the days ahead .", 
+                "lenders also want to liberalise the energy and labour markets - reforms that are highly controversial for leftists in the governing syriza party .", 
+                "our hope is that we can deal with collective bargaining and other sensitive issues after we have made enough technical progress to complete the review , '' said one syriza insider .", 
+                "there is a feeling that we are being pushed a great deal but the alternative [ euro exit ] would be worse . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b5523ae4b05f755cc0d2e0", 
+            "title": "", 
+            "text": [
+                "in south korea , more problems for samsung .", 
+                "justin mccurry reports : the acting head of samsung is to be indicted on bribery and embezzlement charges connected to a corruption and cronyism scandal centring on south korea 's impeached president , park geun-hye .", 
+                "lee jae-yong and four other samsung executives will almost certainly face trial over accusations that south korea 's biggest conglomerate donated millions of dollars to foundations run by a close friend of park 's in exchange for government favours .", 
+                "later on tuesday , lee , who is officially samsung 's vice-president but has in effect run the company since his father suffered a heart attack in 2014 , will be charged with bribery , embezzlement , hiding assets overseas and committing perjury before parliament , prosecutors said on the final day of their investigation into a scandal that has rocked the country 's political and business worlds .", 
+                "the four executives , who all face the same charges as lee except perjury , are the samsung group 's vice-chairman , choi gee-sung , and president , chang choong-ki , as well as samsung electronics ' president , park sang-jin , and executive vice-president , hwang sung-soo .", 
+                "some of the executives will resign and leave samsung , but lee is expected to stay on as de facto head of the company if there is a trial .", 
+                "the full story is here : samsung 's acting head indicted on bribery charges as scandal grows read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                10, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b54e32e4b030b6f7c8ff06", 
+            "title": "", 
+            "text": [
+                "over in europe and there has been a strong rise in italian inflation , which is likely to boost the overall eurozone figure : howard archer ( @ howardarcheruk ) likelihood of # eurozone # consumer # price # inflation rising in feb ( 1.8 % in jan ) lifted by # italian hicp inflation jumping to 1.6 % from 1.0 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                10, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b54c77e4b05f755cc0d2be", 
+            "title": "", 
+            "text": [
+                "here 's reuters ' first take on charlotte hogg 's appearance at the treasury committee : bank of england deputy governor charlotte hogg , who will join the central bank 's top policy committees next month , said on tuesday she would be able to stand up to boe governor mark carney if required .", 
+                "hogg , who is currently the bank 's chief operating officer , also said she did not think there was a culture of group-think at the bank .", 
+                "asked by a committee of lawmakers if she thought she would be able to stand up publicly to carney , hogg said : i do . ''", 
+                "she said she had already had disagreements with carney in her current role over staffing and organisational issues .", 
+                "hogg replaces minouche shafik as deputy governor for markets and banking .", 
+                "she will serve on the bank 's monetary , financial and prudential regulation policy committees ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                10, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b5467ae4b08ddc9a5e46ce", 
+            "title": "", 
+            "text": [
+                "livesquawk ( @ livesquawk ) boe 's hogg : when unwinding qe , boe will do so in a way that is mindful of the need to maintain orderly markets livesquawk ( @ livesquawk ) boe 's hogg : mpc must be clear about its intentions when unwinding qe in order to avoid an 'unintended move ' in gilt yields"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                9, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b54428e4b08ddc9a5e46c1", 
+            "title": "bank of england 's charlotte hogg at treasury committee", 
+            "text": [
+                "charlotte hogg is up before mps being quizzed about her appointment as the bank of england 's deputy governor .", 
+                "( there is a live link here ) livesquawk ( @ livesquawk ) boe 's hogg : 'groupthink is not alive and well ' at boe livesquawk ( @ livesquawk ) boe 's hogg says she is able to challenge boe 's carney publicly livesquawk ( @ livesquawk ) boe 's hogg : fwrd guidance must cover things like boe statements on how to exit qe she says low interest rates are a global phenomenon and not just in the uk .", 
+                "livesquawk ( @ livesquawk ) boe 's hogg : structural elements to low interest rates charlotte hogg tv"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                9, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b5407de4b05f755cc0d295", 
+            "title": "pound flat against dollar and euro", 
+            "text": [
+                "the prospect of an imminent us rate rise is supporting the dollar , and putting a dampener on any chance of the pound regaining lost ground .", 
+                "sterling is currently virtually flat at $ 1.2440 having earlier fallen to $ 1.2413 .", 
+                "against the euro the pound is down 0.05 % at \u20ac1.1743 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                9, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b53ab3e4b08ddc9a5e46a1", 
+            "title": "chances of us rate rise in march increase", 
+            "text": [
+                "back with the us , and the chances of an interest rate hike at the federal reserve 's march meeting are increasing , whatever donald trump may announce about his tax and spending plans .", 
+                "on monday , dallas fed president robert kaplan - who had previously said a rise should come sooner rather than later - clarified his point at a meeting in oklahoma : sooner rather than later means in the near future .", 
+                "michael hewson , chief market analyst at cmc markets , believes the fed should get on with it .", 
+                "he said : for the last few weeks markets have been weighing up the prospect of whether the us federal reserve will look to raise rates at its march meeting .", 
+                "the odds of a move have fluctuated between lows of 24 % at the beginning of february and a peak of 44 % in the wake of fed chief janet yellen 's testimony to us lawmakers on capitol hill when she said that it would be unwise '' to wait too long before raising rates .", 
+                "since that january fed meeting it has been clear that the us economy has continued to show signs of improvement , and while the probability of a fed rate rise has now risen to 50 % , certain members of the committee appear paralysed by concerns about what the new us president might look to do with respect to his tax and fiscal policy today the president is due to address a joint session of congress , and it is clear that we can expect to see him flesh out in greater detail of his new fiscal plans , with the eyes of the markets and the world on him , and with us markets continuing to push to new record highs on an almost daily basis .", 
+                "we already know that he intends to spend $ 54bn on defence and infrastructure whilst making cuts elsewhere to pay for them .", 
+                "is the us economy so weak that a 25 basis point rise on the upper band from 0.75 % to 1 % will spook investors ?", 
+                "i think not .", 
+                "fed policymakers have already acknowledged that a substantial fiscal boost in terms of tax cuts could prompt a much sharper policy response which would suggest that irrespective of what mr trump announces today higher rates are already needed , so why wait ?", 
+                "federal reserve could raise us rates in march lamarque/reuters"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b53b9ee4b030b6f7c8fec0", 
+            "title": "greggs shares slip after results", 
+            "text": [
+                "improving its product range - away from just sausage rolls and pasties and on to healthier items - has helped food retailer greggs beat expectations with its full year figures .", 
+                "but signs of a slowdown in like-for-like sales so far in the current year have knocked its shares back more than 3 % to 980p - albeit they have risen 10 % in the past three months .", 
+                "overall , profits for 2016 rose 105 to \u00a3 80.3m , compared to forecasts of around \u00a3 79m .", 
+                "like for like sales climbed 4.2 % , and while the company said trading in the current year was in line with expectations , like for like sales slowed in the eight weeks to february 25 , up 2 % .", 
+                "analyst darren shirley at shore capital said : current like for like trading in the 8 weeks of the year-to-date has been subdued relative to recent years , with company managed like for like sales up 2.0 % ( said to be 2.9 % excluding the new year trading pattern ) , which is said to be inline in-line with management expectations .", 
+                "however , total sales are reported up 5.8 % which is ahead of our full year expectation of 4.8 % , so greggs are a little ahead of our expectations at this still early stage of the year ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                9, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b53367e4b08ddc9a5e4682", 
+            "title": "", 
+            "text": [
+                "another big faller in moneysupermarket.com , down 11 % after its final results .", 
+                "it reported a 16 % rise in profits but warned revenues in the current year were below those in 2016 , partly due to low interest rates weakening savings and current account switching , and falling trade in the energy business .", 
+                "liberum analysts said : moneysupermarket has reported 2016 results this morning and given the full year trading update in january there were no surprises with regards to headline numbers .", 
+                "our concern with moneysupermarket has always been that revenue growth is linked to marketing spend and therefore margins could come under pressure going forward as competition in the price comparison website space intensifies .", 
+                "these results have realised our concerns , increased marketing spend drove the majority of the 520 basis point decline in gross margins to 74.8 % .", 
+                "trading for 2017 is behind 2016 management has also guided gross margins to be 73 % for 2017 which is 300 basis points below liberum estimates of 76 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b53000e4b08ddc9a5e4678", 
+            "title": "southern rail operator go-ahead slumps 14 % after results", 
+            "text": [
+                "bus and train operator go-ahead has warned on its outlook , mainly due to the continuing strike actions on southern rail .", 
+                "it said its full year expectations were lowered due to challenges in gtr [ which runs the thameslink , great northern , southern and gatwick express rail franchises ] and a slowdown in passenger numbers in regional bus . ''", 
+                "on the strike , which has inconvenienced and angered commuters for months , it said : lengthy and significant industrial relations issues at gtr related to the modernisation of working practices , required by the contract , have caused months of disrupted travel .", 
+                "we are working towards a resolution so we can provide a reliable service for customers .", 
+                "rail profits for the half year fell by 35 % due to the southern dispute , and the company 's overall profits dropped 11.7 % to \u00a3 67m .", 
+                "southern rail strike hits go-ahead profits leal-olivas/afp/getty images even so , the company has raised its dividend to shareholders by 6.5 % , justfied by stable bus profits . ''", 
+                "that has failed to save its share price , however , which is down 14 % at \u00a3 19.66 .", 
+                "analysts at investec said : go-ahead has reported half year results broadly in line with our forecasts at the divisional level , with the exception of gtr which was weaker due to industrial action .", 
+                "however , expectations for the full year have been lowered given the slowdown in passenger volumes in regional bus , higher insurance costs and additional costs and delays to expected efficiencies for gtr as the industrial action is ongoing .", 
+                "we therefore reduce our forecasts , cut our target price to 2300p and lower our recommendation to add .", 
+                "jefferies , which remains a buyer of the shares , has cut its 2017 profit forecast by 4 % and its 2018 prediction by 7 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                8, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b52f2be4b08ddc9a5e4675", 
+            "title": "european markets edge higher", 
+            "text": [
+                "as expected , the record close on wall street has given a lift - albeit a slight one - to european shares .", 
+                "the ftse 100 is up 0.06 % in early trading , germany 's dax has opened 0.2 % higher , france 's cac has climbed 0.4 % , spain 's ibex 0.5 % and italy 's ftse mib 0.3 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                8, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b52bd7e4b05f755cc0d243", 
+            "title": "", 
+            "text": [
+                "over in france , and the country 's economy grew by 0.4 % in the final quarter last year , in line with initial estimates .", 
+                "so overall for 2016 , it grew by 1.1 % , also unchanged from the first estimates .", 
+                "french gdp gdp detail elsewhere : livesquawk ( @ livesquawk ) french consumer spending ( mom ) jan : 0.60 % ( est 0.60 % ; rev prev -1.00 % ) - ( yoy ) jan : 1.40 % ( est 1.60 % ; rev prev 1.30 % )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                7, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b52ab6e4b05f755cc0d23f", 
+            "title": "", 
+            "text": [
+                "a positive start is expected in europe after yet another record breaking run in the us : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7269 up 16 $ dax 11841 up 19 $ cac 4855 up 10 $ ibex 9485 up 21 $ mib 18967 up 53"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b5238fe4b08ddc9a5e464f", 
+            "title": "agenda : us data due , osborne at bcc conference , hogg at treasury committee", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "the us is in focus today , with trade figures for january and the final reading for fourth quarter gdp .", 
+                "the trade deficit is expected to widen to $ 66bn from $ 65bn in december , something which is likely to exercise president trump with his protectionist tendencies .", 
+                "as for gdp , analysts expect an annualised rate of 2.1 % for the quarter , up from 1.9 % .", 
+                "overall the us economy is forecast to have grown at 1.6 % in 2016 , a growth rate trump 's team have consistenty criticised as too slow .", 
+                "but republican financial john bogle , who founded the world 's second largest investment group vanguard , told the bbc 's wake up to money that trump 's plans to grow the us economy at 4 % annually were unlikely to succeed .", 
+                "he said : there are certain limits , irrespective of whoever sits in the white house .", 
+                "he added that building trade barriers would be madness and reducing immigration would harm the us economy .", 
+                "meanwhile , after the us markets close - at 9pm washington time , 2am gmt - trump will be making his long awaited address to congress with the promise of spelling out some of his plans in detail .", 
+                "we already had a flavour on monday , with trump 's talk of increased defence and infrastructure spending , probably at the expense of the environment and foreign aid .", 
+                "but it seems that trump 's phenomenal '' tax reforms might have to wait .", 
+                "naeem aslam , chief market analyst at think markets uk , said : was there any disappointment yesterday when some details were released ahead of mr trump 's most anticipated speech ?", 
+                "well , yes .", 
+                "it turns out that we are not going to receive any details about the anticipated tax plan and the timeframe for said plan is also vague .", 
+                "all we know is that it will happen sometime after a new healthcare bill replacing obamacare has been introduced , again , something we have yet to receive a date for .", 
+                "this was not something the markets were expecting especially after rousing the rally by describing his tax plans as phenomenal '' .", 
+                "what we saw last night was disappointment across the board when the news hit .", 
+                "but it would be wrong to write off mr trump yet , as he is never short of surprises .", 
+                "despite his lack of information , the market rallied , recording another record high .", 
+                "indeed , the dow jones industrial average closed at a record high for the twelfth day in a row , and european markets are expected to open higher as a result .", 
+                "also on the agenda , the british chambers of commerce holds its annual conference in london , with regional development and brexit on the agenda and appearances scheduled from former chancellor george osborne , mayoral hopefuls andy street and andy burnham and shadow chancellor john mcdonnell .", 
+                "elsewhere charlotte hogg will be at a treasury committee hearing to discuss her appointment as the bank of england 's deputy governor for markets and banking .", 
+                "and there are results from go-ahead and greggs ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                28, 
+                7, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.49pm GMT\n14:49\nWall Street opens lower\n", 
+                "block": "block-58b58be4e4b030b6f7c90051"
+            }, 
+            {
+                "text": "\n\n2.40pm GMT\n14:40\nSir Philip Green settles BHS pension dispute\n", 
+                "block": "block-58b58a9ee4b08ddc9a5e4802"
+            }, 
+            {
+                "text": "\n\n1.39pm GMT\n13:39\nUS GDP growth slows in fourth quarter\n", 
+                "block": "block-58b57c20e4b05f755cc0d3d4"
+            }, 
+            {
+                "text": "\n\n11.16am GMT\n11:16\nTrump: we need to spend a lot more on defence\n", 
+                "block": "block-58b55afce4b030b6f7c8ff46"
+            }, 
+            {
+                "text": "\n\n12.45pm GMT\n12:45\nDow close to longest ever winning streak\n", 
+                "block": "block-58b56f71e4b030b6f7c8ffb6"
+            }, 
+            {
+                "text": "\n\n12.02pm GMT\n12:02\nTrump: extra defence spending will come from \"a revved up economy\"\n", 
+                "block": "block-58b565a0e4b08ddc9a5e4766"
+            }, 
+            {
+                "text": "\n\n11.01am GMT\n11:01\nTroika inspectors return to Greece\n", 
+                "block": "block-58b553e7e4b08ddc9a5e470c"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b55afce4b030b6f7c8ff46#block-58b55afce4b030b6f7c8ff46"
+                ], 
+                "text": "Trump: we have to spend more on defence.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b565a0e4b08ddc9a5e4766#block-58b565a0e4b08ddc9a5e4766"
+                ], 
+                "text": "money will come from a revved up economy\"", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b53ab3e4b08ddc9a5e46a1#block-58b53ab3e4b08ddc9a5e46a1"
+                ], 
+                "text": "Chances of US rate rise in March increase.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b553e7e4b08ddc9a5e470c#block-58b553e7e4b08ddc9a5e470c"
+                ], 
+                "text": "Greece: inspectors return to monitor bailout.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b53000e4b08ddc9a5e4678#block-58b53000e4b08ddc9a5e4678"
+                ], 
+                "text": "Southern Rail owner Go-Ahead sees rail profits plunge.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b53b9ee4b030b6f7c8fec0#block-58b53b9ee4b030b6f7c8fec0"
+                ], 
+                "text": "Greggs shares slip after results.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/28/markets-await-us-growth-and-trade-data-as-trump-boom-continues-business-live?page=with:block-58b52bd7e4b05f755cc0d243#block-58b52bd7e4b05f755cc0d243"
+                ], 
+                "text": "French economy grows by 1.1% in 2016", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

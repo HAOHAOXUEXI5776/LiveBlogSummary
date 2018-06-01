@@ -1,0 +1,845 @@
+{
+    "blog_id": "37def1ab0bab4c91c1bbb5b312a4d59c56df6702", 
+    "title": "Latest updates: Nottinghamshire Live on Thursday 9 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-nottinghamshire-39211504", 
+    "summary": [
+        "child , 7 , has bb gun seized at school .", 
+        "serious accident closes the a1 .", 
+        "ex-social worker gives evidence in child migrant abuse inquiry .", 
+        "activity centre plans for former clipstone colliery site .", 
+        "watson fothergill building still damaged two years after crash .", 
+        "updates for thursday 9 march 2017 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c190c6e4b07f8d67a01e31", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for nottinghamshire have finished for the day but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c191f5e4b07f8d67a01e34", 
+            "title": "east midlands weather update : a dry and chilly night", 
+            "text": [
+                "it will be a dry and chilly night , with clear spells and light winds .", 
+                "however , cloud will gradually increase by the early hours ."
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c18c5ae4b08b1f7dee1f2b", 
+            "title": "sherwood forest included in \u00a3 392m 'midlands engine ' plan", 
+            "text": [
+                "sherwood forest is to receive investment as part of a the midlands engine scheme , which sets out a \u00a3 392m government investment .", 
+                "to maximise the potential of the midlands .", 
+                "the plans will see \u00a3 500,000 being spent on a new visitor centre at the nottinghamshire attraction and improvements to existing walking and cycle routes .", 
+                "chancellor philip hammond made the announcement today in dudley and said money would also go towards other projects in the east and west midlands , including a \u00a3 6m regeneration of derby city centre and improvements to road connections around loughborough ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c18eb9e4b0ec68546e3c22", 
+            "title": "watch : frank bruno visits nottingham boxing school", 
+            "text": [
+                "boxer frank bruno has been in nottingham today .", 
+                "he visited the school of boxing which is run by the winner of the bbc sports personality 's unsung hero award , marcellus baz", 
+                "the school is currently trying to raise money for a permanent home ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c19056e4b08b1f7dee1f41", 
+            "title": "travel : a1 northbound still closed", 
+            "text": [
+                "just a reminder that the a1 northbound near newark is still closed after this morning 's accident .", 
+                "there are several diversions in place and traffic has been heavy all day so avoid the area if you can ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c18f69e4b0ec68546e3c23", 
+            "title": "your photos : did anyone see the sundog ?", 
+            "text": [
+                "i 've just been told by bbc weather presenter sara blizzard that this colourful cloud in the sky is officially known as a sundog .", 
+                "i was too slow to try and get a of it from outside our offices just now , but one of our weather watchers was on the ball and took this over east leake ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c1822ae4b0ec68546e3bd9", 
+            "title": "man denies illegal fox hunting", 
+            "text": [
+                "a man has denied that he and two other members of a north nottinghamshire hunt were engaged in illegal fox hunting last year .", 
+                "peter white , from the grove and rufford hunt , along with huntsman paul larby and `` whipper-in '' jane wright , are all on trial at mansfield magistrates ' court .", 
+                "mr white told the court they were carrying out a legal trail hunt in january 2016 .", 
+                "he said a fox suddenly appeared and was killed by the hounds in 40 seconds before the hunt 's officers could stop them .", 
+                "the trial continues ."
+            ], 
+            "author": [
+                "James Roberson", 
+                "Reporter, East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c178bde4b07f8d67a01da3", 
+            "title": "tram named after hospital fundraisers", 
+            "text": [
+                "a nottingham couple who set up a charity to create bereavement suites on maternity wards in the city have had a tram named after them .", 
+                "richard and michelle daniels set up forever stars in 2013 after their daughter emily was stillborn .", 
+                "they raised \u00a3 100,000 for a specialist area at the queen 's medical centre and plan to open a second suite for bereaved parents at the city hospital .", 
+                "at the unveiling earlier today , mrs daniels , said : `` we are so proud of what we have achieved and we want to say an incredible thank you to people who have been involved , donated their time and support , and [ to the ] donations we have received . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c17440e4b0ec68546e3b8e", 
+            "title": "hales makes impressive return after injury", 
+            "text": [
+                "nottinghamshire 's alex hales is in good form on his first game back with england after injury .", 
+                "he 's currently on 89 not out .", 
+                "sport has a west indies v england live page for all the latest updates ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c172ece4b0ec68546e3b87", 
+            "title": "a1 crash : southbound carriageway reopens", 
+            "text": [
+                "# a1 is now open southbound .", 
+                "s/b entry from a46 + n/bound a1 remains closed , nr # newark for investigation following this morning 's collision ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c16e4be4b07f8d67a01d66", 
+            "title": "a1 crash : man airlifted to hospital", 
+            "text": [
+                "a man has been airlifted to hospital with serious injuries following the crash on the a1 near newark .", 
+                "nottinghamshire police have now told us six vehicles were involved and the man had been cut out from one of those before being flown to nottingham 's queen 's medical centre .", 
+                "the a1 remains closed in both directions and is now not expected to reopen until 20:00 tonight ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c1643be4b08b1f7dee1e28", 
+            "title": "mancienne back in training", 
+            "text": [
+                "gary brazil confirms michael mancienne returned to training today and is in contention for playing on saturday , along with chris cohen and armand traore ."
+            ], 
+            "author": [
+                "BBC Nottingham Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c16071e4b07f8d67a01d23", 
+            "title": "a1 crash : road remains closed", 
+            "text": [
+                "highways england says the a1 remains closed in both directions .", 
+                "they had initially said they expected to reopen the road by 13:30 but it said investigations were continuing after this morning 's crash .", 
+                "# a1 remains closed both ways nr # newark .", 
+                "s/b traffic will soon be diverted at north muskham s/b on b6325 , w/b on a46 ; a52.rejoin at grantham", 
+                "soon be diverted ?", 
+                "what 've they been doing so far then ?", 
+                "it 's absolute chaos ; something needs to be done to aid prevention asap", 
+                "there is now 1 lane open past scene on the s/b however due to the seriousness of the injuries the recovery has been delayed ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c14898e4b07f8d67a01cb0", 
+            "title": "building work ongoing at trent bridge", 
+            "text": [
+                "i popped into trent bridge yesterday to check out the work being done to revamp the ground .", 
+                "a lot of graft is still going on at the radcliffe road end and ground staff are hard at it as well .", 
+                "it wo n't be long until it is all ready !"
+            ], 
+            "author": [
+                "Dave Bracegirdle", 
+                "BBC Radio Nottingham commentator"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c14955e4b0ec68546e3a72", 
+            "title": "hearing told child migrants were stripped of identity", 
+            "text": [
+                "dr margaret humphreys , founder of the child migrant trust , has described the ritual dehumanisation and stripping of identity for many of the child migrants .", 
+                "she said some of them felt they were being sent abroad because they were about to report the sexual abuse they faced here ."
+            ], 
+            "author": [
+                "Jeremy Ball", 
+                "Social affairs correspondent, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c147a6e4b07f8d67a01ca9", 
+            "title": "man absconds from prison 'while working outside fence '", 
+            "text": [
+                "a prisoner has absconded from ranby prison in retford , nottinghamshire .", 
+                "matthew rooney , 36 , from leicestershire , disappeared between 12:00 and 15:00 yesterday while working outside the perimeter fence .", 
+                "nottinghamshire police said he `` does not pose a threat to the public . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c14cd9e4b0ec68546e3a86", 
+            "title": "child , 7 , has bb gun seized at school", 
+            "text": [
+                "a seven-year-old who took a bb gun into school has had it seized by police .", 
+                "berridge police , which covers forest fields , new basford and sherwood rise , said the gun was seized by officers at a primary school .", 
+                "posting on their facebook page , officers said while it only fires small pellets , the gun could have been perceived as a real firearm .", 
+                "they wrote : `` not only does this have no place in a school , it should n't be in the possession of a seven-year-old , and furthermore ; what need is there for anyone to have one at all ?", 
+                "`` the item is very convincing , and under different circumstances ; could have been perceived to be a real firearm . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c14589e4b08b1f7dee1d84", 
+            "title": "activity centre plans for former clipstone colliery site", 
+            "text": [
+                "an `` eden project style plan `` has been submitted for the former clipstone colliery site .", 
+                "those behind the plan want to use the grade-ii listed headstocks - believed to be the tallest ever built - as the centrepiece for an activity centre with a 100mph zip wire , tethered parachute jumps and indoor skydiving .", 
+                "the save clipstone colliery headstocks group has spent years building support for plans to convert the surviving buildings into a sports and leisure hub and are now applying to the heritage lottery fund .", 
+                "denise barraclough , from the group , said : `` this has the potential to be a major part of a big tourist offering in the east midlands , it has been compared to an eden project for the east midlands . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c14398e4b08b1f7dee1d75", 
+            "title": "a1 crash : person trapped in wreckage", 
+            "text": [
+                "nottinghamshire police has said .", 
+                "firefighters are still working to rescue someone trapped in the wreckage of the crash on the a1 .", 
+                "the force has also appealed for anyone who saw the crash to come forward with information ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c13c7ce4b07f8d67a01c61", 
+            "title": "ex-social worker gives evidence in child migrant abuse inquiry", 
+            "text": [
+                "former nottinghamshire social worker , dr margaret humphreys , has begun giving evidence about the abuse of british child migrants at the independent inquiry into sexual abuse .", 
+                "she 's described it as `` the most catastrophic child abuse scandal within living memory '' and says child migrants were deported to the commonwealth and subjected to torture , rape and slavery .", 
+                "dr humphreys added : `` look at the violations .", 
+                "kidnapping .", 
+                "sexual abuse before they were sent .", 
+                "unlawful rapes .", 
+                "living in constant terror . ''", 
+                "she told the inquiry there was collusion and cover-ups , and records of child migrants in rhodesia were deliberately destroyed .", 
+                "it is day eight of the hearing and you can .", 
+                "follow the inquiry here ."
+            ], 
+            "author": [
+                "Jeremy Ball", 
+                "Social affairs correspondent, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c12f69e4b0ec68546e39e2", 
+            "title": "listen : emas paramedic has taken time off for stress - twice", 
+            "text": [
+                "current east midlands ambulance service ( emas ) paramedic alan brooks has been in his job for 21 years and has had to take time off for stress twice .", 
+                "he said at times , staff did not get their meal breaks until `` nine , 10 , 11 hours '' into their 12-hour shifts which was one contributor to stress ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c1381fe4b0ec68546e3a12", 
+            "title": "commuter describes a1 scene as 'absolute havoc '", 
+            "text": [
+                "here 's a photo of the crash scene on the a1 .", 
+                "the accident happened at about 07:55 on the northbound carriageway .", 
+                "one commuter told lincolnshire live said : `` it 's absolute havoc .", 
+                "the crash is just to the south of the bridge where the a46 goes over the a1 and police have stopped both southbound and northbound traffic .", 
+                "`` i did n't see any of the vehicles move an inch .", 
+                "people are going to be stuck in it for a while .", 
+                "hopefully no-one is badly hurt . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c134f9e4b0ec68546e39fd", 
+            "title": "travel : a1 to stay closed until this afternoon", 
+            "text": [
+                "road traffic website inrix has reported one of the lorries involved in the crash was carrying a shipping container .", 
+                "police have not yet given any details of injuries .", 
+                "highways england said the crash is expected to be cleared between 13:15 and 13:30 this afternoon .", 
+                "emergency services continue to work at the scene of a serious collision on # a1 near # newark .", 
+                "the road remains closed both ways at this time ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c132c0e4b07f8d67a01c37", 
+            "title": "force follows in nottinghamshire 's footsteps", 
+            "text": [
+                "north yorkshire police has followed in the footsteps of nottinghamshire police by beginning to .", 
+                "treat misogyny as a hate crime .", 
+                "last year , our force announced it was to become the first in the uk to record verbal abuse and unwanted sexual advances towards women as a hate crime .", 
+                "supt mark khan , north yorkshire 's lead officer for hate crime , said they made the move in response to concerns raised by women on a youth commission panel ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c12336e4b07f8d67a01bd7", 
+            "title": "chilwell boxer hoping for major titles", 
+            "text": [
+                "chilwell boxer jamie williams is already midlands flyweight champion .", 
+                "this saturday , he will join a host of local fighters at the harvey hadden sports village in bilborough for the british challenge belt .", 
+                "jamie is hoping this weekend 's event will lead to major titles ."
+            ], 
+            "author": [
+                "Christian Hewgill", 
+                "Reporter, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c12643e4b07f8d67a01be8", 
+            "title": "delays continue on a1", 
+            "text": [
+                "traffic surrounding newark is understandably exceptionally busy .", 
+                "please take care and allow plenty of extra time for journeys"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c11746e4b08b1f7dee1c97", 
+            "title": "anniversary of pierre van hooijdonk signing remembered", 
+            "text": [
+                "a bit of football trivia for you .", 
+                "on this day 20 years ago , nottingham forest signed pierre van hooijdonk .", 
+                "he scored 41 goals in 77 games , and infamously went on strike in 1998 ."
+            ], 
+            "author": [
+                "BBC Nottingham Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c11f50e4b08b1f7dee1cbb", 
+            "title": "travel : air ambulance at crash", 
+            "text": [
+                "highways england has details of the diversions in place because of the a1 closure .", 
+                "the air ambulance are now also at the scene ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c11c28e4b0ec68546e3976", 
+            "title": "people urged to avoid a1", 
+            "text": [
+                "the fire service is also at the scene of the a1 crash .", 
+                "motorists have been told to avoid the area .", 
+                "crews from # newark and # collingham are currently on scene alongside @ twitterid and @ twitterid at the scene on the # a1 ( 1/2 )", 
+                "( 2/2 ) please avoid the area as the road is expected to be closed for some time ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c119eae4b0ec68546e3971", 
+            "title": "police : a1 will stay shut for 'several hours '", 
+            "text": [
+                "rtc # a1 expected to be closed in both directions at newark for several hours .", 
+                "if you witnessed the rtc please call 101"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c116fee4b07f8d67a01bae", 
+            "title": "traffic and travel : a1 closed after crash", 
+            "text": [
+                "the a1 is closed in both directions at newark at the a46/a17 turn off for lincoln and sleaford .", 
+                "there 's been an accident on the northbound carriageway but one of the lorries involved has overturned across the central reservation .", 
+                "police say the road will be closed for several hours ."
+            ], 
+            "author": [
+                "BBC Radio Lincolnshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c11890e4b0ec68546e396e", 
+            "title": "travel : a1 now closed in both directions", 
+            "text": [
+                "the a1 is now closed in both directions between beckingham road and the a46 .", 
+                "the accident happened on the northbound carriageway and involved two lorries , a van and several other vehicles .", 
+                "one of the lorries has overturned and crashed into the central reservation .", 
+                "it has caused problems to both sides of the carriageway ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c112f9e4b07f8d67a01b97", 
+            "title": "legal issues holding back repair of damaged building", 
+            "text": [
+                "the watson fothergill offices on george street are an example of amazing architecture .", 
+                "but do you see the damage , just above the fence there ?", 
+                "the building was hit by a truck in july 2015 , and the damage has still not been fixed .", 
+                "complex legal and insurance wranglings mean work to repair the building is yet to start .", 
+                "the building 's owners are currently awaiting permission for a team of specialists to inspect it ."
+            ], 
+            "author": [
+                "Dominic Johnson", 
+                "BBC Radio Nottingham reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c1121de4b08b1f7dee1c80", 
+            "title": "watch : fothergill has more than 100 buildings in county", 
+            "text": [
+                "mr fothergill was born in mansfield in 1841 and designed more than 100 buildings around nottinghamshire .", 
+                "his breakthrough as an architect came when he won a competition to design nottingham 's temperance hall , the original albert hall , which was his first building of size and significance ."
+            ], 
+            "author": [
+                "Dominic Johnson", 
+                "BBC Radio Nottingham reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c10f6de4b08b1f7dee1c74", 
+            "title": "can you recognise a fothergill building ?", 
+            "text": [
+                "watson fothergill .", 
+                "do you know who he is ?", 
+                "i 'm checking up on some of his buildings today and this one is in nottingham 's market square .", 
+                "another , in george street , was damaged two years ago and still has n't been fixed ."
+            ], 
+            "author": [
+                "Dominic Johnson", 
+                "BBC Radio Nottingham reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c10b8ce4b07f8d67a01b76", 
+            "title": "rise in number of region 's ambulance staff off with stress", 
+            "text": [
+                "the number of ambulance staff in the east midlands taking time off due to stress and mental health problems has almost doubled in the past five years .", 
+                "figures obtained by bbc radio leicester found that 518 members of staff were off with stress and mental health issues in 2015/16 .", 
+                "this compares with 271 members of staff for the same reasons in 2011/12 .", 
+                "the union unison has said this rise in the number of people going off with stress is because of extra targets and a lack of resources .", 
+                "but east midlands ambulance service ( emas ) has said it is doing all it can to support staff .", 
+                "`` we are committed to improving the level of support provided to staff who may experience stress and have introduced measures to ensure that help is provided as promptly as possible , '' an emas spokesman said ."
+            ], 
+            "author": [
+                "Calum McKenzie", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10439483", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c10caee4b0ec68546e393e", 
+            "title": "travel : slow traffic this morning", 
+            "text": [
+                "there 's nothing major on the roads to tell you about this morning , but there is a lot of heavy rush-hour traffic on several routes , particularly on the a52 in radcliffe-on-trent , clifton boulevard , bramcote and along western boulevard ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c10bb2e4b0ec68546e3938", 
+            "title": "watch : east midlands weather outlook", 
+            "text": [
+                "expect scattered cloud with bright and sunny spells throughout the day .", 
+                "it will feel mild with highs of 13c ( 55f ) ."
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c10a07e4b08b1f7dee1c5a", 
+            "title": "good morning : welcome to today 's live updates", 
+            "text": [
+                "it 's a beautiful , sunny morning and i 'm at the helm , bringing you the news , travel , weather and sport for nottinghamshire today .", 
+                "as always , you can get in touch with any of the stories we discuss today via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-nottinghamshire", 
+    "quality": "high"
+}

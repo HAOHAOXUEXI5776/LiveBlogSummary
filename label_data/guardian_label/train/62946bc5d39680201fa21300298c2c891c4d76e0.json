@@ -1,0 +1,907 @@
+{
+    "blog_id": "62946bc5d39680201fa21300298c2c891c4d76e0", 
+    "title": "Stock trading closed on NYSE after glitch caused major outage \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2015/jul/08/new-york-stock-exchange-wall-street", 
+    "summary": [
+        "market closes .", 
+        "stock exchange resumes trading .", 
+        "nyse president : exchange will re-open today ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d82f9e4b0b0df6a11459b", 
+            "title": "", 
+            "text": [
+                "we 're going to close our coverage of the stock market outage for the day with a quick summary of what happened and what we do and do n't know .", 
+                "the new york stock exchange abruptly shut down at 11.32am local time and did not resume trading until about 3.10pm .", 
+                "nyse president thomas farley said that the outage was caused by technical configuration problem that was fixed , but he did not describe what exactly went wrong and forced the midday shutdown .", 
+                "he said an investigation would begin on wednesday night .", 
+                "homeland security secretary jeh johnson said that there was no indication the outage was linked to nefarious actors or a cyberattack , but law enforcement , sec and treasury officials said that although were in close communication with wall street nonetheless .", 
+                "stocks closed down on the day by about 1.5 % , but without any apparent panic over the technical failures of the us 's premier stock exchange .", 
+                "chinese markets continued a free fall on the other hand , and with debt fears in europe rattled the market .", 
+                "the outage revives questions about the automation of wall street , with some traders raising concerns about the dependency on machines , unintended consequences and having recovery systems in the case of a true disaster .", 
+                "officials said there was no reason to believe the technical problem was linked to coincidental problems in united airlines computer systems or at the wall street journal ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                20, 
+                53
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d8931e4b0c514f96c6759", 
+            "title": "", 
+            "text": [
+                "the outage was caused by a configuration problem in our system that needed fixing , nyse president tom farley has told cnbc , but adds : whether that came up as a result of an update is premature to say .", 
+                "we found what was wrong and we fixed what was wrong and we have no evidence whatsoever to suspect that it was external .", 
+                "tonight and overnight starts the investigation of what exactly we need to change .", 
+                "do we need to change those protocols ?", 
+                "absolutely .", 
+                "exactly what those changes are i 'm ' not prepared to say .", 
+                "farley argues that suspending trading on the floor was actually the lesser of two evils compared to shifting trading to the emergency recovery center in chicago .", 
+                "it was never really an option for us to go to the disaster recovery , he says .", 
+                "the nyse would have shifted to chicago only in the event of a catastrophe , a hurricane or something similar , he adds .", 
+                "we have a playbook that we follow , and that involves making a decision like i did today , he says .", 
+                "one of the important concepts or precepts of our plan is to choose the least disruptive option to customers wherever possible .", 
+                "ultimately while we think of the cloud and the ether and the internet , ultimately you 're connecting to a place \u0080\u00a6 so in order to go to a disaster recovery system you need to point to that place .", 
+                "finally he adds that the nyse was in near constant communication , not just today with government and security agencies ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                20, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d8662e4b0b0df6a11459f", 
+            "title": "", 
+            "text": [
+                "no matter how bad a day today was for the tech developers at the nyse , traders in china had a worse day as their stock market continued its three-week nosedive .", 
+                "they 've also had a bit of fun at new york 's expense .", 
+                "buzzfeed has collected and translated some of the better quips : in order to set an example of trading halt for china 's stock markets , nyse did its best1 is it because nyse traders bought chinese stocks ?", 
+                "maybe it 's done by our men .", 
+                "you can read the set here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                20, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d817de4b0b0df6a114598", 
+            "title": "market closes", 
+            "text": [
+                "the bells sound and the traders clap : it 's closing time on wall street after a three and a half hour outage blamed on technical problems .", 
+                "although the nyse was closed for half the day , trading continued through other venues , and the day of decline continued as concerns about the chinese market and greek debt influenced the market .", 
+                "all in all , the dow was down about 260pts ( 1.47 % ) , the s & p down 35pts ( 1.67 % ) and the nasdaq down 87pts ( 1.75 % ) not a great day for wall street , though nothing like the free fall and panic from the day in china ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                20, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d7d9ce4b0c514f96c6746", 
+            "title": "", 
+            "text": [
+                "need more dystopia in your day of wall street semi-shutdowns ?", 
+                "molly crabapple has your apocalyptic vision over at comment is free .", 
+                "outside , i take in the scene : street preachers denouncing gnosticism , a lone banker trying to garrote himself with ticket tape , and the bull that gold , beautiful bull running through the streets like zeus .", 
+                "i chase after it for a quote , but , like the dubious financial transactions powered by super-compressors , it is too quick .", 
+                "smoke .", 
+                "weeping .", 
+                "screams .", 
+                "i hire now-former jp morgan ceo jamie dimon as my local fixer .", 
+                "tell me the ways of your people , caught as they are between the present and the ancient past , i demand , offering him half a hotdog as payment .", 
+                "instead , he weeps .", 
+                "he tried to seek shelter at the dungeon of his favorite pro domme , he tells me , but when his black card bounced she slammed the door in his face .", 
+                "in zuccotti park , once the home of occupy , the ex-goldman sachs boys have built a squatters city out of herm\u00e3\u00a8s gift boxes that were meant for their mistresses .", 
+                "they communicate only by wiggling their fingers .", 
+                "no cops try to roust them .", 
+                "behind us , tiffany 's burns .", 
+                "then we hear the chanting .", 
+                "dear god .", 
+                "the chanting .", 
+                "dimon and i run towards it .", 
+                "you can read the full piece eldritch offerings , taurine testicles and all here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-559d7d10e4b0c514f96c6745", 
+            "title": "", 
+            "text": [
+                "four hours later and less than half an hour before closing time , the new york stock exchange announces that it 's back to business as usual .", 
+                "cnbc now ( @ cnbcnow ) breaking : nyse says `` all systems are functioning normally '' after trading resumed after 3+ hour trading halt \u00e2 \u00bb"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d7973e4b0b0df6a11458a", 
+            "title": "", 
+            "text": [
+                "market outages are neither uncommon nor much of a problem for investors , according to the wall street journal , which has published a story about closures not long after the newspaper 's own site went down on wednesday .", 
+                "no exchange has exclusive rights to trade any stock or exchange-traded fund , except during the opening and closing of trading .", 
+                "apart from those brief periods , trading takes place at any of a dozen exchanges and more than 40 private trading venues , known as dark pools .", 
+                "outages could hurt traders and investors if they have orders sitting on the order book of an exchange that has a problem .", 
+                "so if an institution has an offer at an exchange to buy 1,000 shares of apple inc at a certain price , and the market stops trading , it can cause uncertainty .", 
+                "the institution might not be able to find out whether its order traded , and it could have trouble canceling the order .", 
+                "the nyse said in a note to traders that all open orders had been canceled except the long-term requests to buy or sell put in by institutions that are known as good-till-cancel orders .", 
+                "outages have hit the markets every few months in recent years , the journal continues , adding that the real problem would have been the prevention of closing auctions when most trading takes place .", 
+                "those final auctions also set the closing price for nyse-listed stocks and set the markets in place for businesses and investors to take stock ( sorry ) of the day .", 
+                "many firms use those final prices to mark the value of their portfolios and set risk parameters .", 
+                "without those closing prices , they might be forced to use less-accurate prices , and that could affect other trading decisions .", 
+                "there is some precedent for resolving problems with the closing auctions .", 
+                "in november 2012 , technical issues forced the nyse to find an alternative when it could n't hold closing auctions for 216 stocks , according to a note put out by credit suisse trading researchers wednesday afternoon .", 
+                "in that case , the nyse determined a closing price by monitoring transactions at other venues ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d76c1e4b0c514f96c673d", 
+            "title": "", 
+            "text": [
+                "as the machines once again match bids and quotes , the stock exchange tweets its official blessing upon the markets .", 
+                "there 's no fanfare on the floor just numbers gradually starting to change again on monitors and a little more activity among the traders .", 
+                "nyse ( @ nyse ) trading on nyse and nyse mkt has resumed"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d7058e4b0c514f96c6735", 
+            "title": "stock exchange resumes trading", 
+            "text": [
+                "the new york stock exchange has returned to business after more than three and a half hours of an unexpected closure , which officials blamed on technical problems .", 
+                "the exchange closed at 11.32am et and re-opened just under an hour before the close of markets at 4pm et .", 
+                "the secretary of the department of homeland security said that there 's no indication the abrupt stoppage was linked to nefarious actors .", 
+                "nyse president thomas farley said that the technical problem was identified and addressed but did not describe what happened .", 
+                "officials said there was no reason believe that the nyse glitch is at all linked to coincidental technical problems at united airlines and the wall street journal .", 
+                "although trading continued apparently on other open exchanges apparently unperturbed by the outage , the dow is currently more than 200 points down ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                11
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d71cae4b0b0df6a114575", 
+            "title": "", 
+            "text": [
+                "it was a mess from the open , a broker has told reuters , which runs down what happened this morning and the importance of closing time on wall street .", 
+                "some of the internet ports to the nyse would not connect , or would unexpectedly disconnect , and this was happening from before market opened until the halt , the broker said .", 
+                "the exchange does a lot of its business at the close of trading , and if it 's still down then , the problems could increase .", 
+                "that could be a major problem , said peter costa , president of boutique trading firm empire executions inc .", 
+                "the bigger issue is that there are unfilled orders that would likely not get filled at the closing price ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d727fe4b0b0df6a114577", 
+            "title": "", 
+            "text": [
+                "they do n't need human beings , an options trader opines on the tech woes of wall street , in video shot by my colleague jana kasperkevic ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                19, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-559d720be4b0c514f96c6736", 
+            "title": "", 
+            "text": [
+                "officials at the nyse have just announced that they have a plan , cnbc reports .", 
+                "officials have said they 're going to try to open the american stock exchange at 3.05pm et and the new york stock exchange at 3.10pm et , leaving just under an hour of trading if the gates re-open without a hitch ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d628ee4b0b0df6a114540", 
+            "title": "", 
+            "text": [
+                "does the automation of the stock market mean many more days of glitches , breaks and malfunctions interrupting the rivers of cash moving around the world ?", 
+                "at least one trader foresees problems in the rise of the machines but says that does n't mean the markets need people per se .", 
+                "my colleague jana kasperkevic ( @ kasperka ) reports from outside the nyse .", 
+                "hours into the unexpected break in trading , an options trader who gave his name as chris stepped outside to puff away on his e-cigarette , and eventually relented to questions about the hours-long break in trading .", 
+                "we need better technology .", 
+                "i mean , this has n't happened ever on the new york stock exchange , for what they say , he said .", 
+                "i 'm in options .", 
+                "i am not on the equity floor .", 
+                "i have never seen this happen on the new york stock exchange ever , where all symbols halt at the same time .", 
+                "it makes me worried that they are trying to make this a fully automated exchange , and what they are doing , they are slowing things down on purpose , saying \u0080\u0098we do n't need people . '", 
+                "if we had different technology and we did n't have people running certain things , we would n't have this problem .", 
+                "they are trying to make everything electronic .", 
+                "that 's what happened .", 
+                "but does the exchange need people ?", 
+                "they do n't need human beings ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d6642e4b0b0df6a11454a", 
+            "title": "", 
+            "text": [
+                "fortune magazine has also postulated that a problem in a software update is what brought the nyse to its knees or at least froze it in place , since stocks are trading in other venues .", 
+                "( via @ twitterid ) .", 
+                "eric scott hunsader , an expert in wall street trading systems who heads market data firm nanex , said that it appears that a faulty system upgrade brought trading on the exchange to a halt .", 
+                "the nyse has reportedly also told floor traders the exchange had to suspend trading due to an error with a systems upgrade that was rolled out before the market opened on wednesday .", 
+                "the guardian 's sam thielman has a couple follow-up questions .", 
+                "sam thielman ( @ samthielman ) if fortune is right that a `` systems upgrade '' broke the nyse , a ) who makes that software b ) is that company publicly traded c ) can i short it"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d6658e4b0b0df6a11454b", 
+            "title": "", 
+            "text": [
+                "farley projected the nyse to resume trading within the hour , which would give the exchange roughly an hour of running normally before the daily close of 4pm et .", 
+                "meanwhile the new york times ' nathaniel popper reports that the nyse had to manually cancel some 700,000 existing orders so that it could restart the exchange , citing a trader on the floor .", 
+                "nathaniel popper ( @ nathanielpopper ) floor trader says the nyse is rebooting its systems , which can take 45 minutes , and hopes everything is working when it 's up again"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d66bae4b0c514f96c670d", 
+            "title": "nyse president : exchange will re-open today", 
+            "text": [
+                "the nyse will be up and running again before close today , president thomas farley has just told cnbc .", 
+                "we identified the issue and we have that addressed , he says , estimating between a return to business around 2.45-3pm .", 
+                "he adds that it 's premature to say what the actual issue is .", 
+                "our system is more than just software , the network connectivity , the various external internal sources , and the actual hardware .", 
+                "it 's not a good day and i do n't feel good for our customers who continue to deal with the fallout .", 
+                "farley adds : i wanted my team to take their time and get it right , be open for the close .", 
+                "he says that he does not believe there 's any connection between the glitches that occurred today at different organizations , and that if there had been a catastrophic issue then there is a disaster recovery plan in place .", 
+                "you need to have absolute resiliency ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d64cae4b0c514f96c6708", 
+            "title": "", 
+            "text": [
+                "guardian editors weigh in .", 
+                "tech support from national security editor spencer ackerman .", 
+                "spencer ackerman ( @ attackerman ) have they tried turning the stock exchange off & turning it back on ?", 
+                "the usual suspects , courtesy business editor dominic rushe .", 
+                "dominic rushe ( @ dominicru ) # nyse shutdown was it a ) time warner cable went down or b ) y2k ?", 
+                "and a fear of time itself from live editor paul owen .", 
+                "paul owen ( @ paultowen ) was it the leap second that caused all this chaos ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                18, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d623fe4b0c514f96c66fd", 
+            "title": "", 
+            "text": [
+                "at this point it 's unclear what kind of impact this particular glitch will have , adds earnest , to whom guardian dc bureau chief dan roberts was also listening .", 
+                "earnest says it 's too early to offer an assessment [ on any economic impact ] but said the treasury department and securities and exchange commission were closely monitoring the situation .", 
+                "the nyse has not given any indication as to its timeline for resolving the problem , and trading continues on other exchanges .", 
+                "on wall street life goes on .", 
+                "traders outside the nyse kasperkevic"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d5fcbe4b0c514f96c66f0", 
+            "title": "", 
+            "text": [
+                "president barack obama was briefed this morning on the suspension on wall street , white house press secretary josh earnest has just said during a press briefing .", 
+                "earnest 's message ( paraphrased ) : do n't panic .", 
+                "the officials at the stock exchange are working feverishly , as you would expect .", 
+                "earnest said that there is no indication that malicious actors are involved in these technology issues and that nyse officials had been in close touch with the department of homeland security , with the [ sec ] as well as the treasury department .", 
+                "dan roberts ( @ robertsdan ) obama briefed on nyse outage by homeland security adviser lisa monaco who says 'no indication of malicious actors involved ' says @ twitterid earnest goes on to say that more generally , the government is keenly aware of the risk in cyberspace that exists right now and wants to improve communication between the private sector and the federal government .", 
+                "china and russia have been recently blamed for massive data breaches and cyber attacks against the us government , including on data of people with security clearances and on the white house email system .", 
+                "our security posture is continually evolving , earnest says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d5df1e4b0b0df6a11452c", 
+            "title": "", 
+            "text": [
+                "two hours into the stoppage , the apparent electronic glitch is not inspiring wall street about the quality of the exchange , guardian us business editor dominic rushe ( @ dominicru ) reports : jack ablin , chief investment officer of bmo private bank , said he initially worried that china 's woes had spread to the us when he heard the news and was relieved that it appeared to be a technical glitch .", 
+                "that said it does n't add a lot of confidence in the markets when investors do n't have a lot to begin with , he said .", 
+                "china 's stock markets have fallen more than 30 % in the last three weeks after massive gains in the last year .", 
+                "at cnbc , journalists and investors are avidly discussing the foibles and flaws of one of the most important stock exchanges in the world .", 
+                "at the nyse this is a manual process , said sal arnuk , a principal at themis trading .", 
+                "is the nyse technologically the most ( robust ) exchange in the world ?", 
+                "no .", 
+                "the fact of the matter is the different exchange operators have diverse standards , different architecture .", 
+                "some of them are more legacy than others .", 
+                "this is to be expected from time to time .", 
+                "meanwhile a trader has told the new york times on condition of anonymity that after trading stopped , they were told that the problem was related to updated software that was rolled out before markets opened .", 
+                "according to the trader , the exchange said that the new software caused problems soon after trading began on wednesday and the exchange decided to shut down trading all together to fix the problem ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d59f3e4b0c514f96c66d6", 
+            "title": "", 
+            "text": [
+                "the exchange has been closed for more than an hour and a half now , since 11.32am .", 
+                "the longer it goes the more traders emerge to smoke , notes my colleague jana kasperkevic but the traders are pretty insouciant about the break , at least so far .", 
+                "at about 1 pm an hour and a half after the trading halted at 11.32am , one of the traders walked over to the barricades .", 
+                "he had been standing a few feet away in the comfortable shade of the building he works at .", 
+                "after a reporter beckoned him , he strolled over and other reporters flocked to him .", 
+                "what ?", 
+                "do you want my autograph now ?", 
+                "he asked .", 
+                "i ca n't comment , he said .", 
+                "when asked if the trading being halted for more than hour and a half , he smiled : what 's scary is you asking me all these questions ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d5b97e4b0b0df6a11451d", 
+            "title": "", 
+            "text": [
+                "homeland security secretary jeh johnson is delivering a speech on cybersecurity in washington , and opened by saying the stoppage is not due to nefarious actions .", 
+                "the guardian 's ben jacobs is listening in .", 
+                "ben jacobs ( @ bencjacobs ) johnson : it appears that today we had a system malfunctions at united , the new york stock exchange and the wall street journal ben jacobs ( @ bencjacobs ) johnson says it appears that the malfunctions at united and nyse was not the result of nefarious actions .", 
+                "we know less about the wsj"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d5764e4b0c514f96c66c5", 
+            "title": "", 
+            "text": [
+                "my colleague jana kasperkevic is on wall street , where the exchange looms up over the sidewalk .", 
+                "she reports : the new york state exchange stand regal in the downtown manhattan , one side of it draped in huge american flag .", 
+                "even as tourists snap selfies and family portraits nearby , the building remains inaccessible as the traders who work on its floors are separated from the public by metal barricades .", 
+                "the exchange has claimed at least a ten-feet wide sidewalk , where traders can smoke in peace .", 
+                "and smoke they did on wednesday .", 
+                "about an hour after the trading halted , one walked out .", 
+                "what happened ?", 
+                "two photographers standing nearby asked .", 
+                "he shrugged , the system crashed .", 
+                "jana kasperkevic ( @ kasperka ) bunch of tourists snapping selfies outside # nyse .", 
+                "maybe it 's the flag ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d56d0e4b0c514f96c66c3", 
+            "title": "", 
+            "text": [
+                "a us official has told the guardian that there is no indication anything that happened today was the result of any malicious actor , cyber attack , etc .", 
+                "the day is apparently full of coincidences of a technically glitchy nature , however .", 
+                "united airlines grounded all us flights over computer issues earlier on wednesday , telling my colleague amanda holpuch ( @ holpuch ) the major delays were due to a network connectivity issue .", 
+                "the wall street journal 's website also briefly shut down around midday .", 
+                "meanwhile in washington fbi director james comey warned senators about the dangers of commercial encryption and urged them to allow backdoor access into encryption software .", 
+                "homeland security secretary jeh johnson is scheduled to give a speech on cybersecurity later today .", 
+                "for the more conspiracy-minded readers out there , hacker collective anonymous has the tweet for you , sent late last night .", 
+                "anonymous ( @ youranonnews ) wonder if tomorrow is going to be bad for wall street we can only hope ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                17, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d5518e4b0c514f96c66b9", 
+            "title": "", 
+            "text": [
+                "the nyse has elaborated a bit on the closure , saying it was caused by an internal technical issue and is not the result of a cyber breach .", 
+                "a spokesperson for the nyse released this statement : we 're currently experiencing a technical issue that we 're working to resolve as quickly as possible .", 
+                "we will be providing further updates as soon as we can , and are doing our utmost to produce a swift resolution , communicate thoroughly and transparently , and ensure a timely and orderly market re-open .", 
+                "even should the nyse resolve its technical issue promptly , the intercontinental exchange that owns it will inevitably face questions as to why it apparently gave no forewarning that it would shut down trading in the middle of an otherwise normal workday .", 
+                "nyse ( @ nyse ) ( 2 of 3 ) we chose to suspend trading on nyse to avoid problems arising from our technical issue .", 
+                "nyse ( @ nyse ) ( 3 of 3 ) nyse-listed securities continue to trade unaffected on other market centers ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                16, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-559d518de4b0b0df6a1144e9", 
+            "title": "", 
+            "text": [
+                "the new york stock exchange unexpectedly stopped all trading at about 11.30am et on wednesday after a major technical issue .", 
+                "the nyse 's website only reads : additional information will follow as soon as possible .", 
+                "other exchanges such as the nasdaq remain open and functioning , and although law enforcement agencies have said they are investigating , the department of homeland security said there was no sign of sus activity .", 
+                "the largest stock exchange in the us has suffered from technical problems before , though never of such duration or scale .", 
+                "the apparent technical issue coincides with sharp falls in the chinese stock market and fears in europe over the greek debt crisis .", 
+                "we 'll include updates on the nyse , markets and other developments here , assisted by my colleague jana kasperkevic ( @ kasperka ) on wall street , and dan roberts ( @ robertsdan ) and ben jacobs ( @ bencjacobs ) will report on any developments on washington about the stoppage ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                7, 
+                8, 
+                16, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.06pm BST\n21:06\nMarket closes\n", 
+                "block": "block-559d817de4b0b0df6a114598"
+            }, 
+            {
+                "text": "\n\n8.11pm BST\n20:11\nStock exchange resumes trading\n", 
+                "block": "block-559d7058e4b0c514f96c6735"
+            }, 
+            {
+                "text": "\n\n7.14pm BST\n19:14\nNYSE president: exchange will re-open today\n", 
+                "block": "block-559d66bae4b0c514f96c670d"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Wall Street trading ceased for more than three and a half hours.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Stoppage coincides with glitch at United Airlines and sharp global market falls.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/2015/jul/08/new-york-stock-exchange-halts-trading", 
+                    "https://www.theguardian.com/us-news/2015/jul/08/planes-traders-apocalyptic-glitches-tech-quake-internet-jokes", 
+                    "https://www.theguardian.com/commentisfree/2015/jul/08/new-york-stock-exchange-suspends-trading-wall-street-aftermath"
+                ], 
+                "text": "Read the latest report, the social media reaction and the dystopian aftermath.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

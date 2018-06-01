@@ -1,0 +1,1467 @@
+{
+    "blog_id": "ee4b98b29de87da9c9cb93a108bb02409bdc94a6", 
+    "title": "US blizzard: Forecasters row back on dire warnings - as it happened | US news | The Guardian", 
+    "url": "https://www.theguardian.com/us-news/live/2015/jan/26/north-east-blizzard-juno-live", 
+    "summary": [
+        "new york and new jersey travel ban in force .", 
+        "amtrak suspends service between boston and new york .", 
+        "new jersey travel ban from 11pm .", 
+        "updated snowfall forecast .", 
+        "connecticut travel ban in force now .", 
+        "nyc mayor de blasio : `` this is the calm before the storm ''", 
+        "6,500 flights cancelled in north-east ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c76443e4b03a9bdfa807c8", 
+            "title": "", 
+            "text": [
+                "this blog is closing now , but my colleague in the thick of it in new york , alan yuhas , will be covering the blizzard at this new blog here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                10, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c75e10e4b0bff06d86646e", 
+            "title": "", 
+            "text": [
+                "how long will it take for the media to turn on forecasters and public officials for over-reacting ?", 
+                "forecasters originally said the storm could bring 1 to 3 feet of snow and punishing hurricane-force winds .", 
+                "the east coast is starting to wake up to a bad snowstorm - but nothing as dramatic as forecast ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                9, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c74a95e4b087a04fca559b", 
+            "title": "", 
+            "text": [
+                "british airways has delayed or cancelled several flights to new york from london this morning , but flights scheduled for departure this afternoon are still on time .", 
+                "british airways ( @ british airways ) heavy snow in the east coast usa is affecting some flights .", 
+                "check your flight status here [ 08:01 27jan ]"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                8, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c74750e4b026561948365a", 
+            "title": "", 
+            "text": [
+                "alex hern has more on those problems at facebook and instagram that caused brief panic among snowbound americans in the north-east .", 
+                "multiple major social networks failed tuesday morning , including facebook , tinder , instagram , aol instant messenger , and hipchat .", 
+                "the services have since recovered .", 
+                "the cause of the outage , which began around 6:20am gmt and ended 40 minutes later , is not yet known .", 
+                "one leading candidate is an attack on the company 's dns servers , which turn requests for a specific url ( such as facebook.com ) into an actual ip address , which points to one server on the internet .", 
+                "however the outage occurred , it hit both the websites and apps of the affected services .", 
+                "facebook-owned instagram returned a ca n't refresh feed '' error , while the facebook website itself simply failed to resolve in the browser .", 
+                "facebook 's failure seemed to be so major that it has cascaded into app such as tinder that rely on the social network for login functionality .", 
+                "yet not every facebook-owned service failed .", 
+                "whatsapp , acquired by mark zuckerberg 's company in february 2014 , remains functional .", 
+                "facebook has not yet responded to requests for comment , and has not said anything publicly about the outage , although instagram tweeted that it was aware of the failure and working to fix it .", 
+                "you can read the story in full here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                8, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c7421be4b03a9bdfa807a2", 
+            "title": "", 
+            "text": [
+                "photos from the not so great blizzard in the us north-east .", 
+                "jamina goop , from liechtenstein , does a handstand during a snow storm in times square , new york early on tuesday .", 
+                "latif/reuters workers clear the sidewalks during a snowstorm in times square , new york on tuesday morning .", 
+                "latif/reuters empty bread shelves at the stop and shop at south bay in boston on monday .", 
+                "friedman/rick friedman/rick @ rickfriedman.com/corbis"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                7, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c73e78e4b0265619483659", 
+            "title": "", 
+            "text": [
+                "this is mark tran up the baton in london .", 
+                "it did not long for people to joke about the storms and outages that made facebook and instagram temporarily inaccessible in the us , asia , the uk and australia .", 
+                "spencer pratt ( @ spencerpratt ) this blizzard is so bad in nyc mayor @ twitterid shut down insta and facebook ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                7, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c73ba7e4b03a9bdfa807a1", 
+            "title": "", 
+            "text": [
+                "a blizzard warning has been issued for suffolk county in new york .", 
+                "the advisory warns of severe conditions and dangerous travel conditions : a blizzard warning means severe winter weather conditions are expected or occurring .", 
+                "falling and blowing snow with strong winds and poor visibilities will lead to whiteout conditions making travel extremely dangerous .", 
+                "do not travel .", 
+                "if you must travel have a winter survival kit with you ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                7, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c73653e4b0bff06d866431", 
+            "title": "", 
+            "text": [
+                "my colleague oliver laughland has posted this summary of events so far : snowfall has not yet reached the historic levels predicted in new york city and across the north-east of america , with forecasters beginning to row back from predictions of an historic snowstorm engulfing the region .", 
+                "governors in states including new york , new jersey , connecticut and massachusetts imposed wide ranging travel bans throughout affected regions , with snowfall as deep as three feet predicted overnight .", 
+                "in new york city the mayor bill de blasio took the drastic step of closing the subway system , one of the largest and oldest in the world , at 11pm as the travel ban came into play .", 
+                "all vehicles were banned from roads in 13 counties in new york , with drivers facing $ 300 fines if caught in violation of the restrictions .", 
+                "by 1:30 est , however , some forecasters appeared to have downgraded the predicted levels of snowfall to around a foot in new york city .", 
+                "predictions were still as high as two feet in boston , massachusetts .", 
+                "around 6,500 flights in the region were cancelled , with many not expected for rescheduling until wednesday .", 
+                "train routes between new york and boston were also cancelled .", 
+                "national guard troops were also deployed around the north-east to assist first responders .", 
+                "blizzard warnings and travel bans remain in place throughout the region as heavy snowfall is forecast to continue into tuesday .", 
+                "i 'll be taking over our live coverage as conditions continue to change throughout the night ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                6, 
+                58
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c73341e4b074fbabe7c18a", 
+            "title": "", 
+            "text": [
+                "the latest weather updates in new york city indicate that moderate to heavy snow is still expected over the new several hours : ny metro weather ( @ nymetrowx ) in nyc , se ny , far ne nj , ct , li - mod/heavy snow still expected next several hours .", 
+                "nyc on fringe of heaviest snow as discussed earlier .", 
+                "ny metro weather ( @ nymetrowx ) for much of southwestern and central nj , becoming clear that our uncertainties earlier were warranted .", 
+                "heavy snow not making it there .", 
+                "the national weather service has also cancelled the winter storm warning for philadelphia .", 
+                "a winter weather advisory will instead be in effect until 3pm est : the national weather service in mount holly has issued a winter weather advisory for snow and blowing snow which is in effect until 3pm est this afternoon .", 
+                "the winter storm warning has been cancelled .", 
+                "a winter weather advisory means that periods of snow , sleet or freezing rain can cause travel difficulties , and people are advised to prepare for slippery roads and limited visibility ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                6, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c72f9fe4b087a04fca5593", 
+            "title": "", 
+            "text": [
+                "just as a reminder to our readers we are continuing to gather of conditions with our guardianwitness assignment .", 
+                "here 's how readers can help us stay up to date on weather conditions throughout the night : we need you to help be our eyes and ears during the blizzard by sending us your best photos , videos , and stories from the north-east snowstorm .", 
+                "are you stuck in a traffic jam or facing empty shelves at the supermarket ?", 
+                "is your train station packed with commuters eager to get home before the shutdowns ?", 
+                "or are you building snowmen and cuddling up with your pets to wait out the bad weather ?", 
+                "or are you seeing news much worse than that ?", 
+                "upload your submissions to guardian witness and we 'll use the best in our live coverage of the storm ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                6, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c72e02e4b03a9bdfa8079b", 
+            "title": "", 
+            "text": [
+                "mount holly meteorologist gary szatkowski has tweeted an apology over some of the storm predictions for this evening in the new jersey and philadelphia metropolitan area : gary szatkowski ( @ garyszatkowski ) my deepest apologies to many key decision makers and so many members of the general public .", 
+                "gary szatkowski ( @ garyszatkowski ) you made a lot of tough decisions expecting us to get it right , and we did n't .", 
+                "once again , i 'm sorry .", 
+                "he also said that there are still high impact weather conditions expected for new england , and added that new york city is still likely to see high snowfall : gary szatkowski ( @ garyszatkowski ) this is a big storm further off to our northeast .", 
+                "new york city will see good amounts of snow , and for portions of new england it will gary szatkowski ( @ garyszatkowski ) be very high impact .", 
+                "but for much of new jersey , and for the philadelphia metropolitan area , this is a big forecast miss ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                6, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c72a17e4b03a9bdfa8079a", 
+            "title": "", 
+            "text": [
+                "here 's an image from the upper west side in manhattan right now , where paul lewis has just filed his latest update and spoke with marty and jackie , below .", 
+                "while conditions are not ideal , the anticipated levels of snowfall have not yet been reached .", 
+                "marty and jackie enjoy a stroll through the upper west side near 72nd street as conditions begin to deteriorate in manhattan .", 
+                "knox"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                6, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c72832e4b087a04fca5592", 
+            "title": "", 
+            "text": [
+                "my colleague paul lewis has just provided this further update from manhattan .", 
+                "people are still waiting to see whether this snowstorm will be as severe as has been expected , but the view from some on the ground is certainly skeptical : cable tv may be warning of a snowpocalypse , but manhattan right now is eerily and even deflatingly quiet .", 
+                "shortly before midnight the streets were covered with a light dusting of snow and the wind was up , but nothing that seemed out of the ordinary for a january night - except , of course , for the empty streets .", 
+                "but the snow ploughs and police cars do n't seem to have much to do .", 
+                "on the upper west side , beside a dog park near 72nd street , i saw a lawyer called marty was enjoying a leisurely stroll and cigar .", 
+                "it 's only a very small little dutch cigar .", 
+                "it 's nice for it .", 
+                "not windy , not cold , '' he said .", 
+                "his wife , jackie , also a lawyer , concurred .", 
+                "it 's pretty .", 
+                "but there is n't enough .", 
+                "we 're new yorkers .", 
+                "we want like a lot of fun .", 
+                "we want two feet of snow , three feet of snow . ''", 
+                "that sense of mild disappointment was shared with most people who i spoke to who had stepped outdoors nervously expecting to be confronted by what mayor bill de blasio said would be a snowstorm of historic proportions .", 
+                "that could still happen , of course , and the worst of the weather is still not due to arrive for a few hours .", 
+                "perhaps prematurely , but people were already speculating whether the mayor would have some explaining to do .", 
+                "he 's got the cops , the firefighters , the sanitation officers , the snow ploughs , all ready and all guns blazing , '' said a construction worker in fraunces tavern , the only bar open in wall street , eight miles south .", 
+                "he 's closed the subway so no-one can get home .", 
+                "he 's thinking this is gon na be the worst storm of the century .", 
+                "look out the window .", 
+                "what do you see out there ?", 
+                "nothing . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                5, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c722f7e4b0bff06d866426", 
+            "title": "", 
+            "text": [
+                "conditions in new york city are set to rapidly deteriorate '' according to the new york forecasting site , new york metro weather : ny metro weather ( @ nymetrowx ) rapidly deteriorating conditions in manhattan over the next 30 minutes .", 
+                "same for nj shore , ne nj/se ny near hudson river .", 
+                "ny metro weather ( @ nymetrowx ) heavy snow being reported at lga and in central park ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                5, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c71c6fe4b074fbabe7c184", 
+            "title": "", 
+            "text": [
+                "my colleague paul lewis has been out in manhattan looking at the consequences of the snowstorm for new york city 's tens of thousands of homeless people .", 
+                "he spoke to one man , trenton lynton-moore , a 23 year old from texas , trying to find somewhere dry for the night .", 
+                "here 's paul 's report in full : one consequence of new york shutting the subway at 11pm : homeless people have fewer places to shelter .", 
+                "i met trenton lynton-moore just now , shortly after he was turfed out of fulton subway station , near wall street .", 
+                "he stopped me near a cartier jewellery store and asked if i knew where the nearest shelter was .", 
+                "i told him there was a snowstorm coming .", 
+                "tonight ? ''", 
+                "he said .", 
+                "how long is going to last ? ''", 
+                "he added : i got , like , four pairs of pants , three pairs of shirts .", 
+                "blanket , coat .", 
+                "i just got ta keep from getting wet .", 
+                "once these get wet , '' he said , pointing to his converse shoes , they 're out .", 
+                "and the tips are wet already . ''", 
+                "new york city 's annual count of the homeless population was supposed to take place tonight .", 
+                "that 's been postponed .", 
+                "instead , the city has doubled its team of outreach workers , who will spend the night visiting the places homeless people tend to congregate , and ferrying the willing to shelters .", 
+                "refuges acoss the city like the bowery mission are prepared for the worse and ensuring they have extra capacity .", 
+                "some transit ports are unofficially opening their doors , too .", 
+                "shortly before i bumped into lynton-moore i saw a few dozen homeless people gathering at the south ferry terminal and the guards suggested they would let them stay .", 
+                "but people like lynton-moore , 23 , are harder to reach , and do n't always know where to go .", 
+                "he 's from dallas , texas , and spent some months recently in colorado , with his uncle , but things did n't work out .", 
+                "he met someone who was driving to new york .", 
+                "i came across some money , and i just thought , i 've never actually seen it .", 
+                "so i 'm going to see it , '' he said .", 
+                "and here i am . ''", 
+                "that was two weeks ago .", 
+                "he has n't wanted to stay in shelters so he 's been sleeping on subway trains .", 
+                "lynton-moore said he knew there was something wrong with the weather when he walked passed the time warner center and saw a tv reporter a few hours ago .", 
+                "the man was stood there outside the building , talking to the tv camera .", 
+                "they were talking about how cold it was .", 
+                "i stood there watching him for a bit .", 
+                "but i did n't stay long enough to actually hear there was a snowstorm . ''", 
+                "trenton lynton-moore a 23 year-old man from dallas , texas .", 
+                "he is homeless on the night of a snow storm in new york lewis for the guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                5, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c718ace4b074fbabe7c183", 
+            "title": "", 
+            "text": [
+                "forecasters are still divided over whether the initial predictions of a history making storm were incorrect .", 
+                "some are forecasting the storm is about to peak : eric fisher ( @ ericfisher ) peak of the storm about to begin .", 
+                "latest discussion from @ twitterid weather underground ( @ wunderground ) nyc radar shows band of heavy snow inching its way toward metro area whilst others appear to accept their assessments may have been inaccurate : kate bilo cbs3 ( @ katebilo ) please understand that if the storm does n't materialize as expected , nobody is harsher on meteorologists than ourselves .", 
+                "we know .", 
+                "the forecast referenced earlier in the blog , published by the weather channel and updated roughly every half an hour , has remained the same ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                4, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c7165be4b0265619483652", 
+            "title": "", 
+            "text": [
+                "my colleague nicky woolf has spent the evening down in the bronx at a diner where staff were hoping for some last minute orders of blizzard comfort food .", 
+                "they did n't quite materialise before the 11pm travel ban .", 
+                "here 's nicky 's report : in the bronx , the staff of the land and sea diner were prepared for a busy night that has n't arrived , as new yorkers hunkered down for the promised storm .", 
+                "a few orders of comfort food - soups and steak sandwiches - went out , but de blasio 's warning that the travel ban included delivery drivers had clearly hit home .", 
+                "delivery drivers stood around , eating fries and listening to calypso music , waiting for a rush - and a blizzard - that never arrived .", 
+                "a tro fish named wiggly swam laconically in his tank .", 
+                "the few hardy travellers on the subway , running to catch the last trains back toward manhattan as the 11pm travel deadline drew near , were the exception .", 
+                "the streets , under curfew , were empty , except for a few police cruisers , flashing lights and spinning wheels in the already-browning slush ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                4, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c70e97e4b089fc37336186", 
+            "title": "", 
+            "text": [
+                "cnn 's don lemon has spent the last few hours driving around the streets of new york in a car he 's named the blizzardmobile .", 
+                "needless to say , as the storm has n't really hit the city yet , his efforts are being mocked pretty mercilessly on twitter .", 
+                "and given there 's now a travel ban in the city , some people are asking what the newsreader is doing out there in the first place .", 
+                "lemon has now reassured viewers that cnn have been given permission by the police to continue driving : craig kanalley ( @ ckanal ) .", 
+                "@ donlemon as `` blizzardmobile '' traverses nyc 's empty streets : i want people of twitter to know i 'm wearing a seatbelt oliver laughland ( @ oliverlaughland ) don lemon is currently interviewing a # deflategate panel from the # blizzardmobile chris bailey ( @ kentuckyweather ) cnn and the blizzardmobile have nothing on our @ twitterid snowgomobile we send @ twitterid out in .", 
+                "# kywx # wkytruleswinter"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                4, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c70d58e4b089fc37336185", 
+            "title": "new york and new jersey travel ban in force", 
+            "text": [
+                "it 's now 11pm and travel bans are in place in 13 counties in new york and throughout new jersey .", 
+                "bill de blasio ( @ billdeblasio ) starting now , only authorized vehicles are allowed on new york city streets .", 
+                "please stay off the roads and stay safe .", 
+                "# safenyc"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                4, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c70375e4b089fc37336181", 
+            "title": "", 
+            "text": [
+                "as was noted earlier in the blog , some forecasters have begun to downgrade their snowfall predictions from the historic levels '' predicted earlier in the day and on sunday .", 
+                "bill karins ( @ billkarins ) i caved and just lowered # nyc from 16-20 '' down to 10-14 '' and 5 '' already has fallen .", 
+                "also lowered philly 8-12 '' to 3-6 '' it 's worth noting though that this is not a consensus view and a number of forecasters on tv news are still predicting the levels they have been all day .", 
+                "all traffic bans remain in place ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                3, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c70087e4b0265619483648", 
+            "title": "", 
+            "text": [
+                "it may be cold outside but some lonely souls are using the impending blizzard as a potential tool to meet someone to keep them warm .", 
+                "dating app tinder is seizing a market opportunity , contrary to the offical message of staying inside and keeping warm : tinder ( @ tinder ) be safe !", 
+                "happy tindering !", 
+                "rt : @ twitterid : is everyone gearing up their tinder profiles to find the perfect blizzard bae ? ''", 
+                "daniel victor ( @ bydanielvictor ) opens tinder sets range for 1 mile edits bio please bring me soup and a dog '' right swipe right swipe right swipe right swipe katherine krueger ( @ kath krueger ) seeking blizzard boyfriend '' is a real thing serious people are posting on the internet rn and then there 's this : jessica roy ( @ jessicakroy ) finally a feminist snowstorm"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                3, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6fbf6e4b089fc37336178", 
+            "title": "new jersey travel ban from 11pm", 
+            "text": [
+                "in important new jersey news , governor christie has announced a travel ban across the state starting from 11pm .", 
+                "nj oem ( @ readynj ) nj emergency travel ban - executive order"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                2, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6f91be4b0bff06d866410", 
+            "title": "", 
+            "text": [
+                "meanwhile , new jersey governor chris christie continues his twitter jokes with new jersey residents .", 
+                "subjects now up for discussion : pokemon , snow clothes and fires .", 
+                "governor christie ( @ govchristie ) too cold for the fleece rt @ twitterid real kuzi : wonder if @ twitterid is going to be wearing his fleece tomorrow governor christie ( @ govchristie ) pokemon is still a thing ?", 
+                "rt @ twitterid : @ twitterid playing some pokemon and enjoying your awesome tweets governor christie ( @ govchristie ) looks awesome rt @ twitterid kruse : @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                2, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6f3a4e4b03a9bdfa80788", 
+            "title": "updated snowfall forecast", 
+            "text": [
+                "the weather channel has recently published an updated snowfall report for the north-eastern states .", 
+                "it indicates , as has been consistent throughout the day , that areas in the eastern and southern new england region are likely to experience the heaviest snowfall .", 
+                "the forecast is notably more moderate then some of the figures being quoted on 24 hour news .", 
+                "here 's a quick , slightly paraphrased , summary .", 
+                "the full article can be read here : washington , d.c is expected to experience light snow accumulations , with the heaviest amounts likely stay to the north and west of the city .", 
+                "over 6 inches of snow could fall in the philadelphia area , especially from the city east into southern new jersey .", 
+                "new york city could see a foot or more of heavy snow .", 
+                "blizzard conditions are possible .", 
+                "parts of eastern and southern new england , including boston , providence , rhode island , and portland , maine , have the potential to see 2 feet of snow .", 
+                "in some areas more than 2 feet of snow could fall , particularly in eastern massachussetts .", 
+                "the snow will be accompanied by blizzard or near-blizzard conditions .", 
+                "snowfall rates of 2 to 4 inches per hour are not out of the question during the peak of the storm monday night into tuesday .", 
+                "thunder and lightning could also accompany the heavy snow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                2, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6f0b2e4b089fc37336174", 
+            "title": "connecticut travel ban in force now", 
+            "text": [
+                "in the words of connecticut governor dan malloy : governor dan malloy ( @ govmalloyoffice ) travel ban in # ct is now in effect until further notice .", 
+                "stay off the roads .", 
+                "prohibition extends to all vehicles except emergency response ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                2, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6ef2ee4b074fbabe7c179", 
+            "title": "", 
+            "text": [
+                "residents of new york city have just been sent a mobile phone alert reminding them of the 11pm travel restrictions on the road : rupertneate ( @ rupertneate ) woah .", 
+                "phone just went mental my colleague rupert neate , business correspondent for guardian us , appears somewhat terrified the alert was also sent to his uk mobile : rupertneate ( @ rupertneate ) @ kathviner it even texted my uk phone !", 
+                "how do they do that ! ?", 
+                "sidebar !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                1, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6ed3ae4b089fc37336171", 
+            "title": "", 
+            "text": [
+                "my colleagues on the guardian us video desk hit the streets of new york city a little earlier today to hear how residents are preparing for the storm .", 
+                "here 's who they spoke to : new yorkers brace for snow storm : 'you can prepare but you can never be ready ' - video"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                1, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6ea1fe4b0bff06d86640e", 
+            "title": "", 
+            "text": [
+                "attention fans of frozen : matt glendinning , head teacher of the moses brown school in providence in rhode island has found a pretty elaborate ( and impressively well produced ) way of telling his pupils there 's no school tomorrow : meanwhile , this apparently happened in new york city a little earlier today : new york , new york ( @ nyc ) 'merica\ufffd\ufffd\ufffd # timessquare # nyc # blizzardof2015 # snowmageddon2015 ( image via @ twitterid )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                1, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6e3d2e4b089fc3733616b", 
+            "title": "", 
+            "text": [
+                "here 's quick gallery of news photos from towns and cities covered in snow around the north-east from earlier today .", 
+                "in new york city : a woman waits to cross centre street near city hall , new york city kelly/epa in boston : pedestrians walk along a snow-covered path in the boston common senne/ap in jersey city : a jersey city incinerator authority salt and plow truck is seen at newark avenue jersey journal /landov / bar in new haven , connecticut : a man runs through falling snow in new haven , connecticut mcloughlin/reuters in pottsville , pennsylvania faith houser of pottsville , pa. , flies down a snowy hill at general george a. joulwan east side park in pottsville , monday , dormer/ap there are a lot of strong images being posted on social media showing the eerie , empty streets of new york city : joel siegel ( @ joelmsiegel ) no cars , no people & no snow .", 
+                "14th st. & 9th ave. # blizzardof2015"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                1, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6e349e4b087a04fca557a", 
+            "title": "", 
+            "text": [
+                "and another reminder for residents of connecticut : governor dan malloy ( @ govmalloyoffice ) reminder : travel ban in # ct begins at 9pm tonight .", 
+                "this applies to all roads .", 
+                "for your safety & the safety of others , stay off the roads"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                1, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6e100e4b087a04fca5579", 
+            "title": "", 
+            "text": [
+                "a reminder for residents of new jersey : nj oem ( @ readynj ) the nj transit authority has issued a travel advisory .", 
+                "all commuters be advised that the last service for all nj transit will be 8pm ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                0, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6de40e4b087a04fca5578", 
+            "title": "", 
+            "text": [
+                "new jersey governor chris christie is using twitter for a few lighthearted interactions with new jersey residents awaiting the full force of the storm .", 
+                "it seems no question is off limits at the moment : governor christie ( @ govchristie ) it will up at 9pm .", 
+                "send me a pic in the am .", 
+                "rt @ twitterid917 : @ twitterid i 'm not impressed governor christie ( @ govchristie ) no .", 
+                "( so am i ) rt @ twitterid heavey : @ twitterid do you happen to know if dunkin donuts will be open tomorrow ?", 
+                "i 'm serious .", 
+                "governor christie ( @ govchristie ) too easy .", 
+                "rt @ twitterid2016 : hey , @ twitterid , should i be on the beach ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                0, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6dae3e4b0bff06d866404", 
+            "title": "nyc mayor de blasio : `` this is the calm before the storm ''", 
+            "text": [
+                "new york city mayor bill de blasio recently finished an address at the department of sanitation 's garage 2 in manhattan as sanitation workers change shift .", 
+                "this is literally the calm before the storm , '' de blasio said , when it starts in earnest it 's going to come in very fast , very hard . ''", 
+                "he reminded new yorkers of the travel restrictions imposed from 11pm on the city 's roads , which permits only authorised vehicles to drive in the streets .", 
+                "plan ahead , '' the mayor said , if you do n't have everything you need , go and get it now . ''", 
+                "on a human level , look after the people in your neighborhood , '' he added , calling on new yorkers to look our for senior citizens , disabled citizens and the homeless in particular ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                0, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6d61be4b0bff06d866401", 
+            "title": "amtrak suspends service between boston and new york", 
+            "text": [
+                "amtrak , the national railway service , has now suspended northeast regional and acela express services between boston and new york for tuesday .", 
+                "other amtrak services have also been suspended ( see the press release in full below ) .", 
+                "passengers with services that require modification are being accomodated on other trains are being proactively notified by amtrak customer service , '' the release says .", 
+                "joseph spector ( @ gannettalbany ) amtrak suspends new england service tuesday - including between albany and nyc"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                27, 
+                0, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6d25ee4b026561948363b", 
+            "title": "", 
+            "text": [
+                "the national weather service in boston has posted this updated map of expected snowfall in the city .", 
+                "it isolates two areas , one in the east and one in the west , potentially exposed to higher amounts of snow .", 
+                "nws boston ( @ nwsboston ) generally approx 2 feet across sne w/ iso higher amts of 3 feet .", 
+                "expect white out conditions ; travel is discouraged :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                23, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6d0d1e4b0bff06d8663fb", 
+            "title": "", 
+            "text": [
+                "my colleague kayla epstein has rounded images of the commuters rushing to get home from a little earlier on today .", 
+                "for a reminder of all the travel restrictions in place around the north-east , have a look at this article we posted earlier .", 
+                "in boston : midwinter wuff ( @ mikloup ) charles mgh at 5:45 .", 
+                "cc @ twitterid @ twitterid at the staten island ferry terminal in new york city : miguel negron ( @ officialmigueln ) @ 1010wins staten island bound ferry terminal packed with commuters having an early leave and making their way home .", 
+                "at penn station from earlier this afternoon : abc news ( @ abc ) nyc transit hubs , including penn station and staten island ferry , packed as people leave manhattan # blizzardof2015"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                23, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6cb23e4b0bff06d8663f9", 
+            "title": "6,500 flights cancelled in north-east", 
+            "text": [
+                "over 6,500 flights across the north-eastern states have been cancelled due to the snowstorm with many not due to take off again until wednesday , the associated press reports .", 
+                "the storm is also proving pretty bad news for showbusiness in new york city .", 
+                "all shows on broadway have been cancelled , the metropolitan opera house has been forced to cancel the premiere of a new production of tchaikovsky 's iolanta , and comedian louis ck has been forced to cancel a show at madison square garden tomorrow night .", 
+                "anthony de rosa ( @ antderosa ) here 's the email louis ck sent announcing his msg show tomorrow is cancelled"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                23, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6c882e4b089fc37336161", 
+            "title": "", 
+            "text": [
+                "a reminder from new jersey governor chris christie : governor christie ( @ govchristie ) if your power goes out , you should call your utility company immediately .", 
+                "do n't assume your utility company already knows .", 
+                "# blizzardof2015"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                23, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6c768e4b074fbabe7c16d", 
+            "title": "", 
+            "text": [
+                "here 's an updated forecast of snowfall expected in new york city , with many areas potentially in line for up to 36 inches or three feet .", 
+                "28storms.com ( @ 28storms ) updated expected snowfall totals for nyc area via @ twitterid meanwhile , a parking ban has just come into force in certain areas of boston .", 
+                "see below for a map of effected areas : city of boston ( @ notifyboston ) parking ban in # boston begins now ( 6pm ) .", 
+                "here 's a map of where you can & ca n't park # bosnow"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                23, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6c59ee4b03a9bdfa80779", 
+            "title": "", 
+            "text": [
+                "and here 's more detail on the road and transit closures in new york , courtesy of a fresh press release from new york governor andrew cuomo : for all local and state roads , a travel ban will go into effect at 11 p.m until further notice in the following 13 counties : bronx , dutchess , kings , nassau , new york , orange , putnam , queens , richmond , rockland , suffolk , ulster , and westchester .", 
+                "new york city subways and buses will operate only local service beginning at 8 p.m. and service will be suspended beginning at 11 p.m. until further notice .", 
+                "long island rail road , metro north , staten island railroad service will be suspended beginning at approximately 11 p.m. until further notice .", 
+                "path service will operate on a weekend schedule beginning at 9 p.m. and be suspended at 11 p.m. until further notice .", 
+                "a ban on tandem trailers on i-84 , the long island expressway , and the thruway from exit 17 to the new york city line , including on i-287 and i-95 , went into effect at 4 p.m. and remains in effect until further notice .", 
+                "the release reiterates that only emergency vehicle will be permitted on closed roads , with any violations potentially punishable with a $ 300 fine .", 
+                "andrew cuomo ( @ nygovcuomo ) after 11pm , only emergency vehicles will be permitted .", 
+                "travel ban violation is punishable as misdemeanor that includes fines of up to $ 300 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6c441e4b089fc3733615b", 
+            "title": "", 
+            "text": [
+                "the metropolitan transport authority ( mta ) of new york has issued further details on planned service closure .", 
+                "the webpage will keep updating with further information , but here 's the gist : the mta is committed to the safety of its customers and its employees , and due to the forecast , will be suspending service on all bus , commuter rail and subway service at 11:00 p.m. this evening .", 
+                "if you do n't have to travel between now and later this evening , we urge you to stay home .", 
+                "to assist those customers who wanted to leave work early ahead of the storm , 26 extra trains were added to lirr and metro-north schedules with those trains departing from penn station and grand central terminal .", 
+                "prior to full service suspension , express service on several subway lines will be curtailed after the evening rush hour to allow subway trains to be stored underground in anticipation of the storm .", 
+                "railroad cars will also be moved to locations to protect them from the storm ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6bf66e4b0bff06d8663f0", 
+            "title": "", 
+            "text": [
+                "my colleagues on the interactive desk have created this useful live photo gallery of traffic camera stills from 20 locations in new york city , boston and other locations bracing for the blizzard ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6c072e4b074fbabe7c16c", 
+            "title": "", 
+            "text": [
+                "further to that press conference governor malloy has just announced that bradley international airport , which serves as a civil and military hub , will close at 7pm tonight for all passenger activity .", 
+                "governor dan malloy ( @ govmalloyoffice ) update : the @ twitterid airport closure at 7pm tonight is for passenger activity"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54c6bd50e4b074fbabe7c16a", 
+            "title": "", 
+            "text": [
+                "governor malloy reminds connecticut residents that a 9pm travel ban will be in place on the roads and advises people to get off the roads as soon as is possible '' .", 
+                "he says that all non-essential first and second shift state employees should not report for work tomorrow .", 
+                "he encourages all businesses in the state to close on tuesday to allow employees to observe the travel ban .", 
+                "malloy says that 400 national guardsmen have been called up to assist emergency first responders .", 
+                "connecticut has been down this road before , '' malloy says , we will again weather this storm . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54c6b7c5e4b074fbabe7c168", 
+            "title": "", 
+            "text": [
+                "welcome to our continued live coverage of the powerful winter storm engulfing states across the north-east of america .", 
+                "connecticut governor dan malloy is currently updating the press on emergency management plans in the state .", 
+                "i 'll bring you live updates on that shortly .", 
+                "below is a summary of how things stand : snow began to accumulate up and down the east coast as residents braced for what forecasters said could be a blizzard of historic proportions .", 
+                "governors across the northeast declared states of emergencies .", 
+                "airports and schools were to be closed tuesday .", 
+                "travel bans were to take effect tuesday night .", 
+                "the heaviest band of snowfall was expected for eastern long island , connecticut , and eastern massachusetts including the boston area .", 
+                "wind gusts on long island were projected to reach as high as 70mph .", 
+                "forecasts for snow from new york city to boston and farther north held steady at 18-36 inches .", 
+                "a national weather service blizzard warning is in place through early wednesday .", 
+                "read a state-by-state guide to travel bans and transportation delays .", 
+                "most public transportation in the region was to be shut down by late tuesday .", 
+                "each state moved emergency response resources - plows , tow trucks , sand , salt and even national guard troops - into position for quick deployment overnight .", 
+                "officials warned residents not to go out in the storm and to check on neighbors .", 
+                "a state-by-state guide to emergency resources is here .", 
+                "a guide to what to do if you lose power is here ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                1, 
+                26, 
+                22, 
+                14
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "us-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n4.02am GMT\n04:02\nNew York and New Jersey travel ban in force\n", 
+                "block": "block-54c70d58e4b089fc37336185"
+            }, 
+            {
+                "text": "\n\n12.13am GMT\n00:13\nAmtrak suspends service between Boston and New York\n", 
+                "block": "block-54c6d61be4b0bff06d866401"
+            }, 
+            {
+                "text": "\n\n2.50am GMT\n02:50\nNew Jersey travel ban from 11pm\n", 
+                "block": "block-54c6fbf6e4b089fc37336178"
+            }, 
+            {
+                "text": "\n\n2.23am GMT\n02:23\nUpdated snowfall forecast\n", 
+                "block": "block-54c6f3a4e4b03a9bdfa80788"
+            }, 
+            {
+                "text": "\n\n2.02am GMT\n02:02\nConnecticut travel ban in force now\n", 
+                "block": "block-54c6f0b2e4b089fc37336174"
+            }, 
+            {
+                "text": "\n\n12.34am GMT\n00:34\nNYC Mayor De Blasio: \"This is the calm before the storm\"\n", 
+                "block": "block-54c6dae3e4b0bff06d866404"
+            }, 
+            {
+                "text": "\n\n11.32pm GMT\n23:32\n6,500 flights cancelled in north-east\n", 
+                "block": "block-54c6cb23e4b0bff06d8663f9"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/live/2015/jan/27/east-coast-blizzard-cities-awake-to-travel-bans-as-snowfall-records-stand-untouched"
+                ], 
+                "text": "Read the latest live blog here.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "More than 6,500 flights cancelled.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Amtrak suspends Boston-New York service.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "New York City subway suspended.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/ng-interactive/2015/jan/26/-sp-live-photos-juno-blizzard-snowmaggedon-2015"
+                ], 
+                "text": "Freeze frames: live photos of the Juno blizzard.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2015/jan/26/travel-bans-guide-flight-delays-north-east-blizzard"
+                ], 
+                "text": "Travel bans and delays - state-by-state guide.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://witness.theguardian.com/assignment/54c6a016e4b0bff06d8663d0"
+                ], 
+                "text": "Share your photos of the blizzard.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

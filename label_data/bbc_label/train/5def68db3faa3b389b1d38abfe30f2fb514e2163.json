@@ -1,0 +1,671 @@
+{
+    "blog_id": "5def68db3faa3b389b1d38abfe30f2fb514e2163", 
+    "title": "BBC Local Live: Norfolk on Tuesday, 17 November 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-34738797", 
+    "summary": [
+        "county councillors discuss plans to ship waste to germany and the netherlands for incineration .", 
+        "bradwell bypass , linking a12 with a143 , due to be open by christmas .", 
+        "more news , sport , weather and travel updates from 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b682d3a0000bc3f37fbab", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all your local live coverage for norfolk today .", 
+                "we will be back again tomorrow from 08:00 to do it all over again .", 
+                "do n't forget you can email , tweet or facebook us if you 'd like to get in touch ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b278c3d0000e11607510f", 
+            "title": "workers at stagecoach to take strike action", 
+            "text": [
+                "workers at stagecoach buses in norfolk have been instructed by their union to take strike action .", 
+                "the rmt union has instructed its members to take 24 hours of strike action until midnight on tuesday , 24 november .", 
+                "the union says the dispute is over pay and conditions ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b67d23d0000ee1a07521d", 
+            "title": "weather : rain and strong winds", 
+            "text": [
+                "best to stay in overnight !", 
+                "storm barney will bring some rain to the region and strong gusts of 50-60mph possible around midnight .", 
+                "the morning will start with some sunny spells and some fresh gusts .", 
+                "temperatures reaching around 8c ( 46f ) .", 
+                "weather has your local forecast ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b491d3a00003f3e37fb19", 
+            "title": "council project to reduce fuel poverty scoops award", 
+            "text": [
+                "norfolk county council 's `` warm and well '' campaign has been named a national community action award winner .", 
+                "the project provides a free e-learning tool with a 20 minute online training course , helping volunteers and frontline workers learn about keeping warm and improving the energy efficiency of their homes .", 
+                "nearly 36,000 households in the county experience the impact of fuel poverty ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b50cb3a0000763f37fb41", 
+            "title": "weather watcher caught in heavy rain", 
+            "text": [
+                "the met office has issued a `` yellow warning '' as storm barney sweeps across the uk .", 
+                "and this of heavy rain in taverham .", 
+                "has been posted on the bbc weather watchers site ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b59163d0000ee1a0751cb", 
+            "title": "time called at fakenham races", 
+            "text": [
+                "the clerk of fakenham racecourse , david hunter , calls time on today 's meeting .", 
+                "the final race was won by sam twiston-davies on galuppi ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b409e3a0000423e37fafc", 
+            "title": "police warn of suspected bogus callers in east norfolk", 
+            "text": [
+                "norfolk police are urging residents in the gorleston area to be vigilant following several suspected bogus caller incidents .", 
+                "there have been about 10 incidents between 12 and 14 november in which people have been going door-to-door trying to sell pencil drawings to raise funds , claiming to be deaf or homeless .", 
+                "the incidents have occurred in the magdalen area of gorleston ; bradwell , burgh castle and browston ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b52573a0000bc3f37fb49", 
+            "title": "hospital asks public to help prevent spread of vomiting bug", 
+            "text": [
+                "the queen elizabeth hospital in king 's lynn is urging the public to help prevent a further spread of an infectious vomiting bug .", 
+                "an outbreak of norovirus is developing in the area , affecting residents and patients in several community care settings as well as at home and work .", 
+                "it 's asking people who 've experienced diarrhoea and vomiting in the past 72 hours not to come to the hospital unless it 's an absolute emergency ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b502a380000d92c329531", 
+            "title": "breakingnorfolk senior cup tie postponed", 
+            "text": [
+                "tonight 's norfolk senior cup fourth round tie between wroxham and great yarmouth town has been postponed .", 
+                "the referee has inspected the pitch at trafford park this afternoon and decided it 's too wet to play on .", 
+                "wroxham said the fixture was likely to be rescheduled for next tuesday night , which would mean their fixture with heybridge swifts would have to be moved ."
+            ], 
+            "author": [
+                "Rob Butler", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b26273800006e2832946d", 
+            "title": "plans submitted for play area at prison", 
+            "text": [
+                "a charity wants to build a play area at a sex offenders ' prison in norfolk , saying it will help children whose fathers are in jail .", 
+                "the ormiston charity is asking north norfolk district council for planning permission to build a small playground for youngsters who visit their fathers at hmp bure , near coltishall .", 
+                "it would be shielded from view by a fence .", 
+                "the charity says children suffer badly from the loss of a parent , the nature of their father 's crime , and the stigma associated with it ."
+            ], 
+            "author": [
+                "Paul Moseley", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b4a0a3d00006319075192", 
+            "title": "fakenham races : biggest cheer of the day", 
+            "text": [
+                "no jitters for noel fehily who steers shaky gift to victory in the 15:15 at fakenham for the biggest cheer of the day .", 
+                "the going is now `` soft '' after the heavy rain ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b47343d00006319075185", 
+            "title": "the latest from fakenham races : it 's wet !", 
+            "text": [
+                "the rain has well and truly caught up with us here at fakenham races today but it has n't deterred the punters ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b436b3a00003f3e37fb05", 
+            "title": "fakenham races : scudamore wins the 14:45", 
+            "text": [
+                "the latest from fakenham races : katkeau ridden by tom scudamore has won the feature race at fakenham , beating favourite southfield vic .", 
+                "baku bay was a non-runner ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b3b513800006f2c3294c5", 
+            "title": "mum 's fears over school bus safety", 
+            "text": [
+                "the front page of today 's lynn news :"
+            ], 
+            "author": [
+                "Lynn News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b3a383a0000323d37fae0", 
+            "title": "marky bob wins at fakenham", 
+            "text": [
+                "the latest from fakenham races : marky bob , ridden by conor ring going over in front to win the 14:10 ahead of youm jamil"
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b39c73a0000c33d37fada", 
+            "title": "emerald rose wins second race at fakenham", 
+            "text": [
+                "emerald rose just holds off evens favourite ballydague lady in the 13:40 at fakenham today ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b2d543a0000453737faa4", 
+            "title": "winner of first race at fakenham", 
+            "text": [
+                "i 'm at fakenham racecourse which is hosting a six-race card today .", 
+                "the going 's `` good to soft '' , and jumpandtravel , ridden by sam triston-davies has just won the opener , ahead of perennial and toptemp ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "13:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b081a3a0000ed3937f9ea", 
+            "title": "students walk out in solidarity with international students", 
+            "text": [
+                "members of the university of east anglia 's students union are demonstrating for migrants ' rights instead of attending lectures .", 
+                "the union says scrapping the post-study work provisions that allowed students to work in the uk for up to two years after graduation has stopped international students gaining vital work experience .", 
+                "nearly 30 % of the student population at the uea is made up of international students ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564b1d203a0000b43b37fa61", 
+            "title": "post mortem-examination to take place on murder victim", 
+            "text": [
+                "a post mortem-examination is due to take place after a man was murdered in great yarmouth at the weekend .", 
+                "police were called to a property in dickens court on saturday evening , following reports of a disturbance .", 
+                "a man in his 30s was found with serious injuries and died at the scene .", 
+                "police have been given extra time to question a man and a woman in connection with the death ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "13:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564afa5d380000f525329381", 
+            "title": "england hopes are still alive", 
+            "text": [
+                "the back page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564afaec3d0000b212075019", 
+            "title": "all dressed up to raise \u00a3 17,000 for youth charity", 
+            "text": [
+                "a black tie dinner held at the open venue on bank plain in norwich raised more than \u00a3 17,000 for charity ."
+            ], 
+            "author": [
+                "Just Regional"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564b0b253800006e283293da", 
+            "title": "missing car back with 'forgetful ' owner", 
+            "text": [
+                "as reported in the eastern daily press , there 's been a happy ending for james boyett , who lost his car following a night out in norwich last month .", 
+                "mr boyett parked his car in the city before a night out on prince of wales road , in october - but said he could n't remember where he left it .", 
+                "it was eventually found at castle mall car park , which waived the \u00a3 280 fee ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564af9183d0000b112075010", 
+            "title": "city duo book place in finals", 
+            "text": [
+                "the back page of today 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564aff5f3a0000553737f9ba", 
+            "title": "greens would back council 's 'rubbish ' plans if they are short-term", 
+            "text": [
+                "the leader of the greens at county hall says the county council 's plans to stop any of norfolk 's rubbish going to landfill has his backing as long as it 's short-term .", 
+                "this week the council is discussing plans on sending the county 's rubbish overseas , where it can be incinerated .", 
+                "greens leader richard bearman says transporting things by sea is one of the most efficient and carbon-effective means of travel but wants considerably more reduction in waste , and for `` re-use and reduce '' to be considered before recycling ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564afa183a0000453737f9a5", 
+            "title": "warning to \u00a3 21m city academy", 
+            "text": [
+                "the front page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564af7683a0000453737f99f", 
+            "title": "'no to incineration ' group backs council 's plans for county 's waste", 
+            "text": [
+                "anti-incinerator campaigners in norfolk say they 're backing plans to ship the county 's waste to be burned in the netherlands or germany .", 
+                "if it 's used to put us in a position from 2020 onwards where we 're looking after waste in a more sustainable safer way , i suppose we have to go along with this solution . ''", 
+                "norfolk county councillors are this week discussing plans to stop any of the county 's waste going to landfill ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564af8c7380000f525329377", 
+            "title": "improve or face losing sponsors", 
+            "text": [
+                "today 's front page of the eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ac75f38000059253292f0", 
+            "title": "brady helps republic reach euro 2016", 
+            "text": [
+                "norwich city 's robbie brady was named man of the match as the republic of ireland qualified for euro 2016 .", 
+                "they beat boznia-herzegovina 2-0 in dublin , 3-1 on aggregate , with jon walters scoring both goals .", 
+                "brady set up the second .", 
+                "brady 's norwich team mate wes hoolahan also played in the match and was substituted after 54 minutes ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564aefe4380000ed25329362", 
+            "title": "new road 'will bring housing and business opportunities '", 
+            "text": [
+                "the bradwell bypass , a new road linking the a12 to the a143 , is due to open before christmas and will bring housing and business opportunities for great yarmouth , borough council leader graham plant ( has said .", 
+                "the beacon park enterprise zone is expanding , with 11 prospective businesses looking at moving in , alongside seven current companies .", 
+                "new homes are under construction at the bradwell end of the town .", 
+                "the 1.8km ( one mile ) stretch of road has been 20 years in the planning ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ac56538000010253292ee", 
+            "title": "fakenham hosts six-race card", 
+            "text": [
+                "officials at fakenham racecourse have been kept busy by the mild november weather .", 
+                "the track hosts a six-race card today with the first off at 13:05 .", 
+                "jockey ian popham is due to ride in the opener .", 
+                "it 'll be his first race since a remarkable win in the paddy power gold cup at cheltenham on saturday ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "09:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564aebe53d0000b512074fde", 
+            "title": "diss rugby club chief content with derby draw", 
+            "text": [
+                "diss rugby club head coach roger coombs was left satisfied despite seeing his side held to a 3-3 draw by rivals norwich in their top-of-the-table clash on saturday ."
+            ], 
+            "author": [
+                "Diss Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ae48c3d0000b112074fc4", 
+            "title": "councillors look at plans to stop waste going to landfill", 
+            "text": [
+                "county councillors are discussing a plan that suggests much of norfolk 's waste could be processed at plants in costessey , rackheath and wisbech .", 
+                "metals would be removed for recycling , before the rubbish is processed into fuel and exported to the netherlands and germany and turned into energy in combined heat and power plants .", 
+                "norfolk county council says the plans will save money ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ae6273a0000593737f96c", 
+            "title": "weather : heavy rain and strong winds later", 
+            "text": [
+                "after a dry start , heavy rain will push eastwards , with strong winds reaching gale force at times .", 
+                "a `` yellow warning '' has been issued by the met office , as storm barney tracks across the uk .", 
+                "it will feel mild , with temperatures reaching 15c ( 59f ) .", 
+                "strong winds overnight , with some blustery showers .", 
+                "minimum temperatures of 8c ( 46f ) .", 
+                "bbc weather has more information for you ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ae1643d0000b212074fb4", 
+            "title": "travel : a47 partially blocked at east winch", 
+            "text": [
+                "the a47 lynn road in east winch is partially blocked at the gayton road junction because of an accident involving two vehicles .", 
+                "more information on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564adbf13d0000a412074f9a", 
+            "title": "the headlines this morning : councillors discuss plan to stop waste going to landfill new bypass to open by christmas", 
+            "text": [
+                "the stories that we 'll be looking at today :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ad9d63a0000453737f93a", 
+            "title": "hello from the norfolk live team", 
+            "text": [
+                "good morning and welcome to tuesday 's norfolk live .", 
+                "we 'll keep you updated with the news , sport , travel and weather from now until 18:00 .", 
+                "if there 's anything happening in your part of the county that you 'd like to share with us , you can get in touch via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

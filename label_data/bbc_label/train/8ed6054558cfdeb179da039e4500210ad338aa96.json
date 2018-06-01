@@ -1,0 +1,856 @@
+{
+    "blog_id": "8ed6054558cfdeb179da039e4500210ad338aa96", 
+    "title": "BBC Local Live: Cambridgeshire on Thursday, 10 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-cambridgeshire-35762183", 
+    "summary": [
+        "roads across the county closed due to flooding .", 
+        "former cambridge united player russell crane has died , the club says .", 
+        "stephen hawking wants the uk to remain in the eu 'to protect science ' .", 
+        "more news , sport , travel and weather from 08:00 on friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1abd43d0000f5284b0822", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it for the day for everyone here at cambridgeshire local live .", 
+                "we 'll be back tomorrow morning from 08:00 with all your news , sport , travel and weather updates ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e1ae893f0000c7270f5ae0", 
+            "title": "headlines : cambridge united legend dies cambridgeshire roads still affected by flooding", 
+            "text": [
+                "here are the main news stories making the news this evening :"
+            ], 
+            "author": [
+                "Emma Maclean", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e176f53d000081254b0704", 
+            "title": "film released by cambridgeshire police to get more people to report child sexual exploitation", 
+            "text": [
+                "a short film has been released by cambridgeshire police to highlight signs of child sexual exploitation .", 
+                "as you can see it features the voice of an adolescent girl who refers to aspects of her relationship with her boyfriend as being exploitative , something she defends .", 
+                "det sgt kath mccready said : if we talk openly about child sexual exploitation in schools , at home , with friends and those who care for young people , we can break the stigma associated with this type of crime . ''"
+            ], 
+            "author": [
+                "Katharine Park", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1a1cf3f0000c7270f5a98", 
+            "title": "cambridgeshire mp calls for money to be spent on county 's roads", 
+            "text": [
+                "a cambridgeshire mp is calling on the government to do more to reduce noise pollution on the county 's roads .", 
+                "peterborough mp stewart jackson wants part of a \u00a3 75m roads investment strategy to be spent on the soke parkway in peterborough .", 
+                "the transport minister robert goodwill insists the government is investing enough money to make sure noise pollution is reduced ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1929f3f0000c7270f5a5c", 
+            "title": "flooding delays bin collections in huntingdon area", 
+            "text": [
+                "a number of bins have been unable to be collected in the huntingdon area today because of flooding .", 
+                "huntingdonshire district council says bins in chainbridge road in molesworth , polecat lane in alconbury and great north road in stibbington which were n't collected this morning may either be collected tomorrow or early next week ."
+            ], 
+            "author": [
+                "Emma Maclean", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e1ab883b000075280a18e3", 
+            "title": "weather : patchy fog and frost overnight", 
+            "text": [
+                "any patchy light rain in the west will soon die out this evening , leaving an otherwise dry night with some good cloud breaks at times , particularly in eastern parts such as ely .", 
+                "there 'll be light winds throughout , allowing isolated mist or fog patches to develop and a patchy frost to form in places by dawn .", 
+                "minimum temperature : 0c ( 32f ) ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1a5443d000099264b07f6", 
+            "title": "cambridgeshire roads still affected by floods", 
+            "text": [
+                "although the water is starting to subside , some roads are still affected by the flooding in cambridgeshire .", 
+                "flooding : localised flooding remains in alconbury village , mill rd # buckden , brampton rd # huntingdon & b645 # tilbrook .", 
+                "approach with care ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1a9b13d0000f6284b0811", 
+            "title": "russell crane a true gentleman", 
+            "text": [
+                "i was lucky enough to interview the cambridge united legend russell crane in 2012 , to mark 100 years of the club .", 
+                "he was a true gentleman and he spoke so fondly of his times at the club .", 
+                "he was a u 's man through and through .", 
+                "russell crane reflects on his affinity with cambridge united - speaking with nick fairbairn back in 2012 : # cufc"
+            ], 
+            "author": [
+                "Nick Fairbairn", 
+                "BBC Radio Cambridgeshire sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e1a7193f000096250f5ab5", 
+            "title": "cambridge united remembers club legend russell crane", 
+            "text": [
+                "great image of russell crane being made honorary life-president of @ twitterid in november last year ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1a44a3f000012290f5aa4", 
+            "title": "cambridge united legend russell crane has died", 
+            "text": [
+                "former cambridge united forward russell crane has died , the club has said .", 
+                "the u 's have paid tribute to the player who made over 400 appearances for the club between 1941 and 1959 and scored more than 150 goals .", 
+                "they say they 're `` saddened '' by the death of the abbey legend , who was born in 1926 , and would like to pass on their condolences to his family ."
+            ], 
+            "author": [
+                "Peter Swan", 
+                "BBC Radio Cambridgeshire sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1a48b3d0000f6284b07f2", 
+            "title": "breakingcambridge united legend dies", 
+            "text": [
+                "it 's just been announced by cambridge united that former player russell crane has died ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1913b3b00005c270a186a", 
+            "title": "eu referendum result in at cambridgeshire school", 
+            "text": [
+                "earlier we brought you the story of a cambridgeshire school running an eu referendum for school news report day .", 
+                "as you can see the results are in and the pupils at witchford village college want to stay in the eu ."
+            ], 
+            "author": [
+                "Johnny Dee", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e19a1a3d0000c6274b07b7", 
+            "title": "travel : four-vehicle crash on a14 by fenstanton", 
+            "text": [
+                "the a14 in fenstanton is partially blocked and there are long delays eastbound at j27 .", 
+                "# a14 nr # fenstanton .", 
+                "1 lane is closed e/b btwn j26 and j27 .", 
+                "we 're assisting @ twitterid at a collision between 4 vehicles ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e198c93d0000c7274b07b1", 
+            "title": "fire service warns of adverting scam", 
+            "text": [
+                "a warning is being made by cambridgeshire fire and rescue that scammers could be operating in the county trying to get people to buy advertising for the fire service .", 
+                "the force says it never sell advertising for anything like a magazine or a calendar and the call is not from them .", 
+                "they add if anyone gets a call like this they should immediately contact cambridgeshire trading standards ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e163033d000032234b0687", 
+            "title": "cambridgeshire pupils grill their headteacher", 
+            "text": [
+                "eager year nine 's at impington village college have been interviewing their executive principal , rob campbell as part of school report news day 2016 .", 
+                "they 've been grilling him about school budgets and the house system .", 
+                "thirty-five pupils at impington are taking part in the day that 's been set up so young people can report on stories that matter to and interest them ."
+            ], 
+            "author": [
+                "Sue Dougan", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e136a63b0000a71e0a1683", 
+            "title": "road closed till july for installation of traffic calming", 
+            "text": [
+                "a major road in cambridge will be shut for the next four months because of roadworks that have taken five years to plan and begin .", 
+                "tenison road between mill road and st barnabas road is due to be closed until 3 july to allow traffic calming measures to be put in place .", 
+                "diversions will be in place during the works and the city council has asked motorists to plan their routes until the road reopens ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e13af23d0000cc1f4b0593", 
+            "title": "four sought over aggravated burglary at elderly woman 's home", 
+            "text": [
+                "jewellery and cash have been stolen from an elderly woman in cambridgeshire in what police have described as an `` aggravated burglary '' .", 
+                "four masked men went into a property on isaacson road , burwell on monday evening between 21:30 and 22:30 .", 
+                "one is believed to be in his 60s , the other three in their late teens or 20s .", 
+                "anyone with information is being urged to contact police .", 
+                "no details of the woman 's condition were given ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e17e3d3b0000eb220a1817", 
+            "title": "weather : expected to brighten up later", 
+            "text": [
+                "this afternoon will see a rather cloudy start with perhaps the odd spot of rain or drizzle .", 
+                "it will brighten up during the next couple of hours however , with sunny spells developing .", 
+                "it will feel rather chilly in the northeasterly breeze , especially across great chishill .", 
+                "maximum temperature : 10c ( 50f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e17d003b000042250a180f", 
+            "title": "headlines : flooding causes road delays in cambridgeshire first cybercrime conference held in cambridgeshire", 
+            "text": [
+                "here are the headlines making the news this afternoon :"
+            ], 
+            "author": [
+                "Emma Maclean", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e159113b0000eb220a1750", 
+            "title": "teenager sexually assaulted in peterborough", 
+            "text": [
+                "a 17-year-old girl has been sexually assaulted in peterborough .", 
+                "cambridgeshire police says the incident happened at about 11:30 on wednesday , when she was approached from behind by a man and pulled into bushes close to stagsden in orton goldhay .", 
+                "the man 's described as white and aged between 21 and 40 .", 
+                "he is said to have been wearing a black jacket with a hood and jeans ."
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1688d3b0000eb220a17ad", 
+            "title": "health and safety event cancelled because of health and safety concerns", 
+            "text": [
+                "a health and safety event due to take place at huntingdon racecourse this morning was postponed because of health and safety concerns .", 
+                "the session on complying with guidelines , organised by peninsula business services , had to be called off as roads leading up to and around the event were flooded , and there were fears people could get stranded .", 
+                "david passfield , who was due to deliver the training , said he had to `` laugh at the irony of the situation '' ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "21:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e16fac3f00005e240f59ca", 
+            "title": "students hold their own eu referendum", 
+            "text": [
+                "forget the eu referendum that 's taking place on 23 june , i 've been finding out about one that 's being held in cambridgeshire today .", 
+                "pupils at witchford village college have been asking their peers how they would vote , if of course they were old enough to vote .", 
+                "it 's all part of school report news day .", 
+                "we 'll bring you the result later ."
+            ], 
+            "author": [
+                "Johnny Dee", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e16bd53d00004d244b06c6", 
+            "title": "travel : a14 one lane still closed", 
+            "text": [
+                "delays are still expected on the a14 as one lane remains closed westbound by brampton hut , because of flooding .", 
+                "update : # a14 westbound still has one lane closed after j21 brampton hut due to flooding .", 
+                "expect delays in the area .", 
+                "@ twitterid @ twitterid chaos as hgv avoid a14 by using woolley road again"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e15db13d0000e9214b0667", 
+            "title": "four flood warnings in place in cambridgeshire", 
+            "text": [
+                "the environment agency says there are currently five flood warnings in place in cambridgeshire .", 
+                "they include brampton , ellington , hamerton and the alconburys , the river kym from kimbolton to great staughton , north bank road alongside the river nene , east of peterborough and west of dog-in-a-doublet sluice and the lower nene .", 
+                "it says five properties have been flooded in alconbury ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1551d3f00000a220f590e", 
+            "title": "peterborough recycling centre closed due to flooding", 
+            "text": [
+                "the household recycling centre in peterborough is closed today because of flooding .", 
+                "i 've just been told it will remain shut until further notice , while the water levels drop .", 
+                "the site is close to a drainage ditch ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e15be43d000035234b0657", 
+            "title": "owner offers to pay for posh fans ' travel", 
+            "text": [
+                "a gesture of goodwill has been sent out by peterborough united owner darragh macanthony to posh fans who had planned to go to fleetwood on easter monday , after the match was rearranged .", 
+                "those who can show travel plans prior to game being called off to the club a free seat on coaches i shall personally pay from my own pocket-", 
+                "@ twitterid i hired a chartered private vip flight , can you refund me \u00a3 50,000 ? ? ? ?", 
+                "; )", 
+                "@ twitterid @ twitterid come off it macca you 're too tight to install heating : )", 
+                "@ twitterid @ twitterid why do you need heating its practically summer", 
+                "@ twitterid incredibly classy gesture .", 
+                "gutted i cant make the rearranged fixture , but all at club been very compassionate in resolving issue .", 
+                "@ twitterid top man", 
+                "@ twitterid i can prove travel plans , but cant make the rearranged fixture .", 
+                "anything doing there ?", 
+                "@ twitterid great gesture", 
+                "@ twitterid class act !", 
+                "take note massimo !", 
+                "@ twitterid not a beneficiary of this but what a great gesture !", 
+                "@ twitterid do n't ever sell @ twitterid # topchairman", 
+                "@ twitterid great generosity", 
+                "@ twitterid come buy leeds", 
+                "@ twitterid great gesture you and steve gibson doing the game proud !", 
+                "@ twitterid well done darragh .", 
+                "@ twitterid @ twitterid", 
+                "@ twitterid great gesture proud to be posh .", 
+                "@ twitterid i doubt there are that many , just another excuse to have yrt another pop at the club .", 
+                "@ twitterid this guy is pure class", 
+                "@ twitterid it 's on the sea front pal , throw in a fish supper too", 
+                "@ twitterid and that 's why the real fans want you to stay regardless of promotion posh are a better club with you at the top # bestchairmanabout"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e158ce3b0000ec220a174f", 
+            "title": "you need to register if you want to vote", 
+            "text": [
+                "it may be a couple of months until may , but if you want to vote in the forthcoming elections , then you need to register by monday 18 april to take part , the electoral commission says .", 
+                "to register to vote you can visit the website .", 
+                "and if you 're unsure as to whether you 're registered or not , or want to find out more about voting and taking part in the elections , then visit the voter information website ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "19:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e154533b0000b71e0a1732", 
+            "title": "fire service says 'we wo n't tow you out of flood waters if you get stuck '", 
+            "text": [
+                "cambridgeshire fire and rescue is asking people to only call them with flooding problems if there 's a risk to life .", 
+                "the service said it took 15 calls about flooding via its 999 number yesterday for issues that were n't an emergency .", 
+                "station commander bruce parcell said : `` we would like to remind residents to only call 999 in a flooding situation if there is an immediate risk to life .", 
+                "if you drive through flood water and get stuck , we will not tow your car out . ''"
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e14f053b0000a4210a170e", 
+            "title": "travel : a1 flowing normally after earlier delays", 
+            "text": [
+                "it seems things are starting to get back to normal on cambridgeshire roads , after flooding caused parts of the a14 to be shut .", 
+                "# a14 brampton hut .", 
+                "from highways england , the wbc is now open and the # a1 is flowing normally ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e14c613f0000e81f0f58dd", 
+            "title": "travel : a14 crash now cleared", 
+            "text": [
+                "there 's good news about the earlier accident on the a14 , westbound at junction 24 , which has now been cleared .", 
+                "cleared : # a14 westbound at j24 godmanchester .", 
+                "earlier delays have now cleared ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e147653b00009f200a16db", 
+            "title": "firefighters help people stranded in floods", 
+            "text": [
+                "around 40 firefighters spent last night helping about 12 people leave their homes after flooding in alconbury and alconbury weston .", 
+                "five fire engines , two rescue vehicles and a command unit were sent to the area after reports came in that vulnerable people were stuck in their homes .", 
+                "seven dogs and two cats were also rescued ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e147a43b0000a71e0a16df", 
+            "title": "travel : crash on the a14", 
+            "text": [
+                "there 's been a crash on the a14 , westbound by junction 24 .", 
+                "delays are expected .", 
+                "# a14 westbound at j24 godmanchester .", 
+                "incident .", 
+                "expect delays ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1469e3b0000b71e0a16d5", 
+            "title": "roads remain closed in cambridgeshire due to floods", 
+            "text": [
+                "this is a photo taken by one of our weather watchers , blackbird of bury , showing a stream that has been turned into an inland lake .", 
+                "flooding has closed several roads in the the county , including the a14 , and in hamerton village , alconbury , tlibrook , kimbolton , stonely and great staughton ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "18:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e142763f0000021f0f589f", 
+            "title": "travel : one lane of closed a14 opens", 
+            "text": [
+                "one lane of the a14 westbound at junction 21 has just reopened , having closed because of flooding .", 
+                "update : # a14 westbound at j21 brampton hut .", 
+                "one lane has reopened .", 
+                "entry slip at j20 ellington remains closed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e13d8c3f0000021f0f587f", 
+            "title": "travel : floods bring congestion on roads surrounding a14 and a1", 
+            "text": [
+                "floods on the a14 between j21 for brampton hut and j19 at easton are causing major disruption on surrounding roads , with westbound traffic backing up to the a141 at huntingdon .", 
+                "roads are also becoming clogged along the diversion on the a1 north to peterborough , and then south on the a605 to thrapston .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e137f53b00007a1f0a168a", 
+            "title": "stephen hawking wants the uk to remain in the eu 'to protect science '", 
+            "text": [
+                "stephen hawking has backed the campaign for britain to remain in the european union .", 
+                "the cambridge university professor said in a letter to the times that leaving the eu would be a `` disaster for uk science '' , because many young scientists are now recruited from europe .", 
+                "the referendum is to be held on 23 june ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e134b83f0000021f0f585a", 
+            "title": "travel : roads closed at kimbolton", 
+            "text": [
+                "there 's traffic disruption in kimbolton due to flooding , with the b645 closed in both directions between the b660 junction and station road .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e132663f0000031f0f584f", 
+            "title": "travel : a14 westbound shut near huntingdon by flooding", 
+            "text": [
+                "the westbound a14 is closed because of flooding between j21 , for the a1 at brampton hut , and j19 , for easton , and traffic is queuing in the area .", 
+                "diversions are in operation up the a1 to peterborough and back down the a605 , past oundle to thrapston .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e1312e3b0000b71e0a1671", 
+            "title": "conference to tackle growing problem of cybercrime", 
+            "text": [
+                "a conference on cybercrime is taking place in cambridge today , organised by the county 's constabulary and police and crime commissioner sir graham bright .", 
+                "police claim that half the population of england have been affected by it .", 
+                "sir graham said : `` tackling cybercrime is a high priority for me but remains a challenge , as the nature of cybercrime is constantly evolving in both the complexity of the investigations and the creativity of cyber-criminals . ''"
+            ], 
+            "author": [
+                "Dotty McLeod", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e12ceb3d0000131f4b0552", 
+            "title": "weather : cloudy start but becoming dry and bright", 
+            "text": [
+                "it 's a cloudy start to the day , with perhaps the odd spot of rain or drizzle .", 
+                "it will brighten up , with sunny spells developing but feeling chilly .", 
+                "maximum temperature : 10c ( 50f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e12bb03d00000e1f4b0550", 
+            "title": "headlines : cybercrime tackled stephen hawking backs eu", 
+            "text": [
+                "headlines : cybercrime tackled stephen hawking backs eu"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e129ba3f0000011f0f5815", 
+            "title": "welcome to bbc cambridgeshire live", 
+            "text": [
+                "good morning and welcome to cambridgeshire live .", 
+                "stay with us for the latest news , sport , weather and travel updates for the county until 18:00 .", 
+                "you can get involved with our live page at any time .", 
+                "send us your stories and via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Andrew Woodger", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:01"
+        }
+    ], 
+    "genre": "uk-england-cambridgeshire", 
+    "quality": "high"
+}

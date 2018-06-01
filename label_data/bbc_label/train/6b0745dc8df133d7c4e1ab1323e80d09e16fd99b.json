@@ -1,0 +1,4417 @@
+{
+    "blog_id": "6b0745dc8df133d7c4e1ab1323e80d09e16fd99b", 
+    "title": "As it happened: UK hit by wintry weather - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-38601592", 
+    "summary": [
+        "updates on friday , 13 january 2017 .", 
+        "england 's east coast escapes significant flood damage .", 
+        "thousands of homes evacuated in norfolk , suffolk , lincolnshire and essex .", 
+        "seventeen severe flood warnings remain in place .", 
+        "icy conditions expected across the uk ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5879b2fce4b08e753d554bc9", 
+            "title": "storm surge updates : here 's what happened", 
+            "text": [
+                "thanks for joining us for our live updates covering the predicted storm surges and flooding along the east coast of england and icy weather across the rest of the uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "05:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58799f82e4b0b4f965d3c5a7", 
+            "title": "17 severe flood warnings remain", 
+            "text": [
+                "the environment agency said 17 severe flood warnings - where there is a danger to life - remain in place .", 
+                "a further 80 flood warnings and 69 flood alerts are also active across england and wales .", 
+                "its online flood map is updated every 15 minutes with the latest information ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5879a0bae4b08e753d554bb7", 
+            "title": "icy weather conditions expected", 
+            "text": [
+                "this is the met office 's latest weather warning for the uk .", 
+                "ice is likely to form on untreated surfaces , particularly where showers of sleet , snow and hail occur .", 
+                "the met office said the conditions may lead to a risk of disruption with difficult driving conditions ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58799c3ce4b0b4f965d3c5a3", 
+            "title": "no reports of flooding in essex", 
+            "text": [
+                "there have been no reports of flooding along the coast of jaywick in essex where 230 residents were evacuated from their homes .", 
+                "essex police said evacuating the residents was `` the right thing to do '' and was based on advice from the environment agency and the met office .", 
+                "the county council was expected to arrange transport to take people back to their homes at around 6:00 bst , the police added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "04:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58799e09e4b08e753d554bb2", 
+            "title": "'safe to return home ' in suffolk", 
+            "text": [
+                "residents along the coast south of lowestoft in suffolk have been told it is safe to return to their homes following the flood risk .", 
+                "there had been some flooding along the east coast but the extent was `` not as bad as it may have been '' , said suffolk police .", 
+                "but it added that there were some road closures in place in the southwold area which may affect residents ' ability to return home ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "03:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587986ace4b08d5e65797011", 
+            "title": "'safe to return home '", 
+            "text": [
+                "residents at the rescue centre in jaywick have been told it is safe to go home as the severe flood warning is over .", 
+                "high tide has now passed and residents now safe to return home .", 
+                "thanks to residents for their cooperation"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "02:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587975ffe4b08e753d554b83", 
+            "title": "sea wall has not been breached in jaywick", 
+            "text": [
+                "we 've just heard the sea wall in jaywick has not been breached .", 
+                "the confirmation came from ch insp jonathan baldwin , who said although there had not yet been flooding , the danger had not yet passed .", 
+                "a severe flood warning is still in place for the coast from clacton to lee wick ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "02:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587968f9e4b08d5e65796fef", 
+            "title": "great yarmouth evacuation 'not an overreaction '", 
+            "text": [
+                "evacuating homes and getting in help from other parts of the country was not an overreaction to the flood risk , the leader of great yarmouth council says .", 
+                "about 4,500 people are thought to have left their homes ahead of a predicted tidal surge , but the town escaped unscathed and no flooding occurred .", 
+                "`` we 're very grateful to all the people from all over the country who came here to help us , '' graham plant said .", 
+                "`` i do n't believe we overreacted if [ the water ] had breached , the residents would have been so grateful to have those people there to help them . ''"
+            ], 
+            "author": [
+                "Alex Dunlop", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "01:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58796c99e4b08e753d554b78", 
+            "title": "'we survived ! '", 
+            "text": [
+                "many residents in great yarmouth expressed their relief as it appeared they had escaped the worst of the flooding .", 
+                "we survived !", 
+                "# floodgate is over , thank you for your concern and support throughout this terrifying time .", 
+                "# greatyarmouth"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "01:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587967eae4b08e753d554b76", 
+            "title": "'the tide started to take him '", 
+            "text": [
+                "norfolk police has said the man arrested after jumping into a river in great yarmouth had been asked to move away for his own safety .", 
+                "officers were alerted to a man acting dangerously next to the river yare near haven bridge at around 21:10 gmt .", 
+                "he was rescued from the water and arrested for public order offences .", 
+                "`` i saw officer grab the man as tide started to take him down river . ''", 
+                "saved man who jumped into river is arrested -", 
+                "charged with endangering others ' lives ?", 
+                "sometimes darwin effect needs to be left to run its course !", 
+                "gene pool under threat .", 
+                "risking your lives to save others # great respect for all that you do , also remembering the other emergency services tonight", 
+                "you know the rules of fishing , if it 's not worth keeping throw it back", 
+                "so you arrest a man who more likely has mental health issues and needs help # toomanystupids", 
+                "very lucky , very brave", 
+                "@ twitterid well done for saving him however he deserves to be nicked x", 
+                "well done saved a life ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58795b1be4b0b4f965d3c54c", 
+            "title": "trapped fisherman pulled from pier", 
+            "text": [
+                "a fisherman had to be rescued by a lifeboat crew after being cut off by huge waves on a pier during the tidal surge .", 
+                "the rnli crew at blyth was called just after 16:00 gmt to reports of a man stranded on the east pier near the lighthouse ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5879611ce4b0b4f965d3c552", 
+            "title": "live : reporting from the scene at jaywick evacuation rest centre", 
+            "text": [
+                "live : reporting from the scene at jaywick evacuation rest centre"
+            ], 
+            "author": [
+                "Stuart Woodward", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587958d4e4b08d5e65796fd8", 
+            "title": "bridge closures in suffolk", 
+            "text": [
+                "suffolk police have closed the bascule bridge in lowestoft and mutford lock bridge in oulton due to safety concerns .", 
+                "`` the decision has not been taken lightly but is being put in place for public safety as a precautionary measure , '' the force said .", 
+                "the bridges are shut to pedestrians and cars `` while the danger passes . ''", 
+                "# lowestoft update - bascule bridge & mutford lock bridge will close from 8pm this evening as high tide approaches -", 
+                "police are taking reports of # flooding in caldecott road area of oulton broad and nr mutford lock bridge .", 
+                "bridge remains closed .", 
+                "any news on lowestoft bridge re opening .", 
+                "thanks", 
+                "hi shaun , the bascule bridge in lowestoft is now open .", 
+                "at this time mutford lock bridge in oulton broad remains closed .", 
+                "many thanks", 
+                "is haddiscoe bridge closed ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587954cde4b08d5e65796fd0", 
+            "title": "man arrested for jumping in flood-risk river", 
+            "text": [
+                "a man has been arrested for public order offences after he jumped into the river in great yarmouth , police say .", 
+                "he was `` acting dangerously '' next to the river yare , but refused to move away from the water .", 
+                "police said he was immediately rescued and arrested , but that `` a small number of people '' were getting too close to the water ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58795407e4b08d5e65796fcd", 
+            "title": "in high waters in great yarmouth", 
+            "text": [
+                "just been to haven bridge great yarmouth & met @ twitterid technical rescue unit who have come to assist with # norfolkfloods", 
+                "i 've got a friend stuck in norwich and needing to get to lowestoft is there a way round chris ?", 
+                "where 's closed jen ?", 
+                "not sure .", 
+                "aside both lowestoft bridges .", 
+                "rumours are the beccles is flooded .", 
+                "is yarmouth bridge open ?", 
+                "yes bridge is open # a12", 
+                "but with lowestoft bascule shut there 's no way to get from north lowestoft to sth even with yarmouth bridge open", 
+                "@ twitterid @ twitterid @ twitterid may be best to ask if they 're on as im out at moment", 
+                "has it flooded ?", 
+                "what 's havenbridge house looking like ? ?", 
+                "wondering if my office building been flooded !", 
+                "not flooded but is seeping through gaps in wall !", 
+                "office is fine at the mo", 
+                "good to know everyone 's fav sarge is on scene .", 
+                "stay safe !", 
+                "better to have plenty of help and not need it than the alternative .", 
+                "bet it 's still chilly tho '", 
+                "0 oc but wind is making it colder", 
+                "@ twitterid @ twitterid well hello sgt chris !", 
+                "thank you mutual aid at its finest", 
+                "@ twitterid @ twitterid fantastico to see a joint approach to the potential danger of the first major # springsurge # keepsafe", 
+                "i 'm moving to birmingham tomorrow , can i hitch a lift back ?", 
+                "congratulations on a brilliant job well done , i was down near the quay , everyone was so helpful and well organised", 
+                "has the high tide now finished ?", 
+                "hope everybody is safe"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587945a2e4b08d5e65796fa2", 
+            "title": "high tide in great yarmouth", 
+            "text": [
+                "the bbc 's ben brown in great yarmouth says that despite the high tide coming in , there 's no sign of any flooding so far .", 
+                "the environment agency has issued 17 severe flood warnings - meaning there is a danger to life ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58794b4fe4b0b4f965d3c52b", 
+            "title": "train cancellations", 
+            "text": [
+                "rail services from lowestoft station have now ended and are cancelled until saturday .", 
+                "no trains from # lowestoft until tomorrow now due to a predicted tidal surge .", 
+                "there are alterations : js"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58794214e4b0b4f965d3c509", 
+            "title": "people delay rescue over 'fear of being burgled '", 
+            "text": [
+                "`` some # jaywick residents tell me they delayed coming to rescue centre for fear of being burgled , '' bbc essex 's stuart woodward reports", 
+                "it 's happened so many time before - the police do not protect the empty houses so you can not blame them for staying", 
+                "in my blog of dec 2015 floods , i argued looting during disasters is v rare & one of many disaster myths", 
+                "i can understand tht .", 
+                "god help the professionals if got it sooooo wrong .", 
+                "i 'm not surprised !", 
+                "one of the roughest areas in britain !", 
+                "i wouldnt believe authorities would look after my home if lived there ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58793791e4b08d5e65796f76", 
+            "title": "residents shun evacuation centres", 
+            "text": [
+                "news correspondent alex dunlop in great yarmouth , norfolk , says many residents have refused to go to emergency centres despite the flood warning .", 
+                "police say that around 60 % to 70 % of the residents they visited did not want to go to the centres , out of around 5,000 properties .", 
+                "this could be because they have decided to stay at home , or with a friend or relative ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58793584e4b08e753d554af9", 
+            "title": "officials warn against 'flood selfies '", 
+            "text": [
+                "keep away from the coast tonight .", 
+                "trying to be rescued from a flooding situation is a very difficult thing indeed , please do not play chance with your lives - it really is extremely dangerous to be taking selfies .", 
+                "these large waves can come in very quickly and sweep you out ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587931f1e4b08e753d554aec", 
+            "title": "tidal surge passes skegness", 
+            "text": [
+                "news correspondent danny savage says the east coast tidal surge passed skegness , lincs , without incident ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587931a0e4b0b4f965d3c4ca", 
+            "title": "flooding 'worst they 've ever seen'bbc look north journalist tweets", 
+            "text": [
+                "fun spot amusements on hornsea seafront , totally flooded .", 
+                "workers say it 's the worst they 've ever seen", 
+                "if any flood damage pac man ball machines are there , i 'll gladly take a damaged one , see if i can fix it !", 
+                "@ twitterid # pray", 
+                "so sorry to anyone flooded out this evening .", 
+                "xxx", 
+                "wash off asap salt water killed 90 % of our stock in 2014 felt sorrow for you .", 
+                "x", 
+                "get them up on blocks and dry them off"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58792d3ee4b0b4f965d3c4bd", 
+            "title": "in night falls at jaywick as evacuation continues", 
+            "text": [
+                "about 140 people have checked in with the rest centre in jaywick as the community braces itself for floods ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58792b6ce4b08d5e65796f4b", 
+            "title": "boston river level droppingboston council tweets", 
+            "text": [
+                "boston cctv : boston river level dropping .", 
+                "no incidents .", 
+                "cctv continue to monitor 24/7 .", 
+                "enjoy the rest of your evening .", 
+                "# lincsstormsurge"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587928d0e4b08e753d554ad3", 
+            "title": "army helping in skegness and great yarmouth", 
+            "text": [
+                "the ministry of defence says burma company , 2nd battalion the yorkshire regiment , are supporting the authorities in skegness until at least 4:00 gmt tomorrow .", 
+                "in great yarmouth , a squadron , king 's royal hussars , is supporting the authorities until early tomorrow .", 
+                "high tide is expected there at 23:41 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587926e8e4b08d5e65796f46", 
+            "title": "high waters at trusthorpebbc radio lincolnshire tweets", 
+            "text": [
+                "high tide at trusthorpe near mablethorpe ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58792699e4b08d5e65796f45", 
+            "title": "'water receding ' in withernseahumberside police tweet", 
+            "text": [
+                "water receeding in the withernsea area after some water was overtopping .", 
+                "road closure in place on south promenade ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5879263be4b0b4f965d3c4ab", 
+            "title": "'take this surge seriously '", 
+            "text": [
+                "clearly these 17 severe flood warnings are a real indication that people need to take this surge seriously .", 
+                "i want to encourage people to respond to the calls for people , where they are at risk , to stay with friends or family or at rest centres .", 
+                "our priority is making sure people are safe tonight and that lives are saved ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5879256ee4b0b4f965d3c4aa", 
+            "title": "evacuations in norfolk", 
+            "text": [
+                "about 80 people are being evacuated from the village of walcott , norfolk police say .", 
+                "in salthouse , about 15 properties were being evacuated , the force added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58792327e4b08d5e65796f3f", 
+            "title": "rescue in hornseabbc look north journalist tweets", 
+            "text": [
+                "karl shannon ( centre ) of hornsea inshore rescue who helped rescue a grandmother and two children from a car in floodwater tonight", 
+                "@ twitterid # heroes", 
+                "well done to all .", 
+                "sorry about the idiotic few", 
+                "inspiration to us all .", 
+                "he 's lies his life for us all .", 
+                "great work mate ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5879226ce4b0b4f965d3c4a4", 
+            "title": "'evacuate immediately '", 
+            "text": [
+                "we have seen numbers of people using the rest centres in jaywick increase steadily during the late afternoon .", 
+                "i know from talking to many people that friends and family are also housing many more people .", 
+                "i still need anyone who has not yet evacuated their property to do so immediately .", 
+                "the flood warning for high tide after midnight remains at severe and there is a threat to life as a result .", 
+                "officers will remain on patrol in jaywick , mistley and west mersea through the night to keep both locations safe and encourage residents to evacuate . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587921e3e4b0b4f965d3c4a2", 
+            "title": "continue evacuating , say essex police", 
+            "text": [
+                "residents of jaywick , mistley and west mersea in essex should continue evacuating their homes , essex police says .", 
+                "a severe flood warning - meaning threat to life - remains in place ahead of a high tide expected at 00:15 gmt .", 
+                "about 140 have registered at the rest centre in jaywick and police say there is a `` steady flow '' of people going in ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5879210be4b08e753d554abe", 
+            "title": "high water levels in hullbbc radio humberside reporter tweets", 
+            "text": [
+                "water levels close to the tidal barrier ( water getting on to the closed foot way by the c4di building ) # hull", 
+                "thx for the updates away from home so appreciate knowing whats happening !", 
+                "no problems .", 
+                "happy to help .", 
+                "hope all is ok"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587920ade4b0b4f965d3c49c", 
+            "title": "'challenging conditions'humberside police tweets", 
+            "text": [
+                "high tides are moving through our area creating challenging conditions .", 
+                "remain vigilant , follow the advice on offer - it 's for your safety"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58790b1fe4b08d5e65796ee8", 
+            "title": "85 jaywick evacuees registered at rest centre so far", 
+            "text": [
+                "evacuees escaping a predicted high tide and severe weather , which could cause mass flooding in a small essex village , have been arriving at a rest centre .", 
+                "the centre in tendring , clacton , can cater for more than 1,000 people who are leaving jaywick .", 
+                "nigel brown , from tendring council , said that the rest centre had registered at least 85 people .", 
+                "`` the main issue at that time was going to be the lunchtime high tide that turned out not to be an issue , '' he said .", 
+                "`` we now have an issue with the tide around 11pm tonight and that looks to be serious . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58790c2be4b08e753d554a88", 
+            "title": "'sea surges ' in scarboroughbbc look north reporter tweets", 
+            "text": [
+                "current scene in # scarborough as sea surges & overtops s bay - @ bbclooknorth", 
+                "hi phil , did you film this yourself today ?", 
+                "may we use in bbc coverage ( with credit to you ) if so ?", 
+                "thanks .", 
+                "yes shot on my iphone", 
+                "whats happening to scarbados thats my holibobs down the drain", 
+                "@ twitterid @ twitterid - daz certainly knows how to treat his kids !", 
+                "bet they ca n't wait to go to sunny scarborough", 
+                "@ twitterid", 
+                "@ twitterid @ twitterid the price of donuts will be 5 for \u00a3 4 this summer bc of brexit and the storm surge .", 
+                "poor scarborough & people .", 
+                "stay safe everyone & thanks to army , police & emergency services for their bravery"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58790be3e4b08d5e65796eee", 
+            "title": "'leave your house'bbc essex tweets", 
+            "text": [
+                "matt horne from @ twitterid : `` our strong recommendation is that you come here to the centre .", 
+                "leave your house - we will protect it ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58790b88e4b0b4f965d3c45a", 
+            "title": "high tide 'has passed ' in newcastlethe environment agency tweets", 
+            "text": [
+                "this evening 's high tide at # newcastle has passed - water reached the temporary barrier for a short time and is now receding # floodaware"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58790233e4b08d5e65796ec1", 
+            "title": "tidal surge in scarborough and whitbybbc look north tweets", 
+            "text": [
+                "this is the scene in scarborough and whitby right now .", 
+                "a tidal surge is hitting the east coast .", 
+                "@ twitterid hope everyone is ok stay safe all", 
+                "it was fuckall", 
+                "great to see barriers in situ ! ! !", 
+                "!", 
+                "will it hit leeds around middleton", 
+                "@ twitterid usual group of # thugsandmorons taking risks :", 
+                "will it hit skegness like that .", 
+                "steph"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58790584e4b0b4f965d3c43f", 
+            "title": "safety is the most important priority , says flood minister", 
+            "text": [
+                "floods minister therese coffey told bbc essex that she was impressed with the flood preparations in essex .", 
+                "she said : the most important priority in the next 24 hours is making sure that people are safe .", 
+                "`` there has been investment [ in flood defences ] along this stretch of the essex coast and there will be in the future . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58790293e4b0b4f965d3c430", 
+            "title": "waves are 'biggest they have ever seen'bbc look north presenter tweets", 
+            "text": [
+                "looks like that storm is coming in now .", 
+                "people saying waves are the biggest they 've ever seen @ twitterid 6.30pm", 
+                "can we have another video about 5.15pm ?", 
+                "very exciting !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878f362e4b08e753d554a21", 
+            "title": "friday night lows", 
+            "text": [
+                "friday night lows across the countryside tomasz s", 
+                "the true albeit boring low will be 0 or -1 degree 's , but it 's not 'sensational ' enough , so make up a random figure for effect !", 
+                "!", 
+                "there could be lows down to -5c tonight .", 
+                "it usually goes lower than the forecast", 
+                "really ?", 
+                "how strange how the low last night in england was indeed 0/-1c then !", 
+                "!", 
+                "topcliffe n yorkshire was -4.3c", 
+                "the met office observation 8 miles from top-cliff ( leeming ) has the low temp last night at -.02c .", 
+                "pure fantasy , care to wager 1000 to charity that the temp will not reach -5 in london tonight ! ! !", 
+                "-1 will be the low tonight !", 
+                "it 's a countryside forecast .", 
+                "neil looking at sat in england tonight will be -5.it 's pure sensationalism of normal jan weather", 
+                "nonsense .", 
+                "you could say that a cow lows , but a night usually does n't .", 
+                "hah !", 
+                "# pointlesspedant"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878f19be4b08d5e65796e80", 
+            "title": "watch out for ice , says tomasz", 
+            "text": [
+                "many major northern cities falling below zero by the evening rush hour .", 
+                "watch out for ice !", 
+                "tomasz s", 
+                "wow frost- what should we be expecting in mid winter in the uk ?", 
+                "amazing !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878f15ee4b08e753d554a14", 
+            "title": "'tried to get in first '", 
+            "text": [
+                "minister for the armed forces , mike penning , has praised troops who have been deployed to areas at risk from severe flooding .", 
+                "`` we like to be in front of the problems , but traditionally we have always waited for the problems to come , '' he said .", 
+                "`` now we have tried to get in first - to be there alongside the other emergency services and i 'm really proud of what our troops are doing today . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ed2ee4b0b4f965d3c3c6", 
+            "title": "water levels rising", 
+            "text": [
+                "2 hours to high water at # scarborough 's south bay - going to be close @ twitterid @ twitterid", 
+                "i do n't envy you today phil !", 
+                "it 's freezing !", 
+                "do n't be like kate , get wrapped up !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878ecfee4b08d5e65796e6c", 
+            "title": "rail disruption", 
+            "text": [
+                "a tree is blocking the line between norwich and lowestoft , cuasing delays of up to 40 minutes .", 
+                "new : delays between norwich and lowestoft expected until 15:45 # reedham"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ece8e4b08e753d5549f6", 
+            "title": "police continue to stress the dangers out there", 
+            "text": [
+                "high tide & high winds in next few hours will make walking along # yorkshirecoast dangerous , pls avoid paths & promenades with large waves"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "pgl_38612511", 
+            "title": "in snow and ice across the uk", 
+            "text": [
+                "in snow and ice across the uk"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878e124e4b0b4f965d3c380", 
+            "title": "preparing for a water rise", 
+            "text": [
+                "most of the east coast of england is subject to flood warnings , with many hitting `` severe '' , so all preparations are being made ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878dff5e4b08d5e65796e2c", 
+            "title": "met office weather warnings update", 
+            "text": [
+                "the met office has removed a number of its yellow `` be aware '' warnings , but one for ice has stayed in place .", 
+                "it said that it is likely to form where there have been sleet , snow and hail showers on untreated surfaces , and 2cm to 4cm of snow may fall in low lying areas of scotland .", 
+                "`` this may lead to the risk of disruption with difficult driving conditions and expect longer journey times . ''", 
+                "the warning is valid from 16:00 gmt until midday on saturday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878d986e4b08d5e65796e03", 
+            "title": "flood preparations", 
+            "text": [
+                "some residents in mistley , essex , have been laying out sandbags in case of flooding ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878deabe4b08d5e65796e27", 
+            "title": "check your trains", 
+            "text": [
+                "some train lines in the uk have been affected by the snow , so take network rail 's advice", 
+                ".", 
+                "please check with @ twitterid before you travel as weather conditions may affect your journey .", 
+                "yes , look at all of that deep snow .", 
+                "how shall we cope ?", 
+                "what lovely old signals"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ddb2e4b08e753d5549a3", 
+            "title": "another accident on the roads", 
+            "text": [
+                "grateful as always for the assistance of our # 999family colleagues .", 
+                "one to hospital with hopefully only minor injuries from # boltbybank", 
+                "great work by all involved - all too often taken for granted !", 
+                "still amazed that # yaa is a charity donate if you can"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878dd36e4b08d5e65796e22", 
+            "title": "weather watchers in scotland", 
+            "text": [
+                "our weather watchers in scotland have been sending in some beautiful", 
+                "some more of your # snow from across # scotland .", 
+                "all taken earlier today by our @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878dcf0e4b0b4f965d3c364", 
+            "title": "# snowmageddon", 
+            "text": [
+                "# snowmageddon has been trending on twitter today , with some users less impressed than others by the wintry weather .", 
+                "on the way to work @ twitterid in the # forestofdean we found this ape looking a bit fearful of impending # snowmageddon", 
+                "maybe he was a brass monkey", 
+                "prepare for # snowmageddon", 
+                "nice work stealing @ twitterid work .", 
+                "# slowhandclap # snowmageddon", 
+                "you stole that from @ twitterid shame on you .", 
+                "lol", 
+                "@ twitterid", 
+                "this tweet is in the sun newspaper today", 
+                "oh my gosh , it 's winter & he saw a snowflake !", 
+                "tell him to take a deep breath calm down1snowflake is ok. 2 feet , not so good !", 
+                "@ twitterid made me titter", 
+                "lol", 
+                "a heathrow airport boss ?", 
+                "@ twitterid look its us ! ! ! !", 
+                "!", 
+                "hilarious", 
+                "@ twitterid - hey !", 
+                "do n't forget to buy 100 rolls of toilet paper !", 
+                "@ twitterid qua qua qua", 
+                "this is hilarious and so true", 
+                "that 's a very funny photo renzo .", 
+                "well", 
+                "wise !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878d9b9e4b08e753d554994", 
+            "title": "do n't risk your life for a selfie", 
+            "text": [
+                "emergency services are giving stark warnings to people to stay away from the waves .", 
+                "second tide today will be higher in many places making the east coast a dangerous place to be - do n't risk your life for a # stormselfie", 
+                "peak storm surge timings would be useful", 
+                "hi , flood warnings are raised and managed by the @ twitterid maybe worth tweeting them .", 
+                "^alice", 
+                "storm selfies are part of natural selection", 
+                "that guy is obviously awaiting his 'darwin award '", 
+                "i 'm getting the word 'prick '", 
+                "what a fool ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878d93fe4b0b4f965d3c34d", 
+            "title": "st john ambulance out on the road", 
+            "text": [
+                "st john ambulance crew are being mobilised around the country to help support communities affected by the bad weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878d819e4b0b4f965d3c34a", 
+            "title": "updated numbers of homes hit in essex", 
+            "text": [
+                "approximate affected homes according to @ twitterid 2500 jaywick , 130 west mersea & 15 in mistley # flooding"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878d553e4b08e753d55497f", 
+            "title": "more severe flood warnings issued", 
+            "text": [
+                "the environment agency has now issued 16 severe flood warnings , meaning danger to life .", 
+                "these are along the east coast of england .", 
+                "there are also 87 flood warnings , meaning flooding is expected , and 57 flood alerts , meaning flooding is possible ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878d4d8e4b0b4f965d3c33d", 
+            "title": "your snowy scene", 
+            "text": [
+                "your snowy scene"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878d373e4b08d5e65796de7", 
+            "title": "large waves in north east england", 
+            "text": [
+                "large waves have been captured by a photographer in seaham harbour in the north east of england ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878d048e4b08d5e65796dce", 
+            "title": "sledging in scotland", 
+            "text": [
+                "some people took advantage of the heavy snow in spittal of glenshee ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878cd08e4b08d5e65796dc3", 
+            "title": "england 's east coast is 'extremely dangerous '", 
+            "text": [
+                "the combination of gale force winds , high tides , dangerous waves carrying rocks and a coastal surge means parts of the east coast are extremely dangerous .", 
+                "our thoughts are with all those who are currently facing another uncertain day and night .", 
+                "we ask anyone tempted to go to the coast for a thrill or to take to stay away , you would be putting yourself in unnecessary danger . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878ccd1e4b0b4f965d3c31e", 
+            "title": "'more than 115,000 properties protected '", 
+            "text": [
+                "the environment agency says its flood defences offered protection to more than 115,000 properties overnight and this morning .", 
+                "it says it has moved more than 8km of temporary barriers and 25 pumps to depots and towns including great yarmouth , chelmsford , ely , newcastle upon tyne , blythe , rye , in east sussex , and south ferriby in lincolnshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "20:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878cb5de4b08d5e65796db4", 
+            "title": "your sparkling gatton park", 
+            "text": [
+                "your sparkling gatton park"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878cc49e4b08d5e65796dbb", 
+            "title": "jack-knifed vehicle closes road in kent", 
+            "text": [
+                "the jackknifed car transporter that forced the closure of the northbound # a249", 
+                "at least they were n't brand new", 
+                "all motor dealers are quickly making a note of those registration numbers ! ! !", 
+                "# dontwantoneofthose"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c9f2e4b0b4f965d3c311", 
+            "title": "'evacuate now '", 
+            "text": [
+                "`` we do n't want a last-minute rush '' says chief inspector russell cole as # jaywick # mistley and # mersea evacuate ahead of tonight 's high tide", 
+                "wishing everyone by the # essex coast a safe night # jaywick # mersea # mistley", 
+                "@ twitterid great video but where 's the access for # deaf people # bsl # invision # subtitles", 
+                "g9ud lmmx x\u017az\u017ada\u017a\u010fx f6pcz zoom t7 pcf c xa3", 
+                ".", 
+                "@ bbcessex what the hell is he babbling on about what time it gets dark at ?", 
+                "the response has been disproportionate and targeted .", 
+                "# jaywick"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c319e4b08e753d55492f", 
+            "title": "hail hits northern ireland", 
+            "text": [
+                "showers are falling as hail in places at the moment and may make roads and pavements slick and slippery in quick time ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c5d1e4b08d5e65796d97", 
+            "title": "heavy seas at scarborough", 
+            "text": [
+                "heavy seas at # scarborough as town braces for next high water at 1640 , no problems so far ; more @ twitterid", 
+                "looks wild out there , but also a nice rainbow on the horizon", 
+                "any surfers ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c4cfe4b08d5e65796d95", 
+            "title": "waiting for the storm", 
+            "text": [
+                "a man and his dog at clacton-on-sea , essex , where storms are set to hit at about 21:00 gmt ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878c2bbe4b08d5e65796d81", 
+            "title": "update : weather warnings and flood concernsthe overall as it stands in the uk :", 
+            "text": [
+                "update : weather warnings and flood concernsthe overall as it stands in the uk :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "20:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c1f7e4b0b4f965d3c2e5", 
+            "title": "your snowball in the snow", 
+            "text": [
+                "your snowball in the snow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878bf91e4b08d5e65796d66", 
+            "title": "settled snow", 
+            "text": [
+                "settled snow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c0d7e4b0b4f965d3c2dd", 
+            "title": "severe weather warning update", 
+            "text": [
+                "a yellow severe weather warning for # ice has been updated : stay # weatheraware @ twitterid", 
+                "really # brighton ?", 
+                "its -17 here in # bavaria and the trains are still on time : -p"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c047e4b08d5e65796d6e", 
+            "title": "isle of man : ferries and flights cancelled", 
+            "text": [
+                "gale force winds have brought down a number of trees on the isle of man and caused disruption on the island 's roads .", 
+                "the department of infrastructure said its staff had been dealing with fallen trees at numerous locations , including one that fell on live power lines .", 
+                "winds of up to 53mph ( 85km/h ) forced the cancellation of some flights and the overnight ferry to heysham .", 
+                "read more here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c146e4b0b4f965d3c2e0", 
+            "title": "warnings over driving conditions", 
+            "text": [
+                "incident:13/01/17 08:50 rtc 72p1 79p1 persons trapped a271 battle .", 
+                "traffic control in place .", 
+                "please drive carefully .", 
+                "hi can we use your with credit please ?", 
+                "yes please do .", 
+                "and have a look at our website for helpful advice .", 
+                "they dhould loose their licence for imcompetance alone # crapdrivers"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878bfe0e4b08d5e65796d68", 
+            "title": "eastern england : 'focus on flooding '", 
+            "text": [
+                "once this wintry mix of rain , sleet & snow clears eastern england , the focus will be on gales , high tides & a risk of coastal flooding .", 
+                "ll", 
+                "@ twitterid great .", 
+                "not .", 
+                "that map is incorrect it 's snowing hard in east sussex", 
+                "clearing here but wind up .", 
+                "think it is here too .", 
+                "snowing hard still x", 
+                "snowing hard in east sussex has been for ages", 
+                "meanwhile australia swelters through a heatwave .", 
+                "30 degrees last night in sydney .", 
+                "its not exactly armageddon ! !", 
+                "!"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878c034e4b08e753d554919", 
+            "title": "life 's a beach", 
+            "text": [
+                "life 's a beach"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878bedfe4b0b4f965d3c2d5", 
+            "title": "bird 's eye view", 
+            "text": [
+                "bird 's eye view"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878be49e4b08e753d55490a", 
+            "title": "essex police : 'comply with police instruction '", 
+            "text": [
+                "essex police have called for `` people to comply '' with evacuations so they stay safe overnight .", 
+                "chief inspector russ cole said : i need residents in jaywick , mistley and west mersea to comply with police instruction and evacuate immediately .", 
+                "`` latest forecasting tells us that the risk has moved to the next high tide , expected just after midnight .", 
+                "that threat has led to a severe flood warning being put in place for tonight 's high tide . ''", 
+                "he said it was safest to evacuate people during daylight hours", 
+                "`` keeping people safe is our only priority and we will be evacuating residents , '' he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878bbdee4b08d5e65796d4c", 
+            "title": "choppy in blackpool", 
+            "text": [
+                "@ twitterid choppy sea at blackpool !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878bad6e4b0b4f965d3c2c7", 
+            "title": "roadblock for sightseers", 
+            "text": [
+                "the environment agency has set up a roadblock on ferry road in felixstowe , to deter sightseers from going down to have a look at an area which has been classified as a flood risk .", 
+                "environment agency sets up roadblock at felixstowe ferry"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ba34e4b08e753d5548f4", 
+            "title": "more from around the uk", 
+            "text": [
+                "more from around the uk"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b99fe4b0b4f965d3c2bf", 
+            "title": "nice weather to walk and play", 
+            "text": [
+                "( or canter ) .", 
+                "# snow !", 
+                "these 3 # pcltcats are seeing it for the very first time", 
+                "# snowcat from @ twitterid :", 
+                "thats how my ca .", 
+                "dog was but midnights from co.he loves watching it come down in warm comfort inside", 
+                "\u96ea\u304c\u51cd\u3063\u3066\u304b\u304d\u6c37\u3092\u98df\u3079\u308b\u732b\u3002by\u548c\u6075", 
+                "enjoying the snow !", 
+                "!", 
+                "hi toni , lovely did you take it today ?", 
+                "can the bbc use it in our coverage ( with credit ) if so ?", 
+                "thanks .", 
+                "hi .", 
+                "yes of course you can !", 
+                "taken today in brenchley , kent", 
+                "thanks toni !", 
+                "hi , just wondered if you used my pic in the end ?", 
+                "if so could you let me know where so i can take a look ?", 
+                "thanks", 
+                "# snow olive", 
+                "fanks aunty da bbc used dis on der webbysite", 
+                "where can we see it ? ? ? ! ! !", 
+                "!", 
+                "it was on da bbc live snow stream", 
+                "mum just found it !", 
+                "you made the news ! ! ! ! ! ! ! !", 
+                "!", 
+                "teee heee", 
+                "mummyj wants to cuddle that face !", 
+                "xxx", 
+                "she welcome anytime", 
+                "she love that x", 
+                "do you know this is on the bbc website olive ! ! ! ! ! !", 
+                "you is famous ! ! ! ! ! !", 
+                "just seen it ! ! ! !", 
+                "!", 
+                "wowzer must haf a", 
+                "p.s .", 
+                "bcareful olive , showing the details on your tag .", 
+                "i crop my of charlie 's tag in case they fall into the wrong hands", 
+                "mum did see that afterwards", 
+                "so cute !", 
+                "great pic", 
+                "gawguss ! !", 
+                "!", 
+                "mwah"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b91ee4b08d5e65796d38", 
+            "title": "diy sandbags", 
+            "text": [
+                "residents in west mercea say they are taking the protection of their homes into their own hands .", 
+                "west mersea residents are making their own sandbags .", 
+                "they say the council provided them with the last floods but not this time"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b8d5e4b08e753d5548ee", 
+            "title": "more evacuations in essex", 
+            "text": [
+                "breaking : parts of mistley now being evacuated due to threat of severe flooding overnight ; evacuation of jaywick and mersea island continues"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58789ee1e4b08e753d55485a", 
+            "title": "'utterly amazed '", 
+            "text": [
+                "vicky in chatham , kent , sent us this lovely photo of her little one experiencing snow for the first time and says she was utterly amazed !"
+            ], 
+            "author": [
+                "Kathryn Langley", 
+                "BBC Live reporter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b888e4b0b4f965d3c2ba", 
+            "title": "norwich airport closed", 
+            "text": [
+                "norwich international airport has closed after bosses said the snow was at an unsafe level for it to operate .", 
+                "they told bbc east of england that it would remain closed for two hours , but further reviews will happen .", 
+                "for more information check the local live page here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b6dbe4b08e753d5548e8", 
+            "title": "'tonight is going to be horrendous '", 
+            "text": [
+                "weather presenter louise lear said whilst the weather situation had been `` generally improving '' since the morning , friday night was going to be `` horrendous '' .", 
+                "she told bbc news : `` it is a full moon at the moment so the gravitational pull of the moon is at its strongest across the waters .", 
+                "coupled with potentially strong gusts of winds , which are 60mph at the moment , it could mean the toppling over of flood defences .", 
+                "`` it is getting better , but we must , must stress tonight is going to be horrendous , with temperatures down to -9 and -10 , which means a potential skating rink for saturday . ''", 
+                "sunday is set to be cold , damp , drizzly and mild ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b4b5e4b08e753d5548d9", 
+            "title": "'use natural resources against flood threat '", 
+            "text": [
+                "professor richard brazier , of the university of exeter , said the uk needed to use the natural landscape to deal with the threat of flooding .", 
+                "`` allowing coastal flood waters onto certain floodplains can prevent higher-value land , with housing or infrastructure , from being flooded , '' he said .", 
+                "such land is ty agricultural and will rarely be actively farmed in the winter months when these storm surges are at their worst . ''", 
+                "prof brazier also said former wetland that had been drained could be used again to store flood water .", 
+                "such approaches of managing flood water back on to the land deliver proven benefits for wildlife , including wetland birds , '' he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_38607021", 
+            "title": "snowy scenes on hills , roads and beaches", 
+            "text": [
+                "snowy scenes on hills , roads and beaches"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b329e4b0b4f965d3c29b", 
+            "title": "what causes a storm surge ?", 
+            "text": [
+                "what is a storm surge ?", 
+                "follow the @ twitterid for advice on today 's # tidalsurge"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878b017e4b08e753d5548c1", 
+            "title": "winter wonderlands", 
+            "text": [
+                "from across the uk .", 
+                "blakesley hall is looking rather nice in the # snow this morning .", 
+                "a fabulous # winterwonderland !", 
+                "we hope that you 've got the fires on inside - it 's a little chilly out there today", 
+                "# kent looks beautiful covered in # snow .", 
+                "share your # snowykent # nature photos with us - but be sure to take care on the slippery ice !", 
+                "# wild", 
+                "where exactly is that ?", 
+                "this is the view from our # tylandbarn office in # maidstone , below bluebell hill .", 
+                "the new roundhouses are looking # magical in the # snow this morning !", 
+                "# snowmageddon # fridaythe13th", 
+                "now this is what it 's all about !", 
+                "# walking # snow # highlands", 
+                "@ twitterid where abouts are you ?", 
+                "i 'm in newtonmore", 
+                "black-isle !", 
+                "love the bonnie black-isle .", 
+                "spent many happy years there .", 
+                "fairy glen , clootie well , chanorny point etc", 
+                "ah the crisp cool crunch of winter ! ! !", 
+                "!"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b242e4b08d5e65796d14", 
+            "title": "flood barriers ready", 
+            "text": [
+                "the environment agency has been working along the east coast of england to put flood barriers in place .", 
+                "the @ twitterid demountable # flood defences at # southferriby stretch for over a mile .", 
+                "where in s ferriby is this , please ?", 
+                "i 'm heading to lowestoft now but will try to get to s ferriby too later .", 
+                "we have a mile of barrier down the main road from the hope and anchor .", 
+                "we have ensured residents still have access .", 
+                "ok , thanks paul .", 
+                "will the barrier still be up tomorrow ?", 
+                "i need to prioritise lowestoft for their high tide tonight", 
+                "i think it is safe to say it will still be here tomorrow .", 
+                "ok , thanks .", 
+                "i 'll be up there tomorrow !", 
+                "say hi to clive from @ twitterid - if he 's still up there !", 
+                ": )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b1eae4b08e753d5548cd", 
+            "title": "weather warnings extended", 
+            "text": [
+                "yellow weather warnings have now been extended into the evening across the uk for wind , ice and snow .", 
+                "for full details , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b16be4b08e753d5548ca", 
+            "title": "'immediate action ' for 91 spots", 
+            "text": [
+                "there are now 11 severe flood warnings in place - down from 17 earlier - but the medium warnings - meaning immediate action is required - have risen from 70 at 06.30 gmt to 91 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b1e5e4b08e753d5548cc", 
+            "title": "police warning over trips to sea", 
+            "text": [
+                "`` we are relieved that we have got through the night time without a significant incident , but we have got to remain vigilant and on the case for the rest of today .", 
+                "please do not go down to the sea defences , it 's a very dangerous place to be .", 
+                "we are n't out of the woods yet but , fingers crossed , we 'll be able to see through this storm surge together very soon . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878b077e4b08d5e65796d0d", 
+            "title": "traffic woes", 
+            "text": [
+                "to add to the snow , there is a collapsed manhole cover on london 's a2 .", 
+                "the a2 is queueing into town from eltham to kidbrook where it 's down to one lane because of a collapsed manhole cover .", 
+                "[ ro ]"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ae1ae4b08e753d5548b3", 
+            "title": "environment agency warnings", 
+            "text": [
+                "environment agency warnings"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878afbce4b08e753d5548bf", 
+            "title": "wave watch", 
+            "text": [
+                "wave watch"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878ad36e4b0b4f965d3c270", 
+            "title": "fallen trees", 
+            "text": [
+                "strong winds are bringing down trees in some parts of the country .", 
+                "engineers are seen here clearing one from a road near yetts o'muckhart , east of stirling ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ac97e4b0b4f965d3c26e", 
+            "title": "do you wan na build a snowman ?", 
+            "text": [
+                "weather watchers snap of first snowfall in berkshire", 
+                "@ twitterid can i be elsa ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878ac0be4b0b4f965d3c269", 
+            "title": "scotland power cuts", 
+            "text": [
+                "more than 2,000 homes were left without power in highland , aberdeenshire , moray and angus because of high winds , snow and fallen trees .", 
+                "a total of 29 schools also closed across scotland .", 
+                "met office weather warnings are still in place for many parts of scotland , with motorists facing road closures in perthshire and the borders .", 
+                "a spokeswoman for the met office said the worst affected areas had been in the north of the country , where 18cm of snow was recorded in inverness-shire .", 
+                "she added : `` it 's going to be another cold day and night and there 's a chance of seeing snow in aberdeenshire tonight . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ab3ee4b0b4f965d3c265", 
+            "title": "more properties at risk in suffolk", 
+            "text": [
+                "the latest information from the suffolk resilience forum says there are about 1,880 properties at high risk of flooding .", 
+                "check bbc suffolk live for more details ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878ab66e4b0b4f965d3c267", 
+            "title": "snow comes to the capital", 
+            "text": [
+                "it is snowing in london again", 
+                "also it 's snowing again !", 
+                "no new issues yet [ ro ]", 
+                "is this a pi take ?", 
+                "?", 
+                "nope why ?", 
+                "that road looks perfectly ok to me .", 
+                "i thought you meant to report traffic problems .", 
+                "we do n't just report problems on the roads .", 
+                "just a heads up that it was snowing again .", 
+                "i did n't say it was causing a problem ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878a7e0e4b08e753d554892", 
+            "title": "eurostar cancellations", 
+            "text": [
+                "cross-channel rail operator eurostar cancelled two trains between london and paris due to `` weather conditions '' in south-east england and northern france .", 
+                "a spokeswoman for the firm said all affected passengers were offered seats on other trains ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a78ee4b08d5e65796cd6", 
+            "title": "# wildlifefrommywindow", 
+            "text": [
+                "ian steel", 
+                "snettisher", 
+                "had proper snow here in snettisham , norfolk - but looks like turning to rain now .", 
+                "# wildlifefrommywindow @ twitterid", 
+                "had proper snow here in snettisham , norfolk - but looks like turning to rain now .", 
+                "# wildlifefrommywindow @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878a737e4b08e753d55488f", 
+            "title": "safety for livestock", 
+            "text": [
+                "a suffolk landlady has been up all night trying to find a safe haven for her livestock .", 
+                "teresa cook 's pub , the crown inn at snape , was flooded in 2013 .", 
+                "`` [ we 've got ] a pedigree herd of gloucester old spot pigs that are free range , '' she said .", 
+                "`` we 've been struggling for somewhere for them to go but this morning i 've had an offer [ of a place ] for them . ''", 
+                "read more on bbc east of england ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a7d8e4b0b4f965d3c24e", 
+            "title": "hat , gloves , shorts ? check", 
+            "text": [
+                "tim brown from # worcester not feeling the cold .", 
+                "son harry is .", 
+                "# snow # lickey"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878a684e4b08e753d55488a", 
+            "title": "your shadow in the snow", 
+            "text": [
+                "you are starting to send in some great from around the uk .", 
+                "this one comes from steve north , showing his 10-month-old dog , shadow , enjoying a walk in the snow in coulsdon , south london .", 
+                "send us your shots of snow or flooding to haveyoursay @ bbc.co.uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a445e4b0b4f965d3c23e", 
+            "title": "footsteps in the snow", 
+            "text": [
+                "newport pagnell is getting a flurry of snow", 
+                "newport pagnell it 's coming down @ twitterid", 
+                "i asume you lived through the 70s and 80s mike , do n't you think this snow lark is a tad over the top ?", 
+                "working on another story - but thought snow made pretty", 
+                "gosh , must be at least half a centimetre .", 
+                "shut the schools and cancel the trains .", 
+                "my god !", 
+                "that looks so scary .", 
+                "hope you get back to the office safely .", 
+                "wow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a326e4b08d5e65796cb9", 
+            "title": "river thames : 'be prepared '", 
+            "text": [
+                "here is an update from the forecasting and response team at the thames barrier .", 
+                "i 've updated the flood alert for tidal # thames riverside properties from putney to teddington for this afternoon 's tide", 
+                "tide was below predicted levels for # richmond .", 
+                "westerly wind held it back a little .", 
+                "river and sea levels online at"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a16ee4b0b4f965d3c22d", 
+            "title": "keep up to date with flood risk", 
+            "text": [
+                "env agency yorks & ne", 
+                "envagencyyne", 
+                "# yorkshire : 21 warnings 12 alerts # northeast : 6 warnings 6 alerts at 09:30am today .", 
+                "check your risk bit.ly/2jmqf2i # floodaware", 
+                "# yorkshire : 21 warnings 12 alerts # northeast : 6 warnings 6 alerts at 09:30am today .", 
+                "check your risk # floodaware"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878a121e4b08e753d554869", 
+            "title": "'no stopping me '", 
+            "text": [
+                "must .", 
+                "keep .", 
+                "on .", 
+                "going ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58789e94e4b0b4f965d3c21d", 
+            "title": "striking the right note", 
+            "text": [
+                "the roof of the sage music centre , in gateshead , sags as snow cascades down the side of the building after a heavy overnight pounding .", 
+                "or at least that 's how its roof design makes it appear"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58789ca9e4b08d5e65796c92", 
+            "title": "carrying on regardless", 
+            "text": [
+                "carrying on regardless"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58789b73e4b08d5e65796c8a", 
+            "title": "environment agency chief executive", 
+            "text": [
+                "sir james bevan tells bbc radio 4 's today programme that there could be `` potentially significant effects '' from the bad weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587899c1e4b08d5e65796c7f", 
+            "title": "dig your way out", 
+            "text": [
+                "some people have n't been quite as badly affected by the snow as others", 
+                "@ twitterid luckily managed to dig my van out this morning here in wiltshire !", 
+                "brilliant can i put this on my website please ?", 
+                "of course", 
+                "i 'll let you know once it 's done .", 
+                "ha ha", 
+                "@ twitterid @ twitterid that must have been hard work", 
+                "@ twitterid @ twitterid scandinavian countries must think we are mad at a couple of snowflakes sends media into a frenzy", 
+                "@ twitterid @ twitterid dig out ?", 
+                "u mean spoon surely , thats not snow , lol"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878993ce4b08e753d554840", 
+            "title": "newcastle by night", 
+            "text": [
+                "as snow settled overnight , there were some beautiful scenes in places across the uk .", 
+                "here are two from newcastle ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58789836e4b0b4f965d3c1f4", 
+            "title": "playtime !", 
+            "text": [
+                "whilst us humans might not be liking the snow , some canines see it differently"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878962ce4b0b4f965d3c1e9", 
+            "title": "essex threat lowered", 
+            "text": [
+                "breaking : the environment agency say there is no longer a threat to life in essex .", 
+                "evacuation still underway & flooding still expected .", 
+                "what ?", 
+                "even leigh on sea high street ?", 
+                "do they even know where it is ? ?", 
+                "lol"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587893aae4b0b4f965d3c1dc", 
+            "title": "shops prepare for the storm", 
+            "text": [
+                "businesses in whitby took the warnings seriously and got ready for incoming water last night ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58789259e4b08e753d55480f", 
+            "title": "floods of 1953", 
+            "text": [
+                "as residents in jaywick , essex , evacuate their homes , bbc essex shares from the 1953 floods .", 
+                "images from the floods of 1953 when sea defences were breached & 2,000 million gallons of water swept inland in minutes .", 
+                "# jaywick"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58789486e4b08e753d55481b", 
+            "title": "flight delays", 
+            "text": [
+                "some flights at manchester airport have been delayed because of snow .", 
+                "a spokesman said : `` we are experiencing some delays at the moment whilst aircraft get de-iced . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587891cce4b08d5e65796c4b", 
+            "title": "highway code advice", 
+            "text": [
+                "how to deal with skidding on snowy roads", 
+                "if skidding occurs , remove cause by releasing brake pedal or easing off accelerator .", 
+                "turn steering wheel in direction of the skid.. # uksnow", 
+                "and stop driving too fast for the conditions", 
+                "thanks .", 
+                "this really helps me on my motorbike ! ! !", 
+                "!", 
+                "you think you 've got problems .", 
+                "i 'm on a horse .", 
+                "since 2002 all vehicles have abs", 
+                "does n't help you if the skid is due to going too fast tor the available grip .", 
+                "plenty of cars on the road from pre-2002", 
+                "all skids are driver made", 
+                "maybe as part of the driving test they should learn this stuff not read it in a book", 
+                "avoid skidding .", 
+                "do n't drive like a dick in the first place @ twitterid", 
+                "or require people to use snow tyres in snow conditions .", 
+                "or not drive .", 
+                "only for fwd 's .", 
+                "@ twitterid there 's also a theory that slipping the clutch helps .", 
+                "do n't know if that 's a fact or not .", 
+                "makes sense ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58789388e4b08d5e65796c57", 
+            "title": "seeing the sunny side of life", 
+            "text": [
+                "surrey", 
+                "bbcsurrey", 
+                "# surreysnow does bring out some of the best views of the best county !", 
+                "twitter.com/lymden79/statu", 
+                "# surreysnow does bring out some of the best views of the best county !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878916be4b08d5e65796c47", 
+            "title": "icy conditions on the roads", 
+            "text": [
+                "police forces are urging drivers to be careful if they are out on the roads this morning after a number of crashes .", 
+                "# a170 # suttonbank currently closed due to rtc .", 
+                "fortunately no injuries , please use alternative route whilst we deal & take care out there", 
+                "as you can see , it 's pretty treacherous out there so please do take extra care", 
+                "recovery now on scene at # a170 # suttonbank which remains closed due to rtc", 
+                "the # a170 # suttonbank has reopened following earlier rtc .", 
+                "thanks for your patience", 
+                "speed was surely a factor here as that is or appears to be a 4x4 ?", 
+                "hmmmm", 
+                "probably just a 2wd version .", 
+                "it 's beyond me why people drive these sudo 4x4 's !", 
+                "they are no use to man nor beast .", 
+                "i bet that was an interesting 30 seconds", 
+                "@ twitterid must get me a snow going 4x4"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788f00e4b08e753d5547fa", 
+            "title": "updated flooding/weather warnings", 
+            "text": [
+                "severe flood warnings - meaning a danger to life - have been cut to 12 , but there are still 85 medium warnings - meaning immediate action is required - in place and a further 85 flood alerts , which mean `` be prepared '' .", 
+                "there are still a number of yellow `` be aware '' weather warnings too from the met office for wind , snow and ice .", 
+                "to keep up-to-date with flood warnings , click here .", 
+                "for weather warnings , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788e97e4b08d5e65796c36", 
+            "title": "snow from our local news teams", 
+            "text": [
+                "light fall of snow in howe of fife overnight .", 
+                "@ bbcscotweather", 
+                "beautiful scene in # ashdown forest # sussex this morning , but please take care on the roads .", 
+                "latest travel with @ twitterid @ twitterid", 
+                "ramsgate by sue fewings .", 
+                "# photooftheday"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58788d75e4b0b4f965d3c1aa", 
+            "title": "over 1,000 suffolk homes at 'high risk ' of flooding", 
+            "text": [
+                "about 1,100 properties in suffolk are at high risk of flooding and plans are in place to evacuate homes and businesses .", 
+                "the environment agency has warned of two peak times where the risk will be highest - around 12:00 gmt and 21:00 gmt .", 
+                "police officers will be visiting homes in the affected areas to give people information on local rest centres they can go to .", 
+                "superintendent kerry cutler , of suffolk constabulary , said : `` we are taking this matter extremely seriously and would urge people in the areas likely to be affected to do the same .", 
+                "`` rest centres have been established in the county and people in those areas are encouraged to find alternative accommodation outside of the affected areas or make their way to the nearest rest centre well in advance of the high tide times .", 
+                "`` we continue to work with agencies both locally , regionally and nationally to make sure we are in the best possible position to safeguard suffolk people . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58788d38e4b0b4f965d3c1a8", 
+            "title": "school closures rising", 
+            "text": [
+                "latest figures suggest 29 schools in scotland have been closed this morning because of the wintry weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788c25e4b08d5e65796c26", 
+            "title": "environment agency : 'potentially significant effects '", 
+            "text": [
+                "environment agency chief executive sir james bevan said he did not think today 's storm would be as powerful as the one that caused the east coast flood of 1953 - described as the worst national peacetime disaster to hit the uk .", 
+                "however , he told bbc radio 4 's today programme there could be `` potentially significant effects '' including flooding .", 
+                "he said : `` it 's very important to underline that there are two high tides today coming down the east coast , north to south .", 
+                "`` the first is coming in at the moment slightly under the height that we expected , the second , due this evening , may come out slightly higher than has been anticipated .", 
+                "`` we will stay very active throughout the day on the ground , we will continue to warn and inform the communities that are at risk , and i would like to urge everybody to remain vigilant and to continue to follow our flood warnings . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788ac2e4b08d5e65796c1c", 
+            "title": "breakingyarmouth evacuation", 
+            "text": [
+                "soldiers and police officers are due to carry out an evacuation of about 5,000 properties in great yarmouth after a severe weather warning was issued .", 
+                "properties in south yarmouth , north yarmouth , caister , southtown and cobholm areas are being evacuated from 10:00 gmt with additional police resources drafted in alongside military personnel .", 
+                "high tides and extreme weather conditions are expected tonight , with high water peaking at around 21:15 gmt .", 
+                "other locations currently identified as likely to be most affected are wells , walcott , salthouse and king 's lynn .", 
+                "superintendent dave buckley said : `` norfolk has tried and tested flood response plans which are currently in the process of being activated , in line with environment agency advice .", 
+                "`` a multi-agency co-ordinating group has been convened twice to ensure appropriate plans and resources are in place . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788964e4b0b4f965d3c184", 
+            "title": "ice closes bus station", 
+            "text": [
+                "ice , rather than snow , appears to be main issue in london .", 
+                "addington village bus station is closed because of ice .", 
+                "very icy around biggin hill , coulsdon , new addington , tatsfield and westerham [ ro ]", 
+                "well get some grit down ffs", 
+                "umm yeah you realise i 'm not responsible for the grit right ?", 
+                "of course i do my friend"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587888abe4b08d5e65796c12", 
+            "title": "jaywick evacuation 'in full swing '", 
+            "text": [
+                "police are evacuating up to 2,500 people from their homes in the essex coastal village .", 
+                "# jaywick evacuation in full swing , police going door-to-door to ensure residents can get to safety ahead of high tide and possible flooding"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587885dde4b08e753d5547b6", 
+            "title": "surrey school closures", 
+            "text": [
+                "surrey county council has been the latest local authority to announce school closures because of the bad weather .", 
+                "to check your school , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878854ae4b0b4f965d3c171", 
+            "title": "warnings to drivers", 
+            "text": [
+                "do n't be this stupid , if you ca n't see the road ahead or what 's around you then please # dontbestupid clear the snow of your cars please", 
+                "these are the prats we have to share our roads with !", 
+                "!", 
+                "should be charged with driving without due care and attention or even dangerous driving .", 
+                "# idiot", 
+                "now there 's a surprise , it 's an audi driver !", 
+                "off not of", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid another one is dirty numberplates", 
+                "do n't pixel out the number plate .", 
+                "shame them and then prosecute them .", 
+                "i see he cleared the audi badge , too .", 
+                "wow that is pure unrefined stupid right there", 
+                "snow is falling in parts of the county , making roads slushy and potentially treacherous .", 
+                "please drive to the conditions , not the limit"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587884ade4b0b4f965d3c16b", 
+            "title": "update : the scene this morning", 
+            "text": [
+                "as it stands , there are now 16 severe flood warnings across the uk , mostly focused along the east coast of england .", 
+                "coastal communities in lincolnshire , norfolk , suffolk and essex have been told they should be prepared for large waves and possible flooding .", 
+                "in lincolnshire , 100 soldiers have been deployed to warn and inform '' about the potential risks from a flood surge expected to hit on friday lunchtime .", 
+                "scotland and the north of england were covered in a blanket of snow when people woke up this morning .", 
+                "the met office has issued severe weather warnings across england , scotland , wales and northern ireland for combinations of high winds , snow and ice ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587882fee4b08d5e65796beb", 
+            "title": "flights from guernsey cancelled", 
+            "text": [
+                "guernsey states-owned airline aurigny said it is working on solutions to limit the impact of snow and strong winds due to hit the islands and the uk over the next few days .", 
+                "the company told bbc radio guernsey that with london city airport more vulnerable to adverse weather than other london airports , it has taken the decision to cancel flights there this morning .", 
+                "passengers on these flights can rebook on an alternative flight free of charge or cancel for a refund .", 
+                "it has also cancelled the flight between guernsey and manchester due to the forecast .", 
+                "flights to gatwick may face delays but are due to operate ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788209e4b08d5e65796be7", 
+            "title": "lincolnshire : 'threat has passed '", 
+            "text": [
+                "the threat from this morning 's predicted storm surge along the yorkshire and lincolnshire coast has passed , according to the environment agency .", 
+                "leigh edlin , from the agency , told bbc radio lincolnshire the weather `` has been in our favour '' .", 
+                "however , he added that there was still a renewed risk later today .", 
+                "`` this evening 's tide will be higher between 18:00 gmt and 19:00 gmt , and there 's still some risk of spray and potential overlapping in this afternoon 's tide , '' said mr edlin .", 
+                "people living along the north yorkshire and lincolnshire coast should still exercise caution , he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788121e4b0b4f965d3c155", 
+            "title": "severe flood warnings up to 17", 
+            "text": [
+                "the environment agency has raised the number of severe flood warnings to 17 - the third time it has increased the number in the past hour .", 
+                "the majority are still on the east coast of england , but there are now warnings for coastlines in somerset , hastings and the isle of wight .", 
+                "the full details of each warning can be found by clicking here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58787d49e4b0b4f965d3c142", 
+            "title": "watch your step", 
+            "text": [
+                "good advice from train companies this morning to watch your footing , especially if you are feline", 
+                "# weatherswt- some platforms may be slippery over the next few days , please wrap up warm and take extra care", 
+                "like a skating rink you could have gritted the platform at # stoneleigh this am .", 
+                "sorry for this- we gritted stations before staff left yesterday but a lot of the grit was washed off before it got cold -js", 
+                "well the guy in the ticket office is doing very little , maybe get him out to grit it now ?", 
+                "we have staff on site at stoneleigh working on this .", 
+                "ticket office staff are n't always able to assist with gritting .", 
+                "-js", 
+                "ok cool , thanks .", 
+                "so why do n't you keep your railway platforms well gritted then with grit boxes available ?", 
+                "we have been working to treat our platforms- unfortunately much of the grit was washed away before it got cold .", 
+                "-js", 
+                "upper deck of farnham car park closed again .", 
+                "brand new , \u00a3 multimillion but seemingly ca n't be used after light frost .", 
+                "pathetic .", 
+                "sorry for this- i 'll pass this on to the station team .", 
+                "icy conditions were challenging with grit being washed away -js", 
+                "tks for reply .", 
+                "this has happened twice since ny & is n't acceptable .", 
+                "no sign of anyone doing anything about it .", 
+                "all these people complaining about your work well they 're not organising a whole network .", 
+                "besides , you 're not on strike ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58788095e4b08d5e65796be1", 
+            "title": "settled in stoke", 
+            "text": [
+                "traffic is moving in stoke-on-trent but last night 's snow has settled on the ground .", 
+                "what 's the weather like where you are ?", 
+                "here 's what it 's like in hanley , stoke-on-trent # snow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878800ee4b08e753d554798", 
+            "title": "scottish snow angels", 
+            "text": [
+                "some people are getting to have a bit of fun in the snow .", 
+                "@ twitterid @ twitterid friday 13th not a good day for traffic or weather otherwise a great for snow angels # snowangel"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58787fc3e4b0b4f965d3c14d", 
+            "title": "snowy reigate", 
+            "text": [
+                "a peaceful looking scene has been tweeted by weather watchers at reigate grammar school , in surrey .", 
+                "# reigate main roads locally clear .", 
+                "@ twitterid", 
+                "why does that house look so unhappy ?", 
+                "come on , lighten up , it 's snow day !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787f38e4b08e753d554794", 
+            "title": "suffolk : high risk of flooding", 
+            "text": [
+                "more than 1,000 properties are at risk of flooding in suffolk , according to our local reporters .", 
+                "more than 1,000 properties in # suffolk are at high risk of flooding today .", 
+                "there are currently 10 severe flood warnings in place ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787ea9e4b08e753d55478f", 
+            "title": "'rattling to the sound of hail '", 
+            "text": [
+                "hail is hitting west cornwall this morning , according to the bbc 's local weather forecaster .", 
+                "0655am some roofs and windows of west cornwall rattling to the sound of hail from the showers at the moment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787e49e4b08d5e65796bd1", 
+            "title": "school closures", 
+            "text": [
+                "more school closures have been announced because of the bad weather .", 
+                "the highland council in scotland has confirmed two nurseries , three primary schools and one secondary school will shut .", 
+                "for more information , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787ce3e4b08d5e65796bcd", 
+            "title": "more severe flood warnings", 
+            "text": [
+                "the environment agency has raised its number of severe flood warnings for the second time this morning , this time to 14 .", 
+                "they are focused along the east cost of england .", 
+                "there has also been a rise in medium-risk flood warnings to 78 .", 
+                "for full details , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58787c13e4b0b4f965d3c139", 
+            "title": "'high tide passed '", 
+            "text": [
+                "it 's not looking too bad for boston this morning .", 
+                "high tide passed with no incident here in boston .", 
+                "wind up , and a few snowflakes drifting about , but no flooding. # lincsstormsurge"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58787ce4e4b0b4f965d3c13e", 
+            "title": "greetings from north-east englandone bbc journalist found a use for the snow", 
+            "text": [
+                "jonathan morrell", 
+                "jonathanmorrell", 
+                "greetings from my back yard !", 
+                "@ twitterid", 
+                "greetings from my back yard !", 
+                "@ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58787aeae4b08e753d554782", 
+            "title": "newcastle weather", 
+            "text": [
+                "the city centre in newcastle has still got snow on the ground as people start making their way to work .", 
+                "this was the # weather outside my flat in newcastle city centre when i left the house earlier !", 
+                "# snow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587879fde4b08e753d55477f", 
+            "title": "snow comes to bristol", 
+            "text": [
+                "just in time for the morning commute , snow is starting to come down in south-west england .", 
+                "heavy snow in # uwe # bristol"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787985e4b08e753d55477d", 
+            "title": "jaywick evacuation", 
+            "text": [
+                "the village of jaywick , in essex , is being evacuated by police because of a strong chance of water coming in over the sea wall .", 
+                "district policing commander for tendring , ch insp russ cole , said the force was not `` crying wolf '' and the weather could be severe .", 
+                "but some residents are staying at home .", 
+                "read more about the operation here .", 
+                "# jaywick evacuation : some of the 17 residents who took refuge in the tendring education centre last night ( photo : @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587877d4e4b08d5e65796bb3", 
+            "title": "more flood warnings issued", 
+            "text": [
+                "the environment agency has now increased its number of severe flood warnings , which warn of danger to life , to 12 .", 
+                "for the latest information of where they are in place , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587876d8e4b08e753d554771", 
+            "title": "remember the dangers", 
+            "text": [
+                "the waves and high water may look impressive but pose a huge danger so please avoid seafront and quay areas # nothingtoseehere # norfolkfloods"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787673e4b08e753d55476f", 
+            "title": "school closures", 
+            "text": [
+                "schools in lincolnshire are closing as a precaution because of the expected storm surge .", 
+                "our reporter in the area said six closures have been confirmed so far .", 
+                "read more here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787541e4b08d5e65796ba9", 
+            "title": "good news for wiltshire", 
+            "text": [
+                "snow had been causing issues on the m4 , but all is returning to normal", 
+                "travel update : all lanes reopened on the m4 - snow cleared in both directions between j15 and j17 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "14:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878750ce4b0b4f965d3c120", 
+            "title": "seafront roads remain closed", 
+            "text": [
+                "our reporter at bbc york is on the coastline where the waves are growing in size .", 
+                "seafront roads are going to remain closed all day with severe flood warnings in place .", 
+                "waves overtopping on scarborough 's north bay early this morning .", 
+                "seafront roads remain closed all day @ twitterid", 
+                "@ twitterid @ twitterid super glad they are all ok ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878748ee4b08e753d554768", 
+            "title": "no southern trains", 
+            "text": [
+                "as well as the weather to contend with , rail users in the south of england have to deal with southern rail drivers going out on strike again today .", 
+                "there are no @ twitterid trains today .", 
+                "please plan and leave extra time to get to the airport .", 
+                "find out more", 
+                "is gatwick express running ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587873e5e4b08d5e65796ba1", 
+            "title": "storm surge", 
+            "text": [
+                "it may not appear severe , but surges in water levels are being reported", 
+                "national oceanography centre shows a negligible storm surge - 10cm @ immingham .", 
+                "further south gauges are currently showing a surge of 50cm ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787379e4b08e753d554763", 
+            "title": "'check with your airline '", 
+            "text": [
+                "heathrow airport is still warning passengers to check with their airlines in case of any delays caused by the adverse weather conditions .", 
+                "on thursday , flights were pre-emptively cancelled at both heathrow and gatwick ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58787129e4b08d5e65796b90", 
+            "title": "the weather story so far", 
+            "text": [
+                "thursday saw parts of the uk hit by snow and a number of weather warnings issued , the latter mainly down the east coast .", 
+                "friday looks set for more of the same , with the met office issuing yellow `` be aware '' warnings for wind and snow .", 
+                "the government has also issued seven severe flood warnings for the east coast , along with 70 flood warnings and 80 flood alerts .", 
+                "we will be aiming to keep you updated on all the latest developments throughout the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58786708e4b08d5e65796b73", 
+            "title": "tide levels in north east of england 'less than expected '", 
+            "text": [
+                "the environment agency have been working through the night .", 
+                "they say early morning tide levels in the north east of england were less than expected but alerts and warnings remain in place ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "13:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5878608ae4b0b4f965d3c0ef", 
+            "title": "flood defences ready on the river tyne", 
+            "text": [
+                "out on newcastle 's quayside @ twitterid checking river tyne at 03:45hrs this morning @ twitterid", 
+                "@ twitterid i know that spot .", 
+                "hopefully the copthorne hotel does n't have any flooding issues ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58785fbae4b08e753d554734", 
+            "title": "jack-knifed lorry closes a23", 
+            "text": [
+                "a23 nb closed at hanscross offslip due to this jackknifed hgv across all three lanes .", 
+                "recovery on scene .", 
+                "# cb686 # drivetoarrive", 
+                "can i ask who did the recovery ?", 
+                "?", 
+                "westbourne motors", 
+                "hello , can we use this image @ twitterid with a credit please ?", 
+                "feel free", 
+                "thanks !", 
+                "nice working with you", 
+                "lucky did n't hit anyone", 
+                "is the a23 still closed or has it reopened ?", 
+                "conditions"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58785552e4b0b4f965d3c0dc", 
+            "title": "coastal towns prepare for 'tidal surge '", 
+            "text": [
+                "coastal towns prepare for 'tidal surge '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58785386e4b08e753d554726", 
+            "title": "heavy snow across scotlandmet office tweets", 
+            "text": [
+                "heavy # snow currently across # scotland .", 
+                "tulloch bridge in inverness-shire has received 8cm in the past hour , taking their total to 17cm"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5878491ee4b0b4f965d3c0cb", 
+            "title": "humberside police : 'tidal warnings remain in place '", 
+            "text": [
+                "humberside police", 
+                "humberbeat", 
+                "@ twitterid officers out around the force area , monitoring areas of concern .", 
+                "no current issues , further update on the tide due at 3am .", 
+                "humberside police", 
+                "humberbeat", 
+                "tidal warnings remain in place across our area .", 
+                "do not put yourself or others at risk , prepare : ow.ly/54px307xrr0 # floodaware", 
+                "tidal warnings remain in place across our area .", 
+                "do not put yourself or others at risk , prepare : # floodaware", 
+                "@ twitterid officers out around the force area , monitoring areas of concern .", 
+                "no current issues , further update on the tide due at 3am ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "11:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58782792e4b08e753d5546f3", 
+            "title": "twitter reacts to # thundersnow", 
+            "text": [
+                "cars in muswell hill buried under # thundersnow .", 
+                "yikes !", 
+                "# endoftheworld # fleewhileyoucan # saveyourselves # thundersnowagain # itsthundersnowffs", 
+                "so funny .", 
+                "we get frost in # yorkshire heavier than # snow on this car .", 
+                "; )", 
+                "no really 'buried ' is it .", 
+                "dave - hope you 're all still ok ?", 
+                "horrendous.conditions .", 
+                "your stoicism is the epitome of southern british .", 
+                "inspirational !", 
+                "# snowmegdon", 
+                "# thundersnow", 
+                "# thundersnow", 
+                "classic !", 
+                "@ twitterid yikes !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_587825a8e4b08d5e65796b1c", 
+            "title": "seven 'severe ' flood warnings for friday", 
+            "text": [
+                "the environment agency 's seven severe flood warnings - which warn of a danger to life - are in place for friday lunchtime in coastal areas of essex and suffolk .", 
+                "click here for more details ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58780c34e4b08d5e65796afc", 
+            "title": "daily star leads on winter weather problems", 
+            "text": [
+                "news ( uk )", 
+                "bbcnews", 
+                "friday 's star : 'snow hell and high water ' # tomorrowspaperstoday # bbcpapers ( via @ twitterid", 
+                "friday 's star : 'snow hell and high water ' # tomorrowspaperstoday # bbcpapers ( via @ twitterid", 
+                "where ?", 
+                "over exaggerated again no snow no high winds n a little trickle of water pls", 
+                "sodding winter not armageddon", 
+                "we are getting an inch of ice .", 
+                "and we are further south than uk", 
+                "it 's winter , minor bit of snow .", 
+                "no big deal .", 
+                "ty tabloid exageration", 
+                "`` do n't panic , mr mainwaring ! ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58780be5e4b0b4f965d3c080", 
+            "title": "daily express warns of 'new snow chaos '", 
+            "text": [
+                "news ( uk )", 
+                "bbcnews", 
+                "friday 's express : 'new snow chaos on the way ' # tomorrowspaperstoday # bbcpapers ( via @ twitterid", 
+                "friday 's express : 'new snow chaos on the way ' # tomorrowspaperstoday # bbcpapers ( via @ twitterid", 
+                "express in weather headline shock", 
+                "not like the express to exaggerate .", 
+                "well it is winter , this was the norm , a few years back , get used to it .", 
+                "nothing new .", 
+                "more than 3 flakes & country is at a standstill with total shutdown .", 
+                "shock : winter arrives again .", 
+                "when will it stop ?", 
+                "experts warn it will last until spring .", 
+                "tiny bit of snow , guess what it 's winter !", 
+                "been so warm so far heating barely need to have been used .", 
+                "i missed the first snow problem - i must have been asleep .", 
+                "please shut up .", 
+                "that is all .", 
+                "6inches of snow will always shut down the uk !", 
+                "!", 
+                "really ! !", 
+                "!", 
+                "codswallop ! ! ! ! ! ! ! ! ! ! ! ! !", 
+                "!", 
+                "ridiculous .", 
+                "try living up here in glenshee !", 
+                "people just get on with it up here - no choice , and nobody to moan to .", 
+                "what !", 
+                "a second snowflake falls on london. # savelondon # prayforlondon"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58780508e4b08e753d5546d1", 
+            "title": "uk power networks 'very busy '", 
+            "text": [
+                "following the severe weather tonight we are very busy .", 
+                "current response time to tweets is over 1 hour .", 
+                "if issue is urgent please call 105 .", 
+                ".", 
+                "@ ukpowernetworks 105 ?", 
+                "what is this madness .", 
+                "is it like 111 for utilities ?", 
+                "hi alex , yes a little bit - it 's a single emergency number for power cuts - wherever you are calling from you 'll be put through >", 
+                "@ twitterid severe weather ?", 
+                "we 've had a little bit of snow ! !", 
+                "!", 
+                "no power for 2 hours", 
+                "hi , i 'm sorry to hear this .", 
+                "can you dm us your address and then we can look into this for you ?", 
+                "thanks , amy ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877fc7de4b08d5e65796ae8", 
+            "title": "army officers warn residents of flood risk", 
+            "text": [
+                "army officers have been informing residents in skegness , lincolnshire , about the risk of flooding from an expected tidal surge .", 
+                "some 3,000 residents on the coast have been advised to leave their homes or move upstairs ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877f6bfe4b08e753d5546bb", 
+            "title": "coastal resorts in north yorkshire 'braced for tidal surge '", 
+            "text": [
+                "coastal resorts in north yorks are bracing themselves for tidal surge in early hours of morning .", 
+                "latest flood warnings etc 10.30pm"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877f596e4b08e753d5546b7", 
+            "title": "schools closed in scotland", 
+            "text": [
+                "snow and ice have caused disruption to travel networks across scotland , with school closures also reported .", 
+                "wintry conditions are affecting the highlands , central belt and south of scotland , making travel difficult in some parts .", 
+                "for more information about the situation in scotland , click here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877f42ae4b0b4f965d3c05c", 
+            "title": "south east travel update", 
+            "text": [
+                "the wintry weather is continuing to disrupt transport around the south east .", 
+                "in east sussex , the railway line is closed between lewes and eastbourne while engineers check flooding nearby .", 
+                "network rail said it is not safe to run trains at the moment .", 
+                "and a tree has fallen onto a line at wadhurst , delaying services between tonbridge and hastings .", 
+                "gatwick airport cancelled five flights earlier", 
+                "but the airport said it is sweeping and de-icing the runway to keep it open ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877ea6de4b08d5e65796ac3", 
+            "title": "video : what weather to expect where you are", 
+            "text": [
+                "video : what weather to expect where you are"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877e7b2e4b0b4f965d3c045", 
+            "title": "video : snow hits large parts of uk", 
+            "text": [
+                "video : snow hits large parts of uk"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877e4cbe4b08e753d554689", 
+            "title": "surrey police 'keeping very busy'surrey 's road policing unit tweets", 
+            "text": [
+                "trees falling down , drivers sliding off the roads or into each other .", 
+                "we 're keeping very busy # snow", 
+                "why have n't the roads been gritted ?", 
+                "the main roads have , several times .", 
+                "keep an eye on @ twitterid who tweet when they are gritting", 
+                "yeah right , the a24 out of epsom towards leatherhead is a main road & had not been gritted at 17:00", 
+                "the majority of the roads cleared very quickly due to gritting .", 
+                "the gritters are still out now have been all afternoon/evening", 
+                "my husband was taking it easy driving home when a muppet had enough and floored it and crashed .", 
+                "lol", 
+                "oh dear .", 
+                "some just do n't ever learn do they .", 
+                "where 's that pls ?", 
+                "thursley", 
+                "thank u. i 'm dreading a job out of town", 
+                "it 's about time winter tyres are mandatory .", 
+                "winter tyres , what ?", 
+                "for 2-3 days a year ? ? ?", 
+                "it 's not worth it .", 
+                "just drive slower and to the conditions !", 
+                "as long as you keep safe too !", 
+                "take care out there & stay safe", 
+                "please take care , stay safe x", 
+                "plus doughnuts and drifting in the area car , it 's all go", 
+                "stay safe"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877e219e4b0b4f965d3c034", 
+            "title": "people pushing cars up hill in canterburybbc reporter tweets", 
+            "text": [
+                "people pushing cars up the hill in canterbury .", 
+                "good to see you helped rather than stand there filming .", 
+                "oh .", 
+                "they were doing such a good job !", 
+                "that 's a damned good advert for proper winter tyres .", 
+                "which i 'm pleased to say i had !", 
+                "where about in canterbury ?", 
+                "i ca n't work it out !", 
+                "hill up towards uni .", 
+                "i thought it was that hill !", 
+                "thanks .", 
+                "extraordinary", 
+                "it 's winter for god 's sake .", 
+                "very very wet in thanet"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877df98e4b08e753d55467c", 
+            "title": "travel disruption in london", 
+            "text": [
+                "there are long delays on many major roads in london due to snowing , including queues in both directions on the m25 .", 
+                "several miles of queues have built up between junction 10 and junction six anti-clockwise on the m25 , exacerbated by earlier flooding , while stuck vehicles have caused delays at junction eight clockwise .", 
+                "train services to heathrow have stopped due to a broken down train , while congestion in croydon has led to delays across the entire london tramlink network ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877dedae4b08d5e65796aab", 
+            "title": "snow settling in canterburybbc reporter tweets", 
+            "text": [
+                "snow settling in canterbury .", 
+                "that 's not snow .", 
+                "southerners !", 
+                "you should change your twitter handle to simonjonesnotnews .", 
+                "it really is laughable you southerners ca n't handle couple of cm", 
+                "omg .", 
+                "snow in south .", 
+                "world is ending .", 
+                "# overreaction", 
+                "shall we send y ou the st bernard with a barrel of brandy yet ? ?", 
+                "?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877de5fe4b08d5e65796aaa", 
+            "title": "photos of snow in the south eastbbc radio kent tweets", 
+            "text": [
+                "we 're compiling all of your snow on our live page - you can see it here : # sesnow", 
+                "it was a close call but i made it home .", 
+                "phew !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877d28be4b08d5e65796a94", 
+            "title": "'busy at gatwick airport'bbc surrey tweets", 
+            "text": [
+                "they 're busy at the airport tonight"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877c830e4b08d5e65796a7c", 
+            "title": "snow in sussexbbc south east tweets", 
+            "text": [
+                "it 's snowing across sussex .", 
+                "here 's the scene in crawley from mya bambrick .", 
+                "please send us your and videos .", 
+                "# sesnow", 
+                "bubbles the labrador enjoying the snow in banstead", 
+                "from my bedroom window here in redhill", 
+                "oh no .", 
+                "forget brexit .", 
+                "2cm 's of snow in london is the real national crisis .", 
+                "can we ever rebuild ?", 
+                "how about people do n't send but maybe just get a grip for a change ?", 
+                "lindfield high street", 
+                "oh my goodness .", 
+                "look everyone the south has snow .", 
+                "oh no everything will grind to a halt it 'll be on national news as well no doubt # getalife", 
+                "basildon # sesnow", 
+                "here 's east grinstead ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877c68fe4b08d5e65796a78", 
+            "title": "snow hits central london", 
+            "text": [
+                "the snow has now hit london 's rush hour - here it can be seen falling near tower bridge ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877c335e4b0b4f965d3bff2", 
+            "title": "hoying it down", 
+            "text": [
+                "six-time olympic champion sir chris hoy has had to be rescued by a council gritter at moffat in dumfriesshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877bffbe4b08d5e65796a6b", 
+            "title": "suffolk warning", 
+            "text": [
+                "suffolk police says more than 1,000 properties are at `` high risk of flooding '' :", 
+                "warning to residents in coastal areas to be prepared as severe flood warnings are issued along east coast -", 
+                "@ twitterid fingers crossed we do n't see the same devastation as 2013", 
+                "it was .", 
+                "some are still rebuilding their lives and are scared of a repeat despite defences"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877bf7be4b08e753d55463d", 
+            "title": "london calling", 
+            "text": [
+                "the snow has reached the capital .", 
+                "this is coulsdon south near croydon :", 
+                "seems the @ twitterid brought the denver snow with them but london bound to see them play the pacers", 
+                "hi sam , could we please use this photo @ twitterid with a credit to you ?", 
+                "sure go ahead", 
+                "hi sam - whereabouts in london is this ?", 
+                "are we able to use your photo with a credit for capital news ?", 
+                "thanks a lot .", 
+                "just outside of london in coulsdon and yeah go ahead", 
+                "great - thanks sam .", 
+                "if there was real snow it would be reportable .", 
+                "omoh my god ! ! !", 
+                "it is like a blizzard"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877be23e4b0b4f965d3bfdd", 
+            "title": "left in the lurcher", 
+            "text": [
+                "bramble the three-legged lurcher features in bbc scotland 's wintry gallery :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877bca6e4b08e753d554634", 
+            "title": "'extra anti-ice trains '", 
+            "text": [
+                "network rail is taking precautions in south-east england :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877bac8e4b0b4f965d3bfc6", 
+            "title": "the beautiful north", 
+            "text": [
+                "photographer paul kingston has been out and about in county durham and cumbria :", 
+                "a nice covering of # snow here in the north of england this morning .", 
+                "more to follow soon # uksnow", 
+                "pics ive taken showing the treacherous driving conditions due to # snow in county durham today .", 
+                "# uksnow @ twitterid # stormhour # eustorm", 
+                "picture ive just taken of the blizzard conditions here in # cumbria at the mo .", 
+                "# snow # uksnow @ twitterid @ twitterid", 
+                "it 's snowing ! !", 
+                "picture ive taken today of blizzard-like conditions in # cumbria # snowwatch # snow # uksnow @ twitterid", 
+                "snow making for postcard views in county durham whilst on my way through the north pennines today .", 
+                "# snow # uksnow # snowwatch", 
+                "massive thanks to highways"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877ba0fe4b08e753d554628", 
+            "title": "the latest from cumbria", 
+            "text": [
+                "latest image and # weather observation from the a686 hartside # penrith # alston 17:10 # uksnow", 
+                "great # landrover weather # uksnow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877b884e4b08e753d55461d", 
+            "title": "flood threat", 
+            "text": [
+                "the environment agency 's map shows red flood warnings along the east coast of england , with mostly orange flood alerts elsewhere ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877b75be4b0b4f965d3bfae", 
+            "title": "snow heads east", 
+            "text": [
+                "the latest from the met office shows snow heading away from south-east england overnight :", 
+                "we 've seen # rain and # snow across the uk today .", 
+                "this is now turning more to snow for some , so here 's the latest as we head into this evening", 
+                "your forecasting ability is truly abysmal no wonder people take no notice of weather warnings , sorry but it 's true !", 
+                "any chance of snow settling in walton-on-thames ?", 
+                "really do not want snow , you can have it", 
+                "i 'll take it .", 
+                "provided it 's like a foot , cause i need school to shut .", 
+                "deal !", 
+                "now i can go shopping for my setup on saturday", 
+                "is that the big storm set to bring the uk to a standstill ! ! ?", 
+                "!"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877b541e4b08d5e65796a29", 
+            "title": "spreading the word", 
+            "text": [
+                "a gritter on the a62 near marsden in west yorkshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877b314e4b08e753d5545f9", 
+            "title": "soldiers helping in lincolnshire", 
+            "text": [
+                "the army is helping the police evacuate homes in lincolnshire because of possible flooding .", 
+                "here 's earlier advice from lincolnshire police :", 
+                "we have some advice for residents living on the lincolnshire coast by @ twitterid in case of flooding # floodaware", 
+                "@ twitterid @ twitterid thank you"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877b191e4b08d5e65796a19", 
+            "title": "jaywick gets ready", 
+            "text": [
+                "houses in jaywick , essex , are being evacuated because of possible floods .", 
+                "here 's a from bbc reporter richard daniel of the emergency services ' muster point ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877af48e4b08d5e65796a08", 
+            "title": "gritting trains not deployed", 
+            "text": [
+                "great western railway says no gritting trains needed"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877ae6be4b08e753d5545de", 
+            "title": "sandbags at the ready", 
+            "text": [
+                "reporter phil bodmer is in scarborough in north yorkshire , where flooding from the sea is feared :", 
+                "olympia casino in # scarborough tell me they 'd like more sandbags with expected overtopping from sea later", 
+                "beach front moaning about sand bags .", 
+                "could invest in their own flood protection like others .", 
+                "would expect insurers to want it .", 
+                "olympia in particular took enough of my cash as a kid .", 
+                "could have put to better use the horrid hoardings they had for a bit ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877ad72e4b08e753d5545d6", 
+            "title": "when does snow form ? it does n't need to be freezing", 
+            "text": [
+                "did you know ?", 
+                "# snow forms when the air temperature is below 2 \u00b0c .", 
+                "it 's a myth that it needs to be below zero to snow", 
+                "@ twitterid but what if it 's 'too cold to snow ' ?", 
+                "!", 
+                "@ twitterid i literally said this in the car hahah", 
+                "can it be too cold to snow ?", 
+                "snow is now starting to fall in greater london mixed with rain , rather heavy too .", 
+                "3c currently .", 
+                "snow falling on the # malvernhills , # worcestershire .", 
+                "has n't settled in town , but hills have a nice dusting currently .", 
+                "hence the saying '' its too cold for snow ''", 
+                "it 's 2 here in south wales it 's raining what 's with that", 
+                "what about the saying 'it 's too cold to snow ' ?", 
+                "the surface air temp could be -1\u00b0c but the uppers could be milder so it can rain down at the surface at temps well below 2\u00b0c !", 
+                "!", 
+                "this pic makes me want to watch the grinch only rain in central ldn", 
+                "another myth is ppl think below zero its too cold to snow .", 
+                "hear it all the time .", 
+                "loadsa rubbish really", 
+                "it would be alright if you could get the weather right ! ! ! !", 
+                "!", 
+                "lmao when you have n't enough water in soup it becomes a stew", 
+                "all about that dew point"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877acf7e4b0b4f965d3bf72", 
+            "title": "warnings in northern ireland", 
+            "text": [
+                "weather warnings are in place in northern ireland until friday .", 
+                "this was taken in coleraine earlier :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877ab64e4b08d5e657969f2", 
+            "title": "all downhill from here", 
+            "text": [
+                "a sledger at pont ar daf in the brecon beacons :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877aa52e4b0b4f965d3bf66", 
+            "title": "travel disruption and school closures north of the border", 
+            "text": [
+                "the weather is affecting the highlands , central belt and south of scotland ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5877a651e4b08d5e657969da", 
+            "title": "statuesque", 
+            "text": [
+                "the snow-covered commando memorial at spean bridge in the highlands :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5877a3fae4b08e753d5545a4", 
+            "title": "houses evacuated in essex", 
+            "text": [
+                "people in the essex village of jaywick are being told to leave their homes , because of possible flooding .", 
+                "police officers will be going from house to house to tell people who live there", 
+                "from 7am on friday , residents will be able to go to a centre at tendring , where they and their pets can stay until it is safe to return ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:46"
+        }
+    ], 
+    "genre": "uk", 
+    "quality": "high"
+}

@@ -1,0 +1,872 @@
+{
+    "blog_id": "f512392de825ff84b58468e73b12715e616342a7", 
+    "title": "BBC Local Live: Derbyshire on Thursday 22 December 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-38392357", 
+    "summary": [
+        "updates for thursday 22 december 2016 .", 
+        "two men released after terror arrests .", 
+        "firm 'disgusted ' by katie price appearance .", 
+        "'man on fire ' care home still requires improvement .", 
+        "chef hit by car after falling in road .", 
+        "berlin attack : 'business as usual ' in derbyshire .", 
+        "news , sport , travel and weather updates resume at 08:00 friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_585c07e2e4b055b7d25aa522", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "our live updates have now ended but we 'll be back tomorrow from 08:00 with all your news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585c0c2ee4b055b7d25aa52b", 
+            "title": "weather : cold and dry tonight", 
+            "text": [
+                "becoming dry and cold with clear spells during the evening and perhaps a brief touch of frost .", 
+                "southerly winds will strengthen a little towards the end of the night ."
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585c0482e4b0c688e56ca007", 
+            "title": "residents urged to take part in dry january", 
+            "text": [
+                "blimey - let 's have christmas first eh ?", 
+                "!", 
+                "the nhs erewash clinical commissioning group ( ccg ) has urged derbyshire residents to take part in the initiative , which sees people take a month off from alcohol .", 
+                "dr avi bhatia , chair of the ccg , said : `` many people who have signed up to dry january have lost weight , improved their sleep , gained more energy and have made significant cash savings . ''"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585c05b7e4b0fb6baf91957f", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585c0973e4b055b7d25aa525", 
+            "title": "derby woman , 26 , reported missing", 
+            "text": [
+                "derbyshire police has launched an appeal after a woman was reported missing .", 
+                "kirsty bratby , 26 , from derby , was reported missing on 16 december and has not been in touch with her family since 18 december .", 
+                "she is described as white , 5ft 6in tall and has long , mousy brown hair.. she may be wearing a navy blue quilted jacket with brown lapels , a white long-sleeved jumper with blue stripes , blue jeans and grey and white trainers ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585bf8b5e4b0c688e56c9fdf", 
+            "title": "weather watchers : ilkeston", 
+            "text": [
+                "well folks , we 've done it .", 
+                "the sun has set on another day - meaning we are edging ever closer to being able to say : `` two days 'till christmas ! ''", 
+                "thanks to bry for this taken in ilkeston ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585c034ce4b0c688e56ca004", 
+            "title": "home 'did not protect everyone from potential abuse '", 
+            "text": [
+                "the cqc said the care home did n't keep all records up-to-date and not everyone was protected from potential abuse .", 
+                "in a statement , the care home said : `` we take feedback from the cqc very seriously and have implemented a comprehensive action plan to address all of the points raised .", 
+                "the staff at the home have been supported by the senior management team , and we will ensure that all the actions identified are applied rapidly and thoroughly . ''"
+            ], 
+            "author": [
+                "Andrew Strachan", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585bff03e4b0fb6baf91955e", 
+            "title": "'man on fire ' care home still requires improvement", 
+            "text": [
+                "a care home where a resident died after being found on fire in his wheelchair still requires improvement , inspectors have said .", 
+                "malcolm brown died outside sherwood forest care home in february .", 
+                "the bbc understands the 60-year-old had gone outside the derby care home to have a smoke .", 
+                "the care quality commission ( cqc ) told the care home in june it must improve - and today the cqc said the home still requires improvement ."
+            ], 
+            "author": [
+                "Andrew Strachan", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585c023de4b055b7d25aa50f", 
+            "title": "sources : group 'working towards attack '", 
+            "text": [
+                "the other suspects can be held until boxing day .", 
+                "six properties were searched as part of last monday 's operation , which was regarded as `` significant '' and the result of an ongoing investigation , the bbc understands .", 
+                "sources said the investigation was into a group believed to be working towards an attack , although a strike was not thought to be imminent ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585c010ee4b0fb6baf91956a", 
+            "title": "breakingtwo men released after terror arrests", 
+            "text": [
+                "two men from derby have been released from custody after they were arrested on sus of offences under the terrorism act last week .", 
+                "the pair , 22 and 27 , along with two other men from derby , a man from burton-upon-trent and a woman from london , were detained last monday .", 
+                "the north east counter terrorism unit said : `` extensive enquiries have satisfied the investigation that there are no grounds to charge those released with any terrorism offences . ''"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bfc7fe4b0c688e56c9fec", 
+            "title": "watch : price 's 'dry 2017 ' after derby 'rowdiness '", 
+            "text": [
+                "watch : price 's 'dry 2017 ' after derby 'rowdiness '"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585be2b8e4b055b7d25aa4a3", 
+            "title": "company wants katie price apology and refund", 
+            "text": [
+                "a spokesman for the company said : `` energysave hired katie price and dane bowers to attend its annual party on good faith .", 
+                "we have a young crowd working for us and we decided to hire the duo to give out awards and attend the night 's events .", 
+                "`` we were disgusted and shocked by katie 's behaviour on the night .", 
+                "she was drunk and she swore at our staff .", 
+                "the comedian only managed 10 minutes or so on stage , before she pulled the microphone off him and we would like an official apology and a refund . ''"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585be17ae4b055b7d25aa49f", 
+            "title": "firm 'disgusted ' by katie price appearance", 
+            "text": [
+                "you may remember - i mean , of course you 'll remember - yesterday 's story about katie price not exactly distinguishing herself at a christmas party held by energysave uk at pride park .", 
+                "price and ex-boyfriend dane bowers had reportedly been paid \u00a3 13,000 to attend the derbyshire firm 's celebrations - but things did not go to plan , with national newspapers reporting that a `` drunken '' price swore and shouted at staff members .", 
+                "energysave has now sent a statement to the bbc about the other night 's events ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bd7a2e4b055b7d25aa479", 
+            "title": "weather watchers : ashbourne", 
+            "text": [
+                "i know we 've emerged better people from this morning 's especially cold start ( thank god ) - but i could n't resist this taken by the unsuitably-named weather watcher sunnyjen .", 
+                "great - thank you for sending it in ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bd51fe4b0fb6baf9194a7", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bdf11e4b0c688e56c9f6f", 
+            "title": "club agrees batsman 's release", 
+            "text": [
+                "# dccc agree neil broom release as he leaves the club to return to international cricket with @ twitterid", 
+                "we wish neil every success in the future and good luck in your return to the @ twitterid side in the odi series later this month ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bdd2ee4b0c688e56c9f66", 
+            "title": "council 'angry ' after rail funding pulled", 
+            "text": [
+                "alfreton town council said it is angry after finding out funding to allow disability access to a platform at the town 's railway station has been pulled .", 
+                "the scheme was given the green light 18 months ago , but the council - which had been seeking confirmation for the project - understands the department for transport has stopped the scheme ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bd706e4b055b7d25aa477", 
+            "title": "pair back in training but not match-fit", 
+            "text": [
+                "mcclaren also revealed nick blackman ( below ) and ikechi anya are both back in training - but wo n't be involved against birmingham .", 
+                "and the rams boss told bbc radio derby joe mcclaren has rejoined the recruitment team as the club 's chief scout ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bd5bbe4b0c688e56c9f4d", 
+            "title": "rams players to get christmas day off", 
+            "text": [
+                "derby county manager steve mcclaren is talking to the media ahead of his side 's clash against birmingham on 27 december .", 
+                "and , in a nice little festive bonus , the players are getting christmas day off this year ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bd3b9e4b055b7d25aa469", 
+            "title": "'winnie and tony ' still not operational - after three years", 
+            "text": [
+                "two wind turbines that were installed more than three years ago by severn trent in spondon still are n't fully operational .", 
+                "it emerged the turbines - named by local schoolchildren as winnie and tony - interfered with east midlands airport 's radar .", 
+                "severn trent said it 's still in discussions with the airport and radar manufacturers about their future ."
+            ], 
+            "author": [
+                "Rory Gallimore", 
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585bd022e4b0c688e56c9f33", 
+            "title": "cabbies should have greater 'duty of care '", 
+            "text": [
+                "i 've spoken to the mother of young chef halcyon theuri - who died after being hit by a car as he lay in the road .", 
+                "faith marriott said taxi drivers should have greater `` duty of care '' when it comes to vulnerable passengers .", 
+                "`` there are lessons to be learned concerning the circumstances of his death surrounding the care and upkeep of taxi vehicles and the duty of care they should have to passengers in vulnerable states , '' she said .", 
+                "`` we ca n't leave their fate to chance . ''"
+            ], 
+            "author": [
+                "Navtej Johal", 
+                "East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bc532e4b0fb6baf91945f", 
+            "title": "new beams installed on bridge", 
+            "text": [
+                "new beams have been installed on a road bridge that will provide access to a multi-million pound development near burton-upon-trent .", 
+                "the bridge will cross over the trent and mersey canal from the a38 , and is being built by staffordshire county council .", 
+                "it will allow traffic into the branston locks development - a 400-acre site where 2,500 homes are planned ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bc28ae4b055b7d25aa41c", 
+            "title": "counties can be 'good neighbours ' after devolution row", 
+            "text": [
+                "derbyshire county council leader anne western has insisted derbyshire and sheffield can be `` good neighbours '' despite a high court dispute over the future of chesterfield .", 
+                "yesterday , a judge ruled a consultation on the deal - which would see an elected mayor for south yorkshire responsible for key services in chesterfield - held by the sheffield city region was unlawful .", 
+                "mrs western said she hoped the judgement would draw a line under the problems ."
+            ], 
+            "author": [
+                "Martyn Williams", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bc030e4b055b7d25aa409", 
+            "title": "replacement 'to be built at moorways '", 
+            "text": [
+                "however , councillor baggy shanker told bbc radio derby \u00a3 20m was `` an indicative figure '' .", 
+                "in a column , he added : `` we would like a replacement pool to be built at moorways .", 
+                "`` like lots of people in the city , i have spent many happy hours swimming there .", 
+                "it was the place where both i and then my children learnt to swim , as well as where i would spend my school holidays .", 
+                "so we feel it is the natural fit for a new facility . ''", 
+                "the facility is expected to open to the public in 2020 ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bbedce4b0c688e56c9ece", 
+            "title": "millions set aside for replacement pool", 
+            "text": [
+                "in the year of brexit and the year derby county had four managers , 2016 will also be remembered as the year derby was left without a public swimming pool .", 
+                "the closure of moorways to the public earlier this year - and ongoing repairs to the pools at queen 's leisure centre - has meant great upset for swimmers in the city .", 
+                "derby city council said \u00a3 20m of funding had been put into their capital programme to go towards a replacement pool ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585bb669e4b055b7d25aa3d1", 
+            "title": "chef 'fell into road ' after getting drunk", 
+            "text": [
+                "derby coroner 's court heard a defective demister in the car , low visibility and a `` lack of signal '' from mr theuri as he lay on the road all contributed to the chef 's death .", 
+                "ms pinder said mr theuri was n't a big drinker , but he `` fell or tripped '' into wingfield road that night after getting drunk on a night out in ripley .", 
+                "before he died , mr theuri had been involved in a `` scuffle '' with a taxi driver in a tesco car park , the inquest heard ."
+            ], 
+            "author": [
+                "Navtej Johal", 
+                "East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bb40ee4b055b7d25aa3c4", 
+            "title": "narrative verdict in young chef 's inquest", 
+            "text": [
+                "a coroner has recorded a narrative verdict in the inquest into the death of a 21-year-old chef .", 
+                "halcyon theuri , from oakerthorpe , was found in the early hours of 31 august 2015 , on wingfield road , alfreton .", 
+                "coroner louise pinder said mr theuri died from a `` head injury '' .", 
+                "he was `` struck a glancing blow '' by a car while lying in the road .", 
+                "the coroner added the driver did not see mr theuri - but he should have been seen by `` an observant driver '' ."
+            ], 
+            "author": [
+                "Navtej Johal", 
+                "East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585bb174e4b055b7d25aa3bc", 
+            "title": "four bailed after house 'burgled ' and 'set alight '", 
+            "text": [
+                "police have arrested and bailed one man and three teenagers after a house was allegedly broken into and set alight .", 
+                "a television and costume jewellery were stolen from the house , on hardwick mount in buxton , on 22 november at about 21:30 .", 
+                "the house was then allegedly set on fire , derbyshire police said .", 
+                "a man , 20 , and three youths - aged 14 , 15 and 17 - were detained on sus of arson with intent to endanger life and burglary and bailed pending further inquiries ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585bacd9e4b0c688e56c9e83", 
+            "title": "dog sniffs out armed robbery suspect", 
+            "text": [
+                "a police dog has traced a suspect in an armed robbery in whittington moor - in which a man reportedly robbed a shopkeeper at knifepoint , derbyshire police said .", 
+                "officers and a dog unit were sent to a premier store following the robbery at about 22:30 last night .", 
+                "the dog tracked a scent and a 34-year-old man was arrested nearby .", 
+                "he remains in custody ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585ba9e3e4b0fb6baf9193da", 
+            "title": "berlin attack : what we know", 
+            "text": [
+                "a europe-wide manhunt is under way for anis amri , the tunisian man wanted for the lorry attack in a christmas market in central berlin on monday - in which 12 people were killed and 49 were injured .", 
+                "so-called islamic state ( is ) said one of its `` soldiers '' was responsible and german police are treating it as a `` terror attack '' .", 
+                "it has been compared with the july lorry attack in nice , southern france , which killed 86 people .", 
+                "investigators released a 23-year-old pakistani man who was detained on monday night .", 
+                "he denied any involvement and , after questioning , no charges were pressed against him ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585ba670e4b055b7d25aa38c", 
+            "title": "berlin attack : 'business as usual ' in derbyshire", 
+            "text": [
+                "following the news that busy places in leicestershire , nottinghamshire , northamptonshire and lincolnshire are to be patrolled by firearms officers in response to the berlin attack , derbyshire police has assured residents events in the county are being `` monitored '' .", 
+                "assistant chief constable bill mcwilliam said : `` the uk threat level has n't changed but that does not mean we are not monitoring events , liaising with intelligence services and checking tensions locally .", 
+                "we recognise that people may be concerned following the tragic events in berlin but we would encourage you to go about your business as usual across derbyshire . ''"
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585ba3aee4b0fb6baf9193bc", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585ba180e4b0c688e56c9e42", 
+            "title": "more than 78,000 jet off for christmas", 
+            "text": [
+                "i 'm at the entrance of departures at east midlands airport this morning - without a passport - speaking to passengers who are jetting off to the likes of gran canaria , tenerife , budapest and lanzarote for the festive period .", 
+                "overall , 78,300 people are expected to fly away between 23 december and 2 january - a 14 % increase from last year .", 
+                "the busiest day is expected to be 29 december - when 9,450 people will be travelling .", 
+                "it follows the airport 's busiest summer since the 2008 recession , in which 3.1 million people travelled through the airport ."
+            ], 
+            "author": [
+                "Heidi Booth", 
+                "Journalist, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b9b15e4b055b7d25aa34c", 
+            "title": "reward offered after frosty the snowman stolen", 
+            "text": [
+                "the mayor of belper is offering a \u00a3 100 reward for the safe return of frosty the snowman - after the illuminated figure was stolen from a community garden in milford .", 
+                "gary spendlove is anything but a jolly happy soul , saying the theft was `` unbelievable and very sad '' .", 
+                "`` we just hope it 's a prank and we sincerely hope it does get returned , '' he said ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b97d0e4b055b7d25aa33d", 
+            "title": "sex attacks response 'very positive '", 
+            "text": [
+                "det insp emlyn richards , from derbyshire police , said the public 's response to the attacks has been `` very positive '' .", 
+                "`` several people have called us to put forward names of men they believe could be responsible and several new lines of inquiry have emerged from the information we have received , '' he said .", 
+                "police are asking people to share an e-fit of the suspect on social media ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b94d7e4b0fb6baf91936f", 
+            "title": "police thank public after sex assaults appeal", 
+            "text": [
+                "police have thanked the public for their response following an appeal after two serious sexual assaults in derby .", 
+                "today marks one year since a 29-year-old woman fought off a man in spondon - and last week police said they were linking that attempted rape with the rape of an 18-year-old woman in darley abbey on 7 september .", 
+                "the victim of the spondon assault , whose identity has been protected , recently spoke about her ordeal ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b91b2e4b0c688e56c9dfd", 
+            "title": "watch : east midlands weather outlook", 
+            "text": [
+                "watch : east midlands weather outlook"
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10268784", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b8fa7e4b0c688e56c9df0", 
+            "title": "'santa 's not coming this year '", 
+            "text": [
+                "the fundraising for the family has surpassed \u00a3 1,000 .", 
+                "mrs jones said the children `` understand that santa 's not coming this year '' ."
+            ], 
+            "author": [
+                "Jonathan Baker", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b8d5fe4b055b7d25aa305", 
+            "title": "family 'overwhelmed ' after house fire", 
+            "text": [
+                "a woman whose house in borrowash was gutted by a fire said she is `` overwhelmed '' by the support her family has received .", 
+                "debbie jones , partner chris ray and their three children are staying at a hotel - but their rented property is going to take at least nine months to fix .", 
+                "people have been raising money for the family-of-five following the fire - which was most likely caused by an electrical fault ."
+            ], 
+            "author": [
+                "Jonathan Baker", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585b8a97e4b0fb6baf919331", 
+            "title": "travel : traffic on the a38", 
+            "text": [
+                "there 's slow traffic on the a38 southbound in little eaton at little eaton island - but otherwise it 's relatively clear on the roads ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585b880fe4b0c688e56c9dce", 
+            "title": "'violent ' man absconds from care worker", 
+            "text": [
+                "a potentially violent man has gone missing while being escorted by a health worker in beeston .", 
+                "police said kris mackenzie absconded at around 11:00 yesterday and still has n't been located .", 
+                "officers are concerned for the 32-year-old 's welfare and the safety of the public as he `` may react violently due to the unfamiliar surroundings '' .", 
+                "mr mackenzie , also known as kris hughes , is described as 5ft 6in ( 1.7m ) and stocky with a liverpool accent .", 
+                "he has connections to merseyside and derbyshire ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585b8749e4b055b7d25aa2e7", 
+            "title": "join us for today 's live updates", 
+            "text": [
+                "as this green fellow in breedon on the hill has discovered to his cost , there 's no getting around christmas !", 
+                "we are just three days away .", 
+                "i 'll be getting us there quicker with all your news , sport , travel and weather for derbyshire .", 
+                "if you 'd like to get in touch , contact me via email , twitter or facebook ."
+            ], 
+            "author": [
+                "Alex Smith", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

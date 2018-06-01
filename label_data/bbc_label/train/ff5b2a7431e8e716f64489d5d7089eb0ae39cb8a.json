@@ -1,0 +1,745 @@
+{
+    "blog_id": "ff5b2a7431e8e716f64489d5d7089eb0ae39cb8a", 
+    "title": "BBC Local Live: Norfolk on Wednesday, 25 November 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-34802206", 
+    "summary": [
+        "two people are arrested in london in connection with a killing in great yarmouth .", 
+        "the advertising standards authority has upheld complaints against a theme park 's poster for a halloween event .", 
+        "news , sport , weather and travel updates resume at 08:00 on thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655f7683e00003d00b3b680", 
+            "title": "our live coverage today", 
+            "text": [
+                "that 's all from the norfolk live team for today .", 
+                "we 'll be back tomorrow from 08:00 with more live news , sport , weather and travel updates for the county ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655f73b1900003c00f3ef78", 
+            "title": "headlines : funding for enterprise zones granted", 
+            "text": [
+                "the main news stories this evening :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655f16b1900003d00f3ef61", 
+            "title": "ndr gets go ahead from chancellor", 
+            "text": [
+                "work on the northern distributor road in norwich will get underway before christmas after the chancellor confirmed the amount of national funding going into the project in his autumn statement .", 
+                "county council leader george nobbs says he 's `` delighted '' george osborne has approved the release of \u00a3 77.49m over three years towards the construction of the road from the postwick junction to the a140 .", 
+                "the whole project , including the postwick hub is expected to cost around \u00a3 179m with funding coming from department of transport , new anglia lep and norfolk councils ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655e6da380000ba4632a8b9", 
+            "title": "gurney clock goes into storage while new home sought", 
+            "text": [
+                "it took 12 years to build , but now one of norfolk 's most iconic time pieces is being dismantled and put into storage .", 
+                "the gurney clock was gifted to the people of norwich almost 40 years ago , to celebrate 200 years of the local gurney 's bank in norwich - now barclays .", 
+                "but the site in castle mall , where the clock has stood for the last 12 years , is being redeveloped and for now it has no new home ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655f4ed3e00003e00b3b67b", 
+            "title": "weather : odd shower possible and feeling cold", 
+            "text": [
+                "a few isolated showers for northern and eastern parts of norfolk with the odd heavier downpour with hail possible .", 
+                "elsewhere dry with clear spells , so a chilly start to the night .", 
+                "weather has your local forecast ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655d848380000d04332a86a", 
+            "title": "stars decorate puppets for charity auction", 
+            "text": [
+                "rick stein and john hurt are just some of the people who 've decorated puppets which will be auctioned tonight to raise money for norwich puppet theatre .", 
+                "look east 's stewart white is compering the event - and you can even bid for puppet versions of him and susie fowler watt .", 
+                "all of the proceeds will go towards supporting the creation and development of new shows ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655b5f2380000cf4232a7aa", 
+            "title": "ban 'black friday ' says norfolk shop worker 's union official", 
+            "text": [
+                "a union official from norfolk wants 'black friday ' sales banned saying they put shop workers at risk .", 
+                "it follows violent scenes in supermarkets last year as people fought over supposed bargains .", 
+                "stuart sharman of usdaw says the american tradition where stores slash prices the day after thanksgiving is an `` abomination '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655dfc73a00000760380de4", 
+            "title": "bus company investigating after bus crashes into a bridge", 
+            "text": [
+                "bus operator first says it 's investigating how one of its buses ended up hitting a railway bridge near acle .", 
+                "no-one was hurt , but it led to greater anglia suspending train services between norwich and great yarmouth for a while .", 
+                "the bus was operating as a rail replacement for the 08:45 great yarmouth to norwich service which had been cancelled due to a train fault ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655eaf11900003c00f3ef3e", 
+            "title": "government spending review creates new business zones", 
+            "text": [
+                "the government 's spending review has revealed funding to create and extend four enterprise zones in norfolk .", 
+                "norwich research park , nar ouse business park in king 's lynn , as well as scottow at the old raf coltishall base , and egmere business zone , south of wells next-the-sea , are the named zones .", 
+                "funding has also been made available to extend the existing great yarmouth and lowestoft zone ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655da1b3a00003e5d380dd1", 
+            "title": "cannabis factory found in norwich raid", 
+            "text": [
+                "norfolk police say they have seized a large haul of cannabis plants during a raid in norwich .", 
+                "more than 250 plants were found after officers were tipped off about sus behaviour in the north park avenue area .", 
+                "police say the raid will `` put a large dent in the cannabis industry in norwich '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655d4293d0000741a07644e", 
+            "title": "funding for ivf treatment in south norfolk to cease", 
+            "text": [
+                "funding for ivf courses for people living in south norfolk is to cease from january .", 
+                "the south norfolk clinical commissioning group ( ccg ) made the decision following a public consultation , but said people undergoing treatment making them infertile , for cancer or hiv , would receive ivf help if they met the eligibility criteria .", 
+                "the ccg , which will end the year with a deficit of about \u00a3 6.6m , says it is `` facing a significant financial challenge '' ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655cd183a00003e5d380d93", 
+            "title": "wasp sting causes cardiac arrest and closes a47", 
+            "text": [
+                "a man who went into cardiac arrest after being stung by a wasp while driving on the a47 near wisbech is in a critical condition .", 
+                "he was taken to the queen elizabeth hospital in king 's lynn by air ambulance .", 
+                "the road , which was closed , has now re-opened ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655ce4d3d00009c19076433", 
+            "title": "norwich south mp told to 'take up yoga ' by commons speaker", 
+            "text": [
+                "norwich south labour mp clive lewis has been told to `` take up yoga '' and that it would do him good by the speaker of the house of commons after heckling george osborne a touch too noisily .", 
+                "john bercow delivered the mild rebuke to mr lewis during the chancellor 's spending review speech to parliament today .", 
+                "mr lewis immediately posted a jokey tweet saying : `` anyone know a good yoga course ? ''", 
+                "anyone know a good yoga course ?", 
+                "# autumnstatement", 
+                "@ twitterid @ twitterid i like rodney yee 's 50 minute aerobic yoga !", 
+                "this has saved my body and mind .", 
+                "@ twitterid @ twitterid that a dvd , class or a soundcloud recording ?", 
+                "@ twitterid @ twitterid hello yes , it 's a dvd !", 
+                "i just did it right now and feeling great !", 
+                "@ twitterid i am a kundalini yoga teacher in peckham and camberwell - feel free to come to one of my classes when in london !", 
+                "@ twitterid @ twitterid if you 're not angry , you 're not paying attention.keep being angry .", 
+                "@ twitterid @ twitterid # should use his own advice take his wife to yoga", 
+                "@ twitterid perhaps george o has done yoga with that massive u-turn", 
+                "@ twitterid you are amazing !", 
+                "right now happy to have best of the bunch as my mp - thank you for speaking up .", 
+                "no yoga necessary ; ) x", 
+                "@ twitterid check out there are some great courses on offer : )", 
+                "@ twitterid i teach in norwich and london check out", 
+                "@ twitterid keep telling it like it is clive , someone has to give the poor a voice in parliament .", 
+                "@ twitterid only saw quick clip on bbc news site .", 
+                "what got you so shouty ?", 
+                "@ twitterid why not try it !", 
+                "suggest @ twitterid - excellent teacher", 
+                "@ twitterid buddhist centre in attleborough if that helps !", 
+                "the people of norwich south appreciate your passion even if the speaker does n't", 
+                "@ twitterid lol clive , can recommend meditation , but do n't get too calm , they need a good rousting .", 
+                "@ twitterid norfolkmindfulness courses starting in january", 
+                "@ twitterid the web address", 
+                "@ twitterid spiral therapies at whitlingham .", 
+                "clare is amazing .", 
+                "she has a website .", 
+                "@ twitterid give @ twitterid a look"
+            ], 
+            "author": [
+                "Nic Rigby", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655b5b33d0000b5180763ac", 
+            "title": "food outlets in norwich score highly for hygiene", 
+            "text": [
+                "more than 80 % of food businesses in norwich , including restaurants , takeaways and pubs , have achieved a four- or five-star rating from the food standards agency for hygiene .", 
+                "the ratings are decided by local authority food safety officers .", 
+                "the snapshot survey of 1,301 establishments in the city was carried out this month ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655b7d0380000cf4332a7b7", 
+            "title": "weather : sunny spells with showers possible along the coast", 
+            "text": [
+                "plenty of sunny spells with the odd heavy shower along the coasts .", 
+                "top temperature reaching 9c ( 48f ) .", 
+                "weather has more details ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655b2823d0000e71707639c", 
+            "title": "public warned of new banking scam in hemsby and caister", 
+            "text": [
+                "policein the great yarmouth area are warning people not to be taken in by a new banking scam involving a phone call from a man claiming to be an officer from scotland yard .", 
+                "giving a fake name and number , he asks the victims to to meet him at a cash machine , take out all their money , and hand it over for safe-keeping .", 
+                "no money has been handed over yet and in one of the cases a neighbour intervened to prevent this from taking place ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655a8073d0000101607635d", 
+            "title": "mother 'vindicated ' after advertising watchdog says poster was 'menacing '", 
+            "text": [
+                "mother-of-three johannah martin , from rackheath , faced a backlash on facebook when she complained about a poster advertising a halloween fright night , urging others to do the same .", 
+                "but now the advertising standards authority has upheld 23 complaints , adding lenwade dinosaur park must never use it again and it was `` irresponsibly targeted '' .", 
+                "`` i 'm really glad an external body that sees that kind of imagery all the time has agreed with me . ''"
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655aa103d0000e717076368", 
+            "title": "news headlines : advertising watchdog says halloween poster `` menacing '' police warn of a new banking scam in hemsby and caister", 
+            "text": [
+                "the main news stories this lunchtime :"
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655ae6c3a00004a5c380cf2", 
+            "title": "services suspended after bus hits railway bridge", 
+            "text": [
+                "services were suspended for a short while this morning after a replacement bus for greater anglia hit a bridge in acle at about 08:45 .", 
+                "james bradbury tweeted this photo ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655a45f3d0000081707634f", 
+            "title": "bus gets stuck under bridge in acle", 
+            "text": [
+                "this image was tweeted by james bradbury , whose journey from acle station to norwich was delayed after a replacement bus for a greater anglia train took the wrong turn , getting stuck under a bridge in acle ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655a8bf380000cf4232a760", 
+            "title": "abellio greater anglia : more replacement buses this weekend", 
+            "text": [
+                "services affected between norwich and liverpool :", 
+                "sun from 21:40 - replacement buses for some norwich-liverpool st/norwich-ipswich services kb"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56559f8e3a0000625a380ca0", 
+            "title": "wells lifeboat to be funded by off-shore company", 
+            "text": [
+                "an offshore wind firm is funding wells lifeboat for the next two years .", 
+                "dong energy is putting 90 turbines on the race bank , 17 miles north of blakeney .", 
+                "it will give \u00a3 20,000 towards the boat 's running costs ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565582073a00007d59380c14", 
+            "title": "award for city college hotel takeover project", 
+            "text": [
+                "city college norwich 's hotel school and the holiday inn norwich north are celebrating after their hotel takeover initiative scooped the education pipeline award"
+            ], 
+            "author": [
+                "Just Regional"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56557385380000bc3e32a684", 
+            "title": "young city stars need to be patient", 
+            "text": [
+                "here is today 's norwich evening news back page :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565574673a00008f57380be0", 
+            "title": "city boss admits his frustration", 
+            "text": [
+                "here is today 's edp back page :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655731b380000bc3e32a683", 
+            "title": "helping our elderly this winter", 
+            "text": [
+                "here is today 's norwich evening news front page :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565588c03d000003150762d7", 
+            "title": "government asked to extend phone mast funding deadline", 
+            "text": [
+                "a councillor hoping for better mobile phone communications in the blakeney area says she will be lobbying the government to keep funding for the project .", 
+                "the company arqiva was hoping to install a mast on national trust land but withdrew its plans after objections delayed the process so much that it missed government funding opportunity .", 
+                "does n't mean i wo n't be asking , but it would be a minor miracle for that particular budget to still be sustained . ''"
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56557b433a00009857380bfd", 
+            "title": "blakeney phone mast pulled", 
+            "text": [
+                "a planned phone mast for blakeney wo n't now be built after the company behind the application , arqiva , pulled out because it could n't install the mast in time to qualify for government funding .", 
+                "there had been some opposition to the 30m ( 98ft ) mast being installed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655761f380000133e32a68f", 
+            "title": "growing ambition : uea vision for 20 % increase in student numbers", 
+            "text": [
+                "here is today 's edp front page :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56557e61380000d63f32a6aa", 
+            "title": "theme park apologises after watchdog criticises halloween clown advert", 
+            "text": [
+                "the owner of the dinosaur adventure park in lenwade has apologised after the advertising standards authority upheld complaints about a bloodied clown featured on posters for its primeval halloween attraction .", 
+                "the asa said the posters , some of which were outside shops near schools , were `` irresponsibly targeted '' .", 
+                "as a halloween attraction we will be devising a poster which we will be putting forward to the asa before they go out . ''"
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655835d3a00007c59380c18", 
+            "title": "high tides pass with no damage", 
+            "text": [
+                "high tides along norfolk 's coastline this morning have passed with no reports of damage .", 
+                "in wells , water lapped gently at the edge of the car park and further down the coast at hemsby ( tide did n't even come in as far as the sea defences being put in .", 
+                "the concrete blocks are being paid for by the local community which two years ago lost five homes to the december storm surge ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "09:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56556e81380000113e32a672", 
+            "title": "city boss neil admits to changing his attacking philosophy", 
+            "text": [
+                "shareholders had the opportunity to speak directly with norwich city 's manager and board last night at the club 's annual general meeting ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56556f533d00004213076267", 
+            "title": "advertising watchdog upholds complaints about halloween poster", 
+            "text": [
+                "a dinosaur theme park has been told to tone down its halloween marketing by the advertsing standards authority after it upheld 23 complaints against a poster .", 
+                "the park at lenwade was told the poster of a bloodied clown on display near schools was likely to distress children and was `` irresponsibly targeted '' ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "09:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565570363a00008f57380bcb", 
+            "title": "more murder arrests over flat death", 
+            "text": [
+                "two men have been arrested on sus of murdering a man at a flat in great yarmouth .", 
+                "andrew mcgowan was found with serious injuries after police were called to reports of a disturbance on 14 november at a flat off dickens avenue .", 
+                "another man and a woman arrested earlier this month remain on bail ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565571ed380000bb3e32a67d", 
+            "title": "travel : a47 north burlingham partially blocked with delays", 
+            "text": [
+                "the a47 at the b1140 south walsham road in north burlingham is partially blocked and there are delays eastbound following an accident .", 
+                "travel has more updates ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "08:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56556b163a00008f57380bb0", 
+            "title": "weather : windy with spells of sunshine", 
+            "text": [
+                "any showers will clear before some brighter spells of sunshine take hold .", 
+                "staying breezy with temperatures reaching 9c ( 48f ) .", 
+                "weather has your local forecast ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56556a1f3a00008f57380baa", 
+            "title": "headlines : two people arrested in connection with great yarmouth killing company drops plans for north norfolk phone mast", 
+            "text": [
+                "the main news stories this morning :"
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655682e3a00008f57380b99", 
+            "title": "welcome to bbc norfolk live", 
+            "text": [
+                "hello and good morning .", 
+                "the team are here to bring you all the county 's latest news , sport , weather and travel throughout the day until 18:00 .", 
+                "if you have a story for us , or a to share please send it viaemail , twitterorfacebook ."
+            ], 
+            "author": [
+                "Mariam Issimdar", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

@@ -1,0 +1,951 @@
+{
+    "blog_id": "32ff90e8eb5bf9cca0ec24a470384c9fbd873592", 
+    "title": "Oil hits six-month high; Brexit would raise European risks, says Fitch \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2016/may/16/oil-jumps-goldman-sachs-stock-markets-live", 
+    "summary": [
+        "stock markets mixed as oil rises and apple gains ground .", 
+        "apple shares jump after buffett takes stake .", 
+        "boe deputy governor : brexit 's threat to the city .", 
+        "new york manufacturing stumbles .", 
+        "berkshire hathaway reports new stake in apple .", 
+        "goldman 's oil report : the key charts .", 
+        "fitch : brexit would increase political risks in europe ,"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5739f0fde4b0ac0aa28f511c", 
+            "title": "stock markets mixed as oil rises and apple gains ground", 
+            "text": [
+                "news that warren buffett had bought a stake in apple has helped lift us markets , but europe has turned in a more mixed performance .", 
+                "the ftse 100 has edged higher as commodity companies benefited from a bounce in metal prices including copper , which followed some weakness in the dollar .", 
+                "markets were also supported by a rise in the oil price , after an interruption to supplies from nigeria and a goldman sachs forecast that crude would reach $ 50 for the rest of the year .", 
+                "but with the german market closed , there was little to enthuse investors elsewhere on the continent .", 
+                "the final scores showed : the ftse 100 added 12.90 points or 0.21 % to 6151.40 france 's cac closed down 0.18 % at 4312.28 italy 's ftse mib finished up 0.04 % at 17,737.02 spain 's ibex ended 0.45 % lower at 8682.1 in greece , the athens market was down 0.35 % at 620.5 on wall street , the dow jones industrial average is currently 153 points or 0.88 % higher .", 
+                "on that note it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                17, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739f484e4b0ac0aa28f512d", 
+            "title": "", 
+            "text": [
+                "brent crude continues to hover close to the $ 50 a barrel market , currently up 2.55 % at $ 49.05 having earlier climbed as high as $ 49.47 .", 
+                "it is at its highest levels for around six months .", 
+                "oil price recovers oil price recovers"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                16, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739e9bee4b0ac0aa28f5107", 
+            "title": "", 
+            "text": [
+                "more on the greek vote this weekend , courtesy reuters : greece 's parliament will vote on a new package of tax hikes and reforms demanded by its international lenders on sunday , two days before euro zone finance ministers assess whether athens qualifies for much-needed bailout loans .", 
+                "the bill would increase value added tax by 1 percentage point to 24 percent , raise tax on fuel , tobacco and alcohol , liberalise the sale of banks ' non-performing loans and detail the set-up a new privatisation fund , government officials said .", 
+                "it will also include details on a contingency mechanism to impose tighter austerity measures , which will be activated only if greece misses its fiscal targets , the officials said on monday .", 
+                "the vote is expected to test prime minister alexis tsipras ' left-led government , which has a thin majority of 153 lawmakers in the 300-seat parliament .", 
+                "athens says that if activated , the contingency measures will not hurt the poor .", 
+                "passing the reforms before the eurogroup meeting on may 24 , is a demand of international lenders to wrap up the review which will unlock the next tranche of funds that athens will use to pay imf loans , state arrears and ecb bonds maturing in july ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                15, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739da8ee4b0ac0aa28f50d6", 
+            "title": "", 
+            "text": [
+                "wall street is moving higher , helped by the apple news , with the dow jones industrial average currently 101 points or 0.58 % higher .", 
+                "connor campbell , financial analyst at spreadex , said : there was one very clear source of growth for the dow jones this afternoon , and it was n't the latest us economic data .", 
+                "the empire state manufacturing index , the only notable number on the day 's agenda , vastly underperformed expectations , plunging from a 14 month high of 9.6 to a 3 month nadir of -9.0 .", 
+                "yet news that warren buffett 's berkshire hathaway took a $ 1 billion stake in apple during its ( miserable ) first quarter helped lift the tech company by over 2.5 % .", 
+                "as is the weight of apple this upwards shift more than compensated for the weak manufacturing figure and , alongside the oil-inspired gains for the likes of exxonmobil and chevron , ensured the dow opened nearly 90 points higher after the bell .", 
+                "the ftse could n't get anywhere near that level of growth as the day went on .", 
+                "yet with brent crude crossing $ 49 per barrel for the first time since in 6 months , and its miners led on a merry-romp by the jubilant lonmin , the ftse finally managed to eke out a 5 point rise as the afternoon wore on ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                14, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739d94ee4b0ac0aa28f50d4", 
+            "title": "", 
+            "text": [
+                "over in greece , reports of new votes in parliament ahead of the next eurogroup meeting : yannis koutsomitis ( @ yannikouts ) # greece govt to submit omnibus bill to parliament on wed , to be voted sun.bill to include tax increases , npl scheme & contingency mechanism"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                14, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739d350e4b05be498d5f91f", 
+            "title": "", 
+            "text": [
+                "warren buffett is not the only one keen on apple .", 
+                "a number of fund managers have been making positive noises on the iphone maker : thomas fitzgerald at edentree investment management said : apple 's share price has fallen about 28 % from 2015 's february peak on uncertainty over the future growth of iphones , which accounts for 66 % of sales .", 
+                "beyond these near-term concerns , the anticipated launch of iphone 7 will create fresh opportunity to take further market share .", 
+                "there is also still a large upgrade opportunity within its existing installed base with only 40 % of iphone users upgraded to the new generation 6 or 6s models .", 
+                "continued strong cash generation and its balance sheet fortress will continue to support the apple 's design and development over the long term .", 
+                "as a result , we believe shares are attractively valued at current levels .", 
+                "the company is also making significant progress towards a higher recurring , subscription-led revenue model through the launch of internet and entertainment services , such as cloud storage , apple music and apple tv .", 
+                "this could drive greater earnings visibility and potentially stronger profitability in future years .", 
+                "and here 's geir lode , head of hermes global equities and manager of the hermes global equity fund : the apple share price has been undergoing some recent volatility , but we remain supporters of the stock .", 
+                "people tend to get hung up on things like new products and how many it is selling , and when it will disclose numbers , but we think you need to take a broader , longer-term view .", 
+                "there is work to be done in product transitioning in the us and europe , but if you look at the quality of its product lines versus the competition and the company 's enormous cash pile , we believe apple remains in a very strong market position .", 
+                "but josh spencer , manager of the t. rowe price global technology equity fund , is less convinced about the company 's growth prospects : we own a very small position in apple , as like many others , we find the company and its products appealing .", 
+                "however , we are seeing signs the smartphone industry is starting to mature and apple is trying to reinvent itself and come up with other ideas to generate revenue .", 
+                "its recent share price fall has certainly made apple appear more attractive , but also important to keep in mind the size of the company .", 
+                "at a market cap of more than $ 500bn , it is quite difficult to continue to compound from here .", 
+                "we are currently seeing more compelling opportunities to generate returns in the tech sector in areas such as cloud computing ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                14, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739cfcde4b05be498d5f914", 
+            "title": "apple shares jump after buffett takes stake", 
+            "text": [
+                "apple has now reclaimed the title of \u0080\u0098world 's most valuable company ' from alphabet , reuters says ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                13, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5739ce2fe4b0ac0aa28f50ad", 
+            "title": "", 
+            "text": [
+                "ding ding wall street is open .", 
+                "apple has jumped to the top of the dow jones risers , following the news that berkshire hathaway has taken a $ 1bn stake .", 
+                "tv"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739c8afe4b05be498d5f8fe", 
+            "title": "boe deputy governor : brexit 's threat to the city", 
+            "text": [
+                "another day , another warning against brexit from the bank of england .", 
+                "today 's message comes from deputy governor andrew bailey , who has told city executives that britain could lose its status as an international financial sector if the uk leaves the eu .", 
+                "that 's because banks from outside europe can currently base themselves in the capital , and then offer financial services more easily across the bloc .", 
+                "he was speaking at a financial regulation summit organised by reuters , so over to them for the details : we need a banking system to support the domestic economy but i am afraid we do n't have a god-given right to have anything in terms of international .", 
+                "that decision will be taken by many actors over time , bailey said .", 
+                "the eu provides rules for banks , insurers and asset managers that provide a passport for them to operate freely across the bloc 's single market .", 
+                "this includes banks from outside europe , such as the united states and asia .", 
+                "what matters to them a lot is having the passport .", 
+                "if you are a non-eu firm operating in london , then having the passport is important , bailey said .", 
+                "livesquawk ( @ livesquawk ) boe 's bailey : london 's future as finance hub at risk outside eu rtrs"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739c7b1e4b06cd267863c9c", 
+            "title": "new york manufacturing stumbles", 
+            "text": [
+                "new economic data out of america has reinforced concerns that economic growth is stumbling .", 
+                "the empire state manufacturing index , which tracks factory output in the new york region , has lurched to -9.02 this month .", 
+                "many firms reported a drop in new orders , pulling the index down .", 
+                "economists expected a reading of +6.5 % .", 
+                "ciara linnane ( @ linnaneciara ) crikey , down to minus 9.02 from plus 9.56 !", 
+                "empire state index weakens sharply in may"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                13, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739c30de4b06d63a2613e85", 
+            "title": "", 
+            "text": [
+                "paul r. la monica ( @ lamonicabuzz ) looks like apple should reclaim market cap lead from alphabet at the market open this morning .", 
+                "thanks , warren buffett !", 
+                "$ aapl $ googl $ brk.b"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                12, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5739c211e4b06d63a2613e83", 
+            "title": "", 
+            "text": [
+                "warren buffett is probably nursing a chunky loss on the apple shares , given he bought them between 1 january and 31 march .", 
+                "the ft points out : shares in the technology giant have fallen by more than 19 per cent since mid-april after it disclosed its first quarterly revenue fall in 13 years and its first decline in iphone sales ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                12, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739bed7e4b06d63a2613e7d", 
+            "title": "", 
+            "text": [
+                "bruce kasman , chief economist at jpmorgan chase , predicts that the oil price will be quite subdued over the next year .", 
+                "bsurveillance ( @ bsurveillance ) kasman : oil settles in $ 40- $ 50 range over next year"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                12, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739b618e4b05b1fa39c154f", 
+            "title": "", 
+            "text": [
+                "up they go mike bergen ( @ bergencapital ) apple climbs 1.9 % to $ 92.20 after berkshire discloses stake"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                11, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5739b196e4b06d63a2613e52", 
+            "title": "berkshire hathaway reports new stake in apple", 
+            "text": [
+                "billionaire investor warren buffett has n't lost faith in apple , despite the recent drop in its share price .", 
+                "buffett 's berkshire hathaway group has just revealed it took a new stake in the tech firm in the first quarter of 2016 , worth around $ 1bn .", 
+                "cnbc now ( @ cnbcnow ) breaking : berkshire hathaway reports new stake in apple with 9,811,747 shares owned .", 
+                "that 's a welcome boost to apple ceo tim cook , after his company lost its title of the world 's most valuable company to alphabet ( parent company of google ) last week ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                11, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739acbce4b05cc3b4cf0451", 
+            "title": "", 
+            "text": [
+                "one for technical chartists in the audience : livesquawk ( @ livesquawk ) # brent # crudeoil approaching key 51.01/24 resistance , where 23.6 % of 2012-2016 drop meets mt channel ( basically , the oil price has surged to a point where you 'd expect it to fall back .", 
+                "but if it does n't , then it might \u0080\u0098break out ' and continue to rise # chartism )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                11, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739a598e4b0aa79601f4839", 
+            "title": "goldman 's oil report : the key charts", 
+            "text": [
+                "here 's more detail from the goldman sach 's oil report that has sent crude prices soaring to a six-month high today .", 
+                "this chart suggests that the oil market has dramatically rebalanced in recent weeks , due to declining production and a surge in demand : sachs goldman reckons that demand has up in asia : stronger vehicle sales , activity and a bigger harvest are leading us to raise our indian and russia demand forecasts for the year .", 
+                "and while we are reducing our us and eu forecasts on the combination of weaker activity and higher prices than previously assumed , we are raising our china demand forecasts to reflect the expected support from the recent transient stimulus .", 
+                "the headline news is that goldman now believes the oil market has lurched back into deficit this quarter , earlier than expected .", 
+                "however , the firm also believes we 'll be facing a surplus again in 2017 : goldman 's new forecasts ( in dark blue ) show that the oil market is in deficit ( below the line ) sachs and that 's because oil nations will probably keep boosting production : sachs goldman says : low-cost producers will continue to drive production growth in the new oil order with growth driven by saudi arabia , kuwait , iran , the uae and russia .", 
+                "second , non-opec producers had mostly budgeted such price levels and there remains a pipeline of already sanctioned non-opec projects .", 
+                "in fact , we see risks to our production forecasts as skewed to the upside as we remain conservative on saudi 's ineluctable ramp up and iran 's recovery ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                11, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739a1c0e4b0d9a57be6e600", 
+            "title": "", 
+            "text": [
+                "brexit could also send uk house prices tumbling , fitch suggests today .", 
+                "a evans-pritchard ( @ ambroseep ) whoops , try again .", 
+                "@ @ twitterid uk house prices 25 % above 'sustainable ' level .", 
+                "brexit could wipe out premium , via interest rates bad news for home owners , but possibly a boost to younger renters if they are n't hit by other side-effects mike bird ( @ birdyword ) bullish for uk millennials working for us-based firms ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                10, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5739942ce4b0f7baa6962b69", 
+            "title": "", 
+            "text": [
+                "fitch has also pointed out that some british firms might benefit if the uk quits the european union , weakening the pound .", 
+                "the rating agency says : for the corporate sector , the leave scenarios could have mixed effects , depending on sector .", 
+                "uk exporters would benefit from improved price competitiveness , due to sterling 's depreciation .", 
+                "however uk companies with significant foreign currency debt would face servicing issues .", 
+                "uk airlines could be significantly affected by sterling depreciation due to their foreign currency cost base .", 
+                "so perhaps it 's no surprise that budget airline ryanair opposes brexit .", 
+                "it just wheeled out a boeing 737 with a remain campaign slogan painted on the fuselage , for a press conference with chancellor george osborne today .", 
+                "heather stewart ( @ guardianheather ) turns out one of @ twitterid osborne 's special guests is a ryanair plane .", 
+                "heather stewart ( @ guardianheather ) .", 
+                "@ guardiananushka michael o'leary boss said ryanair will be campaigning hard to persuade people to vote in ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57398f7ce4b0017de0bb1c33", 
+            "title": "fitch : brexit would increase political risks in europe ,", 
+            "text": [
+                "rating agency fitch has just warned that european economies could be disrupted if britain votes to leave the eu .", 
+                "in a new report , fitch warns that the populist parties across the region would get a boost if the uk public decide to quit .", 
+                "and that could drive up the borrowing costs of weaker members - possibly sparking a repeat of the 2012 eurozone debt crisis if investors begin to fear that countries will quit the euro .", 
+                "they say : brexit would create a precedent for countries leaving the eu .", 
+                "it could boost anti-eu or other populist political parties , and make eu leaders more reluctant to implement unpopular policies with long-term economic benefits .", 
+                "negotiating the terms of the uk 's exit could exhaust the eu 's time and energy and open up new fronts of disagreement .", 
+                "brexit could shift the centre of gravity of the eu , making it more dominated by the eurozone core , poorer , more protectionist and less economically liberal .", 
+                "if the uk were to thrive outside of the eu , it might encourage other countries to follow suit .", 
+                "fitch points out that the banking sectors of ireland , malta , luxembourg , spain , france and germany all have sizeable links to the uk .", 
+                "paul hannon ( @ paulhannon29 ) fitch reckons ireland , malta , belgium , the netherlands , cyprus and luxembourg would suffer most from brexit : the eu could also be a poorer place without britain : brexit would reduce the uk 's contribution to the eu budget ( a net \u0082\u00ac7.1bn in 2014 after rebates ) , potentially to zero .", 
+                "this would imply that other net contributors would have to increase payments , or net recipients accept lower eu expenditure .", 
+                "fitch : \u0080\u0098brexit ' would increase downside risks to eu sovereigns"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57398ea3e4b0f7baa6962b56", 
+            "title": "", 
+            "text": [
+                "morgan stanley agrees with goldman sachs : ransquawk ( @ ransquawk ) morgan stanley suggest that the oil market is in balance for the time being due to losses of supply"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                9, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-573988f5e4b0fd3b7bd1974a", 
+            "title": "chart : why oil oversupply is over ( for the moment )", 
+            "text": [
+                "this chart explains very clearly why goldman has reversed its position on the oil market .", 
+                "sachs it shows the various incidents that have disrupted oil supply recently , and their likely impact on supply during the rest of 2016 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                9, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57398561e4b0f7baa6962b35", 
+            "title": "", 
+            "text": [
+                "reuters is reporting that the nigerian authorities have apprehended members of a group behind recent attacks on its oil pipelines : the nigerian army has arrested several people suspected of having been involved in a recent wave of attacks on pipelines in the restive delta region , a military source said on monday .", 
+                "nigerian newspapers reported that the army had arrested several members of a militant group called niger delta avengers which has claimed a string of attacks in the southern swamps .", 
+                "those attacks have knocked nigeria 's oil output down to its lowest level in decades ; one reason that the oil market is now in deficit , according to goldman ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57398361e4b0f7baa6962b30", 
+            "title": "", 
+            "text": [
+                "more uk business chiefs are cutting back on investment ahead of the eu referendum next month .", 
+                "that 's according to a survey conducted by credit suisse that found little enthusiasm for brexit : lady fohf ( @ ladyfohf ) corporate executives postponing/reducing spending because of the referendum .", 
+                "lady fohf ( @ ladyfohf ) the uk leaving the eu would be a bad thing , per the cs executive panel survey"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57398055e4b0fd3b7bd19739", 
+            "title": "brexit fears weighing on the stock market", 
+            "text": [
+                "although mining companies are rallying this morning , other sectors are in retreat .", 
+                "big name companies like bt , barclays , itv and unilever have all lost at least 1.3 % .", 
+                "and traders are blaming persistent worries about the uk 's eu referendum next month .", 
+                "overnight , the cbi has cut its growth forecasts for the uk this year to 2 % , down fdrom 2.3 % , partly due to brexit concerns .", 
+                "cbi director-general carolyn fairbairn warned that : a dark cloud of uncertainty is looming over global growth , particularly around weakening emerging markets and the outcome of the eu referendum , which is chilling some firms ' plans to invest .", 
+                "uk economy : gloomy outlook for workers ' pay rises read more those disappointing chinese retail sales , industrial production and investment figures released on saturday are n't helping the mood either .", 
+                "tony cross of trustnet direct says : losses are broad based with some mixed economic data out of china over the weekend and ongoing fears over the risk of the uk voting to leave the eu at the end of next month both weighing ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                8, 
+                22
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57397d42e4b0f7baa6962b27", 
+            "title": "", 
+            "text": [
+                "shares in bp and royal dutch shell have risen by around 0.8 % this morning , following the jump in the oil price ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                7, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57397c7de4b0f7baa6962b24", 
+            "title": "", 
+            "text": [
+                "shaun richards ( @ notayesmansecon ) the price of oil is on the march again as brent crude oil passes us $ 48 this morning"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                7, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-573978f5e4b0017de0bb1bfe", 
+            "title": "", 
+            "text": [
+                "goldman is also predicting that the oil market will remain in deficit until the end of the year .", 
+                "however , it would then return to oversupply in 2017 : goldman sachs ' oil forecasts if they 're right , that suggests prices may not rise too dramatically from current levels ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-573977e2e4b0fd3b7bd1972d", 
+            "title": "oil at six-month high", 
+            "text": [
+                "brent crude oil is bobbing around a six-month high , as traders digest goldman 's claim that the market is now in deficit : brent crude over the last 12 months reuters"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                7, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57396f96e4b0f7baa6962b15", 
+            "title": "oil jumps as goldman says market in deficit", 
+            "text": [
+                "the oil price has jumped this morning after goldman sachs declared that the long run of oversupply was coming to an end .", 
+                "in a new report , the wall street firm argues that the oil market has actually flipped into deficit , due to various supply disruptions .", 
+                "that would end a two-year run of oversupply that pushed crude prices down to 13-year lows at the start of 2016 .", 
+                "goldman writes : the oil market has gone from nearing storage saturation to being in deficit much earlier than we expected the market likely shifted into deficit in may driven by both sustained strong demand as well as sharply declining production .", 
+                "goldman has also hikes its us crude price forecast to $ 50 a barrel for the second half of 2016 , from a $ 45 estimate in march .", 
+                "that has send us crude jumping by 1.5 % in early trading , to $ 46.92 per barrel .", 
+                "brent crude ( sourced from the north sea ) is also up 1.5 % to $ 48.55 per barrel .", 
+                "aftermath of wildfires in fort mcmurray , alberta .", 
+                "of alberta/chris schwarz/epa the wildfires that struck canada 's fort mcmurray were the most newsworthy reason that production levels have fallen recently .", 
+                "other factors include disruption in nigeria , where pipelines have been sabotaged , and the swathe of us shale producers who have halted drilling since prices fell .", 
+                "ands that means the market will stay in deficit through the second half of this year , according to goldman anyway ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                7, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57396997e4b0017de0bb1be5", 
+            "title": "the agenda : markets dip after china data miss", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the financial markets , the global economy , the eurozone and business .", 
+                "there 's a definite monday morning feeling in the city today .", 
+                "europe 's main stock markets have opened in the red , following some disappointing chinese economic data over the weekend .", 
+                "china 's factory output missed forecasts in april , growing by 6 % versus expectations of 6.5 % .", 
+                "investment and retail sales also grew more slowly than expected last month , which is giving investors another reason to worry about its economy .", 
+                "commerzbank economist zhou hao summed up the mood : we 're seeing that growth engines are losing momentum , and the growth outlook has turned soft as well .", 
+                "it 's clear the government wants to manage down or re-anchor market expectation .", 
+                "and that 's pushed markets down in early trading : britain 's ftse : 6108 , down 29 points french cac : 4289 , down 30 points ( germany is closed for whit monday or pentecost monday ) .", 
+                "we 'll be tracking all the main events through the day .", 
+                "that will include any developments around greece with just seven days to go until finance ministers to ( hopefully ) conclude the greek bailout review ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                5, 
+                16, 
+                6, 
+                56
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.10pm BST\n18:10\nStock markets mixed as oil rises and Apple gains ground\n", 
+                "block": "block-5739f0fde4b0ac0aa28f511c"
+            }, 
+            {
+                "text": "\n\n2.49pm BST\n14:49\nApple shares jump after Buffett takes stake\n", 
+                "block": "block-5739cfcde4b05be498d5f914"
+            }, 
+            {
+                "text": "\n\n2.28pm BST\n14:28\nBoE deputy governor: Brexit's threat to the City\n", 
+                "block": "block-5739c8afe4b05be498d5f8fe"
+            }, 
+            {
+                "text": "\n\n2.16pm BST\n14:16\nNew York manufacturing stumbles\n", 
+                "block": "block-5739c7b1e4b06cd267863c9c"
+            }, 
+            {
+                "text": "\n\n12.43pm BST\n12:43\nBerkshire Hathaway reports new stake in Apple\n", 
+                "block": "block-5739b196e4b06d63a2613e52"
+            }, 
+            {
+                "text": "\n\n12.02pm BST\n12:02\nGoldman's oil report: The key charts\n", 
+                "block": "block-5739a598e4b0aa79601f4839"
+            }, 
+            {
+                "text": "\n\n10.25am BST\n10:25\nFitch: Brexit would increase political risks in Europe,\n", 
+                "block": "block-57398f7ce4b0017de0bb1c33"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Crude prices are heading back towards $50 per barrel for the first time since last November.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/may/16/oil-jumps-goldman-sachs-stock-markets-live?page=with:block-5739b196e4b06d63a2613e52#block-5739b196e4b06d63a2613e52"
+                ], 
+                "text": "Buffett takes a slice of Apple.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/may/16/oil-jumps-goldman-sachs-stock-markets-live?page=with:block-57398f7ce4b0017de0bb1c33#block-57398f7ce4b0017de0bb1c33"
+                ], 
+                "text": "Fitch's Brexit warning.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/may/16/oil-jumps-goldman-sachs-stock-markets-live?page=with:block-57396f96e4b0f7baa6962b15#block-57396f96e4b0f7baa6962b15"
+                ], 
+                "text": "Goldman: oil market now in deficit.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/may/16/oil-jumps-goldman-sachs-stock-markets-live?page=with:block-573977e2e4b0fd3b7bd1972d#block-573977e2e4b0fd3b7bd1972d"
+                ], 
+                "text": "Crude prices hit 2016 high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,686 @@
+{
+    "blog_id": "3f48945ecfa27eadbed4469f6fd709bd55934b04", 
+    "title": "Hillary Clinton calls Charleston killings 'act of racist terrorism' \u00e2\u0080\u0093 as it happened | US news | The Guardian", 
+    "url": "https://www.theguardian.com/us-news/live/2015/jun/23/hillary-clinton-ferguson-racism-police-charleston", 
+    "summary": [
+        "clinton calls for 'common-sense gun reforms '", 
+        "clinton : confederate flag 'should n't fly anywhere '", 
+        "clinton : charleston killings 'racist terrorism '"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5589d06be4b0e0aeb0115609", 
+            "title": "", 
+            "text": [
+                "we 're going to wrap up our live coverage of hillary clinton 's appearance at a missouri church .", 
+                "here 's a summary of what happened : clinton branded the massacre last week of nine african-americans at a charleston , south carolina , church an act of racist terrorism .", 
+                "clinton called for the confederate battle flag to be removed from south carolina statehouse grounds and elsewhere .", 
+                "it should n't fly there , she said .", 
+                "it should n't fly anywhere .", 
+                "clinton joined a panel of community leaders to discuss early education , child welfare , and racial disparities in health care , jobs programs and other social programs .", 
+                "clinton reiterated calls for universal pre-k education and universal voting registration .", 
+                "the former secretary of state called for policing reform as the one-year anniversary of the death of michael brown in nearby ferguson approached .", 
+                "the presidential candidate called for new gun laws : we need to come together for common-sense gun reforms that keep our communities safe ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                21, 
+                44
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589cde4e4b024f829c5cfd3", 
+            "title": "", 
+            "text": [
+                "wags on twitter point out that the story of the confederate flag and the clintons of arkansas and gores of tennessee is n't as clear cut as clinton 's speech today may have made it sound .", 
+                "dominic rushe ( @ dominicru ) where are the clinton 's on # confederateflag ?", 
+                "all over it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                21, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589cc1ee4b024f829c5cfd1", 
+            "title": "", 
+            "text": [
+                "clinton event wrapping .", 
+                "watch it on periscope , via bloomberg : jennifer epstein ( @ jeneps ) live on # periscope : hillary clinton wraps up after 90 minutes in a warm florissant , mo , church"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                21, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589cb3ee4b024f829c5cfd0", 
+            "title": "", 
+            "text": [
+                "clinton is taking the get-out-the-vote effort on election day 2016 so seriously that she is making it a key plank of her campaign , 18 months in advance .", 
+                "i do n't want to sound like a civics teacher 101 but this is how i feel , clinton says .", 
+                "if people voted for people who represent them that should be a given .", 
+                "but when people do n't vote because they get discouraged , that only discourages the lack of will .", 
+                "the hardest thing to do in a campaign is to convince people to vote , she says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                21, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589ca3ce4b0e0aeb0115600", 
+            "title": "", 
+            "text": [
+                "final question now at the clinton event .", 
+                "america has tremendous capacity but it often lacks the will for change .", 
+                "can you reflect on how we can form a better will for a better america ?", 
+                "that 's a profound and moving question that we could talk about till sunday , clinton says .", 
+                "we need to confront the deep-seated biases and prejudices that live within all of us , she says .", 
+                "that 's why i 'm hoping that there will be a lot more conversations like this across the country .", 
+                "if you do n't have the conversation , everybody just kind of acts like things are ok , and they 're not ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                21, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589c7c6e4b024f829c5cfcb", 
+            "title": "", 
+            "text": [
+                "clinton calls for support for community activists standing up for policing reform and policing reform .", 
+                "we have a moment of opportunity here , clinton says .", 
+                "and shame on us if we do n't seize it .", 
+                "and support those who are on the front lines of change ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589c2fae4b024f829c5cfc2", 
+            "title": "", 
+            "text": [
+                "the clinton event is hosting a bit of bland generalizing : i 'm certainly up a theme from our panelists here , and that is that we need comprehensive approaches to these issues , clinton says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bfb1e4b0e0aeb01155f7", 
+            "title": "", 
+            "text": [
+                "tiffany anderson , head of jennings educational training school , has spoken for seven minutes about her work shepherding students , to keep them in school and promote their success .", 
+                "her school is 98 % free lunch , she said , and has made leaps in accreditation as student performance improves .", 
+                "she talks about serving the whole child .", 
+                "i think this moment truly tells you that you are not invisible , she said ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bcdce4b0e0aeb01155f1", 
+            "title": "", 
+            "text": [
+                "dr jason q purnell , professor of social work at washington university , starts off the discussion with a remark about an 18-year gap in life expectancy between two areas one black , one white within 10 miles of one another in st louis .", 
+                "life expectancy is n't the only statistic that displays such disparity , he says .", 
+                "here 's what the community meeting looks like : the community meeting at christ the king church of christ in florissant , missouri ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bc62e4b024f829c5cfbb", 
+            "title": "", 
+            "text": [
+                "clinton wraps her speech by saying the example of the bible study attendees at emanuel ame was powerful .", 
+                "they welcomed a stranger to their bible study , she says .", 
+                "let us be resolved to make sure they did not die in vain .", 
+                "do not be overcome by evil , but overcome evil with good .", 
+                "thank you , and god bless you .", 
+                "now it 's a question-and-answer , conversation session ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bbf4e4b024f829c5cfb9", 
+            "title": "", 
+            "text": [
+                "clinton says she leapt at the chance to hear martin luther king speak as a college student , although , she says , she did n't know any african-americans until college : i did n't have a black friend , neighbor or classmate until i went to college , clinton says .", 
+                "and i am lucky to have had so many since ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bbd2e4b0e0aeb01155ec", 
+            "title": "", 
+            "text": [
+                "clinton repeats her call for automatic voter registration .", 
+                "50m eligible people do n't vote , she says , and that needs fixing ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589bb3ee4b024f829c5cfb6", 
+            "title": "clinton calls for 'common-sense gun reforms '", 
+            "text": [
+                "another forceful speech from clinton .", 
+                "she 's talking about grants for jobs programs .", 
+                "she has a line about police respecting the communities they serve .", 
+                "then she calls for the reform of gun laws , to audible whoops of support : we need to come together for common-sense gun reforms that keep our communities safe .", 
+                "a common-sense measure to require universal background checks for gun purchases failed in the senate after the newtown shootings ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                4
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589ba93e4b024f829c5cfb4", 
+            "title": "", 
+            "text": [
+                "grandmother alert .", 
+                "the candidate works in another mention of her granddaughter , charlotte .", 
+                "she had been calling for universal pre-k , and for early childhood development programs .", 
+                "i 'm not just saying this because i 'm now a grandmother , she says , and cracks a smile a grandmother of the most amazing , brilliant , extraordinary nine-month-old in the history of the world .", 
+                "the crowd laughs .", 
+                "i 'm saying this because i know what the evidence is .", 
+                "of 80 % of your brain developed by age three ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                20, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b9f2e4b024f829c5cfb0", 
+            "title": "", 
+            "text": [
+                "clinton calls for equal opportunity for youth .", 
+                "she transitions to the story of her mother , who began providing for herself at age 14 .", 
+                "because those people believed in her , gave her a chance , she believed in me , clinton said .", 
+                "she said the example of her mother inspired her to work for the children 's defense fund after law school .", 
+                "i saw lives change because an abusive marriage ended , or an illegal eviction stopped , she says .", 
+                "i know what personal kindness , commitment and public programs can do ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5589b9b2e4b024f829c5cfae", 
+            "title": "", 
+            "text": [
+                "clinton applauds wal-mart , k-mart , e-bay and amazon for taking the decision to stop selling products bearing the confederate flag .", 
+                "it should n't fly there .", 
+                "it should n't fly anywhere ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5589b8e6e4b024f829c5cfac", 
+            "title": "clinton : confederate flag 'should n't fly anywhere '", 
+            "text": [
+                "clinton wonders how it was possible for the families of victims of the charleston massacre could say they forgave the suspect .", 
+                "their act of mercy was as stunning as his act of cruelty .", 
+                "she quotes archbishop desmond tutu : forgiveness is the first step toward victory .", 
+                "america 's long struggle with race is far from finished , she continues .", 
+                "i appreciate the actions begun yesterday to remove the confederate battle flag from the statehouse .", 
+                "recognizing it as a symbol of our nation 's past that has no place in our nation 's present or our future .", 
+                "it should n't fly there .", 
+                "it should n't fly anywhere ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                54
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b80ee4b024f829c5cfa9", 
+            "title": "clinton : charleston killings 'racist terrorism '", 
+            "text": [
+                "clinton begins .", 
+                "she thanks pastor tracy .", 
+                "she says that just before the shooting in charleston last week she was in the city to meet with students at a technical school .", 
+                "that night word of the killings struck like a blow to the soul , she says .", 
+                "how do we make sense of such an evil act .", 
+                "an act of racist terrorism perpetrated in a house of god .", 
+                "how do grief anger and despair into purpose and action ?"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b74ce4b0e0aeb01155e1", 
+            "title": "", 
+            "text": [
+                "the pastor refers to the killings last week at emanuel ame in charleston and calls for a focus not only on the suspect but on institutional racism : we almost must take this moment to concentrate not on the one who pulled the trigger that day , but on the policies , the people , the structures that are pulling the trigger daily .", 
+                "in st louis , there really is a tale of two cities , she says .", 
+                "in a region with top education , children attend unaccredited school districts .", 
+                "in a region with top health care , we have failed as a region to expand medicaid so that everyond could just have basic health care .", 
+                "clinton nods in agreement ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b6a6e4b024f829c5cfa7", 
+            "title": "", 
+            "text": [
+                "clinton enters the church and gets a standing o .", 
+                "somehow i 'm sure all that is not for me , the preacher at the lectern quips .", 
+                "the laughter and cheers resume .", 
+                "it 's a light mood it seems .", 
+                "they begin with a prayer .", 
+                "beginning with a prayer ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b5abe4b024f829c5cfa6", 
+            "title": "", 
+            "text": [
+                "we 're going to watch the event on c-span here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589b508e4b0e0aeb01155d8", 
+            "title": "", 
+            "text": [
+                "the scene inside christ the king church of christ in florissant , missouri , ahead of hillary clinton 's appearance .", 
+                "the scene inside christ the king church of christ in florissant , missouri , ahead of hillary clinton 's appearance ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5589ae45e4b0e0aeb01155cf", 
+            "title": "", 
+            "text": [
+                "hello and welcome to our live blog coverage as democratic presidential candidate hillary clinton prepares to appear at a community meeting at christ the king church of christ in florissant , missouri .", 
+                "as the guardian first reported on monday , clinton is expected to speak on issues the massacre in charleston and broader issues around strengthening communities .", 
+                "we want to talk about economic disparity , the school-to-prison pipeline , issues with court reform and law enforcement reform , pastor karen anderson of florissant 's ward chapel ame church told my colleagues lauren gambino and jon swaine .", 
+                "the conversation comes less than a week after the killing in south carolina of nine worshippers at an historic african american church by a white suspect tied to hateful racist online writings .", 
+                "florissant is a neighbor to the north of ferguson , missouri , where the killing by a white police officer of unarmed black teenager michael brown last august set off protests that gave way to a national movement for criminal justice reform , with a focus on policing .", 
+                "in a stirring speech at a policy forum in new york in april , clinton called for an effort to repair racist patterns and practices in the us criminal justice system .", 
+                "we have to come to terms with some hard truths about race and justice in america , she said then ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                6, 
+                23, 
+                19, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "us-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.04pm BST\n21:04\nClinton calls for 'common-sense gun reforms'\n", 
+                "block": "block-5589bb3ee4b024f829c5cfb6"
+            }, 
+            {
+                "text": "\n\n8.54pm BST\n20:54\nClinton: Confederate flag 'shouldn't fly anywhere'\n", 
+                "block": "block-5589b8e6e4b024f829c5cfac"
+            }, 
+            {
+                "text": "\n\n8.50pm BST\n20:50\nClinton: Charleston killings 'racist terrorism'\n", 
+                "block": "block-5589b80ee4b024f829c5cfa9"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "On Confederate flag: \u0080\u0098It shouldn't fly there. It shouldn't fly anywhere'", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Presidential frontrunner speaks at church near Ferguson, Missouri.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Conversation about Charleston, police reform, youth opportunity.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/live/2015/jun/23/hillary-clinton-ferguson-racism-police-charleston#block-5589d06be4b0e0aeb0115609"
+                ], 
+                "text": "Read a summary of this blog.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

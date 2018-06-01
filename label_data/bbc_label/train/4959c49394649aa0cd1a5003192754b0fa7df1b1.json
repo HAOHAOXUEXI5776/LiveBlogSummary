@@ -1,0 +1,716 @@
+{
+    "blog_id": "4959c49394649aa0cd1a5003192754b0fa7df1b1", 
+    "title": "BBC Local Live: Northamptonshire on Friday, 18 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-35747357", 
+    "summary": [
+        "improvements to the chowns mill roundabout near higham ferrers will happen but not until 2020 .", 
+        "dylan hartley is preparing to lead england in their crunch grand slam clash with france at the weekend .", 
+        "northamptonshire county council is set to consult on the closure of eight children 's centres .", 
+        "news , sport , weather and travel updates resume at 08:00 on monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec35933f0000e5690f7064", 
+            "title": "our live coverage through the day", 
+            "text": [
+                "local live is finished for today , but we 'll be back on monday with the latest news , weather , sport and travel for northamptonshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ec34643b000066670a2e6d", 
+            "title": "headlines : eight children 's centres could close hartley prepares for grand slam decider", 
+            "text": [
+                "if you 're catching up , here are our top stories :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec32853d0000136a4b1df6", 
+            "title": "save sekhemka group say statue should be loaned back to britain", 
+            "text": [
+                "egyptian statue sekhemka should be loaned back to a british institution by the buyer who purchased it from northampton borough council .", 
+                "earlier today we mentioned how the save sekhemka action group had told northampton chronicle & echo a plan by the egyptian ambassador to buy back the statue was `` gallant '' but `` un-ethical '' .", 
+                "now , gunilla loe , from the group , has told bbc northampton she wants `` the uk government or one of the major british museums to negotiate with the anonymous buyer [ of sekhemka ] for a permanent loan to a british institution '' .", 
+                "the department of culture , media and sport has imposed an export bar which expires on 29 march ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec33303f0000e5690f7054", 
+            "title": "weather : drizzle overnight and tomorrow", 
+            "text": [
+                "there will be a few brief clear intervals , but much of tonight will be cloudy with patchy drizzle and temperatures falling to 2c ( 36f ) .", 
+                "saturday will be rather cloudy and damp with spots of drizzle possible , but some bright or sunny intervals may develop for the afternoon with highs of 9c ( 48f ) ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec0e753b000092640a2dbb", 
+            "title": "councillor axed by kettering tories in skateboard row 'chose to disagree '", 
+            "text": [
+                "kettering conservatives say they are `` not prepared to discuss '' a decision to kick one of their members out of the party .", 
+                "as reported in the northamptonshire telegraph , councillor steve bellamy claims he was voted out at a secret meeting on monday night by fellow tories for questioning their decision to ban skateboarding in the town .", 
+                "he must now sit as an independent .", 
+                "councillor lloyd bunday , deputy leader of the ruling conservatives said : `` the meeting was a private one .", 
+                "councillor bellamy chose to disagree . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ec15753d0000f8654b1d5c", 
+            "title": "midfielder byrom says former team stevenage are 'always going to be tough '", 
+            "text": [
+                "northampton town 's joel byrom is expecting a difficult test at former side stevenage tomorrow saying that last season 's game was `` tough '' .", 
+                "the midfielder spent three years there , winning promotion from the conference and league two .", 
+                "he told me `` stevenage is always going to be tough , it 's a tight pitch and last year they were the better team . ''"
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebfd6f3b000085630a2d89", 
+            "title": "fourth accident on a43 between kettering and northampton in 11 days", 
+            "text": [
+                "a driver escaped without injury after a car ended up on its roof by the side of the road ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec14a13b000092640a2ddd", 
+            "title": "saints hoping to get 'game right ' for tough match against exeter on sunday", 
+            "text": [
+                "northampton saints forwards coach dorian west says they 're `` fairly confident '' of winning at exeter on sunday , despite the chiefs ' formidable home form .", 
+                "they 've made four changes to the team that beat sale last weekend with ace tuala and jj hanrahan starting in the backs , alex waller returning at prop and jon fisher starting at number 8 .", 
+                "west said : `` we know if we get our game right we can be a match for anybody . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec06f83d00001b674b1d19", 
+            "title": "mp peter bone 'not fooled ' by prank donald trump call", 
+            "text": [
+                "wellingborough mp peter bone says he was never fooled by a political blogger who prank called him pretending to be us presidential candidate donald trump .", 
+                "political blogger guido fawkes made the call after the conservative mp signed a letter telling barack obama not to get involved in the eu referendum debate .", 
+                "mr bone said it was not the first prank call he 's received , adding : `` the problem is when you do actually get the prime minister on the phone and you say 'who 's that impersonating him ' . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec12683b000094650a2dd0", 
+            "title": "statue to saints and first world war hero vandalised", 
+            "text": [
+                "the statue of former northampton saints captain and first world war hero edgar mobbs in abington square has been vandalised .", 
+                "mobbs also captained england once against france , was killed in action on july 31 , 1917 .", 
+                "the memorial commemorates the fact edgar raised his own `` sportsman 's '' company of 250 men - also known as mobbs ' own - for the 7th battalion of the northamptonshire regiment ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec1a573d0000af674b1d79", 
+            "title": "ex-northamptonshire all-rounder willey in action in world twenty20", 
+            "text": [
+                "former northamptonshire all-rounder david willey is in the england side trying to rescue their world twenty20 campaign against south africa .", 
+                "england lost their opening game against west indies by six wickets ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ec01723b000093640a2d93", 
+            "title": "charity that runs under threat children 's centres say they have 'vital role '", 
+            "text": [
+                "a charity which runs six of eight children 's centres under threat from northamptonshire county council cuts says it will `` work closely '' with the authority to `` meet the needs of as many as possible of the children and families we currently support '' .", 
+                "action for children also looks after a further seven centres which may have to move .", 
+                "its operational director , laurie long , said they `` understand the [ financial ] difficulties '' faced by the county council , but added they `` believe children 's centre services should and can retain a vital role '' ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebfca43d0000c9604b1cfb", 
+            "title": "egyptian bid to buy sekhemka statue back for \u00a3 15m is 'unethical ' , says action group", 
+            "text": [
+                "the egyptian embassy 's bid to buy a 4,500 year-old statue once on display in northampton and save it being lost forever overseas is gallant '' but unethical '' , according to a northampton action group ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebf1c73f000082620f6f0c", 
+            "title": "county council could close eight children 's centres to save \u00a3 3m", 
+            "text": [
+                "northamptonshire county council has launched a consultation on proposals which could see the closure of eight of the county 's 50 children 's centres - wootton , headlands and parklands in northampton , ronald tree and thornton in kettering , croyland and oakway in wellingborough , and bugbrooke .", 
+                "the closures would save \u00a3 3m from the authority 's 2016/17 budget .", 
+                "services at a further nine centres will be transferred to local libraries or other community venues .", 
+                "the authority says all areas of the county are likely to see a change in the services available .", 
+                "the consultation closes on april 28 ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebf8023d0000c9604b1ce8", 
+            "title": "weather : cloudy and feeling cool", 
+            "text": [
+                "there is plenty of cloud around , but better weather is breaking out between it .", 
+                "this is corby earlier today as taken by bbc weather watcher 'silver beaver ' .", 
+                "however , there is the chance of drizzle later with temperatures only getting up to 6c ( 42f ) .", 
+                "you can find more details on the bbc weather website ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "13:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebf5c83f0000e0640f6f28", 
+            "title": "behind the scenes at mercedes in brixworth ahead of the formula 1 season", 
+            "text": [
+                "i 've been behind the scenes at mercedes in brixworth ahead of the formula 1 season .", 
+                "this is where the engines are made for the world champions based in brackley"
+            ], 
+            "author": [
+                "Jonathan Park", 
+                "BBC Look East sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebf57d3b000085630a2d64", 
+            "title": "firemen cut roof of car to rescue dummy victim", 
+            "text": [
+                "the fire service in northamptonshire have been showing me how they would cut free someone from a trapped vehicle and - here - how they would take the roof off a car", 
+                "roof off - dummy victim freed @ twitterid @ twitterid"
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebf4c03d0000c9604b1ccf", 
+            "title": "fire service demonstrate hydraulic cutters in mock car crash", 
+            "text": [
+                "i 'm at mereway fire station where the fire service are demonstrating how they would rescue someone from a trapped car in road traffic collision", 
+                "hydraulic cutters in action @ twitterid @ twitterid"
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebea453d0000db644b1c91", 
+            "title": "playing field land sale needed to fund school improvement , says county council", 
+            "text": [
+                "northamptonshire county council has said part of playing field land at the old oundle middle school site earmarked for new houses is `` surplus land '' .", 
+                "the mp for the area , tom pursglove , has objected to the application , but county council deputy leader and ward councillor for oundle , heather smith , said planned new school buildings - as well as improvements to existing buildings - relied on the sale of `` playing fields in oundle which exceed the schools ' requirement '' ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebe79e3f000090630f6ed0", 
+            "title": "mp objects to houses being built on school playing field in oundle", 
+            "text": [
+                "conservative mp for corby , tom pursglove , has taken to facebook to say he has submitted an objection to plans to build houses on playing field land in oundle .", 
+                "pans to sell the playing field at the old oundle middle school site had been withdrawn by the county council last summer , but a small section of the field on the roadside has now been earmarked for development - with the money raised earmarked to fund a three tier transition of oundle schools , which were two tier ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "20:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebf0433d00008d654b1cb7", 
+            "title": "hanrahan comes in for myler as saints prepare for exeter trip", 
+            "text": [
+                "irish fly-half jj hanrahan returns to the northampton saints side to face exeter on sunday .", 
+                "jonathan fisher also returns at number 8 .", 
+                "here is the full side", 
+                "team news your saints for sandy park !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid all start", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid we @ twitterid are looking forward to giving you a warm welcome !", 
+                "@ twitterid great to see kahn back !", 
+                "he 's been missed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebead13b000072620a2d1b", 
+            "title": "magician 'dazzled ' victims before abuse", 
+            "text": [
+                "a magician from corby has been jailed for 14 years for historical sex abuse on schoolboys in wales .", 
+                "mark richard davis , 55 , gained the trust of lone mothers to get close to boys and `` dazzled '' them with tricks before abusing them , cardiff crown court heard .", 
+                "the crimes came to light after three men told police they had been abused by him in the 1980s and 1990s in cardiff .", 
+                "davis was found guilty of 13 sex offences ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebdef43b000035600a2ce2", 
+            "title": "hartley 's absence from training session causes his mum to ask 'are you injured ? '", 
+            "text": [
+                "northampton saints hooker and england captain dylan hartley has said it was his mother who was most worried about his injury status ahead of england 's grand slam decider against france in paris tomorrow .", 
+                "there had been concerns hartley would n't be fit to take the field after he sat out a training session .", 
+                "the 29-year-old says his mother , who lives in new zealand , sent him a text message saying `` are you injured '' , when in fact he had been `` ordered '' to sit out the session , to have a rest , by coach eddie jones ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebc66c3b00004c5f0a2c67", 
+            "title": "first aid training session interrupted by real-life emergency when man was hit by bus", 
+            "text": [
+                "staff at a northampton bar who were being given first aid training were able to use their new skills in a real-life emergency after a man was hit by a bus on the road outside ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebdd753f000090630f6ea3", 
+            "title": "a walk in northamptonshire for sport relief", 
+            "text": [
+                "i 've been out with bbc radio northampton presenter bernie keith , who has taken a walk in northamptonshire for sport relief and explains the attraction of the county for him .", 
+                "sport relief encourages people to try and run , swim or just walk a mile to raise money for vulnerable people in both the uk and the world 's poorest countries ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "19:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebd1893b000037600a2ca0", 
+            "title": "chowns mill roundabout plans : 'a nightmare ' and 'too dangerous '", 
+            "text": [
+                "we 've been talking about plans for the chowns mill roundabout , where improvement works should be complete by 2019 , and you 've been commenting on the roundabout near higham ferrers", 
+                "sally wynn wrote on facebook : `` we live in higham and work in irthlingborough so have to use it every day , its a nightmare in the morning especially . ''", 
+                "carolyn aldridge posted : `` i live within a few hundred yards of this roundabout and travel out of my way each day to avoid it - it is too dangerous to approach it from higham during peak hours . ''", 
+                "while both debbie paterson and sarah phillips say that plans for the new roundabout should include a flyover for the a45 ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebdb6c3b000080610a2cc9", 
+            "title": "hartley 's england go for first grand slam in 13 years", 
+            "text": [
+                "tomorrow england go for a grand slam - if they win it 'll be their first since 2003 when an england team that featured four saints , steve thompson , matt dawson , paul grayson and ben cohen ( l-r ) captured the six nations ' main prize .", 
+                "since then there have been some near misses , including in 2011 when england lost to ireland in the last game of the championships with a team that included saints full-back ben foden ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebd5373d0000e2604b1c22", 
+            "title": "northampton shopping centre to light up blue and yellow after plea from mum of down 's syndrome son", 
+            "text": [
+                "a mum whose son has down 's syndrome was left 'crying tears of happiness ' after a northampton shopping centre accepted her request to be lit up in blue and yellow for one day next week - to mark world down 's syndrome day ."
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebcc913b00003b600a2c85", 
+            "title": "long-serving weedon referee only handed out 40 red cards in more than 5,000 matches - but one was for pele", 
+            "text": [
+                "the full-time whistle has finally blown for a football referee from weedon who had an extraordinary career .", 
+                "ron mccahill , 69 , has retired after officiating at thousands of matches"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebc6453d0000bd614b1be4", 
+            "title": "farming the focus of the food and drink awards", 
+            "text": [
+                "the 2016 northamptonshire food and drink awards have been launched with this year 's event emphasising the role farming plays in the county 's food economy .", 
+                "organisers say 70 % of northamptonshire is farmed and the innovation of farmers and growers will be reflected in a new award at this year 's ceremony in november ."
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebb9373d0000f0604b1ba6", 
+            "title": "design for chowns mill has cut through for a45 traffic", 
+            "text": [
+                "here is the preliminary design for the new chowns mill roundabout near higham ferrers", 
+                "it wo n't be completed until late 2019 and it will cost \u00a3 21m .", 
+                "what do you think ?", 
+                "email us , tweet us or head to facebook ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebc5203f0000c4600f6e34", 
+            "title": "'i will not be silenced ' : kettering councillor speaks out after losing tory membership for questioning skateboarding ban", 
+            "text": [
+                "a kettering councillor says he will not be silenced after being kicked out of the conservative group for questioning their decision to ban skateboarding in the town ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebb6d33b0000855e0a2c12", 
+            "title": "lewis hamilton fastest as nico rosberg crashes at australian gp", 
+            "text": [
+                "nico rosberg crashed his mercedes in second practice at the season-opening australian grand prix .", 
+                "the bad start to his campaign was emphasised as team-mate lewis hamilton used the best of the damp conditions to set the pace at albert park .", 
+                "rosberg lost control accelerating out of turn six on a wet track , breaking off his front wing and having to stop on the circuit to avoid dropping debris .", 
+                "qualifying takes place at 06:00 on saturday ."
+            ], 
+            "author": [
+                "Andrew Benson", 
+                "Chief F1 writer in Melbourne"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebb9323d0000f0604b1ba5", 
+            "title": "chowns mill works wo n't be completed until 2019", 
+            "text": [
+                "improvements to the chowns mill roundabout near higham ferrers , where the a45 and a6 intersect , have been spoken about for a long time .", 
+                "but now highways england has told me they wo n't be completed until late 2019 and will cost \u00a3 21m .", 
+                "the chancellor confirmed in the budget that a study looking at upgrading the single carriageway section of the a45 between stanwick and thrapston will happen before the next general election ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ebb5903b0000795e0a2c0e", 
+            "title": "headlines : chowns mill improvements not until 2019 food and drink awards launched", 
+            "text": [
+                "here are our top stories this morning :"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebb2533d0000c9604b1b88", 
+            "title": "weather : cloudier and feeling cooler", 
+            "text": [
+                "it will be a much cloudier day compared to yesterday with the chance of the odd spot of drizzle .", 
+                "feeling cooler , with temperatures up to 6c ( 43f ) .", 
+                "there are more details on the bbc weather website or my full forecast is below"
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ebb1c33f0000ce600f6de1", 
+            "title": "good morning and welcome to local live for northamptonshire", 
+            "text": [
+                "hello again .", 
+                "between now and 18:00 we 'll bring you the day 's news , the latest sport , detailed weather forecasts and up-to-date travel .", 
+                "plus , today is the start of sport relief , so if you have something to tell us , or are doing anything to raise money , then please email us or tweet us ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

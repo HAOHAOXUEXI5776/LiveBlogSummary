@@ -1,0 +1,773 @@
+{
+    "blog_id": "d8b66dc7a166e4820510eef268058827e965ebcf", 
+    "title": "BBC Local Live: Northamptonshire for Friday 21 August 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-33807558", 
+    "summary": [
+        "a building that was ram raided in irchester high street will have to be demolished .", 
+        "about 100 employees of indesit at raunds took industrial action .", 
+        "news , sport , travel and weather updates resume at 08:00 on friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d75150360000876031947a", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "our live coverage across the day"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d749f1360000595e31946a", 
+            "title": "northampton chronicle : 'my hair does n't define me ' says 9-year-old alopecia sufferer", 
+            "text": [
+                "a nine-year-old from northamptonshire who has alopecia decided to battle back and shave her hair all off ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7514637000036624f3dbd", 
+            "title": "weather : sunny evening", 
+            "text": [
+                "an increasingly sunny evening will lead into a largely dry , clear night .", 
+                "the wind will be light south or southwesterly , with temperatures dropping to 14c ( 57f ) .", 
+                "saturday will be a largely fine , dry day with long spells of hot , hazy sunshine and the risk of an isolated thunderstorm in the afternoon .", 
+                "temperatures climbing up to 28c ( 82f ) in places ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d74f1337000063614f3db5", 
+            "title": "northamptonshire news : rail academy and rothwell remains", 
+            "text": [
+                "this is what we 've been talking about today :"
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d747d9360000595e319460", 
+            "title": "raunds indesit workers want better pay offer", 
+            "text": [
+                "warehouse workers at indesit in raunds have been striking today after they rejected a 1.5 % pay increase offer .", 
+                "they are among more than 200 staff across the country , who are also planning to strike for 48 hours on 27 august and 24 hours on 1 september .", 
+                "unite regional officer mark plumb said : `` they are seeking a substantial increase in their basic pay after years of below inflation pay rises . ''"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d748f9360000925f319464", 
+            "title": "man assaulted in corby", 
+            "text": [
+                "a 21-year-old man was assaulted .", 
+                "at around 08:30 on tuesday , 18 august , in the earlstree industrial estate , corby .", 
+                "the man was walking to work when he was approached by another man who punched him .", 
+                "police are appealing for witnesses to the incident which happened close to golden wonder factory ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d73cb5360000595e319447", 
+            "title": "awards ceremony for those who hand out flyers at edinburgh fringe", 
+            "text": [
+                "a man from northampton who set up an awards ceremony at the edinburgh fringe festival says there 's been a big demand for him to repeat it at this year 's event .", 
+                "conor fitzhenry from kingsthorpe set up the flyerers award , recognising the work of people who hand out flyers at the festival .", 
+                "irish comedian david o'docherty is hosting the awards show which take place at the end of the month ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d73d1437000063614f3d84", 
+            "title": "plane crash crew honoured with memorial", 
+            "text": [
+                "the crew of an american plane who lost their lives when it hit a radio mast in daventry and crashed in 1944 are finally being honoured in the town this weekend .", 
+                "a plaque will be unveiled on daventry 's war memorial on sunday afternoon by one of the relatives of the nine men who died on board the b17 bomber .", 
+                "artefacts from the crash site will go on display in the town 's museum for the next month ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d747dc360000595e319462", 
+            "title": "cricket : wakely the man for a crisis", 
+            "text": [
+                "alex wakely has made his fourth first-class century , and now his highest first-class score too , to help northants battle back on day one against leicestershire .", 
+                "his previous hundred this season - at cheltenham - came in similar circumstances .", 
+                "wakely the man for a crisis it seems .", 
+                "northants are currently 293-7 at wantage road ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d73a5e37000022614f3d7c", 
+            "title": "patrick mcloughlin : northampton 'key ' to delivering rail and road trainees", 
+            "text": [
+                "transport secretary patrick mcloughlin says northampton will be key to delivering new rail and road trainees from an academy in kings heath .", 
+                "separately , northampton college has announced it 'll train young people for future careers in the logistics industry , which is expected to double in size in northamptonshire over the next six years .", 
+                "james whybrow , assistant principal at northampton college urged youngsters to `` think about a career in logistics , it is n't what you think . ''"
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7402837000022614f3d8c", 
+            "title": "transport secretary 'impressed ' with northampton 's new rail academy", 
+            "text": [
+                "transport secretary patrick mcloughlin says he 's really impressed by a new rail academy in northampton which will will play a big part in delivering 30,000 new road and rail industry apprenticeships .", 
+                "the academy at kings heath will be fully operational in october , and will teach young people about rail maintenance .", 
+                "mr mcloughlin said the industry could provide a great future for young people interested in a career in infrastructure ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7382d360000595e31943c", 
+            "title": "george north 'suffered slurred speech ' after rugby ko", 
+            "text": [
+                "the girlfriend of saints winger george north has revealed he suffered slurred speech after being knocked unconscious playing rugby .", 
+                "north is set to return to action for the first time in five months when wales play ireland in a world cup warm up match a week tomorrow .", 
+                "and becky james - his girlfriend and a world champion cyclist - says she 's been worried for him ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d73ada360000925f319444", 
+            "title": "artists invited to apply for funding", 
+            "text": [
+                "artistic people in the corby area are being invited to apply for funding to help make their creative ideas happen .", 
+                "up to \u00a3 5,000 is available for each project - from made in corby 's big ideas fund .", 
+                "projects such as music , dance , film , painting and photography will all be considered ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d730783700002f614f3d63", 
+            "title": "indesit 'disappointed ' over strike action", 
+            "text": [
+                "indesit says it 's disappointed that the unite union has decided to take part in industrial action over pay .", 
+                "about 100 staff at the company 's raunds depot are on strike today .", 
+                "it is part of a continuing national action .", 
+                "the company says that it has improved its pay offer and is keen to continue discussions with the union ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d732c3360000405f31942d", 
+            "title": "transport secretary announces two new apprenticeship schemes", 
+            "text": [
+                "two major new apprenticeship schemes have been announced in northamptonshire today - including 30,000 new apprenticeship places for road and rail training .", 
+                "transport secretary patrick mcloughlin says northampton will be key to delivering the rail and road trainees .", 
+                "northampton college says it 'll train young people for future careers in the logistics industry , which is expected to double in size in northamptonshire over the next six years ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d71eff37000028604f3d2b", 
+            "title": "radio northampton : the story of the wreck of the us b17", 
+            "text": [
+                "radio northampton reporter martin heath will be talking about the us b17 later - here 's a little tease from his twitter account .", 
+                "martin heath", 
+                "heathm50", 
+                "cap found in the wreck of a u.s. b17 which crashed in daventry in 1944 .", 
+                "i 'm telling the story this pm on bbc nton .", 
+                "cap found in the wreck of a u.s. b17 which crashed in daventry in 1944 .", 
+                "i 'm telling the story this pm on bbc nton ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6fb7b370000f75d4f3cbf", 
+            "title": "northampton chronicle : sevens pub to undergo \u00a3 150,000 refurbishment", 
+            "text": [
+                "a pub in northampton will be closed for a month while it undergoes a refurbishment ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d728a93500006b5e11828c", 
+            "title": "mother and child harassed in corby park", 
+            "text": [
+                "a woman who was walking with her daughter in a park in corby was approached by a drunken man who harassed her .", 
+                "the incident happened on monday between 17.20 and 17.30 between holbein walk and bonnington walk in the town ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "14:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d724c6360000595e319407", 
+            "title": "cricket : northants struggling in leicestershire clash", 
+            "text": [
+                "i am at wantage road for the first day of the county championship match between northamptonshire and leicestershire .", 
+                "it has been a morning of struggle for northamptonshire , reduced to 42-4 having lost the toss , before captain alex wakely settled to steer his side to lunch in better shape at 89-4 .", 
+                "but it should have got worse straight after the break - josh cobb badly dropped at first slip .", 
+                "hard work is needed to improve things for the hosts ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7192c370000185f4f3d18", 
+            "title": "ram raided ircheser building may have to be demolished", 
+            "text": [
+                "a building that was ram raided in irchester this morning may have to be demolished - according to wellingborough council .", 
+                "ram raiders took used a fork lift truck to steal a cash machine from the shop just before 02:00 this morning .", 
+                "they put the cash machine on the back of another vehicle and made off from the scene ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "14:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d71738370000185f4f3d12", 
+            "title": "book marks 50 years since northampton town 's glory season", 
+            "text": [
+                "it 's 50 years since northampton town 's only season in the top flight of english football and the author of a book telling the story of that season has been reprinted to mark the anniversary .", 
+                "`` a whole scene going '' by derrick thompson was first published in 2008 and remembers the 1965-'66 season , when the cobblers were narrowly relegated .", 
+                "the club had previously had a meteoric rise from the old fourth division to the top flight ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7041b3500006b5e118206", 
+            "title": "police appeal following ram raid in irchester", 
+            "text": [
+                "northamptonshire police would like to speak to anyone who may have witnessed a ram raid in irchester .", 
+                "officers would also like to speak to anyone who may have seen a fork lift truck and another vehicle approaching irchester shortly before 02:00 .", 
+                "anyone with information should call police on 101 ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6f7c2370000f75d4f3cb0", 
+            "title": "police warning after rise of bike thefts", 
+            "text": [
+                "police say motorbike thieves in the county have mainly targeted smaller bikes up to 125cc , but some larger bikes and a quadbike have also been stolen .", 
+                "the 68 thefts have happened both during the day and overnight .", 
+                "more than half of them have happened in northampton , with others in corby , rushden , kettering , wellingborough , daventry , irthlingborough and higham ferrers ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "13:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d7081d360000215b3193b1", 
+            "title": "road closures after ram raid in irchester", 
+            "text": [
+                "a stretch of road in irchester is closed after the ram raid there in the early hours of this morning .", 
+                "station road to wollaston road junction remains closed ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d70b61370000f75d4f3ce8", 
+            "title": "rothwell remains are hundreds of years old", 
+            "text": [
+                "have you been inside the bone crypt at holy trinity church in rothwell yet ?", 
+                "the university of sheffield is researching the human remains which are hundreds of years old .", 
+                "if you 've not been in the crypt yet , there 's an open day on saturday - or you can watch a sneak preview on the bbc northampton facebook page ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6fff53600003e5d31938a", 
+            "title": "northamptonshire telegraph : new address for rushden post office", 
+            "text": [
+                "rushden post office is set to move from wilkinson 's in the town to a pharmacy in the high street ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d703c43600003e5d31939c", 
+            "title": "ram raid at shop in irchester high street", 
+            "text": [
+                "police are appealing for witnesses after a ram raid at a shop in high street , irchester in the early hours of this morning .", 
+                "offenders used a fork lift truck to steal a cash machine from a shop at about 01:55 .", 
+                "they put the cash machine on the back of another vehicle and made off from the scene ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6fee6370000185f4f3cc6", 
+            "title": "transport secretary announces 30,000 new apprenticeships", 
+            "text": [
+                "the transport secretary has announced 30,000 apprenticeships for road and rail during a visit to northampton .", 
+                "patrick mcloughlin was speaking from the site of a new rail academy in kings heath , which will be fully operational from october ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "11:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d6f52a360000215b319369", 
+            "title": "spate of bike thefts across northamptonshrie", 
+            "text": [
+                "police in northamptonshire are encouraging people to take extra steps to keep their motorbikes secure following an increase in motorcycle thefts over recent weeks .", 
+                "sixty eight motorbikes have been stolen across the county between 1 july and 17 august ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6f242360000215b31935e", 
+            "title": "rothwell ancient human remains go on display", 
+            "text": [
+                "human remains believed to date from the 1300s will be on show tomorrow at holy trinity church in rothwell , which is opening the doors of its crypt from 10:00 until 16:00 to the public .", 
+                "university of sheffield researchers have spent three years researching the crypt and the remains of 3,000 people interred there .", 
+                "they now want to hear the stories of people who 've lived in rothwell on what the crypt means to them and their community ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6e9833500004f5c1181b0", 
+            "title": "daventry day of action to combat crme", 
+            "text": [
+                "a day of action is being organised in daventry , to try and interest people in getting involved with combating crime and anti-social behaviour .", 
+                "a mobile police station and a fire engine will be on display in the town centre , and it is hoped residents will sign up to park watch and allotment watch .", 
+                "the town has had a number of incidents of vandalism and arson since may , including the setting on fire of a golf buggy on a bridge at the country park ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d6e9f3370000f75d4f3c7a", 
+            "title": "northants news : indesit strike and rothwell remains", 
+            "text": [
+                "this is what we 're talking about this morning :"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6e70b370000f75d4f3c6a", 
+            "title": "transport secretary patrick mcloughlin in northampton", 
+            "text": [
+                "transport secretary patrick mcloughlin is in northampton this morning to announce an expansion to a rail training academy , set to fully open in october .", 
+                "the government faced criticism when it `` paused '' the electrification of the midland mainline through northamptonshire - and expanding rail training in northampton would be a good way of doing it ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "10:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6e143360000215b319318", 
+            "title": "daventry express : village launches own community car scheme", 
+            "text": [
+                "a community car scheme has launched in a village near daventry to help people without their own transport , or who have limited mobility ."
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6e14b350000435d118195", 
+            "title": "raunds indesit line among 12 nationwide", 
+            "text": [
+                "strike action at indesit in raunds is also taking place at 11 other depots across the country .", 
+                "mark plum from the union unite said : `` it will have an impact on their ability to deliver to the customers that they service . ''", 
+                "indesit has not responded to our queries as yet ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6dc29360000215b3192ff", 
+            "title": "raunds indesit strike to disrupt white goods delivery", 
+            "text": [
+                "around 100 employees of indesit at raunds have joined colleagues around the country in taking industrial action .", 
+                "they will be on strike for 24 hours , as part of a dispute over pay .", 
+                "the union unite says the action is likely to affect the delivery of white goods such as fridges and washing machines ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6d99b3600001f5b3192f0", 
+            "title": "afc rushden & diamonds on the rise", 
+            "text": [
+                "for a club that only existed for 20 years , rushden & diamonds crammed plenty in .", 
+                "four promotions in 11 seasons took them up to english football 's third tier , but were followed by two relegations , expulsion from the conference and their eventual dissolution in 2011 .", 
+                "supporters decided to create a phoenix club in afc rushden & diamonds - and that side is now on the rise ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_55d6d221360000215b3192ce", 
+            "title": "northamptonshire headlines : training schemes and indesit strike", 
+            "text": [
+                "here are the stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6d0c93500004e5c118157", 
+            "title": "weather : cloudy but becoming brighter", 
+            "text": [
+                "it will be a largely cloudy start to the day with the chance of the odd spot of rain in places .", 
+                "with the sunshine and light winds , it will turn very warm by the afternoon .", 
+                "maximum temperature : 25c ( 77f ) .", 
+                "watch the full forecast with elizabeth rizzini ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_55d6cd3d3500004f5c11814b", 
+            "title": "northamptonshire live : how you can get in touch", 
+            "text": [
+                "what 's going in the news today : why do n't you tell us ?", 
+                "if you have a story you think we should be talking about drop us an email or post to our facebook page ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:02"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

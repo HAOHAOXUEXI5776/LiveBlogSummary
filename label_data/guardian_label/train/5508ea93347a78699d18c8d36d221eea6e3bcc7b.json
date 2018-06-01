@@ -1,0 +1,1015 @@
+{
+    "blog_id": "5508ea93347a78699d18c8d36d221eea6e3bcc7b", 
+    "title": "UK unemployment rate sticks at 4.9% after Brexit vote, but wage growth slows \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2016/sep/14/uk-unemployment-data-brexit-stock-markets-business-live", 
+    "summary": [
+        "mixed day for european markets .", 
+        "us crude stocks fall unexpectedly .", 
+        "wall street edges higher .", 
+        "oil prices slide again .", 
+        "stock market rallies after jobs report .", 
+        "concern over slowing wage growth .", 
+        "pwc : too early to see brexit impact ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d97c3ce4b05caf65ecd2ff", 
+            "title": "mixed day for european markets", 
+            "text": [
+                "it was another nervous day for investors , albeit with rather less dramatic market moves than they have endured recently .", 
+                "the usual concerns remained , including whether or not the us federal reserve would indeed raise interest rates next week , and a continuing slide in the oil price despite an unexpected fall in us oil stocks .", 
+                "uk unemployment figures did little to rock the boat ahead of the latest bank of england meeting on thursday ( where rates and its quantitative easing programme are expected to remain unchanged . )", 
+                "but london shares snapped out of a three day losing streak - just - with some support from mining groups after positive economic signs from key commodities consumer china .", 
+                "the final scores in europe showed : the ftse 100 edged up 7.68 points or 0.12 % to 6673.31 germany 's dax dipped 0.08 % to 10,378.40 france 's cac closed down 0.39 % at 4370.26 italy 's ftse mib fell 0.05 % to 16,539.90 spain 's ibex ended down 0.25 % at 8702.4 in greece , the athens market slipped 0.15 % to 556.13 on wall street , the dow jones industrial average is currently 38 points or 0.21 % higher .", 
+                "on that note , it 's time to close for the evening .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                17, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d975e6e4b067ad30087af7", 
+            "title": "", 
+            "text": [
+                "over in greece , and there are further tensions between the government and its creditors .", 
+                "reuters reports : greece will tell its creditors it can not comply with labour reforms demanded by the international monetary fund as a condition of its support for the country 's third bailout , its labour minister told reuters in an interview on wednesday .", 
+                "the leftist government considers the imf 's demand as a ban on the right of workers to negotiate wages and conditions on a collective basis .", 
+                "a breakdown with the imf on the issue could jeopardise its financing of the 86 billion euro ( $ 96 billion ) bailout and could undermine overall confidence in the deal .", 
+                "labour minister george katrougalos , speaking a few hours before meeting with the heads of an eu-imf mission on labour issues , said athens would fight to revive collective bargaining and described the imf as an extreme player .", 
+                "greek labour minister george katrougalos .", 
+                "konstantinidis/reuters we want to reinstate collective bargaining because it 's the core of the european social model , katrougalos said .", 
+                "under previous bailouts , collective bargaining has been weakened .", 
+                "both the imf and the eu say an inflexible labour force has helped to make greece uncompetitive , contributing to its economic malaise .", 
+                "katrougalos also said the minimum wage in greece , now at 586 euros , should be determined by social partners - workers and employers - and not by the state , as demanded by the lenders .", 
+                "other issues that greece 's creditors have put on the negotiating table include relaxing laws on mass dismissals and allowing employers to shut down their businesses and lock out workers in the event of industrial action , he said .", 
+                "these are measures which employers have already rejected in greece , katrougalos said .", 
+                "we 've reached a point where we can no longer tolerate the deterioration of greek workers ' status ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                16, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d9694be4b05caf65ecd2a1", 
+            "title": "", 
+            "text": [
+                "still on oil jasper lawler , market analyst at cmc markets , said : the price of oil erased early gains as traders resumed bearish bets on speculation that libya will soon be in a position to begin exports again .", 
+                "the losses come after the american petroleum institute reported a build in weekly oil inventories .", 
+                "the price did have a brief rally after doe data showed a surprise draw , but within half-an-hour of the data made new lows of the day .", 
+                "all indications are that the biggest drawdown in 17 years seen in last week 's inventory figures was an aberration ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                15, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d96875e4b0e813b694cfd7", 
+            "title": "", 
+            "text": [
+                "joe weisenthal ( @ thestalwart ) quite a whipsaw in oil .", 
+                "bloomberg markets ( @ markets ) oil sinks lower after the latest eia inventory report"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                15, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d963eae4b067ad30087a94", 
+            "title": "us crude stocks fall unexpectedly", 
+            "text": [
+                "oil prices continued their slide despite us crude inventories showing a surprise fall last week .", 
+                "according to the energy information administration , crude stocks fell by 559,000 barrels compared with expectations of a 3.8m increase .", 
+                "but gasoline stocks rose by a more than expected 567,000 , compared to forecasts of a 343,000 gain .", 
+                "distillate stockpiles , which include diesel and heating oil , were also much higher than expected , rising by 4.6m barrels instead of the forecast 1.5m barrel increase .", 
+                "after an initial rebound as the figures came out , brent crude is now down 1.32 % at $ 46.48 while west texas intermediate is 1.43 % lower at $ 44.26 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                15, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d96353e4b0e813b694cfc0", 
+            "title": "", 
+            "text": [
+                "in case you missed it , here 's bank of england governor mark carney testing the durability of the new \u00e2\u00a3 5 note : mark carney tests the new five pound note ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                14, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57d95345e4b05caf65ecd22d", 
+            "title": "wall street edges higher", 
+            "text": [
+                "after tuesday 's sell-off on the us market , wall street has opened marginally higher in early trading .", 
+                "but with continuing nervousness over the prospect of a us rate rise next week , along with weakness in the oil price , it is hardly a convincing move : the dow jones industrial average has edged up just 11 points or 0.07 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                13, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d95338e4b067ad30087a34", 
+            "title": "", 
+            "text": [
+                "for the star wars fans : carl quintanilla ( @ carlquintanilla ) macquarie divides economic data between the good ( luke ) and the bad ( darth vader ) .", 
+                "( h/t @ twitterid )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                13, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d94adde4b0e813b694cf21", 
+            "title": "oil prices slide again", 
+            "text": [
+                "ahead of the latest us oil inventory figures , crude prices are on the slide once more .", 
+                "brent is down 0.74 % at $ 46.75 a barrel while west texas intermediate - the us benchmark - has fallen 0.65 % to $ 44.61 on continuing concerns about oversupply amid falling demand .", 
+                "earlier prices had been supported by a report overnight from the american petroleum institute that crude stocks had risen by a lower than expected 1.4m barrels last week , compared to estimates of a 3.8m increase .", 
+                "oanda senior market analyst jeffrey halley told reuters : long suffering oil bulls will now turn nervously to the us energy information administration 's commercial crude inventory numbers .", 
+                "it was an unexpected undershoot in these numbers last week that set off the rally in crude last week ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                13, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d946bfe4b05caf65ecd1eb", 
+            "title": "", 
+            "text": [
+                "elsewhere in the markets , the pound is bobbing around the $ 1.319 mark .", 
+                "traders are waiting for the bank of england 's next monetary policy decision , tomorrow , although few fireworks are expected .", 
+                "today 's decent jobs survey , following a shock-free inflation report yesterday , means the boe will surely leave things unchanged .", 
+                "last month it slashed interest rates to a fresh record low of 0.25 % , and boosted its qe programme by up to \u00e2\u00a3 60bn .", 
+                "a growing number of experts believe the baton is being passed back from central bankers to national governments , who could boost spending to encourage growth .", 
+                "ranjiv mann , head of economic research at rogge global partners , says the boe is looking to westminster for a fiscal response to the brexit vote .", 
+                "but does chancellor phillip hammond have much flexibility ?", 
+                "mann says : the question is how much the government is willing to do in the short term ?", 
+                "with debt levels at historic highs , there are constraints from both a credibility and fiscal perspective .", 
+                "the government knows it must proceed with caution and address concerns about how it will balance the budget over the medium term .", 
+                "just how loose uk fiscal policy becomes will play a key role in determining the boe 's longer term actions .", 
+                "even if the government 's autumn statement delivers a much looser fiscal stance sufficient to reduce some growth worries , the boe is set to maintain its dovish policy stance for years to come .", 
+                "in the meantime , mark carney can enjoy the launch of the new plastic \u00e2\u00a3 5 note ( which he saw fit to dip into a bubbling pot of curry yesterday ) : currying favour at whitecross street market on tuesday wermuth/afp/getty images wermuth/afp/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                12, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d936a4e4b05caf65ecd1a4", 
+            "title": "stock market rallies after jobs report", 
+            "text": [
+                "today 's unemployment report has helped to push shares higher in london .", 
+                "the ftse 100 had gained 37 points , or 0.55 % , to 6073 , outpacing european markets ( germany is up a bit , and france is flat ) .", 
+                "city investors are reassured that the unemployment total fell in the last quarter , and that there 's no sign that firms are cutting hiring .", 
+                "the biggest risers and fallers today reuters obviously it 's still early days .", 
+                "and neil wilson , markets analyst at etx capital , says investors will reserve judgement until more data emerges .", 
+                "vacancies a critical gauge of employer intentions and confidence - remained high , rising slightly to 752,000 .", 
+                "wage growth slipped a tad but remained pretty solid and above the average of recent years .", 
+                "on the downside , a big jump in self-employed numbers could be a cause for concern and the total number of hours worked did n't rise much .", 
+                "but the official figures seem to contradict some of the anecdotal evidence following the june vote .", 
+                "ceb had found that number of jobs vacancies slumped by 700,000 in the week after brexit , while the rec reported a sharp deterioration in the jobs market in july .", 
+                "so far these downcast assessments have not been backed up by the official data , but we will need a bit longer to get a clearer of how the labour market has been hit ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                12, 
+                27
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57d92a50e4b0e813b694ce75", 
+            "title": "", 
+            "text": [
+                "here 's our news story about the unemployment report : wage growth slows after brexit vote read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                11, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d91eafe4b05caf65ecd0fd", 
+            "title": "concern over slowing wage growth", 
+            "text": [
+                "although most of today 's jobs report is pretty decent , the slowdown in pay growth is a significant worry .", 
+                "the big fear is that inflation spikes , as firms pass on higher import costs , meaning real wages ( adjusted for inflation ) are eroded .", 
+                "tuc general secretary frances o'grady says the government must make a real effort to push wages up .", 
+                "we need investment now to create more decent , well-paid jobs , and an end to the public sector pay cap .", 
+                "and the government should stick by its promise to give the lowest paid a pay rise , with increases in the national living wage .", 
+                "frances o'grady ( @ francesogrady ) today 's slowdown in wage growth is a concern .", 
+                "pm says she wants an economy that works for everyone .", 
+                "that needs real effort to drive up pay the resolution foundation have sent over two charts , showing how real wages have n't reached their pre-crisis levels : foundation foundation"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                10, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d91d53e4b05caf65ecd0f4", 
+            "title": "", 
+            "text": [
+                "ian stewart , chief economist at deloitte , says britain 's job recovery is rolling on unemployment is falling , jobs are being created and earnings are heading up .", 
+                "britain 's jobless rate is half that of the euro area ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d919e9e4b067ad30087925", 
+            "title": "", 
+            "text": [
+                "encouragingly , uk firms are actually advertising more jobs than a month ago .", 
+                "kallum pickering of german bank berenberg says it 's good news : after the brexit vote , we had expected firms to exercise a greater level of caution , implying a fall in vacancies .", 
+                "most surprisingly , the number of job vacancies rose modestly to 752k in august .", 
+                "number of vacancies across the uk"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d91892e4b067ad3008791a", 
+            "title": "pwc : too early to see brexit impact", 
+            "text": [
+                "john hawksworth , chief economist at pwc , says today 's labour market report jobs report shows no immediate impact from june 's eu referendum .", 
+                "but he also emphasises that it 's early days - if there is a brexit shock , the jobs market wo n't show it first .", 
+                "hawksworth explains : overall , the latest labour market data suggest some cooling down of the rapid pace of uk jobs growth seen in the period before the referendum , but with no indication yet of a significant rise in unemployment .", 
+                "this is consistent with other broadly reassuring economic data for the post-referendum period , which point to a moderation of growth rather than a recession .", 
+                "however , unemployment tends to be a lagging indicator , as companies will take time to adjust their hiring plans to the post-referendum world .", 
+                "so it will be some months before we can reach firm conclusions on the labour market impact of the brexit vote ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d916c9e4b05caf65ecd0d2", 
+            "title": "", 
+            "text": [
+                "britain 's public sector has shrunk again .", 
+                "the office for national statistics reports that there were 5.33 million people employed in the public sector for june 2016 .", 
+                "this was : 13,000 fewer than for march 2016 20,000 fewer than for a year earlier the lowest since comparable records began in 1999 the public sector is now just 16.8 % of the total workforce ; again , the lowest since at least 1999 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d915bfe4b05caf65ecd0d0", 
+            "title": "", 
+            "text": [
+                "professor geraint johnes , director of research at the work foundation , says more people are returning to the labour force .", 
+                "that means employers have n't had to offer wage hikes to attract new staff .", 
+                "he explains : there have been substantial gains in the numbers of workers in full-time jobs , be they employees or self-employed .", 
+                "much of this gain comes from a reduction in the number of economically inactive people , a trend that looks set to continue .", 
+                "it is still therefore the case that expansion continues without imposing significant wage pressures .", 
+                "where new jobs were created over the last 12 months"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d9147de4b0e813b694cdea", 
+            "title": "", 
+            "text": [
+                "this chart shows how uk wage growth has been bobbing around the 2 % -2.3 % zone for some time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d90e05e4b0e813b694cdcc", 
+            "title": "", 
+            "text": [
+                "the department of work and pensions have tweeted some key points from today 's jobs report ( which is online here ) dwp press office ( @ dwppressoffice ) new independent stats show the employment rate is the highest since records began in 1971 dwp press office ( @ dwppressoffice ) new independent stats show the number of people in work has risen in every region & nation of the uk since 2010"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                9, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d90fbce4b0e813b694cdd2", 
+            "title": "businesses held fire after brexit vote", 
+            "text": [
+                "the fall in unemployment between may and july suggests british firms were n't spooked by the results of the eu referendum on june 23 .", 
+                "joshua raymond at city firm xtb.com says we should still be cautious .", 
+                "with no immediate negative change in jobless circumstances , it seems uk business held fire from making immediate and sharp changes in hiring and firing [ after the brexit vote ] .", 
+                "the uk employment rate remains the highest since records began , at 74.5 % .", 
+                "however , it 's worth reminding that this data only shows the knee jerk reaction from the brexit vote , not brexit itself .", 
+                "any positive data over the past month in reaction to brexit should be considered a mirage and not a vote of confidence in the uk itself despite brexit , at least just yet .", 
+                "he 's also concerned by the decline in wage growth : uk average earnings slowed sharper than expected to 2.1 % from 2.3 % , which could become troublesome if uk inflation continues to rise due to the weak pound , and could create a contraction in real earnings ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d90ddfe4b067ad300878eb", 
+            "title": "", 
+            "text": [
+                "city experts are concerned that wage growth has slowed to just 2.1 % ( ex bonuses ) .", 
+                "the resolution group 's duncan weldon fears that real wages will be eroded by inflation in the coming months , as the weak pound drives up import costs .", 
+                "duncan weldon ( @ duncanweldon ) uk jobs grow healthy but weakening of wage growth a concern as sterling weakness to push inflation up .", 
+                "economist rupert seggins shows how wages are slowing ( blue ) just as inflation rises ( in red ) rupert seggins ( @ rupert seggins ) real regular pay growth is slowing .", 
+                "all eyes on consumer price inflation over the coming months .", 
+                "uk inflation remained at 0.6 % in august , but some experts predict it will jump in the months ahead ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d90b5ae4b0e813b694cdbd", 
+            "title": "wage growth slows", 
+            "text": [
+                "the unemployment report also shows that wage growth has slowed .", 
+                "average earnings , excluding bonuses , rose by just 2.1 % in the three months to july , down from 2.3 % a month ago .", 
+                "and if you include bonuses , earnings rose by 2.3 % during the quarter - down from 2.5 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d90a83e4b067ad300878d7", 
+            "title": "uk unemployment rate stick at 4.9 % despite brexit vote", 
+            "text": [
+                "breaking !", 
+                "britain 's unemployment report shows little evidence that the brexit vote has hurt the economy ( yet , anyway ) .", 
+                "the number of people out of work fell by 39,000 in the three months to july , which means the unemployment rate remains at 4.9 % .", 
+                "the employment total has jumped again too - by an impressive 174,000 - taking the total to 31.77 million .", 
+                "but the number of people signing on for unemployment benefit has gone up , by 2,000 , to 771,000 .", 
+                "more to follow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d908c5e4b05caf65ecd09d", 
+            "title": "", 
+            "text": [
+                "significant news from china : the country 's banks made 948bn yuan ( \u00e2\u00a3 107bn ) worth of new loans in august , twice as much as in july .", 
+                "that suggests beijing is keeping its economy stimulated , and preventing a credit crunch gripping its banking sector .", 
+                "one fund manager tweets : burnett tabrum ( @ btabrum ) very strong loan data out of china .", 
+                "949bn vs 750bn fcst .", 
+                "can .", 
+                "kicked ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d9034de4b067ad300878bd", 
+            "title": "", 
+            "text": [
+                "today 's unemployment report , due in under 30 minutes , may show a worrying squeeze in take home pay .", 
+                "ana thaker , market economist at phillipcapital uk , says : uk unemployment data is set to show the labour market has remained resilient with unemployment steady at +4.9 % .", 
+                "this will be welcomed by the bank of england but the expected drop in average earnings to +2.1 % could be a cause for concern .", 
+                "average earnings , and a dip in them , could have real consequences on impending retail sales data and consumer expenditure figures , adversely affecting growth in the long term .", 
+                "the bank of england prioritises average earnings figures , and we could see them act if it looks like a downtrend could prevail ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                8, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d8fecee4b067ad300878ad", 
+            "title": "", 
+            "text": [
+                "two luxury goods groups have sent a shiver through the markets this morning .", 
+                "herm\u00e3\u00a8s international has abandoned its annual sales growth target , blaming a lot of uncertainty around the world .", 
+                "shares in the french high fashion chain , which makes perfume , handbags , shoes , etc have slumped by 6 % in early trading .", 
+                "richemont , the owner of watch brand cartier , is also suffering .", 
+                "it hit shareholders with a profits warning this morning , after suffering a 14 % slide in sales in the last five months .", 
+                "its shares are down 4 % , as traders fear that the luxury market is cooling .", 
+                "bloomberg says the warnings reflecting the challenges facing luxury-goods companies from weaker demand in asia and a decline in tourism in europe ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                7, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d8f8ace4b0e813b694cd65", 
+            "title": "sky dives into drone market", 
+            "text": [
+                "action at the drone racing league rising sharply , then plunging with stomach-churning speed , and occasionally ending up in a nasty crash .", 
+                "no , not the global stock markets .", 
+                "this is drone racing , in which enthusiasts fly small aerial vehicles around a track as fast as they dare , dodging obstacles on the way .", 
+                "and this new sport has just received a dose of cash from sky , which has told the city its investing $ 1m ( \u00e2\u00a3 770,000 ) in the drone racing league .", 
+                "they 'll broadcast action from five races , climaxing in a winner-take-all world championship to crown the best drone pilot .", 
+                "they 're also promising a new race , at an iconic venue in london ( fingers crossed for the house of commons ) .", 
+                "daniel coatsworth ( @ sharesmagdan ) sky invests $ 1m in the drone racing league.will also launch the first professional drone race in the uk - somewhere in london and if you could n't tell drone racing from the drones club , here 's some action : sky corporate ( @ skycorporate ) we 'll also air races from the drone racing league on our new channel , sky sports mix .", 
+                "here 's what to expect\u0080\u00a6 sky corporate ( @ skycorporate ) next year , we 're also teaming up with london & partners to bring the first official drl race to london ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                7, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d8f2dee4b0e813b694cd4b", 
+            "title": "", 
+            "text": [
+                "asian stock markets have slipped to six-week lows this morning , knocking 0.6 % off the chinese and japanese indices .", 
+                "and bond prices are also slipping , having recently soared to record highs .", 
+                "reuters explains why : bond markets have come under pressure in recent days from unease about a possible u.s. rate hike this month , news that thebank of japan is studying ways to steepen the bond yield curve and disappointment at the lack of clear forward-action plan by the european central bank at last week 's meeting .", 
+                "david ingles ( @ davidinglestv ) australia 10-year bond yield rising further to highest since brexit vote day ( yields , or interest rates , rise when prices fall ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                7, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d8f2b2e4b05caf65ecd049", 
+            "title": "markets fearful of fed rate hike", 
+            "text": [
+                "financial traders are getting edgy because they fear the us central bank might raise interest rates soon , even though the global economy looks fragile .", 
+                "naeem aslam , chief market analyst at think markets , explains that next week 's federal reserve meeting is on everyone 's mind .", 
+                "lower global demand has made investors uncomfortable with the idea that the fed is still gritty to increase the interest rate .", 
+                "the fact is that investors do not mind if the fed is going to hike up the interest rate , as this was the situation a few months ago .", 
+                "what is making them wary is that the economic data has started to deteriorate and the fed has very solid stance with respect to a rate hike .", 
+                "and there 's a lot of bearish chatter in the markets this morning , as experts worry that central banks may be running out of firepower .", 
+                "here 's kit juckes of societe generale : kit juckes ( @ kitjuckes ) money safer under mattresses , cbs out of mojo & bond bubbles are talk of the mkt press .", 
+                "10y note 1.73 % , \u00e2\u00a5 down , stocks down , epic sunrise !", 
+                "and jamie mcgeever of reuters : jamie mcgeever ( @ reutersjamie ) the s & p 500 has chalked up 8 fresh record highs this year , but is now flat since february 2015 .", 
+                "is the bull market turning ? ht @ twitterid"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                6, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57d8edf2e4b05caf65ecd039", 
+            "title": "the agenda : uk unemployment report this morning .", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "once again , we 'll be squinting at the economic tealeaves for signs that britain 's economy has either shrugged off june 's brexit vote , or been dragged down by it .", 
+                "at 9.30am , the latest uk unemployment report will how how many people signed on for jobseeker 's allowance in august .", 
+                "it will also show whether the unemployment rate remained at just 4.9 % , in the three months to july , and whether real wages kept rising .", 
+                "this is the first jobs report to fully cover the dramatic weeks after the eu referendum .", 
+                "it 's probably too early to see any significant impact - but there may be some early signals analysts at rbc capital markets explain : although employment gains are set to slow markedly in coming months on this occasion even if the level holds flat with that seen in june it would result in increased employment of over 150k in the last three months .", 
+                "we look for the unemployment rate to hold at 4.9 % and for average earnings growth to slow a little ; the including bonus measure should come at 2 % , year-on-year , and the ex-bonus measure at 2.1 % .", 
+                "michael hewson of cmc markets reckons the jobless rate could actually fall , to 4.8 % , .", 
+                "he points out that last month 's report showed a surprise fall in people \u0080\u0098signing on ' for unemployment benefit .", 
+                "given the decline in jobless claims in july this morning 's ilo unemployment number for july is likely to remain unchanged at 4.9 % , and could even improve to 4.8 % at a pinch , which would suggest for now little evidence of a negative spill over .", 
+                "there 's also a lot of angst in the financial markets today .", 
+                "investors are fretting about central bank policymaking , with the us federal reserve making a decision on interest rates next week .", 
+                "oil is also a concern , with predictions of an energy glut until mid-2017 .", 
+                "so shares have dropped in asia overnight , and we 're expecting a quietish morning in europe .", 
+                "ransquawk ( @ ransquawk ) asian equities traded with little firm direction in the wake of the downbeat wall street lead with energy prices hampering sentiment ransquawk ( @ ransquawk ) looking ahead , highlights include uk jobs report , doe crude oil inventories , new zealand gdp and a speech from rba assist gov debelle"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                9, 
+                14, 
+                6, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.12pm BST\n18:12\nMixed day for European markets\n", 
+                "block": "block-57d97c3ce4b05caf65ecd2ff"
+            }, 
+            {
+                "text": "\n\n4.01pm BST\n16:01\nUS crude stocks fall unexpectedly\n", 
+                "block": "block-57d963eae4b067ad30087a94"
+            }, 
+            {
+                "text": "\n\n2.49pm BST\n14:49\nWall Street edges higher\n", 
+                "block": "block-57d95345e4b05caf65ecd22d"
+            }, 
+            {
+                "text": "\n\n2.09pm BST\n14:09\nOil prices slide again\n", 
+                "block": "block-57d94adde4b0e813b694cf21"
+            }, 
+            {
+                "text": "\n\n1.27pm BST\n13:27\nStock market rallies after jobs report\n", 
+                "block": "block-57d936a4e4b05caf65ecd1a4"
+            }, 
+            {
+                "text": "\n\n11.20am BST\n11:20\nConcern over slowing wage growth\n", 
+                "block": "block-57d91eafe4b05caf65ecd0fd"
+            }, 
+            {
+                "text": "\n\n10.33am BST\n10:33\nPwC: Too early to see Brexit impact\n", 
+                "block": "block-57d91892e4b067ad3008791a"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Number of people out of work falls again, but average earnings grew more slowly over the summer.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/sep/14/uk-unemployment-data-brexit-stock-markets-business-live?page=with:block-57d963eae4b067ad30087a94#block-57d963eae4b067ad30087a94"
+                ], 
+                "text": "Oil slips despite surprise fall in US crude stocks.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/sep/14/uk-unemployment-data-brexit-stock-markets-business-live?page=with:block-57d90a83e4b067ad300878d7#block-57d90a83e4b067ad300878d7"
+                ], 
+                "text": "Unemployment rate remains at 4.9%", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/sep/14/uk-unemployment-data-brexit-stock-markets-business-live?page=with:block-57d91eafe4b05caf65ecd0fd#block-57d91eafe4b05caf65ecd0fd"
+                ], 
+                "text": "Concerns that real wages are falling.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Jobless total falls by 39,000", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "but claimant count is up by 2,400", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/sep/14/uk-unemployment-data-brexit-stock-markets-business-live?page=with:block-57d91892e4b067ad3008791a#block-57d91892e4b067ad3008791a"
+                ], 
+                "text": "PwC: No Brexit impact yet.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

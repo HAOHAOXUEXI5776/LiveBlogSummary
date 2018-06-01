@@ -1,0 +1,902 @@
+{
+    "blog_id": "24169515737b4eab78e7b53c5c4d20204c56a046", 
+    "title": "BBC Local Live: Northamptonshire for Tuesday 22 September 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-34281951", 
+    "summary": [
+        "a former teacher at brooke weston academy in corby has been arrested on sus of the possession of indecent images of children .", 
+        "a gasification plant in corby has been granted approval by the county council .", 
+        "news , sport , travel and weather updates resume at 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601862436000051029b5339", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from the team on local live today .", 
+                "we 'll be back tomorrow from 08:00 with all the latest news , sport , weather and travel for beds , herts and bucks ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56017de1360000a5019b5332", 
+            "title": "northampton school celebrates 100 years of education", 
+            "text": [
+                "today marks 100 years since the doors ofnorthampton school for girls first opened .", 
+                "students both past and present gathered for a. were treated to afternoon tea , and dozens of pupils competed in a centenary bake-off ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560163d7310000fe00fe023d", 
+            "title": "lakelands hos founder 'proud ' of its work", 
+            "text": [
+                "one of the founders of lakelands hos in corby says he 's proud of the work and service offered to patients and family members .", 
+                "vic hardy co-founded the hos with jean clarke in 1988 .", 
+                "this week there is a special fundraising and awareness drive in the town to highlight the work being done by the hos"
+            ], 
+            "author": [
+                "John Griff", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56017a91350000c40146f612", 
+            "title": "james delingpole : 'dave 's reputation enhanced by smoking cannabis '", 
+            "text": [
+                "journalist james delingpole has told bbc radio northampton he smoked cannabis with david cameron when they were both studying at oxford .", 
+                "mr delingpole , who lives near daventry , spoke to me earlier and said : `` i think this is the perfect non-scandal .", 
+                "yes , it 's interesting , but it 's not going to do anyone 's reputation any damage .", 
+                "if anything it will enhance dave 's reputation . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56016892350000230146f5e8", 
+            "title": "awareness week highlights the work of corby hos", 
+            "text": [
+                "all this week , people across corby are organising events to raise funds for lakelands hos", 
+                "i spent the afternoonhere , learning all about the hos its patients , staff and supporters .", 
+                "people have risen to the fundraising challenge , and have been hosting all kinds of events , from cake sales to social dances ."
+            ], 
+            "author": [
+                "John Griff", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56017bd3220000aa0123a36e", 
+            "title": "tonight 's news headlines : gasification plant an economy boost former corby teacher arrested on indecent images charge", 
+            "text": [
+                "tonight 's news headlines : gasification plant an economy boost former corby teacher arrested on indecent images charge"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56017248220000230023a35e", 
+            "title": "corby gasification plant : 'no cause for air quality concern '", 
+            "text": [
+                "the development consultants behind a gasification plant in corby , given the go ahead today , say there 's no evidence air quality will be compromised .", 
+                "leona quigley , from iceni projects , said : `` the planning application was supported by a full air quality analysis , that demonstrates the proposed facility will not have any adverse impacts . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560145d8220000220023a318", 
+            "title": "university of northampton project aims to change secondary school sport", 
+            "text": [
+                "the university of northampton 's institute of health and wellbeing has won a \u00a3 75,000 research bid to evaluate a groundbreaking new project which aims to change physical activity in secondary schools .", 
+                "more information on the project can be found on the university 's website ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560151bb220000120123a32b", 
+            "title": "concerns as gasification in corby gets approved", 
+            "text": [
+                "those against the gasification plant in corby - which was approved by northamptonshire county councillors earlier today - say they question the safety of turning waste into electricity .", 
+                "campaigner lee forster , who had previously set up a protest camps near the site , and others said they were also concerned about an increasing number of lorries on the roads ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601750d220000230023a363", 
+            "title": "parents alerted to arrest of former corby teacher", 
+            "text": [
+                "police are continuing their enquiries after a former teacher from brooke weston academy in corby was arrested on sus of the possession of indecent images of children .", 
+                "in a letter to parents , which was later posted on facebook , the school said he is a former member of the senior leadership team ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56017515220000230023a364", 
+            "title": "former corby teacher arrested", 
+            "text": [
+                "in a letter alerting parents of pupils at brooke weston academy in corby to news a former teacher has been arrested on sus of possessing indecent images of children , the head teacher and chairman of governors at the school say they are `` shocked and saddened '' .", 
+                "northamptonshire police say a 40-year-old man , formerly from corby , was arrested in august and has been released on police bail .", 
+                "enquiries are continuing ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5601732f2f00006f01c478ba", 
+            "title": "litter fines issued by northampton borough council", 
+            "text": [
+                "northampton borough council 's neighbourhood wardens have issued 16 people with \u00a3 80 fines as part of its 'love northampton - let 's keep it clean ' campaign .", 
+                "the recipients were fined for refusing to up their litter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56016bda350000c40146f5ec", 
+            "title": "corby gasification plant : 'waste will come from london , high wycombe , grantham , loughborough '", 
+            "text": [
+                "campaigners against a gasification plant in corby which was given the go-ahead by northamptonshire county councillors earlier , say they 're concerned corby could now take waste from towns 90 miles away .", 
+                "helen fursdon , who lives near the plant and spoke at the meeting , said : `` it 's not appropriate or fair that corby should deal with waste from outside of the county . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_34329424", 
+            "title": "northants dog to help sniff out declining species", 
+            "text": [
+                "harvest mice are hard to find , but its hoped a northamptonshire sniffer dog will help with a study into the species ' decline .", 
+                "tui the retriever is being trained by moulton college researcher emily howard williams , who hopes he will be able to identify the mice when presented with samples gathered from potential nest sites .", 
+                "the training is funded by the people 's trust for endangered species ."
+            ], 
+            "author": [
+                "Helen Burchell", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_34329423", 
+            "title": "northamptonshire sniffer dog trained in mouse detection", 
+            "text": [
+                "a dog is being trained to sniff out mice as part of a wildlife conservation project based at moulton college .", 
+                "retriever tui is being trained by researcher emily howard-williams , who is studying the decline of harvest mice in the uk ."
+            ], 
+            "author": [
+                "Helen Burchell", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56015ef736000036009b52ee", 
+            "title": "cygnet saved in oundle : rspca issue 'take care ' warning", 
+            "text": [
+                "rspca inspectors are urging people to take extra care when around wildlife , after a cygnet with metal lodged in its throat was rescued at the weekend .", 
+                "rspca inspector polly underwood , who attended incident on sunday , said : it was a two-inch , very thin rod of metal which had pierced the skin on his neck .", 
+                "we are hopeful that he will make a full recovery and will be returned to the wild very soon . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56015cb4350000690146f5d0", 
+            "title": "cobblers ' corry to have scan on knee injury", 
+            "text": [
+                "cobblers boss chris wilder has confirmed that midfielder paul corry has gone for a scan on a knee injury up in training .", 
+                "wilder said : these things happen in training , it 's a contact sport and we have to train how we play .", 
+                "we will wait for the results of the scan but it 's a disappointing one for us and for the player . ''"
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_560161f93600000e019b52f3", 
+            "title": "headlines : gasification plant approved northants struggle against the rain", 
+            "text": [
+                "these are the afternoon headlines :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56015ef0220000230023a336", 
+            "title": "cygnet with metal lodged in throat is rescued by rspca", 
+            "text": [
+                "a cygnet which had a small piece of metal lodged in its throat is expected to make a good recovery after being rescued by the rspca .", 
+                "the society was called on sunday after members of the public saw the young swan struggling to swallow at oundle wharf in station road , oundle ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560158632f00006f01c4788a", 
+            "title": "northants cricket : rain looks set to remain", 
+            "text": [
+                "there 's been no play so far in northamptonshire 's final county championship match of the season , against surrey at the oval .", 
+                "the forecast suggests there might not be much play to come either ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56015484220000230023a32d", 
+            "title": "long stretches of roadworks on motorways could be restricted", 
+            "text": [
+                "many of us are painfully aware of the miles of roadworks on the m1 through northamptonshire .", 
+                "but following growing complaints from motorists , it appears that the government is set to restrict the length of roadworks in the future .", 
+                "transport secretary patrick mcloughlin has reportedly ordered the highways agency to adopt new policies within a year ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601471f36000005019b52d1", 
+            "title": "northampton chronicle and echo : county firefighters to appear on bbc quiz show", 
+            "text": [
+                "five volunteer firefighters from northamptonshire will pit their wits against some of the most knowledgeable brains in the country on tv next week ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560141c72f00003800c47876", 
+            "title": "gasification plant in corby approved", 
+            "text": [
+                "i 've got more information on energy company green power 's successful bid for a gasification plant in corby .", 
+                "the site on the willow brook industrial estate already had planning permission to turn waste into energy , and following a county council decision earlier today , it will now move forward with its plans to turn waste into gas to generate electricity ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56014e76350000230146f5be", 
+            "title": "corby 's community champions to be recognised", 
+            "text": [
+                "people from corby who 've gone the extra mile to help others or their community will be recognised at the annual `` spirit of corby '' awards tonight .", 
+                "the ceremony takes place at the corby cube .", 
+                "categories include contribution to the arts , a local club or society , or the environment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_560146a23100002c00fe0218", 
+            "title": "by-election in burton latimer next month", 
+            "text": [
+                "a burton latimer town council by-election will be held on thurs 15 october 2015 .", 
+                "make sure you 're registered to vote"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56014393220000220023a314", 
+            "title": "latest headlines : corby gasification plant approved plan to consider reducing motorway roadworks", 
+            "text": [
+                "these are the lunchtime headlines :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560119652c0000aa262b6936", 
+            "title": "northampton chronicle & echo : no action over white wallaby death", 
+            "text": [
+                "police have said they are unable to investigate the death of a white wallaby that was apparently killed by a dog in northamptonshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56012cb3380000e5255cd790", 
+            "title": "inventor 's workshop offers 'honest industry opinion '", 
+            "text": [
+                "budding toy inventors from across the county are at whittlebury hall , which is playing host to the 2015 investors workshop .", 
+                "max ford , from ooba toys , told me : `` even if you do n't get the deal , just to hear people say its fab , and i think you will sell that , is validation . ''"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56013aa72f00003800c47866", 
+            "title": "scam warning from northamptonshire police", 
+            "text": [
+                "people are being warned about a new scam being carried out by someone claiming to be from our crime prevention team -"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56013eda2f00002f00c4786f", 
+            "title": "corby gasification plant gets the go ahead", 
+            "text": [
+                "in the past hour , northamptonshire county council has approved plans for a gasification plant for the willow brook industrial estate in corby .", 
+                "the company behind the plans , green power , says the plant will provide `` clean renewable energy '' and produce enough electricity for ten thousand homes ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "12:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560123972c0000b0262b694a", 
+            "title": "the next big thing for christmas 2016 ?", 
+            "text": [
+                "while the cream of the county 's inventors are at whittlebury hall near towcester today at the 2015 inventor 's workshop , i thought i 'd try and pitch an idea of my own .", 
+                "unsurprisingly , my gorilla detector has n't made the cut"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56012691350000d126666e26", 
+            "title": "kingsthorpe college students to judge short story contest", 
+            "text": [
+                "students from kingsthorpe college in northampton have been chosen as part of the judging panel for the bbc 's national short story competition .", 
+                "they will join students from 17 other schools and colleges across the country as `` shadow judges '' to give their views on which story deserves to win ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601335636000037009b52b1", 
+            "title": "breakingcorby gasification plant approved", 
+            "text": [
+                "northamptonshire county council has approved a gasification plant for corby .", 
+                "more to follow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601200e350000d126666e18", 
+            "title": "northants herald & post : healthwatch northamptonshire investigate hospital a & es", 
+            "text": [
+                "healthwatch northamptonshire has been investigating accident and emergency units at the county 's hospitals ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56011ba92d0000e4253ad9c4", 
+            "title": "inventors workshop offering 'honest feedback '", 
+            "text": [
+                "inventors of toys are being encouraged to attend the inventors workshop at whittlebury hall near towcester , but they may be given feedback which could bring them down to earth .", 
+                "max ford , managing director of ooba toys , said `` we 'll actually give you a honest industry avenue opinion on it .", 
+                "if you ask your friends and family , the chances are they 'll say it 's lovely . ''"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560129a72d0000eb253ad9d3", 
+            "title": "open evening at northampton international academy", 
+            "text": [
+                "parents wanting to send their children to the largest school in the county can find out more at an open evening later .", 
+                "the northampton international academy - based at the old royal mail sorting office on barrack road - will open to pupils from next year ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56012099380000ef265cd778", 
+            "title": "daventry express : runners celebrate great north run charity success", 
+            "text": [
+                "two runners are celebrating raising money for their chosen charities after taking part in the great north run ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5601213b3300007127ff5ed2", 
+            "title": "northampton town 's fan rep quit after # wewantanswers", 
+            "text": [
+                "northampton town supporters ' trust 's elected representative on the club 's board decided to leave his post after last week 's # wewantanswers campaignat the oxford united game .", 
+                "in a statement , mr clark said : i have done my best to create an effective link between the trust and the football club .", 
+                "but this has proved to be too difficult to achieve in the last few weeks . ''"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560118ba380000e5255cd76b", 
+            "title": "gasification plant plan for corby being discussed", 
+            "text": [
+                "councillors are discussing whether to give permission for a corby-based gasification plant , which developers say would power 10,000 homes .", 
+                "the company , green power , already has planning permission to turn waste into energy on the site at the willowbrook industrial estate , using different methods ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "10:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56011e0b350000d126666e13", 
+            "title": "cricket : start of surrey match delayed by rain", 
+            "text": [
+                "northants cricket", 
+                "northantsccc", 
+                "delayed start down in surrey .", 
+                "forecast is looking bad for the whole day .", 
+                "# norvsur", 
+                "delayed start down in surrey .", 
+                "forecast is looking bad for the whole day .", 
+                "# norvsur"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56011c6a2c0000b0262b693a", 
+            "title": "east stand frustration part of andy clark 's decision to quit northampton town board", 
+            "text": [
+                "as the northampton chronicle & echo reported , andy clark , northampton town supporters ' trust representative , has resigned from the board of the club in a statement last night .", 
+                "the interruption to the work on the east stand has also added to the frustrations of some fans . ''"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_560117e93300007127ff5ec2", 
+            "title": "latest headlines : corby gasification decision imminent borough council boundary expansion rejected", 
+            "text": [
+                "these are the headlines this morning :"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56011221350000cf26666dff", 
+            "title": "inventor 's workshop at whittlebury hall", 
+            "text": [
+                "some of the county 's most innovative inventors are at whittlebury hall near towcester today at the 2015 inventor 's workshop .", 
+                "one of the success stories from last year 's event is gillian logan , the founder of kids drawing kit skinny sketcher : a prototype which is now on sale in independent retailers ."
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "09:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56010f85350000d126666dfd", 
+            "title": "northampton stuck under slow moving rain", 
+            "text": [
+                "the county is currently stuck under an area of slow moving rain with some heavy bursts mixed in ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56010d5a3300006d27ff5eb3", 
+            "title": "northampton chronicle & echo : fans ' representative resigns from board of northampton town", 
+            "text": [
+                "the representative of fans on the board of northampton town has resigned citing difficulties creating an effective link between supporters and the club ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_560109e4350000d126666df1", 
+            "title": "boundary change plan sought to address income issues", 
+            "text": [
+                "a plan to extend the boundary of northampton borough council , rejected by councillors last night , had aimed to address perceived issues with the west northamptonshire joint core strategy .", 
+                "opposition labour politicians had argued the strategy is set to cause issues for northampton as much of the development will be placed just outside the borough boundary , meaning the town will face challenges associated with large scale development without benefiting from council tax income ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "09:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560107b2380000e5255cd748", 
+            "title": "borough council expansion plans rejected", 
+            "text": [
+                "a proposal to expand the boundary of northampton borough council has been rejected .", 
+                "oppostion labour councillors on the authority put forward the motion at last night 's full council meeting - but it was n't passed .", 
+                "some conservative councillors said they supported the sentiment behind the motion , but claimed it was `` undeliverable '' ."
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_560101a6380000dd255cd73c", 
+            "title": "weather : expect some rain", 
+            "text": [
+                "we will see a morning of sunshine and showers , some of which will be heavy .", 
+                "there 's a risk of thunder and hail , but it will become brighter around the middle of the day .", 
+                "later this afternoon cloud will spread in from the north with patchy rain in places later this evening .", 
+                "maximum temperature : 16c ( 61f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5600f9ef3300007127ff5e8f", 
+            "title": "corby gasification plant decision due", 
+            "text": [
+                "a decision on whether to grant permission for a gasification plant in corby is due this morning .", 
+                "the site , on the willowbrook industrial estate , already has planning permission to turn waste into energy .", 
+                "those opposed to the plans say there would be too many lorries transporting waste and too much pollution ."
+            ], 
+            "author": [
+                "Richard Haugh", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5600f5ca380000e3255cd725", 
+            "title": "morning headlines : gasification plant decision due boundary plans rejected", 
+            "text": [
+                "here are the stories making the news so far :"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5600f36a350000c726666dc6", 
+            "title": "hello and welcome to local live in northamptonshire", 
+            "text": [
+                "good morning , and welcome to today 's local live for northamptonshire .", 
+                "over the next 10 hours we 'll do our best to bring you the latest news , sport , travel and weather as it happens .", 
+                "you can get in touch on our facebook page or via twitter ."
+            ], 
+            "author": [
+                "Richard Haugh", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

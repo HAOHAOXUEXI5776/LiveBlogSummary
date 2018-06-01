@@ -1,0 +1,700 @@
+{
+    "blog_id": "bf2f394da08995ff69b1fa294a01d1628045fc4c", 
+    "title": "BBC Local Live: Northamptonshire on Monday, 23 May 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-36346730", 
+    "summary": [
+        "updates on monday , 23 may 2016 .", 
+        "four people believed to be from northampton die in a crash in oxfordshire .", 
+        "woman burned in northamptonshire hot-air balloon crash .", 
+        "annual rowell fair takes place in rothwell .", 
+        "missing teenage boy named by judge .", 
+        "formal bids for tata steel 's operations in the uk to be submitted .", 
+        "news , sport , travel and weather updates resume on tuesday at 08:00 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5743279ce4b020b885362f9a", 
+            "title": "that 's all from us today", 
+            "text": [
+                "we started the morning reporting on the rowell fair , and then the deadline for bidders for tata steel 's uk business passed , and this afternoon we reported the sad news that four people believed to be from northampton had died in a crash in oxfordshire .", 
+                "scroll back through the day to see how the news unfolded .", 
+                "we 'll be back at 08:00 tomorrow with more news , weather , sport and travel for northamptonshire .", 
+                "see you then ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57432701e4b0affe8ad09ed4", 
+            "title": "weather : dry tonight and tomorrow", 
+            "text": [
+                "any showers should die away through this evening to leave a largely dry night , with lows of about 6c ( 43f ) .", 
+                "tomorrow should be generally fine and dry with some sunshine , and temperatures up to 16c ( 61f ) .", 
+                "more details on the bbc weather website ."
+            ], 
+            "author": [
+                "Julie Reinger", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5743251ce4b05ae906b0c0d1", 
+            "title": "monaco gp : mercedes ca n't make any mistakes - wolff", 
+            "text": [
+                "boss toto wolff says brackley-based mercedes must not make any errors at the monaco grand prix , in the wake of his drivers crashing out of the last race in spain .", 
+                "lewis hamilton and nico rosberg collided while disputing the lead on the first lap in barcelona , leaving red bull and ferrari to fight it out .", 
+                "wolff said : `` it 's clear we are under attack from more than one angle .", 
+                "`` we can not afford to drop the ball so we must remain united and strong , and hit back hard this weekend . ''"
+            ], 
+            "author": [
+                "Andrew Benson", 
+                "Chief F1 writer"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5742f68ae4b05ae906b0bfd4", 
+            "title": "cobblers ' 'vietnamese fan base ' gets their hands on the league two trophy", 
+            "text": [
+                "northampton town and mascot clarence the dragon have been taking the league two trophy to some of the club 's sponsors , including the university of northampton", 
+                "northampton firm opus energy", 
+                "and moulton college", 
+                "last but not least we popped into @ twitterid to spread the season ticket word !", 
+                "not sure about that shirt !", 
+                "first time he 's seen a trophy in a while", 
+                "ha ha ha i like that one , who let the gunner in , woof , woof , woof , woof , woof , whooo let the gunner in , woof , woof , woof , woof , wooooof", 
+                "our vietnamese fan base posing for a @ twitterid @ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_574322e1e4b020b885362f7d", 
+            "title": "arrests made and vehicles seized after foreign criminal crackdown", 
+            "text": [
+                "last week we brought you news about northamptonshire police cracking down on criminals from overseas operating in the county .", 
+                "they have now given us more details of what they called operation trivium , which ran from monday to friday last week"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57431cf1e4b0affe8ad09e9e", 
+            "title": "five arrested in daventry pub raid", 
+            "text": [
+                "you may have seen in the local papers that 50 police officers raided a pub in daventry town centre on friday night .", 
+                "now northamptonshire police has released more details of the raid , including some", 
+                "five people were arrested for various drugs offences and a quantity of class a and b drugs were seized ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57431ad0e4b020b885362f54", 
+            "title": "how excalibur and liberty will join forces", 
+            "text": [
+                "as the deadline for bids for tata 's uk steel business ticked by this lunchtime , more details have emerged about how two of the bidders plan to join forces .", 
+                "it now emerges that there is a compromise position in which excalibur will back the liberty bid .", 
+                "a combined bid is thought to be popular with the government which has offered hundreds of millions in debt financing and an offer to take a stake of up to 25 % in the company that wins .", 
+                "tata employs 11,000 people in the uk , including nearly 600 in corby ."
+            ], 
+            "author": [
+                "Simon Jack", 
+                "BBC Business Editor"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5742f9cce4b020b885362eac", 
+            "title": "referrals to police over concerns about children trebles in the last three years", 
+            "text": [
+                "northamptonshire police and other organisations are staging a safeguarding week highlighting the exploitation and abuse of children in the county"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742ff9be4b020b885362ec9", 
+            "title": "safeguarding week to raise awareness of child abuse to prevent 'horrific crimes '", 
+            "text": [
+                "the nhs , the county council and the police are taking part in their first ever safeguarding week , to highlight the abuse and exploitation of children .", 
+                "one of the groups involved is the rise - reducing incidents of sexual exploitation - team at northamptonshire police .", 
+                "the man that runs the team , richard tompkins , says a week like this is important ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742f4a8e4b0affe8ad09ddf", 
+            "title": "tata bidders : management buyout , steel specialists , equity firms and a us billionaire", 
+            "text": [
+                "two companies have declared themselves as bidders for tata steel 's uk business , including the plant at corby , while there has been speculation about who the others are .", 
+                "so who is reported to be interested ?", 
+                "the best known is liberty house , run by sanjeev gupta , which publicly says it has bid , as has excalibur , the management and worker buyout team led by the senior tata director , stuart wilkie .", 
+                "hebei iron and steel group , china 's largest iron and steel company , is reportedly interested , as is indian steel company jsw steel and us recycler nucor .", 
+                "private equity firms and turnaround specialists endless and greybull captain may also bid , as could wilber ross , a us billionaire wall street investor , who once formed international steel group ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_574316f6e4b0affe8ad09e7d", 
+            "title": "four people thought to be from northampton killed in head-on oxfordshire car crash", 
+            "text": [
+                "two men and two women have been killed and a toddler injured in a head-on car crash in oxfordshire .", 
+                "the collision , involving two cars , happened on the shrivenham bypass , near swindon , at about 23:15 on sunday .", 
+                "four people in a citroen saxo , aged in their 20s and thought to be from northampton , were declared dead at the scene , police said .", 
+                "the occupants of a mercedes , including a three-year-old boy , were injured and taken to john radcliffe hospital , but their injuries were not believed to be life-threatening ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "22:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57431539e4b0affe8ad09e73", 
+            "title": "breakingfour die in car crash last night", 
+            "text": [
+                "four people , believed to be from the northampton area , have died after a car crash near swindon last night ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57430085e4b020b885362ed0", 
+            "title": "northampton announces pre-season friendly against wolves", 
+            "text": [
+                "league two champions northampton town will host championship side wolverhampton wanderers in a pre-season friendly in july .", 
+                "the cobblers will welcome wolves to sixfields on tuesday , 26 july , at 19.30 ."
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "22:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742f19fe4b020b885362e83", 
+            "title": "treasury say eu exit would 'lead to northamptonshire job losses ' but vote leave dismiss claims", 
+            "text": [
+                "the east midlands ' economy , including northamptonshire , would be tipped into recession and unemployment could rise by 37,000 if the uk voted to leave the eu , new analysis from the treasury shows .", 
+                "it says about 200,000 jobs in the region are linked to the uk 's exports to other eu countries .", 
+                "but vote leave 's iain duncan smith said people would not believe the treasury 's `` deeply biased view of the future '' .", 
+                "and brexit-supporting economist patrick minford said the study ignored all the `` upsides '' from leaving , including the money saved from not being a member of the eu 's common agricultural policy and customs union , and not having to abide by eu regulation ."
+            ], 
+            "author": [
+                "BBC Politics"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742e82ce4b020b885362e4f", 
+            "title": "tata steel bidders willing to work together", 
+            "text": [
+                "two of the bidders for tata 's uk steel plants are willing to work together , the bbc understands .", 
+                "liberty house and a management buyout team will submit separate bids for tata uk , including the plant in corby , when the deadline closes today .", 
+                "however , they plan to state in the bid documents that they are willing to work in partnership on a takeover .", 
+                "it comes after reports the management buyout group , excalibur steel , met for talks last week with liberty ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "21:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742d09ee4b020b885362dd0", 
+            "title": "ostriches , camels and monkeys legally owned in northamptonshire", 
+            "text": [
+                "wild animals including lions , tigers , crocodiles , rattlesnakes and zebras are being kept legally on private property across the uk , figures have revealed .", 
+                "east northamptonshire council has issued licences for five camels , 15 ostriches and one capuchin monkey ( below )", 
+                "one white-fronted lemur and seven ring-tailed lemurs ( below )", 
+                "and five crab-eating macaques ( below ) .", 
+                "a what ?", 
+                "!"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742c1bce4b0affe8ad09cde", 
+            "title": "rugby : uncapped harrison in england 's squad to tour australia", 
+            "text": [
+                "northampton saints ' flanker teimana harrison is one of four uncapped players who will be heading to australia for england 's three test tour next month .", 
+                "he will joined by saints team-mates courtney lawes , paul hill and the england captain dylan hartley ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "20:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742eec9e4b05ae906b0bfa8", 
+            "title": "'major gas leak ' in rothwell", 
+            "text": [
+                "it 's been quite a morning in rothwell .", 
+                "first there was the rowell fair and now disruption of another kind with a gas leak in the area .", 
+                "there are road closures around the leak .", 
+                "11:34 dealing with major gas leak at rothwell medical centre , a6 desborough road closed , avoid the area # rothwell"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742e028e4b05ae906b0bf54", 
+            "title": "local papers : charity campaigns and unsung heroes", 
+            "text": [
+                "the northampton chronicle and echo is reporting about `` glow gold september '' , a childhood cancer awareness campaign to get iconic buildings throughout northamptonshire lit up gold during september .", 
+                "a northampton man is set to cycle more than 100 miles to raise money for charity anthony nolan after a bone marrow transplant saved his life , according to the northants herald & post .", 
+                "meanwhile , the northamptonshire telegraph is appealing for young unsung heroes to be nominated for an award ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "19:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742c348e4b05ae906b0bec5", 
+            "title": "tata deadline for steel bidders , with seven in the running", 
+            "text": [
+                "tata in india is expected to decide this week which bidders will go forward in the sale process for its uk steel operations .", 
+                "today is the deadline for interested parties ' bids and between one and three companies are expected to go forward to the next stage .", 
+                "tata is aiming for the end of june to complete the sale .", 
+                "it has already confirmed seven bidders for the steel plants and businesses , involving more than 11,000 jobs , including 578 in corby ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742e1dde4b0affe8ad09d8e", 
+            "title": "northants fail to score any batting points once again away from wantage road", 
+            "text": [
+                "less than an hour into day two and northants are all out for 176 .", 
+                "it 's the third straight away game with no batting points .", 
+                "the county will now be hoping to restrict gloucestershire in their reply , or this game could quickly get away from them .", 
+                "you can join me for full commentary online or via the bbc sport app ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742cd0fe4b05ae906b0bef4", 
+            "title": "the rowell fair : rum and milk , reading the charter and music", 
+            "text": [
+                "now let 's head back to rothwell", 
+                "after the rowell fair proclamation ceremony the pub landlords then hand out drinks to everyone .", 
+                "the bailiff traditionally knocks back rum and milk and the halberdiers are given beers .", 
+                "the bailiff and his entourage then proceed on horseback to all the pubs in the town stopping at each to read the charter , knock back the booze , engage in horseplay and so on .", 
+                "it can all take an hour .", 
+                "along the way they are accompanied by the rowell fair society band", 
+                "british eccentricity at its best !"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742d8efe4b0affe8ad09d54", 
+            "title": "teenage boy missing from northampton named by judge", 
+            "text": [
+                "a teenage boy who disappeared with his mother a year ago has been named by a high court judge in an `` exceptional '' attempt to trace him .", 
+                "moses john ( right ) , 14 , vanished about a year ago from the family 's home in northampton .", 
+                "it is believed his mother , pauline watson ( left ) , 46 , has links to several london boroughs .", 
+                "northamptonshire county council , which has responsibility for his welfare , said the judge , mr justice michael keehan , had agreed to disclose the identity of the boy because of the level of concern about his wellbeing ."
+            ], 
+            "author": [
+                "Andrew Woodger", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742d311e4b0affe8ad09d2b", 
+            "title": "northants thankful to crook after seven wickets fall in bristol", 
+            "text": [
+                "a poor day for northants with the bat yesterday", 
+                "gloucestershire took wickets throughout the day , with steven crook 's 43 not out from 68 balls being the main resistance , as northants ended on 134-7 on a shortened day .", 
+                "away from home , northants have been especially poor with the bat and it will take a great performance this morning to get a first away batting bonus point this season .", 
+                "we have full commentary online or via the bbc sport app ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742d21de4b05ae906b0bf0f", 
+            "title": "weather : sunshine and showers", 
+            "text": [
+                "this afternoon scattered showers , possibly heavy , are expected to develop across the county , although there should still be sunny spells between these with a high of 18c ( 64f ) .", 
+                "you can see my full forecast below", 
+                "there are more details on the bbc weather website ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742c764e4b020b885362d9f", 
+            "title": "rowell fair first celebrated 812 years ago", 
+            "text": [
+                "the rowell fair is the celebration of the granting of the rowell charter , which was given to rothwell by king john allowing the town to have a market on a monday morning .", 
+                "the fair was first officially held in 1204 and one of the many traditions is that the bailiff , who reads a proclamation at 06:00 , is accompanied by a bodyguard of halberdiers ( men armed with a halberd - a two-handed pole weapon ) .", 
+                "here are this year 's halberdiers"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742b523e4b0affe8ad09c99", 
+            "title": "rowell fair 'very strange , but lovely '", 
+            "text": [
+                "the rowell fair in rothwell traditionally starts with a proclamation by the chairman and bailiff of the rowell fair society on the stroke of 06:00 at the town 's holy trinity church .", 
+                "that man is alan mills"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742b124e4b020b885362d21", 
+            "title": "disco at 10am on monday morning ? welcome to rothwell !", 
+            "text": [
+                "i 'm in rothwell this morning where one of northamptonshire 's oldest traditions - the rowell fair proclamation - has been read .", 
+                "the fair as been held in the town for more than 800 years .", 
+                "and it is surely the only place on a monday morning where you can go to a disco at 10:00"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5742afd4e4b0affe8ad09c79", 
+            "title": "power line 'did not come down ' after hot-air balloon crash", 
+            "text": [
+                "a western power distribution spokesman said it had a `` 33,000-volt circuits trip '' after eyewitnesses watched a hot-air balloon strike power lines near earls barton yesterday .", 
+                "a spokesman said engineers inspected the line and `` completed minor repairs '' , adding `` the line did not come down '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742af45e4b0affe8ad09c75", 
+            "title": "'blue sparks ' as hot-air balloon 'hits power cables '", 
+            "text": [
+                "i was at the scene yesterday where the hot-air balloon came down near a car-boot sale at whites nurseries in earls barton .", 
+                "those who saw it say they saw blue sparks as it hit power cables .", 
+                "i 've been told that after this , the balloon was seen to catch fire and plummet about 100ft ( 30m ) into a field .", 
+                "some eyewitnesses said the pilot and his passenger were throwing gas canisters out of the balloon 's basket as it crashed ."
+            ], 
+            "author": [
+                "Kris Holland", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742ace6e4b05ae906b0be57", 
+            "title": "hot-air balloon 'burst into flames '", 
+            "text": [
+                "the air accidents investigation branch is looking into the cause of yesterday 's hot-air balloon crash in earls barton .", 
+                "one eyewitness , ian , said : `` we were at the car boot at whites nursery and a hot-air balloon came over and there was a lady and gentleman - they were waving at everyone .", 
+                "`` it suddenly disappeared over towards the trees and then burst into flames '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742aaade4b05ae906b0be3f", 
+            "title": "woman burned in northamptonshire hot-air balloon crash", 
+            "text": [
+                "the major news yesterday was that a hot-air balloon crashed and burst into flames in a field in earls barton .", 
+                "the passenger is recovering in hospital with burns .", 
+                "the 64-year-old male pilot was not injured .", 
+                "an eyewitness filmed the moment the balloon came down", 
+                "we 'll bring you any more updates on this story today as we get them ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5742a9c2e4b020b885362cee", 
+            "title": "welcome to local live for northamptonshire", 
+            "text": [
+                "good morning , it 's monday and the start of another week .", 
+                "if you 're in rothwell , your monday morning would have started like this", 
+                "it 's the annual rowell fair , and we 'll be bringing you a flavour of that this morning , plus all the news , sport , weather and travel you need .", 
+                "if you want to get in touch then please email me , tweet us , or head to facebook ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

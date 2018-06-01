@@ -1,0 +1,686 @@
+{
+    "blog_id": "1147fdeb10e8bf498b0430c7cf388c0754a632ca", 
+    "title": "BBC Local Live: Updates for Norfolk on Monday, 7 December 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-34937237", 
+    "summary": [
+        "closing headlines on monday , 7 december 2015 .", 
+        "east of england co-op loses out on \u00a3 43,000 because of a glitch with its tills .", 
+        "a man has been arrested after a stabbing in norwich at the weekend .", 
+        "six catholic primary schools are to become academies .", 
+        "more news , sport , travel and weather from 08:00 on tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665c262190000e1ebf4108a", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "thank you for joining us for monday 's norfolk live .", 
+                "we 'll be back tomorrow from 08:00 with the news , sport , travel and weather updates for you .", 
+                "if there 's anything happening in your part of the county that you 'd like to share with us , you can send us an email , a tweet or contact us on facebook ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665be303e0000fce56bcd4a", 
+            "title": "weather : dry night , with rain towards dawn", 
+            "text": [
+                "after a dry and clear start to the evening , cloud will thicken bringing outbreaks of rain towards dawn..", 
+                "it will feel mild , with a moderate southerly wind .", 
+                "temperatures of 9c ( 48f ) .", 
+                "cloudy and breezy with outbreaks of rain , heavy in places .", 
+                "becoming brighter in the afternoon with sunny spells and scattered showers .", 
+                "temperatures reaching 13c ( 55f ) .", 
+                "you can find more details on thebbc weather website ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665c7043e00006aecb3d750", 
+            "title": "weather explainer : red skies science", 
+            "text": [
+                "if you were lucky enough to see some of the amazing red skies we had at the weekend , you may have wondered why they 're so spectacular some days , and non-existent on other occasions .", 
+                "dan holley has the answers :"
+            ], 
+            "author": [
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665b7ff3e00007deab3d717", 
+            "title": "christmas dinner for soldiers", 
+            "text": [
+                "soldiers from the princess of wales 's royal regiment tucked into an early christmas dinner , after finishing their final weekend training exercise of the year .", 
+                "they 'd been honing their skills in urban warfare on the stanford training area , near thetford .", 
+                "as part of a long-standing tradition , the meal was served by officers ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665bb183e0000fee56bcd3c", 
+            "title": "loo flushed with success", 
+            "text": [
+                "the toilets on cromer pier have scooped a national award in the beaches category of the 2015 loo of the year awards .", 
+                "the toilets were refurbished following severe damage during the tidal surge in december 2013 , and have energy saving lighting and dementia-friendly signage .", 
+                "councillor john rest said all those involved in the design and upkeep of the loos were to be congratulated , including the contractors ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5665c1ea190000e1ebf41085", 
+            "title": "headlines : council accused of 'pursuing own agenda ' over removal of school governors canaries ' director alan bowkett steps down", 
+            "text": [
+                "the stories making the news in norfolk this afternoon :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665c0083e0000fee56bcd52", 
+            "title": "council 'pursuing own agenda ' over removal of school governors , says trust", 
+            "text": [
+                "the foundation trust that oversees old buckenham community primary school has raised concerns with norfolk county council over the removal of governors and the appointment of an interim executive board ( ieb ) to run the school .", 
+                "in a statement , it said implementing the ieb was `` an unnecessary step '' , adding `` we 've raised our concerns formally with the relevant parties '' .", 
+                "`` unfortunately , despite being a partner in the trust , the local authority has chosen to pursue its own agenda in the matter and has not worked cooperatively with us in any way . ''"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665b4c83e0000fde56bcd1b", 
+            "title": "county council confirms removal of primary school 's governors", 
+            "text": [
+                "norfolk county council has confirmed the removal of the board of governors from old buckenham community primary school , judged `` inadequate '' by ofsted .", 
+                "in a statement gordon boyd , assistant director for education , said the council was not confident that the governors `` could quickly support the improvement that the school needs '' and said inspectors agreed the governors had been slow to respond fully to an external review of governance and `` were not effectively holding school leaders to account. ``", 
+                "the education secretary upheld an application from the council to replace the governors with an interim executive board .", 
+                "it said the governors and acorn trust , which runs the school , were consulted ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665b8cf3e00007deab3d71c", 
+            "title": "norfolk fire officer helps in cumbria", 
+            "text": [
+                "a fire officer from norfolk is in cumbria , advising emergency services on how to deal with theheavy flooding that hit the area this weekend .", 
+                "peter holliday is one of 40 national tactical advisers in the country , and has been helping hundreds of people whose homes have been flooded ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665b1963e000073ebb3d6fa", 
+            "title": "canaries director leaves the club", 
+            "text": [
+                "alan bowkett , who has stepped down as norwich city chairman , was appointed to the post in 2009 after the canaries were promoted to league one .", 
+                "since then , the club has returned to the premier league twice .", 
+                "mr bowkett has also left his role as a director but the club says the ownership of norwich city is unaffected by the change , and in a statement on its website thanks mr bowkett for his contribution ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665821c19000072e7f40f83", 
+            "title": "ben youngs commits to leicester", 
+            "text": [
+                "norfolk scrum-half ben youngs has signed anew contractwith leicester tigers , ending speculation linking him with a move to bath .", 
+                "the 26-year old has more than 50 caps for england and was part of their disappointing world cup campaign .", 
+                "youngs joined the tigers in 2006 , having played for holt .", 
+                "his brother tom also plays for leicester ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665ab4e3e000001e56bccf7", 
+            "title": "breakingcanaries chairman steps down", 
+            "text": [
+                "norwich city chairman alan bowkett has stepped down from his post , and as a director of the club .", 
+                "mr bowkett joined the board of directors in 2009 .", 
+                "the club has been working to refresh the board , and will be making an announcement about new directors and a new chairman in the next few weeks ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56658ced3e00005ae26bcc6a", 
+            "title": "weather : mild and breezy", 
+            "text": [
+                "a mild and breezy afternoon , with a few spots of rain .", 
+                "temperatures around 12c ( 54f ) .", 
+                "cloudy thickening overnight , with rain later .", 
+                "staying mild , with temperatures around 10c ( 50f )", 
+                "there 's more information on the bbc weather website"
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566594223e000049e36bcc89", 
+            "title": "hellesdon hedgehog appeal", 
+            "text": [
+                "a hellesdon wildlife enthusiast is championing local hedgehogs and asking residents to help ensure these endearing little creatures are enjoyed here for years to come ."
+            ], 
+            "author": [
+                "Just Regional"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566544833e00009cde6bcb25", 
+            "title": "canaries facing a battle for survival", 
+            "text": [
+                "the back page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56658f4a19000055e8f40fae", 
+            "title": "cash machine plans for reepham phone box", 
+            "text": [
+                "a phone box in reepham could become a cash point .", 
+                "the town has been without a bank since the hsbc closed in october .", 
+                "now there are plans to put an atm in the red phone box in the market place .", 
+                "for most of us it 's the best possible outcome retaining the historic phone box in its location and providing us with a replacement atm . ''"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56658b703e000049e36bcc65", 
+            "title": "motorcyclist hospitalised after attleborough collision", 
+            "text": [
+                "a 73-year-old motorcyclist was hospitalised after a collision in attleborough yesterday ."
+            ], 
+            "author": [
+                "Diss Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566584163e0000c7e5b3d636", 
+            "title": "governors removed from old buckenham primary school", 
+            "text": [
+                "the governors of a south norfolk primary school have been removed , with an interim executive board taking their place .", 
+                "parents of pupils at the old buckenham community primary school met with the governors recently , and are understood to have been `` generally supportive '' of their work .", 
+                "an ofsted report in march rated the school as `` inadequate '' , highlighting `` serious weaknesses '' in leadership , and behaviour and safety of pupils , but a second monitoring inspection last month reported effective action had been taken towards addressing these issues ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56657ce519000050e6f40f6d", 
+            "title": "government doing all it can to help flood victims , says liz truss", 
+            "text": [
+                "environment secretary and mp for south west norfolk liz truss says the government is doing all it can to assist those affected by flooding in lancashire and cumbria .", 
+                "the military , environment agency , fire and rescue services and mountain rescue services are all operating , after storm desmond wreaked havoc over the weekend .", 
+                "ms truss says the government will be investing \u00a3 2.3bn over the next six years in more flood defences , to make sure people are protected ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "13:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56657bcf19000072e7f40f62", 
+            "title": "canaries await fa cup draw", 
+            "text": [
+                "norwich city will discover their opponents in the third round of the fa cup this evening .", 
+                "the canaries will be ball number 29 in the draw which will be broadcast live on on bbc two and the bbc sport website .", 
+                "norwich city were knocked out in the third round last year when they lost at preston north end , a match which turned out to be neil adams ' last as manager ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "12:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566578773e0000c7e5b3d602", 
+            "title": "the headlines : norfolk mp and minister says government will assist north of england flood victims six catholic primary schools to become academies", 
+            "text": [
+                "the headlines this lunchtime :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56656a6d3e0000a0df6bcbd9", 
+            "title": "swimmers brave the cold and choppy waters at fritton lake", 
+            "text": [
+                "hardy swimmers braved the waters at fritton lake , near great yarmouth , this weekend .", 
+                "they 're members of the open water swimming club , and meet every saturday .", 
+                "the club , based at the outdoor centre , does n't take new members from the end of october , saying people need to become accustomed to the challenges of open water swimming before the water becomes colder ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566561823e0000c7e5b3d5ab", 
+            "title": "former beautiful south pair to play forest gig", 
+            "text": [
+                "music duo paul heaton and jacqui abbott , formerly of the beautiful south , are to perform live in thetford forest in july .", 
+                "they will perform material from their new albumb , `` wisdom , laughter and lines '' , and songs from the beautiful south and the housemartins .", 
+                "tickets for the concert on 2 july will go on sale on friday ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5665435c19000069e2f40e6f", 
+            "title": "trading places", 
+            "text": [
+                "the back page of today 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56654ad73e0000b3e2b3d541", 
+            "title": "head teacher disputes calls for changes to state-funded faith schools", 
+            "text": [
+                "the head teacher of two faith schools in west norfolk says it 's important for pupils to learn about religion and have the chance to take part in acts of worship .", 
+                "sarah bocking , head of two church schools near hunstanton , says her schools welcome everybody and that `` children should learn about religion and make their own decisions '' .", 
+                "the commision on religion and belief in public life wants school admissions to no longer be based on a pupil 's faith ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566544223e0000b5e2b3d523", 
+            "title": "thanks for saving our baby 's life", 
+            "text": [
+                "the front page of today'snorwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5665431019000069e2f40e6c", 
+            "title": "help save a life this christmas", 
+            "text": [
+                "the front page of today'seastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566526981900006ae2f40e15", 
+            "title": "stars sign batchelor for 2016", 
+            "text": [
+                "king 's lynn stars have announced that troy batchelor is joining them for their 2016 elite league campaign .", 
+                "the australian previously rode for lynn in 2005 and 2006 .", 
+                "the stars though have lost the services of lewis kerr after deciding to switch their home race nights from wednesday to thursday for next season ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "09:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566540eb3e0000b4e2b3d515", 
+            "title": "catholic primary schools to become academies", 
+            "text": [
+                "six catholic primary schools across norfolk are going to become academies , joining a new chain overseen by notre dame high school in norwich .", 
+                "it will be known as the st john the baptist catholic multi-academy trust .", 
+                "the schools , in beccles , bungay , gorleston and norwich , say the move will help maintain them as faith schools ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "09:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665258e3e0000a2e2b3d4be", 
+            "title": "neil admits canaries were n't good enough", 
+            "text": [
+                "norwich city are only outside the premier league 's relegation zone on goal difference after their 2-0 defeat at watford .", 
+                "bournemouth 's surprise 1-0 win at chelsea and newcastle 's 2-0 win over liverpool dragged the canaries to the brink of the bottom three .", 
+                "city boss alex neil told me after the game : `` the players have got to have a look at themselves in terms of performance today . ''"
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566537441900006ce2f40e2d", 
+            "title": "weather : mild and breezy", 
+            "text": [
+                "mild and breezy , with brighter spells later .", 
+                "temperatures reaching 13c ( 55f ) .", 
+                "this evening will start dry but a band of rain will push in from the west later .", 
+                "temperatures falling to 9c ( 54f ) .", 
+                "more information is available on bbc weather ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56653f483e0000afe2b3d50a", 
+            "title": "man arrested after city centre stabbing", 
+            "text": [
+                "a man has been arrested after another man was stabbed in norwich at the weekend .", 
+                "police were called to a property in magdalen road , norwich , on sunday morning after a man in his 40s was stabbed .", 
+                "he was taken to hospital but discharged after treatment .", 
+                ".", 
+                "a man in his 30s was arrested at the scene , and has been bailed while investigations continue ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56653d513e0000b8dd6bcb04", 
+            "title": "computer glitch gives unexpected discount to shoppers", 
+            "text": [
+                "a supermarket chain with dozens of stores in norfolk says it 's lost out on \u00a3 43,000 in sales because of a problem with its tills .", 
+                "a change was made to the east of england co-op 's computers to give customers at one shop in essex a 20 % discount .", 
+                "but a computer glitch meant the discount was offered across stores in norfolk , suffolk and essex .", 
+                "the problem has now been fixed ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56653b0c1900007be2f40e43", 
+            "title": "the early headlines : computer glitch costs stores thousands arrest over city stabbing", 
+            "text": [
+                "the stories making the news this morning :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5665382319000069e2f40e31", 
+            "title": "welcome to norfolk live", 
+            "text": [
+                "hello and welcome to a new week on norfolk live .", 
+                "we 'll have the day 's news , sport , travel and weather updates from now until 18:00 .", 
+                "you can get in touch with us on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Norfolk Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

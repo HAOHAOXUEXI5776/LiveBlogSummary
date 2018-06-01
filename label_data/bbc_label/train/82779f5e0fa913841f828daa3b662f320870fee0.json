@@ -1,0 +1,965 @@
+{
+    "blog_id": "82779f5e0fa913841f828daa3b662f320870fee0", 
+    "title": "BBC Local Live: Cambridgeshire - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-cambridgeshire-40462221", 
+    "summary": [
+        "updates on friday , 7 july 2017 .", 
+        "posh and u 's to meet in first competitive fixture for years .", 
+        "a1101 shut after crash .", 
+        "greater anglia apologise over norwich-cambridge disruption ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "map_40520989", 
+            "title": "tiger death keeper mum 's charity skydive", 
+            "text": [
+                "tiger death keeper mum 's charity skydive"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595fb65de4b08315298bfc4e", 
+            "title": "our live coverage for the day", 
+            "text": [
+                "that 's it for live updates for today and this week .", 
+                "scroll back through today 's feed for anything you may have missed , but we 'll be back again with our regular updates of news , sport , travel and weather for cambridgeshire .", 
+                "have a great weekend ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_40538124", 
+            "title": "parkrun turns pink for cancer victim", 
+            "text": [
+                "parkrun turns pink for cancer victim"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595fb95be4b08315298bfc61", 
+            "title": "weather : cloudy with possibility of sharp showers", 
+            "text": [
+                "cloud will develop from the north west bringing a small chance of isolated sharp showers across the bbc east region tonight .", 
+                "but it will remain dry for many areas with clear spells later .", 
+                "light rain or drizzle is possible across western counties later as the temperature falls to 12c ( 54f ) in places .", 
+                "saturday will be another dry day with sunny spells and some cloud and it will be cooler on the coast .", 
+                "maximum temperature : 23c ( 76f )", 
+                "more details from bbc weather :"
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595fba9ce4b08315298bfc68", 
+            "title": "rail line reopens after lightning strike", 
+            "text": [
+                "greater anglia is reporting that the norwich-cambridge line is now open again .", 
+                "it had been closed following a lightning strikes on overhead cables between attleborough and thetford in norfolk and between shippea hill and ely in cambridgeshire .", 
+                "however , delays are expected as services get back to normal .", 
+                "17:18 - # attleborough ( lines are now open ) & some other updates to note here good service other routes .", 
+                "rs"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f99cde4b0f832d106a681", 
+            "title": "elsewhere in cambridgeshire", 
+            "text": [
+                "let 's take a quick look at some of the other stories being reported in cambridgeshire today :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f5622e4b025ab5160fe68", 
+            "title": "foal rescued from river", 
+            "text": [
+                "this forlorn foal had to be rescued by firefighters after falling into the river off mill road in buckden .", 
+                "it went over the top of a weir before getting stuck downstream .", 
+                "the baby horse was saved using a flotation device and a harness , which guided it back on to the river bank .", 
+                "james ball , from st neots fire station , said the foal was `` pretty lucky '' .", 
+                "the animal escaped largely unhurt and only had a small graze to one of his shins , he said ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f8f66e4b0f832d106a639", 
+            "title": "a1101 crash : only 'slight injury ' reported", 
+            "text": [
+                "just to update you on our post this morning", 
+                "fortunately only one person received `` slight injury '' when a lorry and a car crashed on the a1101 near wisbech , according to police .", 
+                "they were taken to hospital to receive further treatment .", 
+                "the crash happened at about 08:45 .", 
+                "the road has since reopened ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f8547e4b0f832d106a5ea", 
+            "title": "ely bypass delayed", 
+            "text": [
+                "the opening of the new \u00a3 36m ely southern bypass has slipped back by about three months .", 
+                "the route - to connect stuntney causeway to angel drove and remove congestion from ely station - was due to open next spring .", 
+                "however , it wo n't now be ready until late summer 2018 because of complications moving a high voltage power cable .", 
+                "bob menzies , from cambridgeshire county council , admitted it was disappointing", 
+                "ely bypass : @ twitterid tell me planned opening pushed back around 3 months to late summer 2018 as problem moving electricity cable @ twitterid", 
+                "bob menzies from @ twitterid explains why the ely bypass opening has been pushed back @ twitterid", 
+                "oh that 's a shocker ! ! ! ! !", 
+                "lol"
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40533502", 
+            "title": "tied-up children sent text for help", 
+            "text": [
+                "tied-up children sent text for help"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f512be4b08315298bf9e1", 
+            "title": "rogue gardener targeting victims", 
+            "text": [
+                "a rogue trader targeting elderly residents across st ives and huntingdon is being hunted by police .", 
+                "the offender has been offering to do gardening work at a reasonable price .", 
+                "however , he asks them to pay up front to cover the cost of tools and then does n't complete the agreed work .", 
+                "three incidents in the area in the last month are believed to be linked :", 
+                "the suspect is described as white , about 5ft 8in tall , aged in his early 40s and with short dark receding hair .", 
+                "angie wilson , from cambridgeshire police , said : `` to reduce the risk of becoming a victim of a rogue trader we advise you to be very wary of giving work to anyone cold calling at the door or from a flyer posted through your letterbox .", 
+                "`` the price may seem reasonable at first and this is designed to gain your trust .", 
+                "however , very quickly you will be asked for more money in order to complete the job , whilst the offenders do very little work .", 
+                "`` my advice would be not to pay them a penny until the job is complete and you are completely satisfied .", 
+                "and if a gardener needs money to buy tools then he 's in the wrong job .", 
+                "do n't fall for it . ''"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f5b90e4b025ab5160fe89", 
+            "title": "loss of rail services between norwich and cambridge 'frustrating '", 
+            "text": [
+                "we 've been following the major disruption to train services between norwich and cambridge following a storm yesterday .", 
+                "network rail is trying to repair it but at the moment services via thetford , brandon and ely have been suspended .", 
+                "lucy wright , of greater anglia railways , told the bbc : `` lightning struck in the attleborough area which means we ca n't run services at all on the norwich to cambridge line .", 
+                "`` it is very frustrating and out of our control .", 
+                "we do apologise to passengers . ''"
+            ], 
+            "author": [
+                "Nic Rigby", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f5bb2e4b08315298bfa17", 
+            "title": "posh and u 's to meet in first competitive fixture for years", 
+            "text": [
+                "peterborough united , cambridge united and northampton town will all be placed in the same group in next season 's efl trophy .", 
+                "it 'll be the first time county rivals posh and u 's will meet in a competitive fixture since december 2001 .", 
+                "the fourth side - an invited academy team - will be announced next week .", 
+                "the dates for the ties are yet to be announced ."
+            ], 
+            "author": [
+                "Peter Swan", 
+                "BBC Radio Cambridgeshire sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f42e5e4b025ab5160fe08", 
+            "title": "greater anglia apologise over norwich-cambridge disruption", 
+            "text": [
+                "greater anglia have issued a statement on the disruption to the norwich-cambridge rail line :", 
+                "`` train services are currently suspended between norwich and ely , owing to damaged signalling equipment caused by an electrical storm lightning strike on thursday , 6 july .", 
+                "`` network rail is working with its suppliers to rectify the fault , however , there will be no services between norwich and ely until further notice and customers are advised not to travel .", 
+                "`` we apologise to passengers for the severe disruption and inconvenience caused .", 
+                "`` customers travelling between norwich and cambridge can travel via stowmarket .", 
+                "tickets dated 7 , july 2017 will be valid for use on saturday , 8 july 2017 between norwich and cambridge .", 
+                "`` customers who have been affected by the disruption can claim compensation at this website . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f477ce4b08315298bf9b7", 
+            "title": "a1101 shut after crash", 
+            "text": [
+                "the a1101 near wisbech is currently closed due to a crash .", 
+                "police say a car and a lorry are involved .", 
+                "it happened about 08:45 , with injuries not yet known at this stage .", 
+                "we 'll keep you updated when we know more .", 
+                "# a1101 # leverington road closed due to a police incident delyas likely please avoid if possible"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10731889", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f2ea2e4b025ab5160fdab", 
+            "title": "lightning strike delays norwich-cambridge trains", 
+            "text": [
+                "trains between norwich and cambridge have been cancelled until further notice because of a lightning strike .", 
+                "commuters faced long delays yesterday as services between norwich and diss , london , cambridge and ipswich were cancelled or delayed following thunder storms .", 
+                "the fire service was called out to deal with flash flooding incidents across norfolk .", 
+                "harford manor school in norwich is closed this morning after the school has flooded following an electrical fault .", 
+                "stations affected include ely , lakenheath , brandon , thetford , attleborough and wymondham .", 
+                "for the latest , visit the greater anglia website , or follow them on twitter .", 
+                "# attleborough - during the storm yesterday , lightning damaged the signalling between thetford & attleborough & between shippea hill & ely", 
+                "thought it was still semaphore signals there", 
+                "snorks they replaced the signalling a few years back .", 
+                "also the red flag man law in front of cars has now been dropped .", 
+                "no red flags even in n norfolk ?", 
+                "you jest"
+            ], 
+            "author": [
+                "Nic Rigby", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595f2fa8e4b08315298bf949", 
+            "title": "weather : dry and very warm but cloudy later", 
+            "text": [
+                "bright or sunny spells will dominate and it will become very warm in a light breeze although cloud cover will increase in places .", 
+                "some rain showers are expected during a very muggy night .", 
+                "maximum temperature : 27c ( 81f )", 
+                "more details from bbc weather :"
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595f31bae4b08315298bf957", 
+            "title": "good morning", 
+            "text": [
+                "welcome back to live updates for cambridgeshire on friday , 7 july .", 
+                "we 'll bring you live news , sport , weather and travel updates from around the county until 18:00 .", 
+                "first off , a look to the sky , and it appears something in particular has caught the eye of a couple of you", 
+                "a full forecast for the day is on the way .", 
+                "you can get in touch with the team by email , twitter and facebook ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e633ae4b0f832d106a25d", 
+            "title": "our live coverage for the day", 
+            "text": [
+                "that 's it for today 's live update , we 'll be back tomorrow from 08:00 .", 
+                "scroll back through today 's feed for anything you may have missed .", 
+                "stay tuned to this page overnight for any breaking news from around the county .", 
+                "have a great evening ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40524798", 
+            "title": "lightning strikes spark travel chaos", 
+            "text": [
+                "lightning strikes spark travel chaos"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e60cfe4b0f832d106a24e", 
+            "title": "rosa king tiger death : skydiving in memory of zookeeper", 
+            "text": [
+                "keepers from hamerton zoo took part in a skydive at sibson airfield in wansford today , to keep a promise to colleague rosa king .", 
+                "the 33-year-old was killed by a tiger at the zoo on 29 may .", 
+                "before her death they had arranged a parachute jump to raise money for her favourite charity - the cheetah conservation fund .", 
+                "so today they took to the skies near peterborough - with rosa 's place taken by her mum , andrea king .", 
+                "ms king said the skydive was `` absolutely amazing '' .", 
+                "`` there 's no words to describe it , '' she said .", 
+                "`` that feeling of freedom .", 
+                "`` i was thinking of [ rosa ] and she was the reason i did n't have a single nerve . ''"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10730299", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e581ee4b08315298bf744", 
+            "title": "mepal severed head : police narrow search", 
+            "text": [
+                "detectives investigating the discovery of a human head in may last year are now looking into deaths on the railway track at sharnbrook in bedfordshire , to see if they can identify the victim .", 
+                "the head was found at a quarry in mepal , cambridgeshire , but officers believe it had come from bedfordshire , where repair work was being carried out on a railway bridge .", 
+                "police are now working with the british transport police , investigating deaths on the track going back to 1990 ."
+            ], 
+            "author": [
+                "Mousumi Bakshi", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_40520987", 
+            "title": "\u00a3 1.5bn a14 upgrade from the air", 
+            "text": [
+                "\u00a3 1.5bn a14 upgrade from the air"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e503ce4b025ab5160fb81", 
+            "title": "your four seasons in a day ?", 
+            "text": [
+                "it 's been a pretty mixed bag weather-wise today .", 
+                "it is sunny ?", 
+                "is it raining ?", 
+                "will there be a storm ?", 
+                "we 've had it all .", 
+                "here are just a few snaps from the day , taken by our bbc weather watchers"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595e49e8e4b08315298bf6ef", 
+            "title": "warning of blocked train lines between attleborough and ely", 
+            "text": [
+                "the thunderstorms have claimed a casualty - the train lines running from norwich to cambridge .", 
+                "engineers at greater anglia are working to fix signals that have been damaged by lightning at attleborough :", 
+                "due to lightning damaging the signalling system between # attleborough and ely all lines are blocked .", 
+                "disruption is expected until 21:00 .", 
+                "rs"
+            ], 
+            "author": [
+                "Orla Moore", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e3106e4b0f832d106a0f7", 
+            "title": "princess diana car sells for \u00a3 58k", 
+            "text": [
+                "a car used by diana , princess of wales has sold at auction for \u00a3 58,000 .", 
+                "the 1994 audi a4 cabriolet 2.3e was registered in march that year and driven for several months by the princess , who was photographed a number of times in the car driving with princes william and harry .", 
+                "auctioneer cheffins said the princess clocked up just 4,000 miles in the green convertible before it was sold on .", 
+                "despite having been through several owners since , the car arrived at the cambridge auctioneer 's from jersey , with just shy of 22,000 miles on the clock .", 
+                "although it was estimated to fetch between \u00a3 60,000 and \u00a3 80,000 , bidding was swift and it was sold below the lower estimate at \u00a3 58,000 .", 
+                "it 's not known who purchased the audi , but they will become the sixth owner of the vehicle , which comes complete with a set of photographs taken by the press of the princess using her car ."
+            ], 
+            "author": [
+                "Helen Burchell", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595e2d00e4b08315298bf630", 
+            "title": "b1101 reopens after crash", 
+            "text": [
+                "police have just confirmed that the b1101 in elm has reopened 12 hours after a serious crash .", 
+                "the road had been closed since 01:15 when a blue mazda collided with the central reservation on birch grove .", 
+                "a man was taken to hospital in a critical condition ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e22ade4b08315298bf5ef", 
+            "title": "thousands turn our for titan", 
+            "text": [
+                "more than 3,500 people visited the seldom-flowering titan arum at the botanic garden in cambridge , the garden says .", 
+                "the plant , which had only previously flowered in 2004 , bloomed last week after days of waiting - and was then only out for two days .", 
+                "it also helped the garden see record visitor numbers in june , with just short of 34,000 people attending .", 
+                "the plant is known for its rotting flesh smell when it flowers , something which i experienced for myself !", 
+                "nicci steele-williams , from the garden , said : `` june turned out to be a month of surprises for us here , with our friend titus the titan having enthralled us and our visitors during the last week .", 
+                "`` in total , we had just over 3,500 visitors over those first two days titus was in flower , including our late openings , which was amazing considering we only knew at 15:00 on the monday that titus was beginning to open .", 
+                "`` added to this on tuesday , we found ourselves up against nature 's elements with torrential rain and thunderstorms . ''"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e0d3ee4b08315298bf55c", 
+            "title": "museum could set entry fee", 
+            "text": [
+                "managers at the wisbech and fenland museum say they could introduce an entrance fee to secure their financial future .", 
+                "the museum costs about \u00a3 75,000 a year to run , with funding from fenland district council set to end by 2020 .", 
+                "it comes just a week after the arts council awarded cambridge university 's museums an investment of \u00a3 4.8m", 
+                "robert bell , the assistant curator , says the museum `` is under financial pressures '' .", 
+                "`` we 're looking at new ways of raising money for the museum , '' he said .", 
+                "`` an entry fee will be considered . ''", 
+                "mr bell says that a decision on funding for the museum , which attracts 12,500 visitors a year , will be made this month ."
+            ], 
+            "author": [
+                "John Devine", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e146be4b0f832d106a05d", 
+            "title": "princess of wales ' former car under the hammer", 
+            "text": [
+                "a car once driven by princess diana is set to go up for auction in cambridge today .", 
+                "the 1994 audi a4 cabriolet 2.3e , which only has 21,856 recorded miles on the clock , is expected to fetch between \u00a3 60,000 - \u00a3 80,000 .", 
+                "according to auctioneer cheffins , which is selling the car , `` it was presented to the princess of wales by dovercourt audi for her personal use and was the family car in which the princess was photographed on several occasions - most notably at the chelsea harbour club and driving their royal highnesses , prince william and prince harry , in 1994 '' .", 
+                "we 'll be keeping a close eye on the auction , and will update you when we know the final price it sold for ."
+            ], 
+            "author": [
+                "Helen Burchell", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595e11e5e4b08315298bf580", 
+            "title": "racing industry 'boosts newmarket economy by almost \u00a3 34m '", 
+            "text": [
+                "staying with newmarket , and a report just out reveals a 16.3 % growth in the economic impact of the racing industry on the town , and a nearly 10 % growth in jobs .", 
+                "the figures come in an update to an independent study commissioned in 2014 by forest heath district council .", 
+                "the update identifies a 'sea change ' in efforts to enhance newmarket 's attractiveness to visitors .", 
+                "lance stanbury , the council 's cabinet member for planning and growth , said it `` helps to confirm the common benefits that can be derived from a local authority working productively with a major local industry and employer '' ."
+            ], 
+            "author": [
+                "Linda Walker", 
+                "BBC Radio Suffolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_595e088be4b08315298bf53c", 
+            "title": "'he 's got a good eye for a goal '", 
+            "text": [
+                "so as we mentioned yesterday , cambridge united have signed partick thistle striker ade azeez on a two-year contract for an undisclosed fee .", 
+                "the 23-year-old scored two goals in 38 league matches during his one season with the scottish premiership side .", 
+                "he also helped afc wimbledon to win promotion out of league two in 2016 .", 
+                "but what will he bring to a hopeful u 's side ?", 
+                "alan seabrook from bbc radio london spills the beans", 
+                "`` he 'll bring pace , hunger and a few goals '' radio london 's alan seabrook on new cambridge utd signing ade azeez", 
+                "yeah 1 in every 19 according to last season"
+            ], 
+            "author": [
+                "Peter Swan", 
+                "BBC Radio Cambridgeshire sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e095fe4b025ab5160f9c6", 
+            "title": "the museum where visitors meet 'the equine heroes of the sport '", 
+            "text": [
+                "it may have lost out on the \u00a3 100,000 art fund prize by a nose , but the national heritage centre for horseracing and sporting art is still an `` absolutely fascinating and exciting '' place to visit , according to its director .", 
+                "the museum opened after a \u00a3 15m redevelopment last year and is now home to three collections - the national horseracing museum , the fred packard museum and the galleries of british sporting art , as well as a yard for the retraining of racehorses charity across a five acre site in the middle of newmarket .", 
+                "yes , a visit to the museum does include the chance to meet race horses .", 
+                "director chris garibaldi said that mix is what appealed to the art fund judges .", 
+                "`` the thing that makes it so special is we have live race horses as part of the visitor experience and i think the judges commented on that being are unique selling point - the public can meet the equine heroes of the sport , '' he said ."
+            ], 
+            "author": [
+                "Graham Barnard", 
+                "BBC Radio Suffolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10729124", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595dfcbae4b0f832d1069fd7", 
+            "title": "godwits leave welney reserve", 
+            "text": [
+                "twenty-six endangered godwit chicks , hand-reared at the wildfowl and wetlands trust in welney , are now flying away from the site .", 
+                "the black-tailed birds were carefully raised at the fenland nature reserve in an attempt to boost their population .", 
+                "each chick has a coloured leg ring , and conservationists now want people to help track them as they fly away .", 
+                "here was the moment they were initially released a few weeks ago", 
+                "louise clewley , a warden at the reserve , said the last couple of weeks had been `` nail-biting '' .", 
+                "`` you just do n't know what 's going to happen when you open those doors , '' she told bbc radio cambridgeshire .", 
+                "`` you think 'are they going to do something silly ? '", 
+                "`` but so far they 've flown off and have been feeding with adult godwits . ''"
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595e0347e4b0f832d1069ffa", 
+            "title": "newmarket 's racing museum misses out on the 'mane ' prize", 
+            "text": [
+                "it 's billed as the world 's biggest museum prize and newmarket 's national heritage centre for horseracing and sporting art was one of the finalists - but was pipped at the post by the hepworth wakefield .", 
+                "director chris garibaldi admitted he `` woud n't be human if i said we were n't a little bit disappointed - but for us it 's been fantastic to be on the shortlist with tnstitutions like the tate modern , the sir john soane museum , the hepworth '' .", 
+                "he added : `` we only opened last september so to already have been a finalist is an extraordinary achievement . ''", 
+                "it was opened by the queen last year ( above ) .", 
+                "however , while the horseracing centre missed out on the art fund 's top prize of \u00a3 100,000 - it will receive \u00a3 10,000 for reaching the final shortlist of the museum of the year 2017 ."
+            ], 
+            "author": [
+                "Graham Barnard", 
+                "BBC Radio Suffolk"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595df70fe4b025ab5160f95d", 
+            "title": "rain and thunder warning in place", 
+            "text": [
+                "the met office has issued a yellow weather warning for rain for cambridgeshire for today .", 
+                "heavy downpours and isolated thunderstorms are predicted later this afternoon , which could bring some flash flooding .", 
+                "lightning and hail may be additional hazards .", 
+                "however , any outbreaks are likely to be extremely localised , meaning most places should stay dry .", 
+                "the warning is likely to be in place until 02:00 tomorrow ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_595ded52e4b0f832d1069f87", 
+            "title": "road still closed after serious crash", 
+            "text": [
+                "the b1101 in elm remains closed after a serious crash in the early hours of the morning .", 
+                "a blue mazda collided with the central reservation on birch grove at about 01:15 .", 
+                "the male driver was taken to hospital in a critical condition .", 
+                "police say the road is still closed due to accident investigation work .", 
+                "# b1101 elm is closed due to a serious accident .", 
+                "please avoid the area if possible .", 
+                "hi could we have some more info please ?", 
+                "r.i.p das fly with the angels xx", 
+                "why speedcamera today at whittlesey train station when never ever accidents there ?", 
+                "cash raising ?", 
+                "it was n't a speed camera .", 
+                "it was railway police catching light-jumpers .", 
+                "that 's odd- there are no lights at whittlesey train station- the crossing gates are still operated by staff ."
+            ], 
+            "author": [
+                "Adam Jinkerson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:57"
+        }
+    ], 
+    "genre": "uk-england-cambridgeshire", 
+    "quality": "high"
+}

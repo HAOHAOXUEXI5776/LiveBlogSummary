@@ -1,0 +1,909 @@
+{
+    "blog_id": "a58f59068d96e1f1672f096306990f22e54b9918", 
+    "title": "BBC Local Live: Coventry & Warwickshire on Wednesday 9 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-coventry-warwickshire-35729852", 
+    "summary": [
+        "flooding closes schools and roads around warwickshire and coventry .", 
+        "sex offences against children almost treble in a year in warwickshire .", 
+        "junior doctors strike for 48 hours .", 
+        "nuneaton and bedworth has the most teenage pregnancy in england and wales .", 
+        "updates on wednesday 9 march 2016 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e05c063b00001d040a1593", 
+            "title": "our live coverage from across the day", 
+            "text": [
+                "that 's all from local live on wednesday .", 
+                "join us again from 08:00 on thursday for more news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e046523b0000e6010a1507", 
+            "title": "watch : latest forecast for the west midlands", 
+            "text": [
+                "we 've still got a yellow warning in place from the met office for more heavy rain to come in the next hour .", 
+                "highs of 6c ( 43f ) .", 
+                "find out what else is in store for us ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e052933f00001f020f5709", 
+            "title": "warwickshire residents ' guide to local travel disruption", 
+            "text": [
+                "warwickshire residents can find out what roads have been affected by the flooding and which schools are closed by visiting the county council website ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e04f7e3b00001e040a1540", 
+            "title": "rugby train disruption to to continue into tomorrow 's peak", 
+            "text": [
+                "train operator london midland has warned there will be disruption for the rest of the day on services between rugby and euston although some services to northampton are now starting to get through .", 
+                "the company also said some services in tomorrow 's peak `` may have fewer carriages than normal '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e041c03f00003c000f56a8", 
+            "title": "action to pump water out of a flooded railway tunnel", 
+            "text": [
+                "here 's the # orangearmy pumping water from the flooded railway tunnel at crick , near rugby , this morning .", 
+                "and that , s exactly where my train is paddling along now @ twitterid @ twitterid", 
+                "@ twitterid wow that 's bad"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e04df43b00001f040a1539", 
+            "title": "roads still shut due to floods", 
+            "text": [
+                "some roads in south warwickshire remain shut due to flooding .", 
+                "the a425 in lower shuckburgh is closed around the jubilee avenue junction and the a3400 in tredington is closed between the a429 fosse way junction and the b4035 mill street junction .", 
+                "there 's also slow traffic on the a46 northbound in longbridge between longbridge island and stanks , because of flooding .", 
+                "marston lane in bedworth is closed near the lilac road junction .", 
+                "click here for more details"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e057533b00001e040a157b", 
+            "title": "latest : severe flooding ; teenage pregnancy ; junior doctors strike", 
+            "text": [
+                "if you are just catching up on wednesday 's news , here are our headlines :", 
+                "- severe flooding closes schools and roads around warwickshire and coventry", 
+                "- nuneaton and bedworth had the highest rates of conception for under-18s in england and wales , new figures show", 
+                "- junior doctors strike for 48 hours"
+            ], 
+            "author": [
+                "Alex Homer", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e04eea3d000012024b043c", 
+            "title": "timelapse footage captures rising water levels", 
+            "text": [
+                "if you want an idea of how much water levels have risen , this footage should help ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e0500e3b00001f040a1543", 
+            "title": "roads closed in nuneaton after lorry and tractor collide", 
+            "text": [
+                "motorists are being warned of road closures following a serious crash in nuneaton ."
+            ], 
+            "author": [
+                "Nuneaton News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e048993b000040000a1517", 
+            "title": "flood warnings in place around the region", 
+            "text": [
+                "there are currently 17 flood warnings in place - meaning flooding is expected - around the cv postcode according to the environment agency .", 
+                "there are no severe flood warnings at the moment but there are 26 flood alerts - meaning flooding is possible ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e041973f00001f020f56a7", 
+            "title": "kenilworth man pulls car from flood water", 
+            "text": [
+                "`` it 's just stupid really . ''", 
+                "a resident who helped pull a trapped car free gives his assessment of drivers not heeding warning signs and trying to plough through flood water ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfef703e00002fcc73aee5", 
+            "title": "jess glynne announces ricoh arena concert", 
+            "text": [
+                "jess glynne has announced she will appear at the ricoh arena next month .", 
+                "the singer behind chart toppers such as rather be , not letting go , and my love will perform a warm-up gig in the jaguar hall on 29 april , ahead of her upcoming uk tour , with 3,500 tickets being made available .", 
+                "tickets go on sale 09:00 on friday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "09:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfed024a000069ccef329f", 
+            "title": "sky blues fall to fourth consecutive defeat", 
+            "text": [
+                "coventry fell to their fourth loss in a row and slipped three points off the play-off places as they went down to defeat against relegation-threatened shrewsbury ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e020c83b000040000a1434", 
+            "title": "teen pregnancy rate highest in nuneaton and bedworth as conceptions continue to fall", 
+            "text": [
+                "the number of teenage girls getting pregnant in england and wales is continuing to fall , figures show .", 
+                "there were about 23 conceptions per 1,000 15 to 17-year-old girls in 2014 , compared to a high of 55 in 1971 , the office of national statistics said .", 
+                "that means a target , set in 1998 by the then labour government , to halve teen pregnancies by 2010 has finally been met , six years late .", 
+                "nuneaton and bedworth was the area with the highest conception rate among under-18s .", 
+                "alison hadley , who led the government 's strategy , warned the job was not over ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfd74e3e00001acc73ae64", 
+            "title": "sex offences almost treble in warwickshire", 
+            "text": [
+                "cases of sex offences against children in warwickshire have almost trebled over the last year , according to new figures from the police .", 
+                "more than 360 were reported , which is up from 129 .", 
+                "that compares with a fall of around 8 % across the west midlands force area to 1,300 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e01f743d00003f004b034e", 
+            "title": "snitterfield flood water 'came into homes as drivers ploughed through '", 
+            "text": [
+                "thanks to sue james for emailing us these from snitterfield this morning .", 
+                "she said some water was washed inside nearby houses as drivers pushed through floods .", 
+                "she suggested in future similar situations , some roads should be closed by officials ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e033773d00003b004b03a7", 
+            "title": "rugby rail disruption will last 'to the end of service '", 
+            "text": [
+                "a signalling problem caused by flooding between rugby and milton keynes central / northampton is causing major disruption to journeys between these stations , the national rail website says .", 
+                "this is expected to continue until the end of service ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e029b33b000041000a1460", 
+            "title": "parts of southam 'underwater ' - wellies required", 
+            "text": [
+                "perhaps different work attire is needed for these conditions .", 
+                "parts of # southam are underwater !", 
+                "getting in our swimming costumes and wellies .", 
+                "@ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e0258e3d00003f004b0365", 
+            "title": "rain lashing down near rugby", 
+            "text": [
+                "social media user dh had a soggy rail trip from milton keynes to birmingham new street earlier , and was delayed at the kilton tunnel as trains had to pass slowly through it due to flood water .", 
+                "but virgin trains did a fine job of keeping everyone informed , he said , and his train was only 20 minutes late .", 
+                "this was the view from his window .", 
+                "i think our @ twitterid guard has had to get out and paddle us into rugby or is this the launch of # virginboats !", 
+                "@ twitterid fame at last ( local bbc fame but nevertheless )", 
+                "@ twitterid virgin boats could be a thing .", 
+                "let 's hope not on the west coast mainline though !", 
+                "^cb", 
+                "@ twitterid i hope @ twitterid are sending their best buckets as that looks like it was only going to get worse got to get home later !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e01b393e000049cf73afe8", 
+            "title": "severe flooding across bedworth road", 
+            "text": [
+                "drivers are being advised to avoid bulkington road in bedworth .", 
+                "bulkington road is severely flooded please avoid or drive carefully.ap"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e002fc3e000048cf73af50", 
+            "title": "latest : impact of flooding ; child sex offences rise ; junior doctors strike", 
+            "text": [
+                "here are the top stories this morning :", 
+                "- flooding closes schools and roads around warwickshire and coventry", 
+                "- sex offences against children almost treble in a year in warwickshire", 
+                "- junior doctors strike for 48 hours"
+            ], 
+            "author": [
+                "Alex Homer", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e01a143e000049cf73afde", 
+            "title": "railway flooded between wood end and stratford", 
+            "text": [
+                "heavy rain has flooded the railway between wood end and stratford-upon-avon meaning trains between birmingham moor street and stratford-upon-avon via wood end are being disrupted , the national rail website says .", 
+                "this is expected to continue until 16:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e010993e00004fd12ad159", 
+            "title": "trains stopped between rugby and milton keynes and travellers advised to avoid", 
+            "text": [
+                "earlier we reported delays on trains between rugby and milton keynes central because of flooding but the services have now been stopped due to the extent of the problem .", 
+                "rail replacement buses were ordered earlier but london midland now says it is `` advising passengers not to travel between rugby and milton keynes either by rail or other transport due to the severe flooding '' .", 
+                "due to flooding at # miltonkeynes .", 
+                "@ londonmidland & .", 
+                "@ virgintrains services are subject to delays and cancellation .", 
+                "apologies for disruption .", 
+                "@ twitterid @ twitterid @ twitterid i am normally on 17:23 eus - cov : is it running today or is there an alternative ?", 
+                "# miltonkeynes", 
+                "@ twitterid @ twitterid @ twitterid why did n't you make announcements at the stations ? ?", 
+                "6 hours getting to london - avoidable", 
+                "@ twitterid @ twitterid rubbish information at euston 17.57 said delayed until gone 18.10 when app had said cancelled for ages", 
+                "@ twitterid fyi you only need to use the .", 
+                "when the tweet starts with a twitter handle .", 
+                "important announcement currently no trains between rugby / northampton & milton keynes .", 
+                "customers are advised not to travel in this area .", 
+                "@ twitterid i need to travel from northampton to birmingham later today .", 
+                "will any trains be running or will it be a replacement bus ?", 
+                "@ twitterid as it stands the line is blocked and we 're advising customers not to travel , as we 're finding it difficult on the roads too", 
+                "@ twitterid i have no choice as need to get home .", 
+                "will there be a replacement bus running ?", 
+                "or trains toward mk and i could change there ?", 
+                "@ twitterid as advised , there 's no journey options at the moment , but hopefully the roads will improve and/or the line reopen .", 
+                "i have no", 
+                "@ twitterid can we claim if we have paid for a gold card ?", 
+                "@ twitterid yes you can .", 
+                "apply via delay repay .", 
+                "@ twitterid are @ twitterid gon na accept train tickets from cov , bhi to bham city ctr ?", 
+                "i have n network tkt but not every1 does ( or has change )", 
+                "@ twitterid we do still have ticket acceptance on those buses , although a handful of trains are now able to get through .", 
+                "@ twitterid can i get from milton keynes to berkhamsted ?", 
+                "@ twitterid you can yes , broadly speaking there will be at least one train an hour .", 
+                "@ twitterid how is this still effecting trains 7hrs later , surely trains can do local runs out of euston to watford or tring", 
+                "@ twitterid is this still the case ?", 
+                "is it on to travel between rugby and northampton this morning ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e00f054a00009ad0ef333f", 
+            "title": "cars abandoned at kenilworth ford as water levels rose", 
+            "text": [
+                "the situation has worsened throughout the morning at kenilworth ford .", 
+                "as flood water levels have risen , cars have been abandoned by their drivers ."
+            ], 
+            "author": [
+                "Richard Williams", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e00d5d4a00009ad0ef3338", 
+            "title": "more floods on the roads", 
+            "text": [
+                "one lane is closed and there 's slow traffic on the a46 in both directions between marraway roundabout in norton lindsey and the a425 birmingham road junction in budbrooke , because of flooding , bbc travel says .", 
+                "flooding has also shut the a425 in lower shuckburgh around the jubilee avenue junction , and the a428 coventry road in church lawford is closed in both directions between the school street junction and the green junction .", 
+                "click here for more road closures ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e00b923e000021d02ad138", 
+            "title": "rain causing delays on the rails", 
+            "text": [
+                "heavy flooding is also affecting the railway .", 
+                "virgin trains says that due to the floods on the line between rugby and milton keynes trains have to run at reduced speed on all lines .", 
+                "# vtupdate : live scenes of the flooding between # rugby and # miltonkeynes", 
+                "@ twitterid any thoughts on if it 'll drain away by this evening ?", 
+                "@ twitterid we 've no further updates at the moment , we hope so !", 
+                "^ks", 
+                "@ twitterid is there near hanslope jnc ?", 
+                "where all four lines rejoin ?", 
+                "@ twitterid unsure of precise location i 'm afraid ^mw", 
+                "@ twitterid hi !", 
+                "on route to euston .", 
+                "delay means meeting pushed back .", 
+                "will i be able to switch my advance return for an anytime ?", 
+                "@ twitterid it should be fine , please just confirm this with station staff first ^mw", 
+                "@ twitterid will do .", 
+                "thanks", 
+                "@ twitterid @ twitterid they better fecking run between london & liverpool tomorrow , ive tickets for the game or branson will get slapped", 
+                "@ twitterid @ twitterid i was on the train for 5 and a half hours today ! ! ! !", 
+                "ridiculous", 
+                "@ twitterid @ twitterid holy shit , 5 hours ! ! !", 
+                "where did you go , australia ?", 
+                "lol", 
+                "@ twitterid @ twitterid hahahah may as well have !", 
+                "!", 
+                "@ twitterid @ twitterid yoo branson , i think you should give my wee mucker here a free ride home for her inconvenience and a free mars bar", 
+                "@ twitterid @ twitterid hahahaha uni paid it fs", 
+                "@ twitterid shall i bring my armbands to work today", 
+                "@ twitterid @ twitterid you could 've swam !", 
+                "@ twitterid wish we had some music on the train while we are patiently waiting for it to move due to flooding : ) hint hint", 
+                "@ twitterid surely we can all grab an oar and row ourselves out of this mess ? ! ? !", 
+                "# dunkirkspirit", 
+                "@ twitterid seen @ twitterid yet folks ?", 
+                "all flood warnings and severe flood warnings for uk auto-tweeted visually"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e005f83e000049cf73af64", 
+            "title": "motorists stuggle through floods", 
+            "text": [
+                "heavy rain has closed many major roads in warwickshire", 
+                "police said the a46 is shut at longbridge island and the m40 with traffic standing still through warwick and stratford .", 
+                "the a428 through church lawford is shut and there 's delays on the a445 princethorpe due to a vehicle stuck in flood water .", 
+                "the a425 lower shuckborough is also shut due to flooding and the a428 coventry road is closed between school street and the green .", 
+                "the advice is to listen to local news bulletins before you set off ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e004d23e000012ce2ad11c", 
+            "title": "driving through flood water at kenilworth ford", 
+            "text": [
+                "this was the scene earlier as drivers pushed through water that had overflowed onto the road at kenilworth road ."
+            ], 
+            "author": [
+                "Richard Williams", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e000a84a00006dccef32fd", 
+            "title": "flooding shuts wolston road", 
+            "text": [
+                "just received an update that the main road from bretford to wolston is closed due to flooding .", 
+                "no signs up at the moment .", 
+                "please be careful !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dffaca3e000018cd2ad0e5", 
+            "title": "drivers rescued from cars trapped in flood water in warwickshire", 
+            "text": [
+                "drivers have needed to be rescued from cars trapped in flood water in warwickshire including at great alne , wolston , baginton and princethorpe , says warwickshire fire & rescue service .", 
+                "a `` high number of calls '' were being made about flooding , said the service , with reports also coming from stoneleigh , gaydon , wellesbourne and hampton on the hill ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "18:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dff3033e000015cd2ad0b5", 
+            "title": "still some rain to come but environment agency says 'we have seen the worst of it '", 
+            "text": [
+                "there 's a lot of surface water and flooding on the roads across coventry and warwickshire this morning .", 
+                "mark swain from the environment agency said `` we had seen the worst of it '' already but there was still between 5-10mm of rain to come .", 
+                "homes and businesses in eastern green were flooded by water from the nearby guphill brook last month .", 
+                "tim brooks from one of the affected businesses , broad lane leisure , said he hoped it would not happen again ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dff7073e000016cc73af18", 
+            "title": "flooding closes 13 warwickshire schools", 
+            "text": [
+                "a total of 13 schools around warwickshire are closed due to flooding today .", 
+                "here is the list from the county council ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfe1483e00000ecd2ad068", 
+            "title": "junior doctors ' strike in area : 48-hour walkout begins", 
+            "text": [
+                "operations at hospitals across the midlands are expected to be cancelled as the third junior doctors ' strike is taking place over 48 hours .", 
+                "the action last month resulted in the cancellation of 50 operations and at least 150 other procedures , while 1,400 appointments were postponed .", 
+                "the doctors are protesting against proposals for a new contract that makes changes to working hours and pay .", 
+                "two more strikes are planned next month ."
+            ], 
+            "author": [
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfed753e000016cc73aed7", 
+            "title": "dangers of trying to drive through flood water", 
+            "text": [
+                "flooding is affecting a series of routes around coventry and warwickshire .", 
+                "keep up with the latest information .", 
+                "drivers had to be rescued on the fosseway near wolston this morning after driving through flood water .", 
+                "# flooding", 
+                "@ twitterid would you be happy for bbc midlands today to use that photo with a credit ?", 
+                "@ twitterid of course , no problem .", 
+                "as long as we get the safety messages out there !", 
+                "@ twitterid can we use your photo with a credit please and warn drivers to be safe .", 
+                "thanks", 
+                "@ twitterid @ twitterid you guys perform a vital role !", 
+                "@ twitterid good morning , is this your could we please use it with a credit ?", 
+                "please let us know , thanks , alex"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfeb623e000018cd2ad094", 
+            "title": "travel : surface water causing long delays", 
+            "text": [
+                "there are long delays on the a46 in warwickshire and one lane is closed on the m40 due to surface water ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfdd0f3e00000ecd2ad052", 
+            "title": "latest : child sex offences rise ; junior doctors ' strike ; plans to avoid flooding damage in future", 
+            "text": [
+                "here are the top stories this morning :", 
+                "- sex offences against children almost treble in a year in warwickshire", 
+                "- junior doctors strike for 48 hours", 
+                "- plans for improvement work to avoid future flooding damage in coventry go before councillors later"
+            ], 
+            "author": [
+                "Alex Homer", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfe2634a000069ccef326b", 
+            "title": "travel : crash on the m6 have knock-on impact", 
+            "text": [
+                "there is slow traffic on the m69 northbound between the m6 j2 for coventry and j1 for hinckley because of an earlier crash ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56dfddea3e00003acc73ae8b", 
+            "title": "trains running at reduced speed between rugby and milton keynes", 
+            "text": [
+                "flooding and a signalling problem are causing delays of up to an hour on london midland trains between rugby and milton keynes central , while there are delays of up to 30 minutes on virgin trains west coast services in the same direction .", 
+                "update 1/2 due to a safety inspection of the track between # rugby & # miltonkeynes trains are running at reduced speeds & experiencing delays", 
+                "@ twitterid is this due to flooding in crick tunnel ?", 
+                "would n't it be better to say that as it would be clearer to passengers why delays", 
+                "@ twitterid hi .", 
+                "it is yes .", 
+                "say it where sorry ?", 
+                "@ twitterid on twitter you are saying safety inspection of the line .", 
+                "i am suggesting saying flooding is clearer explanation .", 
+                "@ twitterid it was a safety inspection due to the flooding .", 
+                "have said flooding also .", 
+                "@ twitterid when will passengers going to coventry get there ?", 
+                "many are intended to be in warwick by 9am", 
+                "@ twitterid it depends what train they 're on barry .", 
+                "travelling from where and at what time ?", 
+                "update 2/2 rail replacement buses will convey passengers between rugby & northampton and northampton & long buckby in both directions", 
+                "@ twitterid why are we having to change at northampton ?", 
+                "surely easier to just run this train direct into euston as its already full !", 
+                "@ twitterid oh great .", 
+                "train i am on is sat 5 mins from rugby .", 
+                "why did u let the train move a few mns ago after sitting there for ages ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56dfd9ea4a00006fccef323b", 
+            "title": "watch : latest weather for the west midlands", 
+            "text": [
+                "not a nice day in front of us at all unfortunately .", 
+                "there is a yellow warning for the met office for localised rain , leading to difficult driving conditions .", 
+                "highs of 7c ( 45f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dfd6913e00001acc73ae5c", 
+            "title": "travel : flooding closes road", 
+            "text": [
+                "coventry road in church lawford is closed in both directions between the junction with church street and its junction with the green because of flooding , drivers are warned ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56dfd60e3e00001acc73ae5a", 
+            "title": "good morning from local live for coventry and warwickshire", 
+            "text": [
+                "i 'm bringing you wednesday 's latest news , sport , travel and weather .", 
+                "if you see stories you think we should be covering , or have of the area you want to showcase , email us , tweet us or reach us on facebook ."
+            ], 
+            "author": [
+                "Alex Homer", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-coventry-warwickshire", 
+    "quality": "high"
+}

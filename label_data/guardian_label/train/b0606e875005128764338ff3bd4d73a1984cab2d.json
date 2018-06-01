@@ -1,0 +1,973 @@
+{
+    "blog_id": "b0606e875005128764338ff3bd4d73a1984cab2d", 
+    "title": "UK construction growth slows, as US trade deficit hits two-year low - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live", 
+    "summary": [
+        "european markets edge higher .", 
+        "wall street opens lower .", 
+        "us trade gap narrows as exports surge .", 
+        "protests in greece as bailout deadlock continues .", 
+        "uk households hit by food inflation .", 
+        "economist : uninspiring construction report suggests economy faltering .", 
+        "uk construction growth slowed , but brexit fears recede ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3c40de4b01ea2330bf259", 
+            "title": "european markets edge higher", 
+            "text": [
+                "with the rise in crude prices helping to lift energy stocks , european shares have ended the day in positive territory .", 
+                "a recovery on wall street after an early decline has also helped sentiment , although concerns about president trump 's ability to push through his tax and spending programmes continue to unsettle investors .", 
+                "the final scores showed : the ftse 100 finished up 39.13 points or 0.54 % at 7321.82 germany 's dax rose 0.21 % to 12,282.34 france 's cac climbed 0.3 % to 5101.13 italy 's ftse mib edged up 0.07 % to 20,257.10 spain 's ibex ended 0.35 % higher at 10,361.2 but in greece , the athens market dipped 0.13 % to 666.44 on wall street , the dow jones industrial average is currently up 40 points or 0.2 % .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                16, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3c979e4b0a411e9abb927", 
+            "title": "", 
+            "text": [
+                "meanwhile here 's jp morgan chief executive jamie dimon talking about the consequences of brexit in his annual letter to shareholders : steve slater ( @ reuterssteves ) interesting comments from jamie dimon on brexit .", 
+                "hopes it forces eu to fix its problems , but fears it could force it to split apart ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                16, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3c346e4b0a411e9abb90b", 
+            "title": "", 
+            "text": [
+                "oil prices are moving higher on the expectation of a drop in us oil stocks .", 
+                "brent crude is up 1.6 % at $ 53.99 ahead of the latest us inventory figures , helped by hopes that opec and other producers would continue to curtail output , despite the effects of this move being offset by rising us shale production .", 
+                "but with demand up , analysts expect us crude stocks to show a decline last week after two weeks of increases ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                16, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3b214e4b007e8557f2a57", 
+            "title": "", 
+            "text": [
+                "the dow jones industrial average continues to hover in negative territory as investors remain cautious .", 
+                "connor campbell , financial analyst at spreadex , said : neither a shrinking trade deficit nor a solid factory orders figure could convince the dow jones to open in the green this tuesday the next few days are pretty busy for the us , with a pair of services pmis on wednesday , the meeting between trump and china 's president xi on thursday and a non-farm friday ; hopefully one of these events will give the dow a much-needed kick in the backside ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                14, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3a8cae4b007e8557f2a17", 
+            "title": "", 
+            "text": [
+                "more us data , this time showing the third monthly rise in a row for factory goods orders .", 
+                "new orders rose by 1 % in february , in line with expectations but down on the 1.5 % increase in january .", 
+                "the january figure was revised up from the initial 1.2 % rise .", 
+                "orders were up 4.6 % compared to the same time last year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                14, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3a66ae4b007e8557f2a0a", 
+            "title": "wall street opens lower", 
+            "text": [
+                "as european markets edge higher , wall street is heading in the opposite direction , albeit marginally .", 
+                "the continuing concerns about whether president trump will be able to meet his promises on tax and infrastructure spending are putting a dampener on investor enthusiasm .", 
+                "on top of that comes trump 's potentially tricky meeting with chinese president xi jinping later this week .", 
+                "so the dow jones industrial average has dipped around 8 points while the s & p 500 and nasdaq composite both opened around 0.25 lower .", 
+                "ken odeluga ( @ ken cityindex ) wall st opens dn .", 
+                "s & p500 eyes 3rd straight daily fall .", 
+                "perhaps caution pre # tump # xi meeting .", 
+                "in context , signs of $ bounce also weigh ^ko"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                14, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3a171e4b0a411e9abb86e", 
+            "title": "", 
+            "text": [
+                "european central bank president mario draghi has issued a paean of praise for the humble banknote , as he launched the new \u20ac50 note in frankfurt .", 
+                "he said : although banknotes may not receive as much attention as other aspects of our monetary policy , they are a fundamental part of what we do .", 
+                "and in some ways their role is even more important in the euro area than in other parts of the world .", 
+                "though electronic payments are becoming more popular , cash is still our most important means of payment .", 
+                "a soon-to-be-published survey on cash use , carried out on behalf of the ecb , shows that over three-quarters of all payments at points-of-sale in the euro area are made in cash .", 
+                "in terms of transaction values , that 's slightly more than half .", 
+                "so even in this digital age , cash remains essential in our economy .", 
+                "after hailing the new note 's security features making it harder to counterfeit , he went on : but there is also another reason why banknotes are a fundamental part of what we do - one which is more significant for the euro area than for others .", 
+                "in a multi-country union such as ours , it is inevitably harder to create a shared identity than in a single nation state with its own culture and history .", 
+                "the euro is something we all have in common - it is a tangible symbol of european unity .", 
+                "the launch of the new \u20ac50 note pfaffenbach/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                13, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e39d85e4b0a411e9abb85f", 
+            "title": "", 
+            "text": [
+                "back in europe , and later comes the second debate in the french presidential election , whose outcome is likely to impact the euro .", 
+                "as kathleen brooks at city index points out , some candidates are not attending the final debate on 20 april on the basis that it is too close to the election so tonight 's performances could be key .", 
+                "the polls are suggesting that centrist emmanuel macron and far right candidate marine le pen are favourites to make it to the second round , but centre-right candidate francois fillon should not be ruled out yet .", 
+                "brooks says : if this election is as wide open as the polls suggest , then fillon , with his solid block of conservative voters , could still be in the game .", 
+                "we expect fillon to give his all in tonight 's debate , and he is likely to come out fighting as this is his last chance to use a public debate to boost his popularity .", 
+                "this might give him a slight advantage above the supposedly safer candidates macron and le pen if tonight 's debate sees fillon perform well then the foreign exchange market could start to price out the chance of a le pen victory in the first round , which we believe is one of the reasons why the euro has been under pressure and the french-german yield spread has widened again in the last week or so .", 
+                "a strong fillon performance could see the euro rally in anticipation of a macron/ fillon second round overall , there is a chance that the market has been wrong-footed by the polls , and le pen is not guaranteed a spot in the second round .", 
+                "if we are correct , then the political premium that has weighed on the euro in recent months could evaporate , allowing the single currency to stage a decent rally as we move into the second quarter .", 
+                "socialist candidate for the presidential election benoit hamon , centre , greets from left to right , francois fillon , emmanuel macron , far-left candidate jean-luc melenchon , and marine le pen .", 
+                "kovarik/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                13, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e39418e4b007e8557f29b5", 
+            "title": "us trade gap narrows as exports surge", 
+            "text": [
+                "the port of oakland .", 
+                "margot/ap now this might please donald trump - america 's trade gap has hit a four-month low , as exports rise and imports fall .", 
+                "the us trade deficit shank by 9.6 % to $ 43.6bn in february , the us commerce department reports , down from $ 48.2bn in january .", 
+                "that 's lower than expected .", 
+                "exports rose by 0.2 % during the month to $ 192.2bn , the highest since december 2014 .", 
+                "exports to the european union jumped by 8 % , including a 17.3 % surge to the uk and an 8.6 % rise to germany .", 
+                "but america bought less from the rest of the world , with imports dropping by 1.8 % to $ 236.4bn .", 
+                "imports from china shrank by 20 % , or $ 8.6bn , to $ 32.8bn .", 
+                "that 's due to the chinese new year , which usually distorts economic activity in january and february as firms try to ship orders before the lunar holiday .", 
+                "paul ashworth of capital economics explains : the trade deficit narrowed sharply in february to $ 43.6bn , from $ 48.2bn , as the surge in imports from china ahead of the lunar new year holiday was reversed after surging from $ 27.8bn in december to $ 32.5bn in january , the bilateral deficit with china shrank back to only $ 23.0bn unsurprisingly since it is a china made distortion , the surge and subsequent drop back in total imports was concentrated in consumer goods .", 
+                "something to ponder ahead of the trump-xi summit later this week"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                12, 
+                58
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e39154e4b0a411e9abb81c", 
+            "title": "", 
+            "text": [
+                "the slowdown in uk construction sector growth last month has dampened the mood in the city a little .", 
+                "nicholas hyett , equity analyst at hargreaves lansdown , reports : the latest pmi data points to a weaker outlook for construction activity in the uk , primarily driven by a loss of momentum in housing activity .", 
+                "this has sent shares in the sector down , led by a 1.5 % fall at travis perkins , who just last month said it is bracing itself for tougher times this year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                12, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e35844e4b0a411e9abb704", 
+            "title": "", 
+            "text": [
+                "back in the markets , gold has been pushed to a one-week high by geopolitical concerns .", 
+                "spot gold has gained 0.6 % to $ 1.260 per ounce ; a sign that some investors have been seeking out safe-havens for their money .", 
+                "dan popescu ( @ popescuco ) # gold up above $ 1,260 and testing $ 1,265 resistance in european trading today ( apr .", 
+                "4 , 2017 ) fxtm research analyst lukman otunuga suggests the npredictability of donald trump 's presidency is a key factor , ahead of the meeting with chinese premier xi on friday .", 
+                "the source behind this wave of risk aversion is the uncertainty gravitating around the pending trump-xi summit which investors will be paying heavy attention towards .", 
+                "with participants already noticeably jittery , any potential complications in the meeting could accelerate the flight to safety ultimately elevating gold 's price further .", 
+                "the visible fact that gold remains resilient despite dollar 's resurgence continues to highlight how risk aversion has become a key theme this week ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                12, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e381b0e4b01ea2330bf116", 
+            "title": "", 
+            "text": [
+                "some more photos from today 's anti-austerity protests in athens have arrived : gouliamaki/afp/getty images police guard the labor ministry in athens .", 
+                "stavrakis/ap protesters gathered in front of athens city hall .", 
+                "gouliamaki/afp/getty images reuters explains why they 're protesting : tsipras has betrayed us , '' said stelios vitzilaios as he marched with about another 4,000 pensioners through athens with the aid of a walking stick .", 
+                "he started work at the age of 14 , and now takes a 550-euro pension a month , 100 euros less than pre-crisis levels .", 
+                "pensioners in the country are often the sole means of support in a household , where a quarter of the workforce is jobless .", 
+                "several said their pensions were financially supporting unemployed adult members of their family and that they scrimped on food .", 
+                "we have cut everything .", 
+                "we only eat beans , '' said triainos softsis , 82 .", 
+                "his 800-euro pension was cut to 650 euro during the crisis , and now , he says , he financially supports two children and grandchildren ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                11, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e37510e4b0a411e9abb79c", 
+            "title": "protests in greece as bailout deadlock continues", 
+            "text": [
+                "the greek debt crisis is heating up , as public anger over its austerity programme bubbles up again .", 
+                "thousands of people have taken part in a march in athens today , protesting against pension cuts under various greek bailout packages since the crisis began .", 
+                "stavrakis/ap konstantinidis/reuters the demonstration comes as greece and its lenders continue to struggle to reach an agreement to finally unlock fresh bailout loans , which have been frozen for months .", 
+                "eurozone finance ministers are due to discuss the situation in malta on friday ; but it seems unlikely that a deal will be reached in time .", 
+                "our athens correspondent , helens smith , reports that a team of senior economy ministry officials , lead by finance minister euclid tskalaotos , are flying to brussels for emergency talks about the issue : monitors representing the eu and imf were meant to have returned to athens to continue their progress report yesterday .", 
+                "but with the greek government regarding the review as an all-inconclusive package that will define greece 's post-bailout future , talks have stumbled once again over horse trading on the fiscal measures athens will have to enforce to ensure a primary surplus of 3.5 % once the programme ends in 2018 .", 
+                "prime minister alexis tsipras will meet with the european council president donald tusk in athens tomorrow and is expected to hold telephone talks with the german chancellor angela merkel later today .", 
+                "he has already said he 'll only accept a deal that also tackles the issue of greece 's staggering debt pile .", 
+                "tsipras wants to secure a staff level agreement that would allow monitors to resume inspections in athens by friday .", 
+                "but there is also mounting speculation that with its own popularity now in free fall , the leftist led administration may go for broke in a repeat of the drama-filled summer of 2015 with greece hurtling towards default as massive debt repayments fall due in july ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                10, 
+                54
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e36550e4b007e8557f28c2", 
+            "title": "", 
+            "text": [
+                "retail sales across the eurozone have risen , in another sign that the european economy is strengthening .", 
+                "stats firm eurostat reports that retail spending rose by 0.7 % during february , and was a chunky 1.8 % higher than a year ago .", 
+                "spending on 'non-food products ' was 2.8 % higher , year-on-year , while spending on food , drink and tobacco rose by 0.8 % and petrol spending was up 0.5 % .", 
+                "eu eurostat ( @ eu eurostat ) euro area retail trade +0.7 % in feb over jan , +1.8 % over feb 16 # eurostat fred ducrozet of pictet bank says it backs up earlier upbeat 'soft ' data : frederik ducrozet ( @ fwred ) hard data slowly/partially catching up .", 
+                "euro area retail sales up 0.7 % mom in february , following an upwardly revised +0.1 % in january ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                10, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e36cdbe4b007e8557f28eb", 
+            "title": "uk households hit by food inflation", 
+            "text": [
+                "we 've also learned today that britons are paying more at the check-out , as supermarkets pass on higher import costs .", 
+                "my colleague julia kollewe explains : a sharp rise in food prices has added \u00a3 21.31 to the average household shopping bill over the past three months , as the level of promotions fell to an 11-year low , according to new grocery market data .", 
+                "the price of everyday goods at supermarkets rose 2.3 % in the three months to 26 march from a year ago , said kantar worldpanel , a sharp from the 0.2 % food price inflation recorded in the 12 weeks to 1 january - the first time prices rose in just over two years .", 
+                "more here : sharp rise in uk food prices inflates household shopping bill read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                10, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e36749e4b007e8557f28cc", 
+            "title": "", 
+            "text": [
+                "kathleen brooks of city index reckons that today 's construction figures , and yesterday 's slowdown in factory growth , suggest that the uk economy is slowing .", 
+                "she writes : of course , this is early days , and the pmi surveys are impacted by multiple factors , but the decline in the manufacturing and construction pmis , two sectors impacted by brexit , suggests that the economic impact of the decision to leave the eu may start to show itself more than nine months after the vote to leave the eu .", 
+                "the key test will be the services sector pmi due out on wednesday , if it 's a hat trick of weaker than expected data , we would expect this to be reflected in weaker sterling and uk equities .", 
+                "gbp/usd had a bad start to the quarter , but it has found some support at the 50-day sma at 1.2430 this morning , this is helping to boost sterling for now , but we could see it falling below this level if the economic data starts to slow ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                9, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e36246e4b0a411e9abb731", 
+            "title": "economist : uninspiring construction report suggests economy faltering", 
+            "text": [
+                "march 's construction pmi is the second weakest reading since last september , when the economy shook off the immediate shock of the brexit vote .", 
+                "howard archer of ihs global insight says today 's report is largely uninspiring '' , especially given the slowdown in new housebuilding .", 
+                "he writes : expansion was at the equal lowest level ( with january ) since last september ' largely due to slower housebuilding growth which will be particularly disappointing for the government given its desire to lift the uk 's housing stock to tackle the acute shortage following on from a third successive modestly softer manufacturing purchasing managers survey for march , the lacklustre construction pmi maintains sus the uk economy is beginning to falter .", 
+                "signs of slowing uk growth is particularly evident in consumer spending ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e36186e4b007e8557f28b1", 
+            "title": "", 
+            "text": [
+                "paul trigg , construction specialist at trade credit insurer euler hermes , is worried that uk construction firms will be dragged down by economic headwinds and rising inflation .", 
+                "despite 526 privately owned construction companies failing so far this year , the level of sector insolvencies has remained elevated but stable over the last 12 months .", 
+                "businesses are generally reporting robust trading conditions , particularly across civil engineering which has been buoyed by government commitments to keep the uk building .", 
+                "an increase in construction failures appears unavoidable as the economic headwinds of brexit strengthen .", 
+                "the commercial market is particularly fragile and those companies at the end of the supply chain , such as fit-out businesses , will be hit hardest by an increase in overdue payments - the inevitable consequence of falling retail sales and rising inflation . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e35daee4b01ea2330bf06d", 
+            "title": "", 
+            "text": [
+                "brexit fears may have receded for now , but many builders are worrying how they 'll find enough brickies , plasterers and electricians once the uk leaves the eu .", 
+                "mike chappell , global corporates managing director for construction at lloyds bank commercial banking , explains : civil engineering continues to be the star performer in the sector thanks to a number of mega-projects in the works across the uk , some of which were given the green light before the eu referendum .", 
+                "with the triggering of article 50 last week , the most significant issue on the industry 's radar remains labour .", 
+                "almost 10 % of uk construction workers are from the eu and in london that rises to a quarter .", 
+                "contractors are therefore keen to understand what can be done to maintain access to this labour , otherwise they potentially face both increased costs and project delays ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e35e19e4b0a411e9abb71c", 
+            "title": "", 
+            "text": [
+                "paul sirani , chief market analyst at xtrade , says the uk construction figures are underwhelming '' .", 
+                "while the purchasing managers ' index still indicates growth , it 's very modest .", 
+                "uk construction has been largely in retreat since december 's figure of 54.2 and there are dark clouds forming over the sector .", 
+                "the housing market appears somewhat weary and the uk economy overall is likely to slow as it navigates its way through brexit .", 
+                "all eyes will now be on tomorrow 's pmi services data . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58e35d63e4b01ea2330bf06a", 
+            "title": "", 
+            "text": [
+                "today 's report suggests that britain 's building sector barely grew in the last quarter : chris williamson ( @ williamsonchris ) uk # construction pmi down from 52.5 in feb to 52.2 in march .", 
+                "for gdp , suggests sector almost stagnant in q1"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e35cc1e4b0a411e9abb716", 
+            "title": "", 
+            "text": [
+                "here are the key findings from markit 's report into the uk construction sector : business activity growth eases in march housing slowdown offsets rebound in civil engineering and commercial work input price inflation slows further from january 's peak"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e3598ae4b007e8557f2893", 
+            "title": "uk construction growth slowed , but brexit fears recede", 
+            "text": [
+                "breaking : growth in britain 's building industry slowed a little last month , as housebuilding lost momentum .", 
+                "but builders are still upbeat about their prospects for this year , as worries over britain 's exit from the eu fade a little .", 
+                "that 's according to markit 's construction pmi , which measures activity across the sector .", 
+                "it has fallen to 52.2 for march , down from 52.5 in february , and lower than expected .", 
+                "world first ( @ world first ) u.k. march construction pmi 52.2 vs 52.5 in feb. est .", 
+                "52.5 building firms reported that new business was still subdued , with some clients holding back from commissioning projects due to squeezed budgets , and planning delays .", 
+                "but construction bosses also reported that reduced brexit-related anxiety and the resilient economic backdrop '' was helping , markit says .", 
+                "uk construction pmi tim moore , senior economist at ihs markit , says that builders remain confident , despite signs that growth is weakening : uk construction firms experienced a growth slowdown in march , with the loss of momentum centred on housebuilding .", 
+                "a weaker trend for residential work has been reported throughout 2017 so far , which provides an indication that the cooling uk housing market has started to act as a drag on the construction sector .", 
+                "civil engineering projects were the construction sector 's main growth engine in march , driven by rising infrastructure spending and a strong pipeline of new work throughout the uk .", 
+                "march data showed a slight rebound in commercial construction activity .", 
+                "survey respondents noted that the resilient economic backdrop and receding brexit- related anxieties have helped to stabilise client demand after the disruption to development projects last summer .", 
+                "i 'll pull together more reaction now"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e353f8e4b0a411e9abb6f7", 
+            "title": "", 
+            "text": [
+                "south african government bonds have fallen sharply this morning , matching the drop in the rand .", 
+                "shares in the country 's banks are also being hit , on worries that other credit ratings could follow s & p and downgrade south africa to junk .", 
+                "economist wandile sihlobo has tweeted a chart showing how sa 's credit rating rose steadily after apartheid was abolished , but has been falling since the financial crisis : wandile sihlobo ( @ wandilesihlobo ) south africa 's credit rating profile that partly reflects the rise and fall of commodity prices over the period ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e35091e4b0a411e9abb6ea", 
+            "title": "", 
+            "text": [
+                "in the city , the ftse 100 index has jumped by 40 points in early trading to 7321 - helped by a falling pound .", 
+                "gold maker randgold are the biggest rise , up 1.7 % , followed by packaging firm bunzl .", 
+                "major exporters such as rolls-royce and astrazeneca are also up , benefitting from sterling 's weakness .", 
+                "the pound has shed half a cent this morning , dropping back to $ 1.2425 ahead of today 's construction figures .", 
+                "however , the crisis in south africa is pulling down companies with exposure to the country , such as insurer old mutual .", 
+                "mike van dulken of accendo markets warns : south africa 's rand has taken another dive overnight after s & p cut the nation 's sovereign credit rating to 'junk ' in light of recent political upheaval .", 
+                "keep an eye on the likes of ftse-listed old mutual , investec and mondi which are all exposed to the currency and have already been troubled of late as a consequence ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e34e3ce4b01ea2330bf037", 
+            "title": "japanese market hits 10-week low amid geopolitical fears", 
+            "text": [
+                "over in tokyo , the nikkei stock index has hit a 10-week low .", 
+                "david ingles ( @ davidinglestv ) and just like that japanese stocks erases gains for the year .", 
+                "investors are fretting about donald trump 's meeting with chinese premier xi later this week .", 
+                "weak us car sales figures released on monday are also dampening the mood kit juckes of societe generale senses a gloomy mood in the markets : there 's an abundance of angst this morning , stemming from weak us car data , the explosion in the st petersburg subway , the prospect of donald trump meeting xi jinping at the end of the week and the rapidly approaching french election ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                7, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e34ba8e4b0a411e9abb6d1", 
+            "title": "", 
+            "text": [
+                "s & p 's downgrade will deter some risk-averse investors from holding south african debt , as paul donovan of ubs explains : the move was anticipated by markets ( credit rating agency actions normally are ) , but it does have a bearing on the universe of investors who can invest in the country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                7, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e347b2e4b01ea2330bf017", 
+            "title": "rand hammered after s & p junks south africa", 
+            "text": [
+                "the south african rand is suffering fresh losses this morning , as the political crisis gripping the country threatens its credit rating .", 
+                "the rand has tumbled by 1.5 % to below 13.8 rand to the us dollar .", 
+                "that extends last week 's losses , triggered by the sacking of well-respected finance minister pravin gordhan .", 
+                "fastft ( @ fastft ) rand falls as much as 1.9 per cent after s & p downgraded the country citing political risk the slump came after standard & poor 's slashed south africa 's credit rating into junk status , from bbb- to bb+ , with a negative outlook .", 
+                "s & p warned that the likelihood that economic growth and fiscal outcomes could suffer '' had increased , following prime minister jacob zuma 's cabinet reshuffle .", 
+                "fxtm chief market strategist hussein sayed fears that the rand could suffer further losses .", 
+                "the elevated political risks after firing the finance minister will continue to be reflected in the country 's currency .", 
+                "from a fundamental perspective , the rand looks undervalued , but how much lower it might drop in the short run depends on the political developments .", 
+                "a 5-10 % fall from current levels is very likely ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                7, 
+                27
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58e33ae6e4b0a411e9abb695", 
+            "title": "the agenda : uk construction figures in focus", 
+            "text": [
+                "construction workers on a building site .", 
+                "brady/pa good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "after yesterday 's slowdown in uk manufacturing growth , britain 's construction sector is in the spotlight .", 
+                "markit 's construction purchasing managers index , due a 9.30 , will show how britain 's builders fared in march .", 
+                "economists are expecting to see another month of steady but unspectacular growth , with the pmi unchanged at 52.5 .", 
+                "but a weaker reading might worry the city , as traders look for signs of economic uncertainty .", 
+                "as jasper lawler of london capital group puts it : if uk construction growth disappoints like manufacturing , it will be another dose of cold water poured on the uk economic outlook post-brexit .", 
+                "also coming up today : the european central bank is launching the new \u20ac50 note in frankfurt at 2.30pm gmt .", 
+                "ecb president mario draghi will say a few words .", 
+                "in the economic calendar , we get eurozone retail sales figures for february at 10am gmt , and us factory orders data at 3pm gmt .", 
+                "research group kantar worldpanel are publishing the latest supermarket sales figures .", 
+                "and in the city , online fashion chain asos is reporting results ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                4, 
+                7, 
+                17
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.31pm BST\n17:31\nEuropean markets edge higher\n", 
+                "block": "block-58e3c40de4b01ea2330bf259"
+            }, 
+            {
+                "text": "\n\n3.01pm BST\n15:01\nWall Street opens lower\n", 
+                "block": "block-58e3a66ae4b007e8557f2a0a"
+            }, 
+            {
+                "text": "\n\n1.58pm BST\n13:58\nUS trade gap narrows as exports surge\n", 
+                "block": "block-58e39418e4b007e8557f29b5"
+            }, 
+            {
+                "text": "\n\n11.54am BST\n11:54\nProtests in Greece as bailout deadlock continues\n", 
+                "block": "block-58e37510e4b0a411e9abb79c"
+            }, 
+            {
+                "text": "\n\n11.02am BST\n11:02\nUK households hit by food inflation\n", 
+                "block": "block-58e36cdbe4b007e8557f28eb"
+            }, 
+            {
+                "text": "\n\n10.16am BST\n10:16\nEconomist: Uninspiring construction report suggests economy faltering\n", 
+                "block": "block-58e36246e4b0a411e9abb731"
+            }, 
+            {
+                "text": "\n\n9.39am BST\n09:39\nUK construction growth slowed, but Brexit fears recede\n", 
+                "block": "block-58e3598ae4b007e8557f2893"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic financial news, including a new healthcheck on Britain's builders.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e39418e4b007e8557f29b5#block-58e39418e4b007e8557f29b5"
+                ], 
+                "text": "Latest: US trade gap narrows.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e37510e4b0a411e9abb79c#block-58e37510e4b0a411e9abb79c"
+                ], 
+                "text": "Anti-austerity protests in Greece (again)", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e3598ae4b007e8557f2893#block-58e3598ae4b007e8557f2893"
+                ], 
+                "text": "UK construction growth slows.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e35daee4b01ea2330bf06d#block-58e35daee4b01ea2330bf06d"
+                ], 
+                "text": "Builders worried about finding workers after Brexit.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e347b2e4b01ea2330bf017#block-58e347b2e4b01ea2330bf017"
+                ], 
+                "text": "Rand biffed after S&P downgrades South Africa.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/apr/04/markets-uk-construction-growth-south-african-rand-draghi-business-live?page=with:block-58e34e3ce4b01ea2330bf037#block-58e34e3ce4b01ea2330bf037"
+                ], 
+                "text": "'Angst in the markets'", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

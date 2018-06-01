@@ -1,0 +1,873 @@
+{
+    "blog_id": "86e18e032b2d5fef64bdbb55f8f89efc86e5cb86", 
+    "title": "Markets remain nervous on Paris fears - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2015/nov/18/markets-remain-nervous-on-paris-fears-live", 
+    "summary": [
+        "wall street opens higher .", 
+        "disappointing german bond auction .", 
+        "protesting greek farmers clash with police .", 
+        "markets remain skittish after wall street 's late fall .", 
+        "weekly uk earnings rise 1.8 %", 
+        "do n't focus too obsessively on inflation target - bank of england deputy .", 
+        "european markets open lower ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-564c812be4b0a51fe2018b21", 
+            "title": "summary", 
+            "text": [
+                "here 's a quick run through of the day 's main events .", 
+                "markets remain under pressure again on continued nervousness in the wake of the french attacks , with the police actions in the north of paris unsettling investors .", 
+                "travel and leisure shares have slipped back after tuesday 's recovery .", 
+                "but an opening rise on wall street has seen european markets recover from their worst levels .", 
+                "uk weekly wages are on the rise , according to the office for national statistics , which has implications for borrowing costs .", 
+                "bank of england deputy governor ben broadbent has warned investors not to focus too obsessively '' on the bank 's interest rate target when considering when rates might increase .", 
+                "economists will look for more clues about whether the federal reserve will raise us rates in december when the latest minutes are released .", 
+                "but some fed members are hinting the time for a rise is getting nearer .", 
+                "germany suffered a disappointing treasury notes auction .", 
+                "meanwhile , china said its economy would continue to grow strongly , despite the recent slowdown .", 
+                "and in greece , farmers and police clashed at a protest against tax rises .", 
+                "on that note , we 'll close up for the day .", 
+                "thanks for your comments , look out for our news story later on the us federal reserve minutes , and we 'll be back here tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                14, 
+                55
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c8bb2e4b0e0595dc6c960", 
+            "title": "wall street opens higher", 
+            "text": [
+                "the us market has moved ahead in early trading , giving some support to nervous investors in europe .", 
+                "the paris attacks and their aftermath , including the day 's raids by police in the north of the french capital , continue to cast a shadow over shares .", 
+                "but ahead of the us federal reserve minutes , and despite a number of fed officials hinting at a rate rise in december , the dow jones industrial average has opened about 74 points higher , or up 0.4 % .", 
+                "after earlier falls the ftse 100 and germany 's dax , both are now virtually flat , up 0.07 % in the case of the uk market and down 0.04 % in the case of germany .", 
+                "france 's cac is , unsurprisingly , down 0.55 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                14, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c8793e4b0e98c91b0d53b", 
+            "title": "", 
+            "text": [
+                "more fed speakers , and more softening up for a rate rise .", 
+                "federal reserve bank of new york president , william dudley , said he did not expect a huge surprise or big market reaction when the rise does happen .", 
+                "cleveland fed president , loretta mester , said the us economy could now handle a modest 25 basis point increase ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                14, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c7f69e4b0a51fe2018b1d", 
+            "title": "", 
+            "text": [
+                "clearly there is no period of purdah for fed members ahead of the release of the minutes .", 
+                "lockhart .", 
+                "amy/ap the federal reserve bank of atlanta president , dennis lockhart , who supported a rate hike in september but backed consensus for no change the following month , has said there is more data to evaluate before deciding whether to raise rates in december .", 
+                "he said the economy was reasonably solid now , albeit with some weak spots , and he would be comfortable with raising rates soon .", 
+                "and on cue , here comes more weak data , with us housing starts falling 11 % last month ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                13, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c7d9de4b0e0595dc6c939", 
+            "title": "", 
+            "text": [
+                "a new paper from the international monetary fund suggests quantitative easing should have been put in place in the eurozone earlier than it actually happened , following the problems seen with several members of the single currency .", 
+                "larry elliott writes : blanket austerity across the crisis-hit countries of the eurozone was self-defeating .", 
+                "germany 's analysis of what needed to be done was wrong .", 
+                "the european central bank ( ecb ) was slow to come up with a stimulus package designed to offset the demand-sapping impact of wage cuts .", 
+                "those were the main messages of an important international monetary fund ( imf ) intervention into the debate about how the eurozone should have responded to the problems that affected five of its members : greece , ireland , portugal , spain and italy .", 
+                "this quintet accounts for 30 % of eurozone output .", 
+                "the traditional imf cure for a country in trouble is a solid dose of structural adjustment - tax cuts , privatisation and reforms of the labour market - designed to make the domestic economy more efficient , coupled with a devaluation that makes exports cheaper and imports dearer .", 
+                "this recipe was obviously not available to countries inside the eurozone , because they all share the same currency .", 
+                "instead , the recovery plan involved internal devaluation , making an economy more competitive through a reduction in costs .", 
+                "given that pay is the biggest element of these costs , it requires wage cuts - and thumping ones at that .", 
+                "the imf paper asks whether this policy actually works .", 
+                "its conclusion is that if a single country cuts wages , the effect is positive for that economy and the eurozone as a whole .", 
+                "but if five countries adopt the same strategy at once , there has to be action from the central bank to offset the demand-sapping wage cuts .", 
+                "put simply , if millions of workers across europe have less money in their pockets , they will consume less .", 
+                "that will affect their own economies and the economies of other non-crisis eurozone countries that export to them .", 
+                "larry 's full analysis is here : imf 's hindsight says it was right to advocate qe in the eurozone read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                13, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c7bd3e4b0e98c91b0d50c", 
+            "title": "", 
+            "text": [
+                "ahead of the fed minutes later , richmond fed president jeffrey lacker has been speaking .", 
+                "he was the only fed member to vote for an increase in rates at the october meeting ( he wanted a 25 basis point rise ) , and he still seems to be on the hawkish trail .", 
+                "the key is how many others will follow him in december .", 
+                "minefornothing ( @ minefornothing ) fed 's lacker/cnbc : 'too soon to say ' if to raise rates in dec live squawk ( @ livesquawk ) fed 's lacker : improvement in labour mkt has been substantial - cnbc -maintains his rate view live squawk ( @ livesquawk ) fed 's lacker says there is a chance fed could be behind the curve -fed will have to move more aggressively if they wait longer - cnbc"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c78e0e4b0e0595dc6c921", 
+            "title": "", 
+            "text": [
+                "germany is not the only eurozone member to sell bonds with a negative yield .", 
+                "it 's been happening in portugal too , despite the collapse of the government last week .", 
+                "holger zschaepitz ( @ schuldensuehner ) now investors pay even portugese state for holding its debt .", 
+                "# portugal sold 1y bonds at -0.006 % , 1st neg yield ever .", 
+                "the six month treasury bills also had negative yields .", 
+                "jonathan algar ( @ jonathanalgar ) what political risk ?", 
+                "portugal may 2016 bill avg yield -0.018 vs 0.006 % on sept. 16"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                13, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c67b3e4b0a51fe2018ab7", 
+            "title": "protesting greek farmers clash with police", 
+            "text": [
+                "more on the protests in athens from helena smith : clashes have erupted between an estimated 6,000 protesting farmers and riot police in a courtyard in front of parliament .", 
+                "security forces , which admit to being taken aback when farmers pushed their way towards the parliament and appeared poised to storm it , have resorted to firing tear gas as the clashes continue .", 
+                "the protestors descended on athens from the southern peloponnese in fury over increased taxes the government has been forced to implement under athens ' latest bailout accord .", 
+                "dimitris galanis ( @ dimitrigalanis ) farmers clash with police in front of greek parliament , wednesday levies on profits will be gradually increased from 13 % to 16 % at the behest of eurozone creditors .", 
+                "the clashes come on the eve of parliament voting on the next multi-bill of prior actions '' also demanded by lenders and show the degree of opposition the leftist-led government is going to face in implementing the measures .", 
+                "this is just the beginning of our protests , '' one farmer told me in syntagma .", 
+                "protests over tax rises turn violent .", 
+                "pantzartzi/epa"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                12, 
+                4
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c6426e4b0e98c91b0d49e", 
+            "title": "", 
+            "text": [
+                "over in greece , and more protests today : helena smith ( @ helenasmithgdn ) # greece extraordinary scenes outside parliament where police have fired tear gas on protesting farmers attempting to storm building"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                11, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c61efe4b0e0595dc6c8b8", 
+            "title": "", 
+            "text": [
+                "the chinese president , xi jinping , has tried to give reassurances that the country 's economy will keep growing despite a recent slowdown .", 
+                "ap reports : in a speech to a business conference on the sidelines of the asia-pacific economic cooperation summit , xi said china is committed to overhauling its economy and raising the living standards of its people .", 
+                "china 's growth fell to a six-year low of 6.8 % in the latest quarter as beijing tries to shift the economy away from reliance on trade and investment .", 
+                "the slowdown , which has been unfolding for several years , rippled around the world , crimping growth in countries such as south korea and australia that were big exporters to china .", 
+                "xi acknowledged that china 's vital signs are a concern and it is facing difficulties and challenges . ''", 
+                "but he also alluded to the fact china is growing much faster than western countries , even as it slows .", 
+                "china 's positive economic fundamentals and long-term trajectory remain unchanged , '' he said .", 
+                "china 's economy has strong resilience , great potential and ample room for maneuvering . ''", 
+                "chinese president xi jinping at the asia-pacific economic cooperation summit in manila , philippines .", 
+                "/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                11, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c5bace4b0a51fe2018a6b", 
+            "title": "", 
+            "text": [
+                "the result of the german bond auction was poor , but not a great surprise given record low yields .", 
+                "holger zschaepitz ( @ schuldensuehner ) german 2y auc failed : got \u20ac4.4bn bids < \u20ac5bn offer as not enough investors want berlin pay 0.38 % for holding it 's debt"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                11, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c55aee4b0a51fe2018a51", 
+            "title": "disappointing german bond auction", 
+            "text": [
+                "in germany , the debt management office has sold \u20ac4bn of two-year schatz [ treasury ] notes with a negative yield .", 
+                "lemasabachthani ( @ lemasabachthani ) germany sells two-year notes to yield -0.38 % , lowest on record holger zschaepitz ( @ schuldensuehner ) negative is the new normal : # germany sells 2yr notes at yield -0.38 % , lowest on record ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                10, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c54c9e4b0e0595dc6c87c", 
+            "title": "", 
+            "text": [
+                "and a regional breakdown : by regions"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                10, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c51f4e4b0e98c91b0d44a", 
+            "title": "", 
+            "text": [
+                "here 's some charts from the annual survey of hours and earnings : median weekly earnings gender pay gap public and private sectors gender and age group occupation group"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                10, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c48ade4b0e0595dc6c85b", 
+            "title": "", 
+            "text": [
+                "howard archer ( @ howardarcheruk ) sterling makes limited gains after broadbent 's comments downplaying boe 's inflation forecasts based on market interest rate expectations howard archer ( @ howardarcheruk ) markets are currently not fully pricing in boe rate hike until q1 2017 ; consensus for economists is q2 2016 ( we forecast a may hike )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                9, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c45f6e4b0a51fe2018a23", 
+            "title": "weekly uk earnings rise 1.8 %", 
+            "text": [
+                "weekly earnings for uk full time employees rose 1.8 % to \u00a3 528 in april 2015 , much higher than the 0.2 % rise seen the previous year .", 
+                "( this of course also has implications for uk rates and when they might increase ) .", 
+                "this figure is from the annual survey of hours and earnings .", 
+                "the office for national statistics summarises the main points as : in april 2015 median gross weekly earnings for full-time employees were \u00a3 528 , up 1.8 % from \u00a3 518 in 2014 .", 
+                "this follows an annual growth of 0.2 % between 2013 and 2014 .", 
+                "growth has been slower since the economic downturn , averaging around 1.5 % per year between 2009 and 2015 .", 
+                "adjusted for inflation , weekly earnings increased by 1.9 % compared to 2014 .", 
+                "this is the first increase since 2008 , and is due to a combination of growth in average earnings and a low level of inflation .", 
+                "for the year ending 5 april 2015 median gross annual earnings for full-time employees were \u00a3 27,600 , an increase of 1.6 % from the previous year .", 
+                "the gender pay gap for median earnings of full-time employees decreased to 9.4 % , from 9.6 % in 2014 .", 
+                "this is the lowest since the survey began in 1997 , although the gap has changed relatively little over the last 4 years .", 
+                "a similar trend is seen when full-time and part-time employees are combined , although the gap is unchanged from 2014 , at 19.2 % .", 
+                "in april 2015 the bottom 10 % of full-time employees earned less than \u00a3 297 per week .", 
+                "at the other end of the distribution , the top 10 % of full-time employees earned more than \u00a3 1,035 .", 
+                "since 1997 , earnings at the 90th percentile have remained consistently at around 3.5 times earnings at the 10th percentile .", 
+                "median gross weekly earnings for full-time employees increased by 1.8 % in the public sector , and by 1.6 % in the private sector .", 
+                "private sector earnings have remained consistently at around 85 % of public sector earnings since 2009 .", 
+                "the report is here ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c460ae4b0e98c91b0d42c", 
+            "title": "", 
+            "text": [
+                "speaking of uk rates , fewer than a quarter of households expect dearer borrowing costs in the next six months .", 
+                "a survey from markit said 23 % of households polled expected rates to rise within six months , the lowest figure since october 2013 and down from 34 % in october ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c3f06e4b0e0595dc6c845", 
+            "title": "do n't focus too obsessively on inflation target - bank of england deputy", 
+            "text": [
+                "ben broadbent , the deputy governor of the bank of england for monetary policy , has warned investors about focusing too obsessively '' on the inflation targets when considering when interest rates may rise .", 
+                "in a speech to a reuters event at canary wharf in london he said : ben broadbent .", 
+                "levene for the guardian the outside world seems increasingly interested in only one particular nugget : the monetary policy committee 's central inflation forecast two years ahead .", 
+                "this forecast is derived assuming that interest rates follow the path priced into financial markets .", 
+                "comparing the two , commentators often make very precise inferences from the mpc 's projections about future policy .", 
+                "when it 's above the 2 % target , our two-year forecast is said to indicate that interest rates will rise faster than the market expects ; a sub-2 % forecast is said to mean the opposite .", 
+                "recently , given the intense focus on the prospective date of the next rate change , this simple inference has been refined even further : as long as the forecast is close to 2 % , this must mean the mpc is endorsing '' not just the general shape of the market path of interest rates but the particular lift-off '' point it seems to imply .", 
+                "he added : too often , it seems to me , what we communicate about the path of future policy , whether that 's direct or something backed out from forecasts , is treated as something close to an unconditional promise .", 
+                "but it ca n't be .", 
+                "that 's because it 's the job of policy to respond to things that are unpredictable , in order to offset their effects , as best we can .", 
+                "so even if it 's the mpc that sets interest rates , in some narrow sense , it 's ultimately the economy that determines them .", 
+                "and our forecasts are intended not as some reliable guide of a particular policy path , but to help people understand how we see the nature and distribution of economic risks over the future .", 
+                "and , surprise , there was no news on when rates would rise : for those in the audience wanting me to give a direct and unequivocal promise as to when bank rate will change , you will , i 'm afraid , be disappointed .", 
+                "i ca n't .", 
+                "but you should look on the bright side .", 
+                "if there is any value in listening to people like me , it is to help you with what is the best way to try and predict future interest rates - to forecast the economy yourselves ( which is probably more interesting ) .", 
+                "after all , if the future were perfectly predictable we would n't have to bother trying .", 
+                "the full speech is available here ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                9, 
+                19
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c37bce4b0e98c91b0d414", 
+            "title": "", 
+            "text": [
+                "travel and leisure shares are slipping back again .", 
+                "here are the biggest fallers in the stoxx europe 600 travel and leisure index : travel shares dip ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c32f4e4b0e0595dc6c839", 
+            "title": "", 
+            "text": [
+                "despite the hawkish tone of the last us federal reserve statement , deutsche bank believe the chances of a rate rise in december could actually be falling .", 
+                "deutsche 's craig nicol explains : the focus of today will be on the federal open market committee minutes from the october 27 and 28 meeting , due out at 7pm gmt .", 
+                "remember that the hawkishness of the statement that followed that meeting was the start of a big swing in december liftoff expectations .", 
+                "in fact , prior to that meeting december hike expectations were sitting at around 35 % , before rising to 50 % or so immediately after the statement .", 
+                "currently we 're sitting at 66 % which is just shy of the 69 % high point earlier this month .", 
+                "it 's worth keeping in mind that while the minutes refer to the october meeting , asset prices have certainly moved fairly materially since that meeting .", 
+                "the s & p 500 is down 1.91 % from the close of the 28 october and has declined on 10 of the 14 trading days in that time .", 
+                "the vix [ volatility index ] is up over 30 % in the same time frame , the us dollar is nearly 2 % stronger , 10 year and 2 year treasury yields are up 9.4 basis points and 12.7 basis points respectively , while wti [ crude ] has fallen over 11 % .", 
+                "clearly the moves in the us dollar and oil are the most significant here .", 
+                "our colleagues in the us expect the minutes to be more balanced and much less committed to a december hike than what was inferred from the october communique .", 
+                "clearly there is a lot of data left between now and the december 15/16 meeting ( including the november payrolls number ) and while the latest employment report was encouraging , our colleagues note that growth and inflation numbers could be slipping given the latest retail sales and import price figures .", 
+                "they expect the probability of a december rate hike to fall closer to 50/50 over the next couple of weeks .", 
+                "federal reserve chair janet yellen .", 
+                "balce ceneta/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c328fe4b0e0595dc6c838", 
+            "title": "", 
+            "text": [
+                "another item for the agenda : the annual survey of hours and earnings will be released by the uk 's office for national statistics at 9.30 gmt .", 
+                "the report should be available here .", 
+                "and here is our summary of its importance , from last year 's survey : the annual survey of hours and earnings is a closely watched indicator of the uk 's economic health .", 
+                "each year it shows how much uk workers earn on average and how that compares with the previous year .", 
+                "policymakers study the office for national statistics ' report , especially bank of england ( boe ) officials who set interest rates ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c3101e4b0a51fe2018a0a", 
+            "title": "", 
+            "text": [
+                "an official report into the near collapse of trouble bank hbos is due tomorrow and will put the spotlight on both regulators and directors .", 
+                "in a preview , jill treanor writes : the bleakest days of the 2008 banking crisis risk being revived on thursday when a long-awaited report into what went wrong at hbos is expected to put fresh scrutiny on the bank 's former bosses and regulators in the runup to the bank 's near-collapse .", 
+                "a separate analysis to be issued alongside the 500-page official report will analyse why only one former hbos executive , peter cummings , was formally investigated .", 
+                "cummings , who ran the commercial arm , was banned from working in finance and fined \u00a3 500,000 for his role in the events that led to the emergency rescue of the country 's biggest mortgage lender and savings institution .", 
+                "james crosby and andy hornby , former chief executives , and the chairman lord stevenson have already been accused of a colossal failure of management '' by the parliamentary commission on banking standards , while the former city regulator , the financial services authority , reprimanded the bank of scotland arm for failing to manage its risks properly .", 
+                "our full preview is here : hbos report expected to put fresh scrutiny on former bosses read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c3074e4b0e98c91b0d40b", 
+            "title": "european markets open lower", 
+            "text": [
+                "as expected , shares are slipping after tuesday 's rebound : the ftse 100 is down 0.4 % france 's cac has slipped 0.7 % germany 's dax is down 0.6 % spain 's ibex is 0.9 % lower"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c2f0de4b0e0595dc6c82f", 
+            "title": "clashes at greek march", 
+            "text": [
+                "back with greece , and last night saw a march to the us embassy in athens to commemorate the 42nd anniversary of the 1973 student uprising against the military junta .", 
+                "towards the end of the march there were some clashes between police and marchers in the exarcheia district of athens : protest march to the us embassy .", 
+                "caushaj/demotix/corbis protestors ' banners .", 
+                "koutsokostas/demotix/corbis police and protestors .", 
+                "caushaj/demotix/corbis clashes between riot police and protesters .", 
+                "caushaj/demotix/corbis"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c2de3e4b0a51fe2018a04", 
+            "title": "", 
+            "text": [
+                "the federal reserve is not the only central bank in focus .", 
+                "the bank of japan will hold its latest meeting later tonight ( in the early hours of the morning uk time in fact ) .", 
+                "but here 's a preview from unicredit research : the boj meeting tonight has become another close call , after japanese gdp disappointed in the third quarter of 2015 , contracting by 0.8 % in annualised terms .", 
+                "it is conceivable that the central bank may want to wait before taking any action , to get a better sense of the fiscal measures that will be introduced in the next fiscal year .", 
+                "it is really difficult to forecast the boj 's actions given its confusing assessment of the economy .", 
+                "another steady outcome is thus unlikely to have any greater impact on the yen .", 
+                "should , however , the boj decide to expand its qqe [ quantitative and qualitative easing ] program , we would expect a sizeable and broad-based negative yen reaction , as investors are not heavily yen-short at the moment ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                7, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-564c27a9e4b0e98c91b0d3ff", 
+            "title": "markets remain skittish after wall street 's late fall", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "after tuesday 's rebound on global markets - based on the belief that the paris attacks would not have a lasting impact on the world economy and , even if they did , central banks would step in with further stimulus measures - the nervousness has returned .", 
+                "wall street was rallying quite nicely on tuesday night , until the news of the cancellation of the match between germany and holland amid reports of a bomb threat .", 
+                "although this proved unfounded , it saw the dow jones industrial average drop from its highs .", 
+                "after a near 120-point rise , it ended the day up just 6.4 points .", 
+                "asian markets were steadier despite this , with the nikkei and hang seng virtually unchanged .", 
+                "but european markets are being called lower , especially with the police operations currently going on in the north of paris ( see our paris live blog for details ) .", 
+                "ig 's forecasts : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 6253 down 16 $ dax 10895 down 76 $ cac 4908 down 30 $ ibex 10268 down 96 $ mib 22160 down 150 michael hewson , chief market analyst at cmc markets uk , said markets remained skittish '' : [ the hanover reports ] saw us markets pull back sharply off their intraday highs as the fear factor reasserted itself , and look like translating into a slighter weaker european open this morning , despite the alert being a false alarm .", 
+                "otherwise it looks a fairly quiet day on the economic and corporate front .", 
+                "later come the us federal reserve minutes from the october meeting , when it removed the phrase about global events restraining activity .", 
+                "this led to the growing conviction that a rate rise in december was all but inevitable .", 
+                "since then , we have had much better than expected us jobs data , although manufacturing still seems to be suffering some weakness .", 
+                "there is also a speech from bank of england member ben broadbent , which could give some clues as to the thinking about when a uk rate rise could take place .", 
+                "and we will be keeping an eye on greece , after tuesday 's news of an agreement between the country and its creditors that could free up \u20ac2bn of bailout cash and allow its banks to be recapitalised .", 
+                "the deal still has to be voted through parliament on thursday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                11, 
+                18, 
+                7, 
+                48
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.40pm GMT\n14:40\nWall Street opens higher\n", 
+                "block": "block-564c8bb2e4b0e0595dc6c960"
+            }, 
+            {
+                "text": "\n\n10.43am GMT\n10:43\nDisappointing German bond auction\n", 
+                "block": "block-564c55aee4b0a51fe2018a51"
+            }, 
+            {
+                "text": "\n\n12.04pm GMT\n12:04\nProtesting Greek farmers clash with police\n", 
+                "block": "block-564c67b3e4b0a51fe2018ab7"
+            }, 
+            {
+                "text": "\n\n7.48am GMT\n07:48\nMarkets remain skittish after Wall Street's late fall\n", 
+                "block": "block-564c27a9e4b0e98c91b0d3ff"
+            }, 
+            {
+                "text": "\n\n9.39am GMT\n09:39\nWeekly UK earnings rise 1.8%\n", 
+                "block": "block-564c45f6e4b0a51fe2018a23"
+            }, 
+            {
+                "text": "\n\n9.19am GMT\n09:19\nDon't focus too obsessively on inflation target - Bank of England deputy\n", 
+                "block": "block-564c3f06e4b0e0595dc6c845"
+            }, 
+            {
+                "text": "\n\n8.03am GMT\n08:03\nEuropean markets open lower\n", 
+                "block": "block-564c3074e4b0e98c91b0d40b"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Investors concerned after German football match cancelled and police operations in northern Paris.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

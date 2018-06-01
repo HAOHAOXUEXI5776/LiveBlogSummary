@@ -1,0 +1,577 @@
+{
+    "blog_id": "4d073fe23bc516c74b4a0596f7cac05e363decdf", 
+    "title": "BBC Local Live: Cambridgeshire on Monday, 21 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-cambridgeshire-35841082", 
+    "summary": [
+        "sponsored walk raises \u00a3 2,000 for attacked football fan simon dobbin .", 
+        "union condemns break changes for ambulance staff .", 
+        "a \u00a3 200m ship may not be called boaty mcboatface after all .", 
+        "news , sport , weather and travel updates resume at 08:00 on tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f028c6580000ba47c90aa4", 
+            "title": "our live coverage through the day", 
+            "text": [
+                "that 's it for our live updates for today , but we 'll be back with the latest news , sport , weather and travel for cambridgeshire at 08:00 tomorrow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f02d551a00004848d27dca", 
+            "title": "weather : staying dry tonight with variable amounts of cloud", 
+            "text": [
+                "it will stay dry tonight with some clear spells .", 
+                "it 'll feel chilly , despite the light winds , and away from large towns like ely patches of frost or fog may form .", 
+                "minimum temperature : 4c ( 39f ) .", 
+                "tomorrow will be another dry day with light winds and some bright spells .", 
+                "maximum temperature : 11c ( 52f ) .", 
+                "head to bbc weather for a more as we head towards the easter weekend ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f021781a00007747d27d97", 
+            "title": "shakespeare on tour : telling the story of the bard in cambridgeshire", 
+            "text": [
+                "the bbc 's shakespeare on tour project is looking at the places around england with connections to the bard - including cambridgeshire .", 
+                "early in william shakespeare 's career as a dramatist and actor , the lord chamberlain 's men played in cambridge .", 
+                "it is possible that shakespeare was with the company , as was popular actor richard burbage , who was acclaimed for his performances in roles such as richard iii ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f01c775800009a44c90a70", 
+            "title": "attacked cambridge united fan simon dobbin returns to local pub to see sponsored walk", 
+            "text": [
+                "simon dobbin returned to his local pub on sunday for the first time since an attack left him with brain damage , to see friends and family start a sponsored walk .", 
+                "the cambridge united fan was assaulted following a match in southend , essex , a year ago .", 
+                "the 12-mile sponsored walk raised \u00a3 2,000 to pay for care and equipment at his home in mildenhall , suffolk ."
+            ], 
+            "author": [
+                "Jeremy Sallis", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f00f165800009a44c90a2f", 
+            "title": "details of syd barrett artwork revealed", 
+            "text": [
+                "more details about the artwork commissioned to commemorate pink floyd star syd barrett have been revealed .", 
+                "it will use reflective surfaces and bicycle components to represent his iconic song `` bike '' and his home city of cambridge .", 
+                "it is a collaboration between suffolk-based artists clare palmier and spadge hopkins and will be placed in the cambridge corn exchange ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f02a767100008c46b0eb81", 
+            "title": "headlines : union condemns proposed changes to paramedic meal breaks experts could overrule 'boaty mcboatface ' polar ship name", 
+            "text": [
+                "here are the headlines in cambridgeshire this evening :"
+            ], 
+            "author": [
+                "Emma Maclean", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f0087c7100007744b0eada", 
+            "title": "experts could overrule 'boaty mcboatface ' name choice for polar ship", 
+            "text": [
+                "the name of a new polar research vessel will be chosen by a panel of experts , even if the public overwhelmingly votes to call it boaty mcboatface .", 
+                "the \u00a3 200m polar research vessel will be operated by cambridge-based british antarctic survey , which launched an internet poll to help find a name for the ship .", 
+                "lord west , ex-first sea lord , said he was rather proud `` silly names '' had been suggested , but hoped none were chosen ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f011441a00005d44d27d46", 
+            "title": "sponsored walk raises \u00a3 2,000 for attacked football fan simon dobbin", 
+            "text": [
+                "friends and family of football fan simon dobbin , who was left with brain damage after an attack , have raised \u00a3 2,000 with a 12-mile sponsored walk .", 
+                "the cambridge united supporter was attacked following a match in southend , essex , a year ago today .", 
+                "he returned to his home in mildenhall , suffolk , last week .", 
+                "the money raised will be used to pay for equipment to improve his care .", 
+                "you can see the full report on tonight 's look east , on bbc one at 18:30 ."
+            ], 
+            "author": [
+                "Jeremy Sallis", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56effb127100008d43b0eaa1", 
+            "title": "union condemns proposed changes to meal breaks for paramedics", 
+            "text": [
+                "the union unison has `` condemned '' the east of england ambulance service over proposed changes to meal breaks and end of shift arrangements .", 
+                "it says the proposals will end the right of staff to have a meal at base , and crews will be expected to answer non-emergency calls at the end of their shifts .", 
+                "fraer stevenson , unison branch secretary at the trust , said the plans were `` a huge risk for patient safety and staff welfare '' .", 
+                "in a consultation document the trust says it intends to trial a number of measures to reduce the number of late finishes and `` better support colleagues '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f002f21a00006244d27cfa", 
+            "title": "council leader disappointed by decision on academies", 
+            "text": [
+                "the leader of peterborough city council has criticised government plans to convert all schools into academies ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56effbad1a00005d44d27cd9", 
+            "title": "19-year-old from cambridge dies after being hit by train at shelford station", 
+            "text": [
+                "a teenager has died after being struck by a train at great shelford station yesterday ."
+            ], 
+            "author": [
+                "Cambridge News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efdd60710000ba41b0ea32", 
+            "title": "work of cambridgeshire 's carers 'mostly unrecognised ' , says charity", 
+            "text": [
+                "the work carried out by thousands of carers in cambridgeshire goes `` mostly unrecognised '' , according to a charity set up to support them .", 
+                "the carers trust cambridgeshire has launched its pride in our carers awards , to honour the estimated 78,000 people who provide care for a loved-one in the county .", 
+                "find out more about the awards here ."
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efcbb5580000ae41c90907", 
+            "title": "'boaty mcboatface ' instigator 'sorry ' for ship name suggestion", 
+            "text": [
+                "a man who suggested naming a new \u00a3 200m polar research ship `` boaty mcboatface '' has apologised .", 
+                "the suggestion has attracted more than 8,000 votes in an online poll of names for the royal research ship .", 
+                "former bbc presenter james hand said he found the list of possible names `` really funny '' so decided to `` throw one into the ring '' .", 
+                "cambridge-based british antarctic survey , which will operate the vessel , says the online poll has been `` a great way '' to engage people ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56eff9e47100008d43b0ea9c", 
+            "title": "weather : staying fine and dry this afternoon", 
+            "text": [
+                "the rest of today will be staying fine and dry .", 
+                "we will see some sunny spells , the best of which will be during the early part of this afternoon .", 
+                "maximum temperature : 11c ( 52f ) .", 
+                "for a more detailed forecast for where you live , head to bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "13:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe0135800000a3fc9095b", 
+            "title": "headlines : motorcyclist killed in great staughton crash new research vessel could be named 'boaty mcboatface '", 
+            "text": [
+                "here are the headlines in cambridgeshire this lunchtime :"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efcb031a0000bf40d27c0c", 
+            "title": "motorcyclist killed in crash named", 
+            "text": [
+                "a motorcyclist killed in a crash at great staughton in cambridgeshire yesterday has been named by police as ben daniells , from chelveston in northamptonshire .", 
+                "the 26-year-old , of raunds road , crashed with a van on the b645 at about 13:20 .", 
+                "the driver of van - an 86-year-old man from perry near grafham water - was unhurt .", 
+                "anyone who witnessed the crash is asked to contact police ."
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe51b710000ba41b0ea51", 
+            "title": "ambulance service says current meal break arrangements 'undermining ' ability to respond to patients", 
+            "text": [
+                "the ambulance service says it is considering changes to meal breaks and end of shift arrangements for paramedics because they are `` undermining '' the ability to respond to patients .", 
+                "the eastern daily press reports about 600 ambulance staff have signed an open letter `` condemning the plans '' .", 
+                "in a draft consultation document released last week , the trust says it needs to take `` meaningful '' steps to reduce the risks to patients , but intends to trial a number of measures to `` better support colleagues '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb34d5800001f3fc908af", 
+            "title": "paper chase : cambridge university maps paper use in medieval england", 
+            "text": [
+                "cambridge university is investigating how paper spread in popularity after its arrival in england in about 1300 .", 
+                "the people of 14th century norwich were among the early adopters of paper , a `` pivotal technology '' that has parallels with the 21st century emergence of the ipad , researchers say .", 
+                "the cambridge university team hopes to eventually discover how and why paper arrived later in the uk than elsewhere in europe ."
+            ], 
+            "author": [
+                "Katy Prickett", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb178710000ed3db0e999", 
+            "title": "joanne dennehy : widow attacks triple killer 's legal aid", 
+            "text": [
+                "the widow of a man murdered by peterborough triple killer joanne dennehy has branded the decision to grant her legal aid `` ludicrous '' .", 
+                "dennehy , 33 , is serving life sentences for the murders of three men in 2013 .", 
+                "she has launched a high court fight for improved prison conditions , challenging a decision keep her segregated .", 
+                "kevin lee 's widow christina said giving her legal aid was an insult to victims .", 
+                "the ministry of justice said it `` robustly defends compensation claims as far as the evidence allows '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efd265580000af41c9091e", 
+            "title": "historic peterborough church evacuated after fire breaks out", 
+            "text": [
+                "a historic peterborough city centre church was evacuated last night after a fire broke out in the basement ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efc63b1a0000bf40d27bf5", 
+            "title": "ambulance staff 'sign letter opposing meal-break plans '", 
+            "text": [
+                "about 600 staff at the east of england ambulance service have signed an open letter opposing plans to change meal-breaks for paramedics and other responders , the eastern daily press reports .", 
+                "a consultation document sent out by the trust last week suggests current meal breaks and end of shift agreements are having a `` denigratory '' impact on the service 's ability to respond to patients .", 
+                "a spokesman for eeast , which serves bedfordshire , cambridgeshire , essex , hertfordshire , norfolk and suffolk , says : `` not unlike all ambulance services across england , eeast recognises the impact that shift overruns have on our staff and we have put in place a number of measures to tackle this . ''"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb5af710000f53db0e9b2", 
+            "title": "peterborough united break eight match losing run after 1-2 victory against doncaster", 
+            "text": [
+                "ricardo santos scored an injury-time goal to give peterborough their first victory in eight league games , and send doncaster into the relegation places .", 
+                "defeat extended doncaster 's winless run to 13 games and saw former posh boss darren ferguson 's side slip into the relegation places below blackpool .", 
+                "head to bbc sport for a full match report ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efbdb15800001a3fc908d3", 
+            "title": "'boaty mcboatface ' could be name of new polar research vessel", 
+            "text": [
+                "a new \u00a3 200m polar research vessel could be be called `` boaty mcboatface '' after cambridge-based british antarctic survey ( bas ) launched an online poll to name it .", 
+                "the vessel is currently under construction at cammell laird 's yard in birkenhead .", 
+                "when completed it will study ice sheets , ocean currents and marine life in the arctic .", 
+                "other names in the running are pingu and usain bolt , which are proving more popular than traditional contenders like shackleton and endeavour .", 
+                "the closing date for entries is 16 april 2016 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efade91a0000e43ed27b9c", 
+            "title": "attacked football fan 's wife criticises case", 
+            "text": [
+                "the wife of cambridge united fan simon dobbin has criticised a `` lack of progress '' in the criminal case after her husband was left with brain damage in a post-match attack outside a pub .", 
+                "mr dobbin , 43 , has just returned home from hospital following the fracas in southend a year ago .", 
+                "several people have been arrested but no-one has been charged .", 
+                "his wife nicole said it was `` very frustrating '' that no-one had been `` brought to justice '' .", 
+                "the crown prosecution service is still considering if charges are to be brought against 13 people ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efaaa1710000f53db0e977", 
+            "title": "headlines : wife of attacked cambridge united fan criticises 'lack of progress ' in case peterborugh united break eight match losing run", 
+            "text": [
+                "here are the top stories in cambridgeshire this monday morning :"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb07c1a0000d23ed27ba5", 
+            "title": "travel : traffic lights failure affects a14 at histon", 
+            "text": [
+                "there are problems on the a14 westbound near cambridge caused by a traffic light failure at the histon interchange ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efaec25800001f3fc90899", 
+            "title": "travel : delays on a14 after accident involving a car and a swan", 
+            "text": [
+                "there are delays on the a14 westbound near godmanchester following an accident involving a car and a swan ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efa6ee1a0000e33ed27b7a", 
+            "title": "weather : generally dry with sunny spells throughout the day", 
+            "text": [
+                "today will be fine with cloud at times , but also some sunny spells .", 
+                "the best of the sunshine will be through the middle part of the day .", 
+                "maximum temperature : 11c ( 52f ) .", 
+                "watch my full forecast here , or head to bbc weather for more details for the week ahead ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efa5861a0000d23ed27b74", 
+            "title": "welcome to cambridgeshire live", 
+            "text": [
+                "good morning and thanks for joining us for the start of another week of cambridgeshire live .", 
+                "as ever , we 'll bring you the latest news , sport , weather and travel updates for cambridgeshire until 18:00 .", 
+                "we 've a full weather forecast coming next , and do n't forget , you can get involved with our live page at any time .", 
+                "send us your stories and via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-cambridgeshire", 
+    "quality": "high"
+}

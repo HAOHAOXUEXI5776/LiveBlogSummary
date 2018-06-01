@@ -1,0 +1,644 @@
+{
+    "blog_id": "67237b4555779706c8a8cb0733e8c8cf26c1fa31", 
+    "title": "BBC Local Live: Derbyshire on Tuesday 21 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-39032721", 
+    "summary": [
+        "updates for tuesday 21 february 2017 .", 
+        "caravan owners 'devastated ' by park closure .", 
+        "man released on bail after scooter crash .", 
+        "wirksworth heritage centre given \u00a3 1.3m grant .", 
+        "derby county v burton albion tonight .", 
+        "news , sport , travel and weather updates resume at 08:00 wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac7ebde4b03cb862dd18db", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire have finished for the day but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac7d9ee4b03cb862dd18d8", 
+            "title": "weather : cloudy and breezy at times", 
+            "text": [
+                "tonight will be cloudy and breezy at times with more showers expected overnight .", 
+                "lows of 9c ( 48f ) ."
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac7adee4b074e9ec260ad3", 
+            "title": "stuck on a38 kingsway this morning ?", 
+            "text": [
+                "if you were stuck in heavy traffic near kingsway roundabout this morning , then it 's because the council was carrying out overnight works which should have been completed by 5:00 .", 
+                "you 'll be pleased to hear there are no other planned works on the a38 ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac77a5e4b074e9ec260acb", 
+            "title": "rams v brewers tonight", 
+            "text": [
+                "derby county and burton albion meet at pride park this evening in the second `` a38 derby '' .", 
+                "it 's the first time nigel clough has been back with a side since he was sacked in 2013 .", 
+                "derby have no new injuries or suspensions to contend with - while burton albion defenders john brayford and kyle mcfadzean remain out through injury ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac6a1ee4b06f5728f83088", 
+            "title": "caravan park will reopen once 'site is made safe '", 
+            "text": [
+                "the company which owns haytop country park has told residents it 's closing the site because the electric and plumbing was becoming dangerous .", 
+                "the firm said caravan owners were given 28 days notice to leave after it discovered the problems during planned renovation work .", 
+                "countrywide park homes , which recently bought the site , said residents who have paid pitch fees will be compensated .", 
+                "it 's not known how long it will be closed but the company said it will reopen ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac7461e4b074e9ec260abd", 
+            "title": "one lane reopens on a52 eastbound", 
+            "text": [
+                "looks as if things are beginning to clear", 
+                "# a52 eastbound .", 
+                "recovery complete and lane one now open .", 
+                "congestion on approach to j25 m1 # travel # highways # derby"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac63c0e4b03cb862dd1852", 
+            "title": "storm doris : all you need to know", 
+            "text": [
+                "who ?", 
+                "storm doris is a low pressure system which is likely to cause disruption on thursday .", 
+                "why should i be worried ?", 
+                "an amber warning for wind is currently valid from 06:00 - 18:00 .", 
+                "amber warnings mean be prepared '' .", 
+                "where 's it going to hit ?", 
+                "the warning currently applies to derby , derbyshire , nottingham , nottinghamshire , leicester , leicestershire and rutland and other parts of the country .", 
+                "what 's going to happen ?", 
+                "rain is expected on thursday morning , which will become patchier as the day goes on .", 
+                "widespread gusts of 50-60mph are expected across the east midlands between 14:00 and 15:00 .", 
+                "gusts of 70-80mph are possible but more likely over higher ground and in exposed areas .", 
+                "what are the dangers ?", 
+                "high-sided vehicles should take extra care and widespread disruption to travel networks is likely .", 
+                "interruptions to power supplies is possible , there could be damage to structures and there is a danger of injury from flying debris ."
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac638fe4b03cb862dd184f", 
+            "title": "one lane closed on a52 eastbound", 
+            "text": [
+                "if you are planning on travelling eastbound on the a52 expect delays", 
+                "delays # a52 eastbound prior to j25 m1 .", 
+                "3 vehicle rtc , lane 1 closed for recovery .", 
+                "minor injuries only .", 
+                "# highways # travel # derby", 
+                "hi , would we be able to use this pic on our websites please ?", 
+                "@ twitterid @ twitterid and @ twitterid"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac4193e4b06f5728f82fbc", 
+            "title": "east midlands chamber of commerce moves premises", 
+            "text": [
+                "east midlands chamber of commerce is moving its office on friday and warned there may be disruptions to its services .", 
+                "the future of the old site in chesterfield 's canal wharf is not yet clear but the chamber said housing is most likely .", 
+                "the new commerce house will be in dunstan road ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac44afe4b074e9ec2609b8", 
+            "title": "following us on instagram yet ?", 
+            "text": [
+                "if not , what are you waiting for ?", 
+                "you can follow us here ."
+            ], 
+            "author": [
+                "Instagram"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac3b34e4b074e9ec260991", 
+            "title": "thief targets grave for second time", 
+            "text": [
+                "a grave has been targeted by thieves for the second time in three years .", 
+                "relatives visited nottingham road cemetery in chaddesden at about 13:00 on 6 february and noticed a statue similar to the one below had been stolen .", 
+                "the family had bought it to replace a bronze statue of the madonna which had been stolen from the grave in january 2014 ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac3da3e4b06f5728f82fa9", 
+            "title": "got a story for derbyshire ?", 
+            "text": [
+                "is there something you have seen or heard that you would like us to investigate ?", 
+                "it could be something you have always wondered about .", 
+                "if so send us your questions here ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac42bce4b074e9ec2609b2", 
+            "title": "travel : lane closed m1 southbound", 
+            "text": [
+                "m1 southbound lane closed on exit slip road , heavy traffic due to broken down vehicle at j28/a38 ( alfreton/mansfield ) ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac334ee4b06f5728f82f7e", 
+            "title": "clough returns to pride park tonight", 
+            "text": [
+                "nigel clough spoke to bbc derby sport ahead of his return to pride park with burton albion tonight .", 
+                "he told us : `` i think the derby fans now appreciate what we did for them . ''"
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac317ee4b074e9ec260960", 
+            "title": "your photos : heanor great tit", 
+            "text": [
+                "a lovely snap of a great tit in heanor this morning .", 
+                "thank you to our weather watcher stoneyford view for sending this in ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac273ce4b06f5728f82f39", 
+            "title": "batten down the hatches for doris", 
+            "text": [
+                "the storm on thursday has now been named doris '' and an amber weather warning has been issued for the east midlands for damaging winds .", 
+                "for a while we could experience gusts of 70-80mph ( 113-129km/h ) which could cause structural damage , interruptions to power supplies and disruption to travel .", 
+                "in addition to the strong winds , a band of heavy rain will also be with us which could convert to snow over higher ground .", 
+                "# stormdoris will bring some very strong winds for parts of the uk on thursday .", 
+                "here 's a look at where will see the strongest gusts", 
+                "as well as strong winds , # stormdoris will also bring # snow for some areas", 
+                "are these new graphics or have i been living under a rock ?", 
+                "anyway they are informative and quite nice !", 
+                "we have already had storm doris", 
+                "hi zarak , some media outlets referred to the next name in the list .", 
+                "we never officially named it ^rob", 
+                "thanks for that .", 
+                "ty newspapers jumping the gun again it seems .", 
+                "at least that clears things up", 
+                "no problem , we 're here 24/7 so any other questions then feel free to ask ^rob", 
+                "is there likely to be a lot of rain too ?", 
+                "storm desmond flood victim so # gettinganxious", 
+                "hi emma , heavy rain is likely on thursday for parts of the uk but we would be happy to check your local forecast ?", 
+                "^mo", 
+                "that would be great thank you i am in garstang preston", 
+                "heavy rain is possible thursday morning with accumulations of up to 20mm possible .", 
+                "1/2", 
+                "thank u mo", 
+                "@ twitterid do you think sailing will disrupted ? ?", 
+                "off to disneyland with 3 small children !", 
+                "!", 
+                "hi matt , you 'll need to check with your ferry operator ^rob", 
+                "thanks for the reply , will do !", 
+                "what 's the storm force likely to be ?", 
+                "where are you travelling from ?", 
+                "^rob", 
+                "hi we are going from dover to calais on thursday morning !", 
+                "thanks !", 
+                "how long is it going to last", 
+                "hi kate , the weather warnings are currently in place until 18:00 on thursday .", 
+                "keep up to date here : ^pat", 
+                "i thought doris was used at the start of february ?", 
+                "hi , no doris was not used earlier in february .", 
+                "find out about the storm dates here : ^tammy # weatheraware"
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac2bc5e4b03cb862dd1731", 
+            "title": "knife crime youth summit at pride park", 
+            "text": [
+                "derbyshire police held a knife crime youth summit with the city council at pride park stadium this morning .", 
+                "there was a range of speakers including ex-gang members , the mother of a knife crime victim and an a & e doctor ."
+            ], 
+            "author": [
+                "Rory Gallimore", 
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac2481e4b03cb862dd1709", 
+            "title": "teaching assistant 24 hour vigil continues", 
+            "text": [
+                "school support staff have been holding a 24 hour vigil outside the council house .", 
+                "it began yesterday and will end around noon today and is part of a long-running dispute over changes to teaching assitants ' contracts .", 
+                "derby city council said it 's been willing to try every avenue to resolve the dispute ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac1da5e4b074e9ec2608fa", 
+            "title": "man released on bail after scooter crash", 
+            "text": [
+                "a man has been released on police bail after a 14-year-old boy died following a scooter crash in south normanton on sunday afternoon .", 
+                "the teenager was involved in a collsion with a ford fusion car on fordbridge lane .", 
+                "the 27-year-old was arrested on sus of causing death by dangerous driving , failing to stop and being unfit to drive through drink or drugs ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac18e7e4b06f5728f82ef2", 
+            "title": "\u00a3 1.3m grant for wirksworth heritage centre", 
+            "text": [
+                "wirksworth heritage centre has received \u00a3 1.3m lottery funding to develop its new location .", 
+                "the centre recently moved from crown yard to st john 's street , hoping to make the history and stories of the town accessible to everyone .", 
+                "the money will go towards an extension which will house an exhibition , a museum and a cafe ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac0affe4b06f5728f82ea0", 
+            "title": "caravan park 'a little piece of paradise '", 
+            "text": [
+                "lisa lewis , on the right , told us her parents have had a caravan at haytop country park for 25 years and the news of its closure has come as a big shock .", 
+                "`` it 's really upset them .", 
+                "my mum 's coming up to 90 and she just ca n't believe they are being taken off the site the way .", 
+                "`` it 's our little piece of paradise up here . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ac0348e4b06f5728f82e70", 
+            "title": "big match for burton and derby", 
+            "text": [
+                "here 's how derby county commentator ed dawes sums up tonight 's match"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ac01c9e4b06f5728f82e68", 
+            "title": "'nowhere to go ' after caravan park closure", 
+            "text": [
+                "tony and pauline frost , who have had a static caravan on haytop country park for the last 12 years , said it 's been a mad rush to move everything out , and they still do n't know what to do with the caravan itself .", 
+                "tony said : `` we 've got to disconnect the water , disconnect the electricity , if there are any disruptions it could be as much as \u00a3 2,000 just to move this caravan .", 
+                "`` but having said that we 've got nowhere to take it .", 
+                "`` considering he 's given us a week , he 's put it in writing we are just dumbfounded . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58abfd2be4b03cb862dd164f", 
+            "title": "watch : weather for the east midlands", 
+            "text": [
+                "here 's how today 's looking"
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58abfc19e4b03cb862dd1649", 
+            "title": "caravan owners 'devastated ' by park closure", 
+            "text": [
+                "residents of haytop country park say they 're 'devastated ' after being given one week to leave the grounds .", 
+                "the caravan park at whatstandwell has 60 pitches for both static and touring caravans .", 
+                "the company which owns haytop country park has written to residents saying the site is closing ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58abf772e4b074e9ec260831", 
+            "title": "your photos : beautiful brailsford", 
+            "text": [
+                "oh what a beautiful morning .", 
+                "the sunrise in brailsford looks stunning .", 
+                "thank you to our weather watcher anne for sending this in .", 
+                "if you have any snaps send them into us here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58abf59ae4b03cb862dd1626", 
+            "title": "travel : slow traffic on a38", 
+            "text": [
+                "there is slow traffic due to an incident on the a38 ashbourne road northbound between a516 and a52 near the kingsway roundabout ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58abf370e4b03cb862dd1615", 
+            "title": "join us for today 's live news coverage", 
+            "text": [
+                "hello derbyshire - i 'll be writing the updates on your local live page today with all the latest news , sport , weather and travel .", 
+                "if you have a story to share or you 'd like to comment on any of the news on this page you can send an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

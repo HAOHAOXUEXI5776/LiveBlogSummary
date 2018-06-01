@@ -1,0 +1,730 @@
+{
+    "blog_id": "851c5204845afc537a50294620f6929b3e5e3a73", 
+    "title": "Dow breaks through 22,000, boosted by Apple - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/aug/02/uk-economy-poised-rebound-2018-forecasters-predict-business-live-bank-of-england", 
+    "summary": [
+        "european markets dip despite dow bounce .", 
+        "us crude stocks fall by less than expected .", 
+        "dow breaks through 22,000 for the first time .", 
+        "us jobs weaker than expected in july .", 
+        "pound nears 11-month high .", 
+        "the agenda : uk economy to rebound in 2018 , niesr predicts .", 
+        "experts react : brexit uncertainty weighs on uk construction ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981f7cee4b06059b8ca8577", 
+            "title": "european markets dip despite dow bounce", 
+            "text": [
+                "over in the us the dow jones industrial average may be hitting new heights , but european markets are not in the same buoyant mood .", 
+                "in the uk the ftse 100 has fallen back , not helped by disappointing results from standard chartered and rio tinto .", 
+                "european shares continued to slip on the strength of the euro , itself partly due to the weak dollar which has helped push up the dow .", 
+                "the final scores in europe showed : the ftse 100 finished down 12.23 points or 0.16 % at 7411.43 germany 's dax dropped 0.57 % to 12,181.48 france 's cac closed down 0.39 % 5107.25 italy 's ftse mib fell 0.18 % to 21,573.61 spain 's ibex ended down 0.69 % at 10,513.9 but in greece , the athens market added 1.01 % to 826.02 on wall street the dow - having hit a new peak of 22,036.10 - is currently up 0.1 % at 21,986 .", 
+                "on that note , it 's time to close for the evening .", 
+                "thanks for all your comments , and we 'll be back tomorrow"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                16, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981ea56e4b06059b8ca8539", 
+            "title": "", 
+            "text": [
+                "bob doll , chief equity strategist at nuveen asset management , told bloomberg tv : hopefully 22 becomes a floor rather than a ceiling there is cash on the sidelines , returns on that are low , bonds are sitting there doing not much , and earnings are coming through .", 
+                "so stocks are the story .", 
+                "bloomberg tv ( @ bloombergtv ) the dow broke 22,000 for the first time ever , surging at the market open"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                15, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981e25ee4b06059b8ca851a", 
+            "title": "us crude stocks fall by less than expected", 
+            "text": [
+                "oil prices are sliding after new figures showed that us crude stocks fell by less than expected last week .", 
+                "according to the energy information administration , crude stockpiles dropped by 1.53m barrels to 481.89 , lower than the 2.96m decline expected by analysts .", 
+                "but gasoline stocks fell by a higher than forecast 2.52m barrels .", 
+                "the figures suggested a drop in demand even as oil producers continue to try and limit demand .", 
+                "next week opec and non-opec producers are due to meet to discuss supply issues , with the background of us shale producers continuing to ramp up to make up for any shortfalls .", 
+                "the latest eia figure saw brent crude , which was up 0.27 % at $ 51.92 a barrel just ahead of the announcement , slip 0.7 % to $ 51.42 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                14, 
+                44
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981db00e4b06059b8ca84ee", 
+            "title": "", 
+            "text": [
+                "back with the dow , and here are the biggest movers so far ( and the apple effect is evident ) : dow movers reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                14, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981d9d9e4b06059b8ca84e8", 
+            "title": "", 
+            "text": [
+                "and here 's another thing which may knock markets back .", 
+                "according to a professor at the schulich school of business , the first total solar eclipse in 38 years , set for august 21 , could be a bad day for stock markets .", 
+                "professor mark kamstra said research showed that weather-related psychological states , such as seasonal affective disorder ( sad ) , could cause heightened risk aversion by investors .", 
+                "the study found that stock market returns in countries around the world are significantly related to the amount of daylight through the fall and winter . ''", 
+                "so basically the solar eclipse could have a similar effect .", 
+                "kamstra said : historically , solar eclipses have inspired great fear , and , even today , some superstition remains for many people , so the markets can expect some fallout , '' you have been warned ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                14, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981d8e6e4b0d340766ccc57", 
+            "title": "", 
+            "text": [
+                "the rally may not last , however .", 
+                "neil wilson , chief market analyst at etx capital , said : it 's not the fastest 1,000 point run - it 's taken a lot longer than the 24 sessions it took to get from 20k to 21k - but it 's indicative of a bull market speeding to a top .", 
+                "the dow is now up more than 11 % this year , while the tech-heavy nasdaq is up more than 18 % .", 
+                "but august is usually not a great month for stocks - up 5 times in the last 20 - so there is caution about how long this can be sustained beyond earnings season euphoria .", 
+                "and he added : it 's not just apple - earnings are delivering across the board for us equities .", 
+                "whatever is happening in washington is not bothering the stock market .", 
+                "it is hitting the dollar of course .", 
+                "a lack of any fundamental moves in bond spreads suggests the recent dollar swoon is largely politically-driven .", 
+                "a weaker buck is good for us stocks and increasing doubts about the fed 's capacity to raise rates quickly is also supporting equities .", 
+                "the punch bowl is still half full ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                13, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981d79ae4b0dc6c3f0fece4", 
+            "title": "", 
+            "text": [
+                "the dow has been hitting new highs despite the turmoil in washington , with president trump unable to enact his healthcare reforms while facing continuing questions over russian involvement in the election , not to mention the shock departures of several of his key staff .", 
+                "it is recent positive set of company results which has taken investors ' minds off the trump turmoil , with apple shares providing the final flourish with an opening 5 % rise to a record $ 159 after its figures .", 
+                "a weaker dollar - thanks to the growing likelihood the federal reserve may not raise interest rates again in the near future - is also helping lift shares in exporters .", 
+                "naeem aslam , chief market analyst at think markets uk , said : investors are completely immune to all the drama which is taking place over in washington because if you look at the performance of the dow , it appears everything is hunky dory .", 
+                "although one can never underestimate the possibility of the president getting impeached but again that could mean more favourable trade relations with other countries and things moving back to normal .", 
+                "thus , the impeachment trade itself could be positive for the equity market after a knee jerk reaction as the trump trade would unwind .", 
+                "in earnings , it is all about apple .", 
+                "the firm comfortably topped its forecast and produced stellar numbers for its revenue and profit .", 
+                "the big news was about the production of iphone 8 , the flagship product for the firm will hit the market on time with no issues around production ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                13, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981d3abe4b0dc6c3f0fecca", 
+            "title": "dow breaks through 22,000 for the first time", 
+            "text": [
+                "the dow jones industrial average has broken through the 22,000 barrier for the first time , boosted by a host of positive corporate earnings reports , the latest being apple ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                13, 
+                30
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981ccfae4b0dc6c3f0fecb5", 
+            "title": "", 
+            "text": [
+                "if the dow does hit 22,000 for the first time today , apple wo n't be the only one taking the credit donald j. trump ( @ realdonaldtrump ) stock market could hit all-time high ( again ) 22,000 today .", 
+                "was 18,000 only 6 months ago on election day .", 
+                "mainstream media seldom mentions !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                13, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981c2e0e4b0d340766ccc01", 
+            "title": "us jobs weaker than expected in july", 
+            "text": [
+                "the adp employment report is out and has come in below forecasts .", 
+                "private sector employment increased by 178,000 in july , weaker than the 185,000 predicted by economists .", 
+                "however , the number for june was revised up sharply to show a 191,000 increase in jobs , compared with an earlier estimate of 158,000 .", 
+                "the services industry accounted for the vast majority of new jobs in july :"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                12, 
+                29
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5981c23ee4b0dc6c3f0fec8c", 
+            "title": "", 
+            "text": [
+                "traders at spread betting firm ig are predicting the dow jones will open just shy of the 22,000 mark when wall street opens : igsquawk ( @ igsquawk ) us opening calls : # dow 21996 +0.17 % # spx 2476 +0.02 % # nasdaq 5930 +0.61 % # igopeningcall"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                12, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981baa4e4b06059b8ca8467", 
+            "title": "", 
+            "text": [
+                "time for a market update .", 
+                "major markets across europe are in the red , with the ftse 100 extending losses , and now down 29 points at 7,395 .", 
+                "ftse 100 : -0.4 % at 7,395 germany 's dax : -0.3 % at 12,213 france 's cac : -0.1 % at 5,121 italy 's ftse mib : -0.2 % at 21,580 spain 's ibex : -0.5 % at 10,534 europe 's stoxx 600 : -0.2 % at 379 investors await the bell in wall street , where the dow could surpass 22,000 for the first time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                11, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981ac62e4b0dc6c3f0fec31", 
+            "title": "", 
+            "text": [
+                "investors are braced for the latest decision on interest rates from the bank of england 's monetary policy committee , which will be delivered at noon tomorrow .", 
+                "although markets have brought forward expectations for the timing of the first rate hike since july 2007 , economists polled by reuters do n't think tomorrow will be the day .", 
+                "they are forecasting another split among mpc members - after a shock 5-3 split in june .", 
+                "this month two members of the committee are expected to vote for a rise in rates - to 0.5 % from a current record low of 0.25 % - while six are expected to vote in favour of no change .", 
+                "bank of england edges closer to increasing uk interest rates read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                11, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981a825e4b0d340766ccb80", 
+            "title": "pound nears 11-month high", 
+            "text": [
+                "the pound is holding on to earlier gains against the dollar , up 0.3 % at $ 1.3234 , helped by a broadly weaker dollar .", 
+                "sterling is now at a near 11-month high :"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                10, 
+                37
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5981a2e0e4b0dc6c3f0fec00", 
+            "title": "", 
+            "text": [
+                "eduardo gorab , property economist at capital economics , says the july construction pmi was underwhelming '' .", 
+                "here is the data in chart form : growth in uk construction slowed to an 11-month low in july"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                10, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59819bede4b0d340766ccb4a", 
+            "title": "experts react : brexit uncertainty weighs on uk construction", 
+            "text": [
+                "samuel tombs , chief uk economist at pantheon macroeconomics , says the weaker than expected construction pmi shows brexit uncertainty is weighing on commercial building : the sharp fall in the construction pmi in july suggests that the renewed slowdown recorded by the official data in the second quarter wo n't be short-lived .", 
+                "the decline in the pmi primarily reflected a big drop in the commercial activity index to its lowest level since immediately after the eu referendum .", 
+                "commercial clients reportedly delayed decisions due to worries about the economic outlook and elevated political uncertainty .", 
+                "the adverse impact of brexit uncertainty on commercial work likely will grow if , as we expect , exit talks progress slowly .", 
+                "indeed , more firms will activate brexit contingency plans as the article 50 deadline draws closer , freeing up office space and sapping demand for new commercial projects .", 
+                "howard archer , chief economic advisor to the ey item club : weakened economy activity , a lacklustre housing market and appreciable economic and political uncertainties threaten to be a damaging combination for the construction sector over the coming months .", 
+                "meanwhile , construction companies are currently still being squeezed by elevated input costs .", 
+                "house building activity could be pressurised by extended slow housing market activity and subdued prices amid weakened consumer fundamentals .", 
+                "there is a risk that some companies may also be cautious about committing to major projects if there is any increase in level of uncertainty over the coming months ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                9, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-598191fde4b06059b8ca839b", 
+            "title": "commercial building and housing weigh on uk construction", 
+            "text": [
+                "a fall in commercial building weighed on the uk construction sector in july kangaris for the guardian the detail of the july construction pmi survey shows reveals a sharp slowdown in commercial building such as offices as shops .", 
+                "activity in that part of the sector actually fell .", 
+                "growth in housebuilding meanwhile slowed , doing to little to raise hopes that britain 's housing shortage will be solved any time soon .", 
+                "the strongest area was civil engineering , where growth actually accelerated in july .", 
+                "the message from firms to appear one of waning confidence among clients , who were unwilling to commit to major spending decisions last month .", 
+                "mike chappell , managing director for construction at lloyds commercial banking , is hoping july was a blip for the sector rather than the beginning of a broader trend .", 
+                "it has been a mixed month for the sector , so this dip in the reading is not a major surprise .", 
+                "the hope is that it is a blip rather than the beginning of a downward trend .", 
+                "results from commercial contractors show margins are holding up reasonably well and improving .", 
+                "meanwhile , any nervousness about pipelines has eased for many firms by the awarding of contracts for hs2 .", 
+                "the principal headwinds - particularly input price inflation and concerns about the future supply of eu labour - remain , so the focus is on organic growth , continuing to boost margins to above the 2 % mark and a disciplined approach to contract bidding .", 
+                "these priorities are still key if the industry is to mitigate the risks in the current trading environment ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                9, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59818db7e4b0d340766ccb18", 
+            "title": "breaking : uk construction grows at weakest rate in 11 months", 
+            "text": [
+                "the markit/cips construction pmi has come in a lot weaker than expected .", 
+                "the headline index combining output , orders and employment in the sector fell to 51.9 in july , from 54.8 in june .", 
+                "anything above 50 signals growth .", 
+                "economists polled by reuters predicted a much smaller dip in the headline number to 54.5 .", 
+                "tim moore from ihs markit : july data reveals a growth slowdown in the uk construction sector , mainly driven by lower volumes of commercial development and a loss of momentum for house building .", 
+                "worries about the economic outlook and heightened political uncertainty were key factors contributing to subdued demand .", 
+                "construction firms reported that clients were more reluctant to spend and had opted to take longer in committing to new projects .", 
+                "more soon ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                8, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-598187b5e4b0d340766ccaff", 
+            "title": "dollar weakens as white house drama continues", 
+            "text": [
+                "the dollar is under further pressure this morning , as political drama in the us continues to unfold .", 
+                "the dollar 's loss is the pound 's gain , with sterling nearing an 11-month high .", 
+                "the pound is up 0.3 % against the us currency , at $ 1.3234 , and the euro is also up 0.3 % against the dollar at $ 1.1839 .", 
+                "trump 'weighed in ' on son 's russia statement , white house confirms read more world first ( @ world first ) dollar continues post scaramucci declines - world first morning update august 2nd -"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59818566e4b0d340766ccafc", 
+            "title": "apple shares hit a new high on iphone sales", 
+            "text": [
+                "apple shares hit a fresh record hight on tuesday after the us tech giant announced it had sold 41m iphones in the last three months .", 
+                "investors were also reassured as apple suggested rumours of a delay to the launch of the iphone 8 , due in september , were incorrect .", 
+                "read our full story here : apple hints iphone 8 wo n't be delayed as company 's shares hit record high read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59818185e4b06059b8ca8362", 
+            "title": "ftse dragged down by commodity stocks", 
+            "text": [
+                "the ftse 100 is off 19 points this morning , with commodity stocks dominating the list of the biggest fallers : commodity shares are down on lower oil prices , with the brent crude down 1 % this morning at $ 51.29 a barrel .", 
+                "rising us stocks of oil added to concerns about oversupply , pushing prices down .", 
+                "figures from the american petroleum institute showed that us crude stocks rose by 1.8m barrels to 488.8m in the week ending 28 july ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                7, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59817c3ee4b0dc6c3f0feb73", 
+            "title": "european markets fail to get apple boost", 
+            "text": [
+                "markets in europe are mixed this morning .", 
+                "shares have failed to get any major boost from the apple-led tech rally that drove wall street higher on tuesday .", 
+                "the scores so far in europe : ftse 100 : -0.3 % at 7,405 germany 's dax : +0.1 % at 12,266 france 's cac : -0.3 % at 5,113 italy 's ftse mib : +0.1 % at 21,624 spain 's ibex : -0.1 % at 10,577 europe 's stoxx 600 : -0.1 % at 380"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                7, 
+                37
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59816cc5e4b0d340766ccab6", 
+            "title": "the agenda : uk economy to rebound in 2018 , niesr predicts", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "we have some upbeat predictions for the uk economy this morning , as the national institute of economic and social research publishes its latest set of forecasts .", 
+                "economists at the thinktank predict growth will accelerate to 1.9 % in 2018 from 1.7 % this year .", 
+                "they believe the fall in the value of the pound since the brexit vote will give that long-awaited boost to exports .", 
+                "as a result of stronger growth , niesr says policymakers at the bank of england will be ready to vote for a rise in interest rates in the spring .", 
+                "previously they predicted the first rate hike would come after the second quarter of 2019 , when britain had left the european union .", 
+                "jagjit chadha , the institute 's director , says rate rises from the current all-time low of 0.25 % will be a slow process : we are not talking about a rapid return to higher interest rates , but signalling that process - even if it takes five to seven years - will help banks rebuild their balance sheets and create a healthier financial system .", 
+                "here is our story on the niesr forecasts : uk economy is about to surge back to life , says leading forecaster read more also today we have the latest healthcheck on the uk construction sector at 9.30 with the publication of the latest pmi survey .", 
+                "it is expected to show a slight dip in growth in the sector in july .", 
+                "at 13.15 the adp employment survey for july will provide the latest insight into the us jobs market ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                2, 
+                7, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.34pm BST\n17:34\nEuropean markets dip despite Dow bounce\n", 
+                "block": "block-5981f7cee4b06059b8ca8577"
+            }, 
+            {
+                "text": "\n\n3.44pm BST\n15:44\nUS crude stocks fall by less than expected\n", 
+                "block": "block-5981e25ee4b06059b8ca851a"
+            }, 
+            {
+                "text": "\n\n2.30pm BST\n14:30\nDow breaks through 22,000 for the first time\n", 
+                "block": "block-5981d3abe4b0dc6c3f0fecca"
+            }, 
+            {
+                "text": "\n\n1.29pm BST\n13:29\nUS jobs weaker than expected in July\n", 
+                "block": "block-5981c2e0e4b0d340766ccc01"
+            }, 
+            {
+                "text": "\n\n11.37am BST\n11:37\nPound nears 11-month high\n", 
+                "block": "block-5981a825e4b0d340766ccb80"
+            }, 
+            {
+                "text": "\n\n8.15am BST\n08:15\nThe agenda:\u00a0UK economy to rebound in 2018, NIESR predicts\n", 
+                "block": "block-59816cc5e4b0d340766ccab6"
+            }, 
+            {
+                "text": "\n\n10.47am BST\n10:47\nExperts react: Brexit uncertainty weighs on UK construction\n", 
+                "block": "block-59819bede4b0d340766ccb4a"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/02/uk-economy-poised-rebound-2018-forecasters-predict-business-live-bank-of-england?page=with:block-5981d3abe4b0dc6c3f0fecca#block-5981d3abe4b0dc6c3f0fecca"
+                ], 
+                "text": "Wall Street hits new peaks after iPhone maker's results.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/02/uk-economy-poised-rebound-2018-forecasters-predict-business-live-bank-of-england?page=with:block-59818db7e4b0d340766ccb18#block-59818db7e4b0d340766ccb18"
+                ], 
+                "text": "UK construction grows at weakest rate in 11 months.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/02/uk-economy-poised-rebound-2018-forecasters-predict-business-live-bank-of-england?page=with:block-5981a825e4b0d340766ccb80#block-5981a825e4b0d340766ccb80"
+                ], 
+                "text": "Pound highest against the dollar since September.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/02/uk-economy-poised-rebound-2018-forecasters-predict-business-live-bank-of-england?page=with:block-5981c2e0e4b0d340766ccc01#block-5981c2e0e4b0d340766ccc01"
+                ], 
+                "text": "US jobs growth weaker than expected in July.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

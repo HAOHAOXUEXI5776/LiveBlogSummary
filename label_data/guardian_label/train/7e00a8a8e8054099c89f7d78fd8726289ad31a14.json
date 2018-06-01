@@ -1,0 +1,805 @@
+{
+    "blog_id": "7e00a8a8e8054099c89f7d78fd8726289ad31a14", 
+    "title": "Norcia earthquake: 6.6 magnitude shock felt in Rome - as it happened | World news | The Guardian", 
+    "url": "https://www.theguardian.com/world/live/2016/oct/30/italy-earthquake-66-magnitude-tremor-felt-in-rome", 
+    "summary": [
+        "around 10 injured but no reports of deaths .", 
+        "'i saw hell '", 
+        "what we know so far .", 
+        "no immediate reports of casualties .", 
+        "'it 's a disaster ! '", 
+        "map of the e .", 
+        "6.6 magnitude earthquake hits italy ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815d008e4b01c528432e3b2", 
+            "title": "", 
+            "text": [
+                "we are wrapping up our live coverage of the italy earthquake .", 
+                "dozens of historic buildings have been destroyed or seriously damaged by the 6.6 magnitude quake , with around a dozen people reported to be injured .", 
+                "there are currently no reports of deaths following the shock on sunday morning .", 
+                "the e of the quake was about 40 miles ( 68km ) south-west of perugia and close to the town of norcia , which was already reeling from a series of large quakes .", 
+                "many of the town 's residents had been evacuated after quakes on wednesday , meaning they avoided the worst of the damage on sunday .", 
+                "for the latest developments , click here for our full story ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                10, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815cacbe4b0219a00d3a3c6", 
+            "title": "", 
+            "text": [
+                "more footage from italian television of a collapsed building in the marche town of visso : sky tg24 ( @ skytg24 ) il crollo di una casa gia lesionata a visso dopo il # terremotocentroitalia di questa mattina .", 
+                "notizie su # canale50 e"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                10, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815c878e4b08d944ba4c34f", 
+            "title": "", 
+            "text": [
+                "some images from the destruction in italy : a collapsed building in l'aquila after the strong earthquake in central italy today .", 
+                "lattanzio/epa debris in norcia after a wall collapsed following the strong earthquake that hit central italy on sunday .", 
+                "another scene in norcia .", 
+                "the quake was centred 6km north of the central italian town ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                10, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815bc3de4b01c528432e362", 
+            "title": "", 
+            "text": [
+                "stephanie kirchgaessner sends this update from rome : emergency responders - 112 in italy - are urging people to use sms messages and whatsapp to check on their loved ones to avoid blocking emergency calls on telephone lines .", 
+                "112 italia ( @ 112 italia ) per assicurarvi che i vostri cari stiano bene , utilizzate sms o whatsapp per non intasare le linee telefoniche # terremoto emergenza 112 in rome , where the shock of the earthquake was felt , it still feels a bit jittery , '' she says .", 
+                "steph kirchgaessner ( @ skirchy ) every now and then tv reports interuppted as journalists say it 's shaking again `` ecco , ecco , ecco '' is all you hear steph kirchgaessner ( @ skirchy ) though relatively far from the worst , feels a bit jittery in rome .", 
+                "people checking in on neighbors.only time i felt such a quake was in chile"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                9, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815b7cfe4b08d944ba4c31c", 
+            "title": "", 
+            "text": [
+                "the independent scientific organisation emsc has tweeted this map of where the quake struck in italy earlier today .", 
+                "emsc ( @ lastquake ) m6.5 # earthquake ( # terremoto ) strikes 125 km ne of # roma ( # italy ) 26 min ago .", 
+                "updated map of its effects :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                9, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815b734e4b08d944ba4c31a", 
+            "title": "around 10 injured but no reports of deaths", 
+            "text": [
+                "the head of civil protection , fabrizio curcio , has said at a press conference in the town of rieti that a dozen '' people are reported injured , according to the italian newspaper la stampa .", 
+                "all the injuries are reported to be minor except for one who is said to be more seriously hurt .", 
+                "my colleague in rome , stephanie kirchgaessner , has tweeted : steph kirchgaessner ( @ skirchy ) no casualties reported yet , according to head of civil protection .", 
+                "about ten injuries , one of them serious # italyearthquake steph kirchgaessner ( @ skirchy ) italians and the world face the sad reality that a beautiful part of italy , in marche and umbria , will never be the same .", 
+                "# italyearthquake meanwhile , la stampa reports that six injured people have been recovered from the rubble in norcia ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                9, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815b5f5e4b0219a00d3a36a", 
+            "title": "", 
+            "text": [
+                "here is footage from italian television of firefighters rescuing nuns in the badly-hit town of norcia : mary shovlain ( @ maryshovlain ) from skytg24 : firemen assisting nuns in norcia as quakes continue to bring that city to its knees : # eartquake # norcia # terremoto"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815b4a0e4b0219a00d3a364", 
+            "title": "", 
+            "text": [
+                "the monks of the devastated st benedictine church , in norcia , have said people remain trapped in the town 's square : the monks of norcia ( @ monksofnorcia ) people are trapped in the main square , as nearby buildings may collapse .", 
+                "trucks are coming to clear a path to safety .", 
+                "# terremoto in an update on their website , the monks posted : dear friends , around 7:40 am , a powerful earthquake struck close to norcia .", 
+                "the monks are all safe , but our hearts go immediately to those affected , and the priests of the monastery are searching for any who may need the last rites .", 
+                "the basilica of st. benedict , the historic church built atop the birthplace of st. benedict , was flattened by this most recent quake .", 
+                "may this image serve to illustrate the power of this earthquake , and the urgency we monks feel to seek out those who need the sacraments on this difficult day for italy .", 
+                "relying , as ever , on your prayers and support , fr .", 
+                "benedict subprior"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815b396e4b08d944ba4c312", 
+            "title": "", 
+            "text": [
+                "three people have been pulled alive from rubble in the marche town of tolentino , the italian newspaper la stampa reports .", 
+                "there are reports that several buildings have collapsed in the town of about 20,000 people ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815b0d6e4b0219a00d3a35d", 
+            "title": "'i saw hell '", 
+            "text": [
+                "the mayors of the quake-hit towns , ussita and arquata del tronto , have described the devastating effect of this morning 's earthquake .", 
+                "it 's a disaster , a disaster ! ''", 
+                "mayor marco rinaldi told the ansa news agency .", 
+                "i was sleeping in the car and i saw hell . ''", 
+                "like rinaldi , many people were sleeping in cars or had been evacuated to shelters or hotels in other areas following aftershocks on wednesday from the earthquake in august .", 
+                "in arquata del tronto , which had been devastated by the earlier earthquake on 24 august that killed nearly 300 people , mayor aleandro petrucci said : there are no towns left everything came down . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815afeee4b08d944ba4c309", 
+            "title": "", 
+            "text": [
+                "emergency workers are racing to determine if any people have been killed or injured in the 6.6 magnitude earthquake , the associated press reports .", 
+                "the quake was centered in a mountainous area straddling the central italy regions of umbria and marche .", 
+                "the head of the civil protection authority in the marche region , cesare spuri , says there have been reports of buildings collapsing in many cities ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815a683e4b0219a00d3a33f", 
+            "title": "what we know so far", 
+            "text": [
+                "an 6.6 magnitude earthquake has struck central italy .", 
+                "the european-mediterranean seismological centre put the e 132 kilometres northeast of rome and 67 kilometres east of perugia , near the e of quakes that hit the region last week .", 
+                "there are no immediate reports of casualties , and the quake hit some areas already evacuated following earlier tremors , but the damage to buildings is believed to be extensive .", 
+                "the earthquake toppled norcia 's basilica of st benedict and is believed to have flattened large parts of arquata del tronto and ussita .", 
+                "the quake was felt strongly in rome , where authorities suspended the metro , and also over the border in croatia and slovenia ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                24
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815ab15e4b01c528432e32a", 
+            "title": "", 
+            "text": [
+                "steph kirchgaessner ( @ skirchy ) hope for now is that the worst damage was to areas that were already abandoned by most people following wednesday 's quakes # italyearthquake"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815aaa2e4b0219a00d3a348", 
+            "title": "", 
+            "text": [
+                "stephanie kirchgaessner has filed this update from rome : i was woken up by the earthquake , '' gianpaolo giovannelli , who lives in the flamimio area of rome , told the guardian .", 
+                "the apartment started to shake .", 
+                "we feel them here in rome , but we never get used to them , so each time we feel fear . ''", 
+                "assia staffoli , a mother of two from rome , said her husband put their six year old daughter under the table when they felt the earthquake , which caused their bedrooms , on a mezzanine level , to shake badly .", 
+                "that 's what you 're told to do when there 's an earthquake , go under the table , '' staffoli said .", 
+                "i was feeding my son ( aged 7 months ) , when it happened .", 
+                "we then quickly left the apartment . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a985e4b08d944ba4c2f3", 
+            "title": "", 
+            "text": [
+                "a\u20ebn\u20ebi\u20ebs\u20eb ( @ 0xuid ) aftermath from arquata del tronto are horrifying !", 
+                "# italyearthquake"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815a922e4b08d944ba4c2f1", 
+            "title": "", 
+            "text": [
+                "guardian reporters stephanie kirchgaessner and angela giuffrida have filed a wrap of events so far in italy this morning : italy was rocked by a magnitude 6.6 earthquake on sunday morning , hitting the central italian region already reeling from a series of large quakes .", 
+                "the e of the quake , according to initial reports , was about 68km south-west of perugia and close to the town of norcia , which had been hit by two successive quakes on wednesday night that caused extensive damage .", 
+                "on sunday morning live television images showed firefighters in norcia 's main square helping people - including many monks and nuns in their habits from a nearby monastery - running down small alleyways seeking safety .", 
+                "read the full story here : norcia earthquake : damage as central italy hit again by magnitude 6.6 shock read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                8, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a5d2e4b01c528432e31c", 
+            "title": "no immediate reports of casualties", 
+            "text": [
+                "stephanie kirchgaessner and angela giuffrida report that while it is clear that structures sustained major damage , it is too early to tell whether the latest disaster caused major injuries or fatalities : it all came down , now there is no more town , '' said the mayor of arquata del tronto , aleandro petrucci .", 
+                "but , he added , there were already red zones '' in place that had been abandoned after the previous quakes .", 
+                "the few people who remained have gone out to the streets , and are embracing .", 
+                "now we 're going around to see what happened , '' he said .", 
+                "cesare spuri , the head of civil protection in marche , said : there are collapses everywhere .", 
+                "we report collapses in muccia , tolentino and in the areas surrounding macerata , we 're trying to establish if people are underneath the rubble .", 
+                "there was also a strong shock in ancona . ''", 
+                "in rome , the quake caused far more concern than wednesday 's earthquakes as they were felt much more strongly and for a longer period .", 
+                "the metro in the city has been closed while safety checks are conducted ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a593e4b01c528432e31b", 
+            "title": "", 
+            "text": [
+                "emsc ( @ lastquake ) strongest # earthquake in # italy since 1980 .", 
+                "and likely an unprecendeted sequence of 3 large shocks in 4 days for the country"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a4f2e4b01c528432e319", 
+            "title": "", 
+            "text": [
+                "agence france-presse reports that the quake hit towns that were mostly empty following earthquakes in previous days : the quake set dogs barking in the largely-abandoned towns of norcia , castelsantagelo , preci and visso , where residents had left their homes to sleep in cars or moved to the coast following this week 's quakes .", 
+                "everything collapsed .", 
+                "i can see columns of smoke , it 's a disaster , a disaster , '' marco rinaldi , the mayor of ussita , one of the pretty mountain villages hit hardest by the last quake , told journalists .", 
+                "i was sleeping in my car , i saw hell break out , '' he was quoted as saying .", 
+                "italy 's civil protection department said there were checks underway in all the towns affected by this morning 's quake to determine whether there has been any damage to people or buildings . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a45ae4b08d944ba4c2d9", 
+            "title": "", 
+            "text": [
+                "video from sky news posted on twitter shows firemen assisting nuns in the aftermath of the quake in norica .", 
+                "mary shovlain ( @ maryshovlain ) from skytg24 : firemen assisting nuns in norcia as quakes continue to bring that city to its knees : # eartquake # norcia # terremoto"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a423e4b08d944ba4c2d8", 
+            "title": "", 
+            "text": [
+                "cindy wooden ( @ cindy wooden ) sky24 news is live in norcia main square where benedictine monks & nuns are leading prayers"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a28de4b08d944ba4c2d3", 
+            "title": "'it 's a disaster ! '", 
+            "text": [
+                "stephanie kirchgaessner and angela giuffrida report from rome that the quake was also felt in veneto , puglia and naples , according to la stampa .", 
+                "mauro falcucci , mayor of castelsantangelo , a town in the lazio rieti province , told la repubblica : i 'm in fano , where i live , but they 're saying that buildings have collapsed , that it 's a disaster !", 
+                "the ground is open , there 's smoke , a disaster . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a24ae4b08d944ba4c2d1", 
+            "title": "", 
+            "text": [
+                "it seems that the basilica of of st. benedict in norica has been destroyed .", 
+                "steve amann ( @ stvama ) # norcia # italy # earthquake our wake up call this morning 10/30/16"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5815a19ee4b0219a00d3a32e", 
+            "title": "", 
+            "text": [
+                "some images of the damage from the quake are starting to come through on twitter .", 
+                "amichai stein ( @ amichaistein1 ) damage in # norcia # italy after 6.6m earthquake - @ twitterid1 cameron sinclair ( @ casinclair ) basilica of st. benedict is destroyed by central italy # earthquake .", 
+                "# norcia"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5815a113e4b0219a00d3a32b", 
+            "title": "map of the e", 
+            "text": [
+                "map of the e"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                29
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58159f5ae4b08d944ba4c2ca", 
+            "title": "", 
+            "text": [
+                "emsc ( @ lastquake ) this is the 15th felt # earthquake in central italy in the last 71 hours"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58159ea4e4b0219a00d3a323", 
+            "title": "", 
+            "text": [
+                "the guardian 's rome correspondent stephanie kirchgaessner felt the earthquake and has sent in this report : live television images showed firefighters in norcia 's main square , in some cases helping people - including many monks and nuns in their habits from a nearby monastery - running down small alleyway seeking safety .", 
+                "the tremors could strongly be felt in rome and naples , with people sending messages on social media about seeing the walls shaking .", 
+                "television crews in norcia showed rubble on the ground and damage to ancient structures , but it was unclear whether the damage was related to the most recent quake ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58159c5ae4b0219a00d3a319", 
+            "title": "", 
+            "text": [
+                "ferdinando giugliano ( @ ferdigiugliano ) the e of this # earthquake was again between umbria and marche according to @ twitterid - but significantly stronger than past ones ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58159a16e4b08d944ba4c2b2", 
+            "title": "", 
+            "text": [
+                "the quake comes days after central italy was hit by two earthquakes that brought back memories of the disaster that hit the region in august .", 
+                "read the full story here : italy earthquakes rattle buildings and residents two months after disaster read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58159b05e4b01c528432e2fa", 
+            "title": "6.6 magnitude earthquake hits italy", 
+            "text": [
+                "hello , we are starting our live coverage of the earthquake that has struck in central italy .", 
+                "details are still emerging and we know that the quake measured at least 6.6 magnitude on the richter scale and was felt in rome .", 
+                "the usgs said the quake was centred 68km ( 42 miles ) east-southeast of perugia .", 
+                "it was 108km ( 67 miles ) deep .", 
+                "it comes after months of seismic activity in italy , including the amatrice earthquake in august , which left more than 250 people dead ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                30, 
+                7, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "world", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.08am GMT\n09:08\nAround 10 injured but no reports of deaths\n", 
+                "block": "block-5815b734e4b08d944ba4c31a"
+            }, 
+            {
+                "text": "\n\n8.41am GMT\n08:41\n'I saw hell'\n", 
+                "block": "block-5815b0d6e4b0219a00d3a35d"
+            }, 
+            {
+                "text": "\n\n8.24am GMT\n08:24\nWhat we know so far\n", 
+                "block": "block-5815a683e4b0219a00d3a33f"
+            }, 
+            {
+                "text": "\n\n7.51am GMT\n07:51\nNo immediate reports of casualties\n", 
+                "block": "block-5815a5d2e4b01c528432e31c"
+            }, 
+            {
+                "text": "\n\n7.36am GMT\n07:36\n'It's a disaster!'\n", 
+                "block": "block-5815a28de4b08d944ba4c2d3"
+            }, 
+            {
+                "text": "\n\n7.29am GMT\n07:29\nMap of the epicentre\n", 
+                "block": "block-5815a113e4b0219a00d3a32b"
+            }, 
+            {
+                "text": "\n\n7.12am GMT\n07:12\n6.6 magnitude earthquake hits Italy\n", 
+                "block": "block-58159b05e4b01c528432e2fa"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Strong tremor in central Italy days after the region was hit by two earthquakes.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

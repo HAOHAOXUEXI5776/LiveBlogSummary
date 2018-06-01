@@ -1,0 +1,766 @@
+{
+    "blog_id": "3b2c44532f5c04da7b3e41d74b9c5a1e9b3307ce", 
+    "title": "BBC Local Live: Oxfordshire on Friday 22 May 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-32743264", 
+    "summary": [
+        "police investigate thames boating death .", 
+        "councillors vote fror allowances increase .", 
+        "buskers in protest over council fines plan .", 
+        "oxford uni students in exams clothing vote .", 
+        "jobs to go at harwell nuclear power site .", 
+        "'unsuitable ' homes plan rejected by council .", 
+        "updates on friday 22 may 2015 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32853191", 
+            "title": "good evening", 
+            "text": [
+                "that 's all for bbc local live in oxfordshire for today .", 
+                "we hope you have a splendid bank holiday .", 
+                "the team will be back with you on tuesday at 08:00 .", 
+                "in the meantime you can get in touch"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32853189", 
+            "title": "evening news", 
+            "text": [
+                "on this evening 's south today :", 
+                "join me for these stories and more at"
+            ], 
+            "author": [
+                "Geraldine Peers", 
+                "Presenter, BBC South Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32848081", 
+            "title": "your say on university gowns", 
+            "text": [
+                "you have been getting in touch with us about the", 
+                "richard pyke", 
+                "darren grant", 
+                "jayne conway"
+            ], 
+            "author": [
+                "via Facebook"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32851769", 
+            "title": "latest updates", 
+            "text": [
+                "the latest updates on local live are :"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32851768", 
+            "title": "busy bank holiday traffic", 
+            "text": [
+                "it 's a busy bank holiday getaway friday already .", 
+                "it 's really heavy on the a34 northbound from the marcham interchange to the m40 junction 9 .", 
+                "the a34 's slow southbound from marcham to milton in the roadworks area .", 
+                "there 's severe congestion westbound from oxford out to witney , and stagecoach are reporting delays of half an hour to the s2 witney service ."
+            ], 
+            "author": [
+                "Sara Dumbell", 
+                "Travel presenter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32851764", 
+            "title": "teenagers arrested after robbery", 
+            "text": [
+                "two teenage boys have been arrested after a man was", 
+                "the 22-year-old victim was walking away from the station on hythe bridge street at about 17:40 on sunday when he was pushed into the road by two boys and punched .", 
+                "they also stole his iphone .", 
+                "the boys , who are 17 and 15 and both from abingdon , have been arrested on sus of robbery and are on police bail ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32851762", 
+            "title": "'disproportionate rise '", 
+            "text": [
+                "councillors have been commenting on the recent hike in their allowances following yesterday 's council meeting .", 
+                "conservative ward member for sonning common , paul harrison , said the rise was needed to bring the council in line with south oxfordshire 's partner council , vale of white horse .", 
+                "he said : `` it came down so we were the lowest paid district council in the country - we are still in the low end .", 
+                "effectively they are trying to rebalance it with our neighbouring council as we are using the same offices . ''", 
+                "labour ward member for didcot south , margaret davies , was the only councillor to vote against the enriched allowance .", 
+                "she said : `` i think it 's too great an increase .", 
+                "i did support the independent remuneration panel recommendation because it had been eight years since there has been an increase , but a 58 % increase is disproportionate , it 's too much . ''"
+            ], 
+            "author": [
+                "Roz Tappenden", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32848078", 
+            "title": "deranged marriage comes to oxford", 
+            "text": [
+                "the 10th anniversary tour of the deranged marriage comes to the", 
+                "the play takes an irreverent look at british asian wedding traditions , and is written and directed by pravesh kumar , the artistic director of the award-winning"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32850611", 
+            "title": "councillors vote to increase allowances", 
+            "text": [
+                "councillors in south oxfordshire have voted to increase their allowances by nearly 58 % , \u00a3 1,000 more a year than was recommended by an independent panel .", 
+                "the increase , from \u00a3 2,900 a year to \u00a3 4,575 , was agreed at a full council meeting on thursday evening .", 
+                "an independent remuneration panel report recommended the basic allowance was increased to \u00a3 3,500 .", 
+                "the amount has not increased since 2007 , before the number of district councillors was reduced from 48 to 36 ."
+            ], 
+            "author": [
+                "Roz Tappenden", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32850615", 
+            "title": "disruption following death on tracks", 
+            "text": [
+                "a person has been hit by a train between slough and reading .", 
+                "trains running to and from these stations may be disrupted .", 
+                "updates to follow .", 
+                "@ twitterid when do you expect this delay to be cleared ?", 
+                "@ twitterid hi harriet .", 
+                "disruption is currently expected till 18:30 - this is however subject to change .", 
+                "anne", 
+                "@ twitterid thanks for the update anne", 
+                "@ twitterid you 're welcome .", 
+                "anne", 
+                "@ twitterid is it worth going to wales beyond reading via waterloo ?", 
+                "@ twitterid hi jamie .", 
+                "as the wales services are likely to be coming from paddington it 's probably better to wait it out -sam", 
+                "@ twitterid might give it a go via salisbury", 
+                "@ twitterid we have south west trains ticket acceptance so this may be worth a try -sam", 
+                "@ twitterid how many fatalities are there near twyford - second this week following sunday evening problems ? ?", 
+                "need for better safety measures ?", 
+                "?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32848086", 
+            "title": "rave watch", 
+            "text": [
+                "be vigilant for may bank holiday # raves.any info please call 101 and quote urn 810 of 20/5 with any information .", 
+                "# crimeprevention # c7866", 
+                "@ twitterid @ twitterid bike been dumped near the oaks bulbrook"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32850608", 
+            "title": "latest updates", 
+            "text": [
+                "the top stories on local live this afternoon :"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32849962", 
+            "title": "lester draws !", 
+            "text": [
+                "following his interview with children 's illustrator", 
+                ".", 
+                "@ bbcoxford gilliam johnson taught me to draw .", 
+                "what do you reckon ?", 
+                "@ twitterid @ twitterid it 's a darn site better than i can do !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32845720", 
+            "title": "house fire trial", 
+            "text": [
+                "a house fire that forced people to jump for their lives was started by a businessman who accused his best man of having an affair with his wife ,"
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32846828", 
+            "title": "new banbury manager", 
+            "text": [
+                "banbury united fc have appointed former oxford city and brackley boss mike ford as their new manager .", 
+                "we 'll have more on"
+            ], 
+            "author": [
+                "Ross Heaton", 
+                "Sports reporter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32843792", 
+            "title": "midsomer in benson", 
+            "text": [
+                "the stars of itv 's midsomer murders descended on benson"
+            ], 
+            "author": [
+                "Henley Standard"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32846834", 
+            "title": "lunchtime tv", 
+            "text": [
+                "a rape victim who was", 
+                "and the village of odiham is celebrating its special connection to the magna carta or great charter of 1215 .", 
+                "briony leyland will be on the scene .", 
+                "for these and all the latest sport and weather , join roger finn on"
+            ], 
+            "author": [
+                "BBC South Today"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32846831", 
+            "title": "latest updates", 
+            "text": [
+                "the top stories on local live so far today :"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32846830", 
+            "title": "boating death - update", 
+            "text": [
+                "we 've learned it was a woman in her 60s who died in a boating accident on the river thames in oxfordshire .", 
+                "she was rescued from the water downstream of cleeve lock near streatley on monday afternoon .", 
+                "she 'd fallen in after her boat had come through the lock .", 
+                "she was taken to the john radcliffe hospital in oxford but died that evening .", 
+                "thames valley police said it was treating her death as unexplained , but not sus"
+            ], 
+            "author": [
+                "Sue Kinnear", 
+                "Newsreader, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32843799", 
+            "title": "puppy love", 
+            "text": [
+                "the fifth event , which will raise money for dogs for the disabled , is showcasing another cornucopia of magnificent mutts at the orangery from 10:00 .", 
+                "the judges will deliberate on categories including young handler , golden oldie , best puppy , best trick , and waggiest tail ."
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32845724", 
+            "title": "boating death investigated by police", 
+            "text": [
+                "we 're looking into reports of a fatal boating accident on the river thames in oxfordshire .", 
+                "it has been revealed by the", 
+                "waterways manager andrew graham said the authority was assisting the police in the matter .", 
+                "`` we offer our condolences to the family involved in the incident , '' he added ."
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842816", 
+            "title": "golden boot winner", 
+            "text": [
+                "the 25-year-old will decide in the next couple of weeks whether he 's staying at didcot , but he credits the club 's management team for helping him become so prolific .", 
+                "`` clubs have been calling and texting but i 'm going to go away and have a think , '' he added ."
+            ], 
+            "author": [
+                "Robyn Cowen", 
+                "Sports reporter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32845716", 
+            "title": "new homes 'would obstruct church '", 
+            "text": [
+                "cherwell district council has said it", 
+                "the village has had more than 180 new homes approved since january 2014 .", 
+                "the council said concerns had been raised that the development of 98 homes , west of banbury road , would `` harm the rural area by breaching the urban limits of the village and obstructing views of the grade i-listed church of st mary '' ."
+            ], 
+            "author": [
+                "Roz Tappenden", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32843796", 
+            "title": "play celebrates 150 years of learning", 
+            "text": [
+                "oxford brookes is", 
+                "the institution began as the oxford school of art , with classes taught at a room in the taylor institution , on 22 may , 1865 .", 
+                "the play will be performed by the", 
+                "vice chancellor alistair fitt said the event marked a `` significant day in oxford brookes ' history '' ."
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842298", 
+            "title": "flower rescue", 
+            "text": [
+                "wild flowers have been rescued from the crumbling site of the old bicester community hospital"
+            ], 
+            "author": [
+                "Oxford Times"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32843794", 
+            "title": "adderbury homes refused", 
+            "text": [
+                "councillors have turned down an application for a development of 98 homes in adderbury .", 
+                "michael gibbard , lead member for planning , said : `` we do not consider this to be a suitable site as it would not only cause significant harm to the character of the area by developing open countryside but would result in the village losing yet another field to housing . ''"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842822", 
+            "title": "elizabethan song contest ?", 
+            "text": [
+                "recognise this actress under the elizabeth i make up ?", 
+                "it 's former eastender anita dobson , and she 'll be speaking to me about her new role in a bbc documentary about the virgin queen .", 
+                "plus , the eurovision song contest is tomorrow and i 'm excited !", 
+                "garry holland from didcot will preview the show with us - he 's published a book about his repeated failures trying to enter songs into the competition ."
+            ], 
+            "author": [
+                "Kat Orman", 
+                "Mid-morning presenter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842823", 
+            "title": "latest updates", 
+            "text": [
+                "today 's top stories on local live :"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842819", 
+            "title": "better than tiger !", 
+            "text": [
+                "oxfordshire 's eddie pepperell is officially better than tiger woods .", 
+                "he goes into his second round at the", 
+                "the tournament is the first the"
+            ], 
+            "author": [
+                "Robyn Cowen", 
+                "Sports reporter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842296", 
+            "title": "by george !", 
+            "text": [
+                "tomorrow sees one the biggest gigs of the year - and one which has come as a total surprise - as"
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842814", 
+            "title": "the oxford experience", 
+            "text": [
+                "oxford university has released a `` handy infographic '' giving some", 
+                "the number-crunching includes the fact that the institution is home to 44 colleges and halls , has students from 140 countries and more than 100 libraries .", 
+                "the university also proudly states that it is the oldest in the english-speaking world , pre-dating the aztec empire , the magna carta and ghengis khan !", 
+                "distinguished alumni include tim berners-lee , stephen hawking and hugh grant ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32842294", 
+            "title": "church 's new look", 
+            "text": [
+                "an historic village church"
+            ], 
+            "author": [
+                "Banbury Guardian"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32842291", 
+            "title": "what 's all the 'fusc ' ?", 
+            "text": [
+                "we shall find out tonight if oxford university students have voted to", 
+                "at the moment , students and examiners have to wear a gown over an outfit known as a `` sub fusc '' .", 
+                "the compulsory clothing includes a dark suit , black shoes , a plain white shirt or blouse with a bow tie , long tie or ribbon .", 
+                "whilst some students enjoy their `` unique '' appearance , others have described the tradition as `` elitist '' .", 
+                "the results of the referendum are in at 20:00 .", 
+                "which way do you think the decision should go ?"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32841734", 
+            "title": "train delays", 
+            "text": [
+                "there 's delays of up to 20 minutes on"
+            ], 
+            "author": [
+                "Sara Dumbell", 
+                "Travel presenter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32841736", 
+            "title": "magnox announces job losses", 
+            "text": [
+                "magnox has said it plans to cut up to 1,600 jobs", 
+                "the company , which runs a site in harwell , says the cuts will include staff , agency and contract roles .", 
+                "the unite trade union said the news was `` shocking '' and the move would lead to `` a loss of vital skills and expertise in the nuclear industry '' ."
+            ], 
+            "author": [
+                "Bill Wilson", 
+                "Business reporter, BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32841733", 
+            "title": "broken down van", 
+            "text": [
+                "there 's reports of a broken down white van on the a4165 banbury road near the water eaton park and ride headed towards oxford ."
+            ], 
+            "author": [
+                "Sara Dumbell", 
+                "Travel presenter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32841732", 
+            "title": "'chance of showers '", 
+            "text": [
+                "after a dry start for some of us we will see more in the way of cloud and the chance of a few spots of rain and some misty conditions up over the hills .", 
+                "brighter spells will develop at times this afternoon , but there 's the chance of the odd shower .", 
+                "the winds will remain light and temperatures may even reach 20c ( 68f ) ."
+            ], 
+            "author": [
+                "Kawser Quamer", 
+                "Presenter, BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32841728", 
+            "title": "good morning", 
+            "text": [
+                "good morning and welcome to bbc local live for oxfordshire on this friday morning .", 
+                "i 'll be bringing you the latest news , sports , travel and weather across the day .", 
+                "be sure to join the conversation via"
+            ], 
+            "author": [
+                "Dave Gilyeat", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

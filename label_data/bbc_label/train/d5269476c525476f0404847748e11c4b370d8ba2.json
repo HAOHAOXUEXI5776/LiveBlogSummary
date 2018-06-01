@@ -1,0 +1,841 @@
+{
+    "blog_id": "d5269476c525476f0404847748e11c4b370d8ba2", 
+    "title": "BBC Local Live: Merseyside on Monday 25 April 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-merseyside-36117044", 
+    "summary": [
+        "demolition of two 15-storey tower blocks fails , leaving nearby residents unable to return home .", 
+        "updates on monday 25 april 2016 .", 
+        "more news , sport , travel and weather from 08:00 tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e366f5a01007d736d7941", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates from west cheshire and merseyside have finished for the day , but we 'll be back from 08:00 on tuesday to bring you the latest from the hillsborough inquests as the conclusions into how 96 football fans were fatally injured in the 1989 disaster are revealed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e2009840000dd6f7e28a8", 
+            "title": "weather : temperatures set to drop tomorrow", 
+            "text": [
+                "if you think it 's chilly today , here 's a look at tuesday 's windchill temps # brrrrrr nick"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e38e39d0000c17175b69e", 
+            "title": "southport man jailed for distributing indecent images of children", 
+            "text": [
+                "a southport man who downloaded and distributed almost 2,000 child porn images has been jailed for 20 months ."
+            ], 
+            "author": [
+                "Southport Visiter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e3f299d0000cd7275b6bb", 
+            "title": "police search for wirral man following assault", 
+            "text": [
+                "merseyside police are trying to trace a man who may have information about an assault .", 
+                "detectives believe 40-year-old lee jason stewart , whose last known address was arrowe park road , upton , wirral , could have vital information following an assault on st oswalds avenue , beechwood , wirral on saturday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e43cb9d0000f87375b6d2", 
+            "title": "families spend second night in hotel following failure of tower block demolition", 
+            "text": [
+                "a number of residents in sefton are preparing to spend a second night away from their homes after the demolition of a nearby 15-storey tower block failed .", 
+                "montgomery house in seaforth should have been levelled yesterday , along with churchill house - but it 's still standing despite a corner of the building collapsing this afternoon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e30f85a01003e726d7926", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e2c655a01003e726d7915", 
+            "title": "everton fundraiser 'speedo mick ' smashes 50k milestone", 
+            "text": [
+                "a football fan who walked to wembley wearing his swimming trunks has broken his \u00a3 50,000 fundraising target .", 
+                "everton supporter michael cullen , 50 , completed the 11-day challenge ahead of his team 's fa cup semi-final against manchester united on saturday .", 
+                "he has now raised more than \u00a3 53,000 for the woodlands hos in liverpool , having previously raised \u00a3 30,000 after swimming the english channel ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e2bce840000dd6f7e28df", 
+            "title": "toxteth chaplin 's pub owner admits \u00a3 350,000 tax evasion and benefits fraud", 
+            "text": [
+                "the owner of a toxteth pub admitted tax evasion of nearly \u00a3 350,000 at liverpool crown court ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e2e139d0000c17175b677", 
+            "title": "maghull nursery faces no further action over child assault allegation", 
+            "text": [
+                "a nursery that was being investigated by police over alleged assaults on a child in merseyside faces no further action .", 
+                "officers examined an allegation of `` a small number of assaults '' at it 's the little things children 's day nursery in maghull in november 2015 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e3358840000dd6f7e2904", 
+            "title": "seaforth tower block still standing after second demolition attempt", 
+            "text": [
+                "a 15 storey block of flats in seaforth is still partially standing after a second attempt to demolish it today .", 
+                "@ twitterid and yetb the twin towers and other building went down like putty", 
+                "@ twitterid @ twitterid i think flying a fully-fuelled airliner into it to create an inferno to soften the steel has to be a last resort .", 
+                "@ twitterid dang where 's a terrorist when ya need boom baby", 
+                "@ twitterid built to last in the day", 
+                "@ twitterid these are either a really bad demolition company or world champions at jenga", 
+                "@ twitterid plan c , airstrike", 
+                "@ twitterid miley cyrus would have had that down by now .", 
+                "# wreckingball", 
+                "@ twitterid @ twitterid where 's isis when ya need them .", 
+                "?", 
+                "@ twitterid @ twitterid the royal artillery would have that down in no time", 
+                "@ twitterid made of sturdy stuff !", 
+                "@ twitterid viagra in the mortar ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e28995a01003c726d790e", 
+            "title": "police investigate fight between everton and manchester united fans", 
+            "text": [
+                "merseyside and greater manchester police are to look at mobile phone footage of a fight between everton and manchester united fans at a service station .", 
+                "it happened before the fa cup semi final on saturday at cannock chase services , but when local police arrived supporters had already left .", 
+                "the brawl was captured on and put on social media ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e218e840000416e7e28b0", 
+            "title": "football : danny ings verdict imminent", 
+            "text": [
+                "liverpool and burnley will find out what the transfer fee for striker danny ings will be at a tribunal in manchester on tuesday .", 
+                "ings left burnley at the end of last season after his contract had expired .", 
+                "because the striker was under 24 , the club were allowed compensation for his development .", 
+                "however , there was no agreement between the two clubs , with burnley wanting in excess of \u00a3 10m and liverpool offering less than \u00a3 6m .", 
+                "more from bbc sportsday"
+            ], 
+            "author": [
+                "Simon Stone", 
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e2109840000426e7e28ab", 
+            "title": "up to 100 syrian refugees to be resettled in wirral", 
+            "text": [
+                "wirral council has confirmed plans to welcome 100 syrian refugees over the next four years ."
+            ], 
+            "author": [
+                "Wirral Globe"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e0b61840000426e7e2856", 
+            "title": "mayoral debate : listen again to liverpool candidates", 
+            "text": [
+                "the seven candidates who want to be the next mayor of liverpool have taken part in a live debate on bbc radio merseyside this lunchtime .", 
+                "roger phillips chaired the hour-long programme , where the candidates answered questions from radio merseyside listeners and readers of the liverpool echo .", 
+                "the candidates are :", 
+                "listen again to the liverpool mayoral debate"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e15cb840000416e7e287a", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e1c22840000426e7e2893", 
+            "title": "travel : neston road blocked due to accident", 
+            "text": [
+                "neston road in neston , cheshire is blocked and there is slow traffic in both directions at the mill lane junction because of an accident .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "21:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dd5c0840000866a7e278a", 
+            "title": "chester cathedral marks one year into lego scale model build", 
+            "text": [
+                "chester cathedral in lego is celebrating one year into a project to recreate the building in lego bricks .", 
+                "a year in - 35,000 bricks have been added - nearly completing the first level of the model .", 
+                "when finished , the scale model will be made up of 350,000 individual bricks and feature both the ancient cathedral and grounds .", 
+                "funds raised by the project directly fund the chester cathedral education trust , working to secure the employment of a full-time education officer ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571de24b5a0100136b6d7815", 
+            "title": "police hunt man accused of throwing his dog against a wall", 
+            "text": [
+                "police are hunting for a man who is alleged to have thrown his dog against a wall at his home in southport ."
+            ], 
+            "author": [
+                "Southport Visiter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571e07605a01000c6b6d789c", 
+            "title": "mayoral debate : potholes top talking point between candidates", 
+            "text": [
+                "all seven candidates who want to be the next mayor of liverpool have been taking part in a live debate on bbc radio merseyside this lunchtime - and inevitably the discussion turned to potholes"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e0399840000406e7e2838", 
+            "title": "families still ca n't return home after failed seaforth flats demolition", 
+            "text": [
+                "some families in seaforth still ca n't return to their homes after the planned demolition of two 15-storey tower blocks nearby failed .", 
+                "two attempts to bring churchill house and montgomery house down were made on sunday .", 
+                "one vision housing said : `` we are currently working with our demolition contractor to ensure that the controlled collapse of montgomery house is carried out safely and as quickly as possible .", 
+                "`` affected residents have been provided with hotel accommodation , and our staff will be onsite throughout the day to answer any queries they have . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dfdf19d00006f6b75b5d5", 
+            "title": "police reassure haydock community after social media speculation over missing child", 
+            "text": [
+                "police say they are carrying out an investigation following claims of a `` sus incident '' in a haydock park - but officers say they have not received any reports of a missing child ."
+            ], 
+            "author": [
+                "St Helens Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e0615840000406e7e2842", 
+            "title": "hillsborough inquests verdict to be delivered on tuesday", 
+            "text": [
+                "the verdicts in the hillsborough inquests will be delivered on tuesday , april 26 .", 
+                "the court reconvened in warrington this afternoon to be told the jury had reached a verdict ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571e032b840000866a7e2836", 
+            "title": "hillsborough inquests : what we know", 
+            "text": [
+                "after hearing evidence for two years , the jury in the new hillsborough inquests has reached its verdict .", 
+                "jurors were told they could return a majority decision on whether the victims of the hillsborough disaster were unlawfully killed , after they failed to reach a unanimous conclusion .", 
+                "the jury of six women and three men has been deliberating since 6 april this year .", 
+                "the conclusions will not be revealed until tomorrow morning , to allow time for the families to attend the hearing in warrington ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dff705a01000c6b6d7882", 
+            "title": "hillsborough inquests : verdicts tomorrow to allow families to travel", 
+            "text": [
+                "the conclusions wo n't be revealed until tomorrow to allow hillsborough families to attend the hearing in warrington ."
+            ], 
+            "author": [
+                "Andy Gill", 
+                "Reporter, BBC North West Tonight"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dfed3840000416e7e2821", 
+            "title": "breakinghillsborough inquests : jury conclusions will be delivered tomorrow", 
+            "text": [
+                "the hillsborough inquest conclusions ( verdicts ) will be delivered tomorrow at 11am"
+            ], 
+            "author": [
+                "Andy Gill", 
+                "Reporter, BBC North West Tonight"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dfb3e840000866a7e280d", 
+            "title": "mayoral debate : listen live to liverpool 's seven candidates on radio merseyside", 
+            "text": [
+                "all seven candidates who want to be the next mayor of liverpool are taking part in a live debate on bbc radio merseyside this lunchtime .", 
+                "roger phillips will chair the hour-long programme , where the candidates will answer questions from radio merseyside listeners and readers of the liverpool echo .", 
+                "the candidates are :", 
+                "listen live from 12:00 or follow the debate on the liverpool echo website"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dd59f9d0000346d75b517", 
+            "title": "weather : here 's the north west weather for the week ahead", 
+            "text": [
+                "here 's the north west weather for monday and week ahead"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571df56f840000416e7e27f4", 
+            "title": "lewis dunne shooting : man charged with teenager 's murder", 
+            "text": [
+                "a man has been charged with murder after the fatal shooting of a 16-year-old boy in liverpool .", 
+                "lewis dunne , 16 , was found with a shotgun wound in his back on a towpath near burrows court in eldonian village , vauxhall , on 15 november .", 
+                "jake culshaw , 25 , of penrith street , birkenhead , wirral , is due to appear at liverpool and knowsley magistrates ' court on tuesday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dd4439d0000346d75b50e", 
+            "title": "'world class ' alder hey scoops top awards at property 'oscars '", 
+            "text": [
+                "liverpool 's new alder hey hospital scooped three awards for its world class '' design at the the regional property 2016 rics north west awards ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571df32e5a0100836e6d7854", 
+            "title": "hillsborough inquests : jury given unlawful killing majority direction", 
+            "text": [
+                "jurors have been told they can return a majority decision on whether the 96 victims of the hillsborough disaster were unlawfully killed .", 
+                "the jury of six women and three men have been deliberating since 6 april after hearing evidence for two years ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571de0e3840000476c7e27b2", 
+            "title": "section of chester city walls closed for repairs", 
+            "text": [
+                "a section of chester 's historic city walls are closed for work to repair and rebuild steps at northgate ."
+            ], 
+            "author": [
+                "Chester Chronicle"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571de53c9d00002f6e75b554", 
+            "title": "lewis dunne shooting : man , 25 , re-arrested on sus of murder", 
+            "text": [
+                "a 25-year-old man from birkenhead has been re-arrested on sus of the murder of 16-year-old lewis dunne in november 2015 .", 
+                "he died from a single shotgun wound to the back .", 
+                "the teenager was found on a towpath near burrows court in vauxhall , liverpool , and was taken to hospital where he died .", 
+                "following the shooting , police searched the canal and recovered items including mobile phones and jackets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571deb105a0100cf6c6d7835", 
+            "title": "hillsborough inquests : seven of nine must agree on unlawful killing question", 
+            "text": [
+                "the coroner at the hillsborough inquests has told the jury he will accept a majority decision on the question of whether the 96 who died in the disaster were unlawfully killed .", 
+                "sir john goldring said he would accept a decision in which at least seven agree and no more than two of the jury disagree .", 
+                "the jury has been deliberating for nine full days since retiring on 6 april .", 
+                "the jurors are filling in a 14-section questionnaire , which asks if various factors contributed to the disaster on 15 april 1989 .", 
+                "they have reached unanimous conclusions for 13 of the questions but have not been able to decide on an answer to question six , which asks if the 96 were unlawfully killed ."
+            ], 
+            "author": [
+                "Ben Schofield", 
+                "Hillsborough reporter, BBC Radio Merseyside"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571de8d39d00002f6e75b567", 
+            "title": "breakinghillsborough inquests : coroner will accept majority verdict on unlawful killing question", 
+            "text": [
+                "i 'm at the new hillsborough inquests in warrington where the coroner has told jury he will accept a majority decision on the question on whether the 96 were unlawfully killed ."
+            ], 
+            "author": [
+                "Andy Gill", 
+                "Reporter, BBC North West Tonight"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571de6015a0100ce6c6d781f", 
+            "title": "lewis dunne : 25-year-old due in court charged with murder", 
+            "text": [
+                "jake michael culshaw , 25 , to appear at liverpool mags tomorrow charged with murder of lewis dunne , 16 , in november"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571de4399d00002e6e75b54f", 
+            "title": "breakingman , 25 , re-arrested over lewis dunne murder", 
+            "text": [
+                "a 25-year-old man has been re-arrested on sus of the murder of 16-year-old lewis dunne in november 2015 .", 
+                "jake michael culshaw of penrith street , birkenhead , will appear at liverpool and knowsley magistrates court tomorrow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571ddee9840000476c7e27ae", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dde9f840000486c7e27ac", 
+            "title": "mayoral debate : listen live to liverpool 's seven candidates answer your questions", 
+            "text": [
+                "all seven candidates who want to be the next mayor of liverpool are taking part in a live debate on bbc radio merseyside this lunchtime .", 
+                "roger phillips will chair the hour-long programme , where the candidates will answer questions from radio merseyside listeners and readers of the liverpool echo .", 
+                "the candidates are :", 
+                "listen live from 12:00"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dc8f35a01000c6b6d77c5", 
+            "title": "watch : explosives fail to bring down seaforth tower block", 
+            "text": [
+                "the demolition of two towers in seaforth , merseyside does not go according to plan - when only one building collapses .", 
+                "the vacant high-rise buildings were due to be demolished simultaneously at 10:00 .", 
+                "but both remained standing after the controlled explosion , before churchill house later collapsed suddenly ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dc7889d0000696b75b4d1", 
+            "title": "travel : failed tower block demolition closes seaforth road", 
+            "text": [
+                "claremount road in seaforth is closed in both directions between the a565 crosby road junction and the sandy road junction because of a failed demolition of the seaforth tower blocks .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dc21c9d0000766b75b4b0", 
+            "title": "campaigning for liverpool city mayor continues", 
+            "text": [
+                "campaigning is continuing in liverpool as people decide who they want as the city 's next mayor .", 
+                "there are seven candidates in total standing in the elections on 5 may ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dd10e9d00006f6b75b4fc", 
+            "title": "are everton now wigan in disguise ?", 
+            "text": [
+                "sport examines roberto martinez 's time at everton and the unfavourable comparisons some pundits are making with his wigan athletic team , who won the fa cup but also suffered relegation from the premier league ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dc1b4840000916a7e2737", 
+            "title": "liverpool community advice centre splits from citizen advice", 
+            "text": [
+                "liverpool 's new community advice centre is operating as a stand alone organisation after it split from citizens advice .", 
+                "managers say staff have transferred to the new organisation in cook street and that it 's offering the same service it always has ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dcbbd8400008c6a7e275d", 
+            "title": "watch : 'drunken maniac ' slams bmw into birkenhead tunnel wall in horror crash", 
+            "text": [
+                "this is the moment drunken maniac '' ivan rapsys smashed his speeding bmw into the wall of the birkenhead tunnel ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dbe6b9d00006f6b75b4a0", 
+            "title": "travel : accident closes a5060 in warrington", 
+            "text": [
+                "a5060 chester road in warrington is blocked and there is queuing traffic outbound at the ellesmere road junction near the stag pub because of an accident .", 
+                "more from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_571dc076840000866a7e2732", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "today 's top stories in merseyside and west cheshire :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dc03d840000916a7e272e", 
+            "title": "demolition of seaforth tower blocks does n't go to plan", 
+            "text": [
+                "some families have been forced to spend the night away from their homes in sefton after the demolition of two 15-storey tower blocks failed .", 
+                "two attempts were made to bring down churchill house and montgomery house in seaforth on sunday .", 
+                "demolition experts are trying to work out why one of the buildings remains standing .", 
+                "watch : flats at seaforth collapse .", 
+                "another block remains standing after a failed demolition .", 
+                "video @ twitterid", 
+                "@ twitterid @ twitterid @ twitterid", 
+                "@ twitterid @ twitterid fred dibnah would of got them down ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dbdaf9d00007d6b75b49a", 
+            "title": "weather : feeling cold but sunshine later", 
+            "text": [
+                "a cloudy start with showers but sunshine is on the way .", 
+                "winds will up this afternoon so it will feel chilly .", 
+                "highs of 11c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_571dbd5d5a0100156b6d7787", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "hello from liverpool , i 'm here with all your news , sport , travel and weather updates from across merseyside and west cheshire today .", 
+                "if you 've got a story you 'd like me to hear about or a photograph you 'd like to share , you can contact me on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Jenny Coleman", 
+                "Reporter, BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-merseyside", 
+    "quality": "high"
+}

@@ -1,0 +1,680 @@
+{
+    "blog_id": "c1f33faa3f809d8616a88142ec8c2b2de86e00e8", 
+    "title": "Latest updates: Derbyshire Live on Friday 17 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-39297617", 
+    "summary": [
+        "updates for friday 17 march 2017 .", 
+        "man in court over serious sex attacks .", 
+        "teaching assistant strike action suspended .", 
+        "murder railway station aims to change image .", 
+        "convicted robber absconds from open prison .", 
+        "nottingham forest v derby county tomorrow .", 
+        "news , sport , travel and weather updates resume at 08:00 monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cc202ce4b07f8d67a03e58", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire and east staffordshire have finished for the day , but we 'll be back at 08:00 monday with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cc1ffae4b08b1f7dee3ed7", 
+            "title": "weather : hill fog with outbreaks of rain", 
+            "text": [
+                "it will stay cloudy overnight with some hill fog and patchy outbreaks of rain remaining mild .", 
+                "minimum temperature : 7c ( 45f ) ."
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cc1b16e4b07f8d67a03e43", 
+            "title": "meet the cycling jewel thieves", 
+            "text": [
+                "and here 's a video of those cycling thieves in operation"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cc1d57e4b0ec68546e5c6a", 
+            "title": "gang jailed for \u00a3 3m jewellery store burglaries", 
+            "text": [
+                "a crime gang which burgled jewellers across england stealing more than \u00a3 3.1m of property have today been jailed .", 
+                "the six men were jailed for a total of 47 years for conspiring to commit burglaries at jewellers in nine counties including earnest jones in derby .", 
+                "the men were sentenced at stoke-on-trent crown court for the offences committed between november 2015 and september 2016 .", 
+                "a seventh man is awaiting sentence .", 
+                "staffordshire police said the group could be linked to a crime academy in romania which trains people in evading detection ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cc1ebee4b07f8d67a03e51", 
+            "title": "five legged lamb born in derbyshire", 
+            "text": [
+                "a lamb with five legs has been born at a derbyshire farm .", 
+                "`` forest '' is named after forest gump - he was born at bayley 's farm in ashbourne and is perfectly healthy .", 
+                "his fifth leg is slightly smaller than the rest and mark bayley who owns the farm has no plans to remove it ."
+            ], 
+            "author": [
+                "Alex Blakemore", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cc1e00e4b07f8d67a03e4c", 
+            "title": "council 'appreciates positive negotiations ' over strike", 
+            "text": [
+                "derby city council has welcomed the news that unison has suspended further strike action following an new offer to teaching assistants .", 
+                "we are appreciative of the very positive negotiations with unison .", 
+                "we acknowledge the difficult financial circumstances experienced by some staff as a result of the pay review .", 
+                "once again , we wish to put on record our recognition of the valuable contribution made by all teaching assistants and school based support staff in all our schools ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cc0de9e4b0ec68546e5c33", 
+            "title": "teaching assistant strike action suspended", 
+            "text": [
+                "school strikes due to be held on monday have been suspended following a new offer from derby city council .", 
+                "teaching assistants will get a cash lump sum and a promise that schools will work with them to find a more permanent solution to their drop in pay .", 
+                "the union unison said it will recommend its members accept the offer in a ballot which opens next week .", 
+                "it could pave the way to the end of a long running dispute between school support staff and the council .", 
+                "unison general secretary dave prentis said : throughout this dispute , unison has made every effort to get an offer that would enable derby school support staff to end their strike and go back to into school . ''"
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cc048ae4b0ec68546e5c01", 
+            "title": "manor road reopens after lorry 's 'failed u-turn '", 
+            "text": [
+                "if you are heading this way the road is now reopen"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cc03bbe4b07f8d67a03dea", 
+            "title": "road reopens in chapel-en-le-frith after lorry fire", 
+            "text": [
+                "here 's a photo from the lorry fire which closed foresters way in chapel-en-le-frith .", 
+                "the road closure caused long delays to traffic and derbyshire police have now confirmed the road has reopened ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbf8a6e4b08b1f7dee3e39", 
+            "title": "hgv driver reported for careless driving after 'failing u-turn '", 
+            "text": [
+                "oh dear .", 
+                "manor road towards burton road is currently closed due to this hgv driver who `` failed a u-turn '' , derbyshire police said .", 
+                "the force added the driver has been reported for careless driving ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10459532", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbe625e4b08b1f7dee3dd9", 
+            "title": "girl , 11 , in hospital with serious head injury after collision", 
+            "text": [
+                "an 11-year-old girl is in hospital with a serious head injury after she was involved in a collision in west hallam .", 
+                "it happened at about 15:40 yesterday on high lane west at its junction with mapperley lane .", 
+                "the girl 's being treated at the queen 's medical centre and .", 
+                "police are appealing for witnesses .", 
+                "to contact them ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbd999e4b08b1f7dee3dac", 
+            "title": "your photos : heanor sunset", 
+            "text": [
+                "a fantastic shot of this morning 's sunrise in heanor from our weather watcher wmr-86 ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cbed22e4b0ec68546e5b8f", 
+            "title": "nottingham forest and derby county set to clash in east midlands derby", 
+            "text": [
+                "derby county play their final match before the international break tomorrow , with a trip to nottingham forest set to bring down the curtain on another memorable week at pride park .", 
+                "steve mcclaren was sacked on sunday , with former rams defender gary rowett appointed on tuesday .", 
+                "he said he expects managing derby at the city ground will be an amazing experience ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbe0d6e4b08b1f7dee3dc6", 
+            "title": "derby choir reaches competition finals", 
+            "text": [
+                "derby university gospel choir has reached the finals of the university gospel choir of the year contest being held at the hippodrome in london this weekend .", 
+                "the choir will face nine other groups .", 
+                "musical director daniel cecile said : `` this is our second year of trying , the first year we were so disappointed that we did n't get through .", 
+                "`` it gave us extra motivation to make sure this year was definitely going to be our year . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10459130", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbd0e1e4b08b1f7dee3d7b", 
+            "title": "afternoon weather : light rain", 
+            "text": [
+                "it 'll be cloudy throughout the afternoon with some showers arriving bringing light rain for a time then becoming breezy in the afternoon .", 
+                "maximum temperature : 9c ( 48f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbd74ee4b07f8d67a03d32", 
+            "title": "lorry fire closes foresters way in chapel-en-le-frith", 
+            "text": [
+                "drivers are being advised to find alternative routes because a lorry fire has closed foresters way , chapel-en-le-frith .", 
+                "diversions are in place , derbyshire police said ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbd3efe4b0ec68546e5b33", 
+            "title": "kymberley holden inquest : four witnesses to be heard today", 
+            "text": [
+                "kymberley holden inquest:4 more witnesses to be heard today before evidence concludes.coroner to present findings on thurs @ twitterid @ twitterid"
+            ], 
+            "author": [
+                "Navtej Johal", 
+                "East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10458865", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbc56ee4b07f8d67a03ccb", 
+            "title": "large load heading towards m1", 
+            "text": [
+                "derby roads police will assist in moving a 118 tonne quarry truck .", 
+                "so if you are heading towards junction 28 of the m1 via peasehill ripley , a610 and a38 northbound then expect delays ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cba076e4b07f8d67a03c37", 
+            "title": "no agreement between council and unison over pay dispute", 
+            "text": [
+                "there 's still no agreement between derby city council and unison over a strike by teaching assistants across the city - despite a \u00a3 2m offer to end the dispute .", 
+                "the council released details of the offer yesterday which the union has described as `` premature '' .", 
+                "it would mean the very worst affected assistants would get up to \u00a3 5,500 , the authority .", 
+                "said .", 
+                "the union has said it will continue strike action and more talks are due to take place later today overseen by conciliation service acas ."
+            ], 
+            "author": [
+                "Wesley Mallin", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbc2ebe4b08b1f7dee3d24", 
+            "title": "missing derby man found safe and well", 
+            "text": [
+                "last week we told you about lakhbir kalirai who went missing from the sunny hill area of derby .", 
+                "derbyshire police has confirmed that the 42-year-old has been found safe and well ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cbc229e4b08b1f7dee3d21", 
+            "title": "man , 23 , remanded in custody over derby sex attacks", 
+            "text": [
+                "a man has appeared in court charged with seven sexual offences against women in derby .", 
+                "ilija high , 23 , from chaddesden , was remanded in custody by derby magistrates this morning .", 
+                "the charges relate to three incidents in spondon and darley abbey over a 15 month period .", 
+                "mr high is next due to appear at derby crown court on 18 april ."
+            ], 
+            "author": [
+                "James Roberson", 
+                "Reporter, East Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbbfdfe4b0ec68546e5aca", 
+            "title": "lorry and car involved in sandiacre collision", 
+            "text": [
+                "derbyshire fire and rescue service has confirmed that the collision in sandiacre involved a lorry and a car .", 
+                "the collision happened on bostocks lane , sandiacre and the fire service were called to make the area safe as it was blocking the junction near the m1 .", 
+                "all the people involved were out of their vehicles when the fire service was called and they `` do n't believe '' anybody has any serious injuries ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cbbc45e4b0ec68546e5ab9", 
+            "title": "murder railway station 'avoided by local population '", 
+            "text": [
+                "volunteer jeremy beckett , left , believes people were put off using the station after the murder of stuart ludlam in 2009 .", 
+                "speaking to radio derby he said : `` i think a number of the local population did n't like coming down here .", 
+                "`` there was that feeling of it being overshadowed by the trees and not being a welcome and attractive place . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbb47ee4b0ec68546e5a90", 
+            "title": "volunteers aim to change murder railway station reputation", 
+            "text": [
+                "volunteers in cromford are trying to improve the image of their village railway station after a taxi driver was murdered there in 2009 .", 
+                "father-of-three stuart ludlam was lured to the station by colin cheetham who appeared to have no motive other than the desire to `` shoot a stranger '' .", 
+                "cromford parish council has `` adopted '' the station allowing volunteers to carry out work to improve the site .", 
+                "the volunteers aim to make the station feel safer and more welcoming ."
+            ], 
+            "author": [
+                "Peter Spencer", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cbaeb6e4b07f8d67a03c70", 
+            "title": "collision in sandiacre near m1 junction", 
+            "text": [
+                "if you are due to head this way expect delays", 
+                "# longeaton red currently attending an rtc make safe on bostocks lane sandiacre .", 
+                "expect delays as this is on the junction to the m1 j25"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cba3ece4b0ec68546e5a47", 
+            "title": "convicted robber absconds from sudbury prison", 
+            "text": [
+                "convicted robber daniel james wyatt , who was jailed for eight years for a string of offences , has absconded from sudbury .", 
+                "he was serving part of his sentence at the derbyshire open prison , but left on wednesday night .", 
+                "the 50-year-old has links to solihull and birmingham .", 
+                "derbyshire police believe he may have returned to the area ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cb9cede4b08b1f7dee3c76", 
+            "title": "watch : east midlands weather forecast", 
+            "text": [
+                "i would carry your brolly if i were you .", 
+                "here 's how today 's looking"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cb9c2ae4b07f8d67a03c2a", 
+            "title": "man charged over serious sex attacks in derby", 
+            "text": [
+                "a 23-year-old man has been charged with seven sexual offences against three women .", 
+                "the charges relate to three incidents which happened between 2014 and 2015 in darley abbey and spondon .", 
+                "the man , who is from chaddesden , is due before southern derbyshire magistrates ' court later today ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cb9997e4b08b1f7dee3c62", 
+            "title": "travel : slow traffic on a52", 
+            "text": [
+                "there is slow moving traffic around the a52 pentagon island coming into derby .", 
+                "all other routes seem to be clear ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cb952be4b07f8d67a03c0a", 
+            "title": "join us for today 's live news coverage", 
+            "text": [
+                "good morning derbyshire and east staffordshire and welcome along to friday .", 
+                "i 'll be with you today with the region 's news , sport , weather and travel .", 
+                "if you would like to share your and stories , then please get in touch via .", 
+                "facebook , .", 
+                "twitter .", 
+                "or .", 
+                "email ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

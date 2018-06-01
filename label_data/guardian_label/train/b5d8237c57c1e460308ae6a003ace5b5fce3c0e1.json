@@ -1,0 +1,1231 @@
+{
+    "blog_id": "b5d8237c57c1e460308ae6a003ace5b5fce3c0e1", 
+    "title": "Swiss central bank introduces negative interest rates - business live | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2014/dec/18/swiss-negative-interest-rates-fed-stock-markets-rouble-live", 
+    "summary": [
+        "markets end sharply higher .", 
+        "wall street joins in post-fed market rally .", 
+        "european markets enjoy post-fed rally .", 
+        "snb : negative rates are here to stay .", 
+        "swiss negative rates : what the experts say .", 
+        "q & a : switzerland 's negative interest rates .", 
+        "swiss franc sinks after negative rate announcement ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-54930c4ae4b019234074e3b6", 
+            "title": "markets end sharply higher", 
+            "text": [
+                "the federal reserve 's comments overnight about being patient about interest rises gave markets an early boost , and they did not look back .", 
+                "even a late fall in the oil price failed to upset investors , while both russia and greece seemed slightly more stable situations after recent volatility .", 
+                "better than expected uk retail sales helped support the uk market , and some mixed economic signals from the us - poor services pmi , positive weekly jobless claims - only served to convince traders that dearer borrowing would not be on the cards for a while .", 
+                "the surprise news that the swiss central bank had introduced negative interest rates also failed to upset the markets .", 
+                "so the final scores showed : the ftse 100 finished 129.52 points or 2.04 % higher at 6466.00 germany 's dax jumped 2.79 % to 9811.06 france 's cac climbed 3.35 % to 4249.49 italy 's ftse mib added 2.65 % to 19,060.99 spain 's ibex ended 3.4 % better at 10,391.3 in greece , the athens market added 1.47 % to 874.69 on wall street the dow jones industrial average is currently 262 points or 1.5 % higher .", 
+                "and on that note , it 's time to close up for the day .", 
+                "thank 's for all your comments , and we 'll be back in the morning ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                17, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54930b4ae4b0919fd47e87de", 
+            "title": "", 
+            "text": [
+                "speaking of oil , it has lost early gains with brent crude now down 1.8 % at around $ 60 a barrel .", 
+                "part of this is due to reports that a port strike in nigeria has ended , allowing crude shipments to be resumed at a time when there is oversupply and falling demand ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                17, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549301fde4b031a69b07a826", 
+            "title": "", 
+            "text": [
+                "the recent oil price slump has claimed another victim , as venezula gets its debt rating cut : jamie mcgeever ( @ reutersjamie ) fitch downgrades venezuela to ccc from b , as the oil price collapse erodes the country 's main source of income ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                16, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5493005ee4b0919fd47e87cc", 
+            "title": "", 
+            "text": [
+                "in a move that will surely boost the argument that austerity is only counterproductive , the international federation for human rights says no sector in greek society has been spared from the hugely negative impact of belt-tightening measures .", 
+                "helena smith reports from athens : unveiled in athens this afternoon , the 80-page report presents an excoriating case against austerity .", 
+                "cost cutting measures had not only impacted on greeks ' pockets , they had curbed individuals ' basic human rights and had a hugely negative effect on every sector in society from healthcare and labour , to freedom of expression and the right to express discontent through peaceful public protest . ''", 
+                "questions had to be asked about those who were responsible for such human rights violations - and whether , ultimately , such bodies/persons could be held accountable .", 
+                "international financial institutions involved in the negotiation and financing of greece 's first and second economic assistance programmes , most notably the international monetary fund ( imf ) , must also be subject to scrutiny , '' it wrote .", 
+                "as a subject of international law , the imf is required to consider whether or not its actions or omissions constitute , or contribute to , violations of customary international rules , including in the field of human rights . ''", 
+                "evangelo venizelos .", 
+                "photo : rainer jensen/dpa/corbis meanwhile , deputy prime minister evangelos venizelos has been eager to appear optimistic following last night 's less than convincing ( for the government ) parliamentary vote .", 
+                "the socialist leader announced today that there was still plenty of room for mature choices to be made '' when the last round of the presidential vote is held on december 29 .", 
+                "extending an olive branch he suggested that a cross-party negotiating team be set up to deal with the country 's troika '' of creditors ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                16, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492f256e4b00469d90dc996", 
+            "title": "", 
+            "text": [
+                "more from the reuters interview with alexis tsipras , who said he would indeed cancel austerity programmes agreed by the current government if his syriza party is elected , but would negotiate debt relief with its lenders .", 
+                "reuters reports : saying he was committed to keeping greece in the euro , tsipras told reuters that europe should cut or erase a big chunk of greek debt .", 
+                "he said loans from the imf must be paid but he would seek an extension to maturities on bonds held by the ecb .", 
+                "syriza - which is expected to win if early elections were held now - has long said it would cancel greece 's eu/imf bailout and demand debt relief if it came to power but the comments were the first time tsipras has clearly spelled out the party 's plan for debt renegotiation .", 
+                "'negotiation ' means that we want an agreed solution , '' he told reuters in an interview at his syriza party 's headquarters , adding he expected a tough '' stance from european leaders initially .", 
+                "regarding the debt and the loan agreement which we will renegotiate : we have no intention to make unilateral moves unless they force us to make unilateral moves although i believe that no one will force us to make unilateral moves because no one will benefit from such a development , in the heart of europe . ''", 
+                "he also ruled out cooperating with the conservative and centre-left parties in prime minister antonis samaras ' ruling coalition to avoid elections , saying a wider political consensus would be achieved after a national election is held ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                15, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492eec2e4b00469d90dc992", 
+            "title": "", 
+            "text": [
+                "over in greece , the athens stock market has regained some ground after reuters reported that the leader of opposition party syriza wanted to keep the country in the euro if he won any forthcoming election .", 
+                "the government 's decision to bring forward a presidential poll which , if it loses , could cause snap elections raised the prospect of syriza gaining power .", 
+                "this rattled investors , since its leader alexis tsipras stands against the austerity associated with the greek bailout package and seemed likely to rip up the deal or leave the european union .", 
+                "but reuters has reported tsipras saying he wanted a negotiated solution with the eu to the debt relief problem and wanted to keep greece in the euro .", 
+                "syriza leader alexis tsipras .", 
+                "photo : reuters/alkis konstantinidis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                15, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492eda0e4b00469d90dc990", 
+            "title": "", 
+            "text": [
+                "the latest philadelphia business survey has also disappointed .", 
+                "the index of current activity dropped sharply from 40.8 in november to 24.5 compared to estimates of a level of 26 .", 
+                "but firms were generally optimistic about the future , although there were worries about employment and rising healthcare costs ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                15, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492e9b0e4b019234074e364", 
+            "title": "", 
+            "text": [
+                "and here 's some less good news from the us economy , which ironically eases the pressure on the federal reserve to raise rates and therefore will probably be received positively .", 
+                "the us services sector expanded in december at its slowest rate since february , with the markit initial purchasing managers index coming in at 53.6 , down from 56.2 in november and well below expectations of a rise to 56.9 according to a reuters poll .", 
+                "markit 's composite pmi - manufacturing and services - hit 53.8 in december , down from 56.1 in november .", 
+                "markit chief economist chris williamson said : the extent of the slowdown suggests that economic growth in the fourth quarter could come in below 2 % which , with the exception of the downturn caused by adverse weather in the first quarter , would be the worst performance for two years .", 
+                "chris williamson ( @ williamsonchris ) is the fed ( and almost everyone else ) being too optimistic on us economic growth ?", 
+                "joseph weisenthal ( @ thestalwart ) not a pretty flash services pmi zerohedge ( @ zerohedge ) markit service pmi 53.6 , exp .", 
+                "56.3 , `` weakest since the weather-related slowdown in february . ''", 
+                "- buy everything"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                14, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492e734e4b019234074e360", 
+            "title": "wall street joins in post-fed market rally", 
+            "text": [
+                "the us markets have opened and the dow jones industrial average is currently up more than 1 % , as investors continue to warm to the federal reserves desire to be patient '' about raising us interest rates .", 
+                "with the dollar down and oil steadying , markets are rallying after their recent downward dip .", 
+                "concerns that an early us rate rise could help derail global growth have eased , helping the overall mood .", 
+                "so the dow is up 227 points at the moment , while the ftse 100 is up 105 points or 1.6 % .", 
+                "germany 's dax has moved more than 2 % higher while france 's cac is around 3 % better .", 
+                "the rouble has also gained against the dollar after wednesday 's moves by the russian central bank to support the financial system and try to halt the slide in the currency , as well as president putin 's annual press conference ( which we live blogged here ) ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                14, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492e3dee4b08b9165ec74a3", 
+            "title": "", 
+            "text": [
+                "on the corporate front aer lingus shares have soared on reports that british airways owner iag may be interested in bidding .", 
+                "aer lingus is up nearly 9 % at the moment , valuing the business at around \u20ac1bn , following the ft story .", 
+                "meanwhile iag has jumped nearly 4 % to 461p .", 
+                "any deal would need the backing of ryanair , which holds a 29.9 % stake in aer lingus following its own failed bids for the airline .", 
+                "aer lingus plane at belfast airport .", 
+                "photo : afp/getty images/peter muhly ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                14, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492e1d2e4b031a69b07a800", 
+            "title": "", 
+            "text": [
+                "if you are in need of a diversion over the next few days , you could try our bumper business christmas quiz , which you can find here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                14, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492da41e4b031a69b07a7fa", 
+            "title": "", 
+            "text": [
+                "following last night 's us federal reserve meeting which hinted at interest rises next year as the economy recovers , there is some more upbeat data .", 
+                "the number of americans filing new unemployment benefit claims fell unexpectedly last week , dropping by 6,000 to a seasonally adjusted 289,000 .", 
+                "this was lower than the 295,000 expected by economists , and down from 295,000 the previous week ( revised from 294,000 ) .", 
+                "it was also the lowest figure for six weeks .", 
+                "this is likely to support the us market when it opens , with the dow jones industrial average futures indicating a 182 point rise at the open after a 288 gain overnight .", 
+                "later come markit 's services and composite pmi data and the latest philadelphia fed report .", 
+                "trader 's at the new york stock exchange last night watching fed chair janet yellen 's press conference .", 
+                "photo : reuters/brendan mcdermid mcdermid/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                13, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492d7d7e4b019234074e34c", 
+            "title": "", 
+            "text": [
+                "the surprise swiss move to introduce negative interest rates could be a sign that the european central bank will proceed with some form of quantitative easing next month , says kathleen brooks at forex.com .", 
+                "there are some fundamental reasons for the move , she said : cutting rates is justified to bring switzerland out of deflation .", 
+                "its annual rate of inflation is -0.1 % , however this could fall further after producer and import prices slid 1.6 % year on year last month .", 
+                "the swiss national bank 's jordan gave explicit reasons for the cut in rates : to weaken the swissie , to overcome deflation [ and ] to help spur growth , which is expected to be on the weak side in the first quarter .", 
+                "but she added : while the internal factors justify the snb 's actions , the timing of the move was surprising .", 
+                "the market had expected a move on rates sometime in january ; however recent market volatility , and the sell-off in the rouble , threatened the 1.20 peg in euro/franc , which triggered this move .", 
+                "other external factors included the ecb and the fed .", 
+                "the snb has a close relationship with the ecb , and if the snb found it necessary to hike rates now it could have been designed to precede a move by the ecb in january .", 
+                "in fact the negative rate will only come into effect on the 22 january , which corresponds with the ecb 's next meeting .", 
+                "thus , today 's move by the snb suggests that the ecb may be getting close to qe , and since qe could weaken the eur , the snb had to act now to protect its euro/franc peg .", 
+                "we think that this move should keep euro/franc safely out of the 1.20 danger zone for now ; however in the longer term we think the snb will need to embark on more action to stem the franc 's appreciation .", 
+                "firstly , if this move by the snb is a sign that qe is on its way from the ecb then we could see further downward pressure on the euro .", 
+                "secondly , downward pressure on the euro could be compounded by last night 's fairly hawkish fed , which may cap euro/dollar gains .", 
+                "if the euro/franc peg is pressured once again in the coming days and weeks then the snb has said that it will defend the peg , as it is an important policy tool .", 
+                "if we see another move back below 1.2010 watch out , the snb may buy euro 's in size to get this pair out of the danger zone ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                13, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492c5b7e4b0919fd47e876c", 
+            "title": "lunchtime summary : rouble crisis forces swiss into negative rates", 
+            "text": [
+                "time for a recap .", 
+                "switzerland 's central bank has imposed negative interest rates on bank deposits for the first time since the 1970s , as the russian currency crisis causes ructions around the globe .", 
+                "the surprise move is meant to deter banks from holding francs at the national bank 's electronic vaults , and to buy something else with them .", 
+                "the swiss franc has weakened .", 
+                "but the move may not be enough to prevent money surging into switzerland in search of safety..", 
+                "the news came at 7am gmt .", 
+                "the swiss national bank has blamed rouble volatility for the move , and promised further action if necessary .", 
+                "snb chairman thomas jordan told a news conference in zurich : rapidly mounting uncertainty on the financial markets has substantially increased demand for safe investments .", 
+                "the worsening of the crisis in russia was a major contributory factor in this development . ''", 
+                "economists have predicted that that the snb may need to intervene in the fx markets again , to preserve its cap of 1.2 francs to the euro .", 
+                "angelo ranaldo , professor at the university of st gallen , has warned that the move could spark a dangerous property bubble instead .", 
+                "as this q & a explains , the move only affects deposits placed at the snb by commercial banks .", 
+                "swissbankinginfo ( @ volkovvaleriy ) ubs said on thursday that it has no plans to levy negative interest rates on its retail clients in other news the russian currency is hovering around 61 roubles to the us dollar , broadly flat today , after vladimir putin predicted that the russian economy will recover in two years .", 
+                "putin press conference : 'economy will rebound within two years ' - live the fitch rating agency , though , has warned that this week 's turmoil has hurt the economy ; it could downgrade russia 's credit rating next month .", 
+                "european stock markets are up , after the federal reserve pledged it would be patient about raising us interest rates .", 
+                "a former greek pm has warned that snap elections in january could trigger its exit from the eurozone while the latest unemployment data shows that one in four adults are out of work ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                13, 
+                15
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492c8e6e4b031a69b07a7ec", 
+            "title": "", 
+            "text": [
+                "germany 's finance minister , wolfgang schauble , has offered greece an olive branch - telling mps in berlin that its economy is in better shape then expected .", 
+                "reforms are beginning to bear fruit for the people of greece .", 
+                "the labour market reforms have made the country more competitive this year greece will have a budget deficit within european union rules . ''", 
+                "not much comfort to those who have suffered from six years of austerity , i suspect ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                12, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492c622e4b0919fd47e876f", 
+            "title": "", 
+            "text": [
+                "the greek parliament last night .", 
+                "lolos/marios lolos/xinhua press/corbis over in greece , the political wheels are turning after mps rejected the government 's nominee for the presidency last night , increasing the chance that the administration could collapse .", 
+                "one of greece 's former prime ministers , konstantinos mitsotakis , has warned that a snap election would inexorably push the country out of the eurozone .", 
+                "from athens , helena smith reports : the elder statesman issued the clarion call as he held talks with the leader of the small independent greeks party ( anel ) panos kammanos .", 
+                "with its 12 mps , anel is now among those now holding the keys to avoiding an early ballot .", 
+                "the 91-year-old mitsotakis , the honorary president of the governing centre-right new democracy party , said : i confirmed my view which is categoric : early elections , required in the case of parliament 's inability to elect a president of the republic , will lead the country into turmoil whose end result will be to find ourselves out of the eurozone . ''", 
+                "at this point , the widest possible consent is required .", 
+                "we all have to put the interests of the country above personal or party interest .", 
+                "we owe it to the greek people from whom we have asked huge sacrifices . ''", 
+                "leaving the talks kammenos , who had once belonged to new democracy , dashed those hopes .", 
+                "he asked me to come to a solution of consent in the name of national policy .", 
+                "we believe that a national solution will be found only after elections . ''", 
+                "anel 's ratings are such that it might not make the 3 % threshold needed to get into a new parliament ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                12, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492bfb7e4b0c6258a8a430a", 
+            "title": "", 
+            "text": [
+                "imposing negative interest rates on commercial bank deposits could actually backfire on the swiss economy and cause an asset bubble .", 
+                "so warns angelo ranaldo , professor of finance and systemic risk at the university of st gallen .", 
+                "negative rates are meant to discourage banks et al from holding large deposits in francs ; if they shift into other currencies , that would weaken the currency ( see earlier q & a ) .", 
+                "but ranaldo reckons money could flow elsewhere in the economy .", 
+                "he says : by introducing negative interest rates , the swiss national bank is reacting to the european central bank 's recent decision and to the renewed pressure on its safe haven currency thanks to the russian crisis .", 
+                "but there is a fundamental disconnect between the swiss economy and the outlook for the eurozone : the swiss economy is in better shape and disinflation is not a concern .", 
+                "the introduction of negative interest rates is an attempt to stimulate the movement of money abroad .", 
+                "this measure could backfire if , rather than abroad , it pushed money towards asset bubbles such as property .", 
+                "this could undermine switzerland 's financial stability . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                11, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492bd4ee4b0919fd47e8759", 
+            "title": "", 
+            "text": [
+                "analysts at goldman sachs reckon that the swiss central bank could be forced to intervene in the foreign exchange markets again , once the impact of negative rates wears off : ransquawk ( @ ransquawk ) goldman saying that the snb may still rely on fx interventions to protect the floor after shock rate cut earlier .", 
+                "eurchf currently at 1.2041"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                11, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492bb47e4b031a69b07a7de", 
+            "title": "", 
+            "text": [
+                "credit rating agency fitch has warned that risks to russia 's economy have intensified .", 
+                "in a statement , fitch sounded the alarm over the rouble 's extreme volatility this week , and the interest rate hike to 17 % .", 
+                "it says : the inflationary impact of recent falls ( inflation is heading towards double digits ) will erode real incomes , further damaging private consumption and domestic demand .", 
+                "if rates have to be kept high or increased to support the currency at a lower oil price , the impact could be greater still .", 
+                "the cbr has estimated that average oil prices of $ 60/barrel could cause gdp to shrink 4.5 % -4.7 % in 2015 .", 
+                "fitch is due to review russia 's credit rating in january .", 
+                "michael mckee ( @ mckonomy ) fitch says $ 66 oil in 2015 would cut # russia 's gdp by 2.8 % , and the crb rate increase will make that worse .", 
+                "to review rating in january ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                11, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492b7e0e4b00469d90dc966", 
+            "title": "", 
+            "text": [
+                "after a rocky start , greek bonds are actually rising in value now , pushing down the interest rate ( or yield ) on the debt .", 
+                "steve collins ( @ tradedesk steve ) greek bonds actually doing okay this morning - the yield drops to 8.52 ( -24bp ) on the 10 year .", 
+                "that suggests fears over greece 's place in the eurozone are fading a little today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                11, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492af7ee4b08b9165ec7464", 
+            "title": "european markets enjoy post-fed rally", 
+            "text": [
+                "the feel-good factor from last night 's federal reserve meeting continues to push european stock markets higher .", 
+                "shares are rising on relief that the us central bank will be patient when deciding when to raise us interest rates .", 
+                "the greek market is being dragged down by political uncertainty , though .", 
+                "european stock markets , 10.30am december 18th reuters although us borrowing costs are expected to rise this year , the fed was more dovish than expected , as will hedden of ig explains : equities in europe are trying hard to take advantage of a dovish , us federal reserve-led rally in the states last night .", 
+                "the s & p 500 had its best day of the year , rising a shade over 2 % to close back above the 2000 level .", 
+                "while the 'considerable time ' statement remains in the minutes despite some reports to the contrary , the fact it changed its language slightly , and highlighted a 'patient ' stance on when rates will start going up , maintained the dovish theme .", 
+                "the comments by chair , janet yellen , that this alteration in language did not actually mean a change in its outlook helped put a rocket under equities for the final part of last night 's session ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                10, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492ade0e4b019234074e2fa", 
+            "title": "", 
+            "text": [
+                "greece 's jobless rate has dipped a little , but remains in at depression-era levels .", 
+                "elstat reports that the unemployment rate was 25.5 % in the third quarter of 2014 , down from 26.6 % in april-june , and 27.2 % a year earlier .", 
+                "greek unemployment , q3 2014 the data also confirms that younger people are bearing the brunt of the crisis : greek unemployment as are women .", 
+                "the unemployment rate for females ( 29,2 % ) is considerably higher than the unemployment rate for males ( 22.6 % ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                10, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492a93ee4b031a69b07a7d1", 
+            "title": "", 
+            "text": [
+                ".", 
+                "wiegmann/reuters swiss central bank chief thomas jordan also confirmed that the russian crisis had prompted today 's decision to charge commercial banks who deposit their francs with the snb .", 
+                "jordan revealed that the snb has been intervening in the currency markets to prevent the franc surging in value above chf 1.20 to the \u20ac1 .", 
+                "that suggests wealthy russians have been shifting money out of roubles and into safe currencies such as the swiss franc in recent days ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                10, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492a7f6e4b019234074e2ef", 
+            "title": "snb : negative rates are here to stay", 
+            "text": [
+                "back to switzerland and the head of the swiss national bank has predicted that the negative interest rates announced today will remain for the foreseeable future '' .", 
+                "snb chairman thomas jordan told a press conference that further measures could be imposed if it 's necessary to weaken the franc and stimulate inflation again .", 
+                "if it becomes necessary , we can take further measures .", 
+                "possible measures include a further reduction of interest rates or a reduction of the exemption threshold '' .", 
+                "thomas jordan today .", 
+                "wiegmann/reuters jordan also suggested that retail savers should n't feel the impact of negative rates ( which only apply to deposits left with the snb by commercial banks ) 888 markets ( @ 888markets ) snb 's jordan says he does n't expect negative rates for retails customers in switzerland , makes no sense # eurchf # fx"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                10, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492a3a0e4b08b9165ec7456", 
+            "title": "", 
+            "text": [
+                "kate davies ( @ statskate ) record growth in department stores and electrical appliance stores in november 2014 .", 
+                "boosted by 'black friday ' david cottle ( @ dcottledjn ) it seems # blackfriday gave uk retail sales a massive boost .", 
+                "that 's it then .", 
+                "we 'll never be rid of it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492a026e4b0919fd47e8713", 
+            "title": "", 
+            "text": [
+                "britain appears to have caught the black friday bug .", 
+                "new figures from the office for national statistics show that retail sales jumped by 1.5 % month-on-month in november , the biggest rise this year .", 
+                "sales were an impressive-looking 6.4 % higher than a year ago ; however , the ons cautions that black friday ( when stores offered us-style bargains ) was n't included in the november 2013 figures .", 
+                "the ons also reports that average store prices fell by 2.0 % in november 2014 compared with november 2013 .", 
+                "this is the largest fall since august 2002 , and contributing to falling inflation in the uk .", 
+                "keith richardson , managing director retail sector at lloyds bank commercial banking , says : black friday 's shopping frenzy provided the sector with a timely boost and retailers will hope that this momentum is maintained throughout the festive period .", 
+                "a combination of aggressive discounting and consumer 's determination to secure big ticket bargains ensured that electrical goods and household appliances were the standout categories .", 
+                "clothing and footwear retailers used the event to reduce stockpiles of winter clothing , albeit to the detriment of their profit margins ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                9, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549296e3e4b019234074e2d9", 
+            "title": "swiss negative rates : what the experts say", 
+            "text": [
+                ".", 
+                "financial analyst are digesting switzerland 's decision to impose negative interest rates on cash deposits at its central bank .", 
+                "peter rosenstreich , head of market strategy at swiss online bank swissquote , says the move wo n't be a silver bullet '' .", 
+                "he predicts that the franc will probably strengthen back towards the national bank 's cap .", 
+                "the snb continued to show its unwavering support for the eurchf floor by introducing negative interest rates we doubt the action will have long term effect and expect to see eurchf grind back towards the eurchf 1.2000 minimum exchange rate . ''", 
+                "the prospect of new eurozone stimulus measures may have forced the swiss hand , reckons andy scott , spokesperson at foreign currency specialists hifx : having seen the franc trading at , or very close to , the cap that it set of 1.20 to the euro over the past month , the snb obviously felt it needed to shore up its defences against a building storm surge of money looking for a safe home .", 
+                "it is also faced with the potential for q.e .", 
+                "by the ecb next year , which would likely put further downwards pressure on the euro across the board .", 
+                "finally , switzerland continues to face the risk of deflation as highlighted by the snb at their last meeting , with the strength of the franc a key contributor to annual cpi running at just -0.1 % in november .", 
+                "karsten junius , chief economist at bank j. safra sarasin in zurich , points out that negative rates begin next month , on the same day as the european central bank 's next meeting .", 
+                "the timing is sus because the fee will be charged starting on january 22nd . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                9, 
+                30
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54929934e4b019234074e2da", 
+            "title": "", 
+            "text": [
+                "german firms appear to be shrugging off the russian crisis , and europe 's economic problems .", 
+                "the ifo survey of german morale , just released , has risen to 105.5 up from 104.7 last month .", 
+                "that 's the highest reading since august ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                9, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54929877e4b0c6258a8a42da", 
+            "title": "", 
+            "text": [
+                "heads-up ; vladimir putin 's press conference is about to start in moscow .", 
+                "we 're running a separate liveblog , as it 's going to last for several hours : vladimir putin gives annual press conference - live shaun walker ( @ shaunwalker7 ) the @ twitterid is liveblogging putin press conference .", 
+                "i 'm in the hall and my colleague @ twitterid siddique is in london .", 
+                "apparently cuddly toys are banned : shaun walker ( @ shaunwalker7 ) announcement on the tannoy at putin press conference asks journalists not to bring toys and furry animals into the hall ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                9, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549295c8e4b0c6258a8a42d9", 
+            "title": "", 
+            "text": [
+                "german chancellor angela merkel in the bundestag today .", 
+                "hanschke/reuters over in berlin , german chancellor angela merkel has warned that sanctions against russia over ukraine remain unavoidable as long as moscow does not respect ukrainian sovereignty .", 
+                "she told the bundestag , or german parliament , that : as long as we do not reach this goal sanctions remain unavoidable , though i would like to reiterate that they were not and are not an end in themselves . ''", 
+                "merkel added that she wants to see european security with russia , not against russia '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                8, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54929323e4b0919fd47e8705", 
+            "title": "", 
+            "text": [
+                "the russian rouble is volatile around this morning , as traders await vladimir putin 's annual press conference , from 9am .", 
+                "it 's currently down 2.2 % against the us dollar at 61.5 roubles/ $ 1 , having hit a low of 58/ $ 1 in early trading .", 
+                "yesterday the rouble staged its biggest rally in over 15 years , as moscow announced measures to strengthen its banks .", 
+                "but the ramifications of the crisis are still being felt ; major car firms say they have halted sales in russia .", 
+                "caroline hyde ( @ carolinehydetv ) not just @ twitterid , @ twitterid now also reacting to # russia .", 
+                "gm halts car sales due to rouble volatility @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                8, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5492901ce4b0919fd47e8702", 
+            "title": "", 
+            "text": [
+                "greek three-year bonds weakened this morning after mps rejected the government 's presidential candidate last night , pushing up the yield on the debt .", 
+                "holger zschaepitz ( @ schuldensuehner ) greek 3yr yields jump by 17bps as # greece 's pm samaras still 20 mp 's short for 3rd round of presidential election .", 
+                "the vote has moved greece closer to a general election .", 
+                "a snap poll will be unavoidable if mps do n't back stavros dimas in the third vote , on december 29th ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                8, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54928e95e4b0c6258a8a42d6", 
+            "title": "", 
+            "text": [
+                "european stock markets have risen in early trading , taking their lead from wall street 's rally last night .", 
+                "the german dax and french cac both surged 1.7 % , while the ftse 100 is up a more modest 0.5 % or 30 points at 6366 .", 
+                "there 's relief that the federal reserve remained cautious about raising interest rates at last night 's meeting .", 
+                "although it dropped its its insistence that rates would be kept on hold for a considerable period '' , it promised to be patient '' about future rises .", 
+                "federal reserve chair janet yellen last night owen/ap last night 's story : us federal reserve edges closer to first interest rate rise since 2008 ian williams of peel hunt says this 'evolution ' has been well received : markets had been expecting such a move and , despite signs of some disagreement on the committee as three members dissented , the shift is a signal of confidence in the sustainability of the us recovery .", 
+                "fed chair yellen reassured that policy continued to depend upon the data , with no move likely within the next couple of meetings '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                8, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549288cce4b0c6258a8a42d4", 
+            "title": "q & a : switzerland 's negative interest rates", 
+            "text": [
+                "why has the swiss central bank announced negative interest rates today ?", 
+                "because it wants to weaken its currency , the swiss franc , by penalising banks who hold deposits .", 
+                "are n't weak currencies bad things ?", 
+                "look at russia !", 
+                "switzerland 's problem is that the franc has become too strong since the financial crisis began .", 
+                "it 's a safe-haven asset , so when the eurozone crisis began five years ago investors piled into the franc .", 
+                "this pushed the franc close to parity with the euro , and in september 2011 the swiss national bank announced a cap .", 
+                "it would not allow the franc to be stronger than chf 1.2 to the \u20ac1 .", 
+                "why has it done it now ?", 
+                "one theory is that the rouble crisis has driven money out of russia and into the safety of the swiss franc , pushing up its value to the 1.2 cap - forcing the snb to spend more reserves defending it .", 
+                "francine lacqua ( @ flacqua ) timing of # snb is pretty interesting just a week after the snb 's last policy meeting - # rouble trouble perhaps ?", 
+                "are negative rates a common tool ?", 
+                "no , they 're one of the unconventional weapons in the monetary policy toolbox .", 
+                "they already exist in the eurozone , but for different reasons .", 
+                "the ecb imposed them to encourage banks to lend to the real economy .", 
+                "will swiss savers have to pay negative rates ?", 
+                "no , this is designed for commercial bank deposits held at the snb .", 
+                "it applies to any bank , securities dealer , cash processing facility , clearing and settlement organisation , mortgage bond institution , insurance company , international organisation or central bank ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                8, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5492846be4b019234074e2ce", 
+            "title": "swiss franc sinks after negative rate announcement", 
+            "text": [
+                "the swiss franc has weakened sharply after switzerland 's central bank surprised the markets by announcing it would impose negative deposit rates of 0.25 % on commercial bank deposits .", 
+                "the franc fell by half a cent , to 1.2095 francs against the euro , a two month low .", 
+                "it had been pushing hard against the 1.2 cap set by the snb ; that cap is meant to keep the franc artificially weak .", 
+                "swiss franc vs euro over the last three months reuters in a statement ( online here ) , the snb insisted that it would not allow the franc to become too strong .", 
+                "the snb reaffirms its commitment to the minimum exchange rate of chf 1.20 per euro , and will continue to enforce it with the utmost determination .", 
+                "it remains the key instrument to avoid an undesirable tightening of monetary conditions resulting from a swiss franc appreciation .", 
+                "so why has the snb imposed negative rates ?", 
+                "it explains : over the past few days , a number of factors have prompted increased demand for safe investments .", 
+                "the introduction of negative interest rates makes it less attractive to hold swiss franc investments , and thereby supports the minimum exchange rate ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                7, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54927fb3e4b00469d90dc953", 
+            "title": "the agenda : swiss rate cut and fed aftermath", 
+            "text": [
+                "sass-fee , switzerland good morning , and welcome to our rolling coverage of the financial markets , the world economy , the eurozone and business .", 
+                "dramatic news to start the morning - switzerland 's central bank has just announced that it will impose negative interest rates on commercial bank deposits .", 
+                "the move means banks will be charged to leave swiss francs in the snb 's vaults , and is designed to prevent the franc strengthening against the euro , which it is currently pegged against .", 
+                "more to follow .", 
+                "sony kapoor ( @ sonykapoor ) and # snb introduces negative interest rates as the great monetary policy experiment continues world markets are rallying today after last night 's federal reserve meeting .", 
+                "the fed was less hawkish than some investors had feared , saying it can afford to be 'patient ' when deciding when tighten monetary policy .", 
+                "asian markets have jumped overnight , and we 're expecting a strong start in europe .", 
+                "we 'll also be watching the russian crisis , as moscow battles to preserve financial stability and support the rouble .", 
+                "president putin is giving his annual press conference from 9am gmt .", 
+                "and greek politics will be interesting , after parliament rejected the government 's presidential candidate last night .", 
+                "there are two more votes yet , though on the data front , we get the ifo survey of german investor confidence at 9am gmt , and the latest uk retail sales at 9.30am ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                18, 
+                7, 
+                37
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.26pm GMT\n17:26\nMarkets end sharply higher\n", 
+                "block": "block-54930c4ae4b019234074e3b6"
+            }, 
+            {
+                "text": "\n\n2.45pm GMT\n14:45\nWall Street joins in post-Fed market rally\n", 
+                "block": "block-5492e734e4b019234074e360"
+            }, 
+            {
+                "text": "\n\n10.52am GMT\n10:52\nEuropean markets enjoy post-Fed rally\n", 
+                "block": "block-5492af7ee4b08b9165ec7464"
+            }, 
+            {
+                "text": "\n\n10.14am GMT\n10:14\nSNB: Negative rates are here to stay\n", 
+                "block": "block-5492a7f6e4b019234074e2ef"
+            }, 
+            {
+                "text": "\n\n9.30am GMT\n09:30\nSwiss negative rates: What the experts say\n", 
+                "block": "block-549296e3e4b019234074e2d9"
+            }, 
+            {
+                "text": "\n\n8.20am GMT\n08:20\nQ&A: Switzerland's negative interest rates\n", 
+                "block": "block-549288cce4b0c6258a8a42d4"
+            }, 
+            {
+                "text": "\n\n7.55am GMT\n07:55\nSwiss franc sinks after negative rate announcement\n", 
+                "block": "block-5492846be4b019234074e2ce"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "The latest business and finance news, as SNB takes fresh measures to weaken the franc following the Russian rouble crisis.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/18/swiss-negative-interest-rates-fed-stock-markets-rouble-live#block-5492c5b7e4b0919fd47e876c"
+                ], 
+                "text": "Lunchtime summary: Rouble ripples reach Switzerland.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/18/swiss-negative-interest-rates-fed-stock-markets-rouble-live#block-5492846be4b019234074e2ce"
+                ], 
+                "text": "SNB imposes negative rates to weaken the franc.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/2014/dec/18/switzerland-negative-interest-rates"
+                ], 
+                "text": "Q&A: Negative rates explained.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/18/swiss-negative-interest-rates-fed-stock-markets-rouble-live#block-549296e3e4b019234074e2d9"
+                ], 
+                "text": "What the experts say.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

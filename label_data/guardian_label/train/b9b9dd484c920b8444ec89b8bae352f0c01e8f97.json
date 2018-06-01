@@ -1,0 +1,954 @@
+{
+    "blog_id": "b9b9dd484c920b8444ec89b8bae352f0c01e8f97", 
+    "title": "US GDP beats forecasts with 3% growth, as markets recover from Korea shock - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live", 
+    "summary": [
+        "summary .", 
+        "wall street edges lower .", 
+        "us gdp growth stronger than expected .", 
+        "us jobs beat expectations .", 
+        "german inflation higher than expected .", 
+        "uk mortgage approvals higher than expected but consumer credit slows .", 
+        "eurozone confidence at ten year high ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a6a6efe4b03bee98d0ad47", 
+            "title": "summary", 
+            "text": [
+                "after tuesday 's falls in the wake of the latest north korean missile launch , markets have regained some of the lost ground .", 
+                "meanwhile the pound is also recovering after its brexit-induced weakness .", 
+                "on a busier day for economic data , uk mortgage approvals moved higher but consumer credit slowed .", 
+                "eurozone economic sentiment also improved and hit a ten year high , although the uk figure showed a decline .", 
+                "in the us , gdp grew by a better than expected 3 % annualised in the second quarter , while private sector employment also beat forecasts .", 
+                "the ftse 100 is currently up 0.47 % , while germany 's dax is 0.62 % better and france 's cac has climbed 0.58 % .", 
+                "but on wall street , markets are struggling after president trump tweeted that talking is not the answer '' regarding north korea .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                13, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a6bf8ae4b03bee98d0add1", 
+            "title": "wall street edges lower", 
+            "text": [
+                "it was all looking fairly promising , with better than expected us growth and jobs numbers and wall street set to open higher .", 
+                "but then donald trump tweeted and raised the tensions with north korea again : donald j. trump ( @ realdonaldtrump ) the u.s. has been talking to north korea , and paying them extortion money , for 25 years .", 
+                "talking is not the answer !", 
+                "so us markets struggled at the open , with the dow jones industrial average down 10 points or 0.06 % , the s & p 500 down 0.02 % and the nasdaq composite uup 0.1 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                13, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a6b6f5e4b065c82b4cf403", 
+            "title": "", 
+            "text": [
+                "can the us growth continue ?", 
+                "fidelity international 's global economist thinks not .", 
+                "anna stupnytska ( @ annastupnytska ) upward revision to q2 # us gdp on back on stronger consumer .", 
+                "good news but not sustainable at these levels .", 
+                "# fed # usd # dxy"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                13, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6b564e4b03bee98d0ada2", 
+            "title": "", 
+            "text": [
+                "the us growth figures are good news for donald trump at least , who promised to boost the economy and increase jobs .", 
+                "heather long ( @ byheatherlong ) breaking : the us economy grew at 3 % in the 2nd quarter ( revised up from 2.6 % ) .", 
+                "good sign for trump .", 
+                "heather long ( @ byheatherlong ) the higher growth came from the right places : more consumer spending and non-residential investment .", 
+                "heather long ( @ byheatherlong ) but keep in mind that 3 % q2 gdp is just for one quarter .", 
+                "trump will need to sustain the growth to really celebrate .", 
+                "# economy carl riccadonna ( @ riccanomix ) gdp report was not all revisions , as it also showed the 1st print on economy-wide corporate profits in 2q .", 
+                "they rose 1.3 % vs. -2.1 % in 1q ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6b20ae4b02986addbb77d", 
+            "title": "", 
+            "text": [
+                "the 3 % jump in us gdp in the second quarter is more than double the 1.2 % increase seen in the first three months of the year .", 
+                "the us bureau of economic analysis said : the acceleration in real gdp in the second quarter primarily reflected upturns in private inventory investment and federal government spending and an acceleration in pce [ personal consumption expenditure ] that were partly offset by downturns in residential fixed investment and state and local government spending and a deceleration in exports .", 
+                "of economic analysis"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6afdde4b03bee98d0ad84", 
+            "title": "us gdp growth stronger than expected", 
+            "text": [
+                "breaking : after the adp jobs data , more evidence of a strong us economy .", 
+                "the country 's economy grew by an annualised 3 % in the second quarter , up from an initial estimate of 2.6 % and expectations of a rise of 2.7 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6addbe4b02986addbb760", 
+            "title": "", 
+            "text": [
+                "from the adp report : in august , the goods-producing sector saw the best performance in months with solid increases in both construction and manufacturing , '' said ahu yildirmaz , vice president and co-head of the adp research institute .", 
+                "additionally , the trade industry pulled ahead to lead job gains across all industries , adding the most jobs it has seen since the end of 2016 .", 
+                "this could be an industry to watch as consumer spending and wage growth improves . ''", 
+                "mark zandi , chief economist of moody 's analytics , said , the job market continues to power forward .", 
+                "job creation is strong across nearly all industries , company sizes .", 
+                "mounting labor shortages are set to get much worse .", 
+                "the initial bls employment estimate is often very weak in august due to measurement problems , and is subsequently revised higher .", 
+                "the adp number is not impacted by those problems . ''", 
+                ", moody 's analytics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6ac74e4b03bee98d0ad6a", 
+            "title": "us jobs beat expectations", 
+            "text": [
+                "ahead of the widely watched us non-farm payroll numbers on friday , a private sector payroll survey has substantially beaten expectations .", 
+                "the adp jobs report shows us private sector employment increased by 237,000 in august , compared with a 178,000 rise in july and expectations of a 185,000 increase .", 
+                "trading economics ( @ teconomics ) # unitedstates adp # employment change at 237k"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                18
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6aad3e4b02986addbb750", 
+            "title": "", 
+            "text": [
+                "here is a breakdown of the german inflation figure , from the federal statistics office : statistics office"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a6a932e4b02986addbb748", 
+            "title": "german inflation higher than expected", 
+            "text": [
+                "inflation figures just out from germany show a higher than expected figure for august .", 
+                "the harmonised consumer price index - using the same methodology across the european union - came in at 1.8 % year on year compared to forecasts of 1.7 which was also the july figure .", 
+                "the month on month figure was also higher than expected at 0.2 % rather than 0.1 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                12, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6a1ade4b065c82b4cf398", 
+            "title": "", 
+            "text": [
+                "here 's our report on the uk consumer credit figures : the rapid growth in borrowing by consumers appears to be slowing amid a squeeze on households , despite remaining at levels unseen since the financial crisis .", 
+                "the annual rate of growth for consumer borrowing through credit cards , overdrafts and personal loans slowed to 9.8 % in july , the lowest rate of expansion since april 2016 , according to the bank of england .", 
+                "the growth rate was a little weaker than in recent months , when the pace of expansion was above 10 % .", 
+                "spending by british consumers is growing at the weakest rate in almost three years , as households come under pressure to tighten their belts from higher prices fuelled by a drop in the value of the pound since the eu referendum .", 
+                "wages rose by 2.1 % in june , while inflation stood at 2.6 % in july , leading to negative earnings growth .", 
+                "the figures come as research from citizens advice suggests credit card lenders may be targeting people struggling with unaffordable levels of debt , a practice that it said britain 's financial watchdog should ban .", 
+                "weaker levels of growth in consumer credit could relieve pressure on the bank to raise interest rates to slow the rapid expansion in the supply of money .", 
+                "sluggish gdp growth and inflation coming close to its peak could put off a rate rise until late 2018 , or even early 2019 .", 
+                "the full story is here : rapid rise in personal borrowing is cooling , says bank of england read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                11, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a69d95e4b03bee98d0ad1b", 
+            "title": "", 
+            "text": [
+                "the pound is holding steady against both the dollar and euro after its recent brexit-induced weakness .", 
+                "it is up 0.027 % at $ 1.2927 and 0.3 % to \u20ac1.0821 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                11, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a69745e4b03bee98d0acf5", 
+            "title": "", 
+            "text": [
+                "economic sentiment in the eurozone may be holding up , but the same can not be said for the uk , judging from the european commission 's figures .", 
+                "the overall index for the uk fell from 113.2 to 109.6 , with construction and consumer sentiment particularly weak .", 
+                "commission howard archer ( @ howardarcheruk ) # eucommission # business & # consumer survey : # uk sentiment indicator back to 109.6 in aug after spike to 113.2 in jul ( june:109.2 ; may : 108.2"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                10, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a693afe4b03bee98d0ace2", 
+            "title": "", 
+            "text": [
+                "european markets have lost some of their earlier gains but remain in positive territory .", 
+                "connor campbell , financial analyst at spreadex , said : europe 's wednesday rebound lost some of its shine as the day went on , with investors perhaps struggling to justify their initial cheeriness .", 
+                "the ftse saw its gains shrink from 0.6 % to 0.2 % , in large part due to a reversal from brent crude , which is once again threatening to fall below $ 51.50 per barrel .", 
+                "this in turn erased bp 's early growth and sent shell lower by half a percent , explaining the uk index 's own slowing .", 
+                "the ftse also was n't helped by the pound 's latest attempt at a comeback against the euro , sterling climbing above \u20ac1.08 with a 0.4 % increase .", 
+                "like the ftse , the dax and cac fell from their morning peak , and are now up 0.4 % apiece .", 
+                "this despite the euro dropping 0.4 % against both the dollar and the pound - though in the grand scheme of the currency 's summer that kind of pull back is a hill of beans compared to its mountainous climb ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                10, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a67f8fe4b0f1f2450ba1df", 
+            "title": "", 
+            "text": [
+                "not everyone believes the pound 's recent weakness may not last .", 
+                "peter rosenstreich at swissquote bank says : although the pound has recovered slightly against the us dollar and the euro , it is not a sustainable course .", 
+                "the bank of england remains dovish : the central bank will not tighten money until there is clear political direction around brexit .", 
+                "one key indicator will come in october , as the major parties hold their conferences .", 
+                "investors will also be watching german elections .", 
+                "a decisive victory by chancellor merkel 's christian democrats will boost the euro .", 
+                "she and france 's president emmanuel macron intend to cooperate in advancing the european union 's financial integration .", 
+                "gbp/usd is consolidating around 1.30 , while eur/gbp has no real resistance till 0.9415 .", 
+                "eur/usd should top 1.20 , and favourable european economic/political conditions suggest further upside for the pair ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                10, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a68328e4b03bee98d0ac8b", 
+            "title": "", 
+            "text": [
+                "after the latest eurozone sentiment survey and ahead of next week 's meeting of the european central bank , economist bert colijn at ing bank said : the august survey indicators all point to some modest improvements compared to july , but the main message is that the economy maintains a healthy cruising speed .", 
+                "economic growth in the eurozone seems to be stable at around 2 % year-on-year for the moment , well above trend growth .", 
+                "the economic sentiment indicator showed improvements in both services and industry , showing the current economic strength is widespread .", 
+                "production and employment expectations both improved in the industry sector , but a drop off in employment expectations in services shows there could be some levelling off regarding job market recovery in the months ahead .", 
+                "the key takeaway for monetary policy is inflation expectations did not show an uptick .", 
+                "the current weak inflation environment is likely to have continued in august as we expect the inflation rate to have ticked up marginally to 1.4 % and core inflation to have remained stable at 1.2 % .", 
+                "in fact , it is unlikely that inflation will increase much above 1.5 % for the rest of the year and the esi inflation expectations confirm that .", 
+                "consumer inflation expectations decreased marginally from 11.7 to 11.6 in august , and industrial selling price expectations were stable but below the march reading .", 
+                "in the service sector , selling price expectations improved marginally , but they are also still below levels seen earlier in the year .", 
+                "the difficult situation of healthy growth and weak inflation continues to trouble the ecb ahead of next week 's governing council meeting .", 
+                "although we do expect at least a game plan from the ecb next week and probably a tasking of the relevant committees to investigate tapering options , ongoing weakness in inflation expectations will not make draghi 's life easier ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                10, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a67de5e4b0f1f2450ba1d5", 
+            "title": "", 
+            "text": [
+                "for those curious about what moody 's did with its uk growth forecasts in its global macroeconomic outlook , it kept them unchanged .", 
+                "here are the full forecasts : 's"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                9, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a67fc7e4b06fe41d8889bc", 
+            "title": "eurozone confidence at ten year high", 
+            "text": [
+                "eurozone economic sentiment came in higher than forecast in august , thanks to optimism in the industrial and service sectors , and among consumers .", 
+                "the european commission 's sentiment index rose from 111.3 in july to 111.9 , better than the 111.3 expected and hitting a ten year high .", 
+                "the figures for the eu as a whole was more or less static ( -0.3 points to 111.9 ) , just below its 10-year high of july .", 
+                "commission"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                9, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a680dee4b094f332d14307", 
+            "title": "", 
+            "text": [
+                "and more from the bank 's lending figures : samuel tombs ( @ samueltombs ) corporate borrowing surged again in july .", 
+                "might signal \u2191capex .", 
+                "but timing hints could just reflect rate hike fears stoked by june 's mpc meet"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                9, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a67d87e4b094f332d142f8", 
+            "title": "", 
+            "text": [
+                "more on uk consumer credit : matt whittaker ( @ mattwhittakerrf ) year-on-year growth in net consumer credit lending slowed v slightly to 9.8 % in july .", 
+                "slowest since apr-16 , but still elevated matt whittaker ( @ mattwhittakerrf ) total debt relative to household income remains lower than at the start of the financial crisis , but it 's heading back up .", 
+                "now at 145 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                8, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a67717e4b06fe41d888997", 
+            "title": "uk mortgage approvals higher than expected but consumer credit slows", 
+            "text": [
+                "despite july being a traditionally quiet month for the uk housing market , mortgage approvals for that month have come in higher than analyst forecasts .", 
+                "they rose from 65,318 in june to 68,689 last month , according to the bank of england , better than the 65,500 expected .", 
+                "but consumer credit rose by less than forecast , up \u00a3 1.179bn compared to expectations of a \u00a3 1.5bn increase and down on june 's figure of \u00a3 1.351bn .", 
+                "that was the smallest increase this year ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                8, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a66489e4b0f1f2450ba17f", 
+            "title": "", 
+            "text": [
+                "back with the us , and donald trump 's proposed tax reforms will add billions to the already burgeoning us debt mountain , it has been claimed .", 
+                "trump 's proposed corporate tax plan will add trillions to us debt - report read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                8, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a66e5fe4b094f332d142bb", 
+            "title": "", 
+            "text": [
+                "speaking of the pound , some analysts believe its current weakness - due in large part to the tortuous brexit talks - may not last .", 
+                "derek halpenny , european head of global markets research at the bank of tokyo-mitsubishi , said : it is looking increasingly like grid-lock [ in the brexit discussion ] and we may need some compromise at a higher level to move forward .", 
+                "that might not come until later in the year , which would mean negotiations being behind schedule .", 
+                "this potential delay is the dominant driver of pound selling that has now taken eur/gbp to levels that look very much over-extended .", 
+                "while the negative brexit sentiment could certainly take the pound lower still over the coming weeks , a continued slide in the pound neer [ nominal effective exchange rate ] value assumption - currently averaging 76.650 on a year-to-date basis - would start to add to the inflation overshoot .", 
+                "if the economic data was to show some improvement , then that combination would help provide support for the pound .", 
+                "so we remain sceptical of how much further scope there is for pound selling .", 
+                "the pound 's decline against the euro this year .", 
+                "reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                8, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a66ddbe4b06fe41d88896d", 
+            "title": "", 
+            "text": [
+                "on the market recovery , connor campbell , financial analyst at spreadex , said : with little yet to come from north korea 's latest missile launch - including an unusually restrained comment from donald trump - the markets felt free to rebound this wednesday .", 
+                "the european indices were fairly uniform in their gains after the bell .", 
+                "the ftse jumped 40 or so points , pushing the index to the upper end of the 7300 to 7400 trading bracket it has found itself in for the last 3 weeks .", 
+                "alongside the general reversal of yesterday 's losses the ftse also benefited from brent crude 's slight rise ; the black stuff is now tickling $ 52 per barrel having slipped under $ 51.50 on tuesday , allowing bp and shell to pull back from yesterday 's lows .", 
+                "over in the eurozone the situation was much the same , with the dax and cac climbing 0.5 % to 0.6 % apiece .", 
+                "however , unlike in the uk - where a similar rise effectively reclaimed tuesday 's losses - such growth could only take the tip off of yesterday 's eurozone plunge .", 
+                "tuesday saw the eurozone 's losses exacerbated by the latest romp from the euro , so the german and french indices will be happy to see the currency has calmed somewhat this wednesday .", 
+                "against the dollar it 's down 0.4 % , and back below $ 1.195 having crossed $ 1.205 during tuesday 's peak , while against the pound the euro has slipped 0.2 % ( though sterling is still trapped underneath \u20ac1.08 ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                7, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a6695ee4b0f1f2450ba190", 
+            "title": "moody 's raises growth forecasts for france , germany and italy", 
+            "text": [
+                "moody 's has raised its growth forecasts for germany , france and italy , and says the eurozone can expect above potential '' growth this year and next .", 
+                "but it has lowered its prediction for the us outlook .", 
+                "in its global macroeconomic outlook it said the eurozone is expected to grow by 2.1 % in 2017 and 1.9 % in 2018 compared to 1.7 % last year .", 
+                "robust survey indicators in euro area countries suggest that growth should accelerate through the rest of the year , while the consumer confidence indicator at a 16-year high bodes well for the consumer-driven recovery , '' said madhavi bokil , a vice president at moody 's and author of the report .", 
+                "in detail it says : moody 's has revised up germany 's gdp growth forecasts to 2.2 % and 2.0 % for 2017 and 2018 respectively .", 
+                "similarly , moody 's has raised its forecasts for france to 1.6 % for both 2017 and 2018 , from 1.3 % and 1.4 % as the recovery remains on track , driven by net exports and investment .", 
+                "in italy , moody 's expects that the recovery will also continue to benefit from supportive monetary and fiscal policies , as well as stronger growth in the rest of the european union .", 
+                "moody 's has revised up its real gdp growth forecast to 1.3 % in 2017 and 2018 from 0.8 % and 1 % respectively .", 
+                "g20 economies will collectively grow at an annual rate of slightly more than 3 % in 2017 and 2018 , higher than last year 's 2.6 % .", 
+                "with considerable slack remaining in some euro area economies and some emerging market countries , the current pace of growth around 2 % in advanced economies and more than 5 % in emerging markets is not only sustainable in the near term , there is potential for upside .", 
+                "as for the us : moody 's expects us growth of 2.2 % in 2017 and 2.3 % in 2018 , down from 2.4 % and 2.5 % , respectively .", 
+                "the revisions in 2017 are a result of weaker performance in the first half of the year .", 
+                "the lower growth forecast for 2018 reflects expectations of a more modest fiscal stimulus than previously assumed .", 
+                "on actions by central banks , moody 's says : monetary policy in the us should continue to tighten this year and next .", 
+                "moody 's also expects euro area monetary policy to become less supportive in 2018 , provided that the current growth momentum remains intact .", 
+                "the bank of japan 's policy stance will likely become less accommodative once the 2 % inflation target is reached , which the central bank expects in 2019 .", 
+                "but it warned there were a number of risks , not least the situation with north korea : a significant escalation of any of the situations in korea , the south china sea and other areas could have significant negative credit implications for the global economy , '' said elena duggar , an associate managing director at moody 's .", 
+                "other risks include a protectionist turn by the us , and any financial market volatility stemming from sudden changes in market expectation regarding monetary policy tightening ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                7, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a664b8e4b06fe41d888944", 
+            "title": "european markets open higher", 
+            "text": [
+                "after tuesday 's slide in the wake of north korea 's latest missile launch , european markets are heading higher in early trading .", 
+                "the ftse 100 is up 0.5 % , germany 's dax has added 0.7 % , france 's cac has climbed 0.6 % and spain 's ibex is 0.7 % better ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                7, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a66024e4b0f1f2450ba171", 
+            "title": "", 
+            "text": [
+                "the pound is having another mixed day , but it is not exactly suffering any dramatic moves so far .", 
+                "against the dollar , sterling has edged down 0.08 % to $ 1.2909 as the us currency steadies after its recent losses .", 
+                "but against the euro , the pound has recovered a little ground , up 0.04 % at \u20ac1.0793 .", 
+                "meanwhile gold - which jumped on tuesday as investors sought havens for their cash - has dipped $ 1 to $ 1307 an ounce ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                7, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a65d62e4b0f1f2450ba15a", 
+            "title": "", 
+            "text": [
+                "the economic impact of tro storm harvey will not be felt until next month 's figures at the earliest , so the us data to be released later will be considered in the light of the next federal reserve meeting and the central bank 's interest rate policy .", 
+                "expectations of another us rate rise in the near future have receded - part of the reason for the recent weakness in the dollar - but stronger than expected figures today and on friday with the non-farm payroll numbers could see sentiment change again .", 
+                "as it it , the adp report is expected to show around 185,000 new private sector jobs in august after a 178,000 rise in july .", 
+                "second quarter gdp is forecast to rise from the initial estimate of 2.6 % to 2.7 % or even 2.8 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                6, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a655abe4b094f332d14259", 
+            "title": "agenda : uk lending figures , german inflation and us growth data in spotlight", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the latest news from the world economy , the financial markets , the eurozone and business .", 
+                "stock markets look a little calmer after monday 's slide in the wake of north korea 's provocative missile launch over japan .", 
+                "investors took some reassurance from president trump 's relatively measured response .", 
+                "stating that all options are on the table '' is a lot less bellicose than promising fire and fury '' , so after an early fall the dow jones industrial average actually ended in positive territory , up 0.26 % .", 
+                "the positive mood has filtered through to asia , with the hang seng up 0.94 % and the nikkei 225 0.72 % better .", 
+                "so european markets are expected to recover a little of monday 's lost ground : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7367 up 29 $ dax 12006 up 60 $ cac 5062 up 30 $ ibex 10258 up 66 $ mib 21572 up 164 but some believe the markets may be too calm , given the tensions with north korea and the country 's promise of more action in the region .", 
+                "michael hewson , chief market analyst at cmc markets uk , said : having seen stock markets in asia and europe drop sharply and the traditional haven trades rally in the aftermath of north korea 's provocative missile launch over japan earlier this week , it would n't have been a surprise to see us markets follow suit .", 
+                "despite the escalation in tension and the universal condemnation the missile launch has provoked , us markets , despite initially opening sharply lower , rallied strongly in the afternoon session to close the day higher .", 
+                "it is true that flare ups on the korean peninsula are nothing new and previous instances have always resulted in a winding back of tension , and it would appear that us investors have decided that recent events are likely to go the same way , as the markets muscle memory '' of selling the panic and then buying the dip kicked in .", 
+                "in ordinary circumstances this might seem sensible , however the events of the last few weeks can hardly be described as ordinary , which suggests that markets could be being rather na\u00efve that current events can be contained .", 
+                "president trump of course also has to contend with the devastating floods from tro storm harvey , both the damage done and the cost to the us economy .", 
+                "our live coverage of the impact of the storm is here : tro storm harvey : houston mayor imposes curfew - live read more on top of that , he is expected to give more details of his long awaited tax reform programme .", 
+                "it is also a fairly busy day for data as the month comes to and end .", 
+                "still with the us , there are second quarter gdp figures and the latest private payroll numbers , which are scoured for clues to friday 's non-farm payroll numbers .", 
+                "in the uk there are the latest bank lending and mortgage figures , and in germany , inflation data for august .", 
+                "the agenda : 9.30 bst uk consumer credit and mortgage lending ( july ) 10.00 bst eurozone confidence figures ( august ) 13.00 bst german inflation ( august ) 13.15 bst us adp employment data ( august ) 13.30 bst us gdp ( second quarter )"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                30, 
+                6, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.49pm BST\n14:49\nSummary\n", 
+                "block": "block-59a6a6efe4b03bee98d0ad47"
+            }, 
+            {
+                "text": "\n\n2.39pm BST\n14:39\nWall Street edges lower\n", 
+                "block": "block-59a6bf8ae4b03bee98d0add1"
+            }, 
+            {
+                "text": "\n\n1.31pm BST\n13:31\nUS GDP growth stronger than expected\n", 
+                "block": "block-59a6afdde4b03bee98d0ad84"
+            }, 
+            {
+                "text": "\n\n1.18pm BST\n13:18\nUS jobs beat expectations\n", 
+                "block": "block-59a6ac74e4b03bee98d0ad6a"
+            }, 
+            {
+                "text": "\n\n1.05pm BST\n13:05\nGerman inflation higher than expected\n", 
+                "block": "block-59a6a932e4b02986addbb748"
+            }, 
+            {
+                "text": "\n\n9.32am BST\n09:32\nUK mortgage approvals higher than expected but consumer credit slows\n", 
+                "block": "block-59a67717e4b06fe41d888997"
+            }, 
+            {
+                "text": "\n\n10.15am BST\n10:15\nEurozone confidence at ten year high\n", 
+                "block": "block-59a67fc7e4b06fe41d8889bc"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a6afdde4b03bee98d0ad84#block-59a6afdde4b03bee98d0ad84", 
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a6ac74e4b03bee98d0ad6a#block-59a6ac74e4b03bee98d0ad6a"
+                ], 
+                "text": "US GDP shows strong growth, while job numbers increase.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a67717e4b06fe41d888997#block-59a67717e4b06fe41d888997"
+                ], 
+                "text": "UK consumer credit slows but mortgage approvals rise.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a67fc7e4b06fe41d8889bc#block-59a67fc7e4b06fe41d8889bc"
+                ], 
+                "text": "Eurozone confidence at ten year high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a6695ee4b0f1f2450ba190#block-59a6695ee4b0f1f2450ba190"
+                ], 
+                "text": "Moody's raises growth forecasts for France, Germany and Italy.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/30/markets-recover-after-korea-shock-and-ahead-of-us-gdp-business-live?page=with:block-59a6a932e4b02986addbb748#block-59a6a932e4b02986addbb748"
+                ], 
+                "text": "German inflation higher than expected.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

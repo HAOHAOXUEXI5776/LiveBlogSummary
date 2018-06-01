@@ -1,0 +1,3219 @@
+{
+    "blog_id": "e04a9af992824d6feaa607893ddc597f04745713", 
+    "title": "BBC Local Live: Shropshire on Friday 26 May - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-shropshire-39404414", 
+    "summary": [
+        "seventy six jobs under threat at telford college .", 
+        "the new saints lose manager harrison .", 
+        "more maternity unit closures over bank holiday .", 
+        "updates on friday 26 may ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_592843a7e4b084c6e704f2c3", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 on tuesday .", 
+                "enjoy the bank holiday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_40064372", 
+            "title": "college plans to axe more than 70 jobs", 
+            "text": [
+                "college plans to axe more than 70 jobs"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59283839e4b0ee8ae9e9fba8", 
+            "title": "reminder that armed officers may be on the streets", 
+            "text": [
+                "the police are reminding us that with the heightened state of security at the moment , there may be armed officers out on the streets this bank holiday weekend .", 
+                "the force says it always has armed officers based around the west mercia area , ready to react where needed , but since the terror attack in manchester it deployed additional firearms teams .", 
+                "there will also be more regular police out on the streets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59284c88e4b012a6cdd8d684", 
+            "title": "football : record runs and european wins among harrison 's achievements", 
+            "text": [
+                "the new saints have described craig harrison as their most successful manager ever and it 's hard to argue with the collection of silverware his team built up in his five years at park hall .", 
+                "but , perhaps his most memorable achievement will be his world record 27-game winning run in all competitions this season - breaking a record set by ajax .", 
+                "harrison also led his side to european champions league qualifying wins over cliftonville of northern ireland and tre penne of san marino , plus a memorable win in the away leg against videoton of hungary ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5928501ce4b012a6cdd8d695", 
+            "title": "more maternity unit closures this weekend", 
+            "text": [
+                "the maternity units at bridgnorth and oswestry will be closed for the bank holiday weekend , because of staff sickness .", 
+                "the closures are the latest in a series of temporary closures at midwife-led units around the county this year and the two units will be shut from 20:00 tonight until 08:00 on tuesday morning .", 
+                "the shrewsbury and telford hospital trust explained the problem had been a shortage of staff at the princess royal hospital and that maternity staff had to be redeployed there , as cover ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592841e7e4b084c6e704f2bd", 
+            "title": "election panel : your thoughts on housing", 
+            "text": [
+                "the bbc is running an election panel , asking voters for their thoughts ahead of 8 june .", 
+                "we wanted to know : what should we be doing to address the need for more low cost housing ?", 
+                "does any party have policies you think would help ?", 
+                "tarz , birmingham : `` use up all avaliable brownfield sites .", 
+                "if landowners do no build within three years of purchase , then the councils should buy them back at the price that was paid .", 
+                "the council then gets houses built on the sites .", 
+                "this stops land-hoarding .", 
+                "trouble is , each individual is responsible for his/hers situation , and should not rely on others to house them .", 
+                "all parties talk the talk then do sod all when in power . ''", 
+                "beatrice , shrewsbury : `` use greenbelt areas to build more houses , decrease demand . ''", 
+                "carol , stoke : `` i think derelict buildings could be used .", 
+                "they could be renovated and either rented or sold at a reduced rate to people who would benefit from low cost houses .", 
+                "there are some old derelict factory buildings near where i live , they have been unused for years now , but could be put to good used if turned into flats . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_592847b3e4b084c6e704f2d8", 
+            "title": "college union 'surprised ' by scale of planned tcat job cuts", 
+            "text": [
+                "the university and college union ( ucu ) said it was surprised by the scale of the planned job losses announced by telford college of arts and technology ( tcat ) today .", 
+                "but the vice chair of its tcat branch , crispin barkley , said he was n't surprised , because he knew about the financial strain the college was under and that talks had taken place between the union and management this week .", 
+                "mr barkley said the job of the union was now to try to reduce the number of jobs affected and he said he was confident that could be achieved .", 
+                "the college says 76 jobs are under threat ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592842b5e4b0ee8ae9e9fbdd", 
+            "title": "football : tns wish harrison the best with new job", 
+            "text": [
+                "craig harrison has left the new saints with best wishes from the men in charge there .", 
+                "chairman mike harris ( below ) said he wished him `` the very best in his new role '' and ceo ian williams said he had been `` instrumental in ensuring continued success during his time at the club '' .", 
+                "the club agreed to release him from his contract , so he could take up the hartlepool job .", 
+                "harrison will be a hard act to follow , but tns say assistant manager scott ruscoe will step up until a permanent manager can be appointed ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59283b14e4b0ee8ae9e9fbc0", 
+            "title": "your photos : sun shines even brighter over newport", 
+            "text": [
+                "we thought the weather was good yesterday , but it 's even better today , as these photos taken by bbc weather watcher tay show .", 
+                "this one was taken yesterday afternoon and you can see that despite the fine weather , there was still some cloud around .", 
+                "compare that to this photo he took around the same time this afternoon , with clear blue skies ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927f1b4e4b067b356cfdd97", 
+            "title": "bank holiday getaways : busiest roads for four years", 
+            "text": [
+                "highways england have suspended 150 miles of roadworks across the west midlands in anticipation of today 's bank holiday getaway .", 
+                "the rac are warning drivers to expect the busiest spring bank holiday weekend for traffic in four years .", 
+                "it estimates that 16.5m leisure journeys will be taken between today and monday because of soaring temperatures ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59283499e4b012a6cdd8d617", 
+            "title": "football : new striker looking forward to playing for familiar management team", 
+            "text": [
+                "shrewsbury town 's latest signing , lenell john-lewis , says he is looking forward to playing for paul hurst and chris doig again .", 
+                "the 28-year-old played for the pair at grimsby town and scored 26 goals for the mariners , before his transfer to newport county .", 
+                "john-lewis described himself as a `` target-man '' who could also get behind defences and said he offered `` hard work and honesty '' .", 
+                "he suffered a serious knee injury for newport last season , which kept him out for 10 months and says he is looking forward to enjoying his football again .", 
+                "i worked well under [ paul hurst and chris doig ] before and they know how to get the best out of me . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59284026e4b084c6e704f2b2", 
+            "title": "breakingfootball : tns boss leaves to take hartlepool job", 
+            "text": [
+                "the new saints manager , craig harrison , has left the club to take the managers job at hartlepool united .", 
+                "he was the most successful manager in the club 's history , with six welsh premier league titles , four welsh cups and three welsh league cups .", 
+                "harrison had been strongly linked with a move back to his native north east and had won the backing of the tv presenter and former hartlepool president , jeff stelling ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59283971e4b0ee8ae9e9fbb3", 
+            "title": "stage is set for shrewsbury 80s concert", 
+            "text": [
+                "the stage is set and tomorrow thousands of music fans will flood in to shrewsbury 's quarry park to enjoy the first ever let 's rock festival ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927ee44e4b0d071b4d7e166", 
+            "title": "election panel : your thoughts on defence", 
+            "text": [
+                "the bbc is running an election panel , asking voters for their thoughts ahead of 8 june .", 
+                "we asked :", 
+                "what should we do about defence ?", 
+                "do you support trident ?", 
+                "which party 's policies do you think best look after our defence needs ? ''", 
+                "shah , birmingham : `` i do n't support trident .", 
+                "none of the party 's have any viable long term financially savvy solution . ''", 
+                "barry , telford : `` trident must be supported and we should have four submarines and not just three please do not let corbyn near them . ''", 
+                "harold , coventry : `` i would oppose trident if there is a viable alternative .", 
+                "it 's difficult to say which party best looks after our security but i would go with labour . ''", 
+                "daniel , walsall : `` i support a strong defence but am not an interventionist .", 
+                "i do n't find much to like in labour 's mixed stance on the nuclear deterrent but do not like how the conservatives have steadlily cut the military either .", 
+                "no party really fully reflect my views i do n't think . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59281e70e4b0ee8ae9e9fb34", 
+            "title": "county show looks to educate", 
+            "text": [
+                "the organisers of the shropshire county show say they want to `` educate people about the agricultural industry '' .", 
+                "show manager ian bebbington said they also wanted to `` entertain families '' and would have a big section for young people , which would involve a walking dinosaur puppet this year .", 
+                "mr bebbington also said there would be shorter ferry journeys across the severn this year , to reduce queues .", 
+                "and he said there would be no poultry section this year , because there was n't time to organise one , following the avian flu poultry ban , earlier this year ."
+            ], 
+            "author": [
+                "Ian Perry", 
+                "BBC Radio Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5928138be4b084c6e704f1dd", 
+            "title": "college looks to minimise compulsory redundancies", 
+            "text": [
+                "the principal at telford college of arts and technology says he will look to minimise the number of compulsory redundancies and says the final number of job-cuts could be lower than 76 .", 
+                "graham guest said the college would try to reduce the number of agency staff it employs and would offer staff the chance to re-train to take up other positions .", 
+                "the college is in the process of merging with the nearby new college , but said these job losses were nothing to do with that move .", 
+                "it could n't say if there would be further job losses when the merger takes place ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59282332e4b084c6e704f230", 
+            "title": "severn valley railway charitable trust hits \u00a3 1m jackpot", 
+            "text": [
+                "the severn valley railway charitable trust has succeeded in meeting a \u00a3 1m fundraising challenge , set by the heritage lottery fund ."
+            ], 
+            "author": [
+                "Shropshire Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59281fc4e4b0ee8ae9e9fb3f", 
+            "title": "your photos : sunshine in queens head", 
+            "text": [
+                "it 's a beautiful day and we 're getting some great photos shared by the bbc weather watchers .", 
+                "this one was taken at queens head a little earlier ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59280ebae4b012a6cdd8d558", 
+            "title": "football : shrewsbury sign newport county striker", 
+            "text": [
+                "shrewsbury town have signed striker lenell john-lewis from league two newport county , on a one-year deal .", 
+                "he previously played for town manager paul hurst 's former club , grimsby ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592816cde4b084c6e704f1eb", 
+            "title": "midlands today : extra security for 'pride ' event", 
+            "text": [
+                "west midlands police say a `` large number '' of officers , specials and staff will be on hand to keep visitors safe at the city 's pride event on saturday and sunday .", 
+                "security measures have also been stepped up at festivals in staffordshire , shrewsbury and hay-on-wye .", 
+                "catch my report on bbc one at 13:30 ."
+            ], 
+            "author": [
+                "Ben Sidwell", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40059653", 
+            "title": "shrewsbury sign john-lewis from newport", 
+            "text": [
+                "shrewsbury sign john-lewis from newport"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592806ace4b012a6cdd8d51f", 
+            "title": "mobile phone stores robbed at knife-point", 
+            "text": [
+                "thieves armed with a knife have robbed two mobile phone stores in shrewsbury town centre .", 
+                "the police say the raids took place at the carphone warehouse and ee shops on pride hill yesterday afternoon .", 
+                "no-one was hurt , but the two men got away with phones after threatening staff and were seen leaving in a blue toyota celica ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927f0f8e4b067b356cfdd93", 
+            "title": "county show taking place this weekend", 
+            "text": [
+                "the shropshire county show takes place at the west mid showground in shrewsbury tomorrow .", 
+                "it features a mix of local bands , cattle displays , and stalls and this year it 's being visited by a motorcycle display team and the wirral marching piping band .", 
+                "the show traces its roots back to the days of the shropshire county agricultural show , which was created in the late 19th century ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59280b23e4b0ee8ae9e9fac8", 
+            "title": "breakingtelford college to cut 76 jobs", 
+            "text": [
+                "seventy six jobs could go at telford college of arts and technology .", 
+                "it says it currently employs about 480 staff and will be offering them the option of taking voluntary redundancy .", 
+                "the college principal graham guest said it was an `` extremely difficult decision '' but that the college had been operating with a `` staff surplus '' for several years and that had to be addressed .", 
+                "he said the cuts would have no impact on students ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_40048056", 
+            "title": "bank holiday events go on despite attack", 
+            "text": [
+                "bank holiday events go on despite attack"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592800ede4b050109886e1f1", 
+            "title": "athletics : rowlings sets european wheelchair record", 
+            "text": [
+                "shropshire wheelchair racer ben rowlings has set a new european record over 800 metres .", 
+                "the 21-year-old from newport beat his own lifetime best in the t34 category for athletes with cerebral palsy .", 
+                "his time of 1:39.1 in switzerland last night is 5 seconds faster than he 's gone before ."
+            ], 
+            "author": [
+                "Alex Seftel", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927f51be4b050109886e1b2", 
+            "title": "bank holiday : thunderstorm warning for saturday", 
+            "text": [
+                "it would n't be a bank holiday in england if there were n't warnings over heavy rain .", 
+                "the met office has issued a yellow weather alert for thundery showers on saturday afternoon and their affected area covers most of staffordshire and north shropshire .", 
+                "they say the rain could bring `` localised flooding , hail and frequent lightning '' ."
+            ], 
+            "author": [
+                "Allen Cook", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927f5d2e4b050109886e1b4", 
+            "title": "shrewsbury 's bgt star tina humphrey dies", 
+            "text": [
+                "tina humphrey , who wowed audiences on britain 's got talent with her dancing dog chandi , has died aged 45 after a battle with cancer ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927f3c5e4b0d071b4d7e17d", 
+            "title": "your photos : sunny weather in ludlow and shifnal", 
+            "text": [
+                "it 's going to be a hot day in shropshire and the bbc weather watchers have been sharing their photos of clear blue skies around the county this morning .", 
+                "these ones were taken in ludlow ( top ) and shifnal ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927e627e4b0d071b4d7e145", 
+            "title": "oswestry keen to keep french link", 
+            "text": [
+                "despite brexit , members of oswestry twinned town association are keen to keep their link with combs-le-ville near paris .", 
+                "a party set off this morning to stay with french families in the town south of the french capital .", 
+                "the association was founded in 1980 to foster friendships with the french town .", 
+                "oswestry twinner dave davies says that they 're setting off today for a week of `` entente cordiale '' ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927ed23e4b050109886e190", 
+            "title": "telford elects new mayor", 
+            "text": [
+                "telford 's new mayor has been elected by his fellow telford and wrekin councillors .", 
+                "labour councillor stephen reynolds will take over from rae evans , with councillor raj mehta as his deputy .", 
+                "mr reynolds told last night 's council meeting he was diagnosed with a terminal cancer 10 years ago and was told then he had only three months to live , so he had decided to support severn hos as his chosen charity , during his term in office ."
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927eac7e4b0d071b4d7e15a", 
+            "title": "man airlifted to hospital after car hits tree", 
+            "text": [
+                "two men have been injured , one of whom was airlifted to hospital , after the car they were travelling in rolled down a bank and hit a tree last night .", 
+                "the incident happened in broome road , aston-on-clun just before 19:50 .", 
+                "one man was trapped for nearly an hour ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927db33e4b067b356cfdd2b", 
+            "title": "specialist orthopaedic team get national award", 
+            "text": [
+                "a specialist team at the robert jones and agnes hunt orthopaedic hospital have been awarded network of excellence status for their care of people with neuromuscular conditions .", 
+                "muscular dystrophy uk , awarded the status to the hospital along with other specialist teams in the north west region .", 
+                "neuromuscular is a broad term that encompasses many diseases and ailments that impair the functioning of the muscles .", 
+                "the charity made the award for the orthopaedic hospital 's work training professionals in the conditions ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927d3aae4b0d071b4d7e0f1", 
+            "title": "historian goes back to school", 
+            "text": [
+                "prof mary beard , author and tv presenter , will be visiting her old school church preen primary today .", 
+                "mary was born in much wenlock in 1955 and went on the be educated at shrewsbury high school and then newnham college , cambridge .", 
+                "her television work started in 2010 when she presented pompeii : life and death in a roman town .", 
+                "her mother was headteacher at church preen primary .", 
+                "the current head , dave tinker , hopes mary 's story will enrich the children 's learning ."
+            ], 
+            "author": [
+                "Les Walton", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40042331", 
+            "title": "granddaughter finds 'lost ' dunkirk boat", 
+            "text": [
+                "granddaughter finds 'lost ' dunkirk boat"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927da0de4b0d071b4d7e10c", 
+            "title": "warnings issued over anti-social driving in whitchurch", 
+            "text": [
+                "whitchurch police have had to issue warnings to motorists after reports of anti-social driving in the town ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927d24de4b050109886e105", 
+            "title": "watch : your 50-second weather forecast", 
+            "text": [
+                "another dry , sunny and hot day in store with top temperatures of 25c ( 77f ) ."
+            ], 
+            "author": [
+                "Mel Coles", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5927ce4de4b067b356cfdce3", 
+            "title": "good morning from the bbc shropshire newsroom", 
+            "text": [
+                "i and the team will be bringing you the latest news , sport , travel and weather between now and and 18:00 .", 
+                "you can comment on our stories and share your by email , facebook and twitter ."
+            ], 
+            "author": [
+                "Les Walton", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59270079e4b067b356cfdb48", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow , but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926f523e4b0d071b4d7defe", 
+            "title": "your comments : aga foundry closure", 
+            "text": [
+                "the plans to close the aga foundry in coalbrookdale have led to some discussion on the bbc radio shropshire facebook page .", 
+                "bob smith wrote : `` it is always sad to see iconic british manufacturers having to sub-contract component manufacture , but in this highly competitive world , product cost is crucial to the survival of organisations . ''", 
+                "simon pilkington said he thought it was a `` very sad and bad day in so many ways '' on the bbc midlands today facebook page .", 
+                "rob thomas complained `` we 'll not be manufacturing anything in this country soon '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926faede4b0d071b4d7df1c", 
+            "title": "watch : the weather for tonight and tomorrow for the west midlands", 
+            "text": [
+                "after a hot , sunny day it looks like there 's more ahead - here 's the forecast for the next 24 hours .", 
+                "you can also get the latest forecasts at any time from the bbc weather website ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926ee29e4b067b356cfdaf2", 
+            "title": "artwork to celebrate museums anniversary on display", 
+            "text": [
+                "an exhibition of artwork inspired by the ironbridge gorge museums has opened at the coalbrookdale gallery .", 
+                "local artists were invited to submit their work earlier in the year , as part of celebrations to mark the 50th anniversary of the museums , and prizes were given to the best ones .", 
+                "below you can see the winner of the under-12 category , my grandma , by holly ngo , and the winner of the 18+ age-group , across the gorge , by jan bell .", 
+                "more than 70 works of art are on display at the gallery , next to the museum of iron and enginuity , and they will remain there until the end of the year ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926fdb3e4b067b356cfdb35", 
+            "title": "your photos : sunshine in oswestry and ludlow", 
+            "text": [
+                "it 's been a beautiful day in shropshire and the good news is this sunshine is forecast to return tomorrow .", 
+                "these photos were taken by bbc weather watchers near oswestry ( top ) and ludlow ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926efaae4b0d071b4d7dee9", 
+            "title": "new telford mayor to be chosen", 
+            "text": [
+                "telford 's new mayor will be elected at a meeting in oakengates tonight .", 
+                "telford and wrekin councillors are expected to choose last year 's deputy-mayor , labour 's stephen reynolds .", 
+                "councillors shaun davies and richard overton are expected to continue as leader and deputy leader , with lee carter as the man in charge of finances ."
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926f1d6e4b067b356cfdb03", 
+            "title": "ice hockey : telford to keep the tigers name", 
+            "text": [
+                "telford 's ice hockey teams will be able to keep the tigers name next season after all .", 
+                "the management had thought it would be impossible , following their move to the nihl north league , because of problems with the registration of the trademarks and had launched a fans ' competition to find a new name .", 
+                "they say an agreement has now been reached to continue using the name and logos , so the two teams in the nihl north will be known as telford tigers 1 and telford tigers 2 .", 
+                "the name competition has been scrapped ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926e968e4b050109886def1", 
+            "title": "updated plans revealed for up to 50 new homes in baschurch", 
+            "text": [
+                "updated plans have been revealed to create about 50 new homes in a shropshire village ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926e463e4b067b356cfdac2", 
+            "title": "firefighters called to two washing machine fires", 
+            "text": [
+                "firefighters have been called out to deal with two washing machine fires in the telford area in the space of just an hour and a half .", 
+                "the first was at a house on muxton lane , muxton , just after 12:00 and the second was in wellington at 13:26 .", 
+                "both fires were out before the fire crews arrived ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926c4cee4b050109886de32", 
+            "title": "raf cosford 10k run to return", 
+            "text": [
+                "the raf museum at cosford has announced it 'll be repeating its spitfire 10k run this autumn .", 
+                "last year 650 people took part in the event , which involves runners going up and down the runway at raf cosford and past the historic aircraft there .", 
+                "last year was the first year the run was held and participants were encouraged to dress up in wartime clothes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926e370e4b050109886ded3", 
+            "title": "your photos : sunshine in newport and bridgnorth", 
+            "text": [
+                "i 've just been outside and its getting pretty warm out there now , with temperatures reaching 25c ( 77f ) in parts of the county this afternoon .", 
+                "these photos were taken by bbc weather watchers near bridgnorth ( top ) and newport ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926c5b5e4b0d071b4d7dde9", 
+            "title": "watchdog gets baby death information from hospitals trust", 
+            "text": [
+                "the nursing watchdog has confirmed it has received the information it asked for from the shrewsbury and telford hospital trust about a baby 's death .", 
+                "the nursing and midwifery council ( nmc ) is investigating a number of midwives involved in the care of kate stanton-davies , who died only hours after being born in ludlow in 2009 .", 
+                "earlier in the month the nmc criticised the trust for not providing crucial information , despite them actively pursuing it ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926cdf6e4b067b356cfda54", 
+            "title": "football : new shrewsbury signing 'excited ' to have joined club", 
+            "text": [
+                "shrewsbury town 's new striker arthur gnahoua says he is excited about joining the league one club .", 
+                "the 24-year-old scored 15 goals for kidderminster harriers in the national league north last season and said he hoped to repeat his success at the greenhous meadow .", 
+                "gnahoua said he was strong , but he would n't describe himself as a player who could hold up the ball and instead likes to `` turn and run at players '' .", 
+                "league one is a good league for me , to prove that i can play"
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926c7a2e4b0d071b4d7ddf9", 
+            "title": "great wall of china proposal for bridgnorth runner", 
+            "text": [
+                "a bridgnorth runner beat thousands to be the second woman over the finish line in a marathon along the great wall of china - to be met by a proposal on the podium ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926adb0e4b050109886dd9c", 
+            "title": "'stay vigilant ' urges council leader", 
+            "text": [
+                "people in shropshire are being urged to stay vigilant by the chief executive of shropshire council , in the wake of the manchester terror attack .", 
+                "clive wright said that while the risks in shropshire are `` comparatively low '' , plans are in place to `` fight this campaign of fear '' .", 
+                "mr wright also said people needed to remain `` appropriately calm and reassuring to others '' ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926bd35e4b0d071b4d7dda7", 
+            "title": "hopes that aga foundry can be put to industrial use", 
+            "text": [
+                "the planned closure of the aga foundry in coalbrookdale has been described as `` very sad news '' by the telford and wrekin councillor for the area .", 
+                "nicola lowery said the announcement came as a shock , but that she was keen to see the buildings remain in industrial use .", 
+                "the site has been making cast iron since abraham darby set up his coalbrookdale company there in 1707 and has been through a number of hands since ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926b347e4b067b356cfd9b0", 
+            "title": "homes plan for pub beer garden", 
+            "text": [
+                "a pub beer garden in bomere heath could have five houses built on it .", 
+                "a planning application to carry out the work at the the red lion has been submitted to shropshire council and councillors will make a decision on it when they meet this afternoon .", 
+                "the parish council is objecting , claiming the site , known locally as the donkey patch , is too small to build five homes on and that building there would mean the loss of valuable car parking ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926b5c0e4b0d071b4d7dd6b", 
+            "title": "shropshire remembers manchester victims", 
+            "text": [
+                "people all over shropshire stood in silence this morning to remember the victims of the manchester terror attack .", 
+                "they have been joined by staff at local authorities and the emergency services .", 
+                "and in churches , such as wellington methodist church ( below ) , candles have been lit ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59269edfe4b0d071b4d7dcdf", 
+            "title": "your photos : blue skies and sunshine breaking through cloud", 
+            "text": [
+                "you can see the blue skies in these photos , ready to break through the thin covering of haze this morning .", 
+                "temperatures are forecast to reach 25c ( 77f ) in shropshire today and these were taken by bbc weather watchers near ludlow ( top ) and church stretton ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926b67ee4b0d071b4d7dd6e", 
+            "title": "ambulance service marks minute 's silence", 
+            "text": [
+                "the silence was observed all across the country at 11:00 .", 
+                "we stand with manchester"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926a58ee4b050109886dd6c", 
+            "title": "cricket : shropshire to play two friendlies against birmingham bears", 
+            "text": [
+                "shropshire will play two twenty20 friendlies against birmingham bears next month .", 
+                "the games will be played back-to-back on friday , 9 june , at bridgnorth cricket club .", 
+                "the visitors plan to use it as preparation for their t20 blast campaign , which begins in july ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59269da5e4b050109886dd39", 
+            "title": "your photos : a hazy start to the day across shropshire", 
+            "text": [
+                "we 're forecast some hot and sunny weather today , but it started out a bit hazy , as you can see from these bbc weather watcher photos .", 
+                "they were taken near oswestry ( top ) and ruyton-xi-towns ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592694cee4b0d071b4d7dca1", 
+            "title": "dunkirk 'little ship ' rediscovered by owner 's granddaughter", 
+            "text": [
+                "a boat which took part in the evacuation of dunkirk in 1940 has been resdiscovered by the owner 's granddaughter .", 
+                "annie gabb , from bridgnorth , shropshire , had heard stories about her grandfather 's boat the anne when she was growing up after the war , but never dreamed she would be able to track it down .", 
+                "after a chance conversation inspired her to begin looking , she discovered the boat was for sale .", 
+                "it was in a poor state and had to be completely renovated , but is now fully operational and will take part in the 80th anniversary of the evacuation of dunkirk ."
+            ], 
+            "author": [
+                "Genevieve Tudor", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592693ece4b067b356cfd8f6", 
+            "title": "ambulance staff join minute 's silence", 
+            "text": [
+                "a minute 's silence in memory of the manchester bomb victims is being held at 11:00 .", 
+                "we are inviting all of our staff to mark the minute 's silence at 11am to show our # solidarity with # manchester and all those affected", 
+                "if not on a job i will observe the silence", 
+                "a single red rose why we love our emergency services me x paramedicgrahamsings", 
+                "send a single white rose why pure innocence me x paramedicgrahamsings"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925af9de4b0d071b4d7da12", 
+            "title": "football : shrewsbury sign harriers ' striker", 
+            "text": [
+                "shrewsbury town have signed the kidderminster harriers striker arthur gnahoua .", 
+                "the 24-year-old scored 15 goals for the national league north side last season .", 
+                "the football club says he is joining on a one-year deal ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5926920fe4b0d071b4d7dc94", 
+            "title": "pop concert to go ahead", 
+            "text": [
+                "the organisers of a big pop concert in shropshire on saturday say it will go ahead , despite the manchester bombing .", 
+                "the let 's rock concert in the quarry , shrewsbury , features artists from the 1980s .", 
+                "appearing , among others , will be billy ocean , nick kershaw and local band t'pau ( lead singer carol decker", 
+                "concert goers are being warned of `` intensive bag searches '' as they enter the park ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59269990e4b0d071b4d7dcc4", 
+            "title": "top athletes inspire pupils at telford school", 
+            "text": [
+                "two top athletes shared their success stories when they paid a visit to a school in telford ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59268458e4b050109886dcaf", 
+            "title": "police appeal for information about rape in telford", 
+            "text": [
+                "detectives investigating a rape in telford are appealing to the local community for information .", 
+                "it has only just been reported but is said to have happened in the early hours of new year 's day on a footpath between viewland drive and the hortonwood roundabout , in the trench area .", 
+                "the police are asking people to try to remember if they saw anything .", 
+                "det sgt ian rutherford , of telford cid , said : `` i appreciate that the incident happened a number of months ago , but perhaps you heard or saw something in the small hours of new year 's day that you thought nothing of at the time ? ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59267d90e4b067b356cfd873", 
+            "title": "watch : your 50-second weather forecast", 
+            "text": [
+                "after some early mist and fog , a dry , bright and sunny day is in store with top temperatures of 26c ( 79f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59267cfee4b050109886dc8c", 
+            "title": "good morning from the bbc shropshire newsroom", 
+            "text": [
+                "me and the team will be bringing you the latest news , sport , travel and weather between now and 18.00 .", 
+                "you can comment on our stories and share your by email , facebook or twitter ."
+            ], 
+            "author": [
+                "Les Walton", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40030028", 
+            "title": "doctor child abuse claims probed", 
+            "text": [
+                "doctor child abuse claims probed"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40035444", 
+            "title": "shrewsbury sign forward gnahoua", 
+            "text": [
+                "shrewsbury sign forward gnahoua"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925b64de4b050109886daa0", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow , but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925b43de4b050109886da95", 
+            "title": "chamber of commerce chair laments loss of 'iconic ' foundry", 
+            "text": [
+                "richard sheehan , the chairman of the shropshire chamber of commerce , said he would be sad to see the loss of coalbrookdale 's aga foundry , which he described as `` iconic '' .", 
+                "he also said there `` was always a risk '' of cuts , once aga rangemaster was taken over by the american middleby corporation .", 
+                "mr sheehan added telford had a lot of opportunities in the manufacturing industry for those who lost their jobs as a result of the closure ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59258ffbe4b0d071b4d7d94f", 
+            "title": "weather : warm and humid as sunshine to stay", 
+            "text": [
+                "remember to keep the suncream handy , folks ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925ab50e4b0d071b4d7d9f8", 
+            "title": "watch : watershed moment for coalbrookdale", 
+            "text": [
+                "the planned closure of the aga foundry in coalbrookdale is a watershed moment , not just for the company , but for the industrial heritage of the area .", 
+                "the site was once used by abraham darby - aga parts have been made there since the 1940s ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_40033328", 
+            "title": "aga to shut foundry cutting 35 jobs", 
+            "text": [
+                "aga to shut foundry cutting 35 jobs"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925a92ee4b067b356cfd633", 
+            "title": "bucknell woman died from carbon monoxide poisoning", 
+            "text": [
+                "a coroner has ruled that a 70-year-old woman who was found dead in her home in bucknell in february died as a result of carbon monoxide poisoning .", 
+                "an inquest in shrewsbury heard diana dacey lived with her husband phil and two dogs at chestnut meadow .", 
+                "in the early hours of 24 february mr dacey was woken by a loud bang and rattling noise .", 
+                "he went to investigate and saw a blue arc coming from their electricity supply .", 
+                "the bungalow was quickly filled with black smoke and mrs dacey died as a result of carbon monoxide poisoning .", 
+                "at the time of the fire , it was reported that an electricity pole outside the property may have been involved , but the health and safety executive today ruled that out and the deputy coroner , heath waterman , recorded a verdict of accidental death ."
+            ], 
+            "author": [
+                "Nick Southall", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925a223e4b067b356cfd60b", 
+            "title": "book of condolence opens in telford", 
+            "text": [
+                "a book of condolence has been opened in telford for the victims of the manchester terror attack .", 
+                "telford and wrekin council says it will initially be open at the southwater one building in telford town centre , but will also appear at its offices in madeley , newport and wellington over the coming days ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925a335e4b067b356cfd611", 
+            "title": "aga foundry closure to affect 35 staff", 
+            "text": [
+                "aga says 35 employees will be affected by the closure of its foundry in coalbrookdale and that some of them are being transferred to other jobs within the company .", 
+                "the company explained it had taken the decision because it was `` no longer economically viable to maintain production '' and that it would be getting its cast-iron oven-parts from suppliers in the uk and europe in the future .", 
+                "it also said that all assembly of aga and rayburn products will continue at its site in ketley , along with product development ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59259f1ee4b050109886da23", 
+            "title": "vigil in wellington for victims of manchester terror attack", 
+            "text": [
+                "a vigil was taking place in wellington peace garden tonight in solidarity against the terror attack in manchester ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59258f05e4b0d071b4d7d946", 
+            "title": "your comments : warnings over swimming in rivers", 
+            "text": [
+                "police warnings about the dangers of swimming in rivers during the hot weather have been provoking some discussion on bbc radio shropshire 's facebook page .", 
+                "darran dorsett wrote : `` it is part of growing up , young people need to find their boundaries - they do n't think too much of the risks and the consequences .", 
+                "however , if they need assistance , then they should cover the cost of the rescue . ''", 
+                "and marcus watkin got a little nostalgic , writing : `` i remember in 1976 sliding down the weir , no-one told us to get out back then , life was so much less complex back then . ''", 
+                "but neil stokes was more alarmed , adding : `` people will never learn despite the number of life 's this river has claimed , over the years . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_40033354", 
+            "title": "'i thought that 's what doctors do '", 
+            "text": [
+                "'i thought that 's what doctors do '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925859de4b0d071b4d7d902", 
+            "title": "coalbrookdale - the home of aga-making since 1940s", 
+            "text": [
+                "aga says it moved the majority of its oven-making operations to the coalbrookdale foundry in 1947 .", 
+                "it has just announced it is shutting the plant .", 
+                "and it makes reference to the history of the site , where abraham darby first smelted iron with coke .", 
+                "the aga rangemaster company was bought by the american kitchen equipment makers , the middleby corportation , for \u00a3 129m in 2015 .", 
+                "it said at the time that it `` recognises the importance of aga 's presence in the united kingdom and intends to maintain aga 's manufacturing operations in the uk '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59257f76e4b067b356cfd52d", 
+            "title": "aga announces closure of coalbrookdale foundry", 
+            "text": [
+                "aga has announced it is closing its foundry in coalbrookdale .", 
+                "its foundry in ketley will continue to make the ovens .", 
+                "the site has a long association with iron-working and was home to abraham darby 's furnace at the start of the 18th century .", 
+                "the company proudly makes reference to the location of the foundry at birthplace of the industrial revolution ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59258b2fe4b0d071b4d7d927", 
+            "title": "football : telford sign former shrewsbury goalkeeper", 
+            "text": [
+                "afc telford united have signed the former shrewsbury trainee jasbir singh .", 
+                "the 27-year-old goalkeeper has had spells at kidderminster , solihull and gloucester and is the club 's seventh signing since the end of the season ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "21:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59258969e4b0d071b4d7d91a", 
+            "title": "police call for community to work together following manchester attack", 
+            "text": [
+                "people in shropshire , herefordshire and worcestershire are being asked to work together to fight terrorism , in the wake of the manchester attack .", 
+                "the assistant chief constable of west mercia police , martin evans , said : `` this is a time for us all to work closely together and unite against those who seek , through violence and extremism , to intimidate or cause fear . ''", 
+                "the force says it has increased the number of armed officers on patrol around the three counties , but said there was no intelligence of a likely attack .", 
+                "it also says it has plans in place , if military personnel have to be deployed alongside armed police ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59257a4be4b0d071b4d7d8d4", 
+            "title": "north shropshire conservative denies election campaigning", 
+            "text": [
+                "the conservative candidate for north shropshire , owen paterson , has denied claims he 's been continuing his election campaign , while political opponents pause as a mark of respect for the victims of the manchester terror attack .", 
+                "mr paterson has been criticised on social media after his leaflets were pushed through doors .", 
+                "he explained the leaflets are being delivered by royal mail and there 's no way of stopping them , saying the timing was `` highly unfortunate '' ."
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59256bd3e4b067b356cfd4ce", 
+            "title": "spectacular \u00a3 600,000 garden to be built at hospital", 
+            "text": [
+                "a spectacular garden for people with spinal injuries is to be built at oswestry orthopaedic hospital ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925754be4b067b356cfd4fc", 
+            "title": "three injured after four-car motorway crash", 
+            "text": [
+                "one woman in her 30s needed hospital treatment after a four-car crash on the m54 yesterday evening , west midlands ambulance service says .", 
+                "she was taken in with chest , neck and back pain .", 
+                "another woman in her 30s and a man in his 20s were treated for minor injuries at the scene .", 
+                "the collision happened between junction three , for albrighton , and two , for wolverhampton , shortly after 17:40 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59255cbbe4b0d071b4d7d833", 
+            "title": "ice hockey : phoenix , jaguars and tornadoes among name suggestions", 
+            "text": [
+                "telford 's ice hockey teams are drawing up a shortlist of potential names after getting more than 250 suggestions from fans .", 
+                "phoenix , jaguars and tornadoes are among the ideas being put forward on the telford nihl facebook page , along with some cheeky ones like tygers and `` fierce large orange striped cats '' .", 
+                "the senior team has been known as the telford tigers until recently , but has had to drop that name because of registration problems when it joined the nihl north division ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592553d7e4b050109886d885", 
+            "title": "security at shrewsbury bank holiday events to be reviewed", 
+            "text": [
+                "the police say they are reviewing security for events in shrewsbury this bank holiday weekend , in the aftermath of the manchester terror attack .", 
+                "the shropshire county show and the let 's rock 80s music festival are both due to take place in the town .", 
+                "insp ed hancox said there was no specific intelligence of a threat to shrewsbury and that regular reviews of security were normal .", 
+                "he also said people would be aware of additional armed patrols and a greater police presence across shrewsbury ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5925616fe4b050109886d8ce", 
+            "title": "tanker-spill causes disruption on a41", 
+            "text": [
+                "a diesel-tanker crash on the a41 in the early hours of this morning is continuing to cause disruption .", 
+                "the dual carriageway at prees heath is down to one lane southbound after it went into the central reservation at 05:05 .", 
+                "shropshire council says several hundred metres of safety barrier have been damaged and replacement-work will be carried out over the next few days - meaning more lane closures ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59255b12e4b067b356cfd467", 
+            "title": "no specific threat in herefordshire , worcestershire or shropshire : police", 
+            "text": [
+                "security `` in crowded places and for pre-planned events '' will be reviewed in the wake of the suicide attack in manchester , west mercia police say .", 
+                "assistant chief constable martin evans says there is `` no intelligence to suggest a specific threat '' in herefordshire , shropshire or worcestershire .", 
+                "he said operation temperer now allowed the deployment of military personnel alongside and in support of police firearms officers .", 
+                "if they are deployed in the west mercia police area , soldiers will `` remain under the command and control of the police service '' , he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5925574ee4b067b356cfd452", 
+            "title": "football : telford fans hope to get clarity on club 's position", 
+            "text": [
+                "afc telford united fans are being invited to a fans ' forum tonight and will hope to learn more about the club 's financial position .", 
+                "only a third of its shares have been bought since they were put up for sale last year and the club is still hoping to attract a big investor , describing the response so far as `` disappointing '' .", 
+                "directors ian dosser ( above ) , andy pryce and luke fearnall will be answering questions at the bucks head learning centre bar from 19:00 ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592455d1e4b04aed2145e861", 
+            "title": "new top cop pledges to make force more 'efficient and effective '", 
+            "text": [
+                "the new assistant chief constable for west mercia police begins work today , promising to use new technology to make the force more efficient and effective .", 
+                "martin evans will oversee the introduction of mobile data devices and body worn video .", 
+                "he was born in shropshire , and joined staffordshire police in 1987 where he served in a number of different roles ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59254974e4b0ce882aaf3a68", 
+            "title": "fear that fracking threat could return to shropshire", 
+            "text": [
+                "anti-fracking campaigners could be forced to restart the fight amid claims north shropshire may once again face the threat of gas drilling ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59255019e4b04aed2145eae4", 
+            "title": "roadworks could be delayed to avoid clash", 
+            "text": [
+                "work on the a458 bridgnorth bypass might be delayed , so it does n't clash with work at the onibury level-crossing .", 
+                "the work at onibury , being carried out by network rail , will involve traffic being taken on a 58-mile ( 93km ) diversion , which includes part of the bypass .", 
+                "shropshire council said it was aware of the possibility of a clash .", 
+                "there are also overnight closures planned on a 13-mile ( 21 km ) stretch of the a5 between oswestry and shrewsbury during the same time period .", 
+                "we 're currently talking to partners about the possibility of delaying the start date of the planned a458 improvements works to avoid a clash with the closure of the a49 at onibury .", 
+                "these discussions are ongoing"
+            ], 
+            "author": [
+                "Ian Perry", 
+                "BBC Radio Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592548e7e4b023c6b9ba393a", 
+            "title": "ice hockey : more than 250 name suggestions for telford team", 
+            "text": [
+                "the search for a new name for telford 's ice hockey teams is off to a good start , with fans making more than 250 suggestions .", 
+                "the people running the teams say they had planned to produce a shortlist yesterday evening , to allow fans to vote for one , but have decided to delay that until this evening because of the events in manchester .", 
+                "the team used to be known as the telford tigers .", 
+                "but it had to abandon that name when it applied to join the nihl north division , because the transfer of the naming rights was not completed in time ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59254181e4b023c6b9ba3918", 
+            "title": "inn next to river severn wins shropshire pub of the year", 
+            "text": [
+                "the boathouse pub , in shrewsbury , was named shropshire pub of the year at an awards ceremony last night .", 
+                "the national pub and bar awards are run by the pub and bar magazine and involve 96 counties .", 
+                "each one had a winner based on several marks of quality and hospitality .", 
+                "landlord of the boathouse lee maddox says it 's nice to be recognised by the trade and the hard work of everyone at the pub made it possible ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59246182e4b023c6b9ba3703", 
+            "title": "your photos : sunny oakengates and norton", 
+            "text": [
+                "the sun finally came out yesterday afternoon and the bbc weather watchers shared their photos .", 
+                "these ones were taken in oakengates ( top ) and norton ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59253531e4b04aed2145ea4e", 
+            "title": "possible new cinema for oswestry", 
+            "text": [
+                "the return of a mainstream cinema in oswestry could be getting closer .", 
+                "plans are being drawn up to convert an old town centre building in king street .", 
+                "a couple of years ago the cineworld chain pulled out of building a new one as part of the now dormant cattle market development .", 
+                "the town has a population of 17,000 and already has a community cinema .", 
+                "trevor harris , who ran the town 's old regal in the 1980s and 90s , has been in the business for 60 years and says he is sure it can succeed ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59253111e4b023c6b9ba38cf", 
+            "title": "allegations of historical sex abuse by gp investigated", 
+            "text": [
+                "west mercia police are investigating five allegations of historical sex offences in whitchurch .", 
+                "shropshire understands the claims involve a gp who died 17 years ago .", 
+                "one alleged victim , who does n't want to be identified , claims he was abused at the surgery in the 1970s when he was nine and then until he was 13 .", 
+                "he says he 's spoken out because he wants others to come forward ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59252f51e4b04aed2145ea35", 
+            "title": "watch : your 50-second weather forecast", 
+            "text": [
+                "it will be another dry day with partly cloudy skies .", 
+                "there will be increasing bright or sunny spells through the afternoon and it will feel warm in light winds .", 
+                "highs of 23c ( 73f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59252b8de4b04aed2145ea21", 
+            "title": "good morning from the bbc shropshire newsroom", 
+            "text": [
+                "me and the team will be bringing you the latest news , sport , travel and weather between now and 18.00 .", 
+                "you can comment on our stories and share your by email , facebook or twitter ."
+            ], 
+            "author": [
+                "Les Walton", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10613832", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59246202e4b0ce882aaf3860", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow , but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10613375", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5924560be4b023c6b9ba36cd", 
+            "title": "gold award for rose growers", 
+            "text": [
+                "shropshire horticulturalists david austin have up a gold award at the chelsea flower show for their rose garden exhibit .", 
+                "their garden also had a visit from the actress dame judi dench , who had a rose named after her ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592450f5e4b04aed2145e84f", 
+            "title": "weather : what will wednesday bring ?", 
+            "text": [
+                "we 're expecting more of the same tomorrow with cloud remaining over most of the region .", 
+                "it might be a little warmer though , with temperatures forecast to reach 22c ( 72f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59245f97e4b0ce882aaf3855", 
+            "title": "armed police on patrol shrewsbury", 
+            "text": [
+                "armed officers will begin patrolling the streets of shrewsbury from tuesday with the police saying they hope it will reassure people following last night 's attack in manchester .", 
+                "west mercia police says it has no specific intelligence suggesting a threat in the town , but that it has been reviewing its security plans with a number of events there this bank holiday weekend .", 
+                "the force has also promised an increased presence in the town centre .", 
+                "twenty-two people were killed and 59 injured when a suicide bomber attacked concertgoers at the city 's arena ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59245befe4b0ce882aaf3845", 
+            "title": "cash for community history trail", 
+            "text": [
+                "a \u00a3 10,000 lottery grant has been given to the north telford heritage trail project to create a trail route , website and app .", 
+                "the money will also be used to pay for a series of community events and provide training to a team of volunteers .", 
+                "the st georges community group is behind the idea and says it will explore the local mining history and people 's memories of the area .", 
+                "the route will take in st georges , oakengates , priorslee and telford town centre ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592440cae4b023c6b9ba3663", 
+            "title": "officers disciplined for improper use of police records", 
+            "text": [
+                "in the last three years , 16 west mercia police staff have faced disciplinary action for looking up people 's police records for unofficial reasons .", 
+                "eight of those proceedings involved police constables and two involved sergeants , with the remainder being pcsos and backroom staff .", 
+                "two people ended up being dismissed and another two resigned .", 
+                "over the same time period , one officer from the warkwickshire force was disciplined and dismissed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59244f2be4b023c6b9ba36b0", 
+            "title": "football : afc telford united sign defender", 
+            "text": [
+                "afc telford united have signed the former tamworth left back curtis strong .", 
+                "he 's the sixth player to join the bucks this summer ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592444f6e4b0ce882aaf37d8", 
+            "title": "water company reports rise in profits", 
+            "text": [
+                "severn trent , the water company that supplies most of shropshire , has reported a rise in profits .", 
+                "the company said its pre-tax profits rose by more than 4 % to \u00a3 525m in the year to march .", 
+                "severn trent also said it had seen a reduction in sewer floodings , supply interruptions and leakages and had been rewarded with \u00a3 47.6m for meeting watchdog ofwat 's targets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5924435ee4b023c6b9ba3672", 
+            "title": "manchester attack : catholic bishop calls for love to overcome hate", 
+            "text": [
+                "the catholic bishop of shrewsbury has called for hate to be overcome by love in the wake of last night 's manchester terrorist attack .", 
+                "the rt rev .", 
+                "mark davies also offered prayers for the victims , their families , the emergency services and hospital staff .", 
+                "i ask the prayers of your parishioners for peace and solidarity in all our communities that the hate which inspires such indiscriminate violence may be overcome by that love which faith and prayer inspires in our hearts . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59244616e4b023c6b9ba3683", 
+            "title": "call for re-think on 600-home plan in shrewsbury", 
+            "text": [
+                "developers planning to build 600 homes have been urged by councillors to open up a second access to the site ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59243ca8e4b04aed2145e7e6", 
+            "title": "your photos : ellesmere and shrewsbury", 
+            "text": [
+                "you 've been sharing all sorts of photos via the bbc midlands today facebook page .", 
+                "they include this pair , taken in ellesmere ( top ) and shrewsbury ( below ) ."
+            ], 
+            "author": [
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59242d81e4b0ce882aaf3745", 
+            "title": "demolition plans to pave way for power station sell-off", 
+            "text": [
+                "the planned demolition of the conveyor belts at ironbridge power station is the first step in a process which will eventually see the site sold off by its owners , uniper .", 
+                "the company said it decided to put the 141 hectare site on the market after concluding `` it was n't suitable for any future conventional power generation projects '' .", 
+                "the coal-fired power station , which converted to using biomass , started generating in 1967 and ceased operations in november 2015 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592429f7e4b023c6b9ba35db", 
+            "title": "offers of prayer and support following manchester attack", 
+            "text": [
+                "there have been offers of support and prayer from people in shropshire , following last nights terror attack in manchester .", 
+                "the methodist churches in wellington and horsehay are opening up this evening for people to pray for the victims and their families and candles will be lit in memory of those who lost their lives .", 
+                "and the community bus group north shropshire wheelers has offered transport for anyone unable to or from manchester today .", 
+                "anybody stuck for transport between manchester and shropshire can call nsw on 01948 880 037"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_592426f2e4b023c6b9ba35cd", 
+            "title": "new entrance needed for retail park , say highways officials", 
+            "text": [
+                "highways officials want a new entrance at one of the county 's busiest retail parks to cut down on the gridlock faced by motorists ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59242686e4b0ce882aaf3728", 
+            "title": "road to close for rod", 
+            "text": [
+                "otley road in shrewsbury will be closed on the evening of the rod stewart concert at shrewsbury town 's stadium .", 
+                "shropshire council says it will be shut between 16:00 and 00:00 to allow concert-goers to get in and out of the stadium on 7 june .", 
+                "through-traffic will be diverted onto the a5 and a5112 hereford road ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59240612e4b023c6b9ba3501", 
+            "title": "police review security after manchester attack", 
+            "text": [
+                "west mercia police say security measures will be reviewed today , following the suicide attack in manchester last night .", 
+                "the chief constable , anthony bangham , also urged the public to help by reporting sus behaviour to the anti-terrorist hotline on 0800 789 321 or by using a secure form on the government website .", 
+                "it has been heart warming to see the people of manchester come together to support each other and the emergency services .", 
+                "it is testimony to the overwhelming power of community spirit . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59240214e4b0ce882aaf363b", 
+            "title": "drone rules reminder from police", 
+            "text": [
+                "following monday 's near-miss between a helicopter and a drone near newport , police are reminding people about the civil aviation authority rules for drone-flying .", 
+                "the caa says they should be flown no higher than 122m ( 400ft ) and not within 30m ( 9ft ) of people or property or 150m ( 46ft ) of crowds or a built-up area .", 
+                "the rules also state operators must make sure they have their drone in sight at all times and that they must stay well away from other aircraft or airfields ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59240cace4b0ce882aaf3684", 
+            "title": "your photos : a cool start to the day across shropshire", 
+            "text": [
+                "we 're forecast some sun later today and by the end of the week we could see temperatures of up to 24c ( 75f ) , but there has been no sign of that this morning .", 
+                "this photo was taken by a bbc weather watcher in clee hill ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923fdd8e4b0ce882aaf3622", 
+            "title": "support to people affected by manchester attack offered", 
+            "text": [
+                "people in the telford area directly affected by last night 's terror attack in manchester are being offered support by telford and wrekin council .", 
+                "the authority is also flying its flags at half mast today as a mark of respect .", 
+                "the leader of the council , cllr shaun davies , said the thoughts of everyone in telford were with the victims and their families .", 
+                "terrorism aims to sow fear , division and hate .", 
+                "it must not be allowed to prevail .", 
+                "now it is more important than ever that , in the face of such threats , we continue to ensure that we will not be cowed and that our values will not be shaken . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59240f2fe4b023c6b9ba3539", 
+            "title": "flags fly at half-mast", 
+            "text": [
+                "flags across shropshire have been flying at half-mast today , as a mark of respect for the victims of the manchester suicide attack last night .", 
+                "these are the flags outside the west mercia police headquarters ( left ) and telford and wrekin council ( right ) ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923fb7de4b0ce882aaf3612", 
+            "title": "helicopter 's near miss with drone", 
+            "text": [
+                "a helicopter has had a near miss with a drone in the newport area .", 
+                "police say a pilot flying at 1,500 ft ( 457.2m ) reported a drone suddenly appeared in front of him forcing him to take evasive action to avoid a collision .", 
+                "despite a search of the area , the police were unable to find the drone or its owner .", 
+                "they are reminding drone pilots to stick to the guidelines issued by the civil aviation authority .", 
+                "the incident took place on monday morning .", 
+                "the consequences of what may have happened should the drone have been sucked into the helicopters engines or such like could have been extremely serious '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923f831e4b04aed2145e651", 
+            "title": "'thoughts and prayers ' with victims says police chief", 
+            "text": [
+                "more reaction to the suicide attack in manchester in which at least 22 people have died .", 
+                "our thoughts and prayers are with those killed & injured in # manchester @ twitterid # westandtogether"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923f7ffe4b04aed2145e64e", 
+            "title": "application to demolish part of power station", 
+            "text": [
+                "an application to begin removing the coal processing conveyors at the former ironbridge power station has been submitted .", 
+                "site-owner uniper is planning to sell the station and said the work would allow the main demolition work to start next year .", 
+                "the demolition of the conveyors is expected to take 10 weeks .", 
+                "ironbridge power station opened in 1969 and became one of the uk 's largest plants .", 
+                "it stopped generating electricity in 2015 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59240362e4b04aed2145e68e", 
+            "title": "shropshire chicken tunnels recommended for approval", 
+            "text": [
+                "tunnels housing 500 birds could soon be made permanent despite ongoing fears of pests and vermin for neighbours ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923e958e4b0ce882aaf35b4", 
+            "title": "marsden tipped to be telford hit", 
+            "text": [
+                "the former afc telford united manager liam watson says the club 's latest acquisition john marsden is a `` good signing '' .", 
+                "the 24 year old striker returns to the club permanently after a brief spell on loan from stockport county last season .", 
+                "watson , who won the national north with the bucks in 2014 says he 's `` a clever player who will get goals '' ."
+            ], 
+            "author": [
+                "Mark Elliott", 
+                "Reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923f6dde4b0ce882aaf35f6", 
+            "title": "labour leader cancels ironbridge visit", 
+            "text": [
+                "as expected , jeremy corbyn has cancelled his planned visit to ironbridge today .", 
+                "all parties have suspended general election campaigning , following the bomb attack in manchester last night .", 
+                "the labour leader had also been expected to visit walsall and cannock today ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923e159e4b023c6b9ba3433", 
+            "title": "another \u00a3 60m needed to protect gorge", 
+            "text": [
+                "another \u00a3 60m is needed to stabilise parts of the ironbridge gorge and prevent landslips , telford and wrekin council says .", 
+                "about \u00a3 17m has already been spent to stop jackfield village from sliding into the river severn .", 
+                "the whole 2-3 miles of the gorge are prone to slow creep and on occasions much more active .", 
+                "we need to continue with our investigation and get money for future schemes . ''"
+            ], 
+            "author": [
+                "Mark Elliott", 
+                "Reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923dd20e4b0ce882aaf3560", 
+            "title": "cinema for oswestry within four months ?", 
+            "text": [
+                "the return of a mainstream cinema in oswestry could be getting closer , with plans being drawn up to convert a town centre building .", 
+                "the exact location is being kept secret but those behind it say plans are going before shropshire council shortly .", 
+                "if they 're passed , films could be shown there within the next three or four months ."
+            ], 
+            "author": [
+                "Alex Seftel", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923e87ae4b023c6b9ba3460", 
+            "title": "west mids ambulance crews help manchester colleagues", 
+            "text": [
+                "ambulance crews from the west midlands were sent into the north west of england last night in the wake of last night 's suicide attack at manchester arena .", 
+                "crews provided support to the north west ambulance service while they dealt with the incident , west midlands ambulance service said .", 
+                "`` these resources have now been stood down and returned to their normal operating areas , '' a spokesman said .", 
+                "`` we would like to thank the many staff who offered to stay late and work additional shifts . ''", 
+                "the manchester incident emergency phone number 0161 856 9400 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59231b0fe4b023c6b9ba32a2", 
+            "title": "dame judi dench launches new rose at chelsea", 
+            "text": [
+                "dame judi dench got a first look at a rose named after her at the rhs chelsea flower show on monday .", 
+                "it is one of three new breeds launched by albrighton-based david austin roses at the show .", 
+                "the firm is hoping to add to the 22 golds it has so far won at chelsea ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923db55e4b0ce882aaf3554", 
+            "title": "video : your 50-second weather forecast", 
+            "text": [
+                "after a cloudy morning , there will be some bright and sunny spells with top temperatures of 21c ( 70f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5923dba8e4b04aed2145e590", 
+            "title": "welcome to bbc local live in shropshire", 
+            "text": [
+                "good morning .", 
+                "we 're in the bbc shropshire newsroom to bring you the latest news , sport , travel and weather .", 
+                "if you 'd like to get in touch you can email us , tweet or comment on our facebook page ."
+            ], 
+            "author": [
+                "Mark Elliott", 
+                "Reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_40005494", 
+            "title": "jackfield jacked up to stop river slide", 
+            "text": [
+                "jackfield jacked up to stop river slide"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59230835e4b04aed2145e3a8", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow , but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922f2e9e4b0ce882aaf330a", 
+            "title": "watch : another \u00a3 60m wanted to stabilise gorge", 
+            "text": [
+                "telford and wrekin council is seeking another \u00a3 60m to stabilise the ironbridge gorge .", 
+                "the area has been an uneasy place to live following a landslide in the 1960s ."
+            ], 
+            "author": [
+                "Ben Godfrey", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922ec97e4b04aed2145e335", 
+            "title": "athletics : sprinter hopeful of championships qualification", 
+            "text": [
+                "telford sprinter rio mitcham could be on his way to the european junior athletics championships .", 
+                "the 17-year-old ran 10.50 seconds for 100m in loughborough yesterday , which is inside the qualifying standard for the event in italy in july .", 
+                "british athletics are expected to make an official selection announcement next month ."
+            ], 
+            "author": [
+                "Alex Seftel", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922fe23e4b04aed2145e37d", 
+            "title": "arrests after teenager robbed at knife-point in madeley", 
+            "text": [
+                "two people have been arrested after an 18-year-old was been robbed at knife-point in madeley yesterday evening .", 
+                "police say he was approached by two men between 18:30 and 19:00 on silkin way and had cash and a backpack stolen .", 
+                "the victim suffered a bite to his wrist , along with minor injuries to his hand and face .", 
+                "an 18-year-old man and a 17-year-old boy have been arrested in connection with the incident and are being held in custody ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922fff1e4b023c6b9ba322b", 
+            "title": "weather : a mild night and more sun tomorrow", 
+            "text": [
+                "we 're forecast a mild and overcast night , with temperatures not expected to fall below 10c ( 50f ) .", 
+                "tomorrow we can expect more sunshine and temperatures up to 22c ( 72f ) ."
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922ea0fe4b0ce882aaf32dd", 
+            "title": "football : bucks sign marsden", 
+            "text": [
+                "afc telford united have announced they 've signed john marsden for next season .", 
+                "he made five appearances for the bucks after arriving on loan in march from stockport county ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_592301e8e4b023c6b9ba3237", 
+            "title": "16 ufo sightings reported to police", 
+            "text": [
+                "ufos have been spotted on 16 occasions across the midlands in the last four years , new police findings show ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922ee6ae4b0ce882aaf32ef", 
+            "title": "nine in court over drone jail smuggling op", 
+            "text": [
+                "nine people have appeared in court charged with conspiring to use drones to fly drugs , weapons and other contraband into several jails .", 
+                "hmp hewell in redditch , hmp stoke heath in shropshire , hmp winson green in birmingham and hmp featherstone near wolverhampton are all believed to have been targeted .", 
+                "as well as using drones , the two women and seven men are also accused of throwing contraband over prison walls .", 
+                "the nine are charged with conspiring to supply prohibited items into prisons between july 2015 and january 2017 .", 
+                "they are next set to appear at birmingham crown court on 23 june .", 
+                "another two alleged co-conspirators are due to appear before magistrates later this week ."
+            ], 
+            "author": [
+                "Mike Perkins", 
+                "Newsreader, BBC Hereford & Worcester"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922e6fde4b0ce882aaf32d1", 
+            "title": "your comments : shock over onibury diversion plans", 
+            "text": [
+                "plans to divert a49 traffic via kidderminster , to allow work to be carried out to onibury level-crossing have provoked a lot of comment on the bbc radio shropshire facebook page .", 
+                "niki thompson is n't impressed by the suggested 57-mile diversion , writing : `` this is crazy .", 
+                "im so glad i do n't have to travel to craven arms any more !", 
+                "i certainly wouldnt have gone that way if i did !", 
+                "who on earth thought this route up ?", 
+                "`` .", 
+                "roger grafton suspects people will find other alternatives : `` everyone will be looking for a shorter route than that , regardless of the type of road . ''", 
+                "and helen briscoe wrote : `` makes my commute crazy . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922e901e4b04aed2145e321", 
+            "title": "football : havern says he 'enjoyed every minute ' of telford stay", 
+            "text": [
+                "the departing afc telford united captain luca havern says he `` enjoyed every minute of last season '' .", 
+                "he is leaving the club because of `` travel commitments '' , but said he held his `` time with the club in the highest regard '' .", 
+                "havern also encouraged fans to keep showing their support for `` this great club '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922a89fe4b0ce882aaf31a3", 
+            "title": "football : the new saints return to training", 
+            "text": [
+                "the new saints ' players are returning to training this week , to prepare for the start of the new season .", 
+                "they need to get ready for next month 's early qualifying-rounds of the champions league .", 
+                "it 's only 22 days since the team played in the last game of the 2016-17 season , the welsh cup final ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922d3a9e4b023c6b9ba314b", 
+            "title": "navigating the a49 diversion with a smile on your face", 
+            "text": [
+                "if you 're unlucky enough to be a passenger stuck in car navigating a near 60-mile diversion next month , we 've compiled a list of films you might want to download to keep you entertained - titles courtesy of the imdb website .", 
+                "according to google , the 57.4-mile official diversion is expected to take 94 minutes ( longer during peak times ) .", 
+                "that 's enough time to catch one of these films ( in duration order ) :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922dfc6e4b0ce882aaf32ae", 
+            "title": "shrewsbury roadworks continue", 
+            "text": [
+                "shropshire council is reminding you that onibury is n't the only roadworks in the headlines - major delays at reabrook roundabout in shrewsbury are expected until july .", 
+                "closures affect haycock way , up to the column roundabout and part of old potts way , near the cinema .", 
+                "the work is part of a series of projects which will also affect the english bridge gyratory and coleham head in coming months .", 
+                "that work is set to last until late october ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5922e300e4b0ce882aaf32bd", 
+            "title": "football : telford confirm departure of captain havern", 
+            "text": [
+                "afc telford united 's captain luca havern has left the club , to look for a new team closer to manchester .", 
+                "the manager rob smith said he 'd `` found traveling very difficult towards the end of last season , with working in manchester '' .", 
+                "havern joined the bucks last july and led the team to victory in the shropshire senior cup .", 
+                "luca has been an excellent captain on and off the field and more importantly was a great lad to have at the club .", 
+                "as skipper , he was a pleasure to work with and he will be a player i will keep in contact with in the future '' ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "21:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922dc23e4b04aed2145e2e4", 
+            "title": "criticism for 'ridiculous ' level-crossing diversion", 
+            "text": [
+                "tony mantle , the chair of onibury parish council , has called plans to close the a49 at onibury for 10 days `` ridiculous '' .", 
+                "network rail is suggesting traffic takes a 57-mile diversion via kidderminster while work is carried out to the level-crossing there .", 
+                "network rail said it would be explaining the work to local residents and businesses and mr mantle said he hoped there was still some `` wriggle room '' in the plans , which will also affect pedestrians .", 
+                "the level-crossing being closed is going to cause problems for local people and north to south traffic . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922c8bae4b0ce882aaf3232", 
+            "title": "ludlow looks for town councillors", 
+            "text": [
+                "ludlow town council is still looking for members , nearly three weeks after the local elections .", 
+                "on 4 may 12 of the 15 positions were filled , meaning the authority needs to find three more people to `` co-opt '' .", 
+                "the mayor , councillor tim gill , explained that you have to be a resident to apply and added it `` takes vision , courage and dedication to be part of a decision-making organisation that often attracts the attention of arm chair critics '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "21:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922a14ae4b0ce882aaf317f", 
+            "title": "collapsed woman died after ambulance delay", 
+            "text": [
+                "a shropshire woman died after an ambulance took almost 30 minutes to arrive at her home , her partner claimed today ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922cc98e4b023c6b9ba312d", 
+            "title": "hgvs face longest detour during a49 works", 
+            "text": [
+                "work at onibury railway crossing this summer will lead to a 60-mile diversion , according to an official route .", 
+                "while local drivers will no doubt find their own way around the works , it 's a different matter for heavy goods vehicles which ca n't use many of the same back roads - which the official diversion has to bear in mind .", 
+                "a large lorry heading from ludlow or leominster to craven arms or church stretton ( or vice versa ) faces the biggest detour we think ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922b240e4b04aed2145e20f", 
+            "title": "police issue swimming warning", 
+            "text": [
+                "we 're forecast a week of sunshine , with temperatures expected to reach 24c ( 75f ) , and the police are warning about the dangers of cooling off in a river .", 
+                "and at the weekend , door-staff at shrewsbury bars were given training in throw-lines , which can be used to help people who are struggling in the water .", 
+                "looks like a hot week ahead .", 
+                "please do not be tempted to take a dip .", 
+                "we will be patrolling .", 
+                "# respectthewater", 
+                "x. vvc , vbv , \u0ab5 \u0aac\u0aa8\u0ab5", 
+                "ny ; !", 
+                "nbb"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922c23de4b04aed2145e266", 
+            "title": "shifnal '20 's plenty ' signs taken down", 
+            "text": [
+                "two signs encouraging people to drive 20mph or slower through shifnal have been removed by vandals .", 
+                "one of them was found dumped in a nearby bin .", 
+                "the idea was introduced by shifnal town council and notices were put up around the town earlier this month ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922c506e4b023c6b9ba30fa", 
+            "title": "cricket : shropshire beaten despite leach century", 
+            "text": [
+                "shropshire captain steve leach hit an unbeaten 122 in their final knockout trophy game against herefordshire at brockhampton yesterday , but ended up on the losing side .", 
+                "after their opponents batted first , scoring 265-7 , shropshire lost wickets at regular intervals , eventually falling nine runs short in their pursuit .", 
+                "after three defeats in their four one-day group matches , the county will now look for better fortunes in the first of this summer 's six three-day mcca championship games , which starts against wales at pontarddulais on 4 june ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10609284", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922baeae4b023c6b9ba30cd", 
+            "title": "your photos : sunshine on fields near oswestry and bridgnorth", 
+            "text": [
+                "it should be a good weekend to get out and about the county and the bbc weather watchers are sharing their photos of shropshire this morning .", 
+                "these ones were taken near oswestry ( top ) and bridgnorth ( below ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922a00fe4b023c6b9ba304d", 
+            "title": "rescue bid at ironbridge 's bedlam furnaces", 
+            "text": [
+                "work is set to start to protect ironbridge gorge 's `` at risk '' bedlam furnaces .", 
+                "the 18th century structure has close links to the birth of the industrial revolution , but has suffered due to the rain .", 
+                "a \u00a3 1.2m project , starting later this month , will see a canopy installed over the open-air furnaces , followed by conservation work to repair masonry and stabilise the site .", 
+                "the initial work on the grade ii-listed monument is expected to take four months , but conservation will take longer ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922ac22e4b04aed2145e1f5", 
+            "title": "ice hockey : telford ask fans for name suggestions", 
+            "text": [
+                "telford ice hockey fans are being asked to come up with a new name for the team , because they are unable to use the `` tigers '' brand this season .", 
+                "the team has explained that this was because the transfer of the naming rights was not completed in time for the teams to be registered in the nihl north .", 
+                "supporters have until 17:00 tomorrow to come up with their suggestions and a shortlist will then be presented to fans to vote on ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922a049e4b04aed2145e1ba", 
+            "title": "planning under way for coracle world championships", 
+            "text": [
+                "how does an afternoon of splashing about on the river link to a young man getting his life back on track after a cancer diagnosis and reconstructive surgery ?"
+            ], 
+            "author": [
+                "Shropshire Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5922a756e4b04aed2145e1d7", 
+            "title": "britain 's longest diversion ?", 
+            "text": [
+                "drivers using the a49 near craven arms face a near 60-mile ( 96km ) diversion next month , while network rail carries out maintenance on the onibury level crossing .", 
+                "the work is due to start on 1 july and will take 10 days to complete .", 
+                "a diversion will send traffic off at woofferton , via the a456 to kidderminster and then northbound via bridgnorth to bayston hill , south of shrewsbury .", 
+                "weekend train services will also be affected by the work ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59228ed0e4b023c6b9ba2ff7", 
+            "title": "walking football club recognised by shrewsbury mayor", 
+            "text": [
+                "shrewsbury walking football club has been honoured for their work in the community .", 
+                "as the name suggests , running is banned in the game , and players try to keep physical contact to minimum .", 
+                "the club 's been given one of the town 's mayor 's awards after growing in membership ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59229a20e4b0ce882aaf3150", 
+            "title": "one in 10 london midland trains delayed", 
+            "text": [
+                "train operator london midland says more than one in 10 of its trains last week were delayed by more than five minutes .", 
+                "it tweeted this morning to say 84 % of its 6,503 trains were on time or less than five minutes late , with the uk average being 91 % .", 
+                "the operator said almost a quarter of the delays were down to london midland issues , rather than network faults .", 
+                "the week before , the company said 94 % of trains were on time or delayed by less than five minutes .", 
+                "how our 6,503 trains performed last week : 84 % < 5m late ( uk average 91 % ) // cause of delays : 24 % lm-related , 76 % other issues # keepingtrack", 
+                "how our 6,508 trains performed last week : 94 % < 5m late ( uk average 94 % ) // cause of delays : 39 % lm-related , 61 % other issues # keepingtrack", 
+                "how about some figures for overcrowding ?"
+            ], 
+            "author": [
+                "Allen Cook", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5921c052e4b0ce882aaf2f3f", 
+            "title": "election panel : your thoughts on tax", 
+            "text": [
+                "the bbc is running an election panel , asking voters for their thoughts ahead of 8 june .", 
+                "we asked :", 
+                "tax has become a big election issue .", 
+                "who should be paying more and who less ?", 
+                "what should our approach to taxation be and whose policies do you support if any ?", 
+                "mandy , worcester : `` i believe that the highest earners should pay more tax stop taking money from people that are not well off . ''", 
+                "mark james , stoke on trent : `` companies should pay more tax and off-shore located people if they do business in the uk should pay no matter where their domicile is .", 
+                "`` the working people should pay less as they have always bore the brunt of taxation , more disposable income more money spent on ''luxuries ''", 
+                "beatrice benson , shrewsbury : `` i do n't think it 's fair for people who earn more to pay a larger percentage .", 
+                "the current tax policies still mean that more money is paid from wealthier individuals .", 
+                "`` labour 's policies would mean paying an extraordinary amount of tax , which the party do n't seem to have specified , which is a coincidence . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5921ad46e4b04aed2145df27", 
+            "title": "telford hospital 'top of election agenda '", 
+            "text": [
+                "the fate of telford 's princess royal hospital is top of the agenda in the forthcoming general election , many of the local residents have told the bbc .", 
+                "plans unveiled by the hospital trust have previously revealed the a & e unit at telford 's princess royal could be downgraded in favour of a single enhanced department in shrewsbury .", 
+                "the main women 's and children 's services could also move to shrewsbury , with other services moving in the opposite direction to telford .", 
+                "for a full list of candidates standing visit the telford constituency page .", 
+                "watch sunday politics"
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_592296c7e4b0ce882aaf313b", 
+            "title": "midnight deadline to register to vote", 
+            "text": [
+                "today 's your last chance to register to vote in the general election on 8 june .", 
+                "so far , more than two million people have applied since a snap election was called .", 
+                "however , the electoral commission has warned that approximately seven million people across britain who are eligible to vote are not registered .", 
+                "the deadline to register through the official website is 23.59 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5921add5e4b0ce882aaf2ea7", 
+            "title": "volunteer wins award for supporting refugees in shropshire", 
+            "text": [
+                "a shropshire volunteer has won an award for her work to help refugees settle in the county .", 
+                "amanda jones , from bomere heath admits she 's very proud to have been honoured at the annual shrewsbury mayor 's awards earlier this month .", 
+                "she received a gold courtesy award for helping those who have fled poverty and conflict abroad and says it 's important to her that refugees are made to feel welcome in the county ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59228bc1e4b023c6b9ba2fe2", 
+            "title": "video : your 50-second weather forecast", 
+            "text": [
+                "a dry day with some good sunny spells and it will feel warm , with top temperatures of 23c ( 73f ) ."
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5921c367e4b0ce882aaf2f4a", 
+            "title": "welcome to our live updates for the day", 
+            "text": [
+                "welcome to live updates from bbc shropshire on monday morning .", 
+                "we 'll be bringing you all the news , sport , travel and weather as it happens .", 
+                "if you 'd like to get in touch you can email , tweet us on @ twitterid or message via facebook ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:01"
+        }
+    ], 
+    "genre": "uk-england-shropshire", 
+    "quality": "high"
+}

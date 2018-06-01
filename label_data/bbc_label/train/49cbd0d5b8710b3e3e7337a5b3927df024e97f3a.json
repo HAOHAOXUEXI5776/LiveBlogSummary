@@ -1,0 +1,720 @@
+{
+    "blog_id": "49cbd0d5b8710b3e3e7337a5b3927df024e97f3a", 
+    "title": "BBC Local Live: Northamptonshire on Wednesday, 22 June 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-36576640", 
+    "summary": [
+        "the eu referendum debate continues .", 
+        "fare dodgers 'cost london midland \u00a3 7m ' .", 
+        "football league fixtures announced .", 
+        "news , sport , travel and weather updates resume on thursday at 08:00 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_576aba0ce4b0d6a09aa1724e", 
+            "title": "that all for live updates for northamptonshire today", 
+            "text": [
+                "we 've finished for today , but we will be back tomorrow with all the latest news , weather , sport and travel for the county .", 
+                "we 'll see you at 08:00 .", 
+                "until then , have a good evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576ab2ffe4b07fd65a505195", 
+            "title": "eu referendum : mp says vote for leave can ease 'pressure on public services '", 
+            "text": [
+                "south northamptonshire mp andrea leadsom has been one of the key voices on the leave side of the campaign .", 
+                "she has been involved in two of the big set-piece tv debates , including last night at wembley arena .", 
+                "the conservative , who is an energy minister , said that in northamptonshire we have seen `` pressure on public services '' caused by eu migration , which can only be solved by leaving the european union .", 
+                "she has also focused on sovereignty , telling the debate last night : `` we have this one last chance to keep our democracy . ''"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576aafc8e4b0d6a09aa17212", 
+            "title": "eu referendum : eu does n't 'impose ' laws , says mep", 
+            "text": [
+                "both sides in the eu debate are making their closing arguments on what is the final day of campaigning in the referendum .", 
+                "glennis wilmott , a labour member of the european parliament representing northamptonshire , wants the uk to remain in the eu .", 
+                "she said no laws are 'imposed ' on the uk from brussels .", 
+                "mrs wilmott , also the leader of the labour group in the eu parliament , said `` both our parliament and our government have to agree '' before something becomes law , adding that involves `` negotiations and agreement '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576ab69ae4b0222597b2f603", 
+            "title": "warning to avoid station close in daventry because of fire", 
+            "text": [
+                "around 30 firefighters are tackling a fire at a commercial premises in station close in daventry .", 
+                "the fire service was called at 16:16 and they have pumps tackling the fire at the moment .", 
+                "the blaze is ongoing and people are warned to avoid the area ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576ab5ede4b0d6a09aa17232", 
+            "title": "azharullah takes all four wickets in first session at arundel", 
+            "text": [
+                "it 's tea at arundel and sussex are 127-4 , with all four wickets having fallen to mohammad azarullah .", 
+                "you can follow the game with me online and via the bbc sport app ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576aaa42e4b0222597b2f5c1", 
+            "title": "what will happen with the eu referendum vote tomorrow ?", 
+            "text": [
+                "tomorrow the country will go to the poles to vote in the eu referendum .", 
+                "polling stations across the county will open at 07:00 and close at 10:00 .", 
+                "then the counting begins .", 
+                "each district and borough council will declare its result and send them on to kettering .", 
+                "then we 'll have a result for northamptonshire , and for the east midlands .", 
+                "that result will be sent to manchester , where the country-wide result will be collated .", 
+                "as for when we 'll get some results , we are really not sure - but we 're guessing sometime between 02:00 and 06:00 on friday morning ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a9d71e4b06c65bdc37fd1", 
+            "title": "refusal of wind farm upheld despite mps tearoom conversations", 
+            "text": [
+                "a decision to refuse permission to build five wind turbines in south northamptonshire has been upheld on appeal .", 
+                "developers had said a conversation between the local mp and a government minister meant the decision should have been overturned .", 
+                "back in 2013 , mp andrea leadsom opposed plans for five wind turbines between greatworth and helmdon .", 
+                "a minister , kris hopkins , was due to make the planning decision , and ms leadsom told him of her opposition in the house of commons tearoom .", 
+                "developers said this left mr hopkins open to accusations of bias .", 
+                "today , appeal court judges said mr hopkins should have `` cut off '' the conversation - and that it was a breach of the ministerial code .", 
+                "but they said it was `` impossible to conclude '' the conversation influenced the final decision - so the developers appeal was dismissed ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a98eee4b06c65bdc37fbf", 
+            "title": "milestone for northamptonshire in sussex match", 
+            "text": [
+                "play is underway at arundel in northamptonshire 's county championship match against sussex .", 
+                "the match sees the county reach a huge milestone , with batsman sean terry becoming the 500th first-class cricketer to play for them .", 
+                "northamptonshire are in the field , and you can follow full coverage with me online or via the bbc sport app ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a7c89e4b0902cf32b1e72", 
+            "title": "local paper catches up with 'razor ' at the football", 
+            "text": [
+                "let 's be honest england 's 0-0 draw with slovakia was n't that exciting , but for fans in the vicarage farm club in wellingborough it was slightly more interesting thanks to a visit from former liverpool , tottenham , west ham and england ( once ) defender neil 'razor ' ruddock .", 
+                "you can see in him the club , and find out why he was there in the northampton chronicle & echo ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a7ddee4b0902cf32b1e7d", 
+            "title": "eu vote : where does your mps stand ?", 
+            "text": [
+                "tomorrow , the polls opens for the eu referendum , where voters will decide with the county will leave or remain in the european union .", 
+                "the bbc 's dedicated eu referendum website has a list of how all mps will be voting .", 
+                "enter you postcode and all will be revealed ."
+            ], 
+            "author": [
+                "BBC Politics"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a724ae4b0902cf32b1e3d", 
+            "title": "weather : rain and sunny spells", 
+            "text": [
+                "there is a lot of cloud across the county , as shown in this of roade taken by bbc weather watcher 'dugjay72 '", 
+                "there will be outbreaks of rain today , but also some hazy sunshine with highs of 22c ( 72f ) .", 
+                "more details can be found on the bbc weather website ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a824be4b0fdc373274c1a", 
+            "title": "drone used to carry out survey on 200-year-old aquaduct", 
+            "text": [
+                "for the first time the aqueduct in cosgrove is being surveyed by the canal & river trust - using a drone .", 
+                "its progress was hampered this morning by rain , but the survey is now under way .", 
+                "rain has finally cleared so the drone is now flying to inspect the iron trunk aqueduct at cosgrove @ twitterid"
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a7f56e4b0fdc373274c0c", 
+            "title": "ducklings taking in 200-year-old iron trunk aqueduct", 
+            "text": [
+                "the canal & rivers trust is carrying out a survey of the 200-year-old iron trunk aqueduct , which runs along the grand union canal between northampton and milton keynes .", 
+                "the trust is using a drone to carry out the work .", 
+                "earlier today , things were pretty peaceful", 
+                "waiting for the rain to stop at cosgrove so passing time watching these ducklings swim over the iron trunk aqueduct"
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a76a5e4b06c65bdc37f10", 
+            "title": "man stabbed to death in northampton a 'very kind and loving person '", 
+            "text": [
+                "the family of david miller ( stabbed to death at his home in boothville last week , have called him `` a much loved brother '' who `` was permanently a very kind and loving person , generous to a fault '' .", 
+                "mr miller , 56 , was found dead at his home address in patterdale walk , boothville , northampton in the early hours of tuesday , 14 june .", 
+                "four people remain in custody having appeared last week at northampton crown court , charged with murder ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a7071e4b06c65bdc37eed", 
+            "title": "nhs in northamptonshire looking for apprentices", 
+            "text": [
+                "a recruitment drive is being held in northampton today to attract more apprentices to the nhs .", 
+                "northamptonshire healthcare nhs foundation trust currently has several apprenticeship vacancies ranging from business administration to clinical positions .", 
+                "the event starts at 16.30 and runs until 19.30 in newland house on campbell square , northampton ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "20:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a7fb7e4b0902cf32b1e88", 
+            "title": "cobblers have trip to barnsley in first round of football league cup", 
+            "text": [
+                "following the release of the football league fixtures this morning , the draw has been made in the first round of the newly revamped football league cup .", 
+                "northampton town have been drawn away to championship side barnsley .", 
+                "the tie will be played during the week starting 8 august ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a6ce7e4b0902cf32b1e1a", 
+            "title": "billy vunipola says dylan hartley is 'very inspirational '", 
+            "text": [
+                "northampton saints ' dylan hartley has also been praised for his england captaincy by one his side 's stand-out players , number eight billy vunipola .", 
+                "vinipola said hartley `` always puts the team first '' and is `` very selfless '' .", 
+                "vunipola , one of hartley 's vice-captains , said : `` he would never ask of us something he would n't do himself .", 
+                "he is very inspirational , and a lot of boys follow him in that respect . ''"
+            ], 
+            "author": [
+                "Chris Jones", 
+                "BBC Radio 5 live rugby reporter in Australia"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a6a30e4b0fdc373274b9d", 
+            "title": "hartley 'very good with the players ' says jones", 
+            "text": [
+                "dylan hartley has `` clearly done a good job leading england , '' according to his coach eddie jones .", 
+                "jones said the saints hooker `` has got the ability to develop relationships with people - and therefore he would be a great candidate for the lions job '' .", 
+                "`` he is very good with the players in making sure they understand standards we want in the team , and making sure they understand the values that are important , '' jones added ."
+            ], 
+            "author": [
+                "Chris Jones", 
+                "BBC Radio 5 live rugby reporter in Australia"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a694ce4b0902cf32b1e07", 
+            "title": "eddie jones : dylan hartley 'great candidate ' for 2017 lions captain", 
+            "text": [
+                "england coach eddie jones has backed dylan hartley for the role of lions captain in new zealand next year .", 
+                "hartley has excelled as england skipper in 2016 , captaining the side to eight straight victories , including a grand slam and a series win in australia .", 
+                "and jones feels the 30-year-old `` would be a great candidate '' to lead the lions against the all blacks ."
+            ], 
+            "author": [
+                "Chris Jones", 
+                "BBC Radio 5 live rugby reporter in Australia"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a616ee4b0fdc373274b66", 
+            "title": "northamptonshire due to face sussex at arundel today", 
+            "text": [
+                "not a classic morning at one of the uk 's most wonderful cricket grounds , arundel castle .", 
+                "northamptonshire are due to face sussex here in the county championship , but the forecast is n't great ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a62c7e4b0902cf32b1de3", 
+            "title": "dodging train fares : some without a train ticket have made a 'genuine mistake '", 
+            "text": [
+                "an independent watchdog , passenger focus , says some people without a train ticket have made a `` genuine mistake '' .", 
+                "it comes after operator london midland said fare-dodgers are costing them nearly \u00a3 7m a year in lost revenue"
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "18:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a61c7e4b06c65bdc37e92", 
+            "title": "dodging train fares : 'there was too much of a queue '", 
+            "text": [
+                "people caught at euston without a ticket for london midland trains , which operate through northampton and long buckby , explained to be me yesterday why they did n't purchase one .", 
+                "the company says fare-dodgers are costing them nearly \u00a3 7m a year in lost revenue ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a55e2e4b06c65bdc37e59", 
+            "title": "train company losing nearly \u00a3 7m a year from fare dodging", 
+            "text": [
+                "london midland , which operates trains from northampton and long buckby , says fare-dodgers are costing them nearly \u00a3 7m a year in lost revenue .", 
+                "yesterday , it carried out a major revenue recovery operation at euston station and 104 passengers were given penalties for having no tickets , or incorrect tickets .", 
+                "but transport focus warns it is too easy for passengers to make unthinking mistakes with a ticketing system that is too complicated , and where it is n't always easy to find the correct fare information ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a5fe9e4b0fdc373274b61", 
+            "title": "weather : cloudy and rather humid with outbreaks of rain", 
+            "text": [
+                "it will be a mostly cloudy day with outbreaks of rain at times , although there will also be a few drier and brighter intervals , with some hazy sunshine and a high of 22c ( 72f ) .", 
+                "my full forecast is below", 
+                "there are more details on the bbc weather website ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a4fd4e4b0902cf32b1d94", 
+            "title": "the football fixtures explained", 
+            "text": [
+                "if you 're confused by today 's talk about football fixtures , here is an alternative look from bbc comedian david mitchell"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a4f0ee4b06c65bdc37e3f", 
+            "title": "northampton town will wait for wilder 's 'welcome ' back", 
+            "text": [
+                "while the cobbles will travel to bramall lane to face chris wilder 's sheffield united on news year 's eve , there is quite a wait to welcome him back to sixfields .", 
+                "the manager who lead them to the league two title last season returns to northampton town on saturday , 8 april 2017 .", 
+                "how he 's welcomed by the fans might depend on where the cobblers are in the table by then .", 
+                "interestingly it was in northampton town 's fifth to last fixture of last season - the same fixture as the blades clash will be next season - that they won the league two title ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a4dcde4b0fdc373274afb", 
+            "title": "cobblers fans have some long tuesday night trips", 
+            "text": [
+                "the fixtures have n't been kind to northampton town fans hoping to be home early after some of the tuesday night fixtures .", 
+                "their first tuesday night game is on 16 august , when they will have to travel to oldham , a 290 mile round trip .", 
+                "they also have trips on a tuesday to swindon and bradford , but at least they play fleetwood on a saturday ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a4c10e4b0fdc373274af4", 
+            "title": "northampton town 's longest and shortest trips", 
+            "text": [
+                "northampton town 's longest and shortest trips"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a4899e4b0fdc373274ae3", 
+            "title": "new cobblers manager page wo n't face old side until december", 
+            "text": [
+                "new northampton town manager rob page will have to wait until the end of 2016 to face his former side , port vale .", 
+                "the cobblers travel to vale park on saturday , 10 december .", 
+                "they then host vale at sixfields on tuesday , 14 march 2017 ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a4427e4b0902cf32b1d5e", 
+            "title": "here are northampton town 's league one 2016/17 fixtures", 
+            "text": [
+                "here are northampton town 's league one 2016/17 fixtures"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a4548e4b0902cf32b1d66", 
+            "title": "northampton town start at home to fleetwood and meet wilder 's sheffield united on new years ' eve", 
+            "text": [
+                "the cobblers ' league 2 season starts at home - fleetwood town are the visitors on saturday 6 august .", 
+                "that 's followed by a trip to charlton and a swift re-union with ricky holmes .", 
+                "there are two very tasty fixtures over christmas - both away from home .", 
+                "it 's oxford united on boxing day and then auld acquaintances are renewed with chris wilder at sheffield united on new year 's eve .", 
+                "the derby matches against peterborough are away on tuesday , 18 october and at home on 19 november , while they host mk dons on saturday , 9 september and travel down the m1 on saturday , 21 january 2017 .", 
+                "the season finishes on 30 april with a home match against gillingham ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a3de8e4b0fdc373274ab2", 
+            "title": "what fixtures will northampton town fans be looking out for ?", 
+            "text": [
+                "cobblers fans will be looking out for what their opening and closing fixtures will be , but also there are host of derbies coming up .", 
+                "they 'll be facing their old foes peterborough in league but also their newest rivals mk dons , where the northampton took 7,000 away fans to in the fa cup last season", 
+                "they 'll also be looking out for oxford united , after manager michael appleton said they were the best side in league two last season , despite finishing second to the cobblers .", 
+                "also , the another fixture to look out for is the cobblers facing their league two winning manager chris wilder now at sheffield united ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a37f6e4b0fdc373274a9a", 
+            "title": "could this season possibly be as dramatic as the last for the cobblers ?", 
+            "text": [
+                "it 's unlikely anything could happen this season which would top the drama of last season .", 
+                "there was the very real possibility the club could have gone out of business", 
+                "but a takeover from kelvin thomas at the end of november secured the clubs future", 
+                "and on the pitch there was an unbeaten run of 24 games which took them to the league two title", 
+                "and an open top bus parade", 
+                "maybe some fans will be hoping for less drama ?"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_576a3715e4b0fdc373274a8f", 
+            "title": "cobblers hoping for similar beginning and end of the season", 
+            "text": [
+                "last season begin for northampton town how it ended - with a win .", 
+                "the first fixture of their league two championship season was away at bristol rovers , which they won 1-0 thanks to john-joe o'toole", 
+                "the season concluded with a 2-1 win away at portsmouth thanks to a winner from jame collins"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_576a34a5e4b06c65bdc37dd2", 
+            "title": "big day for the cobblers - welcome to football fixtures live", 
+            "text": [
+                "do n't worry sports-haters , we wo n't be doing this all day , but we 're starting today 's live feed with the announcement of the football league fixtures .", 
+                "the full list will be revealed at 09:00 with northampton town on the brink of an exciting new journey in league one ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

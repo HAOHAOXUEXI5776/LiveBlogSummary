@@ -1,0 +1,671 @@
+{
+    "blog_id": "544b5ab5cd11dd617d38d6780334c2e4ee6af5a1", 
+    "title": "BBC Local Live: Essex on Wednesday, 6 April 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-essex-35938509", 
+    "summary": [
+        "council says sorry after cat 's body thrown in bin .", 
+        "further arrests following chelmsford knife fight .", 
+        "more news , sport , travel and weather updates from 08:00 on thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5705315b3a00000b03b54a3e", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's about it from us at essex live today - thanks for joining us .", 
+                "we 'll be back from 08:00 tomorrow with the latest news for the county .", 
+                "have a great evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570531e0400000f9031a98c1", 
+            "title": "weather : tonight will be cold and breezy , but mainly dry", 
+            "text": [
+                "the showers from earlier will clear through this evening to leave many places dry overnight .", 
+                "it will be windier and colder than recent nights , with patchy frost possible .", 
+                "minimum temperature : 4c ( 39f ) .", 
+                "tomorrow will be rather cloudy , with some patchy rain during the morning .", 
+                "you can get the latest weather forecast here ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570522bb3a00000a03b54a08", 
+            "title": "your sporadic sunshine and showers", 
+            "text": [
+                "it 's a sporadic mixture of sunshine and heavy showers today .", 
+                "this was sent to us by alan conran , who said there was `` clouds rolling in over dovercourt '' .", 
+                "if you 'd like to share a photo with us you can email it , tweet it , or post it on to our facebook page ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5705189b3a00000a03b549e7", 
+            "title": "\u00a3 2.5m canvey boatyard goes up for sale", 
+            "text": [
+                "those with dreams of owning their own essex boatyard could be in luck - if they 're able to afford a \u00a3 2.5m price tag .", 
+                "the dauntless boatyard near canvey island has recently come on to the market .", 
+                "built in the 1940 's the plot stretches over six acres .", 
+                "if you 're wondering what you 'd get for your money , the site includes a warehouse , office , 800m ( 2624ft ) in moorings and even its own cafe ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5705307c400000f9031a98bc", 
+            "title": "headlines : bus cash pedestrian suffers life-changing injuries cctv released in theydon bois murder investigation", 
+            "text": [
+                "here are the top stories for essex :"
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57052f233f00002d038deefd", 
+            "title": "travel : one lane closed on southbound m11 at bishops stortford", 
+            "text": [
+                "one lane is closed on the m11 southbound , just after j8 at bishops stortford , due to a crash involving two cars and a van .", 
+                "you can find the latest travel for essex here ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704f5ab3a00003d00b54977", 
+            "title": "hundreds of 'out of control ' deer at risk of being culled in rural brentwood", 
+            "text": [
+                "hundreds of deer could be culled because their numbers are `` out of control '' in rural brentwood ."
+            ], 
+            "author": [
+                "Brentwood Gazette"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57051bcf400000fa031a9873", 
+            "title": "pedestrian suffers 'life-changing injuries ' in bus crash", 
+            "text": [
+                "a pedestrian hit by a bus in colchester earlier this morning suffered life-changing injuries , police say .", 
+                "the man , believed to be in his 30s , was flown to addenbrooke 's hospital in cambridge following the incident that happened at about 10:00 in hythe hill .", 
+                "essex police is now asking any witnesses to get in touch ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570522fb3f00002d038deed6", 
+            "title": "torrential rain calls off essex cricket game", 
+            "text": [
+                "it was torrential rain in chelmsford two hours ago now look at it .", 
+                "believe it or not , today 's t20 v @ twitterid was called off after torrential rainfall and high winds !", 
+                "@ twitterid @ twitterid did anyone do a duckworth lewis to see who would have won ?", 
+                "@ twitterid @ twitterid crazy decision , i thought it was a bit premature ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5705131d3f00002c038deea4", 
+            "title": "cctv released in theydon bois murder investigation", 
+            "text": [
+                "police are looking to trace a pedestrian and the occupants of a car who may be able to assist them with a murder investigation .", 
+                "maria bryne , 34 , was found at a property in morgan crescent , theydon bois , on 13 february .", 
+                "darren byrne , 39 , of the same address , has been charged with her murder .", 
+                "essex police says the cctv images were taken around the time of the incident ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57050aa33f00003d008dee89", 
+            "title": "council says opening in leigh 'is not a sinkhole '", 
+            "text": [
+                "southend borough council has taken to twitter to `` allay any fears '' over a hole that opened up in leigh broadway earlier today .", 
+                "the authority says it now believes the crater is a `` small void above a gas pipe '' and not a sinkhole .", 
+                "the road remains partially blocked while engineers try to fix the problem .", 
+                "hole in # leigh update .", 
+                "just to allay any fears this is not a 'sink hole ' we believe it just a small void above a gas pipe # southend", 
+                "@ twitterid @ twitterid a bit harsh calling leigh a void above a gas pipe ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704e048710000b1ebb10b56", 
+            "title": "lucky southend pub-goer escapes ceiling collapse", 
+            "text": [
+                "a pub-goer got more than a packet of peanuts in southend last night , when the ceiling collapsed on to a table she had moved from just moments earlier .", 
+                "the drama unfolded in the alex pub in southend on tuesday night , yoursouthend reported .", 
+                "kayleigh johnson , 28 , said she heard a `` massive crash '' before the ceiling came `` tumbling down '' .", 
+                "no-one was injured in the incident , and the pub 's owners said specialist contractors were assessing the damage ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57050d4c3a00000903b549c5", 
+            "title": "further arrests made in chelmsford knife fight investigation", 
+            "text": [
+                "police have made two further arrests in connection with a large fight in chelmsford on monday night .", 
+                "officers were first called to reports of a disturbance in readers court at about 21:30 .", 
+                "seven men were initially arrested - three of whom had stab wounds .", 
+                "the force says six of those detained have now been released on bail .", 
+                "the two latest suspects , aged 28 and 29 , are currently being questioned .", 
+                "the final suspect remains in hospital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5705066e4000003d001a9834", 
+            "title": "danny cowley : braintree boss relishing play-off challenge", 
+            "text": [
+                "braintree manager danny cowley said the task ahead of his team is `` a brilliant challenge '' after the defeat at barrow .", 
+                "the iron are currently sixth in the national league , one point and one place outside the play-off spots .", 
+                "`` i thought we asked a lot of questions of a very good barrow team , '' cowley told bbc essex ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704f37740000040001a9808", 
+            "title": "weather : it 'll be windy this afternoon with some showers around", 
+            "text": [
+                "this afternoon we 'll see a mixture of sunny spells and showers .", 
+                "some of the showers may be heavy with a risk of hail and thunder .", 
+                "it will be quite windy as well , which will make it feel colder than recent days .", 
+                "maximum temperature : 12c ( 54f ) .", 
+                "a full weather forecast can be found here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704e207710000b1ebb10b5f", 
+            "title": "large group of youths cause distrubance in waltham abbey mcdonalds", 
+            "text": [
+                "there was a large disturbance in a mcdonalds in waltham abbey last night , police say .", 
+                "officers attended the restaurant on highbridge retail park at about 18:55 after reports of an altercation involving 20 youths .", 
+                "those involved are said to have left the scene and no criminal offences were committed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704f78b3f00003d008dee54", 
+            "title": "english democrat robin tilbrook pulls out as police commissioner candidate", 
+            "text": [
+                "one of the candidates for the police and crime commissioner ( pcc ) elections in essex has withdrawn from the race .", 
+                "robin tilbrook , from the english democrats , says he will now be supporting the ukip candidate bob spink , and has even seconded his nomination .", 
+                "so far five candidates have said they are standing in the pcc election , which will be held on 5 may ."
+            ], 
+            "author": [
+                "Ian Puckey", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704f2f83f00003c008dee3c", 
+            "title": "headlines : man hit by bus in colchester image of potential john palmer murder witnesses released", 
+            "text": [
+                "here are the top stories from essex this lunchtime :"
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704d6461a0000a5edd29cbe", 
+            "title": "owners 'scared of letting cat out of house ' after shooting", 
+            "text": [
+                "the owners of a cat that survived being shot in the head say they are scared of letting him out of the house .", 
+                "the feline returned to his home in rivenhall last month with an air rifle bullet lodged in his head .", 
+                "his owner , who does not want to be named , said : `` it 's awful to think that someone would do this to a defenceless animal .", 
+                "doing something like this is absolutely not acceptable . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704ee274000003d001a97fa", 
+            "title": "your a grey day on canvey island", 
+            "text": [
+                "it 's not the brightest of days today is it ?", 
+                "we think bbc weather watcher tornado alley captured the mood perfectly with this shot from canvey island .", 
+                "he reported showers with temperatures at about 10c ( 50f ) down along the south essex coast .", 
+                "you can always share your photos with us via email , twitter , or facebook ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704e73c3f00003f008dee14", 
+            "title": "cyclist dies after being hit by a car", 
+            "text": [
+                "a cyclist from essex who was hit by a car in dorset has died in hospital .", 
+                "police said richard ellis , 58 , was injured in a crash on the a352 in wareham on sunday .", 
+                "he was taken by air ambulance to southampton general hospital but died yesterday .", 
+                "mr ellis was hit by a nissan driven by a 26-year-old woman .", 
+                "no arrests have been made ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704de741a000090edd29cd6", 
+            "title": "engineers on site at leigh broadway sinkhole", 
+            "text": [
+                "engineers are currently dealing with a sinkhole that has closed part of the broadway in leigh-on-sea .", 
+                "southend borough council says the hole , which opened up outside clements arcade , is likely to affect traffic along the road all day .", 
+                "regular travel updates can be found here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "11:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704e39771000006edb10b65", 
+            "title": "man airlifted to hospital after he is hit by a bus in colchester", 
+            "text": [
+                "a man has been airlifted to hospital after he was hit by a bus in colchester this morning .", 
+                "essex police says hythe hill is closed following the incident that happened just before 10:00 this morning .", 
+                "the male pedestrian , aged in his 30s , has been taken to addenbrooke 's hospital in cambridge with life-threatening injuries ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704d4ff1a000090edd29cb4", 
+            "title": "cat shot in the head with an air rifle", 
+            "text": [
+                "a cat has survived being shot in the head with an air rifle in rivenhall .", 
+                "the rspca says the black and white moggy was discovered with the pellet still lodged `` in his skull '' when he returned home on 22 march .", 
+                "adam jones from the charity said : `` he was incredibly lucky because a few millimetres in a different direction it would have gone through his ear or eye and could have killed him . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704d9801a000090edd29cc7", 
+            "title": "john 'goldfinger ' palmer murder investigation : image shows potential witnesses", 
+            "text": [
+                "police investigating the murder of a notorious criminal in essex have released an image of two potential witnesses .", 
+                "john `` goldfinger '' palmer , 65 , who allegedly amassed a fortune in a time-share scam , was shot six times in the chest at his south weald home in june .", 
+                "officers want to speak to two women seen jogging in weald country park , who `` may hold vital information about who killed john '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704d1071a000090edd29cab", 
+            "title": "terrapin rescued from essex river", 
+            "text": [
+                "say hello to crouchy he is starting a new life after being found dumped in a river in burnham-on-crouch on monday .", 
+                "terry joyce , from the river crouch conservation group , found the terrapin while surveying the area for a clean-up event later this month .", 
+                "terrapins ' natural home is the swamps of the us .", 
+                "but a rise in 1990s to keep the reptiles as pets resulted in many being dumped into lakes when they grew too big ."
+            ], 
+            "author": [
+                "Robby West", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704c1041a000090edd29c79", 
+            "title": "mcdonald 's in brentwood to serve final burger this evening", 
+            "text": [
+                "mcdonald 's in brentwood high street will close its doors for the final time this evening after 30 years serving the town ."
+            ], 
+            "author": [
+                "Brentwood Gazette"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704c3af71000037e9b10aef", 
+            "title": "keen shortlisted for manager of the month award", 
+            "text": [
+                "the boss of league one strugglers colchester has been nominated for a manager of the month award .", 
+                "kevin keen was shortlisted after the u 's up 10 points in march , including wins at bradford and coventry .", 
+                "walsall 's jon whitney , rochdale 's keith hill and barnsley 's paul heckingbottom have also been nominated ."
+            ], 
+            "author": [
+                "Ben Fryer", 
+                "BBC Essex Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704b8d91a000090edd29c5a", 
+            "title": "council says sorry after cat 's body thrown in bin", 
+            "text": [
+                "colchester borough council says it is `` extremely regrettable '' that a pet cat 's body was thrown into a bin by park rangers .", 
+                "the daily gazette first reported that zelda was discarded by staff after she was found dead in lower castle park on sunday morning .", 
+                "her owner told bbc essex she was `` disgusted '' .", 
+                "a spokesman from the council said : `` we offer our sincerest apologies to zelda 's owners for any distress they have been caused . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704be265800005de7c92998", 
+            "title": "extra police patrols following chelmsford knife fight", 
+            "text": [
+                "police patrols have been stepped up in chelmsford after three men were stabbed in a large fight on monday night .", 
+                "readers court was cordoned off for most of yesterday while officers investigated the scene .", 
+                "six of the seven suspects arrested , all of whom are from the city , have been released on police bail .", 
+                "one man remains in hospital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704b16f71000036e9b10aa3", 
+            "title": "why are junior doctors striking ?", 
+            "text": [
+                "our colleagues at bbc health have produced a helpful article explaining why junior doctors are going on a 48-hour strike starting today , over their dispute with the government about a new contract .", 
+                "the government has described the current arrangements as `` outdated '' and `` unfair '' , pointing out they were introduced in the 1990s .", 
+                "ministers drew up plans to change the contract in 2012 , but talks broke down in 2014 .", 
+                "sticking points for the junior doctors include changes to salary and weekend working conditions ."
+            ], 
+            "author": [
+                "Richard Haugh", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704b3ca1a000092edd29c3e", 
+            "title": "essex operations cancelled as junior doctors begin 48-hour strike", 
+            "text": [
+                "a number of routine operations are being cancelled across essex today as junior doctors stage their latest 48-hour strike in a contract dispute .", 
+                "local hospitals have told bbc essex it 's unclear how many workers will be joining the national walk-out , which begun at 08:00 .", 
+                "bosses at nhs england said the continued disruption was `` deeply regrettable '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704b02071000036e9b10a9c", 
+            "title": "weather : patchy rain clearing to sunshine and blustery showers . becoming colder", 
+            "text": [
+                "it will be rather cloudy at first with some rain possible for a time , clearing to a rather cool , blustery afternoon with sunshine and scattered showers .", 
+                "maximum temperature : 12c ( 54f ) .", 
+                "you can stay up-to-date with the latest forecast here ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5704b28a71000036e9b10aae", 
+            "title": "headlines : essex operations cancelled as junior doctors strike colchester council apologises over dead cat", 
+            "text": [
+                "here are the top stories from essex this morning :"
+            ], 
+            "author": [
+                "Sonia Watson", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5704af6058000049e7c9294e", 
+            "title": "welcome to wednesday 's local live page", 
+            "text": [
+                "good morning and welcome to local live in essex .", 
+                "until 18:00 we 'll bring you all the latest news for the county .", 
+                "if you 'd like to get in touch you can email us , tweet us , or visit our facebook page ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }
+    ], 
+    "genre": "uk-england-essex", 
+    "quality": "high"
+}

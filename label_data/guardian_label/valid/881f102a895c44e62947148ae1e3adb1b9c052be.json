@@ -1,0 +1,934 @@
+{
+    "blog_id": "881f102a895c44e62947148ae1e3adb1b9c052be", 
+    "title": "Obama press conference: Russia hacks, US election, China and Syria addressed \u00e2\u0080\u0093 as it happened | US news | The Guardian", 
+    "url": "https://www.theguardian.com/us-news/live/2016/dec/16/barack-obama-press-conference-live-video", 
+    "summary": [
+        "obama : 'mele kalikimaka '", 
+        "obama calls electoral college a 'vestige from an earlier vision '", 
+        "obama says coalition 'did n't always turn out to be transferrable '", 
+        "obama says trump 'is still in transition mode '", 
+        "obama : 'reagan would roll over in his grave ' on gop support for putin .", 
+        "obama on syria : 'i can not claim that we 've been successful '", 
+        "obama defends syria policy : 'unless we were all in we were going to have problems '"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5854581ae4b08386c3102772", 
+            "title": "", 
+            "text": [
+                "barack obama 's end-of-year news conference is finished .", 
+                "here 's a summary of what he said : obama said evidence that russia had sought to hack the election on behalf of donald trump was convincing but he would not weigh in on whether russian hacking actually swayed the election .", 
+                "obama said there was no malfeasance in how the election was counted : the votes that were cast were counted , they were counted appropriately .", 
+                "obama defended his response or lack of response to russian hacking before the election , saying that the hacking stopped after he told president vladimir putin to stop and that he did not want to undermine the integrity of the election , which donald trump was attacking , or to appear partisan .", 
+                "obama said that the united states was made vulnerable to attacks by russia or other foreign countries by its divided politics .", 
+                "obama went easy on trump in general , saying that the president-elect was still in transition mode .", 
+                "obama said syrian president bashar assad , russia and iran have blood on their hands for the slaughter of aleppo .", 
+                "he said tens of thousands of innocent people were trapped in the city and should be allowed to leave .", 
+                "obama defended his syria policy , saying he was n't willing to deploy a large american military ground force and unless we were all in we were going to have problems .", 
+                "obama criticized republicans for a poll that showed better than a third of them supported vladimir putin .", 
+                "ronald reagan would roll over in his grave , obama said .", 
+                "obama said he had last spoken to trump a few days ago in a cordial conversation .", 
+                "obama said he gave trump specific suggestions about maintaining the effectiveness , integrity , cohesion of the office , our various democratic institutions .", 
+                "obama said the country was better off than it was eight years ago .", 
+                "mele kalikimaka obama concluded , which in hawaii means merry christmas ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                21, 
+                20
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58545773e4b0010b9dd828aa", 
+            "title": "obama : 'mele kalikimaka '", 
+            "text": [
+                "obama says that at the end of his last holiday photo line he took a photo with his marine corps band .", 
+                "he got choked up , he says .", 
+                "but it was just one small example of all the people who have contributed to our success .", 
+                "i 'm responsible for where we screwed up .", 
+                "all the successes are shared on his way out , obama is asked whether it was his last news conference .", 
+                "he said he 'll see .", 
+                "mele kalikimaka , obama says .", 
+                "merry christmas , in hawaii .", 
+                "trump had promised we 'd start saying merry christmas again and here we 're saying mele kalikimaka ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                21, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-585456e9e4b0010b9dd828a7", 
+            "title": "", 
+            "text": [
+                "obama makes fun of fake news that says michelle obama 's eating initiative is a greater threat to democracy than our government going after the press if they 're issuing a story that they do n't like .", 
+                "people have asked me how do you feel after the election , and i say look , this is a clarifying moment , it 's a useful reminder that voting counts , politics counts i think people will be able to compare and contrast and make judgments about what works for the american people .", 
+                "obama says he hopes that trump 's plan works .", 
+                "he says his plan worked .", 
+                "you ca n't argue that we 're not better off .", 
+                "we are .", 
+                "and for that i thank the american people"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                21, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-585455dde4b08386c310276b", 
+            "title": "obama calls electoral college a 'vestige from an earlier vision '", 
+            "text": [
+                "obama refuses a question about the electors .", 
+                "it 's their job to a successor , he says .", 
+                "i 've provided people with a lot of information about what happened during the course of the election , but more importantly the candidates themselves talked about their beliefs the president elect , i think , has been very explicit about what he cares about , what he believes in .", 
+                "the electoral college is a vestige , it 's a carryover from an earlier vision of how our federal government was going to work that put a lot of premium on states it 's the same type of thinking that gives wyoming 2 senators with a half million people there are some structures in our political system that sometimes are going to disadvantage democrats , but the truth of the matter is if we have a strong message , ty the popular vote and the electoral college vote will align if we look for one explanation or one silver bullet or one easy fix for our politics then we 're probably going to be disappointed .", 
+                "there are just a lot of factors that has made both politics and governance more challenging i do hope that we all just take some time , take a breath , to just reflect a little bit more about how can we get to a place where people are focused on working together based on at least some common set of facts ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                21, 
+                4
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58545445e4b0010b9dd8289d", 
+            "title": "obama says coalition 'did n't always turn out to be transferrable '", 
+            "text": [
+                "question for obama : should current labor secretary tom perez run the dnc ?", 
+                "obama praises perez , calling him one of the best labor secretaries in history , tireless and wicked smart .", 
+                "if you look at his body of work on behalf of working people , what he 's pushed for he has been extraordinary .", 
+                "now others who have declared are also my friends and are fine people as well .", 
+                "and the great thing is , i do n't have a vote in this .", 
+                "i 've described to you earlier what i think needs to happen .", 
+                "which is that the democratic party has to work at the grassroots level , has to be present in all 50 states has to think about message i will say this .", 
+                "i could not be prouder of the coalition that i put together in each of my campaigns .", 
+                "because it was inclusive and it drew in people who normally were n't interested in politics i always cast a broad net there 's more that we share than divides us , and i want to talk to everybody and get a chance to get everybody 's vote .", 
+                "outside of the realm of electoral politics , i still see people the way i saw them when i made that speech .", 
+                "full of contradictions but basically folks care about their families , they care about having meaningful work , making sure their ckids have more opportunity than they did .", 
+                "they want to be safe , they want to make sure things are fair what i was able during my campaigns , i was not able to do during midterms .", 
+                "the coalition did n't always turn out to be transferrable .", 
+                "that 's an understatement !"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                59
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58545281e4b0525ea85693b5", 
+            "title": "", 
+            "text": [
+                "next question is about trump 's conversation with the taiwanese president and challenge to the one china policy .", 
+                "what 's obama think of a fresh china policy ? great question , he says .", 
+                "i 'm somewhere in between .", 
+                "i think all of our foreign policy should be subject to fresh eyes .", 
+                "i am very proud of the work i 've done .", 
+                "i think i 'm a better president than when i started [ but ] democracy benefits from some new perspectives .", 
+                "given the importance of the relationship between the united states and china , given how much is at stake there 's probably no bilateral relationship that carries more significance , and where there 's also the potential if that relationship breaks down that everybody is worse off .", 
+                "i think it 's fine for him to take a look at it .", 
+                "what i 've advised is across the board on foreign policy , you want to make sure that you 're doing at in a systematic intentional way before he starts to have a lot of interaction with foreign governments that he should want to have his full team in place so that as he 's then maybe taking foreign policy in a new direction , he 's got all the information to make good decisions .", 
+                "with respect to china , and let 's just take the example of taiwan , there has been a longstanding agreement between china , the us and to some degree the taiwanese , which is not to change the status quo ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-585450c6e4b08386c3102758", 
+            "title": "obama says trump 'is still in transition mode '", 
+            "text": [
+                "obama is asked whether putin personally directed the hacking .", 
+                "he says wait for the intelligence report .", 
+                "but he has great confidence in their assessment that the russians carried out this hack .", 
+                "the hack of the dnc and the hack of john podesta .", 
+                "but again , this is why i want the report out , so that everybody can review it .", 
+                "obama says congress has seen the reports and i think that what you 've already seen is the folks that have seen the evidence do n't dispute that it was the russians who have carried it out .", 
+                "obama says the larger point is , not much happens in russia without vladimir putin .", 
+                "this is pretty hierarchical operation .", 
+                "last i checked , there 's not a lot of debate and democratic deliberation this happened at the highest levels of the russian government and i will let you whether there are high-level russian officials going rogue .", 
+                "martha i 've given you what i 'm going to give you .", 
+                "as i 've said before , i think that the president elect is still in transition mode , from campaign to governance he still has campaign spokesman sort of filling in and appearing on cable shows .", 
+                "there 's just a whole different attitude and vibe when you 're not in power as when you 're in power .", 
+                "how will the president-elect operate and how will his team operate when they 've been fully briefed ?", 
+                "the more this [ hacking story ] can be nonpartisan , the better-served the american people are going to be .", 
+                "i 'm going to keep on repeating this point .", 
+                "our vulnerability is directly related to how divided , partisan , dysfunctional our political process is .", 
+                "that 's the thing that makes us vulnerable .", 
+                "if fake news is being released by some foreign government is almost identical to reports that are being issued through partisan news venues , then it 's not surprising that that foreign propaganda will have a greater effect , because it does n't seem so far-fetched .", 
+                "obama warns about domestic propagandists ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                44
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58544e97e4b0010b9dd8288d", 
+            "title": "obama : 'reagan would roll over in his grave ' on gop support for putin", 
+            "text": [
+                "question for obama : can you assure the public this was a free and fair election ?", 
+                "will you declassify some of the evidence on russian hacking ?", 
+                "are you concerned about the tillerson and some of trump 's closeness to putin ?", 
+                "obama : i 'm getting older .", 
+                "these multi-part questions i can assure the public that there was not the kind of tampering with the voting process that was a concern and will continue to be a concern .", 
+                "that the votes that were cast were counted , they were counted appropriately .", 
+                "we have not seen evidence of machines being tampered with .", 
+                "that assurance i can provide .", 
+                "we paid a lot of attention to it , we worked with state officials , etc , but we feel confident that that did n't occur and that the votes were cast and they were counted .", 
+                "on declassification : we will provide evidence that we can safely provide , that does not compromise sources and methods , but when you 're talking about cybersecurity , a lot is classified if we 're going to monitor this stuff effectively going forward , we do n't want them to know that we know .", 
+                "unless the american people genuinely think that the professionals in [ the intelligence community including republicans ] are less trustworthy than the russians , then people should pay attention to what our intelligence agencies say .", 
+                "we 've got to pay attention to what 's happening to our political culture here .", 
+                "obama says that russia is smaller and weaker and ca n't hurt america except : their economy does n't produce anything that anybody wants to buy except oil and gas and arms .", 
+                "they do n't innovate .", 
+                "but they can impact if we lose track of who we are if we start buying into notions that it 's ok to intimidate the press , or lock up dissidents , or discriminate against people because of their faith , or what they look like you 're starting to see certain republican party and voters starting to see a government contrary to everything we stand for as being ok because that 's how much we dislike democrats .", 
+                "some folks who had made a career about being anti-russian did n't say anything about it .", 
+                "then after the election they say , well why did n't you tell us that the russians were trying to elect our candidate .", 
+                "now come on over a third of republican voters approve of vladimir putin , the former head of the kgb .", 
+                "ronald reagan would roll over in his grave .", 
+                "and how did that happen ?", 
+                "because for too long , everything that happens in this town , everything that 's said , is through the prism of , does this help or hurt us relative to democrats ?", 
+                "relative to president obama ?", 
+                "we 've lost track of what we 're about and what we stand for .", 
+                "as for appointments , those are up to trump , obama says , and to the senate to advise and consent ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544df0e4b08386c3102748", 
+            "title": "", 
+            "text": [
+                "on safe zones , obama says , if you set those zones up on syrian territory , then that requires some force that is willing to maintain that territory in the absence of consent from the syrian government and now the russians and the iranians .", 
+                "it may be that with aleppo 's tragic situation unfolding , if we can get some of the tens of thousands that are trapped there out find some arrangement perhaps in coordination with turkey whereby those people will be safe unfortunately we 're not even there yet , because right now we have russians and assad claiming that all the innocent civilians that were trapped in aleppo are out try to put pressure wherever we can to try to get them out .", 
+                "i will help president-elect trump with any advice counsel information that we can provide ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544d71e4b0525ea85693a5", 
+            "title": "obama on syria : 'i can not claim that we 've been successful '", 
+            "text": [
+                "obama continues .", 
+                "i mean that with all sincerity .", 
+                "i understand the impulse to want to do something , but ultimately i 've had to think about what can we sustain , what is realistic and what 's the right thing to do for america ?", 
+                "obama says he provided moderate support to the opposition , tried to minimize the extremist jihadi presence and tried to pressure international partners .", 
+                "i can not claim that we 've been successful , he says , but i continue to believe it was the right approach , given what realistically we could get done ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544b9ee4b08386c3102740", 
+            "title": "obama defends syria policy : 'unless we were all in we were going to have problems '", 
+            "text": [
+                "question : on aleppo , do you feel any personal moral responsibility for the carnage ?", 
+                "and trump wants safe zones , which you 've opposed .", 
+                "will you support him ?", 
+                "obama : mike i always feel responsible .", 
+                "i felt responsible when kids were being shot by snipers .", 
+                "i felt responsible when millions of people were being displaced for murder and slaughter that 's taking place in south sudan that 's not being reported there 's places around the world where horrible things are happening , and because of my office i feel responsible there 's not a moment during the course of this presidency where i have n't felt some responsibility .", 
+                "that 's true by the way for our own country with respect to syria , what i have consistently done is taken the best course i can to try to end the civil war while taking into account the long term national interest of the united states obama says he went through every option in syria in painful detail with maps , humanitarian agencies , the military but short of putting large numbers of us troops on the ground , uninvited , without any international law mandate , without sufficient support from congress just gone through a decade of war and spent trillions of dollars , when the opposition on the ground was not cohesive enough and you had a military superpower in russia and a regional power in iran that in that circumstance , unless we were all in and we were willing to take over syria , then we were going to have problems .", 
+                "and everything else sounded tempting but it was impossible to do this on the cheap obama pauses as someone passes out or faints .", 
+                "obama says go get a doctor .", 
+                "obama resumes .", 
+                "it may be that nope , they need a doctor .", 
+                "a woman appears to have fallen down .", 
+                "she has been up .", 
+                "now they are helping her from the room .", 
+                "they 're going for a doctor ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544a6ae4b08386c310273a", 
+            "title": "", 
+            "text": [
+                "questions for obama : what about clinton 's contention that comey 's letter about emails on abedin/weiner 's computer affected the outcome of the election ?", 
+                "also , what 's risk of trump ignoring russian hack ?", 
+                "obama takes second question first : the transition from election season to governance season is not always smooth .", 
+                "you know it 's bumpy .", 
+                "when donald trump takes the oath of office and is sworn in , he 's got a different set of responsibilities and considerations .", 
+                "on his conversations with trump : they have been cordial , and in some cases have involved me making some pretty specific suggestions about how to be sure a bout maintaining the effectiveness , integrity , cohesion of the office , our various democratic institutions .", 
+                "and he has listened .", 
+                "i ca n't say that he will end up implementing and i will always make myself available to him .", 
+                "on the fbi : i 've had a chance to know a lot of fbi agents they take their job seriously .", 
+                "they work really hard .", 
+                "they help keep us safe and save a lot of lives sometimes that involves investigations that touch on politics .", 
+                "in this hyperpartisan environment everything is suspect one thing i have done is not wading into investigation decisions to be strict in my own behaviour about preserving the independence of law enforcement i do n't know why it would stop now ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-585448b9e4b08386c3102732", 
+            "title": "obama wo n't say whether clinton loss owed to hacking", 
+            "text": [
+                "the reason i 'm going on here is because i know you guys have a lot of questions about this .", 
+                "with respect to response , my principle goal was making sure that the election itself went off without a hitch , that it was not tarnish , and that it did not feed any sense in the public that tampering had taken place in the actual process of voting .", 
+                "our goal continues to be to send a clear message to russia and others not to do this to us , because we can do stuff to you some of it we can do publicly , some of it we will do in a way that they know it , but not everybody will .", 
+                "we already have enormous numbers of sanctions on the russians how we approach an appropriate response that increases costs for them but does not creat ea problem for us is something that 's worth taking time to figure out .", 
+                "there are times where the message will be directly received by the russians and not publicized .", 
+                "i should point out that part of the reason the russians have been effective is they 're not going around the world saying look at what we did !", 
+                "obama is asked whether clinton lost because of the russians : i 'm going to let all the political pundits in this town have a long discussion about what happened it was a fascinating election i 've said what is important for the democratic party rather than trying to parse every aspect of the election i do n't think she was treated fairly during the election i think the coverage of her and the issues was troubling .", 
+                "but having said that , what i 'm most focused on i can maybe give some counsel and advice to the democratic party , and the thing we have to spend the most time on is , how do we make sure that we 're showing up in places where i think democratic policies are needed but people feel like they 're not being heard we have to be in those communities ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58544747e4b0010b9dd82878", 
+            "title": "obama says media had 'obsession ' with hacked clinton emails", 
+            "text": [
+                "obama : i 'm finding it a little curious that everybody 's acting surprised that this would have undermined the election of hillary clinton because you guys wrote about it every day this was an obsession that dominated the news coverage .", 
+                "i do think it 's [ important to ask how such a momentous election ] came to be dominated by these leaks .", 
+                "this was not some elaborate , complicated espionage scheme .", 
+                "they hacked into some democratic party emails that contained fairly routine stuff .", 
+                "some of it embarrassing or controversial and then it just took off .", 
+                "and that concerns me , and it should concern all of us .", 
+                "but the truth of the matter is that everybody had the information .", 
+                "moving forward , i think there are a couple issues that this raises .", 
+                "number one , the constant challenges that we are going to have with cybersecurity this particular concern around russian hacking is part of a broader set of concerns about how do we deal with cybersecurity ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                20, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-585446c1e4b0525ea856938b", 
+            "title": "", 
+            "text": [
+                "obama points out that trump was raising questions about the integrity of the election .", 
+                "he says that the white house undermining that integrity further would not have been good .", 
+                "in early september when i saw president putin in china , i felt that the most effective way was to talk to him directly , and to tell him to cut it out and there would be consequences if they did n't .", 
+                "we did not see further tampering of the election process , but the leaks from wikileaks were already out there .", 
+                "i think we handled it the way it should have been handled , he says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544575e4b0010b9dd82872", 
+            "title": "obama defends handling of russian hacking", 
+            "text": [
+                "first question for obama : are you letting vladimir putin for hacking the us election ?", 
+                "do you agree that the hacking was partially responsible for clinton 's loss ?", 
+                "obama says with respect to the transition , the trump team would acknowledge that he 's done everything his team can to help it .", 
+                "obama and trump spoke a few days ago , he says .", 
+                "the russians were responsible for hacking the dnc , obama says .", 
+                "it is important for us to review all elements of that that should be a bipartisan issue , that should n't be a partisan issue .", 
+                "my hope is that the president-elect is going to be similarly concerned that we should n't have foreign interference in our election process .", 
+                "i think it is important for us to distinguish between the politics of the election and the need for us as a country to make sure that we do n't create a political football here .", 
+                "let 's go through the facts at the beginning of the summer , we 're alerted to the possibility that the dnc has been hacked .", 
+                "obama says he ordered a thorough investigation and had the victims of the dnc briefed and congress briefed .", 
+                "once we had clarity and certainty around what had happened , we publicly announced that in fact russia had hacked into the dnc .", 
+                "at that time we did not attribute motives we did not discuss what the effects of that might be .", 
+                "obama says the media interpreted the hacking .", 
+                "we did not [ because ] i wanted to make sure that everybody understood we were playing this thing straight .", 
+                "obama says you might want to take this into account , was the white house message at the time ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-585444c6e4b0010b9dd82870", 
+            "title": "obama criticizes russia for participating in syrian slaughter", 
+            "text": [
+                "obama warns that the tragedy of aleppo is deepening and says the crisis is the exclusive fault of the assad regime and its allies russia and iran , and its blood is on their hands .", 
+                "regretfully but unsurprisingly , russia has blocked the security council from taking action on these issues , obama says .", 
+                "over the long term , the assad regime can not slaughter its way to legitimacy , obama says .", 
+                "the syrian regime and its russian and iranian allies are trying to obfuscate the truth .", 
+                "the world should not be fooled .", 
+                "and the world will not forget ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58544406e4b08386c3102721", 
+            "title": "", 
+            "text": [
+                "obama claims troop drawdowns overseas from 180,000+ to 15,000 and says no foreign terrorist organization has successfully carried out an attack on our homeland that was directed from overseas .", 
+                "by so many measures , our country is stronger and more prosperous than it was when we started .", 
+                "he credits the american people .", 
+                "i could not be prouder to be your president .", 
+                "there 's a lot more work to be done , he says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5854438de4b0525ea856937e", 
+            "title": "", 
+            "text": [
+                "obama says he 's going to talk about how far we 've come over the past eight years .", 
+                "we 've seen the longest streak of job growth on record , he says .", 
+                "for the first time in history , 90 % of americans are insured on health , he says .", 
+                "he says he prevented a crisis on wall street without stifling growth .", 
+                "the stock market has nearly tripled .", 
+                "last year the poverty rate fell at the fastest rate in almost 50 years .", 
+                "and we 've done all this by cutting our deficits by nearly two-thirds ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5854437be4b0525ea856937d", 
+            "title": "", 
+            "text": [
+                "here 's obama ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-585441c6e4b0525ea8569379", 
+            "title": "fbi agrees with cia on russian hacking , cia says", 
+            "text": [
+                "the fbi agrees with the cia 's assessment that russian hackers tried to tip the us election to donald trump , the washington post is reporting .", 
+                "the post report quotes a statement by cia director john brennan trump has denied the hacking occurred , though in july he invited russian hackers to find hillary clinton 's missing emails , and on 8 october , one month before the election , the office of the director of national intelligence and the department of homeland security ( dhs ) released a joint statement formally accusing russia of hacking the democratic party 's computer networks .", 
+                "the fbi , where a culture thrived of deep antipathy to hillary clinton , had not previously joined the cia and dhs assessment of the situation .", 
+                "barack obama has ordered an intelligence community review of evidence of russian hacking in the presidential election ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58543db8e4b0010b9dd82853", 
+            "title": "", 
+            "text": [
+                "journalists in heavy attendance for this one : josh lederman ( @ joshledermanap ) never in four years have seen the white house briefing room this packed .", 
+                "obama news conference starts momentarily"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58543c2ce4b08386c31026fe", 
+            "title": "", 
+            "text": [
+                "here 's a live video stream :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58543a6ae4b0010b9dd82843", 
+            "title": "", 
+            "text": [
+                "sobering thought .", 
+                "doug mataconis ( @ dmataconis ) given the fact that trump has n't held a press conference since july , this could be the last presidential press conference for a long time"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                19, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5854328ae4b08386c31026cf", 
+            "title": "", 
+            "text": [
+                "hello and welcome to our live blog coverage of barack obama 's final pre-holiday press conference .", 
+                "the president is due to appear at the white house shortly , and is expected to address the ongoing slaughter of aleppo , syria ; russian hacking during the us presidential election ; the incoming administration of president-elect donald trump ; and other to obama departs for family vacation in honolulu , hawaii , later today .", 
+                "the mood of these pre-holiday appearances is ty fairly light .", 
+                "the headlines , however , are grim .", 
+                "thanks for reading and please join us in the comments ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                12, 
+                16, 
+                18, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "us-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.09pm GMT\n21:09\nObama: 'Mele Kalikimaka'\n", 
+                "block": "block-58545773e4b0010b9dd828aa"
+            }, 
+            {
+                "text": "\n\n9.04pm GMT\n21:04\nObama calls electoral college a 'vestige... from an earlier vision'\n", 
+                "block": "block-585455dde4b08386c310276b"
+            }, 
+            {
+                "text": "\n\n8.59pm GMT\n20:59\nObama says coalition 'didn\u00e2\u0080\u0099t always turn out to be transferrable'\n", 
+                "block": "block-58545445e4b0010b9dd8289d"
+            }, 
+            {
+                "text": "\n\n8.44pm GMT\n20:44\nObama says Trump 'is still in transition mode'\n", 
+                "block": "block-585450c6e4b08386c3102758"
+            }, 
+            {
+                "text": "\n\n8.38pm GMT\n20:38\nObama: 'Reagan would roll over in his grave' on GOP support for Putin\n", 
+                "block": "block-58544e97e4b0010b9dd8288d"
+            }, 
+            {
+                "text": "\n\n8.26pm GMT\n20:26\nObama on Syria: 'I cannot claim that we\u00e2\u0080\u0099ve been successful'\n", 
+                "block": "block-58544d71e4b0525ea85693a5"
+            }, 
+            {
+                "text": "\n\n8.23pm GMT\n20:23\nObama defends Syria policy: 'unless we were all in... we were going to have problems'\n", 
+                "block": "block-58544b9ee4b08386c3102740"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Outgoing US president appeared at the White House for his final press conference before the holidays, with Syria and Russia on the agenda.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2016/dec/16/barack-obama-final-press-conference-election-hacking"
+                ], 
+                "text": "Full report: Obama says he warned Russia to \u0080\u0098cut it out' over election hacking.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

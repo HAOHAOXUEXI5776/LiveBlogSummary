@@ -1,0 +1,1243 @@
+{
+    "blog_id": "17124d71cec31abb8c29ab0cf5f924142e8a945e", 
+    "title": "BBC Local Live: Shropshire on Wednesday 3 May 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-shropshire-39404408", 
+    "summary": [
+        "voting underway in local authority elections .", 
+        "scientists developing drone-tractors .", 
+        "new tcat principal says merger will make 'tremendous difference ' .", 
+        "updates from wednesday 3 may 2017 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_590a00c3e4b0e565bf44304f", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909f9cee4b07084e41637ae", 
+            "title": "football : the new saints say goodbye to coach", 
+            "text": [
+                "the new saints are losing the service of coach carl darlington , who says he is leaving to `` seek a new challenge '' .", 
+                "he came to the club four seasons ago , to train both the players and the coaches and during that time the club has won 10 trophies and set a record this season for consecutive victories .", 
+                "chairman mike harris and chief operating officer ian williams both wished him well for the future , with harris saying he was `` always welcome back at park hall '' .", 
+                "this decision was extremely hard as everyone wants to be successful and consecutively win honours .", 
+                "this is exactly what i had at tns that has been designed over many years .", 
+                "i know that leaving the club , i will always be part of this history and i 'm very proud of my personal achievements at the club . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590a0495e4b06cce078097c8", 
+            "title": "weather : a cloudy night and more sunshine tomorrow", 
+            "text": [
+                "it 's going to be overcast again tonight , but we should see some sunshine across the region tomorrow ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909ffb9e4b06cce078097ae", 
+            "title": "woman admits northern ireland charges", 
+            "text": [
+                "a woman has admitted attempting to murder a policeman in northern ireland , a year after her co-defendant from shrewsbury killed himself .", 
+                "christine connor also pleaded guilty to explosives offences , relating to a pipe bomb attack in belfast four years ago and will be sentenced at belfast crown court in june .", 
+                "stuart downes from ryton close in shrewsbury was originally charged with helping her and the 31-year-old was found in thick woodland near the a5 , four days after being reported missing ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909f029e4b06cce0780976a", 
+            "title": "biker 's death leaves 'a big void that will never be filled '", 
+            "text": [
+                "the family of a motorbiker who died in a crash with a car says his death has left a `` big void , that will never be filled '' .", 
+                "conna stewart , 24 , from norton canes , was riding on the a5 at watling street , weston-under-lizard , when the collision happened , police said .", 
+                "he was pronounced dead at the scene .", 
+                "in a statement , his family says their `` world fell apart '' at the news , adding that mr stewart had `` lived life to the maximum '' ."
+            ], 
+            "author": [
+                "Allen Cook", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590a004be4b06cce078097b2", 
+            "title": "conservatives look to maintain hold of shropshire council", 
+            "text": [
+                "polls open for shropshire council elections at 07:00 tomorrow .", 
+                "a reminder that a full list of candidates in each ward is available on the shropshire council website .", 
+                "on friday we 'll report all the results as they come in ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "07:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909f3e8e4b07084e4163797", 
+            "title": "your photos : more sunny scenes from around shropshire", 
+            "text": [
+                "we 're seeing some great photos of sunny shropshire today .", 
+                "these ones were taken by bbc weather watchers near badger ( top ) and in shrewsbury ( bottom ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "07:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5909f7b0e4b07084e41637a9", 
+            "title": "woman charged with attempted murder of baby", 
+            "text": [
+                "a woman from oswestry has been charged with the attempted murder of a newborn baby girl .", 
+                "the 31-year-old will appear at telford magistrates ' court tomorrow .", 
+                "the baby was discovered with serious injuries in the meole brace area of shrewsbury , on 22 april last year .", 
+                "the child remains in the care of the local authority ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909f197e4b0e565bf44300e", 
+            "title": "man airlifted to hospital after forklift truck fall in telford", 
+            "text": [
+                "a man has fallen from a fork lift truck in telford .", 
+                "the 57-year-old has been airlifted to royal stoke hospital after he collapsed and was resuscitated at the scene on station road in ketley ."
+            ], 
+            "author": [
+                "Shropshire Star"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909e784e4b0e565bf442fd8", 
+            "title": "watch : first bricks laid on bridgnorth railway station expansion", 
+            "text": [
+                "the first bricks have been laid this lunchtime for the new cafe at the severn valley railway 's bridgnorth station .", 
+                "it 's part of a major revamp of the station , which will also involve improvements to the ticket booth , waiting room , pub and toilets ."
+            ], 
+            "author": [
+                "Kevin Reide", 
+                "Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909e56ee4b0e565bf442fcc", 
+            "title": "your questions : which is the oldest pub in shropshire ?", 
+            "text": [
+                "a reader got in touch with the your questions section of the bbc website to ask `` what is the oldest public house in shropshire ? ''", 
+                "we asked norrie porter from the campaign for real ale in shropshire , and he says they believe the oldest pub in the county is the royal oak in cardington ( below ) , which can trace its history back to the 15th century .", 
+                "mr porter said there are two pubs which dispute that claim , but the three horseshoes in alveley has closed and while the swan inn in aston munslow claims to have opened in the 14th century , english heritage believes the building is 16th century .", 
+                "he said the pub in the oldest building is probably the old eagles in whitchurch , which was built in the 14th century , but it has only been a pub since 1868 .", 
+                "and he explained this is further confused because pubs were only really licensed after the 1751 gin act and before then any house could claim to be a beer house ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909c606e4b07084e41636d8", 
+            "title": "cat trapped inside narrow wall cavity is rescued", 
+            "text": [
+                "firemen have used drills , hammers and chisels to break through a wall in shrewsbury and rescue a trapped cat .", 
+                "they think it slipped down into the three inch gap , between two houses on longville road , and it was stuck with its legs in the air .", 
+                "it took over an hour to carefully cut it free and coax it out and it was taken to a vet for a check-up ."
+            ], 
+            "author": [
+                "Andy Giddings", 
+                "BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59098d1ae4b07084e41635bd", 
+            "title": "football : shrewsbury town offers new deals to four players", 
+            "text": [
+                "shrewsbury town has offered new deals to four players , but released four others .", 
+                "as we revealed last week , paul hurst wants to keep the club 's player of the year mat sadler and winger shaun whalley ( below ) .", 
+                "he 's also offered new contracts to goalkeeper shaun rowley and bryn morris , who joined from middlesbrough mid-season .", 
+                "hurst has released long-serving number two keeper mark halstead , and three younger players kaiman anderson , callum grogan , and ethan jones ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909cdf3e4b06cce078096cb", 
+            "title": "council plans major revamp of offices", 
+            "text": [
+                "shropshire council is considering a \u00a3 7.5m revamp of its shirehall offices in shrewsbury .", 
+                "the authority has published tender documents for work on its 50-year-old headquarters , which it says should extend its lifespan by the same period again .", 
+                "the documents say the work is needed after years without investment in the building , but it comes at a time when the authority is trying to cut its budget by \u00a3 77m by 2020/21 .", 
+                "plans to sell off the site were dropped last year , after a change in the council 's leadership ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909d093e4b06cce078096d6", 
+            "title": "shropshire couple die in mauritus taxi crash", 
+            "text": [
+                "a shropshire couple have been killed in a crash while travelling in a taxi in mauritus .", 
+                "hugh vaughan ( below ) and his wife liz lived in prees heath , near whitchurch and had been on holiday on the island .", 
+                "the foreign office says it is supporting their family and remains in contact with the mauritian police ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59098f25e4b06cce078095a6", 
+            "title": "football : no summer holidays for shrewsbury town defender", 
+            "text": [
+                "while the rest of the shrewsbury town squad prepare to head off on their summer holidays , defender joe riley will have to stay at home to recover from his broken ankle .", 
+                "he suffered the injury in the final home game of the season and will be having an operation on it tomorrow .", 
+                "shrewsbury 's physio chris skitt says it is n't a simple break , so riley faces a long period of rehab .", 
+                "i 've made him come in , he 's going to have to cancel a few holidays that he 's got planned .", 
+                "unfortunately that 's the life of a footballer , he 's going to have to cope with that and i 'm sure he 'll be able to get some time off during his rehabilitation , but for the short term , he 'll need to be in getting treatment . ''"
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909c755e4b0e565bf442f2d", 
+            "title": "midlands today", 
+            "text": [
+                "former railway workers have been the guests of honour at the severn valley railway today .", 
+                "they were there to lay the first bricks of a major new development project in bridgnorth .", 
+                "you can find out more on bbc midlands today at 13:30 on bbc one ."
+            ], 
+            "author": [
+                "Nicola Beckford", 
+                "Reporter, BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909bb6fe4b06cce07809684", 
+            "title": "your photos : clear blue skies around shropshire", 
+            "text": [
+                "it looks beautiful out today .", 
+                "these photos were taken by bbc weather watchers near norton ( top ) and church stretton ( bottom ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909b501e4b06cce07809661", 
+            "title": "first bricks laid at new railway building", 
+            "text": [
+                "a number of former railway staff have been invited to lay the first bricks at the extension to the severn valley railway 's bridgnorth station .", 
+                "they include a number of people who used to work on the line when it was operated by british rail .", 
+                "the steam railway is building a new refreshment room at the station and refurbishing the pub , waiting room and booking hall .", 
+                "it has launched an appeal to raise \u00a3 2.5m through the sale of shares ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909970ae4b07084e41635e6", 
+            "title": "general election 2017 : kuldip sahota to stand for labour in telford", 
+            "text": [
+                "former telford & wrekin council leader kuldip sahota is to stand for labour in telford at the general election ."
+            ], 
+            "author": [
+                "Newport Advertiser"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59099364e4b07084e41635d6", 
+            "title": "'concrete jungle ' warning over 220 homes plan for telford estate", 
+            "text": [
+                "building more than 200 homes could be the next step in turning part of telford into a concrete jungle '' , residents have warned ."
+            ], 
+            "author": [
+                "Telford Journal"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59099b84e4b06cce078095e0", 
+            "title": "football : lee hughes leaves afc telford united", 
+            "text": [
+                "afc telford united say lee hughes will not be signing a new contract to stay at the club .", 
+                "the former west bromwich albion striker scored four goals in 11 appearances for telford .", 
+                "hughes says he 's been offered the chance to become a manager at another club for next season ."
+            ], 
+            "author": [
+                "Nick Southall", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909a8a5e4b06cce07809628", 
+            "title": "woman in hospital after a5 crash", 
+            "text": [
+                "a woman has been taken to a major trauma centre in stoke after being thrown from her car when it crashed on the a5 this morning .", 
+                "the 57-year-old was suffering cuts to her arm , chest , back and abdomen pain and a cut to the back of her head .", 
+                "her car ended up resting in a hedge and when ambulance crews arrived she was being treated by an off-duty paramedic and an off-duty police officer ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59099c57e4b0e565bf442e7b", 
+            "title": "football : market drayton town lift shropshire premier cup", 
+            "text": [
+                "market drayton town have won their second successive shropshire premier cup , beating shawbury united 1-0 at the greenhous meadow", 
+                "andre james got the goal , midway through the second half ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909a116e4b07084e416361f", 
+            "title": "travel : a5 open again after earlier accident", 
+            "text": [
+                "the a5 between wellington and shrewsbury is open again after an accident on the eastbound carriageway earlier .", 
+                "a woman has been taken to hospital after being thrown from the vehicle ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590989ffe4b06cce07809590", 
+            "title": "wife of military policeman accuses mod of letting down personnel with ptsd", 
+            "text": [
+                "a military wife at raf shawbury is accusing the ministry of defence of letting down personnel who have post traumatic stress disorder or ptsd .", 
+                "nikita dallison says her husband luke , a military policeman , became mentally ill after a tour of afghanistan .", 
+                "mrs dallison has called on the ministry of defence to make changes to provide more help for people with the condition , in a video posted on social media .", 
+                "it 's been viewed more than a million times .", 
+                "a recent statement from the mod said the mental health of their people was of utmost importance , they provide a range of support , and encourage those who need help to get the assistance they deserve .", 
+                "he was passed round nine different clinicians in the space of 12 months alone .", 
+                "i 've had so many messages from hundreds of people who 're going through the same thing , who 've been through a similar thing .", 
+                "and some of them , unfortunately have actually lost their loved ones now because their loved ones could not cope with what they 'd been through and the lack of help given to them . ''"
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59098c2be4b0e565bf442e33", 
+            "title": "\u00a3 7.5 million revamp plan for shropshire council headquarters", 
+            "text": [
+                "shropshire council 's shirehall headquarters will undergo a \u00a3 7.5 million refurbishment to bring the building to modern standards '' ."
+            ], 
+            "author": [
+                "Shrewsbury Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909908ce4b0e565bf442e4c", 
+            "title": "politicians woo voters ahead of 4 may poll", 
+            "text": [
+                "political parties are taking to the streets in the last day of campaigning ahead of thursday 's local elections .", 
+                "a total of 4,851 council seats are up for grabs across england , wales and scotland on 4 may .", 
+                "they include all seats on shropshire council , although no council elections are taking place in telford .", 
+                "the poll will give voters a chance to deliver verdicts on the major parties before the general election , which is being held on 8 june ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590985a0e4b07084e4163596", 
+            "title": "ex council leader selected to fight telford constituency for labour", 
+            "text": [
+                "the former leader of telford and wrekin council kuldip sahota has been chosen as labour 's candidate for the telford constituency in next month 's general election .", 
+                "he 'll be fighting the conservative candidate lucy allan , among others , who had a majority of 730 at the last election .", 
+                "all candidates have until 11 may to submit their applications to stand .", 
+                "a full list of candidates will appear on the bbc 's constituency page ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590987ade4b06cce07809585", 
+            "title": "still long delays on a5 after accident", 
+            "text": [
+                "expect severe delays if you 're travelling eastbound on the a5 this morning .", 
+                "the road has been closed following an accident that resulted in a car ending up upright at the side of the road .", 
+                "traffic is very slow between the preston island and wellington and surrounding roads are also heavily congested .", 
+                "diversions are allowing traffic to rejoin the m54 at junction 7 eastbound ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590984f0e4b0e565bf442e13", 
+            "title": "watch : latest weather forecast", 
+            "text": [
+                "it 's shaping up to be another nice morning - find out what the weather has in store ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5909821ce4b06cce07809560", 
+            "title": "good morning from bbc shropshire", 
+            "text": [
+                "i 'm here with all your news , sport , travel and weather updates this morning .", 
+                "do get in touch if you have a story or you 'd like to share .", 
+                "you can email , tweet of get in touch via our facebook page ."
+            ], 
+            "author": [
+                "Tracey Higgins", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10563427", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908b15ce4b0e565bf442c2c", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "we 'll be back with our usual mix of news , sport , travel and weather from 08:00 tomorrow , but keep an eye out here for more updates this evening and into the morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908ae77e4b0e565bf442c18", 
+            "title": "football : afc telford united 'disappointed ' with share sales", 
+            "text": [
+                "afc telford united say they are disappointed with the take-up for shares , after putting them up for sale for a second time .", 
+                "the club says 3,430 of the \u00a3 100 shares were on offer , and it had hoped to attract big investors after scrapping a limit on the number of shares which could be owned by any one person or group .", 
+                "it has not yet revealed how many shares it was able to sell , or whether the shares would be put up for sale for a third time , but all applications for 50 shares or less will be approved ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59089969e4b06cce0780932a", 
+            "title": "afc telford documents release is just 'bunkum ' , says former councillor", 
+            "text": [
+                "a former councillor who requested copies of correspondence between telford & wrekin council and afc telford has described the recent publication of documents as bunkum '' ."
+            ], 
+            "author": [
+                "Telford Journal"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908a880e4b0e565bf442bfe", 
+            "title": "weather : sunshine and light cloud to remain with us", 
+            "text": [
+                "this mix of sunshine and light cloud is set to remain with us into tomorrow and temperatures are forecast to reach 14c ( 58f ) in places ."
+            ], 
+            "author": [
+                "Rebecca Wood", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59088e01e4b07084e4163305", 
+            "title": "watch : electric fences to protect shropshire curlew nests", 
+            "text": [
+                "electric fences are being used in shropshire to protect curlew nests from predators .", 
+                "their numbers have seen a sharp decline in the past decade and conservationists believe this is partly because they are being eaten ."
+            ], 
+            "author": [
+                "Bob Hockenhull", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59089da2e4b06cce0780933c", 
+            "title": "man pleads guilty to robbery charges", 
+            "text": [
+                "a man accused of a series of robberies across shropshire , including a raid on a bank in shifnal , has pleaded guilty to a number of the charges in court .", 
+                "mark gillon , of no fixed address , appeared at shrewsbury crown court today and admitted robbing the one stop shop in market drayton and attempting to rob the barclays in shifnal , but denied a charge of robbing the lloyds bank in madeley .", 
+                "the 33-year-old also admitted the theft of a car and number plates and two charges of possessing an imitation firearm .", 
+                "he denied a third charge of possessing an imitation firearm .", 
+                "the not guilty pleas have been accepted by the crown prosecution service and he is due to be sentenced on friday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908966de4b06cce0780931b", 
+            "title": "football : telford in the dark over mystery consortium", 
+            "text": [
+                "afc telford united say they are still in the dark about the interest of a mystery consortium which claimed it was interested in buying a large nunber of shares in the club .", 
+                "it explained that on 3 april it was contacted by a person claiming to represent the group , who would n't reveal the names of the people involved .", 
+                "the club said it agreed to this person 's request for a non-disclosure agreement , but that was the end of the contact and that at this stage it has no evidence a consortium even exists ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59089054e4b06cce078092ff", 
+            "title": "chemical incident in ellesmere is over", 
+            "text": [
+                "the chemical incident at the fullwood factory in ellesmere is now over , shropshire fire and rescue service has said .", 
+                "earlier , it had to be evacuated after chemicals escaped from containers stored there .", 
+                "the fire service said a vapour had been seen rising from the containers and that it had to make them secure and check around 75 others before allowing people back in ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59086f8ee4b0e565bf442afd", 
+            "title": "marshals vow after oswestry half marathon fears", 
+            "text": [
+                "organisers of the inaugural oswestry half marathon say they will have more marshals at next year 's event to avoid problems with drivers ignoring road closure signs and driving through the race route ."
+            ], 
+            "author": [
+                "Oswestry and Borders Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59086efce4b07084e416327a", 
+            "title": "football : market drayton face shawbury united in cup final", 
+            "text": [
+                "market drayton town play shawbury united in the final of the shropshire premier cup at the greenhous meadow tonight .", 
+                "market drayton are the holders and favourites for the match , which kicks off at 19:00 .", 
+                "they play in a higher division than their opponents , who escaped relegation from the midland league on the last day of the season ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59086919e4b07084e4163252", 
+            "title": "football : shrewsbury defender to miss start of next season with ankle injury", 
+            "text": [
+                "x-rays of joe riley 's broken ankle show severe ligament damage which means he will probably miss the start of next season .", 
+                "he broke it in the final game of the season against oxford on sunday and will have an operation this week .", 
+                "the full back had only recently recovered from a wrist injury and was playing in a special cast ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59087370e4b0e565bf442b0b", 
+            "title": "warning over hospital treatment cut", 
+            "text": [
+                "a man has been warned by doctors that if he does n't receive the correct hospital treatment , his life will be cut short by years ."
+            ], 
+            "author": [
+                "Oswestry & Border Counties Advertizer"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59086bbbe4b06cce0780925b", 
+            "title": "confusion over union suspensions", 
+            "text": [
+                "members of the unison branch at shropshire council are asking why three senior members have been suspended by the union .", 
+                "branch secretary alan james , vice-chair karen scardifeld and treasurer janice louch say they were told by union officials six weeks ago that they were being suspended , but they 've had no contact since and they deny any wrongdoing .", 
+                "unison says an `` ongoing investigation '' is taking place , but that it was n't appropriate to comment while it is taking place .", 
+                "at an agm last week members demanded answers , but union steward tracey richards said none had been forthcoming ."
+            ], 
+            "author": [
+                "Joanne Gallacher", 
+                "Political reporter, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59087252e4b07084e416328c", 
+            "title": "dairy factory returning to normal after chemical leak", 
+            "text": [
+                "fire crews are in the process of handing back control of the fullwood factory in ellesmere after an earlier chemical spillage .", 
+                "the business , which makes milking equipment for the dairy industry , has been evacuated as a precaution , but incident commander adam matthews said the chemical was n't as dangerous as first thought .", 
+                "around 25 firefighters were involved in the clean-up after cleaning chemicals were spotted leaking from drums sitting on two pallets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59087b6ce4b07084e41632b3", 
+            "title": "new-look home for bbc midlands today", 
+            "text": [
+                "midlands today has launched its new set .", 
+                "mary rhodes and nick owen will be presenting the west midlands regional programme in a revamped birmingham studio which has a new sofa and six new screens .", 
+                "the programme has been presented from a position overlooking birmingham 's canals for the last fortnight while the preparation work was carried out .", 
+                "there is also a new weather presenting position for shefali oza and rebecca wood ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_39782722", 
+            "title": "motorcyclist killed in crash with car", 
+            "text": [
+                "motorcyclist killed in crash with car"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_590875cee4b07084e41632a0", 
+            "title": "football : consortium withdraws from telford bid", 
+            "text": [
+                "a consortium which was believed to be on the brink of taking a controlling interest in afc telford united has withdrawn its offer , for the time being .", 
+                "the club had been making a second attempt to sell shares after a low take-up last year and the window for purchasing them has now closed .", 
+                "the consortium is believed to have wanted a 51 % share in the club ."
+            ], 
+            "author": [
+                "Nick Southall", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_39732344", 
+            "title": "three things you wanted to know", 
+            "text": [
+                "three things you wanted to know"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908674fe4b07084e416324a", 
+            "title": "spring clean for telford 's eastern primary route", 
+            "text": [
+                "over the next 10 days telford and wrekin council will be carrying out a spring clean along the a442 eastern primary in telford .", 
+                "it will mean lane closures outside peak hours , at 11 locations along the road ."
+            ], 
+            "author": [
+                "Ian Perry", 
+                "BBC Radio Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59085d10e4b05a37ea769144", 
+            "title": "warning of 'disabling ' effect of cutting blade-funding", 
+            "text": [
+                "the prosthetist who has been fitting running blades to young amputees in the midlands says if funding for them is cut , the effect will be the same as `` disabling '' the children .", 
+                "the government set aside \u00a3 1.5m for the blades following the rio paralym but they need replacing every two years and there is no guarantee the money will continue beyond march 2018 .", 
+                "andy sharpe from the birmingham rehabilitation centre is collecting evidence about their effectiveness , by timing the children running with the blades and with their normal prosthetic legs , in the hope of proving the funding should continue .", 
+                "macey hand , from bridgnorth , has been fitted with a running blade .", 
+                "if ( the funding ) stops then instead of being an enablement , we are going to start disabling these kiddies because if you 've got to take them off that 's going to be an absolutely terrible thing to do . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908543de4b0c4062e8ca163", 
+            "title": "oswestry pub to reopen after nearly 50 years", 
+            "text": [
+                "an oswestry pub which closed nearly 50 years ago is being restored and could reopen in time for christmas .", 
+                "here you can see the the white horse as it used to be ( below , left ) and how it looks today ( below , right ) .", 
+                "the building was once a hotel in the 1800s and has been bought by local businessman paul fitton , who owns a restaurant in llansantffraid ."
+            ], 
+            "author": [
+                "James Bond", 
+                "Sports Producer, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5908585be4b0c4062e8ca174", 
+            "title": "more delays begin at shrewsbury roundabout", 
+            "text": [
+                "drivers are set for more delays at one of shrewsbury 's busiest roundabouts as the next stage of the junction 's transformation begins ."
+            ], 
+            "author": [
+                "Shrewsbury Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59085de7e4b05a37ea76914a", 
+            "title": "breakingfactory evacuated after chemical spill", 
+            "text": [
+                "the fullwood factory on grange road in ellesmere has been evacuated after a chemical spill .", 
+                "a number of drums containing a cleaning chemical have split but so far the leak has been confined to the factory itself , the fire service says .", 
+                "nearby homes have not been evacuated , but people in the area are being advised to keep their windows closed and avoid the area ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59084fe7e4b053c7bc78e3ec", 
+            "title": "motorcyclist dies in a5 collision", 
+            "text": [
+                "a motorcyclist has died following a collision with a car on the a5 in east shropshire .", 
+                "it happened on the stretch between weston-under-lizard and crackleybank , not far from the pickmere island , shortly after 17:20 on monday .", 
+                "the west midlands ambulance service said the man was in cardiac arrest when they arrived and that he died at the scene .", 
+                "the driver of the car was unhurt ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59082dfae4b053c7bc78e32f", 
+            "title": "who will stay and who will go at shrewsbury ?", 
+            "text": [
+                "shrewsbury town manager paul hurst is expected to release details in the next few days of the players he 'll be keeping at the club for next season .", 
+                "shrewsbury rounded off the league one season with a 2-0 defeat at oxford to finish 18th on sunday .", 
+                "paul hurst says the loan players - signed in january - are due to return to their parent clubs and that he 'll be looking at the contracts of the rest of the squad before announcing his retained list later this week ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10561431", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59083da6e4b0c4062e8ca0ff", 
+            "title": "football : no triple-treble for tns", 
+            "text": [
+                "bala town came from behind to shock holders the new saints and win the welsh cup for the first time .", 
+                "saints were on course for a third successive domestic treble after greg draper 's close-range goal in the second half at the bangor university stadium .", 
+                "but substitute jordan evans brought bala level before kieran smith 's late winner secured a historic victory .", 
+                "colin caton 's side , playing their first welsh cup final , had not beaten six times winners tns in 29 previous games ."
+            ], 
+            "author": [
+                "BBC Sport Wales"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59084139e4b0c4062e8ca114", 
+            "title": "cricket : second loss for shropshire in trophy campaign", 
+            "text": [
+                "shropshire 's minor counties trophy campaign was left hanging by a thread as they lost their second match to neighbours cheshire by 46 runs at oxton .", 
+                "chasing a very reasonable target of 215 , the batting faltered as they were all out for 168 .", 
+                "only david wainwright ( 49 ) and omar ali ( 44 ) putt up any real resistance , adding 78 for the 7th wicket .", 
+                "shropshire 's next match is against wales at oswestry on 14 may and they will need to win to keep their slender hopes of progress alive ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59083c2ce4b0c4062e8ca0f7", 
+            "title": "weather watchers : some mist and some sunshine", 
+            "text": [
+                "a real mix depending on where you are this morning .", 
+                "thanks to our weather watchers in shelve and near chirk for these photos ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59083461e4b053c7bc78e355", 
+            "title": "two treated after fire in telford", 
+            "text": [
+                "firefighters spent an hour tackling a fire at a property on westbourne on the woodside estate in telford during the night .", 
+                "two people were treated for the effects of breathing in smoke and an inquiry into the cause has started ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59082e74e4b053c7bc78e334", 
+            "title": "watch : young amputee gets running blade", 
+            "text": [
+                "macey , a seven-year-old who lives near bridgnorth , is one of the first children in england to receive a running blade after the government announced funding of \u00a3 1.5m .", 
+                "but the funding is n't guaranteed past march 2018 , and the blades need replacing every 2 years .", 
+                "her parents are hoping the funding will continue ."
+            ], 
+            "author": [
+                "Elaine Muir", 
+                "Journalist, BBC Shropshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59083105e4b0c4062e8ca0bf", 
+            "title": "weather : mostly dry and sunny", 
+            "text": [
+                "some mist and a few foggy patches first thing but a generally dry day with some sunshine .", 
+                "highs of 16c ( 61f ) .", 
+                "find the latest forecast here ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59082a85e4b0c4062e8ca097", 
+            "title": "good morning from bbc shropshire", 
+            "text": [
+                "i 'm in the newsroom taking a look at the latest news , sport , travel and weather .", 
+                "if you have a story or to share you can email us , or get in touch via facebook or twitter ."
+            ], 
+            "author": [
+                "Carlie Swain", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:01"
+        }
+    ], 
+    "genre": "uk-england-shropshire", 
+    "quality": "high"
+}

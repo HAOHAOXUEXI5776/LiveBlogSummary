@@ -1,0 +1,1189 @@
+{
+    "blog_id": "eefb0582155f0a73fd9911f04fa6a055ed08f933", 
+    "title": "Eurozone manufacturing surges and UK factories keep growing - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live", 
+    "summary": [
+        "european markets end higher .", 
+        "us crude stocks fall by more than expected .", 
+        "us manufacturing edges higher - ism .", 
+        "wall street makes mixed start .", 
+        "world bank ceo : buckle up for the next crisis .", 
+        "us private sector job creation smashes forecasts .", 
+        "the agenda : factory data in focus ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-59303c20e4b00493c82783f9", 
+            "title": "european markets end higher", 
+            "text": [
+                "a positive series of manufacturing figures have given european markets a bright start to the new month , while us shares have been lifted by better than expected private sector jobs figures ahead of friday 's non-farm payroll numbers .", 
+                "joshua mahony , market analyst at ig , said : today 's adp payrolls number has really grabbed investor attention , with the 253,000 reading providing yet more clues that we will see the fed raise rates once more this month .", 
+                "tomorrow 's payrolls figure is undoubtedly the big release of the week , as this will largely provide confirmation of whether the fed will actually act this month .", 
+                "however , with markets already pricing in a 100 % chance of a rate rise , there is reason to believe we could see a lower degree of volatility than usual .", 
+                "the final scores in europe showed : the ftse 100 finished 23.82 points or 0.32 % higher at 7543.77 germany 's dax rose 0.4 % to 12,664.92 france 's cac closed 0.66 % higher at 5318.67 italy 's ftse mib climbed 0.99 % to 20,936.07 spain 's ibex ended 0.01 % better at 10,881.0 in greece , the athens market added 0.85 % to 781.85 on wall street , the dow jones industrial average is currently 54 points or 0.27 % higher .", 
+                "on that note , it 's time to close .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                16, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5930392de4b0bdd87e2f2344", 
+            "title": "", 
+            "text": [
+                "after a nervous opening , wall street has the wind in its sails .", 
+                "the dow jones industrial average is currently up 46 points or 0.22 % while the s & p 500 and nasdaq composite have both hit new highs ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                16, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5930313be4b00493c82783b5", 
+            "title": "", 
+            "text": [
+                "joshua mahony , market analyst at ig , said : crude inventories are tanking if the latest data from the eia is anything to go by , with today 's reading providing the biggest weekly draw-down in 2017 .", 
+                "the recent opec decision to extend production cuts was treated with disdain , yet there is reason to believe that their actions are gradually managing to reduce global crude inventories despite rising output in the likes of the us ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                15, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59302e08e4b0bdd87e2f230a", 
+            "title": "", 
+            "text": [
+                "john kemp ( @ jkempenergy ) u.s. commercial crude stocks are drawing down much earlier and harder than normal for time of year"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                15, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59302c75e4b0be3ed1921d31", 
+            "title": "us crude stocks fall by more than expected", 
+            "text": [
+                "more signs of growing demand for oil , with us crude stocks falling last week by the biggest amount so far this year .", 
+                "crude supplies fell by 6.43m barrels to 509.91m , compared to expectations of a 2.5m decline .", 
+                "gasoline stocks were also down by more than analysts had been forecasting , according to the energy information administration .", 
+                "the news has pushed crude prices higher , with west texas intermediate up 0.56 % to $ 48.59 a barrel and brent crude 0.37 % better at $ 50.95 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                15, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59302ab9e4b00493c8278397", 
+            "title": "", 
+            "text": [
+                "sterling is now moving higher against both the dollar and the euro , shrugging off worries about the latest election opinion polls and buoyed by the decent uk manufacturing data .", 
+                "it is now up 0.12 % against the dollar at $ 1.2905 and 0.29 % higher against the euro at \u20ac1.1490 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                14, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-593026fae4b0be3ed1921d0f", 
+            "title": "", 
+            "text": [
+                "more on the currency markets .", 
+                "michael hewson , chief market analyst at cmc markets uk , said : the us dollar got a significant uplift after a bumper adp payrolls report for may which showed that 253k new jobs were added , with most of them in the services sector .", 
+                "as a bellwether for tomorrow 's official payrolls report it could well rubber stamp the prospect of a move in june , but also raise expectations of a further hike as soon as september .", 
+                "the main puzzle for a lot of people given the number of jobs being added is the weak nature of wage growth which still remains lacklustre .", 
+                "despite the dollar strength , sterling has not been hit too hard .", 
+                "hewson again : the pound has managed to hold up fairly well despite another poll showing a narrow lead for the conservative party , as the focus returns to the uk economy .", 
+                "another decent manufacturing report for the month of may saw decent gains in new orders as well as employment .", 
+                "rising prices remained a concern but they also showed further signs of easing back .", 
+                "the latest election poll shows an 8 point lead for the conservatives over labour , down from 15 points on may 23 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                14, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59302157e4b0be3ed1921ce6", 
+            "title": "", 
+            "text": [
+                "the ism survey adds more impetus for the us federal reserve to raise interest rates this months , says ing bank economist james knightley : the key manufacturing survey suggests strong order books will keep output robust with employment up nicely .", 
+                "the us ism manufacturing index for may has barely changed from april 's reading - rising to 54.9 from 54.8 .", 
+                "the consensus had expected it to hold steady .", 
+                "production slipped marginally to stand at 57.1 versus 58.6 previously , but new orders rose to 59.5 from 57.5 so it looks as though the pipeline for output remains very strong given both readings are well above the break-even 50 level .", 
+                "the employment component moved higher to 53.5 from 52.0 , which offers encouragement for the jobs story as well .", 
+                "as such , the manufacturing sector is clearly a source of strength right now and the report boosts the case for a fed rate hike at the june 14 fomc meeting ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                14, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59301fede4b0be3ed1921cdb", 
+            "title": "", 
+            "text": [
+                "meanwhile us construction spending recorded its biggest drop in a year in april .", 
+                "with slowing investment in both public and private projects , spending fell by 1.4 % compared to expectations of a 0.5 % rise .", 
+                "but the march figure was revised up from an initial 0.2 % decline to a rise of 1.1 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                14, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59301e1ae4b0bdd87e2f22b8", 
+            "title": "us manufacturing edges higher - ism", 
+            "text": [
+                "in fact the second manufacturing survey has confounded expectations by showing a slight rise rather than a slight dip .", 
+                "the ism manufacturing activity index has increased from 54.8 in april to 54.9 last month , better than the 54.5 forecast by analysts .", 
+                "timothy fiore , ism chair , said : comments from the panel generally reflect stable to growing business conditions , with new orders , employment and inventories of raw materials all growing in may compared to april .", 
+                "the slowing of pricing pressure , especially in basic commodities , should have a positive impact on margins and buying policies as this moderation moves up the value chain .", 
+                "breakdown of the manufacturing survey and here are some comments from the survey 's respondents : sales have up compared to the last two months .", 
+                "customer demand has increased . ''", 
+                "( plastics & rubber products ) economy is still strong , but [ the ] political climate can change things very quickly . ''", 
+                "( transportation equipment ) global price increases for commodities . ''", 
+                "( electrical equipment , appliances & components ) business ( sales/production ) is steady .", 
+                "pricing pressures on raw materials .", 
+                "skilled labor in short supply . ''", 
+                "( furniture & related products ) agricultural demand very strong . ''", 
+                "( chemical products ) our business is definitely paying attention to developments with the canadian lumber tariff announcement .", 
+                "the final outcome could change our fiber pricing . ''", 
+                "( paper products ) oem longer lead parts possibly longer lead time due to more orders . ''", 
+                "( nonmetallic mineral products ) business conditions are steady , and with competition increasing , it 's making negotiations even more intense to reduce costs . ''", 
+                "( machinery ) business is booming , and getting direct employees is increasingly difficult . ''", 
+                "( fabricated metal products ) difficult to find qualified labor for factory positions . ''", 
+                "( food , beverage & tobacco products )"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                14, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59301cbfe4b0be3ed1921cc0", 
+            "title": "", 
+            "text": [
+                "commenting on the us pmi , chris williamson , chief business economist at ihs markit said : manufacturing growth momentum continued to ebb in may , down to its weakest since just before the presidential election .", 
+                "manufacturing output , order books and employment all grew at only modest rates as sluggish sales prompted firms to scale back hiring .", 
+                "exports sales remained especially lacklustre , hampered in part by the relatively strong dollar .", 
+                "the survey also brought signs of companies becoming more cautious about holding inventory .", 
+                "factories ' raw material prices meanwhile rose at a sharply reduced rate , which should at least help take pressure off profit margins and also feed through to weaker pressure on consumer price inflation .", 
+                "us manufacturing pmi markit the rival ism survey is due shortly , and is also expected to show a slight dip from the april figure ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59301b74e4b00493c8278350", 
+            "title": "", 
+            "text": [
+                "the first of the two us manufacturing surveys has come in better than the initial reading but has shown a very slight dip from the previous month .", 
+                "the markit manufacturing purchasing managers index has slipped from 52.8 in april to 52.7 last month , compared to a first estimate of 52.5 .", 
+                "while this is still in expansion territory it is the lowest reading since september .", 
+                "sigma squawk ( @ sigmasquawk ) us markit manufacturing revised to 52.7 in may from 52.5 flash reading , down sligghtly from 52.8 in april ..."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-593017f5e4b0bdd87e2f2292", 
+            "title": "wall street makes mixed start", 
+            "text": [
+                "us markets have made a tentative start to the new month , despite the strong private sector jobs data and ahead of two rival manufacturing surveys for may .", 
+                "the dow jones industrial average is currently down around 9 points while the s & p 500 and nasdaq composite have edged marginally higher at the open ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5930158be4b0be3ed1921c93", 
+            "title": "", 
+            "text": [
+                "the dollar is rallying after the stronger than expected private sector jobs figures , ahead of the non-farm payrolls due on friday .", 
+                "the us currency is up 0.5 % against the yen and 0.2 % better against the euro .", 
+                "and the pound is currently 0.13 % lower at $ 1.2874 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-593011b0e4b0bdd87e2f226f", 
+            "title": "world bank ceo : buckle up for the next crisis", 
+            "text": [
+                "world bank chief executive officer kristalina georgieva during a panel session titled macroeconomic policy : from stabilization to growth '' today .", 
+                "sharifulin/tass we 've seen plenty of encouraging economic news this morning , with factory output rising in the uk and also in the eurozone , strong job creation in america , and an upgrade to italy 's gdp .", 
+                "but this is no time for complacency .", 
+                "the chief executive of the world bank has just warned governments to 'buckle up ' , ready for the next crisis .", 
+                "kristalina georgieva warned an audience at the st petersburg international economic forum that the rise in financial , economic and terror-related emergencies is becoming the new normal '' .", 
+                "she explained : i 'm asking myself what has changed in this decade and my conclusion is what has changed probably can be summed up with 'buckle up ' .", 
+                "we are now at the point when shocks are more frequent .", 
+                "unexpected crises are maybe not more dramatic than they used to be before , but they are very impolite , they do n't wait their turn . ''", 
+                "in the past , georgieva argued , governments would be faced with one massive '' crisis at a time .", 
+                "now , they come in battalions .", 
+                "if you just look at the last years , we had financial crisis , economic crisis , eurozone crisis , terrorism , geopolitical crises , and neither institutions or businesses are well tuned to deal with more than one shock at a time .", 
+                "we have to really figure out - if this is the new normal , and i happen to think this is the new normal - how we can have more resilient , more agile and more adaptable government policies , ( and ) private sector behaviour so that ( work ) security can be put on a sound foundation . ''", 
+                "thanks to the press association for the quotes ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59301023e4b0be3ed1921c78", 
+            "title": "", 
+            "text": [
+                "more american employment data just landed .", 
+                "and it shows that the number of us citizens filing new claims for unemployment benefit has risen to 248,000 , from 235,000 a week ago .", 
+                "that 's more than expected , but remains low by historical standards ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                13, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59300724e4b00493c82782dc", 
+            "title": "us private sector job creation smashes forecasts", 
+            "text": [
+                "america 's private sector created 253,000 new jobs in may , substantially more than expected .", 
+                "economists had predicted that the monthly adp payroll would rise by 185,000 , and these blow-out figure suggest tomorrow 's non-farm payroll could also be impressive .", 
+                "more than 200,000 jobs were created in the service sector , including 88,000 in the 'professional and business ' sector .", 
+                "there were also small gains in manufacturing and mining , and 37,000 new hires in construction .", 
+                "sigma squawk ( @ sigmasquawk ) sector breakdown of today 's adp report ... # adp # jobs brian wesbury , chief economist at first trust portfolios , says the report shows that the us economy is motoring along quite nicely .", 
+                "brian wesbury ( @ wesbury ) adp employment up 253,000 .", 
+                "consensus was in the 170,000s .", 
+                "economy keeps plowing along .", 
+                "but economists are also looking for signs that wage growth is up .", 
+                "jamie mcgeever ( @ reutersjamie ) us adp private sector employment surges to +253k in may , way above expectations .", 
+                "points to strong payrolls ?", 
+                "as ever , wage growth will be key"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                12, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592ff91ee4b00493c8278293", 
+            "title": "willie walsh : we know what caused ba disruption", 
+            "text": [
+                "international airlines group ceo willie walsh has broken his silence over the disruption that grounded over a thousand british airways flights last weekend .", 
+                "speaking to the bbc , walsh said he was pleased that ba has recovered from the significant disruption '' that it faced on saturday .", 
+                "and he insist that the it meltdown was caused by a power outage , rather than a problem with ba 's technology , saying : we clearly apologise to any customers who were disrupted .", 
+                "it was not an it failure .", 
+                "it was a problem caused by the failure of electrical power to our it systems .", 
+                "we understand what happened , we 're still investigating why it happened , and that investigation will take some time .", 
+                "it 's worth noting that it experts have told us that a power surge could not cause such a catastrophic outage .", 
+                "walsh added that the team at ba did everything they could '' to recover the situation .", 
+                "clearly we will do everything we can to make up for the disruption that passengers suffered , he concludes .", 
+                "richard westcott ( @ bbcwestcott ) breaking we have first broadcast interview with willie walsh .", 
+                "says they know what happened .", 
+                "investigation still ongoing though richard westcott ( @ bbcwestcott ) and he defended ba boss alex cruz says could n't have handled it better richard westcott ( @ bbcwestcott ) repeated power problem not it problem `` we know the cause '' investigating why it happened"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                11, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fefbde4b0bdd87e2f219c", 
+            "title": "", 
+            "text": [
+                "we 've got bad news for wine lovers out there .", 
+                "the average price of a bottle in the uk has risen over \u00a3 5.50 for the first time ever .", 
+                "that'a according to the wine and spirit trade association , which blames the fall in sterling following last june 's eu referendum .", 
+                "miles beale , wsta 's ceo , says : last year the wsta predicted that brexit and the fall in the value of the pound , compounded by rising inflation , would force the uk wine industry to up their prices .", 
+                "sadly this is now a reality as an average priced bottle of wine in the uk is at an all-time high .", 
+                "unfortunately , for both british businesses and consumers , we are clear that this is not a one off adjustment , but rather that wine prices will continue to rise .", 
+                "what is even more concerning is that this does not take into account the inflationary duty rise - at a painful 3.9 % - on alcohol inflicted by the chancellor in the march budget .", 
+                "the guardian ( @ guardian ) chateau brexit ?", 
+                "average price of bottle of wine reaches record high"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                11, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fe5f8e4b00493c827822a", 
+            "title": "", 
+            "text": [
+                "billionaire-turned-philanthropist george soros has weighed in on brexit this morning , saying the european union needs to be radically re-invented .", 
+                "soros also argued that britain 's departure from the eu will take much longer than the two-year window set under the lisbon treaty .", 
+                "he says : negotiating the separation with britain will divert the eu 's attention from its own existential crisis , and the talks are bound to last longer than the two years allotted to them .", 
+                "five years seems more likely . ''", 
+                "our brussels correspondent jennifer rankin has more details : jennifer rankin ( @ jennifermerode ) the european union is now in an existential crisis , says @ twitterid # eubef2017 jennifer rankin ( @ jennifermerode ) soros : the eu is now surrounded by hostile powers , putin 's russia , erdogan 's turkey and the america trump would like to create but ca n't jennifer rankin ( @ jennifermerode ) brexit divorce will take about five yrs , says @ twitterid , who urges eu not to punish britain .", 
+                "jennifer rankin ( @ jennifermerode ) new jargon alert : george soros says 'instead of a multi-speed europe , we should aim for a multi-track europe ' .", 
+                "jennifer rankin ( @ jennifermerode ) europe 's biggest threat is the danger of a banking and migration crisis in italy , says @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                10, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fdb75e4b00493c82781ed", 
+            "title": "", 
+            "text": [
+                "there 's unrest at the bank of england this morning .", 
+                "workers at britain 's central bank are to be balloted on strike action , after being offered a pay rise of just 1 % .", 
+                "unite regional officer mercedes sanchez has blasted the boe , calling it arrogant and out of touch : the bank 's disgraceful snub of low paid staff stinks of arrogance and represents an organisation thoroughly out of touch with the reality of the pressure staff face meeting their costs of living .", 
+                "it is a source of shame that an iconic symbol of financial services in the uk is choosing to ride roughshod over the concerns of its dedicated and hardworking staff and impose this derisory pay deal .", 
+                "andy bruce ( @ brucereuters ) exclusive-bank of england staff to be balloted by union from thursday for strike action over pay - sources graham hiscott ( @ grahamhiscott ) the @ twitterid branded `` arrogant and out of touch '' by @ twitterid after 1 % pay rise for staff .", 
+                "possible strike on the cards .", 
+                "in effect , staff are facing a real terms pay cut .", 
+                "a 1 % rise in wages wo n't keep pace with inflation , which has just jut a four-year high of 2.7 % .", 
+                "that 's ahead of the boe 's own target of 2 % .", 
+                "unite represent security , catering , legal , and human resource staff at the bank .", 
+                "update : apparently unite represent 2 % of all boe staff .", 
+                "sky news has more details ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                9, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fd77ae4b0be3ed1921b3b", 
+            "title": "uk factories keep growing : what the experts say", 
+            "text": [
+                "economists have welcomed the news that britain 's manufacturing pmi dipped to 56.7 in may , from 57 in april , showing solid growth .", 
+                "duncan brock of the chartered institute of procurement & supply says manufacturers are shrugging off political uncertainty : while not quite hitting the heights of april 's rebound in activity , the manufacturing sector did n't disappoint with a sustained rise in purchasing activity , output and new orders , optimism at a 20- month high , and storming ahead unfazed by the looming election .", 
+                "the domestic market persisted as the driving force , but the weak pound 's continuing bounty meant levels of export orders also increased , for the thirteenth month , as export markets made use of the competitiveness of uk firms .", 
+                "lee hopley , chief economist at eef , the manufacturers ' organisation , agrees that uk manufacturing is in 'good shape ' : output and orders expansion is being driven by resilient demand coming through uk supply chains and a better looking global economy than uk manufacturers have been used to for some time .", 
+                "mike rigby , head of manufacturing at barclays , says the weak pound is helping exporters , but could bite uk customers in the pocket : exporters have continued to take advantage of a weak sterling , which has kept british exports competitive on a global stage , and at a time when the world economy is showing signs of improvement .", 
+                "however , rising cost pressures are still circling , not only from elevated import costs but also from the growing effect of domestic costs from sources such as energy and staffing which will all contribute to fuelling inflation .", 
+                "although manufacturers have resisted passing on these costs to date , the expectation of price rises is becoming more apparent in the sector . ''", 
+                "chris leyland , analyst at investment firm true potential , says factory bosses face some pressures : today 's figure is above 50 , meaning expansion is still happening , it 's just that the rate has slowed compared to last month .", 
+                "there are a number of reasons for that , mostly stemming from the weaker pound pushing up import cost for factories and therefore prices for the end consumer .", 
+                "it also means consumers have less disposable income , because their food and fuel bills have risen .", 
+                "the price of oil has also increased , leading to higher fuel costs for manufacturers .", 
+                "the key will be exports , because the weaker pound means factories may receive more orders from abroad , which could offset some domestic pain . ''", 
+                "markit 's chris williamson flags up that export growth slowed a little in may : chris williamson ( @ williamsonchris ) uk manufacturing pmi showed export growth weakened in may , but still robust"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                9, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fd2cde4b0bdd87e2f2104", 
+            "title": "uk factory growth remains solid", 
+            "text": [
+                "britain 's manufacturing sector has continued to shrug off brexit , by posting further marked growth in may '' .", 
+                "that 's according to today 's pmi survey from markit , which shows that uk factory growth was close to april 's three-year high .", 
+                "here 's the topline : uk factory bosses reported that they benefitted from domestic demand , and a solid increase '' in new export business .", 
+                "optimism regarding the outlook for production levels in one year 's time rose to a 20-month high .", 
+                "this is also feeding into the jobs market ; factory employment rose for the tenth consecutive month in may , at the fastest rate since june 2014 .", 
+                "in short , it all suggests that the manufacturing sector is holding up well .", 
+                "rob dobson , senior economist at ihs markit , says : the strong pmi numbers suggest the manufacturing sector has gained growth momentum in the second quarter after the sluggish start of the year .", 
+                "the ongoing strength of the domestic market remains the main driver of the upturn .", 
+                "growth of new export business played a lesser role in comparison , with the trend in foreign demand continuing to improve only in fits and starts , despite the assistance of a historically weak sterling exchange rate ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fd1cee4b00493c82781c5", 
+            "title": "business today : sign up for a morning shot of financial news", 
+            "text": [
+                "get set for the working day - we 'll guide you to the all the business stories you need to read in one really useful email .", 
+                "click here to sign up ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fcf38e4b0bdd87e2f20fc", 
+            "title": "italian growth revised up", 
+            "text": [
+                "italy 's growth rate has been revised sharply higher , in another sign that europe 's recovery is strengthening .", 
+                "italian gdp rose by 0.4 % in january-to-march , new figures show .", 
+                "that 's twice as fast as first estimated .", 
+                "frederik ducrozet ( @ fwred ) now italy gdp revised up 20bp , to 0.4 % in q1 .", 
+                "with france and others we 've got about 40 % of the euro area with unusually large revisions .", 
+                "it 's also twice as fast as britain managed in q1 , and confirms that the uk was the weakest-performing g7 member at the start of this year ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fcef9e4b00493c82781b7", 
+            "title": "", 
+            "text": [
+                "here 's more details of the surge in manufacturing employment across the eurozone last month : staffing levels rose at quicker rates in germany ( six- year high ) , italy ( just below october 1999 's series- record ) , spain ( fastest in 19 years ) , ireland ( two-year peak ) and austria ( two-month high ) .", 
+                "slower increases were registered in france and the netherlands , while greece reported jobs growth for the first time in six months ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fcb15e4b0bdd87e2f20f0", 
+            "title": "eurozone factory output surges , and job creation hits 20-year high", 
+            "text": [
+                "newsflash : eurozone factories have just racked up their fastest growth in six years .", 
+                "the euro-area manufacturing pmi has come in at 57.0 , up from 56.7 in april , thanks to faster growth in output and new orders .", 
+                "any reading over 50 shows growth .", 
+                "germany 's manufacturing sector led the way , with growth at a 73-month high .", 
+                "most other eurozone countries also posted growth , but greece brought up the rear with another contraction .", 
+                "and the really good news is that europe 's factories have created more jobs in may than at any time since this survey began , 20 years ago .", 
+                "markit says : the ongoing expansion of the eurozone manufacturing sector gathered further momentum in may .", 
+                "growth in output and new orders accelerated to the best seen for around six years , to underpin the strongest job creation in the 20-year survey history .", 
+                "chris williamson , chief business economist at ihs markit , says the surveys show europe 's recovery is strengthening : the eurozone upturn is developing deeper roots as factories enjoy a spring growth spurt .", 
+                "demand for goods is growing at the steepest rate for six years , encouraging manufacturers to step up production and take on extra staff at a rate not previously seen in the two-decade history of the pmi survey .", 
+                "the fact that the upturn is being accompanied by such strong jobs growth sends a signal that increasing numbers of companies are moving away from a focus on cost cutting towards investing in expansion , underscoring the elevated levels of business optimism seen across the region .", 
+                "the record hiring adds to the sense that the upturn is looking more and more robust as each month goes by ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fc84de4b00493c82781a5", 
+            "title": "", 
+            "text": [
+                "germany 's factories have expanded faster than their french rivals last month : michael hewson ( @ mhewson cmc ) germany may manufacturing pmi rises to 59.5 ; prelim .", 
+                "59.4 michael hewson ( @ mhewson cmc ) france may manufacturing pmi falls to 53.8 ; prelim .", 
+                "54"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                8, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fc3b9e4b0be3ed1921ae1", 
+            "title": "spanish factories see job creation surging", 
+            "text": [
+                "good news from spain !", 
+                "spanish factories are taking on new staff at the fastest rate since 1998 , after posting another month of growth .", 
+                "the spanish manufacturing pmi hit a four-month high of 55.4 in may , up from 54.5 in april .", 
+                "firms reported a rise in output and new orders , encouraging them to take on extra workers to deal with the demand .", 
+                "spain has suffered one of the worst unemployment crisis of any eurozone country since the financial crisis , so this is very encouraging .", 
+                "andrew harker , senior economist at ihs markit , says : may was an excellent month for workers in the spanish manufacturing sector as firms took on staff at the strongest pace for 19 years .", 
+                "moreover , with new work rising healthily again and further signs of capacity coming under pressure , the likelihood is that jobs will continue to be created at a decent clip over the near-term at least .", 
+                "spanish pmi"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fc5b3e4b00493c827819b", 
+            "title": "", 
+            "text": [
+                "the first eurozone manufacturing report of the day was quite a belter .", 
+                "ireland 's factory pmi jumped to 55.9 in may from 55.0 in april , signalling a marked improvement in business conditions '' .", 
+                "that 's the highest level in 22 months .", 
+                "investec , which produces the report , says : respondents linked higher output to rising new orders and improving economic conditions .", 
+                "new business also rose at a faster pace in may amid reports of stronger client demand ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fc617e4b00493c827819e", 
+            "title": "", 
+            "text": [
+                "uk house prices fall for third month in a row read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fbff5e4b00493c8278190", 
+            "title": "uk house prices suffer longest decline since financial crisis", 
+            "text": [
+                "we have fresh evidence that britain 's housing market is cooling .", 
+                "house prices fell by 0.2 % in may , reports nationwide , which is the third monthly fall in a row .", 
+                "that has n't happened since 2009 - the dark days of the financial crisis .", 
+                "on an annual basis , prices are only 2.1 % higher than a year ago - another sign that demand is cooling off .", 
+                "robert gardner , nationwide 's chief economist , explains : house prices recorded their third consecutive monthly fall in may - the first time this has occurred since 2009 .", 
+                "the annual rate of growth slowed to 2.1 % , the weakest in almost four years .", 
+                "it is still early days , but this provides further evidence that the housing market is losing momentum .", 
+                "moreover , this may be indicative of a wider slowdown in the household sector , though data continues to send mixed signals in this regard .", 
+                "samuel tombs ( @ samueltombs ) house prices - not so strong and stable ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fbc27e4b00493c8278182", 
+            "title": "caixin : chinese manufacturing suffers contraction", 
+            "text": [
+                "worries over china 's economy are intensifying this morning after new data showed its manufacturing sector is shrinking .", 
+                "the caixin/markit manufacturing purchasing managers ' index ( pmi ) fell to 49.6 in may , from 50.1 in april .", 
+                "that signals that activity contracted last month , for the first time in nearly a year .", 
+                "caixin chinese pmi chinese firms reported that output grew at the weakest level in 11 months , due to 'muted ' growth in new orders from domestic and overseas customers .", 
+                "firms also slashed jobs again , at the fastest rate since last september .", 
+                "dr. zhengsheng zhong , director of macroeconomic analysis at cebm group , said there are signs that chinese factories are struggling .", 
+                "the sub-index of stocks of purchases signalled a renewed decline , while the sub-index of stocks of finished goods rebounded , indicating that companies have stopped actively restocking as inventories began to stack up .", 
+                "china 's manufacturing sector has come under greater pressure in may and the economy is clearly on a downward trajectory . ''", 
+                "caixin 's survey is weaker than the official chinese pmis holger zschaepitz ( @ schuldensuehner ) oops !", 
+                "# china may factory activity contracts for first time in 11mths .", 
+                "dip below 50 at odds w/ steady official pmi ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-592fb0f7e4b0be3ed1921a9d", 
+            "title": "the agenda : factory data in focus", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "it 's a new month , and that means a new flurry of economic data .", 
+                "june is kicking off with new surveys of the world 's factories , from china to the us via europe .", 
+                "the purchasing manager indexes are expected to show that europe 's recovery continued last month , with eurozone manufacturing growth possibly hitting a six-year high .", 
+                "the uk data will also be closely scrutinised .", 
+                "economists predict a small slowdown in growth last month .", 
+                "rbc capital markets say : another set of robust numbers would make the q1 slowdown seem potentially transitory , whereas softer data would instead leave the april upturn looking like a positive blip amidst mounting evidence of a slowing economy .", 
+                "our economists ' central expectation remains that the consumer-led slowdown will be more durable , so our bias is to look for a pullback in the pmis to confirm this .", 
+                "the city has already woken up to some disappointing data from china , where factory activity contracted for the first time in 11 months ( more on that shortly ) .", 
+                "the pound continues to bob around like a cork in a stormy sea , as the uk general election approaches .", 
+                "it 's shed almost half a cent this morning , to $ 1.285 , after a new yougov poll showed a mere 3 point gap between the conservatives and labour .", 
+                "other polls , though , have given theresa may a larger lead , so traders are suitably cautious .", 
+                "sam coates times ( @ samcoatestimes ) tonight : times/yougov regular weekly poll shows 3pt tory lead .", 
+                "( poll different to yougov model but tory lead same ) here 's the agenda : 8.15am to 9am : eurozone manufacturing pmis are released 9.30am : uk manufacturing pmis 1.15pm : us adp payroll of private sector jobs 1.30pm : us weekly jobless figures 3pm : us manufacturing pmis"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                6, 
+                1, 
+                7, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.40pm BST\n17:40\nEuropean markets end higher\n", 
+                "block": "block-59303c20e4b00493c82783f9"
+            }, 
+            {
+                "text": "\n\n4.05pm BST\n16:05\nUS crude stocks fall by more than expected\n", 
+                "block": "block-59302c75e4b0be3ed1921d31"
+            }, 
+            {
+                "text": "\n\n3.08pm BST\n15:08\nUS manufacturing edges higher - ISM\n", 
+                "block": "block-59301e1ae4b0bdd87e2f22b8"
+            }, 
+            {
+                "text": "\n\n2.38pm BST\n14:38\nWall Street makes mixed start\n", 
+                "block": "block-593017f5e4b0bdd87e2f2292"
+            }, 
+            {
+                "text": "\n\n2.15pm BST\n14:15\nWorld Bank CEO: Buckle up for the next crisis\n", 
+                "block": "block-593011b0e4b0bdd87e2f226f"
+            }, 
+            {
+                "text": "\n\n1.45pm BST\n13:45\nUS private sector job creation smashes forecasts\n", 
+                "block": "block-59300724e4b00493c82782dc"
+            }, 
+            {
+                "text": "\n\n8.02am BST\n08:02\nThe agenda: Factory data in focus\n", 
+                "block": "block-592fb0f7e4b0be3ed1921a9d"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic and financial news, including a new health check on the world's factories.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live?page=with:block-59301e1ae4b0bdd87e2f22b8#block-59301e1ae4b0bdd87e2f22b8"
+                ], 
+                "text": "US manufacturing edges higher.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live?page=with:block-592fd2cde4b0bdd87e2f2104#block-592fd2cde4b0bdd87e2f2104"
+                ], 
+                "text": "UK manufacturing is holding up.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live?page=with:block-592fcb15e4b0bdd87e2f20f0#block-592fcb15e4b0bdd87e2f20f0"
+                ], 
+                "text": "Eurozone factory PMI hits six-year high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Job-creation now fastest in 20 years.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live?page=with:block-592fbc27e4b00493c8278182#block-592fbc27e4b00493c8278182"
+                ], 
+                "text": "Chinese factories contracted last month.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jun/01/markets-european-manufacturing-uk-china-factories-contract-business-live?page=with:block-592fbff5e4b00493c8278190#block-592fbff5e4b00493c8278190"
+                ], 
+                "text": "Nationwide: UK house prices fall again.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

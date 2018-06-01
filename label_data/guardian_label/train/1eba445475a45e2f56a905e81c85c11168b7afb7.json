@@ -1,0 +1,1422 @@
+{
+    "blog_id": "1eba445475a45e2f56a905e81c85c11168b7afb7", 
+    "title": "UK growth slows to 0.4%; Greek debt crisis flares up \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates", 
+    "summary": [
+        "european shares close higher .", 
+        "us oil inventories climb .", 
+        "us home sales rise more than expected .", 
+        "wall street opens lower , apple falls .", 
+        "greek debt crisis is escalating again .", 
+        "economists : ca n't just blame brexit .", 
+        "uk retail sales tumble ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720e6a2e4b09a82af1484ed", 
+            "title": "european shares close higher", 
+            "text": [
+                "another rise in the oil price helped lift stock markets , even though crude came off its best levels following a bigger than expected rise in us inventories .", 
+                "uk gdp was in line with forecasts , while there was a positive reaction to a number of company results including barclays and glaxosmithkline .", 
+                "apple 's disappointing figures however left technology shares flagging , and investors remained cautious ahead of the latest rate setting meetings from the us federal reserve and the bank of japan .", 
+                "the final scores showed : the ftse 100 finished up 35.39 points or 0.56 % at 6319.91 germany 's dax added 0.39 % to 10,299.83 france 's cac climbed 0.58 % to 4559.40 italy 's ftse mib rose 0.43 % to 18,750.62 spain 's ibex ended 0.53 % higher at 9332.6 in greece , the athens market fell 2.51 % to 584.55 on renewed concerns about its bailout and new disagreements with its creditors on wall street , the dow jones industrial average is up 22 points or 0.13 % ahead of the fed .", 
+                "meanwhile brent crude is currently up 1.16 % at $ 46.27 a barrel having earlier climbed as high as $ 47.05 .", 
+                "on that note , it 's time to close for the evening .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                17, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720ef5de4b09a82af14850e", 
+            "title": "", 
+            "text": [
+                "citi has come up with forecasts for interest rates in the uk , eurozone and japan : holger zschaepitz ( @ schuldensuehner ) citi expects deeper neg rates for eurozone & japan .", 
+                "sees ecb to cut depo rate to -0.5 % , boj to cut pol rate to -0.5 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                16, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720ee7ae4b02c55b64011f6", 
+            "title": "", 
+            "text": [
+                "here 's reuters latest story on the situation between greece and its creditors : greece accused the international monetary fund on wednesday of undermining negotiations over the release of more bailout funds needed in the next few weeks to repay debt .", 
+                "at issue is what measures athens would take if it fails to reach fiscal targets by 2018 .", 
+                "creditors , including the imf and european institutions , want those measures made law immediately .", 
+                "athens argues that its constitution precludes legislation on a hypothetical event but it has offered to discuss a mechanism of automatic cutbacks .", 
+                "government spokeswoman olga gerovasili told reporters that the imf had not accepted the proposal .", 
+                "the imf is making demands which go beyond what was agreed , gerovasili said , referring to a 86-billion-euro ( $ 97-billion ) deal struck last year and talks to unlock more than five billion euros in bailout funds needed to pay eu and imf debts by july .", 
+                "these demands undermine efforts by both the greek government and european institutions , she said .", 
+                "an imf spokesman in washington said the institution had no immediate comment on the matter ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                16, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720defae4b0ba980af16eac", 
+            "title": "", 
+            "text": [
+                "more on greece : nick malkoutzis ( @ nickmalkoutzis ) tsipras & @ twitterid to speak again thurs after today 's call , says greek pm 's office .", 
+                "tsipras wants ez summit if no \u0082\u00acgroup in next days"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720dc6ce4b02c55b64011ab", 
+            "title": "", 
+            "text": [
+                "the interview closes with draghi saying it will be his pleasure to go to the bundestag ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720dcc4e4b09a82af1484c6", 
+            "title": "", 
+            "text": [
+                "on the prospect of britain leaving the european union , draghi says : i can not and do not wish to believe that the british would vote to leave , because we are stronger together .", 
+                "but if they do , it should be clear : they would lose the benefits of the single market ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720da9ee4b09a82af1484ba", 
+            "title": "", 
+            "text": [
+                "draghi was also asked about greece : bild : mr draghi , in your first interview with bild four years ago , we spoke a lot about greece .", 
+                "the country has still not got back on its feet , even though it has received hundreds of billions in emergency loans .", 
+                "when will the madness end ?", 
+                "draghi : clearly , last year was an economic setback for greece .", 
+                "now everyone is aware that there can be no growth without reforms .", 
+                "and what the country and its citizen need above all is growth .", 
+                "greece has implemented many reforms in the past months and is committed to the path of reforms .", 
+                "bild : is the euro a part of the solution for greece , or a part of the problem ?", 
+                "draghi : greece 's challenges have little to do with the euro .", 
+                "it would have to implement reforms in any case .", 
+                "in the eurozone , greece can do that with the support of its partners .", 
+                "but one thing must be clear : who belongs in the euro area and who does not is not for the ecb to decide .", 
+                "that is a matter for the member states .", 
+                "bild : they are now more fractious than ever .", 
+                "is that the biggest danger for europe ?", 
+                "draghi : we are experiencing several crises which are all interconnected and reinforce each other .", 
+                "that makes it all the more important to resist every kind of nationalism or isolationism .", 
+                "both are however on the rise .", 
+                "that worries me a lot .", 
+                "draghi ( centre ) at the end of last week 's ecb press conference .", 
+                "lohnes/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720d938e4b0ba980af16e9c", 
+            "title": "", 
+            "text": [
+                "ahead of a visit to the german parliament , ecb president mario draghi has given an interview to bild newspaper .", 
+                "draghi has been criticised in germany for the ecb 's low interest rate policy , which has affected the country 's savers , and has also been attacked by german finance minister wolfgang sch\u00e3\u00a4uble .", 
+                "in the interview - which has been repeated in english by business insider - he has come out fighting draghi : we are well aware of the situation for savers .", 
+                "and it 's not only in germany that people have to face low interest rates .", 
+                "but interest rates are low because growth is low and inflation is too low .", 
+                "think about the alternative : if we raised rates now , it would be bad for the economy and we would unleash deflation , unemployment and recession .", 
+                "the interest on savings comes from growth , so the interest of savers is that inflation stabilises and growth becomes more robust .", 
+                "besides , many savers benefit from low interest rates as they are also homebuyers , taxpayers , entrepreneurs and workers whose companies are benefiting .", 
+                "bild : in germany the adverse effects are predominant .", 
+                "making provision for retirement is becoming increasingly difficult\u0080\u00a6 draghi : remember , what counts is what you earn on savings in real terms , i.e .", 
+                "interest minus inflation .", 
+                "this is higher today than it was in the 1990s .", 
+                "at that time you might have had a higher interest rate on your sparbuch , but we often had an inflation rate that was higher still .", 
+                "so you could buy less with the money you received .", 
+                "moreover , people can influence how much they get on their savings even in times of low interest rates .", 
+                "they do n't just have to keep the money in savings accounts but can invest in other ways .", 
+                "the bundesbank has recently shown that the average return on all german household assets is close to 2 % .", 
+                "bild : so , are the german savers themselves to blame ?", 
+                "draghi : no .", 
+                "but there are alternatives in investing savings .", 
+                "in the united states savers had to face seven years of zero interest rates .", 
+                "banks , insurers , the financial system nevertheless still worked .", 
+                "money was invested in a variety of ways which in the end enabled a decent return .", 
+                "he also said he did not take the criticism from the likes of sch\u00e3\u00a4uble personally but added : one thing is clear : the ecb obeys the law , not the politicians .", 
+                "or , as one of my predecessors put it , it is normal for politicians to comment on our actions .", 
+                "but it would be abnormal if we listened to them .", 
+                "and he defended the ecb policies , saying they were working : but we must be patient ; investor confidence has not yet been fully restored .", 
+                "for two years , the economy in the euro area has been growing month by month , banks are lending and unemployment is steadily falling , .", 
+                "meanwhile , euro area countries are now able to buy more german exports again , which , for german companies , is partly making up for the decline in trade with china .", 
+                "but it is a slow process because the crisis was more severe than anything we had since the second world war .", 
+                "as to when interest rates would rise , he said : quite simple : when the economy is growing more strongly again and inflation rises closer to our objective .", 
+                "low interest rates today will lead to higher rates tomorrow .", 
+                "and he said the majority of governments were acting on the necessary reforms albeit too slowly for my personal taste .", 
+                "all of them would be well advised to do more .", 
+                "but that is not primarily dependent on the ecb and its policies ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720d77de4b09a82af1484ad", 
+            "title": "", 
+            "text": [
+                "the us treasury secretary undersecretary for international affairs , nathan sheets , has been speaking to a house financial committee , and made some comments on the situation in greece .", 
+                "reuters reports : [ he ] said that greece would not have access to the international monetary fund 's exceptional lending facilities in the next phase of its bailout , adding that the treasury supports the imf 's insistence that the bailout be restructured to make greece 's debt sustainable with more reforms from athens and debt relief from european lenders ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                15, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720d3dae4b0ba980af16e83", 
+            "title": "", 
+            "text": [
+                "john kemp ( @ jkempenergy ) us crude stocks rose +2.0 million bbl to 540.6 million bbl in what should be their seasonal peak last week or this"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                14, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720d217e4b09a82af14848c", 
+            "title": "", 
+            "text": [
+                "david morrison , senior market strategist at spreadco said : the latest crude inventories from the eia showed a build of 2 million barrels last week crude fell sharply on the news .", 
+                "yesterday the american petroleum institute reported a draw of nearly 1.1 million barrels in us inventories last week .", 
+                "oil soared on the news as analysts had expected a build of 2.4 million barrels .", 
+                "both wti and brent are trading at their best levels since november last year .", 
+                "the trigger for the latest leg of this rally was talk of an output freeze by opec and non-opec producers .", 
+                "but all hopes for a deal collapsed ten days ago in doha amid general recriminations .", 
+                "nevertheless , crude has continued to push higher as analysts predict that supply and demand will come into balance earlier than previously calculated .", 
+                "but it may become more difficult for crude to push on much higher from here .", 
+                "as $ 50 per barrel becomes a possibility , we should see mothballed us shale production come back on line .", 
+                "on top of that producers will sell forward contracts to lock in prices ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                14, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720ce92e4b02c55b6401170", 
+            "title": "us oil inventories climb", 
+            "text": [
+                "us crude stocks rose by more than expected last week , up by 2m barrels to 540.6m barrels .", 
+                "analysts had expected an increase of around 1.75m barrels , and the us energy information administration said : us crude oil inventories are at historically high levels for this time of year .", 
+                "sigma squawk ( @ sigmasquawk ) eia weekly oil inventories ( apr 22 ) crude +2.00 mln v +1.75 mln exp , prev +2.08 mlncushing +1.75 mln v +0.24 mln exp , prev -0.25 mln sigma squawk ( @ sigmasquawk ) gasoline +1.61 mln v -1.00 mln exp , prev -0.11 mlndistillate -1.70 mln v -0.75 mln exp , prev -3.55 mln the rise in crude stocks - a sign of slowing demand - has seen the oil price come off its best levels .", 
+                "brent , which was up 2 % before the data - is now 0.85 % higher at $ 46.13 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                14, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720c7b3e4b09a82af14845f", 
+            "title": "us home sales rise more than expected", 
+            "text": [
+                "more data for the us federal reserve to contemplate as they meet to discuss their latest views on interest rates and the economy .", 
+                "home sales rose by more than expected in march , according to the national association of realtors .", 
+                "its pending home sales index climbed 1.4 % month on month to 110.5 , the highest level since last may and better than the 0.5 % increase expected .", 
+                "sigma squawk ( @ sigmasquawk ) us pending home sales data ( mar ) pending home sales m/m +1.4 % v +0.5 % exp , prev +3.4 % pending home sales y/y +2.9 % v +0.8 % exp , prev +5.0 % lawrence yun , the association 's chief economist , said : despite supply deficiencies in plenty of areas , contract activity was fairly strong in a majority of markets in march .", 
+                "this spring 's surprisingly low mortgage rates are easing some of the affordability pressures potential buyers are experiencing and are taking away some of the sting from home prices that are still rising too fast and above wage growth .", 
+                "the association added : in the short-term , the healthy labor market and favorable borrowing costs should lead to sustained buyer demand and a durable pace of sales .", 
+                "however , yun says the consequences from a failure to construct more single-family homes in recent years are starting to impact some top job producing markets , where endless supply shortages continue to limit choices for buyers and are driving up prices beyond what a growing share of households can comfortably afford .", 
+                "demand is starting to weaken in some areas , particularly in the west , where the median home price has risen an astonishing 38 percent in the past three years , adds yun .", 
+                "as a result , pending sales in the region have now declined in four of the last five months and are lower than one year ago for the third month in a row .", 
+                "closed sales in the region in march were also below last year 's pace ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                14, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720c70ae4b0ba980af16e52", 
+            "title": "", 
+            "text": [
+                "apple is currently the biggest faller in the dow jones industrial average : dow winners and losers"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                14, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720c256e4b09a82af148452", 
+            "title": "wall street opens lower , apple falls", 
+            "text": [
+                "despite european markets holding onto to their - slight - gains , wall street is slipping lower in early trading .", 
+                "the dow jones industrial average is down 20 points or 0.11 % while the s & p 500 has fallen 0.22 % at the open and nasdaq 0.66 % .", 
+                "apple has dropped nearly 8 % after it reported its first quarterly revenue fall for 13 years , twitter is down more , falling 15.7 % following its figures ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                13, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720bec3e4b0ba980af16e2e", 
+            "title": "", 
+            "text": [
+                "and here ( in greek ) is the call from greek prime minister alexis tsipras for a european summit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                13, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720baafe4b0ba980af16e23", 
+            "title": "", 
+            "text": [
+                "here 's the statement from european council president donald tusk : eu council tv news ( @ eucounciltvnews ) .", 
+                "@ eucopresident statement on # greece and # eurogroup"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                13, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720ae34e4b09a82af148413", 
+            "title": "greek debt crisis is escalating again", 
+            "text": [
+                "the ancient temple of the parthenon on acropolis hill in athens .", 
+                "messinis/afp/getty images buckle up , folks , the greek debt crisis is roaring back over the horizon .", 
+                "relations between athens and its lenders have hit their worst level since last summer , when the 3rd greek bailout deal was finally agreed .", 
+                "the two side simply ca n't reach a deal over the various \u0080\u0098emergency measures ' that would kick in if ( or perhaps when ) it misses the economic targets in its bailout .", 
+                "this is now causing a cash crunch in greece , forcing the government to tap various state bodies for spare funds .", 
+                "and there 's serious chatter that we could be looking at fresh elections , or even another referendum , soon .", 
+                "so what 's happened today ?", 
+                "so far greece 's prime minister has proposed a meeting of eu leaders to discuss the crisis , but with little success .", 
+                "european council president donald tusk has argued that finance ministers need to make more progress , and hold a eurogroup meeting very soon .", 
+                "donald tusk ( @ eucopresident ) we have to avoid situation of renewed uncertainty for greece .", 
+                "we need date for eurogroup meeting in not distant future .", 
+                "in days , not weeks greece is refusing to accept extra austerity and blaming its creditors , as reuters explains : greece accused the international monetary fund on wednesday of undermining efforts to broker an accord over its funding options , after talks on a review to unlock fresh bailout aid stalled .", 
+                "athens would be willing to discuss the introduction of a mechanism to automatically cut spending , government spokeswoman olga gerovasili said .", 
+                "greece could not go beyond that , she said .", 
+                "one of greece 's familiar allies , commission president jean-claude juncker , has offered prime minister alexis tsipras some support .", 
+                "he agrees that it 's wrong to push athens to sign up to further cuts , on top of the measure already agreed .", 
+                "maxime sbaihi ( @ mxsba ) juncker says contingency plan demanded by creditors to # greece is both unreasonable & unconstitutional .", 
+                "# greece crisis - season 5 , episode 3 financial traders are concerned , dumping greek bonds and thus driving the yield on greek debt higher into the danger zone : mark gilbert ( @ scouseview ) @ brenda kelly game on .", 
+                "it 's all kickin ' off # greece the greek stock market was hit too : graeme wearden ( @ graemewearden ) athens stock market drops 4.5 % after reports that greece wants an eu summit to discuss bailout technical talks are still continuing between officials in greece , in the hope of a breakthrough .", 
+                "but anyone who lived through last year 's drama will understand that progress could be limited nick malkoutzis ( @ nickmalkoutzis ) greek gov't spox gerovasili says talks with lenders will continue later today at technical level # greece"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                13, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720b322e4b09a82af14841f", 
+            "title": "", 
+            "text": [
+                "here 's our news story on today 's uk slowdown : uk gdp growth slows to 0.4 % in first quarter of 2016 read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                12, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720aa85e4b0ba980af16df0", 
+            "title": "", 
+            "text": [
+                "there are some interesting developments around bhs today .", 
+                "first up , sky 's mark kleinman reports that the stricken high street retailer received a demand for \u00e2\u00a3 2.6m in unpaid vat last week , shortly before it fell into administration .", 
+                "another \u00e2\u00a3 10m was due by 30 june , to cover the sale of its oxford street store , perhaps explaining the timing of its collapse .", 
+                "mark kleinman ( @ markkleinmansky ) revealed : bhs hit by \u00e2\u00a3 2.6m vat demand from taxman days before collapse - with a further \u00e2\u00a3 10m due by the end of june .", 
+                "and more surprisingly , bhs 's most recent owner is apparently planning to buy the company back !", 
+                "former racing driver dominic chappell , whose reputation has been rather savaged in recent days , has told the evening standard that he is meeting potential backers in america right now .", 
+                "he 's hoping to come back with a real deal to save as many jobs as possible .", 
+                "good news ?", 
+                "probably not , given chappell 's failure to keep the company on the road .", 
+                "a bhs spokesman has already said the idea is pure fantasy .", 
+                "standard city ( @ standardcity ) dominic chappell tells @ twitterid `` i want to buy back bhs '' and defends the swedish transaction"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                12, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720a4f1e4b09a82af1483f9", 
+            "title": "", 
+            "text": [
+                "care to guess the fastest growing area of the uk economy in the last 25 years ?", 
+                "royal bank of scotland have crunched the numbers , and report that management consulting and head office activities have swelled by 500 % since 1990 - a vintage year , including the italian world cup , the end of margaret thatcher 's premiership , and the stone roses playing spike island .", 
+                "but while consultancy has been booming , manufacturing and mining has been steadily declining , they show : rbs economics ( @ rbs economics ) the changing shape of the uk economy .", 
+                "here 's the 20 fastest growing sectors since 1990 .", 
+                "rbs economics ( @ rbs economics ) what we do a lot less of .", 
+                "here 's the 20 sectors of the uk economy with the biggest output falls since 1990 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                11, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57209f0fe4b02c55b64010e4", 
+            "title": "", 
+            "text": [
+                "there 's little cheer in the city today about the latest uk growth figures .", 
+                "the blue-chip ftse 100 has dropped by 12 points today to 6272 points , with supermarket chain tesco shedding 4 % .", 
+                "mining shares , a handy bellwether for global economic confidence , are down around 2 % too .", 
+                "joshua mahony , market analyst at ig , says traders are nervous ahead of tonight 's meeting of the us central bank , the federal reserve .", 
+                "the fed is expected to leave interest rates unchanged , and may sound cautious about growth prospects [ we get us gdp data tomorrow ]"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                11, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57209499e4b02c55b64010ac", 
+            "title": "economists : ca n't just blame brexit", 
+            "text": [
+                "it 's politically convenient for george osborne to blame june 's eu referendum for weakness in the uk economy .", 
+                "but economists are warning that the problems run deeper .", 
+                "scott corfe of the centre for economics and business research says osborne 's growth forecasts are simply too optimistic .", 
+                "here 's why : firstly , the consumer economy is coming off the boil .", 
+                "retail sales volumes have fallen for two consecutive months on the latest ons data .", 
+                "rising inflation later this year and into 2017 will take further steam out of the household-led recovery , as will signs of a softening in the labour market with some high profile companies announcing job cuts in recent weeks .", 
+                "the uk\u00e2\u00b4s international trade position is also a major concern .", 
+                "the current account data released last month showed a record high deficit of 7 % of gdp at the end of last year - now greater than the fiscal deficit .", 
+                "essentially , the country 's poor position on exports and overseas investments means that the uk is now borrowing a huge sum of money from the rest of the world each year .", 
+                "unless financial markets respond to this and sterling sharply depreciates it is hard to see this being resolved anytime soon .", 
+                "the introduction of the national living wage will also lead to job losses , he adds , while efforts to rein in the buy-to-let market may also harm consumer confidence , corfe continues .", 
+                "ranko berich , head of market analysis at monex europe , agrees that osborne must take the blame : brexit anxiety could certainly be behind some of the slowdown in gdp growth , but the truth is the recovery remains lacklustre .", 
+                "growth has failed to return to the pre-crisis trend on a sustained basis , and the government 's excessively tight fiscal policy is largely at fault .", 
+                "on top of that , wage growth is anaemic and the labour market appears to be slowing down , meaning the macro outlook is as uncertain as it has been for years ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                10, 
+                54
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57209567e4b02c55b64010ae", 
+            "title": "", 
+            "text": [
+                "more gloom : graham ruddick ( @ grahamtruddick ) amid the bhs and tata steel chaos , printing company polestar has gone into administration with pwc .", 
+                "1,500 jobs at risk"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                10, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57208f8ce4b02c55b640108b", 
+            "title": "uk retail sales tumble", 
+            "text": [
+                "in another worrying sign , uk retail sales have fallen at the fastest rate in four years .", 
+                "the cbi reports that the recent cold weather hurt demand for clothes , footwear and leather good this month .", 
+                "sales also fell at department stores ; bad news for the high street as it reels from the collapse of bhs and austin reed this week .", 
+                "22 % of retailers interviewed by the cbi said that sales volumes were up in april compared to a year ago , whilst 36 % said they were down , giving a rounded balance of -13 % .", 
+                "that 's the weakest since january 2012 .", 
+                "cbi director of economics , rain newton-smith , said : cold weather put a chill in sales of spring and summer ranges with a reported dip in retail sales in the year to april .", 
+                "but with the near-term outlook for household spending holding up the sector expects a modest rise in sales next month ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                10, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57208b1de4b09a82af14837e", 
+            "title": "", 
+            "text": [
+                "oecd chief \u00e3\u0081ngel gurr\u00e3\u00ada is now warning reporters in london that the is no economic upside for the uk outside the eu .", 
+                "it 's delusional to claim that brexit would give britain a stronger trading position , gurr\u00e3\u00ada adds , warning that some firms would quit the uk .", 
+                "and in an alarming development , the 65-year old gurr\u00e3\u00ada has revealed his full commitment to togetherness philip aldrick ( @ philaldrick ) some unexpected personal insight from gurria 'my wife and i still take baths together 42 yrs on ' a little too much info"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                10, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57208962e4b02c55b6401071", 
+            "title": "", 
+            "text": [
+                "the oecd has now joined the chorus of international bodies arguing against brexit , claiming it will hit us in the pocket .", 
+                "my colleague larry elliott reports : the west 's leading economics thinktank has warned that a british decision to leave the eu in this summer 's referendum would cost each household \u00e2\u00a3 2,200 by the end of a decade and continue to impose a persistent and rising shock on the uk in the following years .", 
+                "adding its voice to negative assessments by the treasury and the international monetary fund , the paris-based organisation for economic cooperation and development said a so-called brexit vote on 23 june would provide a major negative shock to britain and have ripple effects on the rest of europe .", 
+                "in some respects , brexit would be akin to a tax on gdp , imposing a persistent and rising cost on the economy that would not be incurred if the uk remained in the eu , the oecd said .", 
+                "full story : brexit would cost uk households \u00e2\u00a3 2,200 by 2020 , says oecd read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57208603e4b02c55b6401065", 
+            "title": "", 
+            "text": [
+                "britain 's economy has hit a \u0080\u0098soft patch ' , warns john hawksworth , chief economist at pwc .", 
+                "he blames : heightened uncertainties about the global economy at the start of the year , which hit the export-oriented manufacturing sector and also took the wind out of the sails of the key business and financial services sector , where growth slowed from 0.7 % in the final quarter of 2015 to just 0.3 % in the first quarter of 2016 .", 
+                "brexit uncertainty is n't helping .", 
+                "uncertainty about the eu referendum outcome may also have had an impact from late february onwards as it became clear there would be an early vote in june .", 
+                "this may have led to some delay in major investment decisions , as indicated by weak construction output in the first quarter .", 
+                "hawksworth hopes , though , that growth will rebound later in the year : tilly parke ( @ tillyparke ) uk economy hit a soft patch in early 2016 but @ twitterid uk chief economist john hawksworth is cautiously optimistic : # gdp"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-572081f4e4b09a82af148360", 
+            "title": "gdp : more detail", 
+            "text": [
+                "today 's report shows that growth in the business services and finance slowed to +0.3 % , from +0.7 % in the last quarter of 2013 .", 
+                "this is the main reason that total services growth slowed from 0.8 % to 0.6 % , the ons says .", 
+                "that backs up the theory that stock market turbulence hurt growth .", 
+                "it may also indicate nervousness about the eu referendum , though , as many city firms oppose brexit .", 
+                "in the production sector , mining and quarrying output shrank by 2.2 % , while manufacturing decreasing by 0.4 % and britain 's total economy is now 7.3 % higher than before the financial crisis - making it the third best-performing g7 economy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                9, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57208138e4b091fcbac53488", 
+            "title": "", 
+            "text": [
+                "ms lee hopley , chief economist at eef , questions whether brexit is really to blame : the effects of global financial market volatility , stuttering world trade growth and challenges on the high street feel like more obvious explanations for the slowdown .", 
+                "still , referendum wobbles could make themselves felt in the coming months , highlighting the continuing downside risks for the economy this year"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207fb0e4b0ba86cb0f644a", 
+            "title": "", 
+            "text": [
+                "here 's chancellor george osborne 's official response to the news that britain 's economy is slowing it 's good news that britain continues to grow , but there are warnings today that the threat of leaving the eu is weighing on our economy .", 
+                "investments \u0080\u008eand building are being delayed , and another group of international experts , the oecd , confirms british families would be worse off if we leave the eu .", 
+                "let 's not put the strong economy we 're building at risk , and vote to remain on june 23 .", 
+                "reminder : the oecd report is due out at 10.30 bst , but the group has already called brexit a \u0080\u0098bad decision ' this morning ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                9, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207e74e4b073144087e7e1", 
+            "title": "ing : brexit will hurt growth", 
+            "text": [
+                "james knightley of ing bank fears that growth is continuing to weaken in the run-up to june 's referendum .", 
+                "he says : we suspect that second-quarter gdp growth will be even weaker given the threat of brexit is negatively impacting business sentiment , leading to a reduction in risks appetite regarding hiring and investment decisions .", 
+                "indeed , unemployment actually rose in the three months to february while consumer confidence is also coming under pressure ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207d47e4b073144087e7da", 
+            "title": "", 
+            "text": [
+                "city economist alan clarke , of scotiabank , reckons we ca n't blame brexit fears for the economic slowdown , yet instead , he argues that the financial market turbulence at the start of 2016 hurt confidence .", 
+                "that is not to say that brexit uncertainty wo n't have an impact on gdp growth it will .", 
+                "however , this is likely to be visible via reduced investment and hiring and will show up in q2 gdp .", 
+                "the first estimate of that will come out in late-july a month after the actual vote .", 
+                "for now , 0.4 % q/q is n't terrible it could have been worse"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207c42e4b073144087e7d7", 
+            "title": "osborne blames brexit fears", 
+            "text": [
+                "as predicted , the chancellor has claimed that uncertainty over britain 's eu membership is hurting the economy : george osborne ( @ george osborne ) gdp is up 0.4 % .", 
+                "uk continues to grow but oecd warns today that threat of a vote to leave the eu is weighing on economy"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                48
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207b41e4b073144087e7d3", 
+            "title": "", 
+            "text": [
+                "ons chief economist joe grice says : today 's figures suggest growth has slowed as compared with the pace up to the middle of last year .", 
+                "services continue to underpin the economy but other sectors have shown falling output this quarter .", 
+                "that 's a blow to hopes of rebalancing the uk economy , as manufacturing , construction and agriculture are still smaller than before the financial crisis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5720797ee4b0ba86cb0f6436", 
+            "title": "service sector grows , everything else shrinks", 
+            "text": [
+                "britain 's service sector was the only part of the economy to grow in the last quarter !", 
+                "manufacturing , building and farming all contracted , leaving the uk even more reliant on the already dominant service sector .", 
+                "here 's the details : services output rose by 0.6 % , ( corrected ) industrial production shank by 0.4 % construction contracted by 0.9 % agriculture by 0.1 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207a11e4b091fcbac53473", 
+            "title": "", 
+            "text": [], 
+            "is_key_event": false, 
+            "sent_label": [], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-572077eee4b091fcbac5346f", 
+            "title": "uk growth slows to 0.4 %", 
+            "text": [
+                "breaking : uk economic growth has slowed to 0.4 % in the first three months of this year .", 
+                "that 's a sharp slowdown , compared to the 0.6 % recorded between october and december last year .", 
+                "more to follow"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                30
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57207307e4b073144087e7be", 
+            "title": "", 
+            "text": [
+                "cnbc also predicts that brexit fears are weighing on uk growth : the uk economy is expected to post a sharp slowdown in growth in the first quarter amid concerns that a forthcoming vote on the country 's membership of the european union is scaring investors and industry .", 
+                "market analysts believe that preliminary gross domestic product ( gdp ) estimates released on wednesday morning will show a slowdown in the first quarter to 0.4 percent , down from 0.6 percent in the previous quarter .", 
+                "some analysts , such as those from barclays and pantheon macroeconomics , thought the slowdown could be more pronounced , however , to 0.3 % .", 
+                "the anticipated slowdown has been attributed by all analysts to the increasing eu referendum risk , as barclays ' analysts said in a note on wednesday , and fears of a so-called brexit should u.k. voters elect to leave the eu when a referendum is held on june 23 .", 
+                "cnbc international ( @ cnbci ) uk gdp expected to show slowdown as brexit fear bites"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                8, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-572066d2e4b091fcbac53452", 
+            "title": "", 
+            "text": [
+                "shares in barclays have jumped almost 4 % to the top of the london stock market leaderboard .", 
+                "although barclays posted a 33 % drop in pre-tax profits this morning , traders are encouraged that the bank has received approaches for its african business ( former ceo bob diamond is interested , for starters ) barclays reports 25 % profit slump and confirms interest in africa arm read more caroline hyde ( @ carolinehydetv ) strip out \u00e2\u00a3 374m charge in its non-core results , and # barclays performance not so bad say analysts , roe core = 9.9 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                7, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-572068ebe4b0ba86cb0f6414", 
+            "title": "", 
+            "text": [
+                "here 's what city economists are saying about this morning 's growth figures , due in an hour 's time .", 
+                "howard archer of ihs global insight , predicts eu referendum fears will knock back growth to 0.3 % for the first quarter ( down from 0.6 % ) in particular , this is expected to weigh down on business investment and employment , and it may well also limit consumers ' willingness to splash out on big-ticket items .", 
+                "muted global growth and recent financial market volatility will also hamper uk economic activity in the near term at least .", 
+                "tony cross of trustnet believes city investors will take the news calmly : we 've got uk gdp data later this morning and with the brexit effect having been seen in other q1 metrics , this is likely to reflect badly on the headline figures but the market may well be willing to overlook any wobbles here , given the evolving sentiment .", 
+                "michael hewson ( @ mhewson cmc ) uk q1 gdp up at 9:30am - getting ready for the excuses that brexit risk weighing on economy , even though global gdp has also slowed .", 
+                "# gbp"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                7, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57206434e4b091fcbac5344e", 
+            "title": "oecd : brexit is a bad decision", 
+            "text": [
+                "the organisation for economic co-operation and development ( oecd ) has become the latest international body to warn britain against leaving the eu .", 
+                "they are publishing a new brexit report this morning , but oecd chief \u00e3\u0081ngel gurr\u00e3\u00ada has broken his own embargo and spilled the beans on the today programme .", 
+                "gurr\u00e3\u00ada declared that brexit is a tax , effectively costing us all one month 's salary by the end of the decade .", 
+                "in the end we come out saying why are we spending so much time , so much effort , so much talent , trying to find ways to compensate for a bad decision that you do n't have to take .", 
+                "gurr\u00e3\u00ada added that britain wo n't get a better deal on trade or migration if it leaves the eu - a claim out campaigns would obviously dispute .", 
+                "we 'll have more details at 10.30am bst .", 
+                "after the embargo lifts , \u00e3\u0081ngel anthony gooch g\u00e3\u00a1lvez ( @ pitres ) .", 
+                "@ a gurria of @ twitterid on @ twitterid4today says # brexit would constitue a heavy tax on # uk households already being felt"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                7, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57206250e4b0ba86cb0f640c", 
+            "title": "sky : osborne to blame brexit fears", 
+            "text": [
+                "if today 's growth figures are bad , you can expect george osborne to blame brexit fears .", 
+                "the chancellor has already been warning that economic confidence has been hurt by the upcoming eu referendum ( his party 's bright idea , let 's not forget ) .", 
+                "sky news 's faisal islam predicts that osborne will stick to this message : chancellor george osborne is set to repeat his argument that the eu referendum is already weighing down the uk economy .", 
+                "the key measure of economic growth - the gdp figure for the first three months of this year - will be released later today .", 
+                "it is expected to be markedly down from the last quarter of 2015 .", 
+                "a slowdown from the 0.6 % growth registered in q4 in 2015 has been anticipated by both the bank of england and independent economists .", 
+                "gdp growth is expected to have slipped to 0.4 % in q1 of 2016 faisal islam ( @ faisalislam ) slowing economy - weaker q1 gdp number expected at 930 - chancellor has been pointing to eu referendum effect"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                7, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57205784e4b073144087e79f", 
+            "title": "the agenda : uk gdp , barclays earnings and greek drama", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "we 're about to get a fresh healthcheck on the uk economy , and the results may not be too pretty .", 
+                "britain 's growth is expected to have slowed pretty sharply in the last three months , from 0.6 % to 0.4 % , or possibly even worse .", 
+                "weakness in the global economy is partly to blame , such as the slowdown in china 's economy .", 
+                "the turmoil that gripped the stock markets in january and early february may also have had an impact on confidence , spending and investment .", 
+                "domestic issues are another factor ; how much damage has the uncertainty over britain 's eu referendum caused ?", 
+                "we find out at 9.30am bst .", 
+                "also coming up today : stock markets are expected to fall back this morning , with the ftse 100 called down 18 points .", 
+                "tech stocks may be under pressure , after apple posted its first drop in sales since 2003 - sending its shares down 8 % in after-hours trading .", 
+                "apple reports slowdown in iphone sales and first revenue decline in 13 years read more cnbc ( @ cnbc ) rotten apple : stock plunges 8 % on earnings , revenue miss it 's a big day for uk corporate results , including barclays bank , shopping chain home retail group , and estate agent foxtons .", 
+                "and the eurozone debt crisis is bubbling up again .", 
+                "overnight , there are reports that greek prime minister alexis tsipras is seeking an emergency summit to discuss his bailout deal after talks between creditors over reform measures floundered .", 
+                "silviaamaro ( @ silvia amaro ) here we go again : @ twitterid eu set to ask @ twitterid for an emergency summit on # greece @ twitterid and with spanish voters heading back to the polls in june , we could be facing another summer of european drama spain faces new elections in june after parties fail to form a government read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                4, 
+                27, 
+                6, 
+                47
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.01pm BST\n18:01\nEuropean shares close higher\n", 
+                "block": "block-5720e6a2e4b09a82af1484ed"
+            }, 
+            {
+                "text": "\n\n3.46pm BST\n15:46\nUS oil inventories climb\n", 
+                "block": "block-5720ce92e4b02c55b6401170"
+            }, 
+            {
+                "text": "\n\n3.16pm BST\n15:16\nUS home sales rise more than expected\n", 
+                "block": "block-5720c7b3e4b09a82af14845f"
+            }, 
+            {
+                "text": "\n\n2.50pm BST\n14:50\nWall Street opens lower, Apple falls\n", 
+                "block": "block-5720c256e4b09a82af148452"
+            }, 
+            {
+                "text": "\n\n2.05pm BST\n14:05\nGreek debt crisis is escalating again\n", 
+                "block": "block-5720ae34e4b09a82af148413"
+            }, 
+            {
+                "text": "\n\n11.54am BST\n11:54\nEconomists: Can't just blame Brexit\n", 
+                "block": "block-57209499e4b02c55b64010ac"
+            }, 
+            {
+                "text": "\n\n11.20am BST\n11:20\nUK retail sales tumble\n", 
+                "block": "block-57208f8ce4b02c55b640108b"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-5720d938e4b0ba980af16e9c#block-5720d938e4b0ba980af16e9c"
+                ], 
+                "text": "Draghi defends ECB in Bild interview.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-5720ae34e4b09a82af148413#block-5720ae34e4b09a82af148413"
+                ], 
+                "text": "Greek crisis escalating again.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-57207fb0e4b0ba86cb0f644a#block-57207fb0e4b0ba86cb0f644a"
+                ], 
+                "text": "Osborne: Investment being delayed by EU risks.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-57209499e4b02c55b64010ac#block-57209499e4b02c55b64010ac"
+                ], 
+                "text": "Economists: Can't just blame Brexit.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-572077eee4b091fcbac5346f#block-572077eee4b091fcbac5346f"
+                ], 
+                "text": "Breaking: UK growth slows to 0.4%", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/apr/27/uk-gdp-growth-figures-released-live-updates?page=with:block-5720797ee4b0ba86cb0f6436#block-5720797ee4b0ba86cb0f6436"
+                ], 
+                "text": "Service sector grows, everything else shrinks.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

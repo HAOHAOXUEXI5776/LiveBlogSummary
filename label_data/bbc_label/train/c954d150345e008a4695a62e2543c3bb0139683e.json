@@ -1,0 +1,942 @@
+{
+    "blog_id": "c954d150345e008a4695a62e2543c3bb0139683e", 
+    "title": "BBC Local Live: Devon & Cornwall on Tuesday 10 October 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-devon-41509465", 
+    "summary": [
+        "teacher jailed for 14 years for 'systematic abuse ' .", 
+        "baby death dad 'did not know of violence ' .", 
+        "man rescued from vehicle crash in north devon .", 
+        "teens rescue drunk man from tamar bridge .", 
+        "bus strike called off .", 
+        "cannabis discovery closes lane of a30 .", 
+        "police still hunting sutton harbour rapist .", 
+        "gender identity support service calls 'rise sixfold ' .", 
+        "hip replacement to silver medal in 10 weeks .", 
+        "more news , sport , travel and weather from 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dcd7d1e4b02f6a5dd6b7ab", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for devon and cornwall have finished for the day , but we 'll be back at 08:00 on wednesday with the latest news , sport , travel and weather .", 
+                "do n't forget spotlight on bbc one later .", 
+                "there will also be news through the night on your bbc local radio station ."
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dccb12e4b0cf0501cabff1", 
+            "title": "house was 'filled with love and happiness '", 
+            "text": [
+                "a man whose husband is accused of murdering their adopted daughter says their house was `` filled with love and happiness , all the time '' .", 
+                "matthew scully-hicks , 31 , from delabole in cornwall , is accused of abusing 18-month-old elsie over several months and causing `` catastrophic '' injuries before she died in may 2016 .", 
+                "he denies murder .", 
+                "craig scully-hicks told cardiff crown court that if he had suspected any violence , he would not have tolerated it .", 
+                "when asked over his preference to adopt a boy or girl , he said : `` i just wanted a daddy 's little princess really . ''", 
+                "he said they had decided matthew scully-hicks would stay at home and look after the children .", 
+                "`` he would n't have had if any other way , '' he added ."
+            ], 
+            "author": [
+                "BBC Wales News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd291e4b0cf0501cac017", 
+            "title": "\u00a3 30m bodmin resort among series of collapsed deals by chinese company sinofortone linked to 'uk disneyland ' and liverpool fc buyout bid", 
+            "text": [
+                "a plan to turn a country club in cornwall into a \u00a3 30 million holiday resort was one of a dozen of projects in the uk dropped by a chinese investment company , cornwall live can reveal ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dccea4e4b0df0fea8c29b5", 
+            "title": "weather update : cloudy day ahead of wind tomorrow", 
+            "text": [
+                "it will be a rather cloudy night tonight with some clear spells at times .", 
+                "the winds will gradually increase but most places will remain dry .", 
+                "a windy day on wednesday and early bright spells will be replaced by increasing amounts of cloud as outbreaks of rain arrive through the afternoon .", 
+                "top temperature 16c ( 60f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd94de4b0df0fea8c29da", 
+            "title": "devon and cornwall police sgt says entire county sometimes left with no officers", 
+            "text": [
+                "a police sergeant has admitted there have been times where an entire county has been left with no officers available to respond to incidents ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcaf10e4b0df0fea8c2941", 
+            "title": "travel update : roadworks overnight in exeter", 
+            "text": [
+                "advance warning - in exeter bridge road will be closed between 10pm and 5:30am for overnight roadworks .", 
+                "diversions will be in place ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd2bbe4b0df0fea8c29c6", 
+            "title": "plymouth pub bouncer left looking like this is happy drunken attackers have not gone to jail", 
+            "text": [
+                "a pub bouncer left looking with horrific injuries to his eye after an attack by drunken yobs has welcomed their sentences - even though they were spared prison ."
+            ], 
+            "author": [
+                "Plymouth Herald"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcea10e4b0df0fea8c2a17", 
+            "title": "bus strike called off", 
+            "text": [
+                "a planned strike by bus drivers in the south west has been called off after bosses came up with a new pay offer , according to the union behind the strike .", 
+                "the rmt union said planned industrial action by stagecoach south west staff on 13 , 17 and 30 october would now no longer take place .", 
+                "rmt general secretary mick cash said : `` this shows yet again what can be achieved when trade union members stand together .", 
+                "`` it is a tribute to our members that the union has been able to make stagecoach south west come back to the table with an improved offer . ''", 
+                "stagecoach confirmed the strike action had been called off `` pending a referendum of members on a revised proposal '' .", 
+                "a spokesman said : `` we are therefore pleased to confirm our services will operate as normal on these days , avoiding any disruption to vital transport links for the community . ''"
+            ], 
+            "author": [
+                "Miles Davis", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dce7a5e4b0df0fea8c2a0c", 
+            "title": "cannabis discovery closes lane of a30", 
+            "text": [
+                "a discovery of cannabis plants on the a30 at daisy mount cross in ottery st mary has prompted police to close one lane of the dual carriageway today .", 
+                "officers were called at 11:15 bst this morning , and are still on the scene .", 
+                "highways officers have helped close one lane of the road so the police can deal with the findings ."
+            ], 
+            "author": [
+                "Amy Gladwell", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc6ec3e4b0df0fea8c2840", 
+            "title": "million-pound investment for marine industry in south-west", 
+            "text": [
+                "a new vision for the future of the marine economy is developing here in the south west .", 
+                "the global company thales uk is investing \u00a3 1m to test and trial unmanned vessels , creating 20 highly-skilled jobs .", 
+                "the move highlights how traditional industries are changing with the times , and embracing hi-tech , innovative technologies ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd8d0e4b0cf0501cac034", 
+            "title": "speed humps a cheaper alternative to slow down drivers", 
+            "text": [
+                "the man in charge of the county 's roads says if it was n't for speeding drivers - there 'd be no need to introduce more road humps and other calming measures .", 
+                "some drivers in cornwall say there are so many humps that their cars are suffering damage .", 
+                "councillor geoff brown says humps do n't cost much compared to other measures , but he is open to alternatives ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11054941", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd703e4b0cf0501cac027", 
+            "title": "travel update : crash on a380 , telegraph hill", 
+            "text": [
+                "on the a380 at telegraph hill heading towards newton abbot near the turning for ashcombe we 've got reports there 's an accident ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcce43e4b02f6a5dd6b790", 
+            "title": "weather update : cloudy but dry evening ahead", 
+            "text": [
+                "bright or sunny spells are possible this afternoon , especially in the east .", 
+                "maximum temperature : 18c ( 64f ) .", 
+                "tonight will be rather cloudy with some clear spells at times .", 
+                "the winds will gradually increase but most places will remain dry .", 
+                "minimum temperature : 12c ( 54f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcd263e4b0df0fea8c29c3", 
+            "title": "rider left in road after hit-and-run", 
+            "text": [
+                "an appeal has been launched to find a van driver who knocked a cyclist off his bike then left him lying injured in the road ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dccf55e4b0df0fea8c29bb", 
+            "title": "travel update : fallen tree in looe", 
+            "text": [
+                "in looe , on barbican road between pendennis road and bodrigan road we 've got reports there 's a fallen tree .", 
+                "approach with care ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dccc4ee4b0df0fea8c29af", 
+            "title": "global firm to build \u00a3 1m trial centre", 
+            "text": [
+                "the global company thales is building a \u00a3 1m centre in the south west for its maritime trials of unmanned vessels .", 
+                "the company says its turnchapel wharf development will create 20 highly skilled jobs .", 
+                "bosses said the site was ideal because they have access to deep water just outside the sound where the craft can be tested .", 
+                "thales is a multibillion-pound company .", 
+                "we can take those traditional skills in the city and move them into a new generation using new technologies .", 
+                "it 'll also give graduates opportunities ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dcc6ace4b02f6a5dd6b77f", 
+            "title": "teacher jailed for 14 years for 'systematic abuse '", 
+            "text": [
+                "a former primary school teacher has been jailed for sexually assaulting two girls , including one under the age of 13 .", 
+                "stephen higgitt , 60 , had earlier been found guilty of two counts of assault on a child under 13 by penetration , three assaults by penetration and one charge of sexual assault .", 
+                "higgitt , previously from wadebridge , cornwall but who has since moved to redditch , worcestershire , was sentenced to 14 years at truro crown court .", 
+                "the judge said it amounted to `` systematic abuse '' over five years .", 
+                "sentencing , judge simon carr told higgitt , who walked in court carrying a guitar case : `` you have shown not a scintilla of remorse for what you have done .", 
+                "you have shown no insight , and no empathy .", 
+                "you abused trust in the most appalling way .", 
+                "you used your position as evidence she was lying and you were telling the truth '' .", 
+                "the offences happened over five years , between 2008 and 2013 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcccb2e4b0cf0501cabffa", 
+            "title": "travel update : broken-down lorry on a390", 
+            "text": [
+                "travel update : broken-down lorry on a390"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcb66be4b0df0fea8c2961", 
+            "title": "police pay \u00a3 4,000 compensation for raiding wrong homes", 
+            "text": [
+                "police paid out nearly \u00a3 4,000 in compensation as a result of home raids made on the wrong properties , it has been revealed ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dcb81de4b0cf0501cabfaa", 
+            "title": "teen 'may not be here today ' without gender identity support service", 
+            "text": [
+                "a devon teenager says a support service which helped him to come out as transgender at the age of 14 saved his life .", 
+                "james scott , 17 , from devon , was born a girl but is now living as a boy and wants to undergo hormone therapy and surgery to change sex .", 
+                "intercom trust , which helps the lgbt community in the south-west of england , said 309 people came forward in 2017 , up from 55 in 2011 .", 
+                "there is currently a four to five month waiting list for face-to-face support meetings with the service ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcc3a3e4b02f6a5dd6b76c", 
+            "title": "elsie scully-hicks : father 'would not have tolerated ' violence", 
+            "text": [
+                "a man whose husband is accused of murdering their adopted daughter said he would not have tolerated any violence if he had known of it .", 
+                "matthew scully-hicks , 31 , is accused of abusing 18-month-old elsie over several months and causing `` catastrophic '' injuries before she died in may 2016 .", 
+                "craig scully-hicks told cardiff crown court his house had been `` filled with love and happiness , all the time '' .", 
+                "matthew scully-hicks , of delabole , cornwall , denies murder ."
+            ], 
+            "author": [
+                "BBC Wales News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dca7a9e4b02f6a5dd6b70a", 
+            "title": "campaign to protect plymouth naval base", 
+            "text": [
+                "tory chiefs seek urgent confirmation that plymouth ships will not be scrapped ."
+            ], 
+            "author": [
+                "Plymouth Herald"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dcb1c4e4b0df0fea8c2952", 
+            "title": "shaggy still missing", 
+            "text": [
+                "the mousehole wild bird hospital is still looking for its donation box , which went missing last thursday .", 
+                "the shag collection box `` is of great sentimental value and a direct link to the founders '' , bosses said .", 
+                "it was carved in 1968 and is up to 1m ( 3ft ) tall .", 
+                "the hospital said it was very heavy even without any cash in it .", 
+                "still missing - `` shaggy '' the 3 ' high carved wooden collection box , went missing from the # mousehole wild bird hospital last thursday"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dcb727e4b0df0fea8c2963", 
+            "title": "travel update : traffic lights out in plymouth", 
+            "text": [
+                "in plymouth , on forder valley road and novorossiysk road the traffic lights have failed , approach with care ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dcb608e4b0df0fea8c295d", 
+            "title": "\u00a3 1.3m flood defence work complete", 
+            "text": [
+                "flood defence work in teignmouth has finished .", 
+                "the scheme , which focused on repairing , renewing and strengthening the sea wall from the lighthouse to the point , will help protect more than 400 homes and business in the town , the local council has said .", 
+                "the flood defence work , which cost \u00a3 1.3m and started in february , is expected to protect the resort for 75 years ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "19:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc798be4b0cf0501cabe9d", 
+            "title": "truro students take out international competition", 
+            "text": [
+                "students from a school in truro are celebrating after winning the f24 greenpower car world championship .", 
+                "the young car builders from richard lander school beat more than a hundred other competitors from across the uk and countries as far afield as brazil and america .", 
+                "their teacher ben lloyd-king says the projects is inspiring the students to become future engineers ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dca813e4b02f6a5dd6b70e", 
+            "title": "mum 's anger as bus strike disrupts son 's hospital operation visit", 
+            "text": [
+                "a mum has criticised striking bus drivers due to the disruption meaning that she will struggle to get her son to an important hospital appointment this week ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dca596e4b0cf0501cabf5a", 
+            "title": "devon artists create prints using wheelchairs", 
+            "text": [
+                "disabled artists have been developing print techniques to create paintings using their wheelchairs .", 
+                "paul webster has been working with artist fiona lovell at charity community equality disability action ( ceda ) in exeter , devon .", 
+                "he says he gets the ideas for his from looking at the outside world and the beach .", 
+                "the idea of using a wheelchair came out of an art lesson , to make printing more accessible for mr webster and his peers ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc9bc4e4b02f6a5dd6b6d5", 
+            "title": "unexploded bomb blown up", 
+            "text": [
+                "a phosphorus flare has been blown up at constantine bay after being found in the sea off north cornwall on monday ."
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc84e8e4b0df0fea8c2892", 
+            "title": "breakingteacher jailed for abusing girls", 
+            "text": [
+                "a former primary school teacher has been jailed for sexually assaulting two girls , one of whom was under 13 at the time .", 
+                "stephen higgitt , 60 , had been previously found guilty of two counts of assault on a child under 13 by penetration , three assaults by penetration and one charge of sexual assault .", 
+                "returning to truro crown court today , higgitt was sentenced to 14 years in prison ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc9cb6e4b0cf0501cabf27", 
+            "title": "teens rescue drunk man from tamar bridge", 
+            "text": [
+                "a man who was rescued by a group of teenagers from the tamar bridge was drunk , rather than trying to harm himself , police have said .", 
+                "the man was on the pedestrian walkway and appeared to be in a very agitated state , officers told the bbc .", 
+                "emergency services were called to the bridge that connects devon and cornwall at 20:05 on saturday .", 
+                "when police arrived the man climbed over the railings and was held on to by the group of passing teenagers .", 
+                "police officers then safely pulled the man back on to the right side of the railings at about 10:25 .", 
+                "the 46-year-old man from plymouth was checked over by paramedics and taken home ."
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc7f4ce4b0cf0501cabea8", 
+            "title": "cornish students crowned world champions", 
+            "text": [
+                "a team of budding engineers from a school in truro have raced their custom built green-powered car to success in an international competition .", 
+                "students from richard lander school designed the electric car which came first in the f24 greenpower car world championship in corby at the weekend .", 
+                "they beat more than 100 competitors to win the top prize .", 
+                "looks like the youngsters @ twitterid could soon be driving themselves to school after winning f24 # greenpower car world championship"
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc930ae4b0df0fea8c28bd", 
+            "title": "gender identity support service calls 'rise sixfold '", 
+            "text": [
+                "the number of people seeking help with gender identity issues has increased by almost six times in the past six years , according to a support service .", 
+                "intercom trust , which helps the lgbt community in the south-west of england , said 309 people came forward in 2017 , up from 55 in 2011 .", 
+                "it says the majority of these cases involved children , young people and their families .", 
+                "there is currently a four to five month wait for face-to-face support meetings .", 
+                "james scott , 17 , from devon , was born a girl but is now living as a boy and wants to undergo hormone therapy and surgery to change sex .", 
+                "james came out as transgender at the age of 14 with help from intercom trust and believes he `` may not be here today '' had he not had their support ."
+            ], 
+            "author": [
+                "BBC News UK"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc85c0e4b0df0fea8c2895", 
+            "title": "police still hunting sutton harbour rapist", 
+            "text": [
+                "police are still looking for the person who raped a 19-year-old woman in plymouth .", 
+                "the victim was attacked in the sutton harbour area of the city at about 23:45 on monday 18 september , devon and cornwall police said .", 
+                "the waterside area has several bars , restaurants and a university building , and officers are appealing for witnesses or those with information to come forward ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc80e9e4b0cf0501cabeaf", 
+            "title": "police officer talks about depression", 
+            "text": [
+                "thousands of people across cornwall are currently suffering with mental health problems , with many suffering in silence in fear of the stigma that is still attached to the term ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc71a7e4b0df0fea8c284c", 
+            "title": "council 'in control ' of exeter bus station development despite delay", 
+            "text": [
+                "the councillor overseeing the development of exeter bus station says the city council is in control of the situation , despite another delay to the project .", 
+                "on monday , the authority announced the bus station at paris street would not close as planned later this october , but will now shut in 2018 .", 
+                "councillor phil bialyck told bbc radio devon they ca n't get developers on site for another three to four months and clearing the current building of asbestos will also be an issue ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc84e3e4b02f6a5dd6b677", 
+            "title": "unexploded bomb found in sea off north cornwall", 
+            "text": [
+                "bomb disposal experts were called to reports of an unexploded bomb in the sea off north cornwall .", 
+                "a fishing vessel reported the ordnance , approximately 9 miles ( 14 km ) north of trevose , at about 12:00 on monday .", 
+                "the rnli and royal navy were called to the scene .", 
+                "a royal navy diver went into the sea to recover the ordnance .", 
+                "it was safety destroyed at constantine bay ."
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11053686", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc6f52e4b0df0fea8c2843", 
+            "title": "hip replacement to silver medal in 10 weeks", 
+            "text": [
+                "a woman who had a hip replacement 10 weeks ago has won a silver medal in backstroke .", 
+                "vicki buck , 67 , from looe says she 's bowled over by the success of the operation carried out by the peninsula nhs treatment centre in plymouth .", 
+                "she said the surgeon told her she could start swimming after six weeks .", 
+                "`` i started training very slowly , but building it up , '' she said .", 
+                "she won the medal at the east region masters in suffolk .", 
+                "the diagnosis of osteoarthritis could have ended ms buck 's 30-year swimming career , but now she 's looking forward to competing in swim england masters national championships in sheffield this month and again next year in plymouth ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc6d5ee4b0cf0501cabe6f", 
+            "title": "'library of things ' will open in devon if money can be raised", 
+            "text": [
+                "a 'library of things ' will open in devon - the sixth in the uk and the second in the county - if enough money can be raised ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc73d4e4b0cf0501cabe88", 
+            "title": "cqc calls for health bosses to have 'courage ' to overhaul services", 
+            "text": [
+                "the care quality commission 's ( cqc ) calling on cornwall 's health and social care managers to have `` courage '' to radically overhaul services .", 
+                "the cqc points to the county having less social care beds than other comparable parts of the country .", 
+                "in its annual report , the cqc says the system is `` straining at the seams '' because of increasing numbers of frailer pensioners and people with long term complex conditions ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc6ceee4b0df0fea8c283b", 
+            "title": "weather update : cloudy day ahead", 
+            "text": [
+                "a generally cloudy day with some outbreaks of light rain or drizzle .", 
+                "however , some bright or sunny spells are also possible , especially in the east .", 
+                "top temperature 16c ( 60f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc6b4fe4b0cf0501cabe68", 
+            "title": "man rescued from vehicle crash", 
+            "text": [
+                "a man who was trapped in a crashed vehicle has been rescued by fire crews .", 
+                "police and firefighters were called to the a399 near berrynarbor , in north devon , on monday evening .", 
+                "the vehicle was on its side and the man was trapped inside , firefighters said .", 
+                "crews used rescue equipment , a ladder and small tools to get the man out of the vehicle .", 
+                "he was given oxygen and left with paramedics .", 
+                "his condition is not known ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc6e55e4b02f6a5dd6b633", 
+            "title": "five-month wait for transgender advice", 
+            "text": [
+                "a charity which offers support to the lgbtq community in the south west says there 's currently up to a five-month wait for people wanting advice about gender identity .", 
+                "the intercom trust is reporting a sixfold increase in the past six years in people seeking help with transgender issues - mainly young people .", 
+                "there are calls for more education and funding ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59dc6d27e4b02f6a5dd6b62c", 
+            "title": "travel update : crash in illogan", 
+            "text": [
+                "in illogan we have reports of an accident on the a3047 agar road around druid 's road and wheal fortune lane ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59dc6c2ee4b0cf0501cabe69", 
+            "title": "news , sport , weather and travel for tuesday", 
+            "text": [
+                "good morning from bbc local live .", 
+                "we 'll be bringing you the news , sport , travel and weather for devon and cornwall today .", 
+                "if you want to get in touch , please email us ."
+            ], 
+            "author": [
+                "Sophie Malcolm", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-devon", 
+    "quality": "high"
+}

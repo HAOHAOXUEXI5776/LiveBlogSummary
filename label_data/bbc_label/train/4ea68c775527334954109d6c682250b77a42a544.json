@@ -1,0 +1,648 @@
+{
+    "blog_id": "4ea68c775527334954109d6c682250b77a42a544", 
+    "title": "Latest updates: Leicestershire Live on Monday 20 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-39303519", 
+    "summary": [
+        "updates for monday 20 march 2017 .", 
+        "two die in separate house fires .", 
+        "men in court charged with shepshed murder .", 
+        "where was the wigston magna workhouse ?", 
+        "atletico madrid tickets available from tomorrow .", 
+        "news , sport , travel and weather updates resume at 08:00 tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d00aaee4b033806f501997", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live - updates will start again on tuesday at 08:00"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d00a8be4b0762b96cdda13", 
+            "title": "weather : cold and wet", 
+            "text": [
+                "a cold night on the way - clear spells and scattered isolated showers .", 
+                "showers have the potential to be quite heavy and fall as sleet at times , or snow over high ground .", 
+                "a minimum temperature of 2c ( 36f ) .", 
+                "tuesday will feel noticeably cooler .", 
+                "a dry and bright start followed by sunny spells and scattered blustery showers .", 
+                "a maximum temperature of 8c ( 46f ) ."
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d00f62e4b0762b96cdda2f", 
+            "title": "watch : students create vest that predicts epileptic seizures", 
+            "text": [
+                "engineers from loughborough grammar school were on bbc breakfast this weekend explaining their invention that helps prevent epileptic seizures"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d007cae4b033806f501987", 
+            "title": "travel : delays in oakham", 
+            "text": [
+                "traffic struggling in the centre of # oakham , due to the closure of part of station road between station approach and northgate for roadworks"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d0002ce4b0762b96cdd9de", 
+            "title": "cash-in-transit driver 'hit with crowbar '", 
+            "text": [
+                "police have released more details about a robbery from a security van in enderby on friday .", 
+                "they 've said the cash-in-transit driver was making a delivery to barclays bank in broad street at around 11:20 when he was approached by two men .", 
+                "one hit him on the arm with a crowbar , then made off with the money in a car waiting nearby , police said .", 
+                "the car was later found abandoned .", 
+                "the victim received a minor injury to his arm but did n't need medical treatment ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cff61de4b0a714a98f4634", 
+            "title": "teen in court charged with attempted murder", 
+            "text": [
+                "a 14-year-old boy charged with attempting to murder a man on middleton street in aylestone last month has appeared at leicester crown court .", 
+                "the teenager , who we can not name for legal reasons , was remanded in youth detention to next appear in court on 21 april ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfd99de4b033806f50187a", 
+            "title": "memorial for king richard iii", 
+            "text": [
+                "the final journey of king richard iii has been commemorated in market bosworth with the unveiling of this stone memorial", 
+                "it 's near the spot in the market place where his remains rested on their journey from bosworth battlefield to leicester cathedral almost two years ago .", 
+                "loughborough artist damien witty created the piece", 
+                "he said he used green slate because of the monarch 's time at sheriff in penrith .", 
+                "he said it also represented the green grass of the battlefield ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d001e6e4b033806f501972", 
+            "title": "travel : road closure near fosse park", 
+            "text": [
+                "do n't forget - o/n tonight , the # b4114 closed citybound between the foxhunter isnd and the everards isnd due to works around leicester lane"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cff169e4b0762b96cdd98c", 
+            "title": "teenager in court charged with shepshed murder", 
+            "text": [
+                "leicester magistrates ' court has told me the 17-year-old charged with the murder of timothy smith in shepshed on thursday has also now appeared .", 
+                "he was remanded in youth detention to appear at leicester crown court on 18 april .", 
+                "earlier 20-year-old mark law from sandringham rise in shepshed appeared charged with the same offence .", 
+                "he was also remanded in custody to appear at crown court on that date ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfb03fe4b08b1f7dee441d", 
+            "title": "your questions : where was the wigston magna workhouse ?", 
+            "text": [
+                "one of our curious readers has been in touch using your questions to ask : `` where was the wigston magna workhouse ? ''", 
+                "a great question because it 's been tricky to find the answer .", 
+                "in a book called workhouses of the midlands by peter higginbotham it confirms there was a workhouse in wigston and in 1777 there were 32 inmates .", 
+                "the workhouse was open until 1837 when a bigger workhouse was built in enderby ( image below ) to house all the inmates within the blaby poor law union , including wigston magna .", 
+                "but where was the wigston magna workhouse ?", 
+                "well , i 've been in touch with the greater wigston historical society and chairman mike forryan said : `` we know little about the workhouse other than names of people who resided there . ''", 
+                "mr forryan said there was a lane on bulls head street called `` workhouse lane '' .", 
+                "- the lane went down the side of the bulls head inn which was opposite mowsley end .", 
+                "it 's thought this could have been where the workhouse was however there could have been other buildings rented for the purpose .", 
+                "this area of wigston was demolished by the council to build the by-pass - the society does n't have any photographs of the building ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfcf1de4b033806f501848", 
+            "title": "ticket information for atletico madrid match", 
+            "text": [
+                "ticket information for the first leg of the champions league match against atletico madrid has been announced by leicester city football club .", 
+                "the foxes have an allocation of 2,630 seats - a ticket will set you back \u00a3 61 .", 
+                "selected season ticket holders will be able to buy tickets from tomorrow ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfd9e4e4b0762b96cdd914", 
+            "title": "power outage extended in kirby muxloe", 
+            "text": [
+                "looks like those of you without power in kirby muxloe will have to wait a bit longer", 
+                "we 've got most supplies back on in the # kirbymuxloe # le9 area , but are working to restore the remaining properties by approximately 16:00 ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfd4cbe4b0a714a98f4594", 
+            "title": "afternoon weather update", 
+            "text": [
+                "there 'll be widespread rain today which could cause some tricky driving conditions .", 
+                "it 'll steadily become drier and slightly brighter later on this afternoon - highs of 11c ( 52f ) ."
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfc733e4b033806f501821", 
+            "title": "your photos : rainbow in loughborough", 
+            "text": [
+                "a very damp and dreary monday but our bbc weather watcher cmbc has been lucky enought to see this in loughborough"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfc389e4b033806f501811", 
+            "title": "man in court charged with murder", 
+            "text": [
+                "one of two people charged with murdering a man in shepshed last week has appeared before a magistrate .", 
+                "mark law , who is 20 years old and from sandringham rise in shepshed , was remanded in custody to appear at leicester crown court on tuesday 18 april .", 
+                "a 17-year-old man was also expected to appear in court this morning charged with murder ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfbe0ce4b0762b96cdd884", 
+            "title": "fire service to provide 'reassurance ' after fatal fires", 
+            "text": [
+                "leicestershire fire and rescue service has said they will be working in the melton and wigston areas during the next few days following two fatal house fires .", 
+                "the cause of both fires is being investigated by both the fire service and the police .", 
+                "the service has said it wants to `` provide reassurance and advice to residents '' .", 
+                "they 've called what happened a `` terrible tragedy '' and that their thoughts are with the family , friends of those killed ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfbc19e4b0762b96cdd873", 
+            "title": "power cut in kirby muxloe", 
+            "text": [
+                "western power distribution tweeted this message", 
+                "there is a # powercut in the # kirbymuxloe # le9 areas .", 
+                "we are sorry about this , and aim to have all supplies back on by 13:00 , rod"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfabfae4b08b1f7dee4407", 
+            "title": "your comments : empty homes in leicester", 
+            "text": [
+                "on our facebook page you 've been talking about empty homes in leicester .", 
+                "jason owen said : `` this is criminal , especially with houses being in such demand and so many new houses being built . ''", 
+                "barrie hawkins said : `` we complain there is a house shortage yet there is hundreds of houses lying to rot .", 
+                "it makes it harder for young couples to get a house due to high rent and high property rate .", 
+                "yet these houses could be done up and lived in but instead we build these new estates .", 
+                "we do n't need new houses old ones are easy to do up . ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfa5cbe4b07f8d67a0430a", 
+            "title": "bbl trophy final : plymouth raiders 58-91 leicester riders", 
+            "text": [
+                "leicester riders retained the bbl trophy with a 91-58 victory over the plymouth raiders in a one-sided final .", 
+                "leicester went 20 points ahead in the first quarter and plymouth never came within 12 points after that as they trailed 47-26 at half-time", 
+                "leicester coach rob paternostro : `` i could see it in the guys ' eyes - they were eager to play after two weeks off .", 
+                "`` you saw that in the way we came out .", 
+                "we set the tone early with some great play on both ends of the floor .", 
+                "this is a group of guys that do n't complain about [ how many ] minutes or shots they 're getting , they just want to win . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cfa24fe4b08b1f7dee43da", 
+            "title": "messages of condolence following fatal house fires", 
+            "text": [
+                "members of the leicestershire emergency services have been tweeting this morning about two fatal fires in the county .", 
+                "andrew brodie is assistant chief fire officer and said : `` dreadful news overnight in leicestershire as two die in house fires .", 
+                "our thoughts are with both families , their friends and neighbours . ''", 
+                "his thoughts were echoed by policeman rob nixon who said : `` very sad news .", 
+                "thoughts are with the families , friends and all of the emergency service staff involved . ''", 
+                "dreadful news overnight in leicestershire as two die in house fires .", 
+                "our thoughts are with both families , their friends and neighbours .", 
+                "it 's very sad news to hear our thoughts and prayers are with the family and friends during this difficult time", 
+                "thank you , it 's a terrible time .", 
+                "our response crews and control staff did a tremendous job , sometimes even that is n't enough", 
+                "very sad .", 
+                "my thoughts and prayers to the poor family , friends and crews that attended .", 
+                "very sad news !", 
+                "thoughts are with the families , friends and all of the emergency service staff involved ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cfa017e4b0ec68546e6176", 
+            "title": "watch : happiness born in leicestershire", 
+            "text": [
+                "today is `` officially '' international happiness day - a new birth is usually a very happy time so bbc radio leicester has been to a farm where they 're celebrating lots of births at the moment", 
+                "this little lamb was born at manor organic farm , in long whatton , just a few minutes ago .", 
+                "farmer graham matravers has called it `` happiness '' to mark the day ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf9840e4b08b1f7dee43b6", 
+            "title": "watch : empty homes in leicester", 
+            "text": [
+                "every area has its empty houses but here in leicester there are more than 4,000 with around a quarter of them being unused for at least 18 months .", 
+                "sarah thrower is a mother of two and is renting a `` tiny little house '' in the city - she said they are `` climbing over each other '' .", 
+                "she 's hoping to get on the council homing register so she can get a bigger house .", 
+                "she finds it especially frustrating when there are so many empty homes in the city .", 
+                "in leicester they have an empty homes team who are bringing about 200 empty homes back into use every year .", 
+                "carole thompson leads the team at leicester city council"
+            ], 
+            "author": [
+                "BBC Inside Out"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf9865e4b0ec68546e615b", 
+            "title": "watch : east midlands weather", 
+            "text": [
+                "watch : east midlands weather"
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf92eee4b0ec68546e614f", 
+            "title": "your photos : bee on blossom", 
+            "text": [
+                "thanks to les lewis for this photo of spring time in ratcliffe on the wreake"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf90b8e4b08b1f7dee439c", 
+            "title": "leicester mercury front page", 
+            "text": [
+                "friends and neighbours of a mother-of-three who has terminal cancer are rallying around to make her dream of getting married come true ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf8f20e4b08b1f7dee4391", 
+            "title": "foxes ease relegation worries with win at west ham", 
+            "text": [
+                "it was a successful weekend for leicester city who claimed their first premier league away win of the season beating west ham 3-2 .", 
+                "this was manager craig shakespeare talking after the match", 
+                "the foxes position in the premier league is now looking a lot more healthy"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58cf8d9ce4b08b1f7dee4388", 
+            "title": "anglo-welsh cup final : exeter chiefs 12-16 leicester tigers", 
+            "text": [
+                "leicester tigers claimed their first silverware in four years as they edged out exeter chiefs in a tight anglo-welsh cup final at the stoop .", 
+                "in a season which has seen leicester part company with director of rugby richard cockerill , a first trophy since their premiership title of 2013 will boost confidence for the rest of the campaign .", 
+                "leicester assistant coach geordan murphy : `` the guys have been passionate and committed throughout this tournament and some of the defensive shots that went in during the final quarter were fantastic .", 
+                "`` there was real ferocity in the tackle and it was some heroic defence at the end . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cf87c9e4b0ec68546e6117", 
+            "title": "men due in court charged with shepshed murder", 
+            "text": [
+                "to start with this morning - police have charged two people with the murder of a 45-year-old man in shepshed .", 
+                "timothy smith was found fatally injured inside a car on the gelders hall industrial estate on thursday evening .", 
+                "mark law , aged 20 , from sandringham rise in shepshed , and a 17-year-old male also from the town are due before leicester magistrates this morning ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cf89c2e4b08b1f7dee4375", 
+            "title": "two fatal house fires in leicestershire", 
+            "text": [
+                "two people died in separate house fires in leicestershire last night .", 
+                "the first was in melton mowbray - a 72 year old woman died and two others suffered smoke inhalation after the a property on lambert close caught fire around 20:00 .", 
+                "less than half an hour later emergency services were called to a house on warwick road in wigston where there was another blaze in a house .", 
+                "a 51-year-old man was taken to hospital with severe burns and later died .", 
+                "neither fires are thought to be sus"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58cf8afae4b0ec68546e6127", 
+            "title": "join us for today 's live news coverage", 
+            "text": [
+                "good morning leicestershire - i hope you 're all well this monday morning .", 
+                "a huge congratulations to leicester tigers who lifted the anglo-welsh cup yesterday after beating exeter 16-12 .", 
+                "more on this throughout the day as well as the rest of the day 's news , sport , weather and travel .", 
+                "if you 'd like to comment on any of the stories on the local live page you can send me an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:00"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

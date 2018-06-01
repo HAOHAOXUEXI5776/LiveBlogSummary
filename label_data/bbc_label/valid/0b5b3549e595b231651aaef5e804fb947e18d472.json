@@ -1,0 +1,671 @@
+{
+    "blog_id": "0b5b3549e595b231651aaef5e804fb947e18d472", 
+    "title": "BBC Local Live: Derbyshire on Tuesday 10 January 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-38567625", 
+    "summary": [
+        "updates for tuesday 10 january 2017 .", 
+        "deaf boy who fled is faces deportation .", 
+        "man charged with attempted murder of woman .", 
+        "tesco to shut chesterfield distribution centre .", 
+        "women 'inappropriately touched ' in city centre .", 
+        "county council approves tip charges .", 
+        "news , sport , travel and weather resume at 08:00 wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58751e51e4b08d5e65796196", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire and east staffordshire have finished for the day but we 'll be back at 08:00 tomorrow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5875192de4b08d5e6579617f", 
+            "title": "cctv released of man police want to speak to", 
+            "text": [
+                "video footage has been released of a man police want to speak to after a number of women reported being touched inappropriately in derby 's cathedral quarter ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58751e1ce4b08e753d553d7a", 
+            "title": "weather : turning mild", 
+            "text": [
+                "tonight will be very cloudy and windy with showery rain pushing in from the west during the early hours .", 
+                "lows of around 7c ( 45f ) initially however turning milder as the cloud and rain pushes in ."
+            ], 
+            "author": [
+                "Kay Crewdson", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58751503e4b0b4f965d3b6db", 
+            "title": "any questions for the assistant chief constable ?", 
+            "text": [
+                "tomorrow the assistant chief constable chris haward is coming in to talk to radio derby 's ian skye .", 
+                "is there anything you would like to ask him ?", 
+                "if so tweet , facebook or drop us an email ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10300733", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587510f2e4b08d5e65796154", 
+            "title": "alice in the bacon box 'found fame '", 
+            "text": [
+                "historian john easter has researched the life of alice in the bacon box and said she became a minor tourist attraction .", 
+                "he said : `` it 's something that you 're always aware of in little eaton , especially older families .", 
+                "your grandparents knew about her and mine certainly did .", 
+                "`` she became quite famous during the 20 years she was living rough .", 
+                "people were starting to come out from derby to see alice . ''"
+            ], 
+            "author": [
+                "Jack Maclaren", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58750a7be4b0b4f965d3b697", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_587501a7e4b0b4f965d3b662", 
+            "title": "a little derby nostalgia", 
+            "text": [
+                "there are many derbyshire local myths and legends - and this week we have been looking into alice in the bacon box .", 
+                "alice lived rough in little eaton towards the end of the 19th century and the beginning of the 20th .", 
+                "she became a local celebrity - becoming the face of thousands of postcards and lived in a box that once contained meat ."
+            ], 
+            "author": [
+                "Jack Maclaren", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874ff46e4b0b4f965d3b652", 
+            "title": "new role for ukip mep", 
+            "text": [
+                "ukip has named east midlands mep margot parker as `` spokesman '' for women & equalities"
+            ], 
+            "author": [
+                "Tim Parker", 
+                "BBC Radio Leicester Political Reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874fdf4e4b0b4f965d3b64a", 
+            "title": "what 's your favourite fa cup goal ?", 
+            "text": [
+                "did you know on bbc sport you can now vote to choose your favourite goal of the fa cup third round ?", 
+                "get your votes in to support your player will you be going for darren bent ?"
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874f8b2e4b08e753d553ccb", 
+            "title": "yellow warning of snow for region", 
+            "text": [
+                "yellow warning of snow for east midlands", 
+                "worcestershire ?", 
+                "my son is praying for snow : - ("
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874eeefe4b0b4f965d3b5f3", 
+            "title": "women 'inappropriately touched ' in city centre", 
+            "text": [
+                "police want to speak to a man after a number of women reported being touched inappropriately in derby 's cathedral quarter .", 
+                "he is described as slim , around 5ft 9ins tall , believed to be in his early 20s and was wearing glasses ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874f11ee4b0b4f965d3b5fc", 
+            "title": "hear from julian de sart tonight", 
+            "text": [
+                "hear from julian de sart tonight"
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874ea19e4b08e753d553c7c", 
+            "title": "county council approves tip charges", 
+            "text": [
+                "derbyshire county council 's approved plans to charge people to dump certain types of waste at its tips .", 
+                "a \u00a3 3 charge will apply to demolition waste - items such as builders ' rubble , tiles and plasterboard ."
+            ], 
+            "author": [
+                "Wesley Mallin", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874bdd1e4b0b4f965d3b508", 
+            "title": "your photos : crich", 
+            "text": [
+                "what a wonderful view in crich taken by our weather watcher kings .", 
+                "if you have any snaps , send them to us here or on our instagram where your photos could be featured ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874d59be4b08d5e65796049", 
+            "title": "period of 'redeployment ' for tesco workers", 
+            "text": [
+                "there will be a period of consultation and redeployment as 200 workers at tesco 's distribution centre in barlborough find out more today"
+            ], 
+            "author": [
+                "Andy Kershaw", 
+                "BBC Radio Sheffield News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874d4b4e4b08e753d553c0e", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874d2e5e4b08e753d553c05", 
+            "title": "family to appeal home office decision", 
+            "text": [
+                "lawand 's family has appealed the decision and it will be heard at the high court .", 
+                "however , it is not yet known when the case will take place .", 
+                "friends of the family have started an online petition called : `` give lawand a chance to communicate '' .", 
+                "it has gained more than 10,000 signatures ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874cac8e4b08e753d553bd6", 
+            "title": "home office 'will not shoulder burden ' of claims", 
+            "text": [
+                "speaking about lawand 's case , a home office spokesman said : `` it is only fair that we do not shoulder the burden of asylum claims that should rightly be considered by other countries .", 
+                "`` asylum seekers should claim in the first safe country they arrive in .", 
+                "where there is evidence that an asylum seeker is the responsibility of another european country we will seek to return them there . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874c7b3e4b08d5e65795ffc", 
+            "title": "deaf boy made 'exceptional progress '", 
+            "text": [
+                "lawand now attends the specialist education school royal school for the deaf derby .", 
+                "the school 's headteacher , helen shepherd , told the bbc in december he had made `` exceptional progress '' .", 
+                "`` lawand 's family are understandably devastated that they are being deported , '' she said after the latest decision ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874c06de4b08d5e65795fcf", 
+            "title": "deaf boy 's family 'spent year in refugee camp '", 
+            "text": [
+                "lawand hamadamin came to derby after spending a year in a refugee camp in france .", 
+                "his family travelled to greece , germany and france , then hid in the back of a lorry to get to the uk ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "11:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874b507e4b08e753d553b5a", 
+            "title": "fly-tipping in west handley", 
+            "text": [
+                "yesterday we told you about derbyshire county council proposals to charge residents for throwing away certain materials at their tips .", 
+                "people on our facebook said it would increase fly-tipping - like this from yesterday .", 
+                "can you please share and help us convict who did this ?", 
+                "# flytipping slag lane , west handley on 9 jan 2017 please contact us with any info rt", 
+                "said if before , but will say again - fly-tipping scumbags .", 
+                ".", 
+                "@ neddc slag lane lol"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874b4abe4b08d5e65795f91", 
+            "title": "picture : m1 misery", 
+            "text": [
+                "bad luck if you 're caught in this", 
+                "here 's the view from junction 23a after an overturned vehicle has closed the m1 northbound at junction 24 ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874b0b7e4b0b4f965d3b4b1", 
+            "title": "badminton : success for team derby", 
+            "text": [
+                "another win for team derby last night - they beat surrey smashers 3-2 in the nbl .", 
+                "they 're now third , a point behind top spot ."
+            ], 
+            "author": [
+                "Ed Dawes", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874b056e4b08d5e65795f80", 
+            "title": "possible joint bid for pub", 
+            "text": [
+                "a developer wants to knock down the spotted cow in holbrook and build about eight houses on the site .", 
+                "however the pub was given a stay of execution in november last year , when planning permission was refused by the local authority .", 
+                "stephanie limb ( from the holbrook community society , said : `` we are in talks with builders , who might be willing to go in a joint bid with us , to build two plots at the back and us buy the pub and car park as the community . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874a8c1e4b0b4f965d3b484", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874a9dce4b08e753d553b24", 
+            "title": "rams sign striker david nugent", 
+            "text": [
+                "nearly 10 years after they first tried to sign him , derby county have eventually got him .", 
+                "recap : # dcfc yesterday signed striker david nugent from @ twitterid side @ twitterid for an undisclosed fee :", 
+                "class player who always gets ye goals !", 
+                "we loved him at boro good memories sadly missed all the best utb"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874a6bfe4b08d5e65795f4a", 
+            "title": "heanor bowie fan marks death anniversary", 
+            "text": [
+                "a david bowie fan from derbyshire is in berlin today to mark the first anniversary of the singer 's death .", 
+                "bowie died just two days after his 69th birthday .", 
+                "james draper , from heanor , said he was one of his biggest fans .", 
+                "here he is outside bowie 's apartment in berlin ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "clip_2017-01-10T09:18:29.432Z_p04nzzpc", 
+            "title": "weather for the east midlands", 
+            "text": [
+                "weather for the east midlands"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874a2a6e4b08d5e65795f3a", 
+            "title": "job losses as distribution centre closes", 
+            "text": [
+                "tesco 's distribution centre in barlborough , near chesterfield , is to close with 200 job losses .", 
+                "there will be a period of consultation and redeployment as 200 workers at tesco 's distribution centre in barlborough find out more today"
+            ], 
+            "author": [
+                "Andy Kershaw", 
+                "BBC Radio Sheffield News"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5874a0a2e4b08d5e65795f2e", 
+            "title": "your photos : moon in heanor", 
+            "text": [
+                "what a great capture from our weather watcher the heanor weather station .", 
+                "this photo of the moon was taken last night .", 
+                "thank you for sending this in ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58749d59e4b0b4f965d3b445", 
+            "title": "breakingman charged with attempted murder", 
+            "text": [
+                "a 56-year-old man has been charged with attempted murder after a 59-year-old woman was found injured at a house in spondon .", 
+                "paul sherratt , of avondale road , spondon , is due to appear before southern derbyshire magistrates ' court this morning ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58749a66e4b08d5e65795f15", 
+            "title": "community group trying to save local pub", 
+            "text": [
+                "a derbyshire community group is trying to raise a quarter of a million pounds to buy the local village pub from a developer .", 
+                "the spotted cow in holbrook closed in 2014 but a developer wants to knock it down and sell the land for housing ."
+            ], 
+            "author": [
+                "Nigel Cash", 
+                "BBC Radio Derby reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58749624e4b08e753d553ac2", 
+            "title": "travel : clay mills crash", 
+            "text": [
+                "the a38 in burton upon trent is partially blocked and there 's slow traffic northbound at clay mills , because of an accident ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5874949be4b08e753d553ab5", 
+            "title": "good morning : our live coverage across the day", 
+            "text": [
+                "good morning !", 
+                "it 's me with your news , travel , sport and weather for derbyshire and east staffordshire today .", 
+                "if there 's anything you want to comment on you can email or tweet us .", 
+                "have a good day !"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:18"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

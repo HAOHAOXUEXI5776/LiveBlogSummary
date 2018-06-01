@@ -1,0 +1,765 @@
+{
+    "blog_id": "75c4de9e4813300f07c79af20e215c77f92d4951", 
+    "title": "BBC Local Live: Devon & Cornwall on Thursday 21 September - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-devon-41284388", 
+    "summary": [
+        "police hunt armed man after knifepoint robbery .", 
+        "antelopes put down in paignton zoo tb outbreak .", 
+        "devon engineer calls for hurricane manpower .", 
+        "couple to pay for lifesaving treatment transport .", 
+        "cornish vegetable grower aims to break the world record for the heaviest green cabbage .", 
+        "more news , sport , travel and weather from 08:00 on friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3cc21e4b0dcc521fa8cd0", 
+            "title": "thanks for joining us at bbc local live for devon and cornwall", 
+            "text": [
+                "live updates for devon and cornwall have finished for the day , but we 'll be back at 08:00 on friday with the latest news , sport , travel and weather .", 
+                "do n't forget spotlight on bbc one later .", 
+                "there will also be news through the night on your bbc local radio station ."
+            ], 
+            "author": [
+                "Jonathan Morris", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3c17fe4b0de79b8534773", 
+            "title": "coach boss blames brexit for hols cancellation", 
+            "text": [
+                "the boss of a coach company claims soaring costs after the brexit vote are to blame for the cancellation of holiday trips .", 
+                "hamiltons coach travel in st austell told customers their river danube excursion and a separate trip to spain would not go ahead .", 
+                "boss david hamilton wrote to clients listing a number of reasons including the breakdown of his marriage , `` the brexit vote '' causing his bill `` to increase abroad by over 22 % overnight '' and having `` no way of recovering the loss '' .", 
+                "mr hamilton also says he was let down by an agent , and bookings are down because of the fear of terror attacks .", 
+                "he says he is `` in the process of refunding the money '' ."
+            ], 
+            "author": [
+                "David George", 
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3cbdbe4b0dcc521fa8ccf", 
+            "title": "devon and cornwall weather outlook : bright afternoon and winds easing", 
+            "text": [
+                "winds will continue to ease this afternoon , leading to a mostly dry and bright afternoon .", 
+                "maximum temperature : 17c ( 63f ) .", 
+                "after a bright evening with late sunshine and lighter winds , a dry , clear and rather cold night will follow .", 
+                "a few mist and fog patches will form in prone spots such as the exe valley .", 
+                "minimum temperature : 6c ( 44f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3cb10e4b0de79b8534799", 
+            "title": "police hunt armed robber after knifepoint threat to ivybridge shopworker", 
+            "text": [
+                "police are appealing for witnesses following a robbery at a convenience store in ivybridge last night .", 
+                "a shop assistant was threatened with a knife at the mccolls shop on costly street and was made to open the till and hand over a quantity of cash .", 
+                "detectives have been reviewing cctv footage ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3e551e4b0de79b85347fa", 
+            "title": "supersonic car sets off for cornwall", 
+            "text": [
+                "this is claimed to be the world 's most advanced straight-line racing car and will be driven for the first time at cornwall airport newquay in late october .", 
+                "the bloodhound super sonic car 's leaving avonmouth today for cornwall .", 
+                "it 's preparing to do a test drive of up to 200mph there in october !"
+            ], 
+            "author": [
+                "Twitter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c38081e4b0dcc521fa8b52", 
+            "title": "warships commander hands over control in devonport", 
+            "text": [
+                "there 's a new commander of the royal navy flotilla of warships in plymouth .", 
+                "commodore rob bellfield is the new commander devonport flotilla .", 
+                "he replaces commodore paul halton who goes on to a new post .", 
+                "commodore bellfield is a former commanding officer of the training establishment hms raleigh and captain of three frigates ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3ba40e4b010d90a24d3a1", 
+            "title": "'anti-smoking culture ' brings drop in cornwall smokers", 
+            "text": [
+                "more smokers are packing in the habit in cornwall but there are still about 80,000 who are refusing to quit .", 
+                "ten years ago 21 % of people in cornwall smoked , but this has now fallen to 15.7 % according to research by the university college of london ( ucl ) .", 
+                "the report has been released as cornwall council and public health england launch the stoptober quit smoking campaign .", 
+                "robert west , professor of health psychology at ucl said : `` quitting success rates this year are soaring .", 
+                "the advances and wider choice in effective quitting options , and stronger anti-smoking culture are fuelling this acceleration . ''"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3cd15e4b0de79b85347a1", 
+            "title": "on the trail of interesting trees", 
+            "text": [
+                "a new set of walks taking in interesting trees is launched in torbay today .", 
+                "the so-called i-tree trail is a project between the local council , nhs and a forestry enterprise .", 
+                "people can follow tree trails in brixham , paignton and torquay .", 
+                "the idea is to get people out taking exercise and also to help them learn about the value of trees in the urban environment ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3cdc9e4b010d90a24d3f8", 
+            "title": "shelterbox aid on way to hurricane-hit dominica", 
+            "text": [
+                "shelterbox says one of its teams is making its way to the island of dominica which has seen massive devastation from hurricane maria .", 
+                "the charity says communications with the island have been hampered by the hurricane .", 
+                "it says the hurricane season was predicted to be severe , but the current frequency and ferocity of storms is `` unprecedented '' ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3c9dce4b010d90a24d3e4", 
+            "title": "paignton zoo staff 'saddened ' at culling of antelope herd", 
+            "text": [
+                "paigton zoo say staff are `` saddened '' by having to cull a herd of antelopes after one of the zoo 's animals died in may from bovine tb .", 
+                "a post-mortem examination on the dead lechwe antelope tested positive for bovine tb according to the zoo which has culled 10 of the animals .", 
+                "`` this is a notifiable disease and by law has to be reported to the government , who have legal powers to enforce action to control its spread , '' said the zoo .", 
+                "it is now working with government agencies to prevent the spread of the disease ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3ca78e4b010d90a24d3e7", 
+            "title": "it could almost be summer in st ives", 
+            "text": [
+                "it could almost be summer in st ives"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c391b7e4b0dcc521fa8ba1", 
+            "title": "'some still ask if i like knitting ' says mabel on her name", 
+            "text": [
+                "`` in secondary school having an old fashioned name was very uncool , '' said mabel barclay , a 23-year-old student from devon , who lives in lancashire .", 
+                "as a list of the most popular baby names in england and wales was released , our readers shared the stories behind their own names .", 
+                "`` i stuck out like a sore thumb in a comprehensive school of more than 2,000 students all called sarah or emma , when i just wanted to fit in , '' said mabel .", 
+                "`` due to the dog on blue peter being called mabel and auntie mabel on come outside , i was mocked .", 
+                "`` some people still ask if i like knitting today and some laugh when they meet me first time , expecting an old lady .", 
+                "`` people from the older generations often comment on it because they have relatives with the name .", 
+                "it 's now a great conversation starter and i get to hear lots of lovely stories about peoples families .", 
+                "`` i think the name suits me more now because i 've become a little traditional with my interests as i 've matured .", 
+                "it turns out i do enjoy wool crafts .", 
+                "whether that 's because i 'm conforming to the stereotype or not , i do n't know . ''"
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c39332e4b010d90a24d2af", 
+            "title": "council tax swindlers targeted in east devon", 
+            "text": [
+                "taxpayers who wrongly claim they live alone and get a council tax discount are being targeted in east devon .", 
+                "checks are beginning this month to ensure that the 21,000 east devon householders who currently claim a 25 % undefineddiscount for living alone are still entitled to it .", 
+                "councillor ian thomas , portfolio holder for finance , said `` anyone genuinely claiming a reduction should not be concerned '' .", 
+                "`` however , if you are found to be deliberately misleading the council , you could face a penalty of \u00a3 70 , as well as having to repay the discount , '' he added ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3b770e4b0dcc521fa8c6b", 
+            "title": "breakingantelopes put down in paignton zoo tb outbreak", 
+            "text": [
+                "paignton zoo has put down a small herd of antelopes after an outbreak of bovine tb .", 
+                "ten kafue flats lechwe , two male and eight female , were put down after the first confirmed case of bovine tb at the zoo .", 
+                "staff are working with defra to prevent it spreading to other animals including installing fencing to stop badgers from carrying the disease , the zoo said .", 
+                "executive director simon tonge : `` wild animals in zoological collections can suffer the same fate as livestock on farms .", 
+                "`` the most important thing is to take appropriate action to make sure more animals in the collection are not infected . ''", 
+                "there is no increased risk to visitors and the risk to staff is `` minimal '' said the zoo ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "14:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3a563e4b0dcc521fa8c05", 
+            "title": "poltair school student restrained by police after reportedly threatening teachers", 
+            "text": [
+                "police rushed to a school in st austell and restrained a student after receiving reports that a pupil was threatening staff ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3a061e4b010d90a24d305", 
+            "title": "air and sea crews close to caribbean for hurricane aid mission", 
+            "text": [
+                "plymouth-based hms ocean is carrying trucks , food , temporary shelters , building materials and toys to the hurricane-hit caribbean .", 
+                "it 's expected to reach the region at the end of the week , along with an on-board team of sailors and air crews from rnas culdrose-based 820 naval air squadron ( nas ) .", 
+                "having operated in africa for the ebola crisis , 820 nas already has experience operating from a ship at sea to help with disaster relief efforts ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "13:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3b18ae4b0de79b853472e", 
+            "title": "cornwall airport newquay announces new route", 
+            "text": [
+                "budget airline eurowings has announced that it will launch a new route from cornwall airport newquay to germany next year ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3ad1ce4b010d90a24d355", 
+            "title": "police release description of knife-wielding robber", 
+            "text": [
+                "police have released a description of a man they are hunting following an armed robbery at a convenience store ."
+            ], 
+            "author": [
+                "Plymouth Herald"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c37397e4b010d90a24d234", 
+            "title": "undercover bike officers catch mobile phone drivers", 
+            "text": [
+                "undercover police officers on bicycles led to three drivers being fined for using mobile phones in exeter .", 
+                "five other drivers were given warnings on passing too close to cyclists after the patrol on wednesday around the busy cowley bridge road .", 
+                "it was part of operation close pass which is aimed at making the roads safer for cyclists .", 
+                "councillor stuart hughes , devon county council cabinet member with responsibility for cycling , said : `` we want everyone to share our roads and shared paths safely , be patient and show consideration for each other . ''"
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3981ce4b010d90a24d2c3", 
+            "title": "'unprecedented ' number of a & e patients 'forced to wait on trolleys and in ambulances '", 
+            "text": [
+                "patients share their experiences of being treated at a hospital during an unprecedented '' busy period ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c38658e4b0de79b8534665", 
+            "title": "eden tree specialist helps hurricane-hit miami gardens", 
+            "text": [
+                "the eden project has sent a tree specialist to florida to help a famous botanic garden recover from the ravages of hurricane irma .", 
+                "tro arborist craig lewis has taken a chainsaw and ropes with him to the kampong , part of the national tro botanic garden in miami to help the clean-up operation .", 
+                "dr mike maunder , who was director of the kampong until joining eden , said : when we heard of the damage it was clear we had to help . ''", 
+                "collections of plants are uniquely vulnerable to extreme weather and it is imperative that the repair is performed by horticultural experts .", 
+                "craig will be joining the superb kampong team . ''"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c393c4e4b0dcc521fa8bab", 
+            "title": "private ambulance service suspended", 
+            "text": [
+                "a private ambulance service for mental health patients has had its registration suspended by the care quality commission ( cqc ) .", 
+                "riviera ambulance service , based in torquay , transfers nhs and private patients around devon , cornwall and further afield .", 
+                "the cqc confirmed it has taken `` urgent enforcement action '' against the company following an inspection , but has not released any further information .", 
+                "the manager of riviera said he is working to rectify the `` faults identified '' and has `` no concerns about safety '' .", 
+                "`` we are taking the steps required by the cqc but our record and reputation speaks for itself , '' he added ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c38f7de4b0dcc521fa8b99", 
+            "title": "hazel and poppy - what 's behind a name ?", 
+            "text": [
+                "as a list of the most popular baby names in england and wales was released , our readers shared the stories behind their own names .", 
+                "`` we named our first daughter hazel as my husband and i both have hazel eyes and she is a bit of both of us , '' said kate kreke , who is originally from chicago but lives in kingsbridge in south devon .", 
+                "`` i panicked when i found out i was pregnant with another girl as we had used up our girl name so it took a few days to name poppy .", 
+                "`` she was born near the 99th anniversary of the start of wwi and there were poppies everywhere and she has this lovely red hair - it seemed to fit .", 
+                "`` i thought i was being original again like hazel 's name but it turned out to be the 14th most popular name of the year .", 
+                "i blame the war . ''"
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c36b16e4b0dcc521fa8aea", 
+            "title": "people 'angered ' after confederate flag raised outside hall", 
+            "text": [
+                "anger has been sparked in a cornish community after someone flew the american confederate flag at its village hall ."
+            ], 
+            "author": [
+                "Cornwall Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c37640e4b0de79b853461b", 
+            "title": "triple amputee mark ormrod ready for first invictus games", 
+            "text": [
+                "a former royal marine from plymouth who was injured in afghanistan 10 years ago is preparing for his first invictus games .", 
+                "triple amputee mark ormrod has just taken delivery of a new hand cycle in time for the competition for injured military personnel which starts on saturday in toronto .", 
+                "he 'll also be taking part in rowing and swimming events .", 
+                "3 years after prince harry founded the invictus games the uk 's biggest ever team is flying to canada to compete in this year 's event"
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c38972e4b010d90a24d28c", 
+            "title": "resort removes flower beds in effort to 'tackle s epidemic '", 
+            "text": [
+                "police and local authorities try to reduce `` s epidemic '' in torbay ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c3642ce4b0de79b85345cb", 
+            "title": "\u00a3 500k for exeter dementia research", 
+            "text": [
+                "more than \u00a3 500,000 is going to fund research into dementia by scientists in exeter .", 
+                "they 're examining how the condition affects the brain , as well as looking into different aspects of its cause and progression .", 
+                "the cash from alzheimer 's research uk is going to fund the work of three leading experts at the university of exeter medical school ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c37dcbe4b0dcc521fa8b3d", 
+            "title": "cornwall acid attack victim : `` i will wear the scars to the grave ''", 
+            "text": [
+                "andreas christopheros , who was attacked with acid at his cornwall home in 2013 , says he will `` wear the scars to the grave '' .", 
+                "on average in 2016 , there were two acid attacks a day and 2017 is now projected to be the year with the highest number of attacks ever recorded in the uk .", 
+                "over the past few years there has been a change in the way acid has been used .", 
+                "no longer just associated with shame or honour attacks , acid is now a weapon used by moped thieves as well as a means of settling gang disputes ."
+            ], 
+            "author": [
+                "BBC News Magazine"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c36ca6e4b0de79b85345ed", 
+            "title": "boy , 10 , collects clothes for hurricane-hit survivors", 
+            "text": [
+                "a 10-year-old devon boy 's been so moved by tv of hurricane-hit islands in the caribbean , he 's started his own aid mission to help survivors .", 
+                "alex morgan came up with the idea of collecting clothing , shoes and essentials like bedding for those affected by the storms .", 
+                "he 's now in a race against time to collect the goods and get them on to a container in london by next wednesday , to be shipped out .", 
+                "after hearing his story on bbc radio devon , a van driver has come forward to move the goods from devon to london .", 
+                "hurricane irma and maria have both caused devastation on islands in the caribbean ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c372eee4b0dcc521fa8b0a", 
+            "title": "car attacked with paint in appledore", 
+            "text": [
+                "police are investigating after a car was attacked with paint in appledore , north devon .", 
+                "officers said it happened on monday or tuesday at tomouth road and they are appealing for witnesses ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c3707ee4b0de79b8534602", 
+            "title": "wet and windy , but brightening up this afternoon", 
+            "text": [
+                "it 's a wet and windy start this morning with heavy bursts over dartmoor .", 
+                "the rain will ease during the morning and the wind will die down so the afternoon will be dry and bright .", 
+                "maximum temperature : 17c ( 63f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c361e0e4b010d90a24d1e9", 
+            "title": "trying to grow the world 's biggest cabbage", 
+            "text": [
+                "a giant vegetable grower has got his sights set on the record for the heaviest green cabbage ever grown .", 
+                "david thomas from cornwall already holds three world records for other giant vegetables , but the heaviest green cabbage has eluded him .", 
+                "the current record holder was grown in alaska in 2012 .", 
+                "he will find out if his latest effort has surpassed the 62kg ( 138lb ) record at the national giant vegetables championship in malvern , worcestershire , on friday ."
+            ], 
+            "author": [
+                "Johnny O'Shea", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c368cfe4b010d90a24d209", 
+            "title": "breakingraider threatens shopworker with knife", 
+            "text": [
+                "a shop assistant was threatened with a knife in a raid on an ivybridge shop , police have said .", 
+                "the robber ordered the shopworker at mccoll 's in costly street to open the till before he made off with a `` quantity of cash '' said police .", 
+                "it happened at 20:15 on wednesday .", 
+                "the offender is described as male , white and 6ft ( 1.8m ) tall .", 
+                "he was wearing a blue coat with a hood covering his face ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59c35e78e4b010d90a24d1d3", 
+            "title": "zero waste shop boss 's household waste reduction tips", 
+            "text": [
+                "do you worry about the amount of rubbish you throw out ?", 
+                "former footballer richard eckersley recently opened a zero waste shop in totnes , devon .", 
+                "here are some of his top tips for trimming your trash ."
+            ], 
+            "author": [
+                "Jonathan Morris", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c360e1e4b0de79b85345bd", 
+            "title": "dialysis couple face transport fees hit", 
+            "text": [
+                "a st austell couple say they 've been left in the dark about changes that will see them have to pay for transport to hospital for regular lifesaving treatment .", 
+                "for the past year paul crowther 's wife has travelled from st austell to the royal cornwall hospital in truro three times a week for kidney dialysis , with the cost of transport being met by the nhs .", 
+                "now they 've learnt that from the end of this month they 'll have to pay the full cost - which they say they ca n't afford .", 
+                "nhs kernow say some people may be eligible for help with their transport costs if they have either a medical need or they receive financial help ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c35fb7e4b0dcc521fa8ac9", 
+            "title": "plea to help hurricane-hit british virgin islands", 
+            "text": [
+                "a marine engineer from devon who 's been living on the british virgin islands is calling on people to go back with him to help rebuild the islands ' infrastructure .", 
+                "hurricane irma caused devastation when it hit earlier in september and the islands were battered by 160mph winds from hurricane maria earlier this week .", 
+                "leo whitting who is originally from kingsbridge has launched a website called the british virgin islands stormtroopers where people can find out more .", 
+                "the group consists of bvi islanders , residents and international tradesmen ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59c35dede4b0dcc521fa8abd", 
+            "title": "local live for devon and cornwall", 
+            "text": [
+                "welcome tolocal live in devon & cornwall .", 
+                "we 'll be bringing you all the day 's news , sport , weather and travel and if you have a story email us ."
+            ], 
+            "author": [
+                "Jonathan Morris", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "20:15"
+        }
+    ], 
+    "genre": "uk-england-devon", 
+    "quality": "high"
+}

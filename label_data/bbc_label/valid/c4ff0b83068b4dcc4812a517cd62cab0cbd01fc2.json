@@ -1,0 +1,537 @@
+{
+    "blog_id": "c4ff0b83068b4dcc4812a517cd62cab0cbd01fc2", 
+    "title": "M4 Closure: Thursday 8 December - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-berkshire-38239569", 
+    "summary": [
+        "m4 reopens westbound from j13 to j14 .", 
+        "hgv driver taken to hospital with serious injuries after two lorry collision .", 
+        "police appealing for witnesses after crash at 02.38 gmt ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_584943e2e4b020ed1e9bec1b", 
+            "title": "all clear on the m4", 
+            "text": [
+                "things seem to be running smoothly on the m4 now after the interesting morning we 've had .", 
+                "we 're closing our live coverage for now , but for all your latest news , travel , weather and sport visit our daily live page ."
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_584940d3e4b0e181fd5d94c5", 
+            "title": "m4 j13 begins to clear", 
+            "text": [
+                "recovery and clear-up complete # m4 btwn j13 and j14 nr # cheivley # westberkshire .", 
+                "road now fully re-opened .", 
+                "delays easing .", 
+                "should clear soon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58493c87e4b082b17ce88825", 
+            "title": "how long did it take for you to get to work today on the m4 ?", 
+            "text": [
+                "some drivers this morning had it worse than others", 
+                "four hours to get to work # m4 .", 
+                "very bad !", 
+                "# traffic"
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58493be9e4b020ed1e9bebf0", 
+            "title": "south central ambulance update on j13 hgv crash", 
+            "text": [
+                "i 've just spoken to a south central ambulance spokesperson who gave us these details :"
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58493c82e4b082b17ce88824", 
+            "title": "breakingm4 reopens at j13", 
+            "text": [
+                "we have had a number of calls from drivers who tell us that the m4 is now back open at junction 13 .", 
+                "it has been closed since 02:45 gmt following a collision between two hgvs .", 
+                "more as we get it ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_584934bee4b082b17ce887f5", 
+            "title": "m4 closure : what we know so far", 
+            "text": [
+                "a lorry driver has been seriously injured in a collision involving two hgvs that has left the m4 closed until at least 14:00 gmt .", 
+                "the crash happened on the m4 westbound in berkshire between junction 13 and junction 14 just after 02:30 gmt .", 
+                "the road is closed away from london between the two junctions , causing queues on the m4 , the a34 and in newbury .", 
+                "one of the lorry drivers has been taken to hospital with serious injuries ."
+            ], 
+            "author": [
+                "John Hudson", 
+                "BBC Berkshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58493185e4b020ed1e9beba9", 
+            "title": "travel latest : m4 still closed at j13", 
+            "text": [
+                "travel latest : m4 still closed at j13"
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58492fffe4b020ed1e9beb9c", 
+            "title": "breakingm4 junction 7 reopens", 
+            "text": [
+                "the closed lanes on the m4 at junction 7 have now reopened but the slip road at junction 6 is still closed ."
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58492ab7e4b082b17ce887be", 
+            "title": "aa travel update for the newbury area", 
+            "text": [
+                "major traffic alert for # m4 due to road closed westbound near newbury .", 
+                "all routes busy - expect to re-open at", 
+                "@ twitterid truck crash apparently", 
+                "yes this is correct as reported on bbc news -"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_584928dae4b020ed1e9beb60", 
+            "title": "travel update : m4 junction 7 rolling road block", 
+            "text": [
+                "a rolling road block has been put in place at junction 7 on the m4 .", 
+                "this could mean the road is being checked for debris before reopening ."
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5849263fe4b020ed1e9beb4e", 
+            "title": "breakingm4 closed until at least 14:00", 
+            "text": [
+                "highways england are currently estimating that the m4 westbound at j13 will remain closed until at least 2pm today .", 
+                "we have been informed the m4 in newbury will be closed until approx .", 
+                "14:30 this afternoon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58492526e4b0e181fd5d9405", 
+            "title": "problems on the busses", 
+            "text": [
+                "m4 closure is now causing 30 delays to jet black services .", 
+                "please accept our apologies for these delays ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584924d1e4b082b17ce88795", 
+            "title": "stuck on m4 at j13 for 2 hours", 
+            "text": [
+                "do not head anywhere near the m4 jnct13 .", 
+                "been sat in traffic 2hrs and not moved !", 
+                "hi there , i work for @ twitterid and we 're doing travel updated for the m4 can you follow me so i can dm you ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58491bace4b020ed1e9beaf6", 
+            "title": "travel updates", 
+            "text": [
+                "travel updates"
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_584920c9e4b0e181fd5d93ea", 
+            "title": "travel : m4 junction 13 update", 
+            "text": [
+                "the traffic lights have been switched off at chievely interchange roundabout to help with traffic flow ."
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5849200ae4b020ed1e9beb22", 
+            "title": "junction 13 lorry crash", 
+            "text": [
+                "both blue watch appliances out to a hgv collision again in the early hours this morning .", 
+                "please take extra care if driving through the night", 
+                "quite a mess !", 
+                "!"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58491d47e4b0e181fd5d93d8", 
+            "title": "m4 collision : police appeal for witnesses", 
+            "text": [
+                "a lorry driver has been taken to hospital with serious injuries after a collision on the m4 this morning .", 
+                "thames valley police is appealing for witnesses to the collision between two hgvs which happened at 02.38 gmt between junction 13 at chievely and junction 14 at hungerford .", 
+                "no arrests have been made .", 
+                "we are appealing for anyone who was travelling on the m4 in either direction this morning between the times of 2.30am and 3am near to junction 13 and 14 of the m4 westbound to come forward as they may have information to help us with our investigation ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58491b56e4b082b17ce88752", 
+            "title": "travel update : newbury is 'just chaos '", 
+            "text": [
+                "more callers stuck in traffic this morning have let bbc radio berkshire know what 's going on in their area .", 
+                "i 'm stuck in traffic around newbury coming out of lambourne on the a338 .", 
+                "everything is gridlocked at j14 north of the m4 .", 
+                "everything is coming off at the a34 at wantage to try and avoid junction 13 , so there 's about 2 miles of solid traffic trying to get away from junction 14 .", 
+                "people are also trying to use the back roads to get into newbury and that 's causing a mile and a half of traffic getting off the b4000 .", 
+                "the a4 is also gridlocked going towards newbury and the a34 is solid northbound towards tot hill .", 
+                "it 's just chaos in newbury ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584918d7e4b082b17ce88744", 
+            "title": "'parked with ignition off '", 
+            "text": [
+                "heading from newbury towards the m4 nigel is starting to think it may have been a bad plan this morning .", 
+                "i should have used the a4 # hindsight avoid m4 j13 people .", 
+                ": /", 
+                "is that towards swindon or reading ?", 
+                "i know that 's somewhere near newbury @ twitterid", 
+                "towards swindon .", 
+                "i 'm heading from newbury to j13 -unfortunately !", 
+                "parked /crawling for abt an hour now .", 
+                "hope it improves soon !", 
+                "thanks for sharing , as it might stop others from going the same way", 
+                "exactly .", 
+                "and that might help the area too .", 
+                "i 've not got very far in past hour .", 
+                "150 yds may be .", 
+                "a4 in newbury packed also i hear", 
+                "hi nigel , can we use your tweet / on bbc news online ?", 
+                "well , i 'm parked , ignition off .", 
+                "should be o.k ?", 
+                ": s"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58491727e4b020ed1e9beace", 
+            "title": "m4 at junction 6 looks 'just grim '", 
+            "text": [
+                "in the queue on the slip road past junction 6 it 's just grim , i was caught right the way back at junction 4b for the m25 heading westbound .", 
+                "nothing is moving very quickly .", 
+                "heading toward the lane closure they 've closed two of the lanes up ahead and busy rush hour traffic is trying to squeeze through one lane ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58491731e4b082b17ce88738", 
+            "title": "m4 junction 13 traffic cameras", 
+            "text": [
+                "m4 junction 13 traffic cameras"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58491595e4b020ed1e9beac6", 
+            "title": "m4 accident scene 'pretty chaotic '", 
+            "text": [
+                "people stuck in the traffic have been calling bbc radio berkshire with what they can see at one of the two problem spots on the m4 this morning .", 
+                "i have just passed by the scene of the accident on junction 7 and it looks pretty chaotic certainly going westbound .", 
+                "coming off the slip road at junction 7 the road is completely closed and the emergency services are attending to a vehicle fire .", 
+                "one lane of the motorway is also closed and traffic is queuing beyond junction 6 towards the m25 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58491153e4b0e181fd5d9378", 
+            "title": "m4 junction 13 accident scene update", 
+            "text": [
+                "@ twitterid just passed accident @ j13 .", 
+                "lorry still across carriageway .", 
+                "the cabs very badly damaged no indication it 's moving soon"
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584912b7e4b020ed1e9beab0", 
+            "title": "travel update : a404 one lane closed", 
+            "text": [
+                "damage only rtc with one lane closed on a404 northbound , please avoid if possible # p5409", 
+                "all lanes now open and road cleared , thank you for your patience # p5409"
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_584911cee4b082b17ce88705", 
+            "title": "m4 closure : queuing latest", 
+            "text": [
+                "the m4 has been closed between j13 and j14 westbound since 02.45gmt due to an accident involving two lorries .", 
+                "there are two miles of queues and diversions in place .", 
+                "there is also one lane closed at j7 westbound due to another accident involving three cars ."
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58490c57e4b082b17ce886ee", 
+            "title": "travel : closures m4 westbound at j7 slough and j13 newbury", 
+            "text": [
+                "update : m4 : closed westbound j13 ( newbury ) to j14 ( hungerford ) after serious accident in early hours.long delays on all approaches .", 
+                "m4 junction 7 ( slough west ) : all lanes closed westbound after accident .", 
+                "delays already back to j5 ( langley ) ."
+            ], 
+            "author": [
+                "Mandy O'Neale", 
+                "BBC Berkshire travel presenter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584906bbe4b020ed1e9bea68", 
+            "title": "good morning !", 
+            "text": [
+                "good morning and welcome to the bbc local live service for berkshire on thursday .", 
+                "we 'll be bringing you all the latest news , sport , travel and weather throughout the day .", 
+                "you can keep in touch with us via our facebook and twitter pages ."
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:40"
+        }
+    ], 
+    "genre": "uk-england-berkshire", 
+    "quality": "high"
+}

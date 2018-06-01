@@ -1,0 +1,1462 @@
+{
+    "blog_id": "38be440961856433641fd7004b87758e695c4d2d", 
+    "title": "Sanders and Clinton trade barbs at Democratic debate over foreign policy, race relations \u00e2\u0080\u0093 as it happened | US news | The Guardian", 
+    "url": "https://www.theguardian.com/us-news/live/2016/feb/11/democratic-debate-bernie-sanders-hillary-clinton-milwaukee-2016-presidential-election", 
+    "summary": [
+        "the hottest moments from tonight 's democratic presidential debate .", 
+        "closing statements from tonight 's democratic presidential debate .", 
+        "tonight 's hot debate to henry kissinger .", 
+        "sanders and clinton address high levels of african american incarceration .", 
+        "hillary clinton addresses female enthusiasm gap .", 
+        "the democratic presidential debate in milwaukee begins !", 
+        "what you need to know about tonight 's democratic presidential debate ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd5a3be4b0e04c43d739bc", 
+            "title": "", 
+            "text": [
+                "closing remarks from bernie sanders : and closing remarks from hillary clinton :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                4, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd580fe4b080c5d0ebd975", 
+            "title": "the hottest moments from tonight 's democratic presidential debate", 
+            "text": [
+                "bernie sanders and hillary clinton .", 
+                "young/reuters hillary clinton , after defending her poor showing among female voters in new hampshire , notes the historic nature of tonight 's debate - due , in part , to her own presence : somebody told me earlier today that we have had something like 200 presidential primary debates , and this is the first time in our history that there have been a majority of women on the stage , so we 'll take our progress wherever we can find it .", 
+                "bernie sanders pushes his message of combating economic inequality as a key component of fighting racial inequality : the african american community lost half of their wealth as a result of the wall street collapse , sanders said .", 
+                "clearly we are looking at institutional racism .", 
+                "with both sanders and clinton aggressively courting latino voters in the upcoming nevada caucuses , their exchange over who has been less faithful to the implementation of comprehensive immigration reform was an important one .", 
+                "clinton went after sanders ' no vote on comprehensive immigration reform under george w. bush in 2007 , which sanders defended as a move encouraged by scores of liberal advocacy groups .", 
+                "nobody anticipated former secretary of state henry kissinger being a topic of hot contention tonight , but after sanders tied clinton to the nobel-winning , cambodia-burning former diplomat , clinton dropped this critique on the vermont senator : journalists have asked who you do listen to on foreign policy , and we have yet to know who that is clinton drops a well-tuned response to sanders ' criticism of her vote in support of the iraq war : i do n't believe that a vote in 2002 is a plan to defeat isis in 2016 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                4, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd563ce4b0d007e4723c90", 
+            "title": "closing statements from tonight 's democratic presidential debate", 
+            "text": [
+                "bernie sanders : one of us ran against barack obama - i was not that candidate .", 
+                "this has been a great debate - lot of interesting issues have come together .", 
+                "let me conclude by just saying this : there is no president , in my view , not hillary clinton and not bernie sanders , who has the capability or the power to take on wall street , large campaign donors , the corporate media , the big money itnerests in this country alone .", 
+                "this campaign is not just about electing a president .", 
+                "what this campaign is about is creating a process for a political revolution in which millions of americans , working people who have given up on the political process tens of millios of people , together to demand that we have a government that represents all of us - and not just the one percent who today have so much economic and political power .", 
+                "hillary clinton : i am not a single-issue candidate , and i do not believe that we live in a single-issue country , clinton says .", 
+                "does wall street and big financial interests , along with drug companies , insurance companies , big oil , have too much influence ?", 
+                "right .", 
+                "but even if that influence were to evaporate , other issues of inequality would n't disappear .", 
+                "we would still have lgbt people who get married on saturday and get fired on monday , she says .", 
+                "i do n't think our country can live up to its potential unless we give a chance to let every single american to live up to their potential/"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd55bae4b0bef6d53d3a8f", 
+            "title": "", 
+            "text": [
+                "madam secretary , that is a low blow .", 
+                "bernie sanders , hitting hillary clinton when she hits him for hitting president barack obama ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd54ede4b0d007e4723c8e", 
+            "title": "", 
+            "text": [
+                "bernie sanders ' campaign had a bullet in the chamber when it came to henry kissinger , it seems : daveweigel ( @ daveweigel ) the sanders campaign rapid response on kissinger is straight fire"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd5487e4b080c5d0ebd972", 
+            "title": "", 
+            "text": [
+                "the more things change joshua benton ( @ jbenton ) the atlantic , covering sanders in 1985 : all bernie wants to talk about is vietnam and the third world"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd53d5e4b0d007e4723c8d", 
+            "title": "", 
+            "text": [
+                "more on the relationship between hillary clinton and henry kissinger the most direct link between kissinger and clinton is robert hormats , a former vice-chairman of goldman sachs who served as under-secretary of state for economic growth , energy and the environment from 2009 to 2013 , while clinton headed the department of state .", 
+                "hormats is currently vice-chairman of kissinger associates , the consulting firm founded by kissinger .", 
+                "hillary clinton aides ' wall street links raise economic policy doubts read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd53aee4b0d159b0b6757e", 
+            "title": "", 
+            "text": [
+                "further to the questions of the relationship between clinton and former secretary of state henry kissinger , one can look to clinton 's 2014 review of kissinger 's book in which she describes just how friendly she is with him : kissinger is a friend , and i relied on his counsel when i served as secretary of state .", 
+                "he checked in with me regularly , sharing astute observations about foreign leaders and sending me written reports on his travels .", 
+                "though we have often seen the world and some of our challenges quite differently , and advocated different responses now and in the past , what comes through clearly in this new book is a conviction that we , and president obama , share : a belief in the indispensability of continued american leadership in service of a just and liberal order ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd53b6e4b0bef6d53d3a8b", 
+            "title": "", 
+            "text": [
+                "it 's easy to talk to your friends - it 's harder to talk to your enemies .", 
+                "bernie sanders , on diplomacy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd52f7e4b0e04c43d739b6", 
+            "title": "", 
+            "text": [
+                "when a moderator asked a fear-baiting question about whether we 're prepared for the next threat ( which , when you think about it , is sort of like asking candidates to predict the next national security threat ) clinton came alive , giving her most animated response on national security to date .", 
+                "she reeled off an impressively long list of what needs to be done in the middle east from supporting the american air campaign to supporting arabs and kurds on the ground .", 
+                "meanwhile sanders returned to the thing he always returns to : his 2003 vote against going to war in iraq , arguing ( as he has previously ) that it underscores how experience does n't translate to good judgement with regard to foreign policy .", 
+                "his point was n't particularly well received by the audience , ( tepid applause ) and clinton had a strong retort : i do not believe a vote in 2002 is a plan to defeat isis in 2016 .", 
+                "after victory in new hampshire and a strong showing in iowa , sanders will have to do better on foreign policy if he wants to be a credible commander in chief ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd5224e4b080c5d0ebd96f", 
+            "title": "tonight 's hot debate to henry kissinger", 
+            "text": [
+                "bernie sanders emphasizes hillary clinton 's relationship with former secretary of state and improbable nobel laureate henry kissinger , whose support for military actions in cambodia have made him a b\u00e3\u00aate noire of the american left : with clinton 's sick burn ( bern ? )", 
+                "at 1:11 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd5134e4b0bef6d53d3a89", 
+            "title": "", 
+            "text": [
+                "journalists have asked who you do listen to on foreign policy , and we have yet to know who that is hillary clinton , after bernie sanders attacked henry kissinger ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd50d3e4b0d007e4723c89", 
+            "title": "", 
+            "text": [
+                "hillary clinton may have finally found the line that neutralizes bernie sanders ' loud and frequent invocation of her vote in support of the iraq war : hillary clinton ( @ hillaryclinton ) a vote in 2002 is not a plan to defeat isis in 2016 .", 
+                "# demdebate"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd509ae4b0d007e4723c88", 
+            "title": "", 
+            "text": [
+                "hillary clinton and bernie sanders respond to a facebook question about the size of the federal government :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd5001e4b0d159b0b6757b", 
+            "title": "", 
+            "text": [
+                "after hillary clinton rattles off a lengthy list of strategies , specific tactics , specific cities and specific forces to be used in fighting isis , bernie sanders elaborates on his singular foreign policy win over clinton : not voting in support of the iraq war .", 
+                "i do n't believe that a vote in 2002 is a plan to defeat isis in 2016 , clinton retorts ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4d8ee4b0e04c43d739b4", 
+            "title": "", 
+            "text": [
+                "# realtalk : with both bernie sanders and hillary clinton aggressively courting latino voters in the upcoming nevada caucuses , their exchange over who has been less faithful to the implementation of comprehensive immigration reform was an important one .", 
+                "clinton went after sanders ' no vote on comprehensive immigration reform under george w. bush in 2007 , which sanders defended as a move encouraged by scores of liberal advocacy groups ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4d72e4b0e04c43d739b3", 
+            "title": "", 
+            "text": [
+                "in april 2014 , dontre hamilton , a 31-year old milwaukee man with a history of mental illness , was shot to death in a public park by a white police officer .", 
+                "tonight , his mother , maria hamilton , is hillary clinton 's guest at the democratic debate in milwaukee , according to news reports .", 
+                "clinton referenced hamilton in the debate , calling his death a tragedy and saying that his family believed that he should still be alive and so did she .", 
+                "some more background : officer christopher manney approached hamilton in red arrow park on 30 april 2014 , after a complaint from starbucks employees about a homeless man sleeping in the park .", 
+                "manney made hamilton get up and then patted him down .", 
+                "the officer said that hamilton then began to attack him .", 
+                "the interaction ended in manney shooting hamilton 14 times , killing him .", 
+                "milwaukee police chief ed flynn later fired officer manney not for the shooting itself , but for failing to follow department policy in the interaction that led up to the shooting .", 
+                "manney 's firing sparked a no-confidence vote against the police chief by the local police union .", 
+                "the officer never faced criminal charges .", 
+                "the justice department reviewed the incident but announced last fall they would not be filing civil rights charges , either ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4b5ce4b0d007e4723c85", 
+            "title": "", 
+            "text": [
+                "bernie sanders said i am the only candidate up here that does not have a super pac .", 
+                "but candidates do n't have super pacs , super pacs have candidates .", 
+                "( and candidates are not allowed to coordinate with the super pacs that support them ) .", 
+                "the word super pac has become an anathema to democratic voters , akin to the boogeyman of the koch brothers ( who also came up during this campaign finance question ) , which is why , even though senator bernie sanders absolutely knows that campaign finance law prohibits coordination between a candidate and a super pac ( let alone the control of the latter by the former ) , he keeps using this talking point .", 
+                "so , yes , george soros and donald sussman contributed millions to a super pac supporting clinton ; you can read more about the super pacs supporting her here , from the sunlight foundation .", 
+                "clinton 's candidate pac , though , is hillary for america and it is more strictly regulated .", 
+                "the washington post has a great graphic breaking down financial industry donations to clinton 's candidate pac versus those to the supporting super pacs ; she gets money both ways , but the questions in the debates always conflate the two without noting the legal differences between them .", 
+                "so while it 's fair to say that clinton-supporting super pacs are raking in major donations from wall street , to say that clinton herself is taking their donations because the super pacs are is n't entirely accurate .", 
+                "clinton 's candidate pac does take donations from people who work in the financial services industry , but when sanders refers to the super pac donations , he 's referring to money that clinton and her campaign can neither solicit nor control ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4cb6e4b080c5d0ebd968", 
+            "title": "", 
+            "text": [
+                "full video of hillary clinton distancing herself from finance-sector donations to a super pac supporting her - and hugging bernie sanders tight on their shared online donor support :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4abee4b0b9a8ab2f1fbc", 
+            "title": "", 
+            "text": [
+                "after noting that half of hillary clinton 's financial sector donations came from just two people - financiers george soros and john sussman - judy woodruff asks clinton : what influence will your campaign contributors have on your administration ?", 
+                "hillary clinton : we both have a lot of small donors , i think that sets us apart from what 's happening on the republican side .", 
+                "mcnamee/getty images after dismissing the question on its face as one that should be asked of super pacs that support her , clinton states that i 'm very proud of the fact that we have more than 750,000 donors , and the vast majority of them are giving small contributions .", 
+                "i 'm going to continue to reach out to thank all of my online contributors for everything they are doing for me , clinton continues , and i think that is the real key here .", 
+                "we both have a lot of small donors , i think that sets us apart from what 's happening on the republican side ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                3, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4a3ee4b0b9a8ab2f1fbb", 
+            "title": "", 
+            "text": [
+                "bernie sanders pushed aggressively against hillary clinton 's supposed squishiness on the issue of undocumented immigration , particularly her past statements about returning unaccompanied minors to their countries of origin :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd49f0e4b0d007e4723c84", 
+            "title": "", 
+            "text": [
+                "bernie sanders ' campaign team is pushing back hard on hillary clinton 's past support for returning undocumented , unaccompanied minors to their native countries : bernie sanders ( @ berniesanders ) it is appalling that @ twitterid insisted that minors be shipped back to their country of origin like a package marked return to sender ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd49b9e4b0d159b0b67576", 
+            "title": "", 
+            "text": [
+                "the moderators handed an impossible question over to sanders and clinton early in the night , which basically amounted to a charge to calm scared white people down without sounding racist .", 
+                "ready ?", 
+                "go !", 
+                "the solution to their racially loaded question for both candidates was to be very , very boring .", 
+                "and it worked !", 
+                "clinton did a good job of diffusing the racial tension from the question by talking about how many white communities are also being affected by poverty , while sanders pivoted to his favorite to how this all comes back to the economy .", 
+                "we can talk about it as a racial issue , but really it 's an economic issue , he began .", 
+                "and poof !", 
+                "just like that , sanders had an excuse to give his stump speech ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd49c6e4b0d159b0b67577", 
+            "title": "", 
+            "text": [
+                "should undocumented families fear deportation under your presidency ?", 
+                "hillary clinton and bernie sanders respond :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4906e4b0d159b0b67575", 
+            "title": "", 
+            "text": [
+                "fun fact from last week 's new hampshire primaries : bernie sanders got nearly 16 times as many votes as jim gilmore among republican presidential primary voters in new hampshire .", 
+                "you read that right : the republican presidential primary ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4879e4b0d159b0b67574", 
+            "title": "sanders and clinton address high levels of african american incarceration", 
+            "text": [], 
+            "is_key_event": true, 
+            "sent_label": [], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd484ce4b0e04c43d739ad", 
+            "title": "", 
+            "text": [
+                "just like last week , ohio governor john kasich is a one-man livetweeting party : john kasich ( @ johnkasich ) john kasich said no to an obamacare state exchange .", 
+                "he will repeal and replace obamacare as president .", 
+                "# demdebate john kasich ( @ johnkasich ) as president @ twitterid will return power , money & influence to the states .", 
+                "how ?", 
+                "# demdebate john kasich ( @ johnkasich ) john kasich does n't just talk prison reform .", 
+                "his team has done it and made ohio a national model of success ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd46dae4b0d159b0b67573", 
+            "title": "", 
+            "text": [
+                "vocativ managing editor ben reininga asked on twitter how many prisoners the us would have to free to make our prison population not the largest in the world .", 
+                "ben reininga ( @ benreininga ) how many people would bernie to flat-out free in four years to make us jail population not the biggest ?", 
+                "like a million ?", 
+                "# demdebate according to the world prison brief ( which the washington post uses to rate claims about our comparative prison population size as true ) , releasing about 559,000 people currently incarcerated would reduce the number of prisoners in the us to the point that we had fewer people incarcerated than china does .", 
+                "we 'd have to release about 2m to get down to mexico incarceration levels ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4731e4b0e04c43d739ac", 
+            "title": "", 
+            "text": [
+                "not only do african americans and latinos face the general economic crises of low wages and high unemployment and poor educational opportunities , but they face systemic racial obstacles to economic success as well , sanders says , before redirecting the line of inquiry to general economic inequality ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd469de4b0bef6d53d3a7f", 
+            "title": "", 
+            "text": [
+                "bernie sanders addresses what he calls the hypocrisy of republican fixation on small government and women 's reproductive choice :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4636e4b0b9a8ab2f1fb7", 
+            "title": "", 
+            "text": [
+                "the african american community lost half of their wealth as a result of the wall street collapse , sanders says , on race issues .", 
+                "clearly we are looking at institutional racism .", 
+                "bernie sanders speaks during the democratic presidential primary debate .", 
+                "gash/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd45afe4b080c5d0ebd962", 
+            "title": "", 
+            "text": [
+                "hillary clinton 's full remarks on female voters , taking a conciliatory tone when asked why more new hampshire women did n't vote for her : i have spent my entire adult life making sure that women are empowered to make their own choices even if that choice is not to vote for me ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4522e4b0e04c43d739aa", 
+            "title": "", 
+            "text": [
+                "is secretary clinton , you 're not in the white house yet ?", 
+                "the new you 're likable enough , hillary ?", 
+                "as guardian us report lois beckett noted on twitter , it definitely did n't sit well with a lot of listeners : lois beckett ( @ loisbeckett ) a moment of complete timeline consensus on bernie 's `` you 're not in the white house yet . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4554e4b0bef6d53d3a7e", 
+            "title": "", 
+            "text": [
+                "important to note after hillary clinton mentioning the death of dontre hamilton , a mentally ill man who died after being shot more than a dozen times in milwaukee in 2014 : maria hamilton , dontre 's mother , is a guest of clinton 's at tonight 's debate ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd44ace4b0e04c43d739a9", 
+            "title": "", 
+            "text": [
+                "i completely agree with senator sanders on criminal justice reform , clinton says , before noting that her first policy speech of the 2016 campaign was on that to"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4481e4b080c5d0ebd961", 
+            "title": "", 
+            "text": [
+                "hillary clinton took a conciliatory tone when asked why more new hampshire women did n't vote for her , using a phrase so clever it seemed prepared .", 
+                "i have spent my entire adult life making sure that women are empowered to make their own choices even if that choice is not to vote for me .", 
+                "it was a strong response to an issue that 's been dogging clinton all week after surrogates like madeleine albright said there 's a special place in hell for women who do n't help other women .", 
+                "when the moderator probed clinton on that specifically , she handled it , too , masterfully , managing to answer without turning on either her friend or the younger women who 've opted not to vote for her in droves .", 
+                "she 's been saying that for as long as i 've known her but it does n't change that we need to empower women and men to make the best decision they can make ; that 's what i 've always stood for .", 
+                "clinton 's surrogates made the mistake of not being deferential enough to younger women voters in their choice not to vote for her ; clinton herself is n't falling into that trap ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4432e4b0e04c43d739a8", 
+            "title": "", 
+            "text": [
+                "senator bernie sanders rails against limited access to healthcare , and against criticisms of his plans for universalizing medicare :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd424ee4b0d159b0b67572", 
+            "title": "hillary clinton addresses female enthusiasm gap", 
+            "text": [
+                "judy woodruff asks hillary clinton about her problem with female voters , noting that in new hampshire , 55 % of women supported bernie sanders ' candidacy .", 
+                "what are they missing about you ?", 
+                "bernie sanders pauses as hillary rodham clinton watches during the democratic presidential primary debate .", 
+                "gash/ap i have spent my entire adult life working toward making sure that women are empowered to make their own choices - even if that choice is not to vote for me , clinton jokes .", 
+                "i have an agenda , i have a record that really does respond to a lot of the specific needs that the women in our country face .", 
+                "i have no argument with anyone making up her mind about who to support - i just hope by the end of this campaign , there will be plenty more supporting me .", 
+                "woodruff continues , asking about the special place in hell comments by clinton supporter madeline albright about women who do n't support other women .", 
+                "she 's been saying that for as long as i 've known her , clinton says , but it does n't change my view that we need to empower everyone women and men to make the best decisions that , in their minds , they can make .", 
+                "i would note , just for a historic aside , clinton notes .", 
+                "somebody told me earlier today that we have had something like 200 presidential primary debates , and this is the first time in our history that there have been a majority of women on the stage , so we 'll take our progress wherever we can find it .", 
+                "the audience goes wild , then laughs after woodruff tells bernie sanders that though he may be in the minority we still want to hear from you ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                30
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4118e4b080c5d0ebd95e", 
+            "title": "", 
+            "text": [
+                "bernie sanders has suggested that the main drivers of america 's high health care spending ( and poor results ) are the costs of health insurance and drug costs , both of which he could get under control with single-payer , universal health care .", 
+                "( notably , as columnist scott lemieux has noted , single payer and universal health care are not the same thing , and you can get the latter without the former . )", 
+                "but are the absence of pharmaceutical price controls which is how every other country in the world controls drug costs and the existence of health insurance companies really the two main drivers of cost and inefficiency ?", 
+                "according to the centers for disease control , no : national drug expenditures were less than 10 % of all national expenditures in 2013 .", 
+                "hospital care accounted for 32 % of expenditures and physician and clinical services accounted for 20 % .", 
+                "the net costs of ( non-government ) health insurance accounted of only 5 % of expenditures ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd41fbe4b0d159b0b67571", 
+            "title": "", 
+            "text": [
+                "full video of bernie sanders ' opening statement : and hillary clinton 's opening statement :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd4174e4b0b9a8ab2f1fb2", 
+            "title": "", 
+            "text": [
+                "secretary clinton , you 're not in the white house yet .", 
+                "bernie sanders , on hillary clinton 's plans for expansion of government"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd4150e4b0d007e4723c7d", 
+            "title": "", 
+            "text": [
+                "lauren gambino ( @ lgamgam ) the last thing we need is to throw our country into a contentious debate again .", 
+                "@ twitterid # demdebate"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd40b3e4b0e04c43d739a3", 
+            "title": "", 
+            "text": [
+                "in an exchange over the future of obamacare and potential for universal health care , hillary clinton cites her history of fighting for that program in the early 1990s .", 
+                "having been in the trenches , fighting for this , i believe strongly that we have to guarantee health care , but , clinton cautions , we are not england , we are not france , we inherited a system that was set up in world war ii ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd3dc2e4b0b9a8ab2f1fb0", 
+            "title": "", 
+            "text": [
+                "the introductions of tonight 's debates highlight what will likely be a focus of the entire night : structural economic inequality and its impact on the electoral system .", 
+                "bernie sanders takes the stage before the democratic presidential primary debate .", 
+                "gash/ap we have today a campaign finance system which is corrupt , which is undermining american democracy , which allows wall street millionaires and billionaires to pour money into a corrupt campaign system , opens bernie sanders .", 
+                "aligned with a corrupt campaign finance system , sanders says , is a rigged economy , an economy where ordinary americans are working longer hours for shorter wages and yet they are seeing almost all new income and new wealth .", 
+                "african americans receive the brunt of this structural inequality , sanders argues : they see kids getting arrested for marijuana , getting imprisoned , getting a criminal record , while they see executives on wall street pay millions of dollars in settlements and get no prosecution at all .", 
+                "americans , sanders concludes , are tired of establishment politics , tired of establishment economics - they want a political revolution .", 
+                "hillary rodham clinton takes the stage before the democratic presidential primary debate .", 
+                "gash/ap hillary clinton piggybacks on sanders ' inequality narrative .", 
+                "i 'm running for president to knock down all the barriers that are holding americans back , clinton says , especially those who have been left out and left behind .", 
+                "yes , the economy is rigged in favor of those on top , clinton continues , echoing a standard part of sanders ' platform and stump speech .", 
+                "we have to do much more to ensure that wall street never wrecks main street again .", 
+                "clinton pays close attention to racial minorities : african americans who face discrimination in the job market , education , housing and the criminal justice system are in particular need of help ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd3d13e4b080c5d0ebd95b", 
+            "title": "", 
+            "text": [
+                "a quick note on tonight 's programming : this is the first all-female moderated presidential debate in democratic campaign history , as well as the first all-female moderating team of this campaign cycle on either side ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd3cbde4b0bef6d53d3a7b", 
+            "title": "the democratic presidential debate in milwaukee begins !", 
+            "text": [
+                "here .", 
+                "we .", 
+                "go ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                2, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd3b59e4b0b9a8ab2f1fae", 
+            "title": "", 
+            "text": [
+                "a hint of the possibility of fireworks at tonight 's debate : bernie sanders telling stephen colbert that both democratic and republican voters have a reason to be angry ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                1, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd34d4e4b0d007e4723c73", 
+            "title": "", 
+            "text": [
+                "in non-clinton v. sanders news , the guardian 's david smith reports from columbia , south carolina , where jeb bush has detailed his older brother 's new role in his foundering presidential campaign : jeb bush speaks during a campaign event in columbia , south carolina .", 
+                "keane/reuters jeb bush has spoken about his brother george w bush 's decision to make a long-awaited campaign debut in south carolina on monday .", 
+                "i 've never had this problem that you all apparently thought i had : i 'm a bush , proud of it , he told reporters after an event in columbia tonight .", 
+                "i love my brother , love my dad , love my mother .", 
+                "it 's part of who i am .", 
+                "i have a record that i share obviously as governor of the state of florida and i 'm focused on the detailed plans i 've laid out to lift our economy up and keep us strong .", 
+                "my brother will be part of that story and i 'm proud of the fact he 's coming and honoured .", 
+                "this is the first time that he 's really stepped out in the political realm since he was president .", 
+                "i think there 'll be a lot of interest in what he has to say .", 
+                "the former president will speak at a rally at the north charleston coliseum and convention centeron mondayevening .", 
+                "after disappointment in iowa and mediocrity in new hampshire , jeb bush is hoping his brother will help capitalise on the family 's traditional strength in south carolina .", 
+                "the toxic legacy of the iraq war , which many analysts blame for the rise of isis , does not appear to have dented the 43rd president 's popularity in some circles .", 
+                "bush said : he 's the last republican that was president .", 
+                "he is the most popular republican alive .", 
+                "he is my brother .", 
+                "he has made tough decisions as president .", 
+                "all of that i think is important for people to be reminded of and for him to come do this warms my heart and i think it 's important .", 
+                "the former governor also dismissed florida rival marco rubio 's claim that he has more foreign policy experience .", 
+                "bush said : he goes to committees and passes amendments and talks about amendments to bills that never happen .", 
+                "i 've been a ceo of the fourth largest state in the country , the head of the national guard 12,000 men and women i 've lived overseas , i 've travelled overseas , i 've done business overseas , i have developed relationships with leaders overseas .", 
+                "i 'm pretty fluent on the issues of foreign policy and marco can say he has a record but what would it be ?", 
+                "that he goes to committee hearing and talks to people ?", 
+                "that 's fine , that 's the job of a senator , but what is the record of accomplishment ?", 
+                "bush , who turns 63 today , was greeted with a chorus of happy birthday when he arrives at a bare brick hall with paper lanterns and concrete floor in columbia .", 
+                "most visitors were forced to stand due to a lack of chairs at the chilly venue , which was far from full .", 
+                "bush once again attacked donald trump , deriding his profanity , vulgarity and narcissism and telling the audience : he goes bankrupt four times and brags about playing the system .", 
+                "yeah , tell that to the people who lost their jobs and the vendors who got stiffed .", 
+                "but he got the biggest applause of the night for this more optimistic line : it 's not about me , it 's not about donald trump , it 's not about hillary clinton , it 's not about bernie sanders .", 
+                "it 's about people being able to pursue their dream as they see fit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                1, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56bd3223e4b0d007e4723c70", 
+            "title": "", 
+            "text": [
+                "one hour before the democratic candidates are to take the stage in milwaukee , dozens of fast food workers staged a strike just outside the press filing center at the university of wisconsin-milwaukee , where the sixth debate will be held , demanding a $ 15 per hour minimum wage and union rights .", 
+                "raising the federal minimum wage to $ 15 per hour is one of bernie sanders 's core policy proposals .", 
+                "hillary clinton , however , has said she supports raising the federal minimum wage to $ 12 , but has also commended the fight for 15 movement .", 
+                "carrying signs and banging , they chanted : you want our vote , come get our vote .", 
+                "there were also protester carrying signs that read immigrant justice and black lives matter .", 
+                "this is the group 's second time protesting in milwaukee .", 
+                "after they protested outside the gop debate in here in november , the first question directed at candidates that night was about the fast-food workers demands .", 
+                "they have also protested in iowa during the caucuses and new hampshire during the primary ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                1, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd2dfae4b080c5d0ebd956", 
+            "title": "", 
+            "text": [
+                "the guardian 's lauren gambino files from milwaukee , where a powerful new advertisement in support of bernie sanders just dropped : erica garner appears in a powerful new ad for bernie sanders .", 
+                "the ad was released on thursday , hours after civil rights leader and us congressman john lewis formally endorsed hillary clinton and downplayed sanders ' activism in the movement .", 
+                "in the ad , the daughter of eric garner , a black man from staten island who died after being placed in a police chokehold , explains to her young daughter that the fight to end racial injustice is still not over .", 
+                "recently she just learned about rosa parks and martin luther king , erica garner explains .", 
+                "she asked me , \u0080\u0098did rosa parks not give up her seat for a white man ? '", 
+                "and i said yes .", 
+                "she said , \u0080\u0098but those were in the old days , right mommy ? '", 
+                "and i had to explain to her that it 's not really over .", 
+                "clinton 's campaign recently announced that eric garner 's mother erica garner 's grandmother will campaign for her in coming weeks .", 
+                "carr joins a group of mothers who have lost children to gun violence , including the mothers of trayvon martin , jordan davis and sandra bland ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                0, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56bd2701e4b0bef6d53d3a6a", 
+            "title": "what you need to know about tonight 's democratic presidential debate", 
+            "text": [
+                "good evening !", 
+                "if you 're joining us tonight , that only means one thing : you 're as excited as we are about the first democratic presidential debate since the new hampshire primary highlighted major fault lines within the party !", 
+                "( well , that , or you 've already caught up on both american crime and american crime story , the ostensible similarities and crucial differences between which are actually a pretty good metaphor for this democratic campaign cycle , if you squint at them . )", 
+                "we were going to do some boring diptych of hillary clinton and bernie sanders , but look at these cookies they 're serving at the debate !", 
+                "they 're darling !", 
+                "young/reuters this debate was originally intended to be the first face-to-face meeting between former secretary of state hillary clinton and vermont senator bernie sanders since the iowa caucus ( victor : clinton ) and the new hampshire primary ( victory : sanders ) , until pressure from grassroots liberals upset with the democratic national committee pushed for more debates - and for debates that were n't scheduled on holiday weekends .", 
+                "( speaking as one of the ink-stained scribes who documents these debates for posterity and who would occasionally like to go home and feed his goldfish , we curse those squeaky wheels for their gumption but applaud them for their fervor . )", 
+                "before we get into the he-said , she-said , let 's establish the whos , the whats , the wheres , the whens and , if at all possible , the hows of tonight 's debate .", 
+                "who 's debating/moderating/hosting ?", 
+                "it 's not a crowded field tonight : just clinton and sanders , whose two hours ' traffic on our stage will be moderated by gwen ifill and judy woodruff , co-anchors and co-managing editors of pbs newshour .", 
+                "pbs will host the debate , which will be simulcast by cnn and promoted with a partnership with facebook .", 
+                "yes , that means that facebook-submitted questions will be asked of the candidates , and that the more thirsty debatewatchers amongst you ( and us ) will argue over which questioner is the cutest .", 
+                "what number debate is this ?", 
+                "this is the sixth .", 
+                "( sigh . )", 
+                "where is the debate being held ?", 
+                "why , in the beautiful helen bader concert hall on the main campus of the university of wisconsin-milwaukee in milwaukee , wisconsin !", 
+                "the concert hall contains 760 seats , an orchestra pit and was originally a synagogue .", 
+                "when is the debate ?", 
+                "the debate will begin at nine p.m. eastern standard time , and is expected to last two hours , although if ifill and woodruff take a cue from msnbc 's brian williams , they 'll just tell the audience that it 's a 90-minute debate and cackle malevolently as those at home slowly realize that they 're going to have to pay their babysitter time and a half .", 
+                "how 's this gon na go ?", 
+                "aggressively , we think !", 
+                "the last democratic debate was arguably the most intense and policy-focused of the 2016 election cycle , with high-minded arguments about the nature of progressivism punctuated by accusations of smearing from both sides .", 
+                "clinton maintains a much easier path to the nomination , particularly ahead of a slew of southern states that might not take so kindly to sanders ' yankee socialism , but the vermont senator 's success in new hampshire laid bare some serious demographic challenges facing the clinton campaign , particularly with young people , liberals and women .", 
+                "we 'll be liveblogging the whole thing , so sit back , relax , pop some corn , read our non-debate campaign liveblog from earlier today for context , and get ready for a democratic g\u00e3\u00b6tterd\u00e3\u00a4mmerung of epic proportions ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                2, 
+                12, 
+                0, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "us-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n4.05am GMT\n04:05\nThe hottest moments from tonight's Democratic presidential debate\n", 
+                "block": "block-56bd580fe4b080c5d0ebd975"
+            }, 
+            {
+                "text": "\n\n3.56am GMT\n03:56\nClosing statements from tonight's Democratic presidential debate\n", 
+                "block": "block-56bd563ce4b0d007e4723c90"
+            }, 
+            {
+                "text": "\n\n3.32am GMT\n03:32\nTonight's hot debate topic: Henry Kissinger\n", 
+                "block": "block-56bd5224e4b080c5d0ebd96f"
+            }, 
+            {
+                "text": "\n\n2.50am GMT\n02:50\nSanders and Clinton address high levels of African American incarceration\n", 
+                "block": "block-56bd4879e4b0d159b0b67574"
+            }, 
+            {
+                "text": "\n\n2.30am GMT\n02:30\nHillary Clinton addresses female enthusiasm gap\n", 
+                "block": "block-56bd424ee4b0d159b0b67572"
+            }, 
+            {
+                "text": "\n\n2.00am GMT\n02:00\nThe Democratic presidential debate in Milwaukee begins!\n", 
+                "block": "block-56bd3cbde4b0bef6d53d3a7b"
+            }, 
+            {
+                "text": "\n\n12.56am GMT\n00:56\nWhat you need to know about tonight's Democratic presidential debate\n", 
+                "block": "block-56bd2701e4b0bef6d53d3a6a"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2016/feb/11/hillary-clinton-bernie-sanders-democratic-debate-milwaukee-justice-reform-foreign-policy"
+                ], 
+                "text": "Both candidates eye black votes with calls for police and justice reform.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Clinton blasts Sanders' lack of foreign policy experience.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/video/2016/feb/12/bernie-sanders-hillary-clinton-democratic-debate-barack-obama-video"
+                ], 
+                "text": "Video: Sanders gets angry at Clinton's comments on Obama.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2016/feb/08/hillary-clinton-new-hampshire-women-bernie-sanders-female-voter-interviews"
+                ], 
+                "text": "Clinton addresses her problem with female voters.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

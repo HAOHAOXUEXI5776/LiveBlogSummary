@@ -1,0 +1,737 @@
+{
+    "blog_id": "ac609264d46b0840729491552aed40f96af5f2af", 
+    "title": "FTSE 100 moves higher as Dow recovery continues but investors remain cautious - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2018/feb/12/ftse-100-wall-street-european-shares-business-live", 
+    "summary": [
+        "summary : markets recover after recent turmoil .", 
+        "wall street opens higher .", 
+        "more carillion jobs saved .", 
+        "firms need to do more to minimise risks of computerised trading - city watchdog .", 
+        "there is a case for raising rates - boe 's vlieghe .", 
+        "european markets open higher .", 
+        "uk retail spending falls in january for first time in five years ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a8190bee4b0fac74147c2db", 
+            "title": "summary : markets recover after recent turmoil", 
+            "text": [
+                "after a week which saw some $ 4tn wiped off the value of global stock markets , there is a better mood among investors at the moment .", 
+                "european markets have moved higher , with the ftse 100 up 1.3 % , germany 's dax 1.7 % higher and france 's cac climbing 1.5 % .", 
+                "in early trading on wall street , the dow jones industrial average has added 292 points or 1.2 % , even as us bond prices continue to fall .", 
+                "but analysts expect continued volatilty as the week progresses , with us inflation figures on wednesday likely to be a key indicator for the market 's progress .", 
+                "meanwhile the city watchdog has warned that firms need to do more to deal with the risks of computerised trading .", 
+                "elsewhere bank of england policymaker gertjan vlieghe said further rises in interest rates would be appropriate if the recovery in the global economy and an improving labour market continued to offset any brexit weakness .", 
+                "greece is considering more bond issues after successfully raising \u20ac3bn last week .", 
+                "and another 4,418 jobs were saved at the collapsed contractor carillion .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                14, 
+                57
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a81a527e4b0db887ccaf4ea", 
+            "title": "wall street opens higher", 
+            "text": [
+                "the recovery in us markets seen late on friday is continuing as wall street opens , despite the continuing strength of us bond yields .", 
+                "the dow jones industrial average is up around 300 points or 1.25 % , while the s & p 500 and nasdaq composite are both up around 1 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                14, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a819c53e4b0fac74147c35c", 
+            "title": "", 
+            "text": [
+                "here 's ig 's opening calls for the us markets : igsquawk ( @ igsquawk ) us opening calls : # dow 24483 +1.18 % # spx 2650 +1.13 % # nasdaq 6481 +1.12 % # igopeningcall"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                13, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a818f13e4b082a1e691a1e4", 
+            "title": "", 
+            "text": [
+                "shares may be moving higher in the wake of friday 's rebound on wall street , but us bond yields are also on the rise .", 
+                "normally bond yields fall when markets rise , but 10 year us treasury yields remain at four year highs .", 
+                "fawad razaqzada , technical analyst at forex.com , said : have stocks and bond yields decoupled again ?", 
+                "friday 's reversal and today 's bullish follow-through in the stock markets have not been supported by rising government bond prices .", 
+                "as bonds have continued to sell-off , yields have pushed further higher .", 
+                "the benchmark 10-year treasury yield has now climbed to above 2.9 % for the first time since early 2014 .", 
+                "should yields march further higher - which is quite possible with the upcoming us inflation and retail sales data to look forward to on wednesday - then there is a possibility the equity markets could be in for another volatile week .", 
+                "indeed , we think that far too much technical damage has been incurred in the indices for the bulls to make a quick comeback and with all guns blazing so , friday 's bounce may well prove to be a mere dead-cat bounce for stocks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                13, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a81842ce4b082a1e691a161", 
+            "title": "", 
+            "text": [
+                "meanwhile , greece is watching the markets carefully with an eye to launching more bond sales before its final bailout program ends in august .", 
+                "helena smith reports from athens : after successfully raising \u20ac3bn from its sale of a seven-year bond last week , athens is now looking to complete at least two more bond sales as part of wider steps to reinforce market access and show investors it can go it alone .", 
+                "the greek finance minister euclid tsakalotos has hinted that future issues could include a three-year bond - launched around the time of the march 4 general elections in italy - and a ten-year bond .", 
+                "the government has announced plans to build a \u20ac19bn cash buffer that would allow the debt stricken country to cover debt repayments once the bailout programme expires .", 
+                "market turbulence in the form of more corrections , however , could yet dash plans to create the safety net .", 
+                "volatility in the wake of last week 's sell-off caused the government to delay trade of the seven -year bond by 48 hours proving that while greece has progressed both fiscally and in terms of structural reforms it is still at risk of exogenous forces .", 
+                "the seven-year bond was sold at a yield of 3.5 % with uk investors leading the pack of more than 200 hedge funds , banks and fund managers who lodged bids .", 
+                "tsakalotos in his office in the finance ministry in athens .", 
+                "baltas/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                12, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a817d79e4b027761ed47cd8", 
+            "title": "", 
+            "text": [
+                "the stock market falls we have been seeing are not unusual but did take longer than expected to happen , says richard stammers , investment strategist at european wealth group .", 
+                "and things are likely to remain volatile , he says : we expect the short term to remain bumpy - possibly very bumpy .", 
+                "the definition of a correction is 10 % off from the recent high and of a bear market , 20 % off from the year high .", 
+                "so , whilst we are not in bear market territory , we need to recognise for every short term bounce there could be an equal and opposite slide back .", 
+                "could we see lows of 15 % ?", 
+                "quite possibly so , if we do , what should we do ?", 
+                "we stand by our view that the next bear market will be triggered by an expectation of the end of the business cycle .", 
+                "we may now be late cycle , and the end may now be sooner than many had expected , but we do n't think it is imminent .", 
+                "so , with the global economy broadly strong , and many companies delivering robust earnings , we think this is a buying opportunity .", 
+                "these periods of correction and uncertainty are not pleasant but they should not be seen as unusual .", 
+                "what was unusual was that it took so long to happen ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                11, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a817a95e4b082a1e691a10a", 
+            "title": "", 
+            "text": [
+                "here is reuters on the interest rate comments from bank of england policymaker gertjan vlieghe : vlieghe said on monday that a further rise in british interest rates was likely to be appropriate if a strong global economy and a labour market continued to offset brexit headwinds .", 
+                "a further rise in interest rates is likely to be appropriate if all those trends continue and we are on a trajectory .", 
+                "it was n't just one hike in november and then we take a very long break , '' he said at a panel discussion hosted by the resolution foundation , a think tank .", 
+                "the central banker also said the level of interest rates that the boe needs to reach before it starts to reverse its quantitative easing programme could come under review .", 
+                "previously the boe has said rates would need to reach around 2 percent before it started to sell its 435 billion pounds ( $ 603 billion ) of government bonds , in order to give headroom for future rate cuts during a downturn .", 
+                "vlieghe said that since then the boe had found it could cut rates below 0.5 percent .", 
+                "the u.s. federal reserve 's ongoing experience selling debt holdings would also influence the boe 's decision on when to start to sell assets , he said .", 
+                "gertjan vlieghe"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                11, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a817513e4b082a1e691a0da", 
+            "title": "more carillion jobs saved", 
+            "text": [
+                "another 4,418 jobs at collapsed carillion have been saved , says the official receiver .", 
+                "the staff involved are at prison facilities management , defence bases catering , and cleaning services .", 
+                "so far around a third of carillion 's staff have had their employment confirmed .", 
+                "in this latest announcement , the receiver said employment for 59 staff working on paused construction projects could not be secured and they would leave the business ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                11, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a8174a7e4b082a1e691a0d6", 
+            "title": "", 
+            "text": [
+                "richard partington ( @ rjpartington ) vlieghe says i really am '' at last seeing evidence of wage growth coming through , meaning it 's likely to be appropriate '' to raise interest rates david cheetham , chief market analyst at online trader xtb , said : mpc voting member gertjan vlieghe has been speaking this morning on a panel discussing household debt in london and remarks such as there is increased evidence that tighter labour markets are beginning to have upwards effect on wages '' and that if there is less credit headwind to the uk economy then we maybe ready for rate hikes '' are certainly erring on the side of being hawkish .", 
+                "the comments are even more noteworthy given that mr vlieghe is deemed one of the most dovish voting members ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                11, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a81703ee4b027761ed47c4e", 
+            "title": "", 
+            "text": [
+                "more from my colleague richard partington who is listening to the bank of england 's gertjan vlieghe speak at the resolution foundation 's debt conference : richard partington ( @ rjpartington ) vlieghe says banks are now well capitalised so next crisis ( whenever it comes ) the collateral damage '' to the economy wo n't be as great richard partington ( @ rjpartington ) he also says the idea that low interest rates are to blame for rising house prices versus income ca n't be right '' as us , germany , japan have had low rates and have n't seen the same increases richard partington ( @ rjpartington ) vlieghe says uk is in a disruption where it is appropriate to put up interest rates '' ( for disruption , read situation - the perils of autocorrect ! )", 
+                "richard partington ( @ rjpartington ) he also says for unwinding qe by cutting the bank 's balance sheet that nothing has changed '' on the idea that rates must rise before cutting .", 
+                "closer to 2 % bank rate is required richard partington ( @ rjpartington ) but .", 
+                "the bank needs headroom to cut rates by about 1.5 % .", 
+                "and if the lower bound is now close to zero as opposed to 0.5 % .", 
+                "then rates do n't have to be '' as close to 2 % .", 
+                "also says will watch the fed unwinding closely for lessons .", 
+                "richard partington ( @ rjpartington ) the lower bound having changed when th boe decided to cut rates from 0.5 % to 0.25 % in the august emergency rate cut following the brexit vote"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                10, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a816b9fe4b082a1e691a05c", 
+            "title": "firms need to do more to minimise risks of computerised trading - city watchdog", 
+            "text": [
+                "city firms need to do more to mitigate the risks of algorithmic trading , according to the uk 's financial watchdog .", 
+                "automated trading was suggested as on of the causes of the recent stock market turmoil , with computerised selling accelarating as share prices tumbled .", 
+                "in a new report the financial conduct authority says : automated technology brings significant benefits to investors , including increased execution speed and reduced costs .", 
+                "however , it can also amplify certain risks .", 
+                "it is essential that key oversight functions , including compliance and risk management , keep pace with technological advancements .", 
+                "in the absence of appropriate systems and controls , the increased speed and complexity of financial markets can turn otherwise manageable errors into extreme events with potentially wide-spread implications .", 
+                "as a result , algorithmic trading continues to be an area of focus for the fca and other regulators across the globe .", 
+                "in general , we are encouraged that firms have taken steps to reduce risks inherent to algorithmic trading .", 
+                "however , further improvement is needed in a number of areas .", 
+                "for example , some firms lacked a suitable process to identify algorithmic trading across their business and did not have appropriate documentation in place to demonstrate suitable development and testing procedures are maintained .", 
+                "in these cases , firms also lacked a robust and comprehensive governance framework .", 
+                "additionally , firms need to do more work to identify and reduce potential conduct risks created by their algorithmic trading strategies .", 
+                "this includes delivering suitable market abuse training for staff involved in the development and implementation processes .", 
+                "firms also need to consider the potential impact their algorithmic trading activity ( including the combined impact of multiple algorithmic strategies ) may have on the fair and effective operation of financial markets .", 
+                "we will continue to assess whether firms have taken sufficient steps to reduce risks arising from algorithmic trading ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                10, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a816828e4b082a1e691a04b", 
+            "title": "", 
+            "text": [
+                "vlieghe says there is increased evidence that tight labour markets are beginning to have an upward effect on wages [ another reason for a possible rise in rates ] .", 
+                "he adds : cbi economics ( @ cbi economics ) gertjan vlighe of the mpc says that households should be able to cope with higher rates , given that balance sheets are in better shape .", 
+                "but we still have much to learn about such relationships ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                10, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a816612e4b082a1e691a03c", 
+            "title": "there is a case for raising rates - boe 's vlieghe", 
+            "text": [
+                "the resolution foundation is holding a seminar on household debt at the moment , with speakers including the bank of england 's gertjan vlieghe : richard partington ( @ rjpartington ) resolution foundation chief economist matt whittaker says minority of borrowers are set to suffer even with quite modest moves '' in interest rates up next , gertjan vlieghe richard partington ( @ rjpartington ) vlieghe says households are on average releveraging ( taking on more debt ) after a period of deleveraging ( cutting borrowing levels ) at a time of eroding slack in the economy richard partington ( @ rjpartington ) vlieghe says a continuation in rising debt levels would be unsustainable"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                10, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a816397e4b082a1e691a026", 
+            "title": "", 
+            "text": [
+                "the removal of some of the market 's recent complacency is no bad thing , says joseph amato at investment management group neuberger berman : before last week , the last meaningful market correction took place in 2016 , when investors were concerned about the potential for a us recession , a china hard landing and low oil prices .", 
+                "but weakness was short-lived and markets have generally advanced since then .", 
+                "the most recent pullback seems to have been triggered by the 2.9 % wage inflation reading in the us and resulting fears the fed would accelerate interest rate increases .", 
+                "but the loss was exacerbated by excessive investor complacency - something that has clearly been removed over the past week - as well as technical factors .", 
+                "this removal of complacency is a healthy development , as is the reduction in equity valuations we do not expect an immediate resolution of market technical quirks or an end to concerns about the pace of central bank rate hikes .", 
+                "it is possible market volatility could have a negative impact on the real economy - undermining the so-called wealth effect and consumer confidence , and substantially widening credit spreads .", 
+                "however , there is little current indication anything like that is taking place .", 
+                "in fact , global economies continue to show exceptional strength - something that should be a key driver of markets in the coming months .", 
+                "robert lea , head of global equity research at ashburton investments also expects markets to climb this year , albeit at a slower rate : on balance , we still expect global equity markets to rise this year .", 
+                "however , we expect the rate of increase to moderate .", 
+                "the risk of an outright bear market remains low , as bear markets normally coincide with recessions .", 
+                "we see a low risk of recession currently and expect growth in the global economy to continue gathering momentum .", 
+                "however , we continue to think the market has under-estimated the scope for a rise in inflation this year - both in the us and globally .", 
+                "we also think the market has potentially misjudged the fed 's desire to normalise interest rate policy .", 
+                "that said , rates should likely remain low , in absolute and historical terms ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                10, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a815af2e4b027761ed47bab", 
+            "title": "", 
+            "text": [
+                "the vix volatility index , which had been pretty dormant for several months before surging last week , has slipped back this morning .", 
+                "it hit as high as 50 last week but is now down 10 % at 26 as some calm returns ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a815419e4b027761ed47b93", 
+            "title": "", 
+            "text": [
+                "one of the sparks for the recent sell-off was the stronger than expected growth in us wages , which led to speculation that the federal reserve could raise interest rates more often than previously expected .", 
+                "so one of the key events this week is likely to be the latest us inflation data , which could go some way to either easing or confirming those concerns .", 
+                "rebecca o'keeffe , head of investment at interactive investor : investors are breathing a sigh of relief after the torrid times last week , with european equity markets rallying this morning .", 
+                "buying the dip has been a very difficult call in recent days , with every attempt at engagement punished in subsequent market moves , so investors will be hoping that this is a genuine buying opportunity .", 
+                "the key event of the week is us consumer price data on wednesday , with investors anxious to determine whether the inflation fears that have helped to drive recent market moves have been overdone or if these concerns are justified .", 
+                "bank of tokyo-mitsubishi 's derek halpenny said : a softer print on wednesday would go some way to easing current investor fears .", 
+                "wage inflation did not emerge in 2017 and even if you believe the data last week is a sign of things to come , usual lags mean this will not be evident in consumer prices until toward year-end or even into 2019 .", 
+                "we suspect that investors ' fears over inflation should subside over the coming weeks , which will help to stabilise equity markets , long-term yields and bring levels of volatility back down .", 
+                "but after the scale of this equity price correction , investors are likely to remain defensive this week .", 
+                "even a slight upward surprise in the inflation data could be enough to warrant a further sell-off ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                8, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a8151e9e4b0fac74147c0b6", 
+            "title": "", 
+            "text": [
+                "one of the world 's biggest advertisers is warning it might take action against tech companies over online harassment , hate speech and other issues : the consumer goods multinational unilever is threatening to withdraw its advertising from online platforms such as facebook and google if they fail to protect children , promote hate or create division in society .", 
+                "in a speech later today , keith weed , the unilever chief marketing officer , will say that , as a brand-led business , unilever needs its consumers to have trust in our brands '' .", 
+                "unilever is the world 's second largest marketing spender , after procter & gamble , and spent \u20ac7.7bn ( \u00a3 6.8bn ) last year advertising its brands , which include pg tips , marmite , dove and persil .", 
+                "the company has trimmed its ad production as part of a cost-saving drive ; it is making fewer tv ads and has halved the number of ad agencies it uses to 1,500 .", 
+                "our full report is here : marmite maker unilever threatens to pull ads from facebook and google read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                8, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a8150f6e4b027761ed47b80", 
+            "title": "", 
+            "text": [
+                "european markets are holding on to their early gains , and with us futures suggesting a positive open on wall street , there is some cautious optimism around .", 
+                "but connor campbell , financial analyst at spreadex , warned : as proven time and again , these things can turn on a dime , and it is way , way too early to treat the day 's initial growth with anything but caution .", 
+                "still , the ftse climbed more than 1 % after the bell , taking it towards 7170 , with the cac up 1.2 % and the dax leading the charge thanks to a near 1.7 % surge , one that leaves the german index back above 12300 .", 
+                "importantly the dow jones currently looks set to follow in europe 's footsteps , with the index 's futures pointing to a 170 point rise later this afternoon .", 
+                "the forex markets were slightly more subdued .", 
+                "both the pound and euro tried to claw back some of their recent losses against the dollar ; the former rose 0.2 % , but is still the wrong side of $ 1.385 , while the latter jumped 0.3 % to tease $ 1.227 .", 
+                "against each other , meanwhile , there was nothing to separate the two , with sterling flat around \u20ac1.128 .", 
+                "there is n't really that much for investors to work with this monday , with the focus likely on tuesday and wednesday 's potentially week-defining uk and us inflation readings ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a814a43e4b082a1e6919fb5", 
+            "title": "european markets open higher", 
+            "text": [
+                "as forecast , european markets are benefitting from the rebound on wall street and have started the week on a brighter note after the recent turmoil .", 
+                "the ftse 100 is up 0.8 % while germany 's dax has added 1 % and france 's cac has climbed 0.9 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                8, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a8146b6e4b082a1e6919fa7", 
+            "title": "uk retail spending falls in january for first time in five years", 
+            "text": [
+                "with the prospect of rising uk interest rates , brexit concerns , and the continuing squeeze on real wages , uk consumers appeared to have kept their money in their pockets last month , according to a visa survey .", 
+                "reuters has the details : british shoppers spent less last month than the year before , causing spending in january to fall for the first time since 2013 , according to a survey which underscored many households ' caution about their finances and the approach of brexit .", 
+                "visa , whose debit and credit cards are used for a third of payments in britain , said on monday that consumers stayed away from the traditional post-christmas sales last month .", 
+                "household spending fell by 1.2 percent in january compared with the same month in 2017 , with spending in shops down by 4 percent , it said .", 
+                "rousseau/pa consumer spending entered the new year on a downbeat note , falling for the eighth time in the past nine months , as britons continued to cut back on spending , '' visa 's chief commercial officer , mark antipof , said .", 
+                "a fall in car sales weighed on the overall sales figures too .", 
+                "but there was better news for hotels and restaurants - as well as for hair salons and sellers of beauty products , as consumers looked for small treats for themselves .", 
+                "britain 's economy lagged behind stronger growth in other rich nations in 2017 as higher inflation since the brexit vote and slow wage growth pinched consumers ' spending power .", 
+                "annabel fiddes , an economist at financial data firm ihs markit which produces the survey for visa , said concerns about brexit were weighing on consumer confidence .", 
+                "but spending could up later this year as inflation is expected to fall back while wages rise more quickly , she added ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                7, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a813d63e4b082a1e6919f7f", 
+            "title": "agenda : european markets expected to open higher", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "after last week 's market turmoil , which saw wall street enter correction territory ( losing 10 % from its recent peak ) and some $ 4trn wiped off global share values , investors will be hoping for some respite this morning .", 
+                "and after us markets staged a later rally on friday and some positive moves in asia , europe is expected to open higher : igsquawk ( @ igsquawk ) european opening calls : # ftse 7165 +1.02 % # dax 12290 +1.51 % # cac 5140 +1.19 % # mib 22510 +1.55 % # ibex 9740 +1.05 % but that does not necessarily mean everything is now hunky dory .", 
+                "for a start the recent rise in bond yields - one of the factors behind the sudden turn in sentiment - may not be over yet .", 
+                "central banks will continue to withdraw the stimulus measures which have supported the market since the financial crisis , which in turn will put pressure on bonds .", 
+                "and the volatility we have seen over the past couple of weeks is also unlikely to fade quickly .", 
+                "michael hewson , chief market analyst at cmc markets uk , said : for a market that has enjoyed steady gains and fairly low volatility over the course of the past two years the steepness of the falls speaks to a complacency that has been prevalent for a while now and which appears to have been shattered in the wake of a surge in volatility .", 
+                "how this plays out over the coming days depends on whether the rebound we saw on friday can translate into some form of base for a continuation of the uptrend that has been in place for the last nine years .", 
+                "this may well depend on whether we see further increases in bond yields , or a rise in interest rate expectations from other central banks around the world .", 
+                "there are other concerns , us margin debt still remains near record levels and the prospect of further losses , combined with the prospect of higher rates could prompt further jitters , not to mention the untried reaction function of a whole new breed of equity investors and traders who have never experienced the type of volatility that we 've gone through over the last few days .", 
+                "it is true that economic fundamentals remain fairly solid but it is also important to remember that this is already probably priced into us equities already , given that we 've now seen tax reform get passed , along with a new us budget , which in itself is likely to see bond prices come under further pressure .", 
+                "we 've already seen a raft of us companies announce significant increases in salaries and bonuses and this was followed last week , with the news that german metal workers won a 4.3 % wage rise , a trend that looks set to be replicated across the world , as governments urge employers to increase minimum salaries to more acceptable levels .", 
+                "and the world 's biggest hedge fund is predicting that a bigger shakeout '' is coming .", 
+                "echoing the complacency theme , bob prince , co-chief investment officer at the $ 160bn us hedge fund bridgewater , told the financial times ( \u00a3 ) : there had been a lot of complacency built up in markets over a long time , so we do n't think this shakeout will be over in a matter of days .", 
+                "we 'll probably have a much bigger shakeout coming .", 
+                "here 's our report on his comments , with an update on asian markets : 'big shakeout coming ' : markets stem losses as hedge fund sounds warning read more otherwise it 's fairly quiet on the economic and corporate front , although bank of england mpc member jan vlieghe is speaking later this morning ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                12, 
+                7, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.57pm GMT\n14:57\nSummary: Markets recover after recent turmoil\n", 
+                "block": "block-5a8190bee4b0fac74147c2db"
+            }, 
+            {
+                "text": "\n\n2.33pm GMT\n14:33\nWall Street opens higher\n", 
+                "block": "block-5a81a527e4b0db887ccaf4ea"
+            }, 
+            {
+                "text": "\n\n11.10am GMT\n11:10\nMore Carillion jobs saved\n", 
+                "block": "block-5a817513e4b082a1e691a0da"
+            }, 
+            {
+                "text": "\n\n10.32am GMT\n10:32\nFirms need to do more to minimise risks of computerised trading - City watchdog\n", 
+                "block": "block-5a816b9fe4b082a1e691a05c"
+            }, 
+            {
+                "text": "\n\n10.07am GMT\n10:07\nThere is a case for raising rates - BoE's Vlieghe\n", 
+                "block": "block-5a816612e4b082a1e691a03c"
+            }, 
+            {
+                "text": "\n\n8.05am GMT\n08:05\nEuropean markets open higher\n", 
+                "block": "block-5a814a43e4b082a1e6919fb5"
+            }, 
+            {
+                "text": "\n\n7.55am GMT\n07:55\nUK retail spending falls in January for first time in five years\n", 
+                "block": "block-5a8146b6e4b082a1e6919fa7"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Wall Street follows European markets higher after worst week for two years.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

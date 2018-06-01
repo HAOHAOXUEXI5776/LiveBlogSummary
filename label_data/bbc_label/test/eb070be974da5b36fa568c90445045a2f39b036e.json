@@ -1,0 +1,768 @@
+{
+    "blog_id": "eb070be974da5b36fa568c90445045a2f39b036e", 
+    "title": "BBC Local Live: Essex Wednesday, 9 December 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-essex-34928089", 
+    "summary": [
+        "essex fire and rescue service says an exploding aerosol can destroyed part of a bungalow in walton-on-the-naze last night .", 
+        "stagecoach pulls out of a joint bid with abellio to run the 2017 greater anglia franchise .", 
+        "a southend fraudster who posed as the 12th duke of marlborough and racked up hotel bills of almost \u00a3 12,000 is jailed .", 
+        "more news , sport , travel and weather from 08:00 on thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_566865ce3e000009326bd3d1", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for essex have finished for the day but we 'll be back from 08:00 on thursday with the latest news , sport , weather and travel ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566861b01900009034f41678", 
+            "title": "weather : more cloud than last night but staying dry", 
+            "text": [
+                "another windy night is expected with more cloud than last night , although brief clear spells are also likely .", 
+                "all parts should remain dry and it will be much milder than last night .", 
+                "minimum temperature : 9c ( 48f ) .", 
+                "tomorrow , rain will spread from the northwest across all areas by mid-morning , perhaps turning rather heavy in places ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566851fc3e0000c735b3dcf8", 
+            "title": "colchester united chairman takes your questions", 
+            "text": [
+                "got a burning question you want to put to the chairman of colchester united ?", 
+                "tonight is your night as robbie cowling will be joining bbc essex 's dave monk taking your calls from 18:00 .", 
+                "you can get your question in by calling the studio on 0300 200 40 41 ."
+            ], 
+            "author": [
+                "Gavin Fischer", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566863323e000009326bd3c7", 
+            "title": "headlines : walton bungalow blast death fears and 'fake duke ' jailed", 
+            "text": [
+                "here are your top stories for essex :"
+            ], 
+            "author": [
+                "Samantha Dalton", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5668604e3e000016316bd3b3", 
+            "title": "ukip councillor calls trump comments 'ill-judged '", 
+            "text": [
+                "comments made by a conservative councillor who tweeted that us presidential hopeful donald trump was `` probably correct '' to call for a ban on muslims entering the us were `` ill-judged '' , it has been claimed .", 
+                "ukip essex county councillor jamie huntman ( said : `` you have to think before you speak , or tweet .", 
+                "as soon you put it out there it 's for everybody to see '' .", 
+                "bill sharp , a tory councillor at castle point borough council who angered some twitter users , told me he did n't intend to cause offence but he 'll not be retracting his remarks ."
+            ], 
+            "author": [
+                "Gavin Fischer", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566857dc3e0000c435b3dd0d", 
+            "title": "elderly woman robbed of sentimental items", 
+            "text": [
+                "an elderly woman has had her handbag containing sentimental letters and photographs snatched in witham .", 
+                "the 74-year-old was walking with her husband on speedwell close on sunday when the suspect ran up behind them and took the bag , police say .", 
+                "a three figure sum of cash was inside , along with a photographs of the victim 's grandchildren .", 
+                "you can read a description of the suspect on essex police 's facebook page ."
+            ], 
+            "author": [
+                "Samantha Dalton", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56684d943e0000e72e6bd35e", 
+            "title": "empty taxi rolls into timber-framed home", 
+            "text": [
+                "council tenants in dovercourt received and unexpected visitor in the shape of a runaway taxi which ended up in the front wall of their home ."
+            ], 
+            "author": [
+                "Daily Gazette"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566858641900009232f4164b", 
+            "title": "items savalged from bungalow explosion", 
+            "text": [
+                "the son of an elderly man whose bungalow was destroyed in an explosion yesterday has returned to the site .", 
+                "john charles-mann managed to salvage a few items including a certificate his father won at a dog show ."
+            ], 
+            "author": [
+                "Robby West", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5668086b190000d92bf414f6", 
+            "title": "your a winter in full blossom", 
+            "text": [
+                "i 'm sure you 've noticed that so far december has been a lot warmer than usual , in fact it has been so mild even the trees are getting confused .", 
+                "nick oxton sent us this of a cherry tree in colchester that is in full blossom !", 
+                "share your photos with us by email or facebook ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566841133e0000ea2e6bd310", 
+            "title": "aerosol explosion bungalow clean-up", 
+            "text": [
+                "i 'm in walton-on-the-naze where contractors have begun securing an elderly man 's bungalow after it was destroyed in an explosion last night ."
+            ], 
+            "author": [
+                "Robby West", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56683ee63e0000d034b3dc9d", 
+            "title": "'fake duke ' and other impostor aristocrats", 
+            "text": [
+                "alexander wood ( right ) from southend , who posed as the duke of marlborough , ( left ) to con luxury hotels is certainly not the first high-profile conman to adopt an aristocratic alter-ego .", 
+                "in 1495 , perkin warbeck claimed to be the duke of york and went on to lead an unsuccessful rebellion against king henry vii .", 
+                "he was hanged .", 
+                "while last year a facebook user posing as prince harry conned an austrian floor fitter out of 27,500 euros ( \u00a3 23,000 ) offering him a million-euro contract to renovate the parquet flooring at buckingham palace ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566849763e000007306bd344", 
+            "title": "travel : two lanes closed in dartford tunnel", 
+            "text": [
+                "two lanes are closed in the m25 dartford tunnel due to a three-vehicle accident .", 
+                "the east tunnel is closed while the accident is cleared .", 
+                "the west bore tunnel is also being held intermittently to released trapped traffic ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566822933e000077286bd28a", 
+            "title": "weather : a little cloudier this afternoon with winds increasing", 
+            "text": [
+                "as we go through this afternoon , cloud amounts will increase and it will turn milder despite the strengthening winds .", 
+                "there will still be plenty of brightness .", 
+                "maximum temperature : 11c ( 52f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56683c9d3e0000d434b3dc91", 
+            "title": "fake duke 'stayed in hotels out of fear '", 
+            "text": [
+                "a southend man who posed as the 12th duke of marlboroughto defraud hotels claimed he `` feared for his life '' and could not return home after telling police about a wanted man .", 
+                "sentencing alexander wood , 34 at southwark crown court , judge alistair mccreath , said : `` i do not accept his decision to stay in hotels had anything to do with being under threat from anybody .", 
+                "the explanation is one of simple greed . ''", 
+                "wood was jailed for three-and-a-half years after admitting 13 counts of fraud by false representation ."
+            ], 
+            "author": [
+                "Charlotte Rose", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667facb3e00000f2eb3db63", 
+            "title": "hopeless christmas trees spreading more chuckles than cheer", 
+            "text": [
+                "after vandals cut down a christmas tree in rochford , i 've been looking at festive offerings around the country which have left people feeling less than merry .", 
+                "from a tree that leans `` more than the tower in pisa '' in beeston to a stockton heath christmas tree was likened to a twig ."
+            ], 
+            "author": [
+                "Helen Carter", 
+                "Reporter, BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "14:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566835e73e0000102e6bd2d7", 
+            "title": "abellio 'relaxed ' about stagecoach withdrawal from joint bid to run trains", 
+            "text": [
+                "abellio says it 'll continue to bid on its own after stagecoach pulled out of a joint deal .", 
+                "final bids to run rail services across east anglia have to be submitted by next week .", 
+                "national express and first group have also been shortlisted but the abellio/stagecoach bid was seen in political circles as being the favourite because stagecoach has a good reputation and a lot of money ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56680b473e00000b2b6bd20a", 
+            "title": "alleyway sex assault investigated", 
+            "text": [
+                "police have cordoned off an alleyway in clacton after a woman reported being attacked yesterday afternoon", 
+                "the victim told officers she was sexually assaulted between dudley road and agincourt road around 13:30 .", 
+                "her attacker is described as white , in his 40s , 5ft 4in ( 1.6m ) tall , and spoke with a north american accent ."
+            ], 
+            "author": [
+                "Ian Puckey", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "13:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566816db190000862ff4153b", 
+            "title": "only the fittest cockroaches find a mate , essex study finds", 
+            "text": [
+                "when it comes to finding a mate in the animal world you would think cockroaches would be the least but essex research has found that is n't the case .", 
+                "male cuban burrowing cockroaches perform a wing-raising '' ritual to attract a female , which involves the repeated vertical flaring and lowering of their wings .", 
+                "but scientists at anglia ruskin university found the males that produced the most energetic displays were more likely to attract a female ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_566818383e0000ce31b3dbed", 
+            "title": "headlines : duke of marlborough jailed and stagecoach pulls out of rail franchise bid", 
+            "text": [
+                "here are the top stories we 're looking at this lunchtime :"
+            ], 
+            "author": [
+                "Laura Safe", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566823153e00003f2d6bd28e", 
+            "title": "abellio to press ahead with bid to run east anglia trains", 
+            "text": [
+                "i understand that abellio intends to continue with its bid to run the east anglia franchise on its own after stagecoach pulled out of a joint deal .", 
+                "the company says it has enough money to operate the service as a single venture ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5668218d3e0000f932b3dc27", 
+            "title": "duke of marlborough impersonator jailed", 
+            "text": [
+                "a southend fraudster who posed as the 12th duke of marlborough and racked up hotel bills of almost \u00a3 12,000 has been sentenced to three and a half years in prison .", 
+                "southwark crown court heard alexander wood , 34 , defrauded six top london hotels including claridges in mayfair from february to july this year .", 
+                "wearing blue jeans and a white and blue striped shirt wood ( motionless as the sentences were handed down ."
+            ], 
+            "author": [
+                "Charlotte Rose", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56681a8a3e0000cd31b3dbff", 
+            "title": "walton bungalow explosion : 'my dad was sitting in his chair with his hair on fire '", 
+            "text": [
+                "the son of a pensioner whose home was destroyed by an aerosol can explosion yesterday says he thought his father `` was dead '' .", 
+                "crews were called to elliots drive in walton-on-the-naze around 19:30 last night .", 
+                "`` i could see right inside the house , the roof was on the ground and my dad was just sitting there i realised he was alive , but it was horrific , '' son john charles-mann told me ."
+            ], 
+            "author": [
+                "Robby West", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56681c9e3e0000fa32b3dc10", 
+            "title": "stagecoach wo n't pursue deal with abellio for east anglia franchise", 
+            "text": [
+                "stagecoach has announced it will not be putting a joint bid to run the east anglia line with abellio greater anglia .", 
+                "the firm announced the news a short while ago .", 
+                "taking account of the other rail bidding opportunities that we anticipate over the next two years , we have decided not to proceed with an equity participation in the bid for the new east anglia franchise . ''"
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56681b053e0000ce31b3dc06", 
+            "title": "stagecoach pulls out of joint bid run 2017 greater anglia franchise", 
+            "text": [
+                "stagecoach has pulled out of joint bid with abellio to run the 2017 greater anglia franchise , the bbc has learned ."
+            ], 
+            "author": [
+                "Samantha Dalton", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5667fc1a3e0000d92fb3db6b", 
+            "title": "lunchbox bomb scare contents revealed", 
+            "text": [
+                "in case you were interested , we now know what was in the lunch box which caused a security alert on a bus in chelmsford this morning :"
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566812b33e000077286bd235", 
+            "title": "inside the destroyed walton bungalow", 
+            "text": [
+                "more have emerged of the bungalow which was partially destroyed in walton-on-the-naze by an aerosol can .", 
+                "incredibly , paramedics say a man in his 80s `` seemed ok '' following the canister explosion last night which wiped out an entire corner of the wall ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "11:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667fe593e00003f296bd1c8", 
+            "title": "aerosol can destroys bungalow", 
+            "text": [
+                "more details have arisen from the explosion which destroyed part of a bungalow in walton-on-the-naze .", 
+                "essex fire and rescue says an aerosol lighter re-fill canister caught fire and exploded `` with enough force to take out an entire corner of the wall '' .", 
+                "a man in his 80s was taken to colchester hospital following the explosion on elliots drive ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_566804df3e0000cd30b3db8c", 
+            "title": "flowers laid at fatal waltham abbey shooting site", 
+            "text": [
+                "flowers have been laid close to the site where a man died after a fatal shooting in waltham abbey yesterday .", 
+                "essex police says it is working with ballistic experts as it continues its investigation .", 
+                "the marriott hotel and the volunteer pub have returned to normal business .", 
+                "we 're told both m25 slip roads at j26 have reopened , however honey lane will remain closed between the two roundabouts ."
+            ], 
+            "author": [
+                "Richard Smith", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667ebc63e00003f296bd177", 
+            "title": "charity fundraisers subject to new rules", 
+            "text": [
+                "colchester has become the fourth town in essex to introduce rules around street charity collection .", 
+                "the council joins brentwood , chelmsford and southend in signing up to use guidelines set by the public fundraising regulatory association .", 
+                "collectors in colchester will now only be allowed to stand on high street and culver street three days a week ."
+            ], 
+            "author": [
+                "Jenni Hulse", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5668001c3e0000da2fb3db76", 
+            "title": "waltham abbey shooting was 'targeted attack '", 
+            "text": [
+                "in the last few minutes , essex police has said a fatal shooting in waltham abbey yesterday was a `` targeted attack '' .", 
+                "a man in his 30s was shot at outside the marriott hotel in old shire lane at about 09:45 .", 
+                "det ch insp marina ericson said : `` the assailant appears to have been waiting for the victim in the car park '' .", 
+                "a post-mortem examination on the man 's body is taking place today ."
+            ], 
+            "author": [
+                "Laura Safe", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667e3943e0000132eb3daf1", 
+            "title": "tory sparks war of words saying donald trump is 'probably right ' to call for ban on muslims entering america", 
+            "text": [
+                "a senior tory councillor sparked a war of words on twitter after suggesting us republican presidential candidate donald trump was probably right '' in his call to ban more muslims from entering america ."
+            ], 
+            "author": [
+                "Southend Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667e2f43e000077286bd151", 
+            "title": "timeline of yesterday 's waltham abbey shooting", 
+            "text": [
+                "we 'll be keeping a close eye on any developments in essex police 's investigation into the waltham abbey shooting .", 
+                "here 's a reminder of events that took place yesterday :"
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667f56f3e000077286bd19f", 
+            "title": "packed lunch causes bomb scare on bus", 
+            "text": [
+                "passengers on a bus in chelmsford had to be evacuated this morning , after a lunch box caused a security alert .", 
+                "essex police says it was contacted at around 08:10 to reports of a sus package on the number 42 in watchouse road .", 
+                "after checking the scene , pc alan conran tweeted the rucksack was `` found to contain a packed lunch '' .", 
+                "the filling of the sandwich is not known ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667efee190000cb2bf41486", 
+            "title": "walton bungalow explosion : pensioner taken to colchester hospital", 
+            "text": [
+                "i have just spoken to the east of england ambulance service about its involvement in last night 's bungalow explosion in walton-on-the-naze .", 
+                "the service told me a man in his 80s was taken to colchester hospital after his bungalow partially collapsed on elliots drive .", 
+                "paramedics said the man `` seemed ok '' but might have been exposed to smoke ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667e0663e0000082eb3dae1", 
+            "title": "waltham abbey murder : search for gunman continues", 
+            "text": [
+                "a gunman remains on the run after a fatal shooting in waltham abbey yesterday morning .", 
+                "a man believed to be in his 20s `` fled in fear of his life '' after being shot outside the marriott hotel..", 
+                "he reached a nearby pub car park where he died .", 
+                "essex police is yet to make any arrests or give details of any suspects , but it says there is no threat to the wider public ."
+            ], 
+            "author": [
+                "Richard Smith", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "09:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5667dcdd190000e22bf41433", 
+            "title": "travel : road closures around waltham abbey", 
+            "text": [
+                "a number of closures remain in place this morning following yesterday'sfatal shootingin waltham abbey :"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667e6f73e000075286bd15e", 
+            "title": "explosion causes bungalow to partially collapse", 
+            "text": [
+                "a bungalow has partially collapsed in walton-on-the-naze after an explosion .", 
+                "essex fire and rescue says it was called to elliots drive just before 19:30 last night .", 
+                "a man in his 80s was treated by paramedics for burns .", 
+                "the cause of the explosion is not yet known ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667dad43e0000132eb3dac0", 
+            "title": "weather : plenty of sunshine this morning but it will be getting cloudier later with winds increasing", 
+            "text": [
+                "it will be a fine , dry and chilly morning with plenty of sunshine around .", 
+                "as we go through the afternoon , cloud amounts will increase and it will turn milder despite the strengthening winds .", 
+                "maximum temperature : 11c ( 52f ) ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5667dbb73e0000132eb3dac4", 
+            "title": "headlines : search continues for gunman and walton bungalow 'explosion '", 
+            "text": [
+                "here are the top stories we 're looking at on the news desk this morning :"
+            ], 
+            "author": [
+                "Laura Safe", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5667da033e000075286bd11f", 
+            "title": "welcome to wednesday 's live page for essex", 
+            "text": [
+                "good morning and welcome to essex live .", 
+                "until 18:00 we 'll have all the latest news , sport , weather , and travel for the county .", 
+                "if you would like to get in touch you can email us , tweet us , or visit our facebook page ."
+            ], 
+            "author": [
+                "Jack Warren", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-essex", 
+    "quality": "high"
+}

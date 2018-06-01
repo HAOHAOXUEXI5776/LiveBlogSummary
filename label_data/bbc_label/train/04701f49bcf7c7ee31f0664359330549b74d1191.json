@@ -1,0 +1,1234 @@
+{
+    "blog_id": "04701f49bcf7c7ee31f0664359330549b74d1191", 
+    "title": "BBC Local Live: Devon and Cornwall Tuesday 25 April 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-devon-39664769", 
+    "summary": [
+        "grandmother guilty of killing two women .", 
+        "there 've been more incidents of failing standards by the private company that took over cleaning and catering at the royal cornwall hospital in truro .", 
+        "policeman warns : school zig-zag lines not 'reserved parking for the lazy or late ' .", 
+        "driver in fatal crash 'was not asked to slow down ' , trial hears .", 
+        "architects appointed to rebuild royal clarence hotel .", 
+        "more news , sport , travel and weather from 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff1cd2e4b0c4062e8c84d0", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for devon and cornwall have finished for the day , but we 'll be back at 08:00 on wedesday with the latest news , sport , travel and weather .", 
+                "do n't forget spotlight on bbc one later .", 
+                "there will also be news through the night on your bbc local radio station ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff63d3e4b053c7bc78c8ba", 
+            "title": "balmy plymouth warmest place in uk", 
+            "text": [
+                "you may have needed your coat today but the sunny souls at bbc south west weather tell us plymouth was the warmest place in britain .", 
+                "the city reached a heady 12 degrees in the sunshine - warmer than paris ( 9c ) , new york ( 11c ) and copenhagen ( 4c ) .", 
+                "we can thank the wind chill for our cold hands and feet though", 
+                "plymouth the warmest place in britain at the moment at a balmy 12c , 54f , but it feels cold because of the wind chill !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff6003e4b05a37ea767613", 
+            "title": "wednesday weather : sunshine and showers", 
+            "text": [
+                "tonight : a windy and mainly dry night will then follow with clear spells and showers possible .", 
+                "it will be cold with a widespread inland frost .", 
+                "minimum temperature : 0c ( 32f )", 
+                "wednesday : another chilly feeling day with sunny spells and scattered showers .", 
+                "the showers becoming less frequent and less wintry through the day , with northerly winds also easing .", 
+                "maximum temperature : 10c ( 50f )"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff6945e4b053c7bc78c8cb", 
+            "title": "gran found guilty of killing two women", 
+            "text": [
+                "a grandmother who killed two female pedestrians when she dozed for a second and then pressed the accelerator rather than the brake pedal is facing a jail sentence .", 
+                "teresa sant , 58 , has been convicted by a jury of causing death by dangerous driving of the two friends and colleagues who had just got off a bus in torr lane , hartley , plymouth .", 
+                "plymouth crown court heard she was seen to `` panic '' by a cyclist whose bike she clipped after she mounted the kerb and struck the two colleagues .", 
+                "victoria hodge , 42 , and 60-year-old marie-helene gieblen - got off their regular number 39 bus from work and were saying their goodbyes .", 
+                "one victim died at the scene and the other died from severe head injuries in hospital six days later without regaining consciousness .", 
+                "sant will be sentenced tomorrow ."
+            ], 
+            "author": [
+                "Jonathan Morris", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff7cbce4b0c4062e8c8692", 
+            "title": "trains suspended after lorry hits bridge in plymouth", 
+            "text": [
+                "breaking : trains between plymouth and liskeard suspended after lorry hits main rail bridge in plymouth city centre .", 
+                "( picture : @ twitterid )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef61fe4b05a37ea767417", 
+            "title": "pilgrims get a kick out of programme to help deprived areas", 
+            "text": [
+                "plymouth argyle says it wants to spread a sporting initiative , which they say steers youngsters away from drink and drugs , to as many deprived areas as possible in cornwall .", 
+                "plymouth argyle says its pl kicks , which is backed by the premier league , has been really successful in helping to cut crime since it was launched in plymouth in 2008 .", 
+                "it 's been run in redruth since september and argyle said police and schools had already noticed a change for the better in the behaviour in many of the youngsters who took part ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff332ee4b0c4062e8c854a", 
+            "title": "train restoration project up steam", 
+            "text": [
+                "a locomotive which has not has moved under its own steam for about 40 years and has taken more than 20 years to restore is due to undergo testing before running on a heritage railway track later this year , its owner says .", 
+                "the bodmin and wenford steam railway said the former national coal board loco came to its station in 1995 after leaving service in the 1970s .", 
+                "releasing a video of the restored engine in operation , the charity said : `` she will be running here over the summer after a period of testing and running in over the coming few weeks . ''"
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff6503e4b05a37ea76762b", 
+            "title": "driver in fatal crash denies 'showing off '", 
+            "text": [
+                "a teenager who was driving when his 16-year-old passenger died , has denied accusations he was showing off .", 
+                "coree lee amonn , 19 , was accelerating in his vw golf on castle drive in falmouth when he lost control on a right hand bend , truro crown court heard .", 
+                "sophie taylor from the town died in the crash in january 2016 .", 
+                "today mr amonn told the court : `` i am not one to show off i am not someone who drives like an idiot . ''", 
+                "he denies causing death by dangerous driving and the trial continues ."
+            ], 
+            "author": [
+                "Amy Gladwell, BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff7306e4b05a37ea767666", 
+            "title": "delays in plymouth : lorry stuck under bridge", 
+            "text": [
+                "commuters facing a slow journey home in plymouth this afternoon", 
+                "# devon in plymouth pennycomequick hill blocked both directions due lorry stuck under bridge .", 
+                "recovery now underway queues back to milehouse .", 
+                "due to bridge strike at railway stn , all inbound services through milehouse diverted st levan rd , park ave & union st", 
+                "hi , is the 44 affected please ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58fef301e4b05a37ea767401", 
+            "title": "volunteers work to help torbay homeless into accommodation", 
+            "text": [
+                "a team of more than 30 volunteers is taking to the streets in torbay this week to talk to rough sleepers in the area to try to help them into accommodation .", 
+                "torbay , which has seen a spike in homelessness in the last 12 months , has joined an international campaign called end street homelessness .", 
+                "it is among the first areas in the country to join the campaign , which , in america , has seen 100,000 re-housed in four years ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10546444", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff699de4b053c7bc78c8ce", 
+            "title": "dozing plymouth gran convicted of killing friends", 
+            "text": [
+                "a grandmother has been convicted of killing two women after she dozed off at the wheel of her car .", 
+                "teresa sant , 58 , was found guilty of causing death by dangerous driving of the two friends in plymouth last may .", 
+                "a court heard she ploughed into victoria hodge , 42 , and marie-helene gieblen , 60 , in the car she had bought four days earlier .", 
+                "the victims had just got off a bus in torr lane and were saying their goodbyes when they were killed ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff3fc8e4b053c7bc78c80e", 
+            "title": "devon mps asking pm for stop to schools funding changes", 
+            "text": [
+                "a group of devon conservative mps have written to the prime minister , asking her to do everything possible to stop the county 's schools becoming worse off .", 
+                "in the letter , the seven mps said they were deeply uneasy about about planned changes to the funding formula which would see many schools in the historically underfunded county losing more cash ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff6122e4b053c7bc78c8ac", 
+            "title": "driver in fatal crash was 'not asked to slow down '", 
+            "text": [
+                "a 19-year-old man accused of causing the death of a 16-year old girl by driving dangerously in falmouth has told a court he does not recall being asked to slow down at the time .", 
+                "sophie taylor from the town died after the crash at castle drive in january 2016 .", 
+                "coree lee amonn was driving miss taylor and her twin sister , aimee at speeds of over 40mph in a 30mph zone when the car collided with a concrete post and crashed , the jury heard .", 
+                "truro crown court had heard aimee had asked him to drive slower , but today the defendant said : `` i do not recall her telling me to slow down at all '' .", 
+                "he denies causing death by dangerous driving .", 
+                "the trial continues ."
+            ], 
+            "author": [
+                "Amy Gladwell, BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff201be4b0c4062e8c84e0", 
+            "title": "lostwithiel 'bereft of vital public services '", 
+            "text": [
+                "the town of lostwithiel is `` bereft of vital public services '' , its mp has claimed in parliament .", 
+                "south east cornwall conservative sheryl murray is urging ministers to do what they can to bring back a permanent post office and bank .", 
+                "the town 's branch of lloyds bank shut its doors as part of a national closure of branches .", 
+                "the post office , which had been based in a village store , closed when the shop shut down ."
+            ], 
+            "author": [
+                "BBC Politics"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff0561e4b053c7bc78c703", 
+            "title": "government invests in device that aims to cut pollution and reward better driving", 
+            "text": [
+                "the government is stumping up almost \u00a3 1m to help develop a piece of technology in the south west that aims to cut air pollution and reward better driving .", 
+                "developed in exeter , lightfoot is a gadget which sits on the dashboard and tells the driver when they 're going too fast or revving too much .", 
+                "rewards for better driving could include deals on car insurance , breakdown cover , car finance or other incentives with partner organsiations , the lightfoot compay said .", 
+                "it added that it hoped that going halves with the government on the investment would help create jobs as well as better drivers ."
+            ], 
+            "author": [
+                "Harriet Bradshaw", 
+                "Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff393ee4b053c7bc78c7f1", 
+            "title": "countryside fires 'devastating for local wildlife '", 
+            "text": [
+                "there 's been a spate of countryside fires across cornwall after several weeks of dryer weather .", 
+                "arson is suspected in several of the cases , and the fire brigade is investigating three incidents in st austell .", 
+                "one particular fire , on 19 april , at mexico towans , near hayle , was close to a holiday park and proved difficult for firefighters to reach .", 
+                "it left a large area of dunes badly scorched .", 
+                "such fires can be devastating for local wildlife , according to experts .", 
+                "the aftermath of fires at mexico towans , # hayle - @ twitterid calls the damage `` devastating '' @ twitterid @ twitterid"
+            ], 
+            "author": [
+                "Laurence Reed", 
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff5a66e4b05a37ea7675fa", 
+            "title": "gran guilty of dangerous driving which killed two plymouth women on pavement", 
+            "text": [
+                "a grandmother who ran over and killed two women standing on a pavement faces jail after she was found guilty of dangerous driving ."
+            ], 
+            "author": [
+                "Plymouth Herald"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10546118", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2a74e4b053c7bc78c7af", 
+            "title": "latest weather : cold with blustery and heavy showers", 
+            "text": [
+                "feeling cold with blustery showers affecting many areas this afternoon .", 
+                "some showers will be heavy and possibly wintry over high ground with a risk of hail and thunder as well .", 
+                "moderate or fresh northerly winds will be stronger to the north and over the moors .", 
+                "maximum temperature : 11c ( 52f ) .", 
+                "this evening and tonight , it will become mainly dry and also cold , with a frost developing for areas away from the north coast .", 
+                "moderate or fresh north to northeasterly winds will ease inland .", 
+                "minimum temperature : -2c ( 28f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff39eee4b05a37ea767566", 
+            "title": "man stabbed in back after pub altercation 'spills outside '", 
+            "text": [
+                "a man is recovering from being stabbed in the back after an altercation inside a cornwall pub `` spilled outside '' , police say .", 
+                "officers said a 28-year-old man reported being wounded in fore street in torpoint at about 03:20 on sunday .", 
+                "he was taken to derriford hospital in plymouth , where he was `` expected to remain for a two to three days '' , officers said .", 
+                "he was wounded twice , but his injuries are not thought life-changing or life-threatening .", 
+                "officers added that they had identified a suspect but no arrests had been made yet ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff3da9e4b05a37ea767570", 
+            "title": "on the run : royal marines begin 100-day relay challenge", 
+            "text": [
+                "the royal marines ' 1664 global challenge will see different marine units take part in a relay over 100 days , with one unit handing a baton to the next after a 16.64-mile run .", 
+                "this event is raising awareness of the marines around the country , and raising funds for the rm charity .", 
+                "it started at the mayflower steps in plymouth this morning .", 
+                "and they 're off !", 
+                "@ twitterid enroute to looe - this is day 1 of 100 consecutive days running 16.64 miles .", 
+                "find out why on spotlight !", 
+                "good luck everyone", 
+                "you did n't fancy running with them ? x"
+            ], 
+            "author": [
+                "Heidi Davey", 
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff4121e4b053c7bc78c811", 
+            "title": "plymouth park to receive \u00a3 2.5m for improvements", 
+            "text": [
+                "plymouth 's central park is to have more than \u00a3 2.5m worth of improvements .", 
+                "the work , which will take two years to complete , includes improving pathways and boundaries , a new cafe , changing rooms and improved sports pitches , .", 
+                "the cash is coming from plymouth city council 's capital programme , plus developer contributions ."
+            ], 
+            "author": [
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_39703063", 
+            "title": "huge jellyfish filmed off cornwall", 
+            "text": [
+                "huge jellyfish filmed off cornwall"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff3df2e4b05a37ea767574", 
+            "title": "'call 101 ' advice over dogs trapped in hot cars", 
+            "text": [
+                "devon and cornwall police have issued advice to members of the public who find dogs shut in cars , saying the course of action depends on the level of distress .", 
+                "it follows the case of a man who broke a car window to reach a dog left in a car in st ives .", 
+                "his actions went viral on social media ( see below ) .", 
+                "in a statement , police said it was not advisable to force entry to a vehicle unless people were certain of their ground and unless they were prepared to defend their actions at court .", 
+                "officers said the first step should be to call the police on non-emergency number , 101 .", 
+                "man in # stives smashes the window of a car after dog left inside .", 
+                "owners reportedly say it was because `` dogs not allowed in pizza express ''", 
+                "er eat somewhere else ?", 
+                "leave your dog at home ?", 
+                "or better still , do n't own one if you 're this irresponsible ! !", 
+                "!", 
+                "i salute that man he is a dog lover the owner clearly is n't !", 
+                "good on him", 
+                "totally in agreement with what clive did , i would n't hesitate to get a dog out .", 
+                "if you own a dog they are a member of your family 24/7 .", 
+                "good job", 
+                "unbelievable that dogs are still suffering like this .", 
+                "similar at poldhu recently .", 
+                "i called the police myself .", 
+                "well done that man !", 
+                "that poor dog and what a pathetic excuse the owner gave .", 
+                "there are lots and lots of places in cornwall who welcome dogs .", 
+                "this was totally unnecessary", 
+                "how about eat somewhere else then ? ? ? ? ?", 
+                "selfish people", 
+                "well done to that man for smashing the window .", 
+                "poor dog .", 
+                "kudo 's to this wonderful man !", 
+                "too bad they were allowed in pizza express"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff44b6e4b05a37ea767593", 
+            "title": "why has vue cinema in plymouth suddenly closed ?", 
+            "text": [
+                "vue cinema at the barbican leisure park has suddenly closed - with staff turning film lovers away until further notice ."
+            ], 
+            "author": [
+                "Plymouth Herald"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff0958e4b05a37ea76747f", 
+            "title": "mum thanks mystery good samaritan couple for saving daughter from gang attack", 
+            "text": [
+                "a devon mother has asked the couple who stepped in to help her daughter during an alleged attack by a gang to come forward ."
+            ], 
+            "author": [
+                "Devon Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff30a5e4b053c7bc78c7ce", 
+            "title": "ex-cornwall mp dan rogerson to stand for former seat", 
+            "text": [
+                "former cornwall mp dan rogerson ( has confirmed he 'll fight for the liberal democrats in north cornwall in the general election , hoping to win back the seat he held from 2005-2015 .", 
+                "meanwhile , rob nolan has announced he will be the lib dem candidate in truro and falmouth .", 
+                "he is currently a cornwall council member and the mayor of truro ."
+            ], 
+            "author": [
+                "Tamsin Melville", 
+                "Political Reporter, BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff1d94e4b05a37ea7674e9", 
+            "title": "architects appointed to rebuild royal clarence hotel", 
+            "text": [
+                "architects have been appointed to repair and rebuild the royal clarence hotel in exeter , which was destroyed by a fire last october , its owner says .", 
+                "the hotel , which was described as the oldest hotel in england , had to be demolished after the fire broke out in buildings on cathedral green before spreading to the grade ii listed hotel , which dated back to 1769 .", 
+                "owner andrew brownsword hotels said manchester-based firm buttress would carry out the work with an intention to `` preserve surviving features of historic and architectural importance and , where possible , incorporate them into the rebuild '' ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff1c12e4b05a37ea7674e1", 
+            "title": "high tide times for the region", 
+            "text": [
+                "if you 're planning a trip to the coast or seaside , here are the next high water times around devon and cornwall .", 
+                "we 'll have the latest forecast on bbc spotlight at 13:30 ."
+            ], 
+            "author": [
+                "Holly Green", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2c56e4b05a37ea76752d", 
+            "title": "cornwall 999 team cleared of mix-up with north yorkshire fire crew", 
+            "text": [
+                "call operators in cornwall who sent a north yorkshire fire crew to the wrong address have been cleared of blame .", 
+                "the harrogate crew was wrongly sent two-and-a-half miles from where it should have been by cornwall operators 400 miles away .", 
+                "but an investigation found the 999 call had dropped out before the operator could get all the details .", 
+                "north yorkshire and cornwall fire and rescue services share control room operations at peak periods ."
+            ], 
+            "author": [
+                "Jonathan Morris", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2d1ce4b0c4062e8c8527", 
+            "title": "basking shark carcass gives 'rare opportunity ' for study", 
+            "text": [
+                "the carcass of a large basking shark being washed up near a beach in cornwall has been a `` rare opportunity '' to study the species , a strandings expert says .", 
+                "the creature , estimated as 25ft ( 7.62m ) long , came ashore at chapel point , near mevagissey , over the weekend .", 
+                "the sharks are often seen off the cornish coast during the warmer months .", 
+                "a team of volunteers working for the marine strandings network ( msn ) is at the site , gathering samples , as well as confirming the species , size and gender .", 
+                "niki clear , from the msn , said : `` basking shark carcasses normally sink , so this is a very rare opportunity for us .", 
+                "it 's really unusual , we get maybe one a year . ''"
+            ], 
+            "author": [
+                "Johnny O'Shea", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2656e4b053c7bc78c7a1", 
+            "title": "huge jellyfish filmed off cornwall", 
+            "text": [
+                "a huge barrel jellyfish has been filmed swimming underneath a paddle boarder in cornwall .", 
+                "the creature was one of several seen in clear waters near port isaac in cornwall on friday 21 april .", 
+                "ben s from cornish rock tors ltd was out on the water when he spotted the creature , which are the largest in uk waters .", 
+                "he said : `` they 're awesome and harmless to humans , feeding mainly on plankton .", 
+                "`` they drift in with the currents and are very easy to spot in clear conditions due to their size . ''"
+            ], 
+            "author": [
+                "Rob England", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2122e4b0c4062e8c84e3", 
+            "title": "telegraph pole row : 'there are poles everywhere '", 
+            "text": [
+                "a parish councillor says he understands why a local lord does not want telegraph poles on his land to get local superfast broadband to a village , but added there were already `` poles everywhere '' .", 
+                "most of the work to connect upton pyne , near exeter , has already been done .", 
+                "but the project has been delayed after bt and the 5th earl of iddesleigh failed to agree on whether poles could be used across his land .", 
+                "the earl said he would prefer cables buried underground as poles would ruin an `` unspoilt valley '' on his estate .", 
+                "councillor bob short , of upton pyne and cowley parish council ( said : `` in the interests of keeping the countryside looking pretty for everybody , nobody wants poles .", 
+                "`` but it 's the case that they 'd not be the only ones in the area : there are poles everywhere .", 
+                "surely four more is n't going to be too much of an inconvenience for the countryside ? ''", 
+                "the earl insisted that he had not ruled out allowing poles to be put in ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff2272e4b0c4062e8c84eb", 
+            "title": "police uncover speed sign tree fib ?", 
+            "text": [
+                "someone said we ca n't give them a speeding ticket because the 30 sign is covered up by a tree eerrrrr hhhmmm", 
+                "to be fair , they have a point .", 
+                "this would 've been better .", 
+                "we apologise for not spending 10 seconds earlier .", 
+                "sorry .", 
+                "brilliant .", 
+                "we better put some cones out to warn drivers about that tree obstruction in the road", 
+                "# nicetry !", 
+                "30 sign ?", 
+                "what do you mean ?", 
+                "there are so many trees i ca n't see a 30 sign !", 
+                "must be one of those moving trees i 've heard of ?", 
+                "definitely should have gone to specsavers", 
+                "even if it were - residential area with streetlights & pavements so would always be a 30 unless signposted otherwise", 
+                "appeal refused", 
+                "nope , no 30 mph signage to see here : )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff20c1e4b05a37ea7674fc", 
+            "title": "gorse fire on bodmin moor", 
+            "text": [
+                "firefighters have tackled a gorse fire on bodmin moor .", 
+                "six firefighters in one appliance from bodmin where called to near dozmary pool at about 09:20 .", 
+                "they used beaters and a hose reel to extinguish the blaze , which spread across about 20 sq-m of gorse , the fire service said ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff0141e4b053c7bc78c6f5", 
+            "title": "fire which destroys shop fittings storage container 'started deliberately '", 
+            "text": [
+                "a fire in a commercial bin which spread to a neighbouring metal storage container in dawlish was started deliberately , firefighters say .", 
+                "emergency crews were called to the scene behind a property in high street at about 01:10 .", 
+                "the 6m by 2m storage container , which had shop fittings inside , was destroyed in the blaze .", 
+                "the fire also damaged the rear light of a nearby car , devon and somerset fire service said ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff0c0ee4b05a37ea76748b", 
+            "title": "broadband telegraph pole row lord 'would prefer cables underground '", 
+            "text": [
+                "the lord at the centre of a row over telegraph poles which is currently leaving a village without superfast broadband says he would prefer any cabling necessary to be underground .", 
+                "most of the work to connect upton pyne , near exeter , has already been done .", 
+                "but the project has been delayed after bt and the 5th earl of iddesleigh failed to agree on whether poles could be used across his land .", 
+                "the earl said he would prefer to have cables buried underground as poles would ruin an `` unspoilt valley '' on his estate .", 
+                "bt said it had made every reasonable effort to find a viable way of bringing fibre broadband to the area , including holding two meetings with the earl .", 
+                "lord iddesleigh insisted that he had not ruled out allowing poles to be put in ."
+            ], 
+            "author": [
+                "Kirk England", 
+                "BBC Radio Devon"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fefd9ee4b053c7bc78c6e3", 
+            "title": "fraudster 'used new victims ' money to honour promises to old victims '", 
+            "text": [
+                "a bogus travel agent who swindled people out of a total of \u00a3 130,000 did provide some holidays but used money from new victims to try to honour promises made to previous ones , a court heard .", 
+                "susan lee got families to pay up to \u00a3 8,500 in advance for holidays and then gave excuses when they called her to ask for confirmations of their bookings , exeter crown court was told .", 
+                "mr david sapiecha , prosecuting , told the court there were 13 victims who lost a total of \u00a3 130,000 , although \u00a3 40,000 had been repaid from money paid by later customers .", 
+                "he said it was a `` sophisticated fraud which continued over a number of years with a large number of victims '' .", 
+                "fifty-nine-year-old lee , of leaze park , okehampton , admitted fraud and was jailed for two years ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff109ee4b05a37ea76749f", 
+            "title": "woman , 81 , seriously injured in torquay road crash", 
+            "text": [
+                "an 81-year-old pedestrian has suffered serious injuries in a road crash in torquay , police say .", 
+                "officers said the woman was walking across st marychurch road at about 12:20 on saturday when she was struck by a red ford fiesta st .", 
+                "she was airlifted to derriford hospital in plymouth , where she is still undergoing treatment .", 
+                "police , who closed the road for six hours for an investigation , have appealed for witnesses to the crash or anyone `` who saw the vehicle or pedestrian prior to the incident '' ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58feffb1e4b0c4062e8c8446", 
+            "title": "a moody looking start to the day for st ives", 
+            "text": [
+                "if you have any weatherwatcher that you think we should see , then just email us .", 
+                "a moody looking # stives this morning @ twitterid @ twitterid very chilly"
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fefd64e4b05a37ea767440", 
+            "title": "raiders miss out on play-offs again", 
+            "text": [
+                "plymouth raiders missed out on the british basketball league play-offs for the fourth season running after suffering defeats by surrey and manchester over the weekend .", 
+                "johnny white 's side have finished the season , having reached the final of the bbl trophy last month .", 
+                "since losing that match in glasgow , raiders have won just twice , ending the season with six consecutive losses ."
+            ], 
+            "author": [
+                "James Law", 
+                "BBC Sport Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ff017fe4b053c7bc78c6f6", 
+            "title": "exmoor pony centre 'future in doubt ' due to falling funds", 
+            "text": [
+                "exmoor pony centre says its future could be in doubt unless it can find \u00a3 20,000 to keep it going .", 
+                "it 's operated by the charity moorland mousie trust , which says it 's facing closure due to rising costs and decreasing income .", 
+                "the centre opened in 2006 and , since then , more than 300 moor-bred foals have been given a future either as riding ponies or within conservation grazing herds , staff said ."
+            ], 
+            "author": [
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ff07d1e4b05a37ea767473", 
+            "title": "latest travel in devon and cornwall", 
+            "text": [
+                "latest travel in devon and cornwall"
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58fef05de4b05a37ea7673f0", 
+            "title": "rings around the sun . did you see them ?", 
+            "text": [
+                "you may have seen this phenomena yesterday with the sun through a veil of thin cirrus cloud .", 
+                "thanks to # bbcweatherwatchers art at st ives", 
+                "phenomenon : /", 
+                "absolutely !"
+            ], 
+            "author": [
+                "Kevin Thomas", 
+                "BBC Weather Forecaster"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58fefd32e4b05a37ea76743f", 
+            "title": "latest travel : hail cuases ice on road in bolventor", 
+            "text": [
+                "latest travel : hail cuases ice on road in bolventor"
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef935e4b0c4062e8c8427", 
+            "title": "latest weather : sunny spells but feeling cold", 
+            "text": [
+                "a strong northerly wind will make it feel cold for all of us today .", 
+                "there will be sunny spells with showers developing into the afternoon .", 
+                "showers will be locally heavy with a risk of hail and thunder , possibly with sleet over high ground , such as dartmoor .", 
+                "maximum temperature : 11c ( 52f ) ."
+            ], 
+            "author": [
+                "Holly Green", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef5c1e4b053c7bc78c6c2", 
+            "title": "'callous ' bogus travel agent jailed over \u00a3 130k swindle", 
+            "text": [
+                "a bogus travel agent has been jailed for swindling families out of \u00a3 130,000 and leaving them without holidays .", 
+                "susan lee told victims `` a pack of lies '' claiming she could get cut-price deals through contacts , exeter crown court heard .", 
+                "lee , of leaze park , okehampton , targeted friends , customers to her toy shop in the devon town and strangers , the court was told .", 
+                "the 59-year-old admitted fraud and was jailed for two years ."
+            ], 
+            "author": [
+                "BBC News England"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef4c2e4b0c4062e8c8416", 
+            "title": "policeman warns of zig-zag line parking tickets at school", 
+            "text": [
+                "a plymouth police officer is threatening to write traffic tickets to people who keep parking on zig-zag yellow lines outside a local school .", 
+                "pc mark freshwater - neighbourhood beat manager for southway , tamerton foliot and widewell - said on twitter that he had seen problems in southway , with yellow lines parked on by people `` who see it as reserved parking for the lazy or late '' .", 
+                "he added : `` over the next few days i will issue tickets to anyone ignoring these markings as words of advice do n't seem to work . ''", 
+                "these road markings keep your children safe , unfortunately most days there are those who see it as reserved parking for the lazy or late.1/2", 
+                "over the next few days i will issue tickets to anyone ignoring these markings as words of advice do n't seem to work .", 
+                "# southway # plymouth 2/2", 
+                "you available for a quick chat about this mark .", 
+                "five mins , tops .", 
+                "honest !", 
+                "give me a bell in the morning , i 'm currently at home having a beer !", 
+                "okeydokey - crownhill nick ?", 
+                "yep", 
+                "what if the wheel falls of your car there ?", 
+                "# yesiambeingpedantic", 
+                "then you have n't been driving a roadworthy car and it 's off # grammarpolice", 
+                "my english is all full and an ca n't drive either .", 
+                "`` off '' as in `` sawn '' , `` on '' and `` bugger '' .", 
+                "what drivers have to understand because the way some drivers park they put lives at risk as a result of which i feel they need to be fined", 
+                "could you come to brixton st marys primary school and sort out the same issue ? !", 
+                "one car thinks that it 's 'her parking space ' it seems", 
+                "parents parking on double yellow lines is the biggest problem , nobody has enforced them since they were painted .", 
+                "will that include the yellow lines on the corner aswell ?", 
+                "as many people ignore those and park ?", 
+                "fantastic idea it 's always the same ones !", 
+                "my daughter attended this school 3 years ago the same thing was said then , but never actually happened .", 
+                "come to beechwood next .", 
+                "loads of bad parking on double yellow lines & still waiting for council to replace lollipop man since mr r retired ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef1a1e4b05a37ea7673f7", 
+            "title": "telegraph pole row 'leaving village without superfast broadband '", 
+            "text": [
+                "people in a devon village say a row between bt and the local lord over telegraph poles ruining his view has left them without superfast broadband .", 
+                "most of the work to connect upton pyne , near exeter , has already been done .", 
+                "but the project has been delayed after bt and the earl of iddesleigh failed to agree on whether telegraph poles could be used across his land or the cables be buried instead .", 
+                "lord iddesleigh said he had not ruled out allowing the poles .", 
+                "bt said it had made every effort to come to an agreement ."
+            ], 
+            "author": [
+                "Kirk England", 
+                "BBC Spotlight"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58fef034e4b053c7bc78c6a5", 
+            "title": "hospitals cleaner loses profits over missed standards", 
+            "text": [
+                "there have been more incidents of failing standards by the private company that took over cleaning and catering - or hotel services - at the royal cornwall hospitals trust .", 
+                "it 's led to private company mitie losing more than two-thirds of its fees in the second half of last year .", 
+                "that went up from just over half of its profits the previous year .", 
+                "its contract at cornwall 's acute hospitals near truro , in hayle and in penzance is worth \u00a3 90m .", 
+                "the service failures included emergency calls not being answered on time and porters not meeting time limits for jobs .", 
+                "mitie said it had introduced new action plans since the failures which it said were already making an impact ."
+            ], 
+            "author": [
+                "BBC Radio Cornwall"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58feef3ce4b053c7bc78c69d", 
+            "title": "news , sport , weather and travel for tuesday", 
+            "text": [
+                "good morning from bbc local live , which will be bringing you the news , sport , travel and weather for devon and cornwall today .", 
+                "if you want to get in touch , please email us ."
+            ], 
+            "author": [
+                "Andrew Segal", 
+                "Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:00"
+        }
+    ], 
+    "genre": "uk-england-devon", 
+    "quality": "high"
+}

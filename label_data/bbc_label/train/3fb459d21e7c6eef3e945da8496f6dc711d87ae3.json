@@ -1,0 +1,578 @@
+{
+    "blog_id": "3fb459d21e7c6eef3e945da8496f6dc711d87ae3", 
+    "title": "BBC Local Live: Derbyshire on Monday 20 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-39009833", 
+    "summary": [
+        "updates for monday 20 february 2017 .", 
+        "boy dies in scooter crash in south normanton .", 
+        "arrest after boy dies in scooter crash .", 
+        "tonnes of waste dumped on farmland .", 
+        "\u00a3 15,000 grant for ashbourne carnival .", 
+        "teaching assistants hold 24 hour vigil .", 
+        "derby county fan visits every english stadium .", 
+        "news , sport , travel and weather updates resume at 08:00 tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ab27f1e4b06f5728f82c23", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire have finished for the day but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ab275be4b03cb862dd1436", 
+            "title": "weather : light rain but mild", 
+            "text": [
+                "overnight will be cloudy with a few spots of light rain and drizzle in the first part of the night .", 
+                "the outbreaks of rain will become more widespread in the early hours .", 
+                "it 'll be mild , with some hill fog patches possible over high ground .", 
+                "minimum temperature : 7c ( 45f )"
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ab2557e4b03cb862dd142e", 
+            "title": "nigel clough returns to pride park", 
+            "text": [
+                "tomorrow 's game will also be burton manager nigel clough 's first return to pride park , since being sacked in september 2013 after over four and a half years in charge .", 
+                "he 's told bbc derby sport that he 's got nothing to prove ahead of a vital week for the brewers - who also face blackburn on friday ."
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ab2529e4b074e9ec26064f", 
+            "title": "rams v brewers for the first time at pride park", 
+            "text": [
+                "derby county could be without craig bryson , nick blackman and johnny russell for tomorrow night 's local derby against burton albion .", 
+                "bryson has a hip injury with knee and hamstring problems troubling blackman and russell , respectively .", 
+                "derby and burton will meet for the first time ever at pride park tomorrow ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ab1e84e4b06f5728f82bf7", 
+            "title": "your photos : edensor village", 
+            "text": [
+                "now what a beautiful of edensor village ( pronounced ensor ) .", 
+                "thank you to our weather watcher john yorkshire lad leigh for sending this in .", 
+                "it is truly stunning ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ab1a29e4b074e9ec260612", 
+            "title": "drug dealer caught by undercover cop jailed", 
+            "text": [
+                "this is the woman who was caught dealing drugs by an undercover police officer .", 
+                "claire hardy , of edward street , was jailed for three years after she appeared at derby crown court on friday , derbyshire police said .", 
+                "she pleaded guilty to possessing a class a drug with intent to supply .", 
+                "an undercover officer captured on camera the moment she tried to sell heroin in derby city centre .", 
+                "the officer was cycling down st helens street last september , when they spotted the deal taking place ."
+            ], 
+            "author": [
+                "Aleena Naylor", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aad66ee4b06f5728f82ab6", 
+            "title": "\u00a3 15,000 grant for ashbourne carnival", 
+            "text": [
+                "organisers of the ashbourne festival have been awarded a \u00a3 15,000 arts council grant to bring back the town 's carnival .", 
+                "it 's been a number of years since it was held in ashbourne and residents think it 's `` brilliant '' .", 
+                "it will be held on sunday , 18 june and is to have a south american theme .", 
+                "heidi buxton , who lives in ashbourne , said : `` i think it 's brilliant , absolutely great .", 
+                "`` i can remember when i used to be apart of the carnival many years ago , when i was in the brownies . ''"
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ab11fbe4b03cb862dd13d2", 
+            "title": "undercover cop spots drug deal", 
+            "text": [
+                "derbyshire police have released footage of the moment an undercover officer caught a drug deal going off on the streets of derby .", 
+                "footage released of a # derby city centre drug deal from the body worn video of an undercover @ twitterid officer .", 
+                "brilliant nick keep it up"
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ab0e38e4b06f5728f82ba3", 
+            "title": "both lanes reopen on m1", 
+            "text": [
+                "some good news for travellers", 
+                "and this is what was causing those problems earlier", 
+                "all lanes now open # m1 southbound between j28 # mansfield + j27 # langleymill following an earlier incident .", 
+                "traffic is flowing freely .", 
+                "# m1 sb j28 to j27 we are dealing with a 2 vehicle rtc .", 
+                "lanes 1 and 2 closed .", 
+                "expect delays .", 
+                "# highways # travel"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aaed48e4b03cb862dd1326", 
+            "title": "burton albion v derby county tomorrow", 
+            "text": [
+                "it might be his return to pride park tomorrow but nigel clough believes the next game , against a relegation rival , is bigger for burton ."
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aae94ce4b06f5728f82b07", 
+            "title": "missing girl from clay cross", 
+            "text": [
+                "lesharna stafford was last seen on friday at about 22:00 in clay cross .", 
+                "the 16-year-old has links to leicestershire and police say they just want to make sure she is `` safe and well '' .", 
+                "she was last seen wearing a navy blue patterned blouse , a black short jacket , black skinny jeans and trainers ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aafc96e4b06f5728f82b4d", 
+            "title": "traffic : delays on m1 southbound because of a crash", 
+            "text": [
+                "two lanes are closed and there is queuing traffic on the m1 southbound in derbyshire between j28 for alfreton and j27 for hucknall because of a crash .", 
+                "you are being advised to leave more time for your journey this afternoon ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aaf572e4b03cb862dd1349", 
+            "title": "owner reunited with wedding photos", 
+            "text": [
+                "earlier on we told you about the wedding photos found in chaddesden park on valentine 's day .", 
+                "derbyshire police said couple who 's wedding photographs were found in the park have been traced .", 
+                "the appeal was spotted by their daughter on social media ."
+            ], 
+            "author": [
+                "Aleena Naylor", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aae5c2e4b03cb862dd1301", 
+            "title": "are derbyshire charity shops becoming more popular ?", 
+            "text": [
+                "with more appeals for volunteers , is this a sign we are buying more secondhand clothes ?", 
+                "the oxfam shop in belper is in desperate need of more workers to keep up with its demands .", 
+                "our reporter , nigel cash , went to the charity shop to see the huge amount of clothing they have had donated .", 
+                "especially in the fancy dress department"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aadd2ee4b06f5728f82ad7", 
+            "title": "derby county fan visits every english stadium", 
+            "text": [
+                "derby fan ed wood has broken the world record for visiting every english league ground in the shortest time .", 
+                "mr wood managed to squeeze in a visit to every football league stadium in england in just over six months .", 
+                "he has now set a new guinness world record of visiting 93 grounds in 189 days .", 
+                "on saturday , 22,000 miles later , the derby county fan reached his final ground , league one rochdale 's crown oil arena ."
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aaded9e4b074e9ec2604ff", 
+            "title": "arrest after boy dies in scooter crash", 
+            "text": [
+                "a 27-year-old man has been arrested over the fatal crash on fordbridge lane , south normanton , yesterday evening .", 
+                "he remains in police custody ."
+            ], 
+            "author": [
+                "Eric Simpson", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aada05e4b03cb862dd12cf", 
+            "title": "'lost ' wedding photos remain unclaimed", 
+            "text": [
+                "last week we told you about the discovery of wedding apparently lost in chaddesden park but found by cleaners .", 
+                "crime scene investigators have now enhanced some of the images and released more copies .", 
+                "if anybody recognises them or anyone in them they are being asked to contact derbyshire police ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aab86ae4b03cb862dd1231", 
+            "title": "to honour region 's music heritage", 
+            "text": [
+                "what local music legend do you think deserves a blue plaque ?", 
+                "we are looking for suggestions for who or where you think should be honoured .", 
+                "tweet us your suggestions on who you would nominate ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aac909e4b06f5728f82a7c", 
+            "title": "fly-tipped waste 'steaming and smelly '", 
+            "text": [
+                "uttoxeter farmer richard weston told us he 's worried people will think he 's to blame for tonnes of waste dumped on his land .", 
+                "speaking to us earlier he said : `` at the end of the day if they blame me they are blaming the wrong person , because it 's nothing to do with me .", 
+                "`` i 'm just the victim who ca n't do anything about it .", 
+                "`` it 's sat here now and it 's steaming , it smells , people are going to start complaining but again what do i do ? ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aabf71e4b074e9ec26047b", 
+            "title": "fly-tippers strike again", 
+            "text": [
+                "the environment agency is trying to find out who 's responsible for dumping domestic waste in yoxall , and uttoxeter last week .", 
+                "the fly-tippers dumped waste in yoxall just two days after waste was discovered on farmland near uttoexeter .", 
+                "it 's not yet clear if the two incidents are linked ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aabfeae4b074e9ec26047e", 
+            "title": "watch : today 's weather outlook", 
+            "text": [
+                "here 's the weather forecast for the east midlands ."
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aab9abe4b074e9ec26045b", 
+            "title": "lorry stuck on a515", 
+            "text": [
+                "if you are heading in this direction expect delays", 
+                "delays # a515 ashbourne .", 
+                "lgv with complete electrical failure .", 
+                "caution on approach .", 
+                "recovery on scene .", 
+                "# highways # travel"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aab43be4b06f5728f82a2f", 
+            "title": "teaching assistants hold 24 hour vigil", 
+            "text": [
+                "school support staff in derby will stage a 24 hour vigil outside the council house starting at noon today .", 
+                "it 's the latest run of strikes against cuts to their pay , which the union said has seen some staff lose 25 % of their income .", 
+                "derby city council said it 's been willing to try every avenue to resolve the dispute ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aaaad6e4b03cb862dd11ed", 
+            "title": "your photos : kedleston hall", 
+            "text": [
+                "what a beautiful view of kedleston hall taken by our weather watcher loup .", 
+                "thank you for sending this in over the weekend .", 
+                "if you have any snaps send them into us here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aaad53e4b06f5728f82a0a", 
+            "title": "tonnes of waste dumped on farmland", 
+            "text": [
+                "a fly-tipper dumped 40 tonnes of waste on to farmland near uttoxeter .", 
+                "richard weston who owns the land off the a50 said it 's going to cost him about \u00a3 8,000 to remove the rubbish , below .", 
+                "two days later a similar amount was fly-tipped on a road in nearby yoxall , when waste including bottles , cement and nappies was also dumped .", 
+                "the environment agency said it is investigating both incidents ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aaa7aae4b03cb862dd11d8", 
+            "title": "boy dies in scooter crash in south normanton", 
+            "text": [
+                "a teenage boy has died after he was involved in a crash yesterday evening .", 
+                "police were called to fordbridge lane , south normanton , at about 20:00 after reports that a 14-year-old on a scooter had been involved in a collision with a black ford fusion .", 
+                "a 27-year-old man has been arrested on sus of causing death by dangerous driving , failing to stop at the scene and being unfit to drive through drink or drugs .", 
+                "he remains in police custody ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aaa29ce4b03cb862dd11b5", 
+            "title": "travel : slow traffic on a52 and a38", 
+            "text": [
+                "there is slow traffic on pentagon island on the a52 and queensway a38 coming into derby ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aaa15de4b03cb862dd11ad", 
+            "title": "good morning : join us for today 's live updates", 
+            "text": [
+                "i hope you all had a lovely weekend .", 
+                "it 's me with your news , travel , sport and weather for derbyshire and east staffordshire today .", 
+                "if there 's anything you want to comment on you can email , facebook or tweet us ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

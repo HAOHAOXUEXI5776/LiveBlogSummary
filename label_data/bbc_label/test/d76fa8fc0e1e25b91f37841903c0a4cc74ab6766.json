@@ -1,0 +1,991 @@
+{
+    "blog_id": "d76fa8fc0e1e25b91f37841903c0a4cc74ab6766", 
+    "title": "Latest updates: Nottinghamshire Live on Thursday 23 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-nottinghamshire-39057439", 
+    "summary": [
+        "storm doris closes parks and newark castle .", 
+        "couple launch charity to help bereaved parents .", 
+        "health inspectors release report into qmc a & e .", 
+        "updates for thursday 23 february 2017 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1ce4e4b08b1f7dede3e8", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for nottinghamshire have finished for the day but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1bafe4b07f8d679fe2be", 
+            "title": "east midlands weather update : winds to ease tonight", 
+            "text": [
+                "an amber warning for wind is valid until 20:00 , with rain and strong winds continuing to cause travel disruption .", 
+                "wind and gusts will steadily ease over the course of this evening and overnight ."
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10406879", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1b03e4b08b1f7dede3e4", 
+            "title": "travel : m1 closure causing problems on a610", 
+            "text": [
+                "heavy traffic on a610 outbound to m1 26 .", 
+                "lanes closed on m1 between j25 & j26 due to unsafe overhead gantry"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af15e4e4b0ec68546dfffb", 
+            "title": "train to arrive 'a week next wednesday '", 
+            "text": [
+                "it 's going to take the head of bbc east midlands a long time to get home at this rate .", 
+                "it may look like slomo but this is the actual speed my train has been doing .", 
+                "current eta at home : a week next wednesday .", 
+                "red cross parcel at next station .", 
+                "will hold out hand you can catch it on way", 
+                "at this speed you can jump on and hand it over", 
+                "nice tracking shot though", 
+                "turns out the ecml works well for that", 
+                "here 's what you could have won in days gone by"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af148be4b07f8d679fe298", 
+            "title": "long delays on m1 this afternoon", 
+            "text": [
+                "nottinghamshire fire and rescue service has tweeted that all lanes of the m1 southbound between junction 26 ( a610 ) and junction 25 ( a52 ) are now closed , as well as two lanes of the northbound carriageway while they clear hanging debris on an overhead gantry .", 
+                "motorists have been warned to avoid the area as long delays are expected as we head into rush hour .", 
+                "update : all lanes of the # m1 southbound between j26 and j25 have now been closed along with two lanes northbound ( 1/2 )", 
+                "how long does it take to remove some hanging metal ? !", 
+                "what is going on ?", 
+                "hi robert , our crews closed the carriageway to ensure the safety of motorists , however lanes are expected to open shortly .", 
+                "any indication of how long this will be for ?", 
+                "hi ben , all lanes northbound are now open , with the southbound lanes expected to open shortly ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1344e4b0ec68546dfff2", 
+            "title": "train tickets valid tomorrow", 
+            "text": [
+                "train tickets valid tomorrow"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af13b4e4b08b1f7dede3c2", 
+            "title": "fallen tree causes delays near priory island", 
+            "text": [
+                "there was another lucky escape for a driver near priory island , wollaton , this afternoon as storm doris continues to rage ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af0e98e4b08b1f7dede3a6", 
+            "title": "'lucky escape ' for taxi driver as tree falls", 
+            "text": [
+                "stu walker was driving along wilford lane in west bridgford earlier when his dashboard camera captured a falling tree - narrowly missing a taxi .", 
+                "he said : `` lucky escape for the silver taxi driver whose roof was severely dented just behind his head . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af06c6e4b0ec68546dffab", 
+            "title": "travel : alftreton road reopens", 
+            "text": [
+                "it had been closed after reports of glass falling from a derelict building .", 
+                "alfreton road has now reopened to traffic in both directions"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af062de4b07f8d679fe24d", 
+            "title": "tree down in lady bay", 
+            "text": [
+                "this photo was taken on gertrude road in lady bay earlier today ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aefef9e4b08b1f7dede349", 
+            "title": "travel : congestion building on m1", 
+            "text": [
+                "here 's how it 's looking on the m1 southbound at the moment .", 
+                "traffic is down to one lane between j26 ( a610 nottingham ) and j25 ( a52 nottingham ) because of debris hanging from an overhead gantry ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aefa2be4b0ec68546dff52", 
+            "title": "unsafe building closes city road", 
+            "text": [
+                "there have been reports of panes of glass falling from a derelict building on alfreton road .", 
+                "alfreton road still closed in both directions between boden street & highurst street due to unsafe building .", 
+                "diversions in place"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aef715e4b07f8d679fe1f3", 
+            "title": "windsurfer enjoying today 's weather", 
+            "text": [
+                "this person in hoveringham is n't complaining about the strong winds today ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aef97fe4b0ec68546dff4b", 
+            "title": "tree down in arnold", 
+            "text": [
+                "a tree is blocking church street/calverton road in arnold ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10405616", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aef7cce4b0ec68546dff3d", 
+            "title": "busy day for the council", 
+            "text": [
+                "we 're currently prioritising attendance at 35 known fallen trees across the county .", 
+                "# stormdoris"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aef68ae4b08b1f7dede315", 
+            "title": "traffic and travel : train services suspended", 
+            "text": [
+                "train services are being suspended between lincoln central and peterborough and lincoln and newark north gate because of the high winds ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aedb10e4b06f5728f8391f", 
+            "title": "your photos : storm sunshine over market square", 
+            "text": [
+                "the weather has been miserable so far today , but it 's made for some stunning photos ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aee048e4b074e9ec261352", 
+            "title": "watch : fallen trees being cleared as storm hits", 
+            "text": [
+                "here 's a video of the tree in the meadows being cleared by nottingham city council staff earlier ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aee0a2e4b03cb862dd2157", 
+            "title": "why the name storm doris ?", 
+            "text": [
+                "i was a little baffled as to why today 's storm is called `` doris '' .", 
+                "well , it seems `` doris '' was voted for by the public as part of the met office 's `` name our storms pilot scheme '' - which helped compile the list of storm names for 2016 to 2017 .", 
+                "very straight-forward !"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10405022", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aee0dee4b074e9ec261354", 
+            "title": "farmer helps clear fallen tree", 
+            "text": [
+                "the a617 , which was shut earlier this morning , is now open .", 
+                "the a617 at kirklington is now reopen thanks to the efforts of a local farmer in assisting highways staff to remove the tree !", 
+                "# stormdoris"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aedef8e4b06f5728f83937", 
+            "title": "strongest gusts so far at airport", 
+            "text": [
+                "mr godby said the highest gusts in our region so far have been recorded in the past hour , with 67mph recorded at east midlands airport .", 
+                "you can watch for peak gusts here ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aede1de4b074e9ec26134a", 
+            "title": "storm doris : wind expected to get worse", 
+            "text": [
+                "steven godby , from the weather station , told us the wind is as strong as expected - and it will get worse .", 
+                "he said : `` the highest recorded wind speed for today so far is showing as 79.81km/h which is pretty much bang on 50mph .", 
+                "`` i 'd expect that to be rising in the next hour or two though . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aedd25e4b03cb862dd2141", 
+            "title": "weather station in action", 
+            "text": [
+                "i was out at nottingham trent university 's weather station at their brackenhurst campus this morning .", 
+                "dr jill showed me how they will be measuring the wind and rain today ."
+            ], 
+            "author": [
+                "Hayley Compton", 
+                "Reporter, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aed85ae4b06f5728f83916", 
+            "title": "tree in the meadows being cleared", 
+            "text": [
+                "the tree in wilford crescent west is already being cleared up by nottingham city council .", 
+                "the damage to the car is minimal ."
+            ], 
+            "author": [
+                "Liam Barnes", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aed712e4b074e9ec26130e", 
+            "title": "inspectors criticise 'end of life ' care", 
+            "text": [
+                "the cqc report also found the hospital 's end of life care needed some improvement .", 
+                "inspectors said staff were not given regular training and the hospital trust did not have an overall strategy for end of life care ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "20:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aed306e4b06f5728f838f3", 
+            "title": "nottingham a & e department 'needs improvement '", 
+            "text": [
+                "nottingham 's queen 's medical centre has been told its emergency department needs improvement .", 
+                "inspectors from the care quality commission have published their report after they found services were `` good '' when it came to caring - but the department needed to improve on safety and `` responsiveness '' .", 
+                "inspectors said they found staff cared for patients with `` compassion , patience and kindness , '' but highlighted issues with overcrowding and unrelenting pressure .", 
+                "the trust that runs the hospital said they 're using the findings to help make their improvements ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aece7de4b074e9ec2612cb", 
+            "title": "tree lands on car in the meadows", 
+            "text": [
+                "just as one fallen tree is cleared we 've been told of another .", 
+                "a bbc radio nottingham listener has called to say wilford crescent west in the meadows is blocked at the corner of glapton road where a tree has landed on a car .", 
+                "police are at the scene ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10403736", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aec879e4b074e9ec26129d", 
+            "title": "travel : sneinton road reopens", 
+            "text": [
+                "the tree has been removed from sneinton boulevard .", 
+                "the road has reopened ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aec46ee4b03cb862dd2097", 
+            "title": "storm doris : more attractions close", 
+            "text": [
+                "storm doris has closed wollaton park and nottingham castle today too .", 
+                "please note : due to high winds , newstead abbey grounds will be closed until further notice for safety reasons .", 
+                "sorry for any inconvenience !", 
+                "# stormdoris is hitting us quite hard right now here in the city too .", 
+                "stay safe everyone !"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aec594e4b06f5728f8389f", 
+            "title": "sneinton road closed by fallen tree", 
+            "text": [
+                "here is a photo of that tree down on sneinton boulevard .", 
+                "the road is still shut and people are being told to find alternative routes ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aebdc2e4b06f5728f8386c", 
+            "title": "travel : fallen tree in sneinton", 
+            "text": [
+                "sneinton boulevard is closed in both directions at the junction with port arthur road because of a fallen down tree ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aeba3de4b03cb862dd204f", 
+            "title": "your questions : what about the city ?", 
+            "text": [
+                "just to give you a comparison , the average age population for the whole of the uk is 40 years old .", 
+                "and while i was counting figures , i had a look at the breakdown of the age population in nottingham city too .", 
+                "age 0-10= 43,580", 
+                "age 11-20 = 49,349", 
+                "age 21-30 = 69,605", 
+                "age 31-40 = 41,124", 
+                "age 41-50 = 36,924", 
+                "age 51-60 = 31,211", 
+                "age 61-70 = 22,974", 
+                "age 71-80 = 14,516", 
+                "age 81-90+ = 9,618"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aeb804e4b06f5728f83848", 
+            "title": "your questions : age breakdown", 
+            "text": [
+                "and if you want more of a breakdown of what the population looks like across nottinghamshire , here it is broken down into age categories :", 
+                "age 0-10 .", 
+                "= 101,827", 
+                "age 11-20 .", 
+                "= 87,550", 
+                "age 21-30 .", 
+                "=94,103", 
+                "age 31-40 = 93,466", 
+                "age 41-50 = 117,687", 
+                "age 51-60 = 111,287", 
+                "age 61-70 = 98,449", 
+                "age 71-80 = 65,126", 
+                "age 81-90+ = 36,353"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aeb55ee4b03cb862dd2033", 
+            "title": "your questions : what is the age population of nottinghamshire ?", 
+            "text": [
+                "asim wahid used your questions to ask : `` what is the age population in nottinghamshire ? ''", 
+                "he said he was prompted to ask the question after a lengthy debate with a friend from banbury about how many young people there were in the county , and said he `` was intrigued to see what our population looks like in regards to age '' .", 
+                "it 's taken me a day of going through a lot of figures from the office of national statistics ( ons ) , but i have found the average age of someone from nottinghamshire is 41.5 years .", 
+                "these figures are from 2015 .", 
+                "the ones for 2016 wo n't be available until later this year ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aeaabbe4b03cb862dd1fea", 
+            "title": "storm doris : attractions closed", 
+            "text": [
+                "we told you yesterday that sherwood pines forest park and rufford abbey country park were closing today because of storm doris .", 
+                "newark castle , bestwood country park and clumber park have announced they are also shut today because of the expected strong winds ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aea7aee4b03cb862dd1fd2", 
+            "title": "storm doris : trains delayed and cancelled", 
+            "text": [
+                "not looking good on the trains right now ."
+            ], 
+            "author": [
+                "Sarah Teale", 
+                "East Midlands Today reporter at Leicester railway station"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aea72ae4b06f5728f837d1", 
+            "title": "overhead wire damage stops london trains", 
+            "text": [
+                "east midlands trains tweets"
+            ], 
+            "author": [
+                "Calum McKenzie", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aea60ce4b074e9ec2611d5", 
+            "title": "forest midfielder : mood in camp is 'good '", 
+            "text": [
+                "nottingham forest midfielder ben osborn said gary brazil and jack lester have helped the forest squad pull together and move in the right direction .", 
+                "despite three defeats on the spin , the reds have moved six points clear of the relegation zone since the pair took charge - and osborn said the mood in the camp is good ."
+            ], 
+            "author": [
+                "Christian Hewgill", 
+                "Reporter, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ae9fbee4b03cb862dd1fab", 
+            "title": "watch : rainbow babies offer 'hope and light '", 
+            "text": [
+                "mrs pearson said the charity uses the phrase `` rainbow babies '' to describe children who are born after parents have lost a child .", 
+                "here she is explaining what inspired her to set up the charity ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ae9f06e4b074e9ec2611a5", 
+            "title": "charity helps bereaved parents", 
+            "text": [
+                "emma pearson and her husband matthew had stillborn twins in 2011 .", 
+                "on the due date for the twins , she fell pregnant again and the worksop couple now have two children .", 
+                "mrs pearson 's experience inspired her to set up a charity called `` joel '' which offers support to bereaved parents .", 
+                "through the charity they have raised \u00a3 40,000 which they have used to redevelop a family bereavement suite at bassetlaw hospital ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aea00be4b03cb862dd1fad", 
+            "title": "watch : today 's weather as storm doris hits", 
+            "text": [
+                "it 's a wet and windy start to the day because of storm doris .", 
+                "the rain will slowly clear as the day goes by , however the winds will strengthen until the early afternoon with gusts of 50 to 60mph possible for a time and up to 80mph over higher ground ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Radio Nottingham sports reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ae9bd9e4b06f5728f83790", 
+            "title": "your rainbow over lambley", 
+            "text": [
+                "this lovely double rainbow over lambley this morning was sent into weather presenter charlie slater ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ae99cde4b06f5728f83787", 
+            "title": "travel : a606 now clear", 
+            "text": [
+                "problems on the a606 melton road have been resolved fairly quickly .", 
+                "the tree has been removed ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58ae96cde4b03cb862dd1f66", 
+            "title": "travel : tree down on a606", 
+            "text": [
+                "some of the travel disruption expected to occur today has already started .", 
+                "a tree has fallen on a606 melton road , blocking the road in both directions close to the junction with the a46 ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58ae9569e4b03cb862dd1f5b", 
+            "title": "good morning : welcome to today 's live updates", 
+            "text": [
+                "we 're expecting some heavy rain and some very strong winds today as storm doris hits the region .", 
+                "in other news , we will also hear from parents who are using rainbow symbols to remember their children they lost through miscarriage or stillbirth ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-nottinghamshire", 
+    "quality": "high"
+}

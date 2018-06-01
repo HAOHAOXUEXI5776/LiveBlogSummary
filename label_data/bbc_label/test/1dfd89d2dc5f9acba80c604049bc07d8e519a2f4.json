@@ -1,0 +1,1042 @@
+{
+    "blog_id": "1dfd89d2dc5f9acba80c604049bc07d8e519a2f4", 
+    "title": "BBC Local Live: Updates from London on Tuesday 7 April 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-london-32159965", 
+    "summary": [
+        "raid on hatton garden jewellers .", 
+        "holborn power restored after fire .", 
+        "sergeant denies army base rapes .", 
+        "crystal palace fc sale talks 'ongoing ' .", 
+        "paedophile priest case to be reviewed .", 
+        "updates on tuesday 7 april 2015 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32211250", 
+            "title": "good evening", 
+            "text": [
+                "that 's all from bbc local live for today .", 
+                "see you back here tomorrow from 08:00 with more news , sport , travel and weather updates from across london ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32211242", 
+            "title": "on air", 
+            "text": [
+                "on", 
+                "also , politicians from the three main parties go head-to-head to debate london 's nhs services ."
+            ], 
+            "author": [
+                "BBC London News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207080", 
+            "title": "aljaz bedene backed by greg rusedski", 
+            "text": [
+                "slovenia-born aljaz bedene 's decision to represent great britain", 
+                "bedene , who moved to the uk seven years ago and lives in london , represented britain for the first time at the weekend , and he qualified for the main draw of the casablanca open ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32211251", 
+            "title": "weather to stay fine", 
+            "text": [
+                "the weather in london will stay fine , with clear spells and light winds into the evening .", 
+                "it will become locally chilly by dawn where clear skies persist the longest , while some coastal areas around the thames estuary may develop low cloud and areas of fog .", 
+                "minimum temperature : 3c ( 37f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32211245", 
+            "title": "kenyans in the capital", 
+            "text": [
+                "eddie nestor is on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32210488", 
+            "title": "easter egg hunt for lemurs", 
+            "text": [
+                "lemurs at london zoo in regent 's park have a new home , which the zoo marked with an", 
+                "the animals did not crack open a chocolate egg , however , rather a more health-conscious papier mache shell filled with steamed vegetables .", 
+                "yum ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32210495", 
+            "title": "problems heading away from london", 
+            "text": [
+                "there are problems heading away from london this evening on the a12 .", 
+                "at junction 13 , ingatestone , a lorry has crashed into the central reservation and is blocking the road .", 
+                "queues are back to the m25 at the junction 28 brook street roundabout .", 
+                "delays continue in central london following the holborn fire .", 
+                "london buses tell us they 've got delays of up to half an hour and it 's slow on the strand and around trafalgar square ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204957", 
+            "title": "boat race preparations", 
+            "text": [
+                "the cambridge university women 's boat crew has been practicing on the river thames ahead of the boat race on saturday .", 
+                "it will be the first time that the women 's boat race will take place on the same stretch of water and on the same day as the men 's event .", 
+                "on 12 april the newton women 's boat race will start at 16:50 ahead of the"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32210493", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in the capital on", 
+                "it was only reported this morning when the jewellers opened for business .", 
+                "police say the burglars look to have used heavy cutting equipment to gain access to a vault ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32209705", 
+            "title": "paramedic refused woman as 'nearing end of shift '", 
+            "text": [
+                "a paramedic refused to help a woman , thought to be pregnant , who was vomiting and feeling dizzy because he was near the end of his shift , a tribunal has heard .", 
+                "edmund daly , a"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32206544", 
+            "title": "camden lock revamp", 
+            "text": [
+                "developers behind the shard skyscraper are", 
+                "billionaire teddy sagi has asked mace to develop the village , including 170 private and affordable homes , shops , market pitches and offices ."
+            ], 
+            "author": [
+                "London Evening Standard", 
+                "Newspaper"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32209707", 
+            "title": "hatton garden burglary", 
+            "text": [
+                "police were called to reports of a", 
+                "detectives are at the scene of the crime , where heavy cutting equipment appears to have been used to get into a vault and a number of safety deposit boxes have been broken into ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32209703", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in the capital on", 
+                "crews found her body in a bedroom on the second floor of a six-storey block in brighton road shortly after 3pm .", 
+                "the cause is being investigated ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32205115", 
+            "title": "will labour win ?", 
+            "text": [
+                "the labour party"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204948", 
+            "title": "magna carta app", 
+            "text": [
+                "an app has been developed to help people explore the meadow where the", 
+                "nineteen students from royal holloway london university have designed the app which gives visitors the option of seven trails to follow in runnymede ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202402", 
+            "title": "refuse collection changes", 
+            "text": [
+                "ealing council", 
+                "remember that refuse & recycling collections will take place a day later this week .", 
+                "find your day here :", 
+                "hi , @ twitterid when we move to fortnightly waste collections , will you still be collecting food waste weekly ?", 
+                "@ twitterid yes", 
+                "@ twitterid then what on earth is everyone whining about ?", 
+                "i think the new proposals are very sensible"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207708", 
+            "title": "if the shoe fits", 
+            "text": [
+                "dozens of burglars in london have been caught thanks to a revolutionary police scanner that matches the footprints of suspects to marks left at crime scenes , reports the", 
+                "a pilot scheme in north-west london has led to the arrest of 76 burglars in the last 12 months , the newspaper said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32206542", 
+            "title": "death in wembley", 
+            "text": [
+                "a man with injuries to his chest has died in wembley ,", 
+                "officers were called by the london ambulance service at 11:15 to the man in his vehicle at green hill .", 
+                "the death is being treated as sus and is under investigation by the homicide team .", 
+                "there will be a post-mortem in due course ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201005", 
+            "title": "ardley : 'result not true reflection of game '", 
+            "text": [
+                "london sport", 
+                "# afcwimbledon neal ardley says that 0-4 was n't a true refection of the game @ twitterid @ twitterid via @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207713", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in the capital on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207269", 
+            "title": "son 'told to lower ' father 's tribute flag", 
+            "text": [
+                "a retired policeman is shocked after bromley council told him to take down a flagpole dedicated to his late father , reports the", 
+                "kevin coleville , 57 , from st john 's road in petts wood , has flown the union jack flag outside his house for a number of years and recently put up a second pole flying the royal navy flag in memory of his late father , the newspaper said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207273", 
+            "title": "who 's in the bbc building today ?", 
+            "text": [
+                "earlier london singer jamie t dropped by to perform in the radio 1 live lounge and to talk about his new ep , magnolia melancholia .", 
+                "for more on who is gracing the corridors , visit the bbc taster website"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32205110", 
+            "title": "misty morning", 
+            "text": [
+                "luke steggles", 
+                "misty start to the day @ twitterid", 
+                "@ twitterid nice"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207271", 
+            "title": "army sergeant denies sex abuse charges", 
+            "text": [
+                "an army sergeant accused of sexually abusing female recruits has denied the charges .", 
+                "edwin mee , 45 , of tavistock road , croydon , south london , allegedly targeted 11 victims aged between 15 and 25 on military bases .", 
+                "the scottish soldier denied 17 counts of sexual assault , three rapes and one count of assault by penetration at"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207078", 
+            "title": "news on the hour", 
+            "text": [
+                "the top stories in the capital on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207275", 
+            "title": "jubilee line delays", 
+            "text": [
+                "jubilee line", 
+                "severe delays between wembley park and stanmore while we fix a signal failure at queensbury .", 
+                "good service on the rest on the line ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207267", 
+            "title": "parish : 'no plans to sell ' crystal palace", 
+            "text": [
+                "crystal palace co-chairman steve parish has", 
+                "the eagles were linked with a takeover by american billionaire josh harris late last year .", 
+                "`` the only reason for us to get money in is to improve the infrastructure .", 
+                "there is no rush and we are in a good place .", 
+                "if it happens , it happens , '' parish said ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32206101", 
+            "title": "health and the election", 
+            "text": [
+                "how will the election affect", 
+                "what are your thoughts ?", 
+                "get in touch by emailing london.locallive @ bbc.co.uk , or on"
+            ], 
+            "author": [
+                "BBC London", 
+                "General Election 2015"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32206106", 
+            "title": "spring is in the air", 
+            "text": [
+                "could spring be here ?", 
+                "the warm weather is continuing across the uk and people have been out and about in"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32207074", 
+            "title": "news on the hour", 
+            "text": [
+                "the top stories in the capital on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32206540", 
+            "title": "on air", 
+            "text": [
+                "on", 
+                "camden council promise to help businesses claim compensation but many face a morning of disruption and delays as they return to work after the holiday weekend .", 
+                "and after a second morning of sunshine , how long will it last ?", 
+                "we have a full weather forecast at 13:30 ."
+            ], 
+            "author": [
+                "Alex Bushill", 
+                "BBC London News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32205118", 
+            "title": "shadowless skyscrapers", 
+            "text": [
+                "robert elms on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32203484", 
+            "title": "family affair for marathon challenge", 
+            "text": [
+                "a father and two sons will be tackling the london marathon later this month in aid of children 's charities", 
+                "dean mottershead , 55 , from macclesfield , will be running the 26.2 mile course alongside his sons nick , 25 , and jon , 23 .", 
+                "jon said : `` it 's going to be even more special doing it with my brother and my old man .", 
+                "it really is a once-in-a-lifetime event for our family as my dad will be hanging up his marathon shoes after this one . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202838", 
+            "title": "dog 's dinner", 
+            "text": [
+                "first the cereal cafe , then one serving only porridge - and now brunch for dogs .", 
+                "never short on dining fads , shoreditch is to house a pop-up"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32205113", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in the capital on", 
+                "he says the conservatives ' pledge of a referendum on britain 's membership of the european union would put jobs , businesses and the uk 's world standing at risk ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204954", 
+            "title": "liverpool street train delays", 
+            "text": [
+                "delays to and from london liverpool street stations are expected until 12:00 following a signalling problem at the station .", 
+                "commuters are being warned to expect up to 30 minutes of delays .", 
+                "get up to date travel information on"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204952", 
+            "title": "woman dies after sutton fire", 
+            "text": [
+                "a woman has died following a fire at a flat in south-west london this morning .", 
+                "around a quarter of the second floor flat in the six storey block was left damaged by the fire .", 
+                "the cause of the fire is under investigation ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204950", 
+            "title": "holloway fire displaces residents", 
+            "text": [
+                "a blaze which left dozens of holloway residents in temporary accommodation over easter is being investigated by london fire brigade , reports the", 
+                "the newspaper said the fire engulfed the roof of rollit house , a block of 24 homes , with 37 people having to evacuated from the building ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204135", 
+            "title": "political landscape", 
+            "text": [
+                "how will the general election play out in london ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32200879", 
+            "title": "qpr 's vargas ruled out for season", 
+            "text": [
+                "queens park rangers striker", 
+                "the 25-year-old chilean scored in saturday 's 4-1 win at west brom , but he was replaced after falling on his left knee ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32204137", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in the capital on", 
+                "chris phillips , who worked closely with the home office on its counter terrorism strategy , said fewer prison officers means extremists are n't being monitored properly ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202398", 
+            "title": "holborn fire latest", 
+            "text": [
+                "london fire brigade", 
+                "people can get the latest on whether they return following # holbornfire from @ twitterid", 
+                "@ twitterid @ twitterid thank you for your service !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202836", 
+            "title": "woman with dementia goes missing", 
+            "text": [
+                "a 76-year-old", 
+                "margaret jean willing was last seen at 18:00 yesterday when she left an address in muswell hill , where she is being cared for by a friend .", 
+                "she is 4ft 5in tall of slight build , with blonde hair worn in a ponytail and was last seen wearing a black knee length puffa coat with brown boots , carrying a black cloth bag , police say ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202833", 
+            "title": "basking pelicans in st james ' park", 
+            "text": [
+                "two great white pelicans in london 's st james 's park were", 
+                "what is in store for the weather today ?", 
+                "find out on"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202831", 
+            "title": "women in space", 
+            "text": [
+                "north london schoolgirls will", 
+                "the girls , at parliament hill school , will interview women working in the space programme and the world of science .", 
+                "they will also go through archives at the women 's library in holborn to find out how women conquered discrimination in the early days of the us space programme , the paper says ."
+            ], 
+            "author": [
+                "Ham & High", 
+                "Newspaper"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202120", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in capital on", 
+                "both the labour and conservative party are disputing the number of surgeries open in the evenings and at weekends ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202829", 
+            "title": "voters ' concerns in ealing", 
+            "text": [
+                "she hears about voters ' concerns , including the nhs , education and housing for young people , in the constituency where labour needs a swing of 3.9 % to win ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201876", 
+            "title": "homeless families in temporary brent b & bs", 
+            "text": [
+                "in 2014 , the london borough of brent had 77 families with children living in temporary hotel accommodation for more than six weeks , reports", 
+                "according to the children 's charity barnardo 's , the housing and benefits system is failing homeless children stuck in brent b & bs , the local newspaper said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201793", 
+            "title": "crystal palace 2 - 1 man city", 
+            "text": [
+                "glenn murray put crystal palace ahead with a tap-in from close range before jason puncheon fired in a free-kick from the edge of the box .", 
+                "yaya toure 's fierce strike pulled a goal back for fourth-placed city but palace held on to move up to 11th ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202122", 
+            "title": "the campaign so far", 
+            "text": [
+                "on", 
+                "get involved in the discussion by calling 020 7224 2000 ."
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202117", 
+            "title": "gas supplies restored after holborn fire", 
+            "text": [
+                "the", 
+                "in a statement , the national grid said after working all of sunday `` engineers now need confirmation from the building owner 's structural engineer that the final piece of work can continue '' .", 
+                "they added engineers will return today to complete the laying of the service pipe and restore the gas supply ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201880", 
+            "title": "row over gp 's hours", 
+            "text": [
+                "susana mendon\u00e7a", 
+                "outside a gp surgery for @ twitterid labour to have 1200 new gps in london .", 
+                "tories say labour change to gp contracts reduced out of hours"
+            ], 
+            "author": [
+                "Susana Mendonca", 
+                "BBC London 94.9 political reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32202118", 
+            "title": "news on the hour", 
+            "text": [
+                "the top story in capital on"
+            ], 
+            "author": [
+                "BBC London 94.9"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201535", 
+            "title": "car crash in poplar", 
+            "text": [
+                "four men have been taken to hospital after a car crash in poplar ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201878", 
+            "title": "serious delays in central london", 
+            "text": [
+                "tfl bus alerts", 
+                "due to the serious delays in central london bus tickets and passes are accepted in zone 1 .", 
+                "@ twitterid this would have been helpful to know at 7:30 this morning when on diversion !", 
+                "@ twitterid sorry about this , they only agreed to do it about 15mins ago .", 
+                "the road closures have changed today so we are struggling", 
+                "@ twitterid with limited/no information .", 
+                "thanks", 
+                "@ twitterid trouble is that we had all the information out and everything was running ok. then at about 0800 the road closures"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32201010", 
+            "title": "paedophile priest case to be reviewed", 
+            "text": [
+                "a review is to be carried out into why catholic priest father tony mcsweeney , who was", 
+                "at the time no allegations of child abuse had been made against so the videos were treated as a matter of clergy discipline .", 
+                "that will now be reviewed by the"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32200372", 
+            "title": "rail line re-opens", 
+            "text": [
+                "the rail line between reading and paddington has re-opened this morning , after four days of major engineering work replacing sections of track around reading and slough stations .", 
+                "however , there currently remains a revised service on"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32200878", 
+            "title": "a12 blackwall tunnel approach closed", 
+            "text": [
+                "the a12 blackwall tunnel approach in poplar is closed causing long delays southbound between bow interchange and blackwall tunnel , because of a serious accident .", 
+                "diversions are in operation for bus routes 309 and 323 and route 488 will not call at tesco , at bow ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32200877", 
+            "title": "fine and dry day", 
+            "text": [
+                "a chilly start but another fine and dry day across london with sunny spells .", 
+                "top temperature : 17c ( 63f ) ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Weather, London"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32200367", 
+            "title": "good morning", 
+            "text": [
+                "good morning i 'll be bringing you all the latest news , sport , travel and weather for london .", 
+                "send us your news , views or photos by"
+            ], 
+            "author": [
+                "Elaine Okyere", 
+                "BBC London News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-london", 
+    "quality": "high"
+}

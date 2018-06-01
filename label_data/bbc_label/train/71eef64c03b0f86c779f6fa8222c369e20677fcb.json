@@ -1,0 +1,754 @@
+{
+    "blog_id": "71eef64c03b0f86c779f6fa8222c369e20677fcb", 
+    "title": "BBC Local Live: Northamptonshire on Friday, 11 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-35701129", 
+    "summary": [
+        "police say they are responding to a growing number of offences involving firearms .", 
+        "the rspca has said horses standing in deep flood water have hay , drinking water and access to dry land .", 
+        "more news , sport , travel and weather from 08:00 on monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2fc5c3b0000ee470a1b89", 
+            "title": "our live coverage through the day", 
+            "text": [
+                "local live is finished for today , but we 'll be back on monday from 08:00 with all the latest news , weather , sport and travel ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2f1493d00008e4a4b0aba", 
+            "title": "northamptonshire flooding : pitsford reservoir", 
+            "text": [
+                "wednesday 's heavy rain in northamptonshire is still having an effect .", 
+                "we 've head about the half-marathon having been cancelled at stanwick lakes and concern over horsse in wellingbrorough .", 
+                "and this tweet shows the water at pitsford reservoir", 
+                "@ twitterid @ twitterid pitsford reservoir is a bit full today"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2f5db3f00003f450f5d6c", 
+            "title": "some horses on wellingborough 's flooded embankment moved", 
+            "text": [
+                "the rspca says its been inundated with calls from members of the public worried about horses stuck in flooded fields following the heavy rain on wednesday .", 
+                "most of the calls have been about animals kept near the embankment at wellingborough .", 
+                "clint davies from the rspca said some horses which were in immediate danger have been moved , while others have food and water and are being monitored ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2d7e53b0000d9450a1b0f", 
+            "title": "five illegal immigrants found in lorry in northamptonshire", 
+            "text": [
+                "five illegal immigrants from iraq and iran have been detained after they were discovered in the back of a lorry in thrapston ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2fa2b3d00008d4a4b0aea", 
+            "title": "weather : cold and misty overnight , but fine tomorrow", 
+            "text": [
+                "tonight : staying dry with a mix of clear spells and patchy cloud , but also mist and fog patches developing .", 
+                "lows of -2c to +2c ( around 30f ) .", 
+                "tomorrow : a dry day with early mist and fog patches .", 
+                "highs of 9-11c ( around 50f ) ."
+            ], 
+            "author": [
+                "Chris Bell", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2f6143d0000bf474b0ad6", 
+            "title": "headlines : charity 'inundated ' with calls about stranded horses rise in firearms incidents", 
+            "text": [
+                "if you 're catching up :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2f8183b0000ee470a1b7a", 
+            "title": "travel : a605 in oundle closed", 
+            "text": [
+                "the a605 in oundle is closed between the station road junction and the well lane junction because of an accident involving a lorry and a car .", 
+                "there are long delays in both directions ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2d7763b0000ee470a1b0e", 
+            "title": "half marathon at stanwick lakes cancelled due to flooding", 
+            "text": [
+                "a half marathon event at stanwick lakes scheduled for sunday has been cancelled due to flooding .", 
+                "organisers say even if there is no further rain , water levels will not have subsided enough by sunday to be able to stage the event which also included a 5km and 10km race .", 
+                "they say all registered runners will be contacted by email with details of the cancellation ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28b4e3d000085424b0933", 
+            "title": "homes plan for oundle green space turned down by councillors", 
+            "text": [
+                "plans to build 13 houses on a piece of land in oundle have been refused ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2c9843f000038460f5cc1", 
+            "title": "former chief constable cleared over failure to declare evidence in staffordshire murder", 
+            "text": [
+                "four senior police officers , including a former chief constable and former deputy chief constable of northamptonshire police , will not face misconduct hearings over claims they failed to declare evidence in relation to a suspected drug dealer 's shooting .", 
+                "five men convicted in 2008 for the staffordshire murder of kevin nunes were cleared on appeal in 2012 .", 
+                "now the ipcc has found `` no evidence of a cover up or of wilful omission '' by any of the officers involved has been found .", 
+                "among the officers cleared are suzette davenport , who was deputy chief constable at northamptonshire police and adrian lee ( who retired as chief constable of the force last year .", 
+                "they were officers at staffordshire at the time of the murder investigation ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2d0863d0000be474b0a2e", 
+            "title": "england against wales 'always a huge game '", 
+            "text": [
+                "northampton saints ' dylan hartley will lead england tomorrow against wales in a crucial six nation match , but england against the dragons is always a huge game .", 
+                "this generation of england players for the last decade have watched wales take three grand slams to their zero , so it 's about time that changed ."
+            ], 
+            "author": [
+                "Paul Grayson", 
+                "Former England and Northampton Saints fly-half"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2befb3d0000bf474b0a04", 
+            "title": "weather : bright afternoon today", 
+            "text": [
+                "the fog has now lifted and it 's set to be fine day across northamptonshire , here 's walgrave bbc weather watcher 'captkremen ' .", 
+                "it 's going to be milder today with a high of 9c ( 48f ) .", 
+                "you can find more details on the bbc weather website ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "22:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2c7f93f000038480f5cbb", 
+            "title": "sean dyche - northamptonshire 's other footballing success story", 
+            "text": [
+                "northampton town 's chris wilder up league two manager of the month award today - and his success was mirrored by kettering-born burnley boss sean dyche who up the championship version .", 
+                "dyche has guided his team to the top of the table and burnley are unbeaten since boxing day .", 
+                "as well being born in kettering and growing up in the town , dyche ended his playing career at northampton town by making over 50 appearance for the club ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "22:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2aa5a3f000039460f5c49", 
+            "title": "your foggy kettering town centre", 
+            "text": [
+                "the fog is slowly lifting across northamptonshire , but this was kettering market place this morning captured by jamie rae .", 
+                "if you want to send us a then please email us or tweet us ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e29c0f3b0000cc430a1a45", 
+            "title": "yelvertoft floods : hero villager who rescued neighbours in canoe was on a day off from the air ambulance", 
+            "text": [
+                "i 'm going to get the kayak , '' said one brave villager as flood waters covered his family home in northamptonshire , before he proceeded to rescue stranded neighbours ."
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e291a03f000058440f5be4", 
+            "title": "fall in the number of visitors at historic northampton church", 
+            "text": [
+                "the number of people visiting st peter 's church in northampton , one of the best examples of a norman church in the country , has fallen sharply .", 
+                "figures from the association of leading visitor attractions show st peters had 6,000 people through its doors last year , 22 % down on the previous year ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2c4033b0000d9450a1ada", 
+            "title": "presenter spends day in wheelchair ahead of 'disabled access day", 
+            "text": [
+                "earlier this week i spent a day in a wheelchair , ahead of 'disabled access day ' tomorrow .", 
+                "this is how i got on getting in and out of work and going for a coffee"
+            ], 
+            "author": [
+                "Helen Blaby", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2c38d3f000040470f5cae", 
+            "title": "firearms incidents last included a sawn-off shotgun and guns found by builders", 
+            "text": [
+                "northamptonshire police last year dealt with 275 firearms incidents , the highest amount in the last five years .", 
+                "but what kind of incidents are they ?", 
+                "here 's just three from last year , as reported in the northants telegraph :"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b8fe3d0000be474b09ee", 
+            "title": "flood water horses 'have hay and drinking water , ' say rspca", 
+            "text": [
+                "horses which were .", 
+                "standing in deep flood water `` have hay and fresh drinking water and are also able to access an area of raised dry land '' say the rspca .", 
+                "the charity was responding to concerns raised for the animal 's welfare by people on the wellingborough now & then facebook page .", 
+                "but an rspca spokesman said the charity would continue to monitor the horses closely ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2bb913f000040470f5c93", 
+            "title": "headlines : rise in firearms offences players 'behind ' england captain hartley", 
+            "text": [
+                "here are your lunchtime headlines :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b4aa3b0000d4450a1aa3", 
+            "title": "prop hill returns to saints side for sale", 
+            "text": [
+                "northampton saints have announced their side to face sale at franklin 's gardens , with england prop paul hill returning in place of kieran brookes who took his spot in the england squad .", 
+                "saints are currently fifth in the premiership table and looking to push in to the play-off places .", 
+                "starting xv to face sale !", 
+                "@ twitterid yes @ twitterid finally gets his ass off the bench and into the starting xv !", 
+                "good luck ethan and the rest of the mighty saints !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2ab1d3d000065454b09b1", 
+            "title": "firearms held innocently 'only one owner away ' from criminals", 
+            "text": [
+                "police in northamptonshire are responding to a growing number of offences involving firearms , according to figures showing thousands have been seized and used in incidents in the last five years .", 
+                "back in september 2014 , northamptonshire police had a gun amnesty .", 
+                "i went to see the damage guns can do and what kind of guns get handed in ."
+            ], 
+            "author": [
+                "Anna Todd", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b3963f000039460f5c6c", 
+            "title": "most firearms found in wellingborough and northampton , but problem is spreading", 
+            "text": [
+                "northamptonshire police have seized more than 2.700 firearms in the county in the last five years - the majority of which were found in wellingborough and northampton while a growing number were discovered in kettering and rushden .", 
+                "in the last year alone officers responded to more than 40 firearms offences in wellingborough ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b4433b0000d9450a1aa1", 
+            "title": "police seized firearms including guns , pistols , rifles and air weapons in last five years", 
+            "text": [
+                "figures obtained via a freedom of information request show northamptonshire police seized 2,759 firearms and attended more than 1,100 incidents in the last five years .", 
+                "police said the incidents related to every time an officer responded to a call out involving a firearm and in many cases they would n't have known what these were until they got there .", 
+                "those firearms included guns , pistols , rifles , air weapons , paintball guns and shot guns - as well as imitation firearms .", 
+                "it 's worth noting some imitation weapons can be modified to be more dangerous ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2a0b93f000057440f5c24", 
+            "title": "grayson : players 'fully behind ' captain hartley", 
+            "text": [
+                "england coach eddie jones made a brave decision to northampton saints ' dylan hartley as captain - .", 
+                "he is the most successful club captain in the current group of england players .", 
+                "as they go into their crunch game against wales tomorrow at twickenham in the six nations it 's clear the players are fully behind dylan hartley and eddie jones ."
+            ], 
+            "author": [
+                "Paul Grayson", 
+                "Former England and Northampton Saints fly-half"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e28af63d000089424b0931", 
+            "title": "northampton woman left with golf ball-sized lump after trying to break up fight in town centre", 
+            "text": [
+                "a good samaritan was left with horrific facial injuries after being knocked unconscious by a man while trying to break up a fight in northampton town centre ."
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2a92e3d000064454b09a9", 
+            "title": "police have seized more than 2,700 firearms in the last five years", 
+            "text": [
+                "a freedom of information request submitted by the bbc has revealed police in northamptonshire responded to more than 1,100 incidents involving a firearm and have seized more than 2,700"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28aae3f00004c420f5bd0", 
+            "title": "wildlife lovers urged to visit northamptonshire to see wild parakeets said to be descendants of jimi hendrix 's birds", 
+            "text": [
+                "a canal museum in northamptonshire has found one its most popular attractions is a flock of bright green parakeets ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e294423f000058440f5bed", 
+            "title": "your foggy irchester country park", 
+            "text": [
+                "martyn hearson sent us this of a rather foggy and spooky irchester country park this morning .", 
+                "if you want to send us a then please email us or tweet us ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e27d3e3f00004d420f5ba5", 
+            "title": "wilder says february was a 'defining month ' for northampton town", 
+            "text": [
+                "as you would expect chris wilder played down his manager of the month award saying it was `` for the club , '' but he did admit february was a `` defining month '' ."
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e29a1e3b0000f2410a1a3c", 
+            "title": "police say guns are 'available ' online", 
+            "text": [
+                "guns are `` widely available '' according to northamptonshire police , including online , but superintendent steve langley said they are working with national agency `` to break those chains '' .", 
+                "year on year the number of incidents involving firearms is on the rise , according to figures obtained via a freedom of information request made by the bbc .", 
+                "back in september 2014 during a gun amnesty by northamptonshire police , an uzi submachine gun , a bolt gun and a machine gun - which had been hanging over someone 's mantelpiece - were handed in ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2980f3f000058440f5c02", 
+            "title": "police dealing with firearms from gangs 'in wellingborough and rushden in particular '", 
+            "text": [
+                "figures obtained by the bbc have revealed the number of incidents involving firearms across the county is on the increase - and police have told us they are doing `` a lot of work in wellingborough and rushden in particular to support families and young people to reinstall positive role models '' .", 
+                "superintendent steve langley , from northamptonshire police , said they were working to `` divert '' people away from `` a small number of gangs '' in the county ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_35772273", 
+            "title": "egypt ambassador 's sekhemka rescue plan", 
+            "text": [
+                "egypt ambassador 's sekhemka rescue plan"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28b223b0000f2410a1a0e", 
+            "title": "temporary stretch of a5 to be built near daventry", 
+            "text": [
+                "part of the a5 will need to be diverted onto a temporary road to make room for the building of the flore/weedon bypass it has emerged ."
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28a1d3f000050420f5bcd", 
+            "title": "firearms incidents on the rise in northamptonshire , foi reveals", 
+            "text": [
+                "a freedom of information request submitted by the bbc shows police in northamptonshire have seized more than 2,700 firearms in the past five years and have responded to an increasing number of incidents"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28c8c3f000050420f5bd5", 
+            "title": "travel : m1 partially blocked southbound at junction 16", 
+            "text": [
+                "the m1 is partially blocking at junction 16 ( daventry ) because of multi-vehicle accident .", 
+                "congestion is back to watford gap service .", 
+                "elsewhere , the a43 is partially blocked at the overstone road junction because of an accident , and there is also an accident at the sywell roundabout .", 
+                "there has also been an accident on the a6003 in corby between the oakley road junction and rockingham road junction ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e27ec83f000050420f5ba8", 
+            "title": "headlines : rise in firearms offences visitor numbers drop at northampton 's st peter 's church", 
+            "text": [
+                "here at the headlines :"
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2780f3b0000f0410a19a7", 
+            "title": "weather : foggy start but a fine day with sunny spells", 
+            "text": [
+                "after a chilly and foggy start it will be a fine day with a mix of cloudy skies and sunny spells with a high of 9c ( 48f ) .", 
+                "you can find more details on the bbc weather website or watch my full forecast below"
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e27bf23f000030420f5ba0", 
+            "title": "chris wilder named league two manager of the month", 
+            "text": [
+                "northampton town manager chris wilder has been named the league two manager of the month for the second consecutive month and third time this season .", 
+                "the cobblers won 16 points out of a possible 18 in a busy february .", 
+                "despite being part of a defence that conceded one goal and scoring an overhead kick against leyton orient , the cobblers ' rod mcdonald was beaten to the player of the month award by york city striker bradley fewster ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e27ad03d000089424b08e1", 
+            "title": "fog across the county", 
+            "text": [
+                "it a very foggy start across northamptonshire .", 
+                "here is northampton from bbc weather watcher ' @ nnweather ' .", 
+                "at the moment the fog is causing slow traffic in northampton town centre , but no accidents ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e277653d0000a5424b08d0", 
+            "title": "good morning and welcome to local live for northamptonshire", 
+            "text": [
+                "it 's pretty foggy this morning , but i am here to bring you the day 's news , the latest sport , up-to-date travel and detailed weather forecast .", 
+                "if you need to get in touch please email us , tweet us or head to facebook ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

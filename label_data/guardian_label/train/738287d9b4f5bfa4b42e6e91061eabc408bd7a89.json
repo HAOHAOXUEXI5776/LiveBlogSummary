@@ -1,0 +1,791 @@
+{
+    "blog_id": "738287d9b4f5bfa4b42e6e91061eabc408bd7a89", 
+    "title": "Nobel physics prize 2016 to be shared by British scientists \u00e2\u0080\u0093 as it happened | Science | The Guardian", 
+    "url": "https://www.theguardian.com/science/live/2016/oct/04/nobel-prize-in-physics-2016-to-be-announced-live", 
+    "summary": [
+        "and that 's a wrap .", 
+        "what 's the deal with doughnuts and coffee cups ?", 
+        "what are phase transitions ?", 
+        "how the prize is divvied up .", 
+        "what is topology ?", 
+        "and the winner is .", 
+        "the magic call ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f39211e4b0a497243b6d65", 
+            "title": "and that 's a wrap", 
+            "text": [
+                "there we have it .", 
+                "the 2016 nobel prize in physics has gone to david thouless , duncan haldane and michael kosterlitz for their work on exotic states of matter .", 
+                "the work helps explain why some materials have unexpected electrical properties , such as superconductivity , and in future the work could pave the way for quantum computers .", 
+                "for more on today 's prize see our news story here .", 
+                "we 'll be back on wednesday morning with our live coverage of the nobel prize in chemistry .", 
+                "we expect to hear the winner or winners at 10.45am uk .", 
+                "do join us if you can ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                11, 
+                30
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f38cdce4b0a497243b6d42", 
+            "title": "what 's the deal with doughnuts and coffee cups ?", 
+            "text": [
+                "for an electrical conductor , for instance copper , scientists can normally define a fixed relationship between how much electrical potential you put across a wire and how much current flows .", 
+                "however , when a material undergoes an electrical phase transition , this relationship goes out the window and the material abruptly takes on completely new electrical properties .", 
+                "mathematically , these transitions can be thought of as leaping from one topological form to another .", 
+                "a topological surface is partly defined by how many holes there are .", 
+                "so , in topological terms , a doughnut to a coffee cup ( both have one hole ) are the same .", 
+                "but a ball is different .", 
+                "these shapes just relate the maths used to describe the properties of a material - we 'd like to stress that no physical objects are being magically transformed into doughnuts ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                11, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f38b0de4b0d3973ef5f74c", 
+            "title": "", 
+            "text": [
+                "prof chris phillips , of imperial college london , says this year 's choice is a real scientist 's prize .", 
+                "the prize is normally given to someone who has made their discoveries a long time ago and has led to lots of applications .", 
+                "this is really recognising a scientific impact .", 
+                "it 's always nice when you see your own heroes are celebrated .", 
+                "these are people we , in the field , have hugely respected for a long time and it 's great to see them recognised ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f38723e4b03ca720ca258e", 
+            "title": "", 
+            "text": [
+                "here 's some reaction from steve bramwell , a physics professor at the london centre for nanotechnology , who is working in the field : i think the nobel prize to kosterlitz , thouless and haldane is richly deserved !", 
+                "the behaviour of the materials around us is extremely complex - the job of physics is to identify simple principles by which we can understand the material world and predict new phenomena .", 
+                "this is a really difficult challenge because the average substance may contain a trillion trillion atoms , all interacting with each other .", 
+                "the ingenuity of kosterlitz , thouless and haldane has been to show how a large class of real materials - particularly films and chains of atoms - can be understood in terms of the simple mathematical principles of topology - that is how the atoms are connected ( a doughnut and a teacup have the same topology as they each have a hole in them ) .", 
+                "the breakthroughs of these three scientists allowed massive progress to be made in understanding and calculating the properties of many material systems .", 
+                "i 'm sure this nobel prize will be cheered in many quarters !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f38451e4b01506cbf2504a", 
+            "title": "what are phase transitions ?", 
+            "text": [
+                "phase transitions refer to abrupt changes in the properties of a material - for instance the progression from ice to water to steam as the temperature is ramped up from freezing .", 
+                "however , as well as the traditional states of solid , liquid , gas , thouless , haldane and kosterlitz ( and others ) showed that materials also make sudden transitions in their electrical properties .", 
+                "this might manifest itself as a sudden drop in the electrical resistance of a material as it is cooled down .", 
+                "so-called topological phase transitions were initially investigated in materials with thin layers , or ones that formed thin threads , but now scientists have shown that exotic electrical properties can be found in a wide range of materials .", 
+                "thouless , haldane and kosterlitz have investigated these phase transitions and also come up with important pieces of the theory that explains why these sudden changes happen ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f38360e4b01506cbf25044", 
+            "title": "how the prize is divvied up", 
+            "text": [
+                "one half of the prize has been awarded to david thouless , with duncan haldane and michael kosterlitz sharing the other half .", 
+                "the prize has been given for theoretical discoveries of topological phase transitions and topological phases of matter .", 
+                "according to the committee , thouless has been given a larger share because he made crucial contributions to both the advances ( phase transitions and phases of matter ) cited in the prize ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                28
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f380f5e4b03ca720ca2559", 
+            "title": "", 
+            "text": [
+                "here 's a member of the nobel committee explaining physics through the medium of pastry : what is topology ?", 
+                "nobel member uses cinnamon bun , bagel and pretzel to explain video"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f38076e4b0643b5d843dce", 
+            "title": "", 
+            "text": [
+                "andrea taroni , editor of the journal nature physics , has given us his take on the announcement : this is a great nobel prize .", 
+                "the kosterlitz-thouless transition is one of the great examples of topology affecting physical processes in a fundamentally topologically-driven way , and haldane 's contributions are of a comparable magnitude .", 
+                "i am especially pleased for david thouless he is one of the gentlemen of theoretical physics , a true great !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f37fe5e4b03ca720ca254f", 
+            "title": "what is topology ?", 
+            "text": [
+                "topology , which was central to this year 's discoveries , explains why electrical conductivity inside thin layers changes in integer steps .", 
+                "kosterlitz and thouless studied the electrical behaviour of surfaces or inside extremely thin layers ( physicists call these two-dimensional materials ) .", 
+                "haldane studied matter that forms threads so thin they can be considered one-dimensional ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                11
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f37e28e4b0643b5d843dbe", 
+            "title": "", 
+            "text": [
+                "professor duncan haldane is on the phone to the press conference .", 
+                "asked about his reaction to the news , he says : i was , as everyone else is , very surprised .", 
+                "and very gratified a lot of tremendous new discoveries that are based on this original work are now happening ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                10, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f37cbbe4b01506cbf2501c", 
+            "title": "", 
+            "text": [
+                "you can read our news write-up of the announcement here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f37be6e4b03ca720ca253c", 
+            "title": "", 
+            "text": [
+                "the nobel assembly speaker has brought out a cinnamon bun , a bagel and pretzel to explain what topology means .", 
+                "he says that if you are a topologist there is only one interesting way in which these pastries differ - the bun has no hole , the bagel has one and the pretzel has two .", 
+                "well that makes everything crystal clear then ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f37b15e4b01506cbf2500b", 
+            "title": "", 
+            "text": [
+                "the prize has gone to three physicists working in the field of condensed matter physics .", 
+                "they discovered totally unexpected behaviours of solid materials - and came up with a mathematical framework ( in the field of topology ) to explain these weird properties .", 
+                "the discoveries have paved the way for designing new materials with all sorts of novel properties ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f363d0e4b01506cbf24f9e", 
+            "title": "and the winner is", 
+            "text": [
+                "the nobel prize ( @ nobelprize ) breaking news # nobelprize in physics 2016 to david thouless , duncan haldane and michael kosterlitz"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f37814e4b01506cbf24ffb", 
+            "title": "", 
+            "text": [
+                "the nobel prize ( @ nobelprize ) # nobelfacts the youngest physics laureate ever is lawrence bragg , 25 yrs when he was awarded the 1915 physics prize together with his father here 's the youngest ever physics laureate , william lawrence bragg .", 
+                "probably helped that his father was the scientist william henry bragg ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f37602e4b03ca720ca251b", 
+            "title": "the magic call", 
+            "text": [
+                "nobel laureates do n't get much advance notice - a representative from the nobel assembly makes the call just minutes before the announcement .", 
+                "this means laureates are often caught off-guard .", 
+                "barry marshall got the call in an australian pub , amartya sen heard the phone ringing at 5am and thought something tragic had happened ; g\u00e3\u00bcnter grass was due at the dentist .", 
+                "peter higgs was famously unreachable on the day he won , and finally found out from a former neighbour , who got out of her car to congratulate him ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f374e5e4b01506cbf24fef", 
+            "title": "", 
+            "text": [
+                "the nobel prize is currently worth 8m swedish kronor ( \u00e2\u00a3 720,000 ) - or a share of this if the prize is split .", 
+                "our colleague esther addley , spoke to some past laureates about how they spent it .", 
+                "sir andre geim , who with sir konstantin novoselov won the 2010 physics prize for their discovery of graphene , told her : i do n't know any nobel laureate who considers the monetary aspect of the prize to be worth even mentioning .", 
+                "however , i have met a few people who would sell their soul , leaving aside a granny or fortune , for the prize ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f373a5e4b01506cbf24fea", 
+            "title": "", 
+            "text": [
+                "once the nobel committee has made up its mind about the winner or winners , it is time to call the lucky recipients .", 
+                "it is one of the many less-then-optimal traditions of the nobel prizes and of course it is pretty much guaranteed to wrong from time to time .", 
+                "take 1989 , when a physicist called norman ramsey won half the prize .", 
+                "the committee had a terrible time tracking him down .", 
+                "in the end they found a norman ramsey in washington dc and called to offer him the prize .", 
+                "what could possibly go wrong ?", 
+                "professor norman f. ramsey talks about when he got the unexpected call from stockholm .", 
+                "clip from an interview by freelance journalist marika griehsel at the 55th meeting of nobel laureates in lindau , germany , june 2005 .", 
+                "credits : ladda productions ab ( webcasting )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f36ef2e4b03ca720ca24fd", 
+            "title": "", 
+            "text": [
+                "martin rees , the astronomer royal and cambridge astrophysicist , has given us his take on the nobel prize - he thinks that newer areas of science are being overlooked and that consortiums , like ligo , deserve recognition as much as individuals .", 
+                "it 's certainly true that the prizes fail to recognise achievements in huge swaths of science that have grown in importance in the century since they were set up .", 
+                "moreover , the limit to three winners is becoming less appropriate .", 
+                "much of experimental and observational science ( and even some theoretical work ) involves a group effort .", 
+                "there have been several recent instances when singling out three ( or less ) winners has not only been unfair but has given the public a distorted perspective of how science is actually done .", 
+                "fortunately , there has in the last 10-20 years been a proliferation of other international prizes , some of which are prepared to make awards to groups ( and to cover \u0080\u0098non-nobel ' subjects ) .", 
+                "one hopes that this will gradually erode the special prestige of the nobels ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f36a24e4b0643b5d843d4d", 
+            "title": "", 
+            "text": [
+                "the nobel prize ( @ nobelprize ) # nobelprize medal for physics : nature - a goddess resembling isis - and the veil is held up by the genius of science here 's what the nobel medal looks like up close .", 
+                "it 's made of 18 carat gold and weighs 175 g for all medals , except for the prize in economic sciences , which weighs 10g more ( favouritism from the nobel foundation 's accounts department ? ) .", 
+                "the laureates wo n't get their hands on the medal or cash prize until a ceremony in stockholm in december .", 
+                "brian schmidt , who won the 2011 nobel prize in physics for co-discovering dark energy , found transporting a big chunk of gold through airport security can be problematic .", 
+                "they 're like , \u0080\u0098sir , there 's something in your bag ' , he told scientific american ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f3676de4b03ca720ca24e2", 
+            "title": "", 
+            "text": [
+                "physics laureates are surprisingly youthful the nobel prize ( @ nobelprize ) # nobelfacts the physics laureates are in average the youngest of all laureates , average age : 55"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f36cabe4b01506cbf24fc5", 
+            "title": "read the 2016 nobel prize winners ' major papers", 
+            "text": [
+                "most nobel prize winners have , at one time or other , published their work in journals run by elsevier .", 
+                "the company has decided to make the major papers from this year 's winners available online , starting with those from yoshinori ohsumi , who received the medicine prize yesterday .", 
+                "you can read his elsevier papers here .", 
+                "the site will be updated with papers from the forthcoming winners as they become known ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f36633e4b01506cbf24fad", 
+            "title": "", 
+            "text": [
+                "the nobel prize in physics has only been awarded to two women so far .", 
+                "in 1903 , marie curie shared the prize with her husband , pierre , and henri becquerel .", 
+                "the curies showed that pitchblende was more radioactive than uranium and went on to extract polonium and radium - two elements unknown at the time .", 
+                "maria goeppert mayer was next to share the physics prize in 1963 for her work on the nuclear shell structure of atoms .", 
+                "so more than 50 years with no female winner .", 
+                "this year , some pundits have an eye on vera rubin for her work on dark matter .", 
+                "but with no detection of this invisible substance yet , there is still a possibility it does n't exist ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f3713de4b0643b5d843d6a", 
+            "title": "", 
+            "text": [
+                "last year , the nobel prize in physics went to takaaki kajita and arthur mcdonald for discovering that elusive subatomic particles called neutrinos weigh something more than nothing .", 
+                "at the time , the nobel committee said the discovery had changed our understanding of the innermost workings of matter and can prove crucial to our view of the universe ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f29acae4b03ca720ca2259", 
+            "title": "", 
+            "text": [
+                "the secrecy of the nobel committee 's decision-making process , combined with the need to whittle down any discovery to a maximum of three names , means the prize sometimes throws up controversy .", 
+                "former colleagues of willard boyle and george smith , who won the 2009 nobel physics prize told media the two american scientists did not deserve the award .", 
+                "one told canada 's globe and mail that their former collaborators at bell laboratories , who were recognised for inventing an image sensor , would n't know an imaging device if it stared them in the face ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                9, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f29556e4b01506cbf24cc9", 
+            "title": "tips from the pundits", 
+            "text": [
+                "each year the analytics firm thomson reuters sifts through the web of science to produce a list of scientists that are deemed of nobel class .", 
+                "aside from the drever- thorne-weiss trio , they also like the chances of marvin cohen , for theoretical studies of solid materials , and celso grebogi , edward ott and james yorke - for work on chaotic systems .", 
+                "other contenders include william borucki , pi on nasa 's kepler space telescope , which has spotted more than 1,000 planets outside our solar system and vera rubin , the american astronomer whose observations led to the theory of dark matter .", 
+                "although no-ones knows what dark matter is , and there 's no proof it definitely exists , so that 's probably an outsider .", 
+                "some physicists over at sigma xi have come up with a physics nobel death match-style chart , which gives an idea of who is in the running ( work from the outside of the chart towards the middle ) ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                8, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f27d7de4b03ca720ca21d3", 
+            "title": "ripples through the world of physics", 
+            "text": [
+                "by far the biggest physics story of 2016 was the first observation of gravitational waves , ripples in the fabric of space-time first predicted by einstein .", 
+                "if the discovery , announced at the start of february , came in time for the 31 january nominations deadline , this has to be a favourite .", 
+                "when the higgs boson was discovered , the prize went to theorists , peter higgs and fran\u00e3\u00a7ois englert , rather than scientists at cern .", 
+                "for gravitational waves , the experimentalists , ronald drever , kip thorne , and rainer weiss ( known in the field as the troika ) are probably the frontrunners .", 
+                "drever and weiss were central to designing the laser interferometer gravitational-wave observatory ( ligo ) and thorne worked out what gravitational waves would look like to the detector .", 
+                "some argue that ligo 's former director , barry barish , should also be in the running ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                8, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f279d2e4b0643b5d8439f5", 
+            "title": "", 
+            "text": [
+                "after yesterday 's award in medicine , this morning the nobel assembly will name the winner - or more likely winners - of the 2016 nobel prize in physics .", 
+                "we 're expecting the announcement at 10.45am uk time , and it will be made at the royal swedish academy of sciences in stockholm .", 
+                "do join us for the live announcements , explanations of the research , and reaction from the winners and others from the world of science ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                4, 
+                8, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "science", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n12.30pm BST\n12:30\nAnd that's a wrap\n", 
+                "block": "block-57f39211e4b0a497243b6d65"
+            }, 
+            {
+                "text": "\n\n12.25pm BST\n12:25\nWhat's the deal with doughnuts and coffee cups?\n", 
+                "block": "block-57f38cdce4b0a497243b6d42"
+            }, 
+            {
+                "text": "\n\n11.40am BST\n11:40\nWhat are phase transitions?\n", 
+                "block": "block-57f38451e4b01506cbf2504a"
+            }, 
+            {
+                "text": "\n\n11.28am BST\n11:28\nHow the prize is divvied up\n", 
+                "block": "block-57f38360e4b01506cbf25044"
+            }, 
+            {
+                "text": "\n\n11.11am BST\n11:11\nWhat is topology?\n", 
+                "block": "block-57f37fe5e4b03ca720ca254f"
+            }, 
+            {
+                "text": "\n\n10.47am BST\n10:47\nAnd the winner is\n", 
+                "block": "block-57f363d0e4b01506cbf24f9e"
+            }, 
+            {
+                "text": "\n\n10.35am BST\n10:35\nThe magic call\n", 
+                "block": "block-57f37602e4b03ca720ca251b"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "David Thouless, Duncan Haldane and Michael Kosterlitz will share prize for work on exotic states of matter.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

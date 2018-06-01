@@ -1,0 +1,671 @@
+{
+    "blog_id": "6ec12b3b45e4e42a1493fcee212f044fdbb3d390", 
+    "title": "BBC Local Live: Cambridgeshire on Thursday, 14 April 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-cambridgeshire-36040756", 
+    "summary": [
+        "updates on thursday , 14 april 2016 .", 
+        "a cambridgeshire man gives up life in the county to go and care for hundreds of animals in a sanctuary he 's set up in morocco .", 
+        "peterborough city councillors say no to joining up with the rest of cambridgeshire , suffolk and norfolk to form a devolved eastern government and plan to hold a public consultation .", 
+        "callum fairhurst arrives home safely after completing a 17,000-mile bike ride to honour his brother who died from cancer .", 
+        "news , sport , travel and weather updates resume on friday at 08:00 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fb86d3d0000aa282a858d", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for cambridgeshire have finished for the day .", 
+                "we 'll be back at 08:00 tomorrow with the latest news , sport , weather and travel updates from across the county .", 
+                "have a good evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fb79d4100000525ffb804", 
+            "title": "weather : rain tonight cloudy and cooler tomorrow", 
+            "text": [
+                "tonight further rain is likely to arrive from the south , becoming prolonged and possibly heavy at times .", 
+                "lows of 9c ( 48f ) .", 
+                "tomorrow , cloudy and cooler than of late , with rain moving northwards .", 
+                "likely to become brighter and warmer for a while , but with a risk of heavy , thundery showers developing .", 
+                "a high temperature of 10c ( 50f ) ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fa20c3d00009a272a853e", 
+            "title": "daredevils needed to abseil down peterborough cathedral", 
+            "text": [
+                "this is the view that you could see if you want to abseil down peterborough cathedral at a fundraising event in july .", 
+                "daredevils are needed to go down the side of the famous west front to raise funds for the peterborough 900 campaign , to improve facilities for visitors and worshippers ahead of its 900th anniversary in 2018 .", 
+                "as well as not being scared of heights you 'll need to be aged over 16 and in good health ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fb45d560000792424c8f3", 
+            "title": "woman cautioned over drugs after student 's death", 
+            "text": [
+                "a 19-year-old woman arrested in connection with drug offences following the death of a student at cambridge university has been cautioned .", 
+                "thomas millward , 19 , of cheltenham ( was found with head injuries at girton college in march following a fall .", 
+                "first reported by the cambridge news , the woman was cautioned by police for possession of a class a and class b drug ."
+            ], 
+            "author": [
+                "Nic Rigby", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570fc3224100001426ffb82e", 
+            "title": "derry targets 'four wins out of five '", 
+            "text": [
+                "cambridge united boss shaun derry believes four more victories will see his side into the league two play-offs ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f87ad560000cd2224c86e", 
+            "title": "man arrested after fight in huntingdon", 
+            "text": [
+                "a 21-year-old has been arrested on sus of affray and bailed after a fight broke out in huntingdon on saturday .", 
+                "a group of five men were outside cromwell 's bar in the high street at 03:00 when they confronted two other men .", 
+                "one man was arrested but the rest fled the scene .", 
+                "police are appealing for people with information to come forward , saying there were many who may have seen the incident ."
+            ], 
+            "author": [
+                "Alex Harris", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570fb5ff3d0000e6282a8586", 
+            "title": "headlines : man cautioned for assaulting paramedic in grantchester fight in huntingdon", 
+            "text": [
+                "here 's your latest headlines for cambridgeshire :"
+            ], 
+            "author": [
+                "Alex Harris", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fb8a63d0000e6282a8591", 
+            "title": "network rail engineers on scene of flooding between stowmarket and diss", 
+            "text": [
+                "more now on the problems that flooding is causing to rail services into and out of suffolk this afternoon .", 
+                "network rail says water from a drainage pipe is gushing onto the track between stowmarket and diss .", 
+                "engineers are on scene .", 
+                "check the greater anglia website for the latest travel information ."
+            ], 
+            "author": [
+                "Steve Martin", 
+                "BBC Radio Suffolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570fa3dc4100003822ffb7c6", 
+            "title": "jack collison offering cash reward to find stolen car", 
+            "text": [
+                "former welsh international and peterborough united midfielder jack collison is offering a cash reward for anyone who can help find his car , which was stolen in milton keynes .", 
+                "his black mercedes was taken from outside a casino in the town .", 
+                "collison retired earlier this season at the age of 27 due to a knee injury .", 
+                "he now coaches younger players at peterborough ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570fb3315600007b2524c8f1", 
+            "title": "travel : flooding affecting some rail services", 
+            "text": [
+                "16:20 ipswich to cambridge & 16:44 cambridge to ipswich will be cancelled due to flood water making the railway unsafe .", 
+                "rs", 
+                "@ twitterid will there be a bus replacement for this service ?", 
+                "@ twitterid sorry there is no replacement bus for these services .", 
+                "rs"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f92a6560000ce2224c886", 
+            "title": "extra funding made available for peterborough football scheme helping to break down barriers", 
+            "text": [
+                "the successes of a football scheme in peterborough have been recognised and additional funding made available to secure its future ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f6cec3d00007f212a845c", 
+            "title": "animal sanctuary founder cares for hundreds of animals", 
+            "text": [
+                "karl scarr from cherry hinton does n't just look after dogs at his wild animal sanctuary in morocco", 
+                "he also cares for 300 other animals including cats and donkeys .", 
+                "he says he does the work to `` safeguard the welfare of all animals in a country where cruelty and abuse are still considered normal '' ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f9ec7410000fe23ffb7b9", 
+            "title": "man in 'spin ' over vinyl shed", 
+            "text": [
+                "mike johnson from march is a literal `` record breaker '' , having covered his shed roof with about 500 vinyl records .", 
+                "he collected them from local charity shops and spent two days attaching them to his roof , at a cost of \u00a3 70 ."
+            ], 
+            "author": [
+                "Johnny Dee", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f8eef3d0000bb232a84fa", 
+            "title": "ambulance service says attack on paramedic 'unacceptable '", 
+            "text": [
+                "the east of england ambulance service has spoken out after one of their paramedics was assaulted in the early hours of this morning .", 
+                "they said it happened after attending a house on grantchester high street , where a man became aggressive after being treated .", 
+                "chief executive officer robert morton said : `` it 's completely unacceptable that our staff are subject to physical or verbal abuse when they 're trying to do their job and it will not be tolerated . ''"
+            ], 
+            "author": [
+                "Emma Howgego", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f8a2e3d0000e3252a84e5", 
+            "title": "posh boss says no-one 's job is safe", 
+            "text": [
+                "peterborough chairman darragh macanthony says no-one 's job is safe , from the `` tea lady '' to the manager .", 
+                "posh 's defeat against rochdale last saturday left them 14th in the league one table , after having hopes of a play-off place in february .", 
+                "speaking about their bad run , macanthony told bbc radio cambridgeshire : `` it 's been awful .", 
+                "it 's been well and truly awful . ''"
+            ], 
+            "author": [
+                "Nick Fairbairn", 
+                "BBC Radio Cambridgeshire sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f8ce83d0000e5252a84ef", 
+            "title": "paramedic assaulted by man after ambulance sent to treat him", 
+            "text": [
+                "a 56-year-old man was arrested after assaulting a paramedic in grantchester in the early hours of this morning .", 
+                "police were called to the property on high street at soon after 01:00 after he became aggressive .", 
+                "he 's since been released and cautioned for assault ."
+            ], 
+            "author": [
+                "Emma Howgego", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f74603d0000bb232a8485", 
+            "title": "decision still to be taken on whether peterborough is joining devolved east anglia", 
+            "text": [
+                "it 's hoped a decision will be made by the end of june on whether peterborough city council will join up with the rest of cambridgeshire , suffolk and norfolk to form a devolved government .", 
+                "at a meeting last night in peterborough , councillors said no to the idea in the current form .", 
+                "but the leader of the council , conservative john holdich , told me that after the local elections in may they hope to run a consultation for between two and three weeks and then look at the results and take it from there ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f749b3d0000c3242a8487", 
+            "title": "weather : sunshine and slow-moving showers , heavy and thundery later", 
+            "text": [
+                "heavy , slow-moving showers are likely to develop this afternoon , some heavy with a risk of hail and thunder , especially over higher ground such as the gog magog downs .", 
+                "however , there will be some warm sunny spells in-between the showers .", 
+                "maximum temperature : 15c ( 59f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "13:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f7757410000f01fffb72b", 
+            "title": "headlines : public consultation to be held in peterborough on devolution plans cambridgeshire man changes life to save abandoned animals in morocco", 
+            "text": [
+                "here are the stories making the news this lunchtime :"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f6b81410000f01fffb6f8", 
+            "title": "animal lovers refuse to 'turn a stray in need away '", 
+            "text": [
+                "karl scarr says he refused to `` turn a stray in need away '' at the wild animal sanctuary he set up in morocco in 2012 .", 
+                "he says : `` i literally have no space or time to myself , and life in a kennel is n't easy . ''", 
+                "`` being the leader of a pack this size requires complete concentration and vigilance at all times , watching out for deadly scorpions and snakes , or breaking up fights . ''", 
+                "he 's applied to guinness world records to see if he 's a record holder for living with the most number of dogs .", 
+                "at the moment it 's believed no record has been set but karl thinks the largest dog pack at the moment stands at 140 ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f68273d000088202a8447", 
+            "title": "man jailed for being 100 times over drug driving limit", 
+            "text": [
+                "a man caught drug driving in peterborough was more than 100 times over the set limit , according to cambridgeshire police .", 
+                "gintars garkajs , 30 , of earl street , wisbech , was stopped in his audi a6 by police on bourges boulevard in january .", 
+                "tests showed he was 100 times over the limit for mdma as well as being more than 10 times over set limits for cocaine .", 
+                "he was sentenced at cambridge magistrates ' court to 18 weeks in prison and banned from driving for five years after pleading guilty to driving under the influence of drugs ."
+            ], 
+            "author": [
+                "Alex Harris", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f66f33d00007f212a8443", 
+            "title": "cambridgeshire man moves to morocco to care for abandoned animals", 
+            "text": [
+                "here are more photos of karl scarr who now lives with 150 dogs after he left cambridgeshire to set up morocco 's wild animal sanctuary .", 
+                "here 's some interesting facts about karl", 
+                "he starts work at 04:00 and has to clear-up 30kg ( 66lb ) of animal excrement a day .", 
+                "since the sanctuary was established in 2012 , karl has nursed over 1,000 animals .", 
+                "karl lives with the dogs in a specially-built kennel as his own home is under construction .", 
+                "at the moment he does n't have access to running water or electricity .", 
+                "he shares his bed with khan , a bullmastiff which is second-in-command ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f59275600002b1d24c7a7", 
+            "title": "brother completes mammoth round-the-world cycle ride in memory of his brother", 
+            "text": [
+                "it 's a journey that 's lasted eight months , over 17,000 miles , been through 15 countries and taken a lot of pedal power .", 
+                "but now callum fairhurst from soham is back in blighty after completing a mammoth cycle journey in memory of his brother liam , who died from cancer seven years ago .", 
+                "he described the experience as `` amazing '' and `` unbelievable '' ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f5dc7410000e31dffb6b2", 
+            "title": "former cambridgeshire taxi driver moves to morocco to live with 150 dogs", 
+            "text": [
+                "a former cambridgeshire taxi driver is set to claim a new world record for living with the most number of dogs .", 
+                "karl scarr from cherry hinton moved to morocco to set up the wild animal sanctuary for stray animals , after witnessing how they 're treated while on a charity rally nine years ago .", 
+                "as you can see , he shares his kennel in tangier with about 150 dogs ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f55f4410000e21dffb68d", 
+            "title": "peterborough city hospital out of 'significant internal incident ' status", 
+            "text": [
+                "peterborough city hospital is no longer on a `` significant internal incident '' status .", 
+                "on tuesday it said it was completely full and had no available bed space .", 
+                "thirteen operations were also cancelled .", 
+                "managers say bed blocking does remain and space is limited ."
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f524a410000e21dffb682", 
+            "title": "funeral paid for by john terry to take place for eight-year-old", 
+            "text": [
+                "a private funeral will take place in fen ditton this afternoon for eight-year-old tommi miller who recently died from leukaemia .", 
+                "former england captain john terry ( bottom left ) donated \u00a3 1,600 to the family to pay for the funeral .", 
+                "the footballer met chelsea fan tommi last year and when he was told of the boy 's death he contacted the funeral parlour personally to make the arrangements ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f4d0a5600002e1e24c772", 
+            "title": "hundreds of new homes being planned for littleport", 
+            "text": [
+                "an exhibition on plans to build 600 homes in littleport was held in the village last night .", 
+                "manor oak homes hopes to build the properties on land between the grange and the a10 .", 
+                "some of the people i spoke to told me they 're in favour of the homes being built , but are worried about the impact on local roads , gp surgeries and schools ."
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f48253d00007f212a83ca", 
+            "title": "public consultation after peterborough councillors say no to devolution", 
+            "text": [
+                "a public consultation is going to take place in peterborough after councillors said no to joining a proposed devolved government with the rest of cambridgeshire , suffolk and norfolk .", 
+                "last night city councillors voted against the plans that could see an elected mayor and a billion pounds invested in the area over 30 years .", 
+                "they decided a public consultation will now take place before a final decision is made at the end of june ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f468a410000cf1cffb653", 
+            "title": "more gps need to be recruited in cambridgeshire , warn doctors", 
+            "text": [
+                "a group representing gps is warning that a chronic shortage of doctors in cambridgeshire and peterborough will lead to fewer patients being seen .", 
+                "the royal college of gps says one in four posts will be vacant in the county within four years .", 
+                "helen pinder ( left ) from the westwood clinic in peterborough says it 's `` struggling to cover the roles '' and is looking to hire new doctors ."
+            ], 
+            "author": [
+                "Emma Baugh", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f41a75600002b1d24c731", 
+            "title": "travel news : disruption expected around b660 and b1043", 
+            "text": [
+                "resurfacing work is expected to cause delays today on roads around holme and stilton .", 
+                "advance notice : b660 station road # holme & b1043 great north rd # stilton will be resurfaced today .", 
+                "expect disruption in the area ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_570f3d925600002b1d24c71d", 
+            "title": "headlines : warnings raised about future shortage of gps public consultation planned in peterborough on east anglia 's devolution plans", 
+            "text": [
+                "here are the main stories making the news this morning :"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f3b67560000361d24c712", 
+            "title": "weather : sunshine and slow-moving showers , heavy and thundery later", 
+            "text": [
+                "many places dry to start , just a scattering of showers and some brightness .", 
+                "heavy , slow-moving showers are likely to develop more widely after midday , some heavy with a risk of hail and thunder , especially over higher ground such as the gog magog downs .", 
+                "maximum temperature : 15c ( 59f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_570f3a4a3d000094202a8381", 
+            "title": "good morning", 
+            "text": [
+                "good morning and welcome to cambridgeshire local live .", 
+                "between now and 18:00 we 'll bring you all the news , sport , weather and travel .", 
+                "you can get involved too by sending us your stories , and comments via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-cambridgeshire", 
+    "quality": "high"
+}

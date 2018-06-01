@@ -1,0 +1,440 @@
+{
+    "blog_id": "2ca7590cbdd760e000069f99d878b74f10b558e0", 
+    "title": "BBC Local Live: Oxfordshire on Tuesday 22 November 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-38061959", 
+    "summary": [
+        "inquest rules a420 crash in which four friends killed was accident .", 
+        "oxford mayor calls for text alerts after court summons .", 
+        "ex-tvp chief 'in line to take over met police ' .", 
+        "oxfordshire county council set to fund study of plans workplace parking levy ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37982577", 
+            "title": "oxford united 1-0 gillingham", 
+            "text": [
+                "oxford united 1-0 gillingham"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58348091e4b0e58fc37d4da7", 
+            "title": "that 's all from us", 
+            "text": [
+                "thanks for joining us today , we 'll be back tomorrow at 08:00 .", 
+                "do n't forget to keep in contact with us on facebook , twitter and email ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58347c5ce4b0e58fc37d4d8f", 
+            "title": "nspcc warns oxfordshire children about child abuse", 
+            "text": [
+                "the nspcc is holding special assemblies in primary schools across oxfordshire teaching children how to stay safe from abuse", 
+                "the charity says this is being held in light of recent news about children being sexually exploited in the county .", 
+                "assemblies were held at st frances primary school in cowley this morning .", 
+                "imogen mccabe spoke to bbc radio oxford and said educating children about abuse at a young age is vital ."
+            ], 
+            "author": [
+                "Rahil Sheikh", 
+                "BBC News Oxford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_583471ade4b05314e457c1e0", 
+            "title": "oxford centres get \u00a3 3.7m for cognitive research", 
+            "text": [
+                "doctors and medical researchers in oxford have been given \u00a3 3.7m to continue research into mental health .", 
+                "the oxford cognitive research facility , which works with hospitals and mental health service providers across the county , has been awarded the funding to continue looking at new ways of treating anxiety and mood disorders and neurological diseases like parkinson 's and alzheimer 's .", 
+                "it comes after the oxford health biomedical research centre was awarded \u00a3 12.8m for other research projects .", 
+                "oxford university 's head of psychiatry dr bruno holthof said : `` this is a great result for translational neuroscience in oxford .", 
+                "`` along with the awards for oxford 's brcs , the clinical research facility is fundamental to our ambitious plans for oxford neuroscience . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58347ecce4b0e58fc37d4d9a", 
+            "title": "travel latest : slow-moving traffic in oxford city centre", 
+            "text": [
+                "here 's the latest traffic update this evening :"
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58347628e4b05314e457c1f8", 
+            "title": "breakingpedestrian dies in hgv crash", 
+            "text": [
+                "a pedestrian has died after a crash involving a lorry in north oxfordshire .", 
+                "police were called to the a423 southaam road in mollington on at on tuesday morning .", 
+                "the pedestrian , a man in his 30s , died at the scene and his next of kin have been informed .", 
+                "no-one has been arrested and police are appealing for witnesses ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38069167", 
+            "title": "car 'flew into air ' killing four", 
+            "text": [
+                "car 'flew into air ' killing four"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_583462ace4b0e58fc37d4cfe", 
+            "title": "car 'flew into air ' killing four friends", 
+            "text": [
+                "four people died when a car `` went into the air '' after a head-on collision in oxfordshire , a coroner has found .", 
+                "sam kay , 26 , from crawley , samuel jones , 23 , 27-year-old nicoletta tocco and brogan warren , 21 , all from northampton , died from multiple injuries on the a420 in may .", 
+                "toxicology reports found that mr jones , who was driving the car , had cannabis and alcohol in his bloodstream .", 
+                "but the coroner said mr jones was below the drink-drive limit , and could not be sure if the level of cannabis in the driver 's system would have impaired his ability to drive .", 
+                "the death was recorded as accidental ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5834558ee4b0e58fc37d4cb0", 
+            "title": "flooding near oxford train station", 
+            "text": [
+                "the road outside oxford railway station 's long-stay car park was flooded about half an hour ago ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58344d3ae4b05314e457c104", 
+            "title": "man , 78 , goes missing from witney overnight", 
+            "text": [
+                "a 78-year-old man is being sought by police after going missing from meadow lane in witney last night .", 
+                "david west is 5ft 9ins , thin with short grey hair , and may be wearing a blue sweater and jeans over pyjamas and crocs-style shoes .", 
+                "he is known to frequent the areas around hill park road allotments , st mary 's church and church green .", 
+                "insp steve hookham , who is leading the search for david , said : we are increasingly concerned for david 's welfare .", 
+                "in addition to the terrible weather conditions over the past 24 hours we believed he has not taken money with him and has left prescribed medication behind . ''", 
+                "anyone who has seen david or knows of his whereabouts is asked to call 101 as a matter of urgency quoting urn 268 22/11 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38061963", 
+            "title": "mayor 's tax pay fail was 'admin error '", 
+            "text": [
+                "mayor 's tax pay fail was 'admin error '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_583443cde4b0e58fc37d4c57", 
+            "title": "hotel reveals 'weird requests ' from oxford guests", 
+            "text": [
+                "the old adage `` the customer is always right '' may not apply to these weird and - in some cases - impossible requests from customers at oxford hotels .", 
+                "travelodge has compiled a list of strange things customers have asked for in the city of dreaming spires , including :"
+            ], 
+            "author": [
+                "Alex Regan", 
+                "South Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58343c96e4b01ef5e4d0c8dc", 
+            "title": "oxford lord mayor calls for changes after receiving summons", 
+            "text": [
+                "oxford 's lord mayor has called for council tax reminders to be sent by text message after he received a court summons for failing to pay .", 
+                "mohammed altaf-khan was one of four oxfordshire councillors to be summonsed during the 2015-16 tax year .", 
+                "private eye revealed the information after a freedom of information request .", 
+                "oxford city council said mr altaf-khan was late paying \u00a3 216.29 , despite being sent a demand notice and a reminder letter .", 
+                "he said the unpaid council tax was for one of the properties he lets , and was overlooked after his tenants moved out .", 
+                "he said : `` it was an admin error where you do n't receive the reminder or notice to pay .", 
+                "`` by the time i received the summons i had paid .", 
+                "i did n't go to court or anything . ''", 
+                "he added : `` i think the council tax system should have text messages and emails , which are quicker and electronic . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5834228ce4b0e58fc37d4ba2", 
+            "title": "rising floodwaters sink boat in henley", 
+            "text": [
+                "storm angus strikes henley-on-thames"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58341d43e4b05314e457bffc", 
+            "title": "antibiotic resistance could cause 'global catastrophe '", 
+            "text": [
+                "oxford university innovation says if we do n't develop new antibiotics , resistance to old ones could become a global catastrophe .", 
+                "researchers need to secure \u00a3 3m in funding to develop the first new antibiotic in more than a decade to combat antibiotic resistance - which already kills 700,000 people a year .", 
+                "professor mark moloney , from the team , says modern medical practice critically depends on the ability to treat infections ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58341805e4b05314e457bfd8", 
+            "title": "m40 tailbacks continue", 
+            "text": [
+                "oxford travel", 
+                "bbcoxtravel", 
+                "# m40 southbound : still major delays between j6 # lewknor/ # watlington to j4 # highwycombe .", 
+                "following earlier collision at j4 queuing for 9miles", 
+                "# m40 southbound : still major delays between j6 # lewknor/ # watlington to j4 # highwycombe .", 
+                "following earlier collision at j4 queuing for 9miles"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5834007de4b01ef5e4d0c774", 
+            "title": "four councillors get court summons for failing to pay council tax", 
+            "text": [
+                "four councillors , including the lord mayor of oxford , have received court summons after failing to pay their council tax ."
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58340270e4b0e58fc37d4aee", 
+            "title": "four vehicle accident on m40 causing delays", 
+            "text": [
+                "m40 southbound at j4 for high wycombe - 4 vehicle accident causing 2 outside lanes to be blocked .", 
+                "cars are squeezing past on hard shoulder"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833f5c7e4b0e58fc37d4a8e", 
+            "title": "is former thames valley police boss in line to take over met ?", 
+            "text": [
+                "in its 187-year history , the met has never had a woman as commissioner , but this time sara thornton , head of the national police chiefs ' council , is considering applying , having steered the organisation through a difficult transition from its previous incarnation as acpo , the association of chief police officers .", 
+                "thornton 's strength lies in strategy : she builds relationships , understands the world of politics , and has a vision for policing .", 
+                "last year , she was heavily criticised for suggesting police no longer have the resources to visit every burglary victim and carry out random foot patrols , but the comments reflected the reality of an overstretched service .", 
+                "thornton began her career in the met 30 years ago , becoming thames valley chief constable in 2007 , though her final months were clouded by the oxford grooming scandal .", 
+                "a serious case review found that her force had made `` many errors '' and failed to see that children were being exploited by groups of men .", 
+                "thornton said she and her officers were `` ashamed '' of the shortcomings ."
+            ], 
+            "author": [
+                "Danny Shaw", 
+                "BBC Home Affairs Correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5833f4f9e4b01ef5e4d0c731", 
+            "title": "calls made for a levy on workplace car parking in reading .", 
+            "text": [
+                "a controversial levy on workplace car parking is being considered by councillors trying to cut road congestion in reading .", 
+                "the proposal to charge firms a fee per employee car parking space faces tough opposition from businesses .", 
+                "oxfordshire county council is set to fund a study of plans to replicate a scheme in nottingham which is raising \u00a3 9m a year for public transport .", 
+                "reading green party councillor rob white thinks these are issues which should be addressed in berkshire too .", 
+                "reading suffers from massive air quality problems , massive congestion problems .", 
+                "the workplace parking levy would mean people who worked in the town centre would have to pay to drive into the town centre .", 
+                "that money could then be used to improve public transport . ''"
+            ], 
+            "author": [
+                "Roger Harrabin", 
+                "BBC environment analyst"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833f3d2e4b0e58fc37d4a84", 
+            "title": "flooding : 'we might have got away with it in oxfordshire '", 
+            "text": [
+                "oxford 's howard benthan has been talking to roving reporter lilley mitchell who is at didcot parkway this morning .", 
+                "she said so far flooding has only cause minimal disruption on the railways , with no cancellations reported in oxfordshire .", 
+                "howard said : `` it looks like we might have got away with it in oxfordshire . ''"
+            ], 
+            "author": [
+                "Howard Bentham", 
+                "Radio Oxford presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833f209e4b01ef5e4d0c72a", 
+            "title": "travel update : flooding cancels trains between swindon and bristol", 
+            "text": [
+                "there are delays of up to 30 minutes and some cancellations on great western railway services .", 
+                "between swindon and bristol parkway this morning due to flooding and heavy rain ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833f186e4b01ef5e4d0c727", 
+            "title": "welcome to oxfordshire live", 
+            "text": [
+                "good morning on this soggy tuesday , hopefully the rain overnight has n't cause you too many problems .", 
+                "we 'll be bringing you news , sport , weather and travel from across oxfordshire today until 18:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:59"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

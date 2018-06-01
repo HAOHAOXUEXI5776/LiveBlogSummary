@@ -1,0 +1,769 @@
+{
+    "blog_id": "07b0ea0c0e467939a263e803a2bdb0a1356425d7", 
+    "title": "BBC Local Live: Leicestershire on Wednesday 1 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-38816526", 
+    "summary": [
+        "updates for wednesday 1 february 2017 .", 
+        "loughborough market crowned 'best large outdoor market ' .", 
+        "leicester sign molla wague on loan .", 
+        "download announces more performers .", 
+        "ranieri claims vokes handled the ball to score .", 
+        "news , sport , travel and weather updates will resume at 08:00 thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58921984e4b03dfbbec2255a", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live - updates will start again on thursday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58921964e4b03dfbbec22559", 
+            "title": "weather : more rain on thursday", 
+            "text": [
+                "the cloud will thicken through this evening with some outbreaks of rain , particularly in the early hours .", 
+                "a minimum temperature of 8c ( 46f ) .", 
+                "another cloudy and damp start on thursday with some outbreaks of rain through the day .", 
+                "it 'll be windy too .", 
+                "a maximum temperature of 10c ( 50f ) ."
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58920f4ee4b03dfbbec22521", 
+            "title": "your photos : sun over grand union canal", 
+            "text": [
+                "the sun did come out in leicestershire today - albeit very briefly .", 
+                "kizzi grand union canal captured it over in south wigston"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589210b8e4b03dfbbec2252d", 
+            "title": "khan committed to leicestershire plan", 
+            "text": [
+                "chief executive wasim khan insists he is staying to oversee leicestershire 's five-year plan after another year of profit ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58921a36e4b0cb77c14e677f", 
+            "title": "woman 's 'miracle ' baby on dialysis", 
+            "text": [
+                "jackie smith from castle donington gave birth whilst on kidney dialysis - a very rare situation .", 
+                "but it 's all worked out fine"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58921074e4b03dfbbec2252a", 
+            "title": "rugby : mermoz joins tigers", 
+            "text": [
+                "leicester tigers confirm maxime mermoz has joined the club until the end of the season"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58920845e4b03dfbbec224f9", 
+            "title": "council praise traders for winning award", 
+            "text": [
+                "we 're absolutely delighted to have won best large outdoor market .", 
+                "loughborough market is a fantastic part of our town centre and provides not only the thursday and saturday retail markets , but also vintage , farmers and festive markets throughout the year too .", 
+                "well done to all the team and the traders who ensure that the market continues to flourish . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_589207b6e4b00e3dfcd302ae", 
+            "title": "market praised for working with students", 
+            "text": [
+                "charnwood borough council has said the market was praised for supporting traders with the `` try a trade '' offer .", 
+                "this means people can have a free stall on the market for a day and then get 50 % off a stall for three months to help grow the business .", 
+                "the authority said the awards also recognised the market 's work with loughborough university - it 's after traders spent a day at the campus and students held a lecture in the marketplace ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58920592e4b00e3dfcd3029f", 
+            "title": "market wins national award", 
+            "text": [
+                "great news for loughborough market - it 's been crowned `` best large outdoor market '' at the british market of the year awards 2017", 
+                "i 've never been i think i might now ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58920480e4b0cb77c14e66ef", 
+            "title": "women given cameras to photograph food", 
+            "text": [
+                "professor paula griffiths from loughborough will be working in two ghanaian cities - accra and ho .", 
+                "she 'll give cameras to 32 women from poor communities and for one week they 'll be asked to take photos that `` reflect things about what they eat and drink '' .", 
+                "professor griffiths said : we want to capture the good things that already exist in their community , as well as the things that need to change to help people lead more healthy lives . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5892024be4b00e3dfcd30287", 
+            "title": "can photographs improve diet in ghana ?", 
+            "text": [
+                "i do n't know about you but i 'm always seeing photos of people 's meals on social media i 'm also guilty of posting food photos from time to time .", 
+                "well a professor from loughborough university is part of a research team over in ghana that is encouraging women to take photos of what they eat .", 
+                "it 's hoped this could help people to make more healthy choices about what they eat ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891f76fe4b03dfbbec2248e", 
+            "title": "housing challenges in the east midlands", 
+            "text": [
+                "struggling with your rent or mortgage ?", 
+                "looks like quite a few are in leicestershire .", 
+                "a study has found it 's becoming increasingly difficult to afford to rent or buy a home in the east midlands .", 
+                "the national housing federation has said wages are below the national average of \u00a3 26,000 here , with the average mortgage at \u00a3 43,000 ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891f525e4b03dfbbec2247f", 
+            "title": "family prepare to seek cancer treatment ouside the uk", 
+            "text": [
+                "the wife of a 44-year-old market harborough father-of-two with cancer is campaigning to raise \u00a3 10,000 to send him for special treatment abroad ."
+            ], 
+            "author": [
+                "Harborough Mail"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891df7ce4b03dfbbec2240b", 
+            "title": "extra trains for football match", 
+            "text": [
+                "east midlands trains is putting on additional services again next week for the leicester city v derby county replay .", 
+                "the match is on wednesday 8 february - there will be two extra trains :"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891d871e4b0cb77c14e65da", 
+            "title": "watch : apprentices trade on leicester market", 
+            "text": [
+                "the dunelm apprentice stalls are proving popular at leicester market", 
+                "they were at the wholesalers at 4:30 this morning getting their stock - .", 
+                "all in the hope of a place on dunelm 's graduate leadership programme ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891d3e4e4b00e3dfcd30169", 
+            "title": "rugby : england name women 's side", 
+            "text": [
+                "starts for leicestershire 's emily scarratt and amy cokayne - vicky fleetwood is amongst the replacements", 
+                "# redroses | your england women 's team to face france on saturday k.o 19:35 gmt , live on @ twitterid mix preview :", 
+                "that is a pretty formidable team !", 
+                "good luck ladies # thesegirlscan # smashthem"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891d0c9e4b0cb77c14e65ab", 
+            "title": "your comments : robbers caught on camera", 
+            "text": [
+                "on our facebook page you 've been taking about this cctv footage of robbers taking a woman 's handbag in new parks", 
+                "rob bainton said : `` these people are scum and hopefully the police can arrest them asap . ''", 
+                "neil andfred o'connell said : `` i hope you catch them .", 
+                "someone must recognize that motorcycle . ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891cebee4b00e3dfcd3014a", 
+            "title": "afternoon weather update", 
+            "text": [
+                "drier than this morning but hanging on to plenty of cloud this afternoon with scope for a few brighter spells .", 
+                "highs of 10c ( 50f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891cc38e4b0cb77c14e658a", 
+            "title": "your photos : cloudy in kegworth", 
+            "text": [
+                "thanks to scrappy for this photo from kegworth - it looks quite dull and cloudy"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891cb59e4b0cb77c14e6581", 
+            "title": "man charged following fatal crash", 
+            "text": [
+                "a man has been charged with causing death by dangerous driving following a crash on the m69 in leicestershire .", 
+                "a 55-year-old from bedworth is due in leicester magistrates ' court tomorrow where he also faces a charge of perverting the course of justice .", 
+                "the crash happened in may 2016 between j1 and j2 of the motorway .", 
+                "kerry pemberton from birmingham was taken to hospital but died from his injuries ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891c9a6e4b00e3dfcd3012e", 
+            "title": "foxes goal drought", 
+            "text": [
+                "it 's over seven hours of football since the foxes found the net in the top flight"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891c6cbe4b03dfbbec22367", 
+            "title": "rugby : tigers press conference", 
+            "text": [
+                "leicester tigers are to hold their pre-saracens press conference today - we 'll have all the key headlines on local live from midday ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891c49be4b00e3dfcd30114", 
+            "title": "background to mccann libel case", 
+            "text": [
+                "just to remind you about the mccann 's court case - they had sued ex-detective goncalo amaral for libel after he wrote a book suggesting the couple were involved in their daughter madeleine 's disappearance .", 
+                "mr amaral had been ordered to pay 500,000 euros in compensation to kate and gerry in 2015 but this was overturned following an appeal last year .", 
+                "the mccanns then took the case to portugal 's supreme court - we found out yesterday they had lost their case , with the judge ruling the allegations are protected by freedom of expression laws and were n't abusive ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891c264e4b0cb77c14e6543", 
+            "title": "mccanns 'extremely disappointed ' by court ruling", 
+            "text": [
+                "kate and gerry mccann have commented on the decision taken by portugal 's highest court to throw out their libel case against an ex-detective .", 
+                "the couple successfully sued goncalo amaral over allegations he made in a book about the disappearance of madeleine but the supreme court has now ruled against the mccanns .", 
+                "the rothley couple said : `` what we have been told by our lawyers is obviously extremely disappointing .", 
+                "it is eight years since we brought the action and in that time the landscape has dramatically changed .", 
+                "`` we will , of course , be discussing the implications of the supreme court ruling with our lawyers in due course . ''"
+            ], 
+            "author": [
+                "Press Association"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891b932e4b0cb77c14e6502", 
+            "title": "hundreds of applicants for dunelm graduate positions", 
+            "text": [
+                "baz patel is from dunelm - he said they 've been doing this leadership programme for the past two years and that it 's produced a good standard of graduates .", 
+                "they 've had to do a lot before even getting to this stage today .", 
+                "mr patel said : `` this year we had over 750 applicants and each of the 18 candidates we 've selected has been through a rigorous telephone interview , and a series of psychometric tests and a store insight evening held at our thurmaston store . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891b5e8e4b0cb77c14e64ee", 
+            "title": "choir singer looks back on royal visit", 
+            "text": [
+                "peglagea hungwe was part of the zimbabwe association choir that sang for the queen that day in march 2012", 
+                "radio leicester has been to reminisce with her .", 
+                "she said : `` she saw us and we were singing and dancing .", 
+                "she passed through us and went to the church with princess kate .", 
+                "i ca n't express the happiness that everybody had . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891b3a2e4b03dfbbec222fc", 
+            "title": "watch : taylor talks about heart condition", 
+            "text": [
+                "former leicestershire cricketer james taylor is backing a campaign by the british heart foundation to fund more research into faulty heart genes .", 
+                "here he is talking about his condition"
+            ], 
+            "author": [
+                "BBC Breakfast"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891b260e4b0cb77c14e64d9", 
+            "title": "watch : queen 's leicester visit in 2012", 
+            "text": [
+                "yesterday we found out the queen was returning to leicester - i 've had a dig through our archive and found this from the last time she was here .", 
+                "it was in 2012 at the start of her diamond jubilee tour"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891b059e4b00e3dfcd300bb", 
+            "title": "leicester mercury front page", 
+            "text": [
+                "today 's front page - read the lead story here ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5891abd6e4b0cb77c14e64af", 
+            "title": "latest leicestershire headlines", 
+            "text": [
+                "latest leicestershire headlines"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891a736e4b0cb77c14e6492", 
+            "title": "apprentices optimistic about market challenge", 
+            "text": [
+                "the prize for six of the apprentices is a place on dunelm 's graduate leadership scheme .", 
+                "on their way to the market contender sharon told bbc radio leicester : `` i 'm feeling excited , it should be really fun . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891a4cbe4b00e3dfcd30081", 
+            "title": "watch : young apprentices buy and sell fruit and veg", 
+            "text": [
+                "this was the apprentices working out there shopping list this morning - they had \u00a3 96 to spend on fruit and veg that will need to be sold for profit at leicester market", 
+                "the money they make will go to the charity home start ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58919f89e4b00e3dfcd30057", 
+            "title": "dunelm challenge potential apprentices", 
+            "text": [
+                "`` the apprentice '' is happening in leicester not the one with lord sugar but not too different .", 
+                "syston based dunelm have 18 hopefuls battling it out to win six places working at the company .", 
+                "they started at 4:30 this morning at the fruit and veg wholesalers ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58919a1fe4b03dfbbec22271", 
+            "title": "watch : east midlands weather outlook", 
+            "text": [
+                "watch : east midlands weather outlook"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58919939e4b03dfbbec2226b", 
+            "title": "leicester city sign mali defender on loan", 
+            "text": [
+                "leicester have signed mali international centre-back molla wague on loan for the rest of the season , with the option of a permanent deal .", 
+                "the 25-year-old joins from italian club udinese with the consent of his spanish parent club , granada cf ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58919696e4b00e3dfcd3001e", 
+            "title": "charity slams boxer 's england tour", 
+            "text": [
+                "boxer floyd mayweather 's `` very lucrative '' tour to england sends out the wrong message about domestic violence , charity women 's aid has said .", 
+                "the 39-year-old american athlete , who is visiting leicester , liverpool and london in march , was jailed for attacking his ex-girlfriend in 2012 ."
+            ], 
+            "author": [
+                "Calum McKenzie", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5891961ae4b03dfbbec22255", 
+            "title": "download announce more performers", 
+            "text": [
+                "creeper , a day to remember and steel panther , below , have been added to download 's line-up this year .", 
+                "they 're some of the latest 48 acts confirmed for the festival in june .", 
+                "biffy clyro , system of a down and aerosmith have already been announced as the headliners ."
+            ], 
+            "author": [
+                "BBC Newsbeat"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58919538e4b0cb77c14e6437", 
+            "title": "foxes struggling season so far", 
+            "text": [
+                "some stats to make foxes fan 's eyes water", 
+                "leicester have taken just 21 points from 23 games this season - the worst ever total at this stage of a campaign by a reigning top-flight title-winning club .", 
+                "they 've also failed to score in four consecutive league games for the first time since november 2014 ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58919433e4b00e3dfcd3000e", 
+            "title": "watch : ranieri claims vokes goal was a hand ball", 
+            "text": [
+                "foxes boss claudio ranieri said sam vokes handled the ball to score his goal"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58919337e4b0cb77c14e642c", 
+            "title": "burnley 1-0 leicester city", 
+            "text": [
+                "another away defeat for leicester city last night", 
+                "burnley secured their fifth consecutive home premier league win with victory over leicester at turf moor , thanks to sam vokes ' late goal ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_589192ace4b03dfbbec22241", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "hello leicestershire - well we 've made it through january !", 
+                "i 'll be looking after your local live page today with all the latest news , sport , weather and travel .", 
+                "if you 'd like to comment on any of the day 's stories you can send in an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

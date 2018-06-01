@@ -1,0 +1,3199 @@
+{
+    "blog_id": "d0e223cf7077893f235eb662166b298b2388c5ca", 
+    "title": "BBC Local Live: Updates from Northamptonshire - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-36984224", 
+    "summary": [
+        "police in northamptonshire say they have rescued 11 people from modern slavery so far this year .", 
+        "northampton borough council to push ahead with \u00a3 500k plan to claw back \u00a3 10.25 cobblers loan .", 
+        "three constituency labour parties vote to back jeremy corbyn in leadership election .", 
+        "cobblers sign winger emmanuel sonupe until the end of the season .", 
+        "weather : sunny and dry , peaking at 26c ( 79f ) .", 
+        "updates for friday , 12 august ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37085648", 
+            "title": "newton double century frustrates leics", 
+            "text": [
+                "newton double century frustrates leics"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1e525e4b0c801ee474ea0", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it from the northamptonshire live team on monday .", 
+                "we 'll be back from 08:00 tomorrow bringing you the news , sport , travel and weather updates as they happen .", 
+                "so have a good evening and enjoy the summer sunshine ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b1f101e4b0f50ea26eafcd", 
+            "title": "cricket : rob 's double century puts northants in position to declare", 
+            "text": [
+                "a double century by opener rob newton has put northants in a strong position as they declared on 397 for 7 in their first innings against leicestershire in the county championship ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1e457e4b0edc602d7ae1b", 
+            "title": "weather : a sunny end to the day - much of the same tomorrow", 
+            "text": [
+                "there 'll be plenty of sunshine to end the day and then a dry night with some isolated mist and fog patches .", 
+                "light winds and temperatures down to about 10c ( 50f ) .", 
+                "tomorrow will be another fine and dry day with plenty of sunshine .", 
+                "temperatures are expected to climb to about 23c ( 73f ) .", 
+                "it will be a few degrees cooler on the coast with an on-shore easterly wind , light to moderate in strength .", 
+                "you 'll find your local forecast at bbc weather ."
+            ], 
+            "author": [
+                "Julie Reinger", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1cdebe4b0de62bfc0edbe", 
+            "title": "seaside fun in the centre of kettering draws in thousands", 
+            "text": [
+                "the seaside .", 
+                "came to kettering in a heat wave - and proved a huge success with thousands flocking to a huge sandpit and splash fountain in the town centre .", 
+                "lesley thurland , the borough council 's head of community and culture , said : `` once again kettering by the sea has been a fantastic event , drawing thousands of people into the town centre for fun in the sun .", 
+                "`` for the families who did not travel abroad for the season , this free community event has been the ideal way to spend the summer holiday and we are extremely grateful for everyone who helped make it a memorable summer . ''"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b1d8cee4b0e64e2b43a16e", 
+            "title": "travel : accident shuts a509 at wollaston", 
+            "text": [
+                "an accident involving a car has closed the a509 road in wollaston and delays are being experienced between the york road junction and the b570 gypsy lane .", 
+                "motorists are advised to avoid the area .", 
+                "there are more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1cbb2e4b0c801ee474e8c", 
+            "title": "walkers injured after being knocked down by herd of cows", 
+            "text": [
+                "two walkers have been injured after being knocked over by a herd of cows in northamptonshire .", 
+                "the air ambulance says it has flown a woman with severe chest trauma to hospital in coventry .", 
+                "there are no other details on the condition of the other walker at present ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1ca1ce4b0bcc54410b10b", 
+            "title": "second track scheme on corby-kettering line to cost \u00a3 100m", 
+            "text": [
+                "network rail is to spend \u00a3 100m on laying a second track between corby and kettering as part of its upgrading programme for the midland main line .", 
+                "the company , with east midlands trains , has mounted an exhibition at corby railway station so passengers can find out more about the scheme .", 
+                "from 10 september to 24 october , the line will be closed for strengthening and upgrade work on key bridges and viaducts with a bus services replacing trains ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1c4d0e4b0c801ee474e80", 
+            "title": "the goal that defined dalian atkinson 's career", 
+            "text": [
+                "dalian atkinson , who died today after being tasered by police in telford , is best remembered for scoring the match of the day goal of the season in the 1992-93 campaign - the inaugural premier league season .", 
+                "then at aston villa , the former ipswich striker dribbled the ball from inside his own half before lobbing wimbledon keeper hans segers from the edge of the area ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "21:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1c0dce4b0b42116358661", 
+            "title": "cattle settle in valley-side pasture under almost clear skies", 
+            "text": [
+                "there are almost clear lunchtime skies at glapthorne near oundle , where a herd of cattle has settled into the valley side to relax in the warm sunshine .", 
+                "it 's the height of summer in the east northamptonshire countryside with fruit ripening and pasture at its most lush .", 
+                "the was taken today by bbc weatherwatcher ziggy 's wood ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37086465", 
+            "title": "saints sign argentina centre estelles", 
+            "text": [
+                "saints sign argentina centre estelles"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b1b1c5e4b0e64e2b43a13b", 
+            "title": "development agencies join forces following government sign-off", 
+            "text": [
+                "a merger has taken place between two of the agencies which look after the development of northamptonshire .", 
+                "the government has approved the deal between the northamptonshire enterprise partnership and the south east midlands enterprise partnership .", 
+                "we 'll try to explain exactly what that means for people later on hold on to your hats !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1ae5ee4b0edc602d7adf7", 
+            "title": "weather : fine and clear , but cloudy overnight", 
+            "text": [
+                "this evening will be fine and clear .", 
+                "overnight , although cool , it will stay dry as cloud fills in from the east .", 
+                "maximum temperature : 22c ( 75f ) ."
+            ], 
+            "author": [
+                "Georgina Burnett", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1ab4fe4b0f50ea26eaf85", 
+            "title": "legends day at northamptonleicestershire 519 v northamptonshire 211-5", 
+            "text": [
+                "`` it 's a perfect summer 's day at wantage road and there 's good atmosphere in the ground with northants legends here for former players ' day .", 
+                "plenty of autograph hunters are around with most of the 1976 gillette cup-winning side around - the first silverware won by northants as a first-class county .", 
+                "`` the 2016 crop are trying to show the old boys their character as they try to battle back into the game .", 
+                "adam rossington fell for a skittish 26 , but rob newton remains obdurate and has saif zaib , surviving some leg theory , for company . ''"
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1a1e2e4b0e270ff1d5811", 
+            "title": "life-changing experience of judy after she moved to growing corby 10 years ago", 
+            "text": [
+                "moving to corby can bring life-changing benefits , according to judy caine , who moved to the town 10 years ago and became borough mayor in 2013 .", 
+                "corby is the fastest expanding town in england and is predicted to grow to a population of 76,000 by 2024 .", 
+                "ms caine said : `` i will have nothing said against the town .", 
+                "it 's phenomenal and the commitment of the people to make it work after the steelworks closed in the 1980s makes it a wonderful place to be . ''"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "19:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b19349e4b0e270ff1d57ff", 
+            "title": "transformation of corby attracting new growth and more people", 
+            "text": [
+                "ten years ago or so i was in corby town centre on a damp november evening and i remember thinking how depressing it was .", 
+                "but if you look around the same place now it is transformed with new shops , the striking cube building complete with theatre and library , an international sized swimming pool and a cinema .", 
+                "a lot of effort has been put into regenerating corby since the steel-works closed in 1980 , with new companies , jobs and housing .", 
+                "six years ago corby was britain 's fastest growing town - and it seems set to keep that accolade .", 
+                "population projections suggest 6 % will come here due to natural growth - that 's more babies being born - 5 % from people moving from other countries and 5.5 % from people moving from elsewhere in britain .", 
+                "in the 1930s steelworkers from scotland transformed the small village into a town of 12,000 people by the outbreak of the second world war .", 
+                "at the last census its population was 61,000 - by 2024 it 's likely to be 76,000 ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b18f90e4b00302e2a8cfea", 
+            "title": "reckless driver ploughs car into house in northampton then saunters back to grab his mobile phone", 
+            "text": [
+                "a shameless joyrider fled the scene after ploughing his car into the front of a house in northampton , only to return minutes later to collect the mobile phone he left in the stricken vehicle ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b18329e4b0edc602d7add3", 
+            "title": "council prepares for corby 's 17 % population growth by 2024", 
+            "text": [
+                "the population of corby is set to grow by 17 % up to 2024 with 76,000 people predicted to make the town their home .", 
+                "borough council leaders tom beattie said the increase will bring pressure on schools , health services and housing .", 
+                "`` we 've managed growth to date and know the challenges it brings for regeneration , new jobs and facilities , '' he said ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b16ebee4b0e270ff1d57e0", 
+            "title": "corby 's population set to reach 76,000 by 2024", 
+            "text": [
+                "corby was a small village in the 1930s when a boom time began thanks to the steelworks and the population rose to 12,000 by the world war two as families flocked there from scotland for work .", 
+                "now the population is set to reach 76,000 by 2024 as people move to the town from elsewhere and more babies are born to current residents , according to predictions by the national office of statistics ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57b16bb3e4b0b42116358615", 
+            "title": "travel : m1 southbound congestion", 
+            "text": [
+                "congestion on the southbound m1 between j15 for collingtree and j14 for buckingham because of heavier than usual traffic which is slow moving .", 
+                "also heavy traffic is causing some congestion on a43 south of towcester .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b16715e4b0f8bd3f657c6b", 
+            "title": "welcome to local live news for northamptonshire", 
+            "text": [
+                "good morning and welcome to northamptonshire live .", 
+                "we 'll be bringing you the latest news , sport , weather and travel for the county from now until 18:00 .", 
+                "corby is set to be one of the fastest growing towns in britain over the next eight years according to the office for national statistics so we 'll be looking at what that will mean ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57b1683ee4b0edc602d7adb9", 
+            "title": "weather : dry and fine with some sunshine", 
+            "text": [
+                "after a cool start with almost clear skies it will be warm and dry with sunshine for most .", 
+                "our taken this morning at pattishall in the south of the county promises a bright day but some patchy cloud could develop while still it will still feel pleasant in the frequent sunny spells .", 
+                "maximum temperature : 22c ( 72f )"
+            ], 
+            "author": [
+                "Georgina Burnett", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37071264", 
+            "title": "eckersley hits third successive century", 
+            "text": [
+                "eckersley hits third successive century"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37070112", 
+            "title": "cosgrove & pettini hit tons at northants", 
+            "text": [
+                "cosgrove & pettini hit tons at northants"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36994844", 
+            "title": "charlton athletic 1-1 northampton town", 
+            "text": [
+                "charlton athletic 1-1 northampton town"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adf9abe4b0de62bfc0ebae", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it for our regular updates for today .", 
+                "any major new stories will be posted here over the weekend .", 
+                "we 'll be back at 08:00 on monday with more news , sport , travel and weather from the county .", 
+                "have a good evening ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adf36de4b0312621ab41c5", 
+            "title": "weather : mainly dry with clear spells tonight", 
+            "text": [
+                "staying mainly dry with clear spells this evening , but it will turn increasingly cloudy with an odd spot of light rain possible as it dips to about 14c ( 57f ) .", 
+                "a rather cloudy saturday with the small chance of light rain , but most places will stay dry and the cloud will break to allow for some bright or sunny spells .", 
+                "maximum temperature : 24c ( 75f ) .", 
+                "get your local forecast from bbc weather ."
+            ], 
+            "author": [
+                "Chris Bell", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adf4cee4b0e64e2b439f27", 
+            "title": "raunds man leads fights against the 'inglorious 12th '", 
+            "text": [
+                "a man from raunds who started a petition to ban grouse shooting says it 's almost got enough signatures to force a parliamentary debate .", 
+                "the `` glorious 12th '' of august is traditionally the start of the shooting season and the countryside alliance says the sport is good for conservation and the economy .", 
+                "but dr mark avery , who used to work for the rspb , says it 's contributing to a rapid fall in the number of hen harriers , an endangered species of raptors .", 
+                "he also claims practices such as the burning of vegetation on grouse moors are damaging the environment .", 
+                "the petition he started with the tv presenter chris packham now has 92,000 signatures and only needs another 8,000 to get the issue on the parliamentary agenda .", 
+                "grouse moors do n't work for nature and they do n't work in terms of environmental sustainability .", 
+                "that 's why we 're asking the government to ban grouse shooting . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adf896e4b0e64e2b439f2c", 
+            "title": "owen smith : 'jeremy is not the only socialist in the labour party '", 
+            "text": [
+                "the labour leadership candidate , owen smith , has been in corby this afternoon on the day judges ruled that more than 100,000 members can be excluded from the election .", 
+                "the party 's ruling body , the nec , won its appeal court battle to stop people who have joined since mid-january from deciding between mr smith and jeremy corbyn .", 
+                "mr smith went to corby 's urgent care centre and met local party members during today 's visit .", 
+                "he told me : `` jeremy is not the only guardian of labour values ; there are many of us who want a radical left-wing labour government .", 
+                "i 'm still confident i can persuade enough members , young and old , to vote for me . ''", 
+                "three labour constituency parties in the county have voted to endorse mr corbyn , but their vote does n't count towards the final result ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57addec2e4b0bcc54410aebe", 
+            "title": "kettering cemetery to be closed earlier to 'stop people camping '", 
+            "text": [
+                "officials in kettering have introduced new restrictions following reports of people camping overnight at the cemetery .", 
+                "kettering cemetery gates to be locked earlier to stop people camping there"
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57adc241e4b054e2355a6e29", 
+            "title": "seventy years of towcester history comes to an end", 
+            "text": [
+                "payne 's nurseries has been a familiar sight for anyone travelling into towcester from the north since 1945 .", 
+                "originally , it concentrated on supplying tomatoes and cucumbers for local markets , but its flowers became more popular over the years , eventually becoming the most important part of its business .", 
+                "the nursery hit the headlines in 1998 , when it ended up under 3ft ( 1m ) feet of floodwater during the notorious easter floods , but still managed to open its doors the morning after .", 
+                "tomorrow sees the last day of trading .", 
+                "ian morgan , who runs the nursery with his brother paul , says recent developments in the town have reduced the number of customers .", 
+                "`` on the a5 , it 's becoming a nightmare , and , with the council building their new offices with no parking , people just do n't want to fight their way through traffic to find there 's nowhere to park , '' he said .", 
+                "mr morgan has thanked all his customers for their support and says that , once he 's emptied the till for the last time on saturday , he 'll look forward to a lie-in on sunday ."
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57adb04de4b0e6d175247dc0", 
+            "title": "lead stolen from lubenham church", 
+            "text": [
+                "thieves attempting to strip lead from the roof of a harborough village church seem to have fled after an alarm went off ."
+            ], 
+            "author": [
+                "Harborough Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adc722e4b0f50ea26ead81", 
+            "title": "weather update : becoming cloudy overnight", 
+            "text": [
+                "thanks to bbc weather watcher 'cathamesdog ' for this view taken in weedon bec , near daventry , where the temperature was 19c ( 66f ) .", 
+                "after a fine and dry evening for many across northamptonshire it will become increasingly cloudy overnight , with a little rain or drizzle developing by morning and a minimum overnight of 15c ( 59f ) .", 
+                "get more details on the forecast where you live from bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adeacee4b0bcc54410aecb", 
+            "title": "owen smith responds to leadership vote ruling during corby visit", 
+            "text": [
+                "labour leadership candidate owen smith , who 's been in corby this afternoon , says today 's court ruling on voting rights does n't change anything for him .", 
+                "the court of appeal has ruled that labour 's ruling body , the nec , can stop new members voting in the forthcoming leadership election .", 
+                "more than 100,000 people who have joined the party since mid-january wo n't be able to take part in the ballot .", 
+                "mr smith , who is challenging jeremy corbyn for the leadership , visited corby 's urgent care centre and met local labour party members .", 
+                "he said : `` i still have to get around the country and persuade all of those members , young and old , to help save the labour party .", 
+                "`` everybody in the labour party knows we desperately need a labour government , but we 've got to win in places like corby . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ada564e4b0ae75fecaa305", 
+            "title": "public urged to look out for 'slave ' workers", 
+            "text": [
+                "people in northamptonshire are being urged to look out for signs that workers are being used as modern `` slaves ''", 
+                "eleven people have been rescued from conditions of modern slavery in northamptonshire alone so far this year .", 
+                "det sgt ashley turner from northamptonshire police said exploitation could be happening anywhere in the county in a huge variety of environments , including food factories and car washes .", 
+                "`` we 've been on certain car wash sites in the county where they 're not provided with the correct materials or clothing ; they 're working 12-hour days for \u00a3 2.50 an hour which , in today 's world , is just not acceptable , '' he said .", 
+                "signs of exploitation include staff looking unhappy , unclean or over-worked ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adcdc1e4b0e64e2b439ef7", 
+            "title": "curtain up at the castle", 
+            "text": [
+                "politicians in wellingborough have welcomed news that the town 's theatre will reopen next week .", 
+                "the lights went out in june after the council terminated its contract with the charity that ran the venue .", 
+                "a theatre management specialist has been brought in to get it up and running again .", 
+                "the leader of the opposition on the borough council , labour 's andrew scarborough , said : `` i join all members in supporting its opening .", 
+                "`` the venue is an invaluable asset for the cultural well-being of wellingborough and we look forward to working with all involved as the venue moves forward . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adb134e4b08e5f89b57178", 
+            "title": "wellingborough theatre to re-open next week", 
+            "text": [
+                "wellingborough castle theatre , which closed in june , will re-open next week .", 
+                "the borough council terminated its contract with the charity that ran the venue in march and the curtain fell two months later .", 
+                "now , the council has appointed a theatre management specialist to get the venue up and running and make it available for local groups to hire .", 
+                "some touring performances have also been scheduled , including snow white on ice at christmas .", 
+                "the council says it has received an `` extraordinary '' number of approaches of support from the local community since march .", 
+                "i urge customers and users to support the venue as the council moves it forward into a new and exciting phase . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adcf5ce4b0f50ea26ead87", 
+            "title": "labour leadership candidate visits corby", 
+            "text": [
+                "owen smith , who is challenging jeremy corbyn for the labour leadership , has arrived in corby on the campaign trail .", 
+                "he 's visiting the town 's urgent care centre and meeting prominent local party members and health staff .", 
+                "constituency parties in northampton , south northamptonshire and wellingborough have voted this week to support mr corbyn , although their selections do n't count towards the final outcome ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "22:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adc8a8e4b0e64e2b439ef1", 
+            "title": "more on cobblers ' new signing", 
+            "text": [
+                "as we reported earlier , northampton town have signed the winger emmanuel sonupe until the end of the season .", 
+                "he 's spent most of the pre-season period with the cobblers after being released by tottenham in june .", 
+                "the 20-year-old is the 12th player to be signed by the northampton manager , rob page , and is available for tomorrow 's league one fixture against charlton ."
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad946de4b0548bc75e2da1", 
+            "title": "labour member : jeremy corbyn has 'principles and integrity '", 
+            "text": [
+                "as we mentioned earlier , three of northamptonshire 's constituency associations have thrown their weight behind jeremy corbyn in labour 's leadership contest .", 
+                "the votes in northampton , south northamptonshire and wellingborough wo n't count towards the final result , but they provide some indication of the way local members feel .", 
+                "anjona roy ( a party member in northampton , voted for mr corbyn , saying : `` people i speak to say jeremy is a complete breath of fresh air in politics .", 
+                "he 's a man with principles and integrity . ''", 
+                "people want honest , straight-talking politics - people who look you in the eye and tell you exactly what they think . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ada289e4b016f411903793", 
+            "title": "modern slavery victims in 'living hell '", 
+            "text": [
+                "the woman in charge of the salvation army 's anti-trafficking and modern slavery unit has told me the `` onus is on all of us to keep an eye out '' for workers who might be being exploited illegally .", 
+                "anne reid spoke to me earlier as it was revealed that 11 people have been rescued from conditions of modern slavery in northamptonshire this year .", 
+                "the salvation army supports all trafficking victims across the country , through a network of safe houses - and maj reid told me the victims can be `` highly traumatised '' by the `` living hell '' of their trapped and exploited existence ."
+            ], 
+            "author": [
+                "Stuart Linnell", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57adb5bce4b0de62bfc0eb62", 
+            "title": "the joy of growing whoppers", 
+            "text": [
+                "a celebration of glorious flowers , fruit and veg is taking place tomorrow in titchmarsh , near thrapston .", 
+                "it 's the 40th annual produce show at the village church and dozens of locals have spent months lovingly tending their garden goodies .", 
+                "brian `` jet '' jeffries is hoping his massive marrow will catch the judges ' eye .", 
+                "if you look at the old marrow now , he looks like a crocodile , do n't he ?", 
+                "it 's the ugliest thing you could ever see . ''"
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57adb2c6e4b0639a68d8c353", 
+            "title": "heatwave next week ?", 
+            "text": [
+                "heatwave next week ?", 
+                "well , these are the 'most likely ' max temps - still a few days away so may be adjusted by 1-2c :", 
+                "no heatwave , just a brief spell of some very warm weather : )", 
+                "yep , exactly", 
+                "so just about 5c above average on one day ?", 
+                "more-or-less .", 
+                "at this range going to be uncertainty over cloud/rain affecting temps .", 
+                "might squeeze 2days", 
+                "heatwave ?", 
+                "seems more of a little nod , rather than a wave : p", 
+                "yep !", 
+                "for some places would n't be surprised to see today being the warmest out of the entire week !", 
+                "haha yes , could easily see coastal parts of east anglia being warmer today before the se'ly sets in", 
+                "any figures for coastal towns in the region .", 
+                "cooler of course with the breeze ?", 
+                "yes , quite a strong se'ly so most coastal areas will be nearer the values of norwich/ipswich in general", 
+                "thank you .", 
+                "what about friday ?", 
+                "well that 's so far away ( 8 days ) it 'll have limited use , but for what it 's worth current data gives 22-23c .", 
+                "that 'll do for me .", 
+                "thanks", 
+                "@ twitterid weather stops at northampton ?", 
+                "what is the definition for a heatwave in the uk ?", 
+                "in holland you have 5 days .", 
+                "all 25+ and 3 days 30+"
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad9052e4b0ba91fec1fa78", 
+            "title": "local labour members back corbyn", 
+            "text": [
+                "labour party members in wellingborough , northampton and south northamptonshire have all voted to back jeremy corbyn in the party 's forthcoming leadership election .", 
+                "they have made their choices at local meetings held this week but their decisions do not count towards the final result .", 
+                "some of the party 's leading members in the area have expressed their support for mr corbyn 's opponent , owen smith , who will be speaking in corby later .", 
+                "vicky culbard , a northampton borough councillor , says mr smith has come up with strong policies to take the party into the next election ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "19:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad90b2e4b0a1c6cff1ea21", 
+            "title": "council leader confident plan to claw back \u00a3 10.25m cobblers loan will work", 
+            "text": [
+                "mary markham , the leader of northampton borough council , says she stands by her commitment to the people of the town to `` pursue the people responsible for mishandling \u00a3 10.25m of tax payers ' money '' , loaned to northampton town fc .", 
+                "the conservative councillor spoke to me after the council 's scrutiny meeting last night , which approved a plan to put aside a further \u00a3 500,000 of council reserves to chase up the missing money in addition to \u00a3 450,000 already spent on the council 's claw-back plan .", 
+                "labour councillors had opposed the move - but mrs markham told me : `` yes , i am confident that we will recoup the full \u00a3 10.25m and i hope to realise maybe a bit more through the development of the sixfields land . ''"
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37059215", 
+            "title": "northampton sign winger sonupe", 
+            "text": [
+                "northampton sign winger sonupe"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad8f56e4b04616e16dcea7", 
+            "title": "council 's \u00a3 10.25m cobblers loan claw-back plan condemned as 'good money after bad debt '", 
+            "text": [
+                "northampton borough council 's plan to set aside hundreds of thousands more pounds in its bid to get back the \u00a3 10.25m loaned to northampton town fc has been condemned by labour councillors .", 
+                "headlands ward councillor arthur mccutcheon told me he questioned if it was `` worthwhile sending more good money after money that is probably going to be a bad debt '' .", 
+                "at last night 's scrutiny committee meeting , the conservative administration agreed to spend a further \u00a3 500,000 of council reserves to chase the cash , despite labour councillors challenging the decision - having already spent \u00a3 450,000 on the claw-back plan ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad84d2e4b02cde2b9a64d4", 
+            "title": "council to push ahead with plan to claw back \u00a3 10.25m cobblers loan", 
+            "text": [
+                "northampton borough council 's conservative administration has agreed to set aside a further \u00a3 500,000 to try to retrieve millions of pounds of missing public money loaned to northampton town fc .", 
+                "the council has spent \u00a3 450,000 already in its bid to get back the \u00a3 10.25m loaned to the cobblers to redevelop the sixfields stadium .", 
+                "labour councillors had challenged the decision to use a further \u00a3 500,000 from council reserves to chase the cash - but last night a scrutiny committee decided the administration could carry on with its plans .", 
+                "not that i was allowed in to hear the debate - i spent the evening waiting around in a corridor to hear the result ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad7b3fe4b044b37d09fc43", 
+            "title": "police rescue 11 people from modern slavery", 
+            "text": [
+                "it has been revealed that 11 people have been rescued from conditions of modern slavery in northamptonshire so far this year .", 
+                "police want to hear from anyone who suspects a business could be exploiting workers illegally .", 
+                "det sgt ash turner said modern slavery has been seen around the country in manual labour sites and food distribution factories , but it can `` happen everywhere '' and is often `` hidden in plain sight '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad6acce4b02cde2b9a64c0", 
+            "title": "friday 's weather : dry , sunny and warm", 
+            "text": [
+                "any early cloud will soon clear leaving plenty of sunshine during the day , although there may be some high cloud at times .", 
+                "top temperature : 26c ( 79f ) .", 
+                "watch my regional forecast :", 
+                "cloud will thicken overnight , but it should remain dry for most .", 
+                "lows of 15c ( 59f ) .", 
+                "you can get a more detailed forecast from bbc weather ."
+            ], 
+            "author": [
+                "Alina Jenkins", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ad7540e4b0d389b0edbe72", 
+            "title": "welcome to northamptonshire live", 
+            "text": [
+                "thanks for joining us for another day of live news , sport , weather and travel updates for the county .", 
+                "in the news this morning - it 's been revealed 11 people have been rescued from conditions of modern slavery in northamptonshire so far this year .", 
+                "we 'll bring you more on this soon .", 
+                "if you want to get in touch , email us , send us a tweet or message us on facebook ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37051461", 
+            "title": "t20 finals day semi-final draw made", 
+            "text": [
+                "t20 finals day semi-final draw made"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aca8dee4b016f411903717", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it for our regular live updates until 08:00 tomorrow , but any major new stories will be posted here overnight .", 
+                "tomorrow we reveal the extent of modern slavery in northamptonshire , we 'll have more on our local competitor in the olympic sailing and we 'd love to get your reaction to everything that 's happening in rio .", 
+                "have a good evening .", 
+                "going to watch the men 's 100m final ?", 
+                "see how you can get involved in our # rio2016 coverage", 
+                "not sure if olym or dab"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aca495e4b0b0b457f518af", 
+            "title": "weather : a dry night ahead", 
+            "text": [
+                "it should stay dry overnight but rather cloudy in light to moderate winds with temperatures 14-16c ( 57-61f ) .", 
+                "tomorrow will be a dry day with any early cloudy thinning and breaking to bring long spells of sunshine .", 
+                "turning cloudy from the west later in the day with highs of 25-27c ( 77-81f ) .", 
+                "get more on the forecast where you live from bbc weather ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aca797e4b04616e16dce40", 
+            "title": "saints lock courtney lawes says he 's confident his ankle surgery will 'pay dividends '", 
+            "text": [
+                "to a different type of agility and courtney lawes , who 's been struggling with an ankle injury for the last three years , has told the bbc that an operation carried out during the summer break seems to have been a success .", 
+                "he damaged his foot during a six nations game against scotland and it 's been troubling him ever since .", 
+                "previous attempts to rectify the problem have not been completely successful .", 
+                "he 's also been fighting pain in his shoulder..", 
+                "he says he 's been spending the break getting his body back `` into really good nick '' .", 
+                "northampton saints have their first pre-season match this weekend - they 're in france to face castres on saturday afternoon .", 
+                "the operation during the summer was the right decision , the right timing and i 'm sure it 's going to pay dividends going into this season . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac9a2be4b04616e16dce36", 
+            "title": "rescued dog bids for agility glory", 
+            "text": [
+                "when sam leakey , from wellingborough , first saw zola his owner was trying to sell him on the street for \u00a3 20 .", 
+                "she rescued him , made sure he was n't lost or stolen and then adopted him .", 
+                "sam has n't looked back .", 
+                "over the next few days , zola will be competing alongside nearly 3,000 other dogs in the world 's biggest agility festival of its kind at rockingham castle near corby .", 
+                "more than 200 hundred classes will be judged in 16 showrings ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac82ade4b044b37d09fbb0", 
+            "title": "workers in northampton urged to leave their cars at home to tackle pollution", 
+            "text": [
+                "politicians in northampton say workers should help tackle pollution by cycling or walking to work .", 
+                "northampton borough council 's latest strategy to cut pollutants in the worst-affected parts of the borough stops short of a ban on high-emission vehicles .", 
+                "but it says people should be encouraged to buy cleaner vehicles or find alternatives ways of getting to work .", 
+                "i challenged a group of staff at spacevac on the rothersthorpe industrial estate to leave their cars in the garage this morning .", 
+                "billy accepted the challenge and told me that his four-mile journey normally takes about 15 minutes by car but it took a `` horrifying '' 55 minutes on foot this morning .", 
+                "suzanne planned to get to work by bus , but discovered that it would have involved a 05:00 start and a three-hour journey on three different vehicles .", 
+                "ryan told me that he could n't use a bus because he drove a company van to make deliveries , so it was n't possible to use an alternative means of transport .", 
+                "my experiment suggested that , for many people , the car is the only practical method of getting to work ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton politics reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac8dd3e4b04616e16dce2b", 
+            "title": "northampton prisoner found hanging in milton keynes prison cell", 
+            "text": [
+                "an inquest has been opened at milton keynes coroners ' court into the death of daniel dunkley , 35 , from northampton .", 
+                "he was found hanging in a prison cell last month and died in hospital on 2 august .", 
+                "the hearing has been adjourned until next april .", 
+                "another prisoner has died at woodhill"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ac8797e4b0d389b0edbe01", 
+            "title": "tractor overturns in northamptonshire village", 
+            "text": [
+                "motorists are being urged to avoid the main road through rockingham , near corby , after a tractor and its trailer came to grief across the carriageway .", 
+                "there 's been an argument between a tractor , it 's trailer and the road .", 
+                "please avoid main street , rockingham .", 
+                "er who won the argument", 
+                "the road", 
+                "did it swerve to avoid the smiling policeman ?", 
+                "he is trained to say `` cheese ''", 
+                "that 's an angry looking trailer # trailertantrums", 
+                "@ twitterid @ twitterid just over the rutland border a6003"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ac766ee4b0b0b457f5187c", 
+            "title": "in the papers : distribution jobs could go and more", 
+            "text": [
+                "here is a selection of the stories making the pages of our local newspapers today :"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ac6f76e4b02cde2b9a6429", 
+            "title": "our stories so far today on northamptonshire live", 
+            "text": [
+                "if you 're just joining us , here 's a summary of our main stories so far today :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac52e5e4b0620225dfb81a", 
+            "title": "weather update : turning dry with sunny periods", 
+            "text": [
+                "thanks to bbc weather watcher 'nisha'for this view from wellingborough earlier , where she recorded cloudy skies and a temperature of 16c ( 61f ) .", 
+                "it will dry up this afternoon with sunny periods developing , especially in the south where it will feel warm .", 
+                "there will be a keen westerly breeze and a high of 20c ( 68f ) .", 
+                "get more details on the forecast where you live from bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac61e6e4b0620225dfb82b", 
+            "title": "sport : cobblers to face premiership team in league cup", 
+            "text": [
+                "the draw 's been made for the second round of the league cup and northampton town will face west bromwich albion .", 
+                "the game will be played at sixfields during the week commencing 22 august .", 
+                "the cobblers beat barnsley 2-1 in the first round on tuesday night ."
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac583ce4b02114e29c0d3d", 
+            "title": "perseid meteors : just look up for a spectacular show tonight", 
+            "text": [
+                "astronomers in northamptonshire are predicting a bumper show of shooting stars tonight .", 
+                "the annual perseid meteor shower is due to take place as the earth passes through a debris field left by the swift-tuttle comet .", 
+                "experts say this year 's display could be twice or three times as spectacular as usual .", 
+                "dusko novakovic , from the northamptonshire natural history society , says there 's no need for special equipment to see the phenomenon - all you need is something to sit on and a way of keeping warm .", 
+                "if you get any photos , we 'd love to see them .", 
+                "get in touch by email or facebook .", 
+                "get a sunlounger and a blanket , look up , face northwards and just wait for them to whizz across the sky . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac4844e4b0ba91fec1f990", 
+            "title": "students say 'inadequate ' college is 'too relaxed '", 
+            "text": [
+                "students have told the bbc that teaching at tresham college , which has campuses in corby , kettering and wellingborough , is not strict enough and `` they would n't chase you up '' if you did n't do enough work .", 
+                "the latest report from ofsted inspectors has rated the college as inadequate , citing concerns about management and teaching .", 
+                "the principal says some of the judgements are unfair and he plans to challenge them .", 
+                "heather and siona , who are studying a-levels at the institution , told bbc radio northampton they enjoy the `` comfortable environment '' at the college , but they need more support and communications from their teachers .", 
+                "they did n't chase you up when you did n't do the work , which made a lot of students fall behind . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ac497ce4b0d389b0edbdc4", 
+            "title": "fire on industrial estate in daventry", 
+            "text": [
+                "fire fighters called out to industrial unit in daventry this morning"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac42d7e4b0b0b457f51846", 
+            "title": "decision to spend \u00a3 500k chasing cobblers ' \u00a3 10m loan challenged", 
+            "text": [
+                "opposition politicians in northampton have secured a review into the decision to spend up to \u00a3 500,000 to recover a multi-million pound loan to northampton town football club .", 
+                "the money was supposed to fund a stadium redevelopment project but it 's thought it may have been used to finance other schemes .", 
+                "a criminal inquiry is already under way into `` alleged financial irregularities '' .", 
+                "northampton borough council 's cabinet decided to transfer up to \u00a3 500,000 from reserves to pay professional fees connected with the recovery of the loan money .", 
+                "however , a panel will meet tonight to reconsider that decision amid concerns that councillors did n't have enough information when they discussed it ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac32a7e4b0ae75fecaa1ff", 
+            "title": "council defend pollution plans for northampton", 
+            "text": [
+                "the northampton borough councillor responsible for the environment has defended the authority 's plans to tackle air pollution in the town .", 
+                "the council 's new draft strategy rejects a ban on higher-polluting vehicles in part of northampton but says it will encourage the use of low-emission vehicles , as well as walking and cycling .", 
+                "alan botwood says they take the issue very seriously but there are practical problems when it comes to dealing with it : `` with any type of low-emission strategy you 've got to rely on a lot of other people to work with you , '' he said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac2c6de4b0ba91fec1f977", 
+            "title": "first ever pride event in wellingborough this weekend", 
+            "text": [
+                "a northamptonshire town will be having its first ever pride event this weekend .", 
+                "wellingborough 's lgbt alliance has organised the pride which will be taking place from midday until 16:00 at the castle fields park in the town ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac2493e4b0a1c6cff1e922", 
+            "title": "council 's \u00a3 500k to chase cobblers cash under scrutiny", 
+            "text": [
+                "northampton borough council 's decision to set aside \u00a3 500,000 to attempt to recover the \u00a3 10.25m it loaned to northampton town fc will be looked at again tonight .", 
+                "the ruling conservatives approved taking the money from reserves last month but labour have forced a scrutiny panel to consider the issue .", 
+                "the panel could decide to go along with the decision or ask for it to be re-examined ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ac2710e4b0620225dfb7f7", 
+            "title": "travel : dog causing delays in isham", 
+            "text": [
+                "there are delays on the a509 kettering road in isham in both directions around station road due to a dog on the road .", 
+                "motorists are being asked to approach with care ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac20b4e4b0b0b457f51823", 
+            "title": "yelvertoft motocross track decision deferred", 
+            "text": [
+                "a decision on plans for a motocross circuit near the village of yelvertoft has been deferred .", 
+                "daventry district council 's planning committee met last night and members said they wanted to see the results of an independent noise assessment .", 
+                "they also said they would like to visit the site themselves .", 
+                "people living nearby have claimed their village 's way of life would be threatened by the development ."
+            ], 
+            "author": [
+                "Andrew Radd", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac1c59e4b044b37d09fb36", 
+            "title": "weather : damp start should clear", 
+            "text": [
+                "it will be a cloudy and damp start to the day .", 
+                "however , the cloud and patchy rain will gradually clear to the east and allow some dry and sunny spells to develop .", 
+                "maximum temperature : 21c ( 70f ) .", 
+                "get a more detailed forecast for where you live with bbc weather here ."
+            ], 
+            "author": [
+                "Georgina Burnett", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ac1f50e4b02cde2b9a63d2", 
+            "title": "welcome back", 
+            "text": [
+                "good morning and welcome to northamptonshire live .", 
+                "we 'll be bringing you the latest news , sport , weather and travel for the county from now until 18:00 .", 
+                "let 's start off with a bit of weather and then very shortly we 'll bring you the latest on the controversial motorcycle track in yelvertoft - the decision has been deferred ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab5675e4b04616e16dcd6a", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it for our regular live updates until 08:00 tomorrow , but any major new stories will be posted here overnight .", 
+                "on thursday we 'll have the latest on plans to cut pollution in northampton and find out whether a controversial motorcycle track in yelvertoft gets the go-ahead .", 
+                "have a good evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab5146e4b016f4119035ff", 
+            "title": "weather : mild night ahead and breezy later", 
+            "text": [
+                "gradually turning cloudy with outbreaks of rain later this evening and overnight .", 
+                "feeling milder than last night and turning breezy later with winds a light variable and lows of around 12c ( 54f ) .", 
+                "thursday will be a cloudy and damp start to the day with some outbreaks of rain .", 
+                "brightening up later with sunny spells .", 
+                "expect highs of around 21c ( 70f ) .", 
+                "get the latest forecast where you live from bbc weather ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab4faae4b0a1c6cff1e8ce", 
+            "title": "silverstone circuit boss 'suspended ' over links to takeover bidder", 
+            "text": [
+                "reports suggest that patrick allen , the managing director of silverstone circuits , has been suspended by the british racing drivers club ( brdc ) .", 
+                "the brdc , which owns the venue , has confirmed to the bbc that mr allen is on leave of absence but would give no further details .", 
+                "the motorsport journalist , christian sylt , told the bbc that the suspension results from mr allen 's association with lawrence tomlinson , who 's behind a bid to take over silverstone .", 
+                "a rival bid by jaguar land rover has run into difficulties over restrictions on use of the circuit .", 
+                "patrick allen was brought in to run the british grand prix venue in 2014 after his predecessor , richard phillips , was suspended and then left the company .", 
+                "patrick is widely credited with turning silverstone around financially , so it 's extraordinary that he 's been suspended . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab4687e4b02114e29c0ca2", 
+            "title": "paralympic dream for eight-year-old boy with new arm", 
+            "text": [
+                "william joyner , from towcester in northamptonshire , is hoping he 'll be able to play football in the british paralympic team one day thanks , in part , to his new prosthetic arm developed by a team in bedfordshire .", 
+                "his mum jo says : `` that will really help him , especially with his football .", 
+                "`` it will help build his confidence and strengthen his left side , because as the moment he does n't use it much .", 
+                "`` instead of people feeling sorry for him because of his hand , now they will be really impressed by his new one . ''", 
+                "the hand was developed by senior lecturer david jazani and technician mark hooper at the university of bedfordshire ."
+            ], 
+            "author": [
+                "John Hudson", 
+                "BBC Berkshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab4076e4b0a1c6cff1e8be", 
+            "title": "watch : boy tries out new 3d arm for the first time", 
+            "text": [
+                "very soon , william joyner from towcester , will be able to take his brand new prosthetic arm home .", 
+                "yesterday he went to a special fitting at the university of bedfordshire where the team there had made and developed the 3d arm .", 
+                "this is how he got on .", 
+                "he will take it home as soon as some adjustments are made ."
+            ], 
+            "author": [
+                "John Hudson", 
+                "BBC Berkshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab3fcde4b0d389b0edbd3d", 
+            "title": "boy 's prosthetic hand printed in football colours", 
+            "text": [
+                "an eight-year-old boy from towcester can hold a pen for the first time after being fitted with a new hand printed in the colours of his favourite football team .", 
+                "william joyner was born without fingers on his left hand .", 
+                "the reading fc fan 's blue and white prosthetic has been made by a senior lecturer and a phd student at the university of bedfordshire .", 
+                "`` my friends are really excited for me , i ca n't wait to take it home and show everyone , '' william said ."
+            ], 
+            "author": [
+                "John Hudson", 
+                "BBC Berkshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab4e4ae4b0548bc75e2c3e", 
+            "title": "builders get the go-ahead for 1,000 houses in collingtree", 
+            "text": [
+                "the secretary of state for communities and local government sajid javid has allowed an appeal by bovis homes who were refused permission to build 1,000 houses near collingtree village .", 
+                "the site had already been earmarked for housing as a `` sustainable urban extension '' , but local politicians turned down the plan because of traffic noise and the effect of the houses on historic buildings and the village conservation area .", 
+                "following an appeal hearing a planning inspector concluded that any problems could be overcome and a thousand houses were needed in the area ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab4092e4b044b37d09fae7", 
+            "title": "steelbacks back at t20 finals day", 
+            "text": [
+                "for the third time in four years , northamptonshire steelbacks are going to t20 finals day .", 
+                "they booked their place last night , with a convincing victory over middlesex at the county ground .", 
+                "here 's how it happened"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab4d9ee4b0ba91fec1f8fc", 
+            "title": "northamptonshire steelbacks at the top of t20 again", 
+            "text": [
+                "northamptonshire steelbacks are a force to be reckoned with in the t20 format .", 
+                "last night 's win over middlesex booked them a ticket to their third finals day in four years .", 
+                "the county has had many memorable moments in the t20 and here 's another of them - the time david willey smacked a century in 2015"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab45c8e4b0ba91fec1f8f3", 
+            "title": "can the steelbacks repeat their finals-day glory of 2013 ?", 
+            "text": [
+                "last night northamptonshire steelbacks reached their third t20 finals day in four years , with victory over middlesex .", 
+                "to celebrate , we 're looking back on some of their finest moments in the competition .", 
+                "what better place to start than the time they won it , in memorable fashion , in 2013"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab3c92e4b0ba91fec1f8eb", 
+            "title": "rail firm pledges to help disabled passengers", 
+            "text": [
+                "london midland has launched a new campaign to encourage disabled people to use its services .", 
+                "it follows research from network rail which found that a quarter of passengers with disabilities do n't feel their journeys will be easy .", 
+                "the company , which operates services through northamptonshire , buckinghamshire , hertfordshire and bedfordshire , says three quarters of its stations are already step-free and it will pay for disabled commuters to get to a suitable station if their nearest one has stairs .", 
+                "london midland has also introduced a travel support card to help passengers summon assistance if they have communication difficulties .", 
+                "we need to reach out to all our customers to understand what their needs are . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab23c8e4b0ae75fecaa17c", 
+            "title": "arrest made by detectives searching for missing kettering girl", 
+            "text": [
+                "a 19-year-old london man has been arrested by detectives searching for a 15-year-old girl from kettering .", 
+                "veronica sbircea left her home on 21 july and was last seen in london a week later , where her image was captured by a cctv camera .", 
+                "officers believe she may now be in either enfield or brixton .", 
+                "veronica , who is also known as rachel , is described as about 5ft tall with long straight black hair .", 
+                "anyone who knows where she is has been urged to contact northamptonshire police on 101 ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57aaf534e4b0ae75fecaa159", 
+            "title": "rare religious art being installed in northampton", 
+            "text": [
+                "an extremely rare set of religious paintings have been installed in one of northampton 's smallest churches .", 
+                "the only other set by artist sister joanna reitlinger is thought to be in the andrei rublev museum of ancient russian art in moscow .", 
+                "the paintings have been installed at saint anne 's orthodox christian church in cattle market road ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37034735", 
+            "title": "boy 's 3d hand printed in football colours", 
+            "text": [
+                "boy 's 3d hand printed in football colours"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab13f5e4b0d389b0edbd1c", 
+            "title": "weather update : turning cloudy with rain later", 
+            "text": [
+                "thanks to bbc weather watcher 'paulamaria ' for this view from pattishall today who recorded sunny spells at 9c ( 48f ) .", 
+                "the forecast is for more cloud across the county this afternoon with a high of 18c ( 64f ) .", 
+                "there are more details on the forecast where you live on the bbc weather website ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "map_37027231", 
+            "title": "girl abandoned under bridge pens song", 
+            "text": [
+                "girl abandoned under bridge pens song"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab165fe4b0548bc75e2c0a", 
+            "title": "appeal for witnesses after arson attack on farm near ecton", 
+            "text": [
+                "arson attack destroys stack of hay bales in northamptonshire field"
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57ab0be9e4b0d389b0edbd14", 
+            "title": "grayling : government still 'very committed '' to hs2 rail project", 
+            "text": [
+                "the transport secretary chris grayling has confirmed the government is determined to go ahead with the planned high speed rail link from london to birmingham and the north .", 
+                "the route will run through part of south northamptonshire .", 
+                "speaking in derby earlier he said : `` if we do n't build it , we wo n't be able to get more freight off the roads and onto the railways [ and ] we wo n't be able to deliver better commuter services . ''", 
+                "work is expected to start next year with the line reaching birmingham by 2026 .", 
+                "hs2 delivers high-speed connectivity between our most important business centres . ''"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57ab0361e4b0ba91fec1f8c6", 
+            "title": "reports say silverstone boss patrick allen has been suspended over links to tycoon", 
+            "text": [
+                "patrick allen , appointed as silverstone circuits ' managing director in 2014 , has been suspended for being `` too close '' to a tycoon lawrence tomlinson who is bidding to take over the circuit , the city am website reports .", 
+                "mr allen is an associate of mr tomlinson 's and was the commercial director of his lnt group in 2011 .", 
+                "the brdc , which owns the circuit , has confirmed to the bbc that mr allen is on leave of absence but wo n't comment further ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57aaee4ce4b044b37d09fa9e", 
+            "title": "tresham college 'inadequate ' say ofsted", 
+            "text": [
+                "tresham college , which has campuses in kettering , corby and wellingborough , has been rated `` inadequate '' by the education watchdog ofsted .", 
+                "the inspection report - published today - criticises the college management , the quality of teaching , the outcomes for learners , 16 to 19 study programmes and apprenticeships .", 
+                "tresham 's principal stuart wesselby says they are `` extremely disappointed '' by ofsted 's findings .", 
+                "`` the college management team will now be working with staff to continue making progress and implement strategies to address the areas of concern raised . ''"
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aa3bd0e4b0620225dfb6b6", 
+            "title": "remember this : barry sheene wins motorcyclist grand prix at silverstone", 
+            "text": [
+                "looking back through the archives and on this day in 1975 british racing motorcyclist barry sheene ( 1950-2003 ) won the grand prix on the silverstone circuit in northamptonshire .", 
+                "he is photographed taking becketts corner at speed on a 750cc suzuki during the john player motorcycle grand prix ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57aadc28e4b02114e29c0c3b", 
+            "title": "tributes pour in for northampton teenager who died in 'fatal incident '", 
+            "text": [
+                "a northampton teenager has died following a 'fatal incident ' in the sea while on holiday in canada - just a month after he attended his school 's leavers ' prom and was due to receive his gcse results ."
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aaccdbe4b0ba91fec1f888", 
+            "title": "weather : dry and bright morning , turning cloudy with the chance of rain later", 
+            "text": [
+                "it was a touch chilly out there first thing , but temperatures are set to climb through the day to reach highs of 18c ( 64f ) .", 
+                "dry and bright this morning with light winds , though there is the chance of a shower in a few places .", 
+                "check out the latest forecast here ."
+            ], 
+            "author": [
+                "Georgina Burnett", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aad4b2e4b0a1c6cff1e85c", 
+            "title": "northants through to t20 finals day", 
+            "text": [
+                "northamptonshire 's cricketers have booked their place at the t20 finals day for the third time in four years .", 
+                "the steelbacks beat middlesex by seven wickets , with 11 balls to spare , in last night 's quarter final at wantage road .", 
+                "finals day is at edgbaston ( below ) a week on saturday ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aac9a7e4b016f411903570", 
+            "title": "welcome to today 's live page for northamptonshire", 
+            "text": [
+                "thanks for joining us for wednesday 's live updates for the county .", 
+                "we 'll bring you the latest news , sport , weather and travel through until 18:00 this evening .", 
+                "we 'll start today 's feed with a look at the weather - do n't know about you , but i found it rather nippy outside this morning !", 
+                "things are set to warm up slightly through the day though , so do n't worry .", 
+                "we 'll bring you a full forecast shortly ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36948725", 
+            "title": "barnsley 1-2 northampton town ( aet )", 
+            "text": [
+                "barnsley 1-2 northampton town ( aet )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37023661", 
+            "title": "northants book t20 finals day spot", 
+            "text": [
+                "northants book t20 finals day spot"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aa036ee4b0ba91fec1f7f3", 
+            "title": "weather : showers fading this evening - but could return early tomorrow", 
+            "text": [
+                "rather cloudy with a few showers across the east region this evening but these will tend to fade to leave a largely dry night with clear spells .", 
+                "lows of 8c ( 46f ) .", 
+                "there 's a risk of some early showers tomorrow , but generally a dry day with sunny spells .", 
+                "maximum temperature : 18c ( 64f ) .", 
+                "you 'll find your latest local forecast at bbc weather ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57aa01d5e4b044b37d09f9f1", 
+            "title": "murray walker pays tribute to racing driver jack sears", 
+            "text": [
+                "earlier we mentioned the death of norfolk racing driver jack sears .", 
+                "the winner of the inaugural british touring cars series in 1958 , he died at the weekend aged 86 .", 
+                "doyen of the motor racing world murray walker said mr sears , who was born in northampton , was `` an absolutely charming , cheerful , friendly , impeccably dressed , wonderful mannered man who was a norfolk farmer who also happened to be a gigantic and successful racing driver . ''", 
+                "speaking to bbc radio norfolk 's matthew gudgin , mr walker described sears as `` enormously talented and could put his hand to anything behind a steering wheel and do well . ''", 
+                "look at his record - he won the 1958 british touring car championships , which was the first championship to be held for the btcc , in an austin westminster and then he won it again in a 7 litre ford galaxy jack sears was one of the prime movers of the british racing drivers club at silverstone and he will be well and truly missed . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aa0119e4b016f4119034f2", 
+            "title": "northants t20 quarter-final : city franchises 'would n't be good news ' says chief exec", 
+            "text": [
+                "northamptonshire have two quarter-finals coming up , tonight in the t20 , and next thursday against surrey in the one-day cup , again at wantage road and the chief executive of the cricket club has said that those extra matches will `` help '' the county 's finances , but it was `` all about support and spectators '' .", 
+                "chief exec ray payne said the proposed city-based t20 competition `` would n't be good news '' as cricket needed a `` good foundation in county teams '' , adding that they would `` show that tonight with a sell-out '' .", 
+                "also , following the depature of olly stone for next season and david willey last year , he said they could hold on the likes of ben duckett ( for england lions ) , because he `` achieved what he did by opening for northants in all forms of the game . ''"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57aa029ce4b0ba91fec1f7f1", 
+            "title": "northants t20 quarter-final : chief executive says the county are 'formidable ' at t20", 
+            "text": [
+                "ray payne , chief executive at northamptonshire county cricket club admitted he is a `` nervous wreck '' ahead of their t20 quarter-final against middlesex .", 
+                "mr payne said the t20 blast was a `` big tournament '' for northamptonshire and they have seen gates rise by 32 % this year .", 
+                "he put that down to northants having `` a reputation for being formidable '' in the t20 and they had targetted a quarter-final place before the tournament began and they are `` delighted it 's at home '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9fc10e4b02cde2b9a6268", 
+            "title": "northants t20 quarter-final : county will be 'underdogs ' says duckett", 
+            "text": [
+                "with a place at finals day at stake , a lot of eyes will be on tonight 's t20 quarter-final , but northamptonshire batsman ben duckett said he will `` forget about all that stuff '' .", 
+                "he told bbc radio northampton that all the northants players have performed well and `` that 's why we 're here '' .", 
+                "asked about what he does until when the game starts at 18.30 , the 21-year-old said it was hard `` doing nothing until three or four in the afternoon '' adding that he was `` getting a bit bored '' .", 
+                "he said that although they had n't faced middlesex before in t20 , northants would `` be the underdog again like we always are '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9fc0de4b0548bc75e2b40", 
+            "title": "northants t20 quarter-final : duckett 'ca n't wait ' to face middlesex", 
+            "text": [
+                "northamptonshire and england lions batsman ben duckett said he 's `` really looking forward '' to their t20 quarter-final against middlesex tonight adding that he `` ca n't wait to get out there '' .", 
+                "duckett , 21 , has caught the eye this season with strong performance in all three formats of the game , but modestly said his year had `` gone well so far '' .", 
+                "he told bbc radio northampton presenter annabel amos , who is live at wantage road , that his favourite format of the game is the 50-over one-day game , but said when northamptonshire are playing at home in the t20 it was `` awesome '' ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9d758e4b0b0b457f516a0", 
+            "title": "jack sears : tributes paid to racing driver", 
+            "text": [
+                "the world of motorsport is paying tribute to jack sears who has died at the age of 86 .", 
+                "nicknamed `` gentleman jack '' , he was the winner of the inaugural british touring cars series back in 1958 .", 
+                "the british automobile racing club confirmed that the northampton-born driver , who lived in ashill , norfolk , died on saturday night .", 
+                "the next dunlop msa british touring car championship ( btcc ) event , which takes place this weekend at knockhill ( 13-14 august ) , will be marked with a minute 's silence as a tribute to mr sears , who farmed in west norfolk .", 
+                "btcc series director alan gow said : `` it is with great regret and genuine sadness to learn of jack 's death .", 
+                "i really liked jack a lot not only as an extremely talented and inspirational racing driver , but more importantly as a hugely popular , humble and impressive human being . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9ea65e4b0ae75fecaa096", 
+            "title": "northants t20 quarter-final : former winners and finalists hoping for more success", 
+            "text": [
+                "this end of the t20 competition is not new territory for northamptonshire as last year they made it to the final , losing out to lancashire by just 13 runs .", 
+                "but then back in 2013 northamptonshire won the t20 beating surrey by 102 runs .", 
+                "it was northants ' first one-day trophy since they beat leicestershire in the final of the natwest trophy in 1992 ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9f4e1e4b0d389b0edbc3c", 
+            "title": "northants t20 quarter final : county 'will take some beating ' says head coach ripley", 
+            "text": [
+                "middlesex have not faced northamptonshire before in t20 and steelbacks head coach david ripley admitted that he does n't `` know them that well '' , but added `` it 's all about how we play '' .", 
+                "ripley , who guided the county to t20 victory in 2013 said : `` if we play our best on the night , and being at home , we 'll take some beating '' ."
+            ], 
+            "author": [
+                "Alex Winter", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9dffbe4b0b0b457f516aa", 
+            "title": "northants t20 quarter-final : 'home crowd will make a difference '", 
+            "text": [
+                "t20 and one-day cricket is something that northamptonshire target - they 've got very good white ball players and the experience of finals day and big games in white-ball cricket are the reasons why they 've been so successful .", 
+                "they 'll play in front of packed wantage road tonight and a home crowd will make a difference .", 
+                "apart from the most recent game against yorkshire , where the result did n't really matter , they 've played so well at home , so they 'll be hoping for a repeat tonight .", 
+                "mal loye will be part of bbc radio northampton 's commentary team this evening from 18:00 ."
+            ], 
+            "author": [
+                "Mal Loye", 
+                "Former Northants and England batsman"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a9d668e4b04616e16dcc29", 
+            "title": "gayton man threatened to 'torch ' mans home after he thought son was owned \u00a3 18k", 
+            "text": [
+                "mark croxford , who has been jailed for 12 months for threatening to burn down another man 's family home , repeatedly asked his victim mark livingstone for \u00a3 18,000 , insulted him and told him he had 10 days to get the money or he would `` torch '' his home , a court heard .", 
+                "his victim then contacted the police .", 
+                "defence solicitor , mark harrower , said his client 's son - a self employed tradesman - had worked for a company owned by mr livingstone .", 
+                "the company went bust in 2014 and a lot of people had not been paid , including croxford 's son , who claimed he was owed \u00a3 18,000 .", 
+                "mr harrower said his client had been under considerable stress in 2015 and had been on medication for depression and drinking to excess .", 
+                "he and his partner had set up their own business , but she had left him in 2015 after he assaulted her , the court heard .", 
+                "he added that she had written to the court saying she believed croxford , 54 , of gayton , was going though `` a difficult time '' .", 
+                "the lawyer said croxford had listened to recordings of his calls to mr livingstone and was ashamed .", 
+                "but sheriff norman mcfadyen sentenced him to a year in prison saying : `` only a custodial sentence is appropriate '' ."
+            ], 
+            "author": [
+                "BBC News Scotland"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9d4e0e4b0ae75fecaa082", 
+            "title": "gayton man jailed for home burning threats", 
+            "text": [
+                "a man from northamptonshire has been jailed after threatening to burn down another man 's family home if he did not pay him \u00a3 18,000 .", 
+                "mark croxford , 54 , of gayton , previously admitted making the threats to mark livingstone at his house in melrose in scotland , in july 2015 .", 
+                "edinburgh sheriff court heard croxford believed his son was owed the money by mr livingstone .", 
+                "sheriff norman mcfadyen said the charge was of a `` very serious nature '' and jailed him for 12 months ."
+            ], 
+            "author": [
+                "BBC News Scotland"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9bb6ae4b0d389b0edbc00", 
+            "title": "revell hoping cobblers can emulate their efl cup opponents", 
+            "text": [
+                "northampton town 's alex revell says their efl cup opponents barnsley are a good example of what his side could achieve this season .", 
+                "barnsley were promoted to the championship via the league one play-offs and revell said they `` had proved everyone wrong '' after the tykes were tipped for relegation halfway through last season .", 
+                "revell added : `` no-one knows what we are going to give this season , so hopefully we are going to be at the right end of the table and be pushing the big clubs '' ."
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9b407e4b02cde2b9a621f", 
+            "title": "cobblers striker revell hoping for 'nice little run ' in efl cup", 
+            "text": [
+                "northampton town are in south yorkshire this evening to take on barnsley in the first round of the efl cup .", 
+                "the games come thick and fast in these opening weeks of the season for the cobblers - five in the first two weeks .", 
+                "striker alex revell says that if the cobblers can get `` a nice little run '' in the efl cup it 'll bring `` confidence for the league games '' .", 
+                "the game at barnsley 's oakwell stadium kicks off at 19:45 ."
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9aa78e4b02cde2b9a6216", 
+            "title": "is your village changing ?", 
+            "text": [
+                "today we 've been reporting a planned motorcross track near yelvertoft which villagers are objecting to , and the potential closure of a pub in gretton which is over 200-years-old .", 
+                "but other villages in the county have had welcomed changes - such as flore ( which is finally having its long-awaited bypass built .", 
+                "so has your village in northamptonshire changed ?", 
+                "for better or worse ?", 
+                "have you welcome new development or have your fought it off ?", 
+                "or has the village stayed the same ?", 
+                "let us know via email or on twitter ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a9a760e4b0ae75fecaa043", 
+            "title": "pub which could be become a house has seen 'dramatic ' drop in visitors", 
+            "text": [
+                "the owner of the blue bell inn in gretton says she has been trying to sell the pub for five years , but has n't had any interest .", 
+                "tonight corby borough councillors will decide whether it can be converted into a house , which barbara caulfield says will allow her to finally sell the pub , which she says simply is n't popular enough to keep going"
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "20:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9b5f1e4b0b0b457f51682", 
+            "title": "northants aiming to make t20 finals day for third time", 
+            "text": [
+                "northamptonshire 's cricketers are on the brink of reaching finals day in the t20 competition for the third time in four seasons .", 
+                "their opponents in the quarter-finals are middlesex , a team they 've never played before in the shortest form of the game .", 
+                "the game starts at 18:30 at wantage road and there is full commentary on bbc radio northampton , and coverage via the bbc sport website .", 
+                "plus we 'll have build-up here this afternoon ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a9a2c8e4b0ae75fecaa03e", 
+            "title": "historic pub in gretton set become a house a 'crying shame '", 
+            "text": [
+                "permission to turn an historic pub near corby into a private house is expected to be granted this evening .", 
+                "the blue bell inn at gretton has been a hostelry since at least the 1770s but the current owner says it 's losing money and he has n't been able to sell it as a pub .", 
+                "one person in the village told me yesterday that it was a `` crying shame , it 's part of the community '' , but others were more realistic with one resident saying `` nobody can afford to keep it open '' ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9b23ee4b0548bc75e2aef", 
+            "title": "weather : sunny spells but showers coming", 
+            "text": [
+                "there have been blue skies across northamptonshire today", 
+                "however , a scattering of showers will arrive this afternoon with highs of 19c ( 66f ) .", 
+                "there are more details on the bbc weather website ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37022923", 
+            "title": "home burning threats man jailed", 
+            "text": [
+                "home burning threats man jailed"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a9a0bae4b0548bc75e2adc", 
+            "title": "yelvertoft motorcross track 'intrusive ' says parish councillor", 
+            "text": [
+                "andy wenham from yelvertoft parish council says , although they are used to the `` constant hum '' of the m1 , the proposed motorcross circuit will generate a `` completely different kind of noise '' .", 
+                "mr wenham says it would be `` intrusive '' with `` motorcycles revving at high revs '' .", 
+                "the developers say noise will not be a problem , and council officers are recommending planning permission is approved ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a99acfe4b02cde2b9a61fe", 
+            "title": "motorcross track planned for near yelvertoft", 
+            "text": [
+                "people in yelvertoft say village life is under threat from plans for a motorcross circuit to the north of crick - west of their village .", 
+                "the proposal had previously been turned down daventry district council , but it 'll now be reconsidered tomorrow with a recommendation for approval .", 
+                "the developers say they 've carried out an acoustic survey which shows that noise will not be a problem , but residents disagree ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a993e9e4b0d389b0edbbcd", 
+            "title": "clearing up northamptonshire grot spot 'not local authority problem ' says council despite sign urging people to report flytippers", 
+            "text": [
+                "a good citizen who tried to report flytipping on public land in northamptonshire says he was told local authorities could do nothing .", 
+                "it left ron oliver confused as he had earlier photographed a sign at the site - in brampton lane , opposite the windhover pub - that urges the public to report illegal dumping to the authorities ."
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a98e4ce4b04616e16dcbd0", 
+            "title": "dylan hartley : south africa game 'huge opportunity '", 
+            "text": [
+                "england face south africa , fiji , argentina and australia in successive weekends in the autumn , and can go through 2016 unbeaten if they avoid defeat , with dylan hartley saying that coach eddie jones ( with him ) has focused on the south african game .", 
+                "hartley told me : `` without winning that first game there is no point talking about going unbeaten , [ so ] every meeting we have had these last few days has been about south africa and building for that game . ''", 
+                "the northampton hooker added : `` i do n't think anyone in our team has beaten south africa before , so there 's a huge opportunity there for us as a group . ''", 
+                "england face south africa on saturday , 12 november at twickenham ."
+            ], 
+            "author": [
+                "Chris Jones", 
+                "BBC Radio 5 live rugby reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a98b74e4b044b37d09f963", 
+            "title": "dylan hartley : england squad focused on autumn internationals , not lions tour", 
+            "text": [
+                "the england skipper and northampton saints hooker dylan hartley has urged his players not to become pre-occupied with the british & irish lions tour of new zealand next summer .", 
+                "after captaining england to nine victories in a row this year , hartley is favourite for the lions job in 2017 .", 
+                "but after meeting for a short england squad camp last weekend , hartley insists all the focus is on england 's november opener against south africa .", 
+                "`` every player has that in the back of their mind , '' hartley told bbc sport .", 
+                "`` lions selection comes off the back of playing well for your country , so at the moment everyone 's focus should be on playing well for their clubs and getting for england .", 
+                "`` you are always judged on your next performance , so i just want to play well for my club and be in [ the frame for ] selection for that south africa game in november . ''"
+            ], 
+            "author": [
+                "Chris Jones", 
+                "BBC Radio 5 live rugby reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a987eee4b0ba91fec1f75c", 
+            "title": "colin milburn play to finish tour at northamptonshire", 
+            "text": [
+                "a new play on the tragic decline of former england and northamptonshire batsman colin milburn will visit all 18 county cricket clubs in 24 days in november .", 
+                "when the eye has gone is a one man show that has been written by james graham-brown , the former kent and derbyshire all-rounder turned playwright .", 
+                "milburn , who was brilliant career was cut short by the loss of the sight in his left eye in a car accident in may 1969 , died aged 48 after struggling with alcoholism .", 
+                "when the eye has gone begins its tour at somerset 's taunton headquarters on 1 november and will visit all 18 county grounds before the final performance at northamptonshire 's wantage road , milburn 's old home ground , on 24 november ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a981aae4b016f411903466", 
+            "title": "rothwell bone crypt : 'built to protect the dead '", 
+            "text": [
+                "testing on five skull samples from the rothwell bone crypt was carried out by scientists at the university of sheffield , using facilities based at queen 's university in belfast .", 
+                "dr jenny crangle , from sheffield , said the bones , which legend said belonged to soldiers or plague victims , would actually have been the remains of local people placed in the crypt by their families .", 
+                "`` they were deliberately built so people could be prayed for .", 
+                "they were built to protect the dead , and were built to be visited , '' she said .", 
+                "researchers now plan to gather further samples to get a fuller of exactly when the bodies found in the crypt were laid to rest ."
+            ], 
+            "author": [
+                "Louise Hubball", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a9800ee4b016f411903461", 
+            "title": "rothwell bone crypt : skulls dated from 1250 to 1900", 
+            "text": [
+                "skulls and bones stored under a church date from 1250 to as recently as 1900 , tests have revealed .", 
+                "holy trinity church in rothwell - home to one of only two 13th century crypts in the uk - contains the remains of 2,500 people .", 
+                "carbon dating found some skulls were older than first thought .", 
+                "but scientists from the university of sheffield , who `` assumed the ossuary [ place where bones of the dead are placed ] was a medieval thing '' , were also surprised to find bones from the last century .", 
+                "`` it seems people continued to put skulls and bones down here , not only into the post-medieval period , but even as late as around 1900 , '' dr lizzie craig-atkins said ."
+            ], 
+            "author": [
+                "Louise Hubball", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a97d5ce4b044b37d09f949", 
+            "title": "weather : sunny spells and scattered showers", 
+            "text": [
+                "it 'll be a chilly but bright start followed by a day of sunny spells , although a scattering of showers will develop during the late afternoon with highs of 19c ( 66f ) .", 
+                "here 's my full forecast for the region :", 
+                "there are more details on the bbc weather website ."
+            ], 
+            "author": [
+                "Georgina Burnett", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a97ca6e4b0620225dfb5e1", 
+            "title": "welcome back", 
+            "text": [
+                "good morning and welcome to live updates for tuesday for northamptonshire .", 
+                "today we 'll bring you build up to northamptonshire 's t20 blast quarter-final against middlesex tonight .", 
+                "we 've also got news from either end of the county about the changing face of village life .", 
+                "plus we 'll reveal what the radio-carbon dating says about the bones under rothwell parish church .", 
+                "and then there is the all-important weather and travel as well ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36989717", 
+            "title": "crypt 's skulls dated from 1250 to 1900", 
+            "text": [
+                "crypt 's skulls dated from 1250 to 1900"
+            ], 
+            "author": [
+                "Louise Hubball", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8b12ee4b033a4e3130c86", 
+            "title": "our regular live updates across the day", 
+            "text": [
+                "that 's it for regular updates from northamptonshire until tomorrow morning at 08:00 , unless there 's any breaking news overnight .", 
+                "tomorrow we 'll find out about the results from the radio-carbon dating project at the rothwell parish church bone crypt .", 
+                "plus there will be plenty of build-up the t20 quarter-final at wantage road where northamptonshire take on middlesex .", 
+                "have a good evening ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8ada9e4b0fc4d8dbbd000", 
+            "title": "weather : a chilly night", 
+            "text": [
+                "after a few evening showers , it 'll be a largely dry night with clear spells .", 
+                "feeling chilly , with temperatures falling to single figures in rural areas .", 
+                "after a chilly start , tuesday will be fine and dry with good spells of sunshine .", 
+                "thicker cloud could produce a few showers , but many places will remain dry .", 
+                "temperatures expected to reach 20c ( 68f ) .", 
+                "weather has more details for you ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "05:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8a4f5e4b06d1375ed1641", 
+            "title": "injury doubts wakely , crook and levi return to northants squad", 
+            "text": [
+                "captain alex wakely and all-rounder steven crook are back in the northamptonshire squad to face middlesex in the t20 blast quarter-final against middlesex tomorrow , after missing the county championship win over glamorgan .", 
+                "batsman richard levi ( also in squad after missing since the t20 game in leeds against yorkshire , along with sri lankan all-rounder seekuge prasanna ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8a0f5e4b00a25e2c5df2f", 
+            "title": "man has 'significant facial injuries ' after assault in corby", 
+            "text": [
+                "a 32-year-old man was assaulted with a piece of wood , causing significant facial injuries , as he walked home from a night out in willow brook road , corby on sunday .", 
+                "the victim was approached by a man who had been riding a bike , and after the assault he returned to his bike and rode off in the direction of corby town centre .", 
+                "the incident took place between about 03:00 and 03.20 .", 
+                "police have appealed for witnesses and posted a description of the offender on their website ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a890bee4b0fc4d8dbbcfe0", 
+            "title": "fighting dogs being trained in children 's playground in corby", 
+            "text": [
+                "`` the owners of fighting dogs are being trained using pieces of children 's play equipment on the danesholme estate , '' reports the newspaper .", 
+                "children 's play equipment installed just a few months ago at the stavanger close park on the town 's danesholme estate had been damaged by people using it to strengthen their dog 's jaws , according to a report submitted to corby councillors last week ."
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a88f83e4b05b80fd90c797", 
+            "title": "'great view ' from olympic village for trampoline coach", 
+            "text": [
+                "tracy whittaker-smith , the head coach of the gb trampoline team and performance director of the northamptonshire trampoline gymnastic academy , has shared the view from her room in the olympic village in rio .", 
+                "her team get bouncing at the end of this week .", 
+                "this olympic village is great !", 
+                "view from bedroom # rioolym # bringonthegreat"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a86a42e4b06f531ee485c7", 
+            "title": "academics hope to discover age of crypt 's bones tomorrow", 
+            "text": [
+                "academics from sheffield university hope to discover when bones in rothwell in the bone crypt under the parish church were alive .", 
+                "dr lizzie craig-atkins from the university has been given permission by the church of england to take fragments of the bones and have them radio-carbon dated .", 
+                "we 'll find out the results tomorrow ."
+            ], 
+            "author": [
+                "Louise Hubball", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "21:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8774ce4b06f531ee485de", 
+            "title": "insomniac at hospital now sleeping properly following fitness challenge", 
+            "text": [
+                "a worker at kettering general hospital says taking part in a work-based fitness programme has `` changed his life '' .", 
+                "security manager james donnolly is currently the top uk performer in the global corporate fitness challenge .", 
+                "he lost 20lbs ( 9kg ) since he started the challenge , and says he averages 88,000 steps a day , compared to the normal amount a person walks , which is 15,000 .", 
+                "i 've suffered from insomnia for 30 years , but i 've gone from three hours broken sleep to six hours solid sleep .", 
+                "it 's changed my life"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8759de4b069f6cdbaba74", 
+            "title": "kettering general hospital staff get fit to encourage patients to do the same", 
+            "text": [
+                "staff at kettering general hospital are being asked to set a good example by getting fit , especially through walking more .", 
+                "the hospital is taking part in the global corporate fitness challenge and has two of the top-performing british teams .", 
+                "mark smith from the hospital said being healthy `` starts with us '' and if the staff can `` demonstrate the behaviour you want others to follow '' then they can become role models for patients ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "20:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a868b8e4b0c1029ddbaf72", 
+            "title": "rothwell 's bone crypt may have been `` well used '' according to academic", 
+            "text": [
+                "rothwell 's bone crypt may have been `` well used '' according to dr jenny crangell from sheffield university .", 
+                "bones , which have been stored under rothwell parish church , have been radio carbon-dated and the results are being analysed .", 
+                "it 's known the crypt dates from the 13th century , but it 's not clear when the thousands of skulls and thigh bones were placed there ."
+            ], 
+            "author": [
+                "Louise Hubball", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36965355", 
+            "title": "northampton sign barnsley 's nyatanga", 
+            "text": [
+                "northampton sign barnsley 's nyatanga"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8685ae4b03932bad7eafc", 
+            "title": "cobblers boss page says nyatanga is a 'fantastic addition '", 
+            "text": [
+                "rob page says on-loan barnsley defender lewin nyatanga is a `` fantastic addition for the club '' , adding the club is `` delighted to get him '' .", 
+                "page said of the 27-year-old welsh international : ''he has got a wealth of experience at this level and higher and we are delighted to get him .", 
+                "''we wanted to strengthen in central defence and lewin is a good left-footer who can also play at full-back .", 
+                "`` he gives us options . ''"
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8674ce4b0b1eee8b3beac", 
+            "title": "cobblers sign barnsley defender nyatanga on a season long loan", 
+            "text": [
+                "northampton town have signed barnsley defender lewin nyatanga on a season-long loan .", 
+                "the 27-year-old started his career at derby couty , playing the premier league with the rams , and has played over 100 games for bristol city and barnsley .", 
+                "he has also played 34 times for wales .", 
+                "he 'll be unavailable for the cobblers against his parent club in the efl cup tomorrow ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a86480e4b069f6cdbaba5b", 
+            "title": "blow for middlesex , but boost for northants for t20 quarter-final", 
+            "text": [
+                "northamptonshire 's t20 quarter-final opponents middlesex were hoping to have brendon mccullum in side for the match on tuesday .", 
+                "however , a back injury has ruled out new zealder mccullum for the tie at wantage road .", 
+                "northants themselves have injury concerns with captain alex wakely , all-rounder steven crook and batsman richard levi all missing the victory over glamorgan in the county championship ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a85f88e4b0fb3eb99d66d7", 
+            "title": "kettering 's olympian golfer limbering up in the gym", 
+            "text": [
+                "charley hull is tweeting about her build-up to rio 2016 .", 
+                "the first round of the women 's golf is on wednesday next week .", 
+                "gym done .", 
+                "walked the dog .", 
+                "now time for food .", 
+                "your far too productive for a monday !", 
+                "single most important thing the dog", 
+                "any golf today ?", 
+                "x", 
+                "when are u heading to rio ?", 
+                "an the sun is out !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a84f4ce4b0c9461d0be5e8", 
+            "title": "corby writer turned into character in marilyn monroe play in la", 
+            "text": [
+                "a corby woman has been turned into a character in a musical which is being performed in los angeles .", 
+                "michelle morgan ( written a number of books about marilyn monroe and the play is based on part of her research .", 
+                "the american actress samantha stewart plays michelle on stage in 'marilyn !", 
+                "' .", 
+                "when samantha stewart was interviewed on the red carpet she was being asked what it was like to play me , and that was just crazy ."
+            ], 
+            "author": [
+                "Martin Borley", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a839e5e4b0c1029ddbaf36", 
+            "title": "county championship : sanderson bowls northants to win over glamorgan", 
+            "text": [
+                "seamer ben sanderson destroyed glamorgan with a career-best 7-22 as northants cruised to a crushing 251-run victory at st helen 's .", 
+                "sanderson proved unplayable with a fine display of swing bowling to earn the visitors their first championship win of the season .", 
+                "sanderson also up 10 wickets in a match for the first time .", 
+                "northamptonshire are back in action tomorrow in the t20 blast quarter-final against middlesex .", 
+                "set 347 to win , glamorgan slipped to 12-4 and never showed the application to survive as they were all out for 95 ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a84421e4b05862698ccef1", 
+            "title": "cobblers boss says the side need to be 'adapatable '", 
+            "text": [
+                "rob page , northampton town manager , said that he 's learnt from his season with port vale in league one last season that he has to be `` adaptable '' .", 
+                "northampton town drew their league one opener with fleetwood town 1-all and page said : `` we 've got to be adaptable and you ca n't only have one idea of how you want to play , so we might change it again for tuesday . ''", 
+                "the cobblers travel to barnsley tomorrow for the efl cup and page added that there were `` a lot of tired bodies '' following the sides first competitive game ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a838a8e4b0657c3d0c6f11", 
+            "title": "northampton town draw league one opener", 
+            "text": [
+                "the cobblers started life back in the third tier with a draw .", 
+                "they took just nine minutes to open their account in league one when david buchanan 's shot was only partially cleared , alex revell 's effort hit the post and the ball bounced into the net off the diving fleetwood town goalkeeper chris neal .", 
+                "but fleetwood were back on level terms seven minutes into the second half when the cobblers failed to deal with conor mclaughlin 's cross and victor nirennold stole in at the far post to score ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a82e04e4b0034e68a4cfbf", 
+            "title": "weather : mainly fine day with sunny spells", 
+            "text": [
+                "today will be mostly dry and bright with some sunny spells , although a few showers might develop by the afternoon with a high of 19c ( 66f ) .", 
+                "here 's my full forecast", 
+                "there are more details on the bbc weather website ."
+            ], 
+            "author": [
+                "Alina Jenkins", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a83ed2e4b002110d234817", 
+            "title": "welcome to live updates for northamptonshire", 
+            "text": [
+                "good morning - we 've had a few technical issues getting the page ready for 08:00 , but we 're now up and running and ready to bring you all the day 's news for the county until 18:00 .", 
+                "today , we 'll be looking at the bone crypt in rothwell , and how kettering general hospital is encouraging it 's staff to get active .", 
+                "we 'll also round up the weekend 's sport and soon have the all important weather ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:14"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

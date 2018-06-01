@@ -1,0 +1,1009 @@
+{
+    "blog_id": "3c67d8a8f19699636248e242c8fdbe6f4f46aa7a", 
+    "title": "BBC Local Live: Beds, Herts & Bucks on Wednesday, 4 May 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-beds-bucks-herts-36164161", 
+    "summary": [
+        "milton keynes action group calls for empty buildings to be turned into a centre for homeless people .", 
+        "the inquest into the death of istiak yusuf at luton police station in june last year hears about spy hole usage .", 
+        "chancellor george osborne is visiting red bull in tilbrook , milton keynes .", 
+        "updates for wednesday , 4 may 2016 .", 
+        "news , sport , travel and weather updates resume on thursday at 08:00 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36201963", 
+            "title": "man admits knife attack on shopkeeper", 
+            "text": [
+                "man admits knife attack on shopkeeper"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a15304e0000b306eec35c", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it from all the team here at bbc local live for beds , herts and bucks .", 
+                "we 'll be back at 08:00 on thursday with all your news , sport , travel and weather ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a1d024e0000b306eec386", 
+            "title": "weather : fine with sunshine on thursday after a cool night", 
+            "text": [
+                "skies will remain clear tonight and the wind will be light so temperatures will drop again , perhaps leading to a touch of grass frost in one or two rural spots around leighton buzzard and waddesdon .", 
+                "minimum temperature : 4c ( 39f ) ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_572a1e1b460000eb06a1e456", 
+            "title": "car being driven dangerously seized by police", 
+            "text": [
+                "a car has been seized in bedford by police after it was seen being driven dangerously .", 
+                "vehicle seized on romsey way # bedford from local youths driving dangerously with no insurance - pc 6203", 
+                "@ twitterid @ twitterid can you seize illegally parked/uninsured/untaxed vans/caravans too ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a11a24e0000b004eec34b", 
+            "title": "mercedes deny favouring nico rosberg over lewis hamilton", 
+            "text": [
+                "mercedes have rejected accusations they are favouring nico rosberg over hertfordshire 's lewis hamilton this season .", 
+                "in an open letter to fans on their website , the team address `` the haters , the naysayers and the conspirators '' following criticism on social media .", 
+                "mercedes also say it was a `` miracle '' hamilton 's car finished sunday 's russian grand prix as the engine had zero water pressure for the last 16 laps ."
+            ], 
+            "author": [
+                "Andrew Benson", 
+                "Chief F1 writer"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a1fad4500008006afc88a", 
+            "title": "milton keynes man arrested for murder after woman goes missing", 
+            "text": [
+                "detectives investigating the disappearance of a woman from milton keynes , have arrested a man on sus of murder .", 
+                "natalie hemming , 31 , from newton leys was reported missing yesterday having last been seen in hemel hempstead on sunday afternoon .", 
+                "a 42-year-old man from milton keynes was arrested earlier today ."
+            ], 
+            "author": [
+                "Lee Agnew", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a21a1460000ea06a1e46b", 
+            "title": "breakingman arrested for murder in connection with missing woman case", 
+            "text": [
+                "a 42-year-old man has been arrested on sus of murder in connection with the investigation of a missing milton keynes woman ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a1962460000a505a1e445", 
+            "title": "police warn of a number of van break-ins in buntingford", 
+            "text": [
+                "a warning has been given by hertfordshire police asking people not to leave valuables in vehicles after three break-ins in buntingford over two days .", 
+                "about \u00a3 500 worth of tools were taken from a van on freeman drive .", 
+                "personal items , including a wallet and phone , were taken from a van in olvega drive and another van was broken into in the same road ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_572a1ac54500008504afc872", 
+            "title": "headlines : inquest into luton man 's custody death shown cctv footage drone used to help find the cause of fire", 
+            "text": [
+                "here are the main news stories :"
+            ], 
+            "author": [
+                "Jon Kaye", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a101e4e0000b004eec348", 
+            "title": "man found dead during bletchley fire", 
+            "text": [
+                "an investigation is underway following the death of a man in bletchley ."
+            ], 
+            "author": [
+                "Milton Keynes Citizen"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a0ae14500009605afc831", 
+            "title": "family clock up mileage trying to find missing cat", 
+            "text": [
+                "this is simba .", 
+                "she escaped from a car at beaconsfield service station on 23 april .", 
+                "she was being transported from manchester to her new home in kent , but decided to make a dash for it .", 
+                "her owner zara schofield and her family have so far made about 10 trips back to beaconsfield to find her , but sadly she 's still not been found ."
+            ], 
+            "author": [
+                "Dani Bailey", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a13ad4500007f06afc858", 
+            "title": "istiak yusuf inquest : court hears from detention officer", 
+            "text": [
+                "on the second day into the inquest into the death of istiak yusuf , the court has heard from diane jones - the detention officer who carried out welfare checks of the cells , including mr yusuf 's .", 
+                "she said at 11:22 she recorded no concerns or issues , saying : `` i assumed he was awake looking up at the ceiling .", 
+                "at 11.54 i looked in , thought he was in the same position prior , and became concerned .", 
+                "i opened the hatch and called in .", 
+                "no response .", 
+                "raised the alarm and entered the cell . ''", 
+                "after questioning she stated it was possible he was n't breathing at 11.22 .", 
+                "ms jones has since told the independent police complaints commission she made an error and it was likely mr yusuf was not awake at that time ."
+            ], 
+            "author": [
+                "Kate Bradbrook", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572a0b114e00004e00eec339", 
+            "title": "istiak yusuf inquest : memo sent to officers saying spy hole only checks are not acceptable", 
+            "text": [
+                "the inquest into the death of istiak yusuf has heard how as a result of mr yusuf 's death bedfordshire police sent a memo to officers reminding them welfare checks using a spy hole only are not acceptable .", 
+                "prior to his death it seems they were being used .", 
+                "the professional practice document states checks via a door flap or physical entry to the cell are acceptable means of checks ."
+            ], 
+            "author": [
+                "Kate Bradbrook", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729fe3f4e00004e00eec30b", 
+            "title": "osborne makes mk pitstop", 
+            "text": [
+                "it was a busy morning for the chancellor george osborne - not only did he visit the headquarters of red bull racing in milton keynes , but he was put to work to change a formula 1 tyre", 
+                "# watch : chancellor @ twitterid tries to change a formula 1 tyre at @ twitterid in milton keynes .", 
+                "# mk @ twitterid", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid he 's really not rocking that tie .", 
+                "it 's a health and safety risk .", 
+                "time to ditch it .", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid i wish he was good to go"
+            ], 
+            "author": [
+                "Paul Scoins", 
+                "BBC Three Counties Radio political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729ffdb4e0000b004eec30f", 
+            "title": "drone used to help in stony stratford fire investigation", 
+            "text": [
+                "a drone is being used to help find out how a fire destroyed two 18th century listed buildings in stony stratford on sunday .", 
+                "bucks and mk fire service say it is using the machine as the structure is too unsafe to enter .", 
+                "investigations into the blaze are continuing ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_572a056b460000b004a1e3fc", 
+            "title": "travel news : slow traffic on m1 southbound after earlier accident", 
+            "text": [
+                "there 's very slow traffic on the m1 southbound between j12 and j11 because of an accident earlier on .", 
+                "all lanes have been re-opened .", 
+                "m1 southbound between j11 and j10 | accident"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729e4254500003100afc7a8", 
+            "title": "drugs , cash and weapons seized at bedford property", 
+            "text": [
+                "thousands of pounds , two air weapons and drugs have been seized from a house in bedford .", 
+                "police carried out a warrant at the property on kingsbrook road last thursday .", 
+                "a man has been arrested on sus of possession with intent to supply and has been bailed pending further enquiries ."
+            ], 
+            "author": [
+                "Lee Agnew", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "22:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5729e8c94600006e01a1e38c", 
+            "title": "headlines : man pleads guilty to attempted murder of widow rare rocks taken from hertfordshire museum", 
+            "text": [
+                "here are the main news stories this lunchtime :"
+            ], 
+            "author": [
+                "Jon Kaye", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5729e4c24e00004e00eec2b2", 
+            "title": "weather : fine with sunshine", 
+            "text": [
+                "the afternoon will be fine with plenty of sunshine and light winds .", 
+                "the sun may turn periodically hazy as some higher level cloud rolls over .", 
+                "maximum temperature : 17c ( 63f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729e7b34e00004e00eec2c2", 
+            "title": "darkened classroom hug teacher banned", 
+            "text": [
+                "a teacher who hugged one of her pupils at a hertfordshire school in a darkened room and had personal contact with her outside school hours has been banned from the profession .", 
+                "tuesday nathan , 29 , had an `` inappropriate relationship '' with a girl at the leventhorpe business and enterprise academy in hertfordshire .", 
+                "a professional misconduct panel found their relationship from 2012 to 2015 developed in a `` secretive manner '' ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "21:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729ea674500007901afc7bd", 
+            "title": "istiak yusuf inquest : jury hears from custody sergeant", 
+            "text": [
+                "the jury at the inquest of instiak yusuf has heard from custody sergeant matthew carroll .", 
+                "he booked mr yusuf in at luton police station .", 
+                "he said : `` i could smell stale alcohol on his breath , it was enough for me to put him on 30 minute checks . ''", 
+                "when asked if he would have altered his assessment had he known class a drugs were suspected of contributing to the alleged offence , he said it may have `` prompted me to ask further questions about taking drugs '' ."
+            ], 
+            "author": [
+                "Kate Bradbrook", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "21:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729d7964e00004b01eec267", 
+            "title": "istiak yusuf inquest : jury hears how escorting police officer carried out pat down search", 
+            "text": [
+                "at the second day of the inquest of istiak yusuf , the jury at ampthill coroner 's court heard evidence from pc steve hunt , a response officer based in dunstable .", 
+                "he said he did a `` a pat-down search , limited to outer clothing only .", 
+                "i searched down the legs , torso , patted down front and rear '' .", 
+                "he said if mr yusuf had had a kinder egg in his pocket he would have found it .", 
+                "he agreed when questioned that the search took 22 seconds .", 
+                "he said he had `` absolutely no concern whatsoever '' that mr yusuf was intoxicated or under the influence of drugs ."
+            ], 
+            "author": [
+                "Kate Bradbrook", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36204865", 
+            "title": "drugs death man searched for 22 seconds", 
+            "text": [
+                "drugs death man searched for 22 seconds"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729df20450000b502afc791", 
+            "title": "chancellor osborne defends local government cuts during mk visit", 
+            "text": [
+                "george osborne has defended the government 's funding of local government on a visit to red bull racing in milton keynes .", 
+                "he told me local government has to `` live within it 's means '' and `` the alternative is services do n't get funded or the council tax goes up . ''", 
+                "he was in the area as part of the local election campaign ."
+            ], 
+            "author": [
+                "Paul Scoins", 
+                "BBC Three Counties Radio political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5729dd1c4500003100afc785", 
+            "title": "police investigate theft of 'world 's rarest rocks '", 
+            "text": [
+                "hertfordshire police say the stolen hertfordshire puddingstone is `` one of the world 's rarest rocks '' .", 
+                "pc sean lannon , investigating , said : `` it 's part of our county 's heritage so we are doing all we can to ensure these stones are returned to the museum . ''"
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729dc9d460000c302a1e355", 
+            "title": "travel : two accidents close to a421 in milton keynes", 
+            "text": [
+                "there have been two separate accidents close to the a421 in the milton keynes area .", 
+                "the first one happened at the roundabout at aspley guise by junction 13 of the m1 when a van overturned .", 
+                "the second , was at at the junction of the a421 south of milton keynes as it reaches the new a421 to bedford .", 
+                "a car went under a lorry ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729bf9c400000891271ec4e", 
+            "title": "milton keynes council 'constantly reviewing ' assets for housing potential", 
+            "text": [
+                "the mk people 's assembly is calling for the council to urgently make one of the empty buildings in the town into a centre for homeless people and to fund four members of staff to support the homeless .", 
+                "milton keynes council has told us only 18 of the 400 plus properties listed by the group are directly owned by the council , but added it is `` constantly reviewing '' how best to make use of its assets and would look at any schemes to free up property for housing .", 
+                "a spokesman said it had already converted one of the properties listed in two mile ash into three one-bedroom houses , although any projects like this were `` always subject to a number of constraints , including the availability of funding '' ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572992a1400000860f71eb91", 
+            "title": "milton keynes action group calls for empty buildings to house homeless", 
+            "text": [
+                "a milton keynes action group is calling for the council to urgently make one of the many empty buildings in the town into a centre for homeless people because it fears more people will die on the streets .", 
+                "so far this year two homeless people have died in milton keynes .", 
+                "the mk people 's assembly says there are a number of properties lying empty which could be used for a well-being centre .", 
+                "it wants the council to commit to giving a building at little or no cost and to fund four members of staff to support the homeless ."
+            ], 
+            "author": [
+                "Jessica Cooper", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "19:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729d1274e00004b01eec240", 
+            "title": "historic rock theft : what is puddingstone rock ?", 
+            "text": [
+                "hertfordshire puddingstone is a naturally occurring conglomerate consisting of rounded flint pebbles bound in silica cement , found mostly within the county .", 
+                "it 's thought to have originated from deposits laid down around 54 million years ago and is called puddingstone because the flints resemble the plums in a christmas pudding .", 
+                "the stones were taken from the gardens of the former st albans museum site on hatfield road last month and originally came from the site of the seventh day adventist church during the late 1970s ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729d1e34e00004c01eec247", 
+            "title": "chancellor 'impressed ' with red bull 's milton keynes hq", 
+            "text": [
+                "it seems chancellor george osborne has been `` impressed '' by the headquarters of red bull in milton keynes .", 
+                "he visited the site this morning", 
+                "visiting impressive @ twitterid with cllr @ twitterid + @ twitterid in milton keynes , ahead of local elections", 
+                "@ twitterid impressing your lizard brethren by visiting the surface world , are you , towel folder ?", 
+                "# osbournethelizardqueen", 
+                "@ twitterid @ twitterid any chance of you doing some actual work , you boggle eyed sniff-minstrel ?", 
+                "@ twitterid how 's the budget going for the local elections ?", 
+                "everything `` in order '' ?", 
+                "no more # toryelectionfraud issues i hope ; - )", 
+                "@ twitterid @ twitterid let 's hope kvyat is there and he thinks you 're vettel .", 
+                "@ twitterid ensured an on-going recession in construction/manufacturing/production", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid you 've jinxed red bull .", 
+                "oh well .", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid more reason to hate team red bullshit .", 
+                "# kvyat", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid no worries about wheels coming off anything there then eh george ?", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid george the only full of bull is you", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid why , is this a life long passion or just another tax payers free be", 
+                "@ twitterid @ twitterid a great way to create jobs is to ensure low red tape and taxes for businesses .", 
+                "try a uk enterprise zone ! !", 
+                "!", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid looks like you 're standing under a gallows .", 
+                "oh , if only # cripplekiller # gideous", 
+                "@ twitterid go on georgie boy , roll them sleeves up like the common man and show them the difference between your arse and elbow", 
+                "@ twitterid of course you are .", 
+                "that `` sport '' of millionaires that does fck all for the environement yeah ?", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid george talking bull again .", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid what people have had enough of is blue bull ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5729c9e04500003100afc720", 
+            "title": "historic rock taken from st albans museum", 
+            "text": [
+                "historic rock dating back 54 million years has been taken from a hertfordshire museum .", 
+                "police are investigating after 24 rocks known as hertfordshire puddingstone were removed from the site of the former st albans museum on hatfield road .", 
+                "it 's believed the stones were taken from the garden between 3 april and 14 april ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729c3454500004400afc707", 
+            "title": "weather watchers : warm and cloudy day", 
+            "text": [
+                "it 's set to be a warm day with highs of 17c ( 62f ) and some cloud - as these amazing from the royston area and welwyn garden city , sent in by our weather watchers , show ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729c9f74e00004e00eec222", 
+            "title": "istiak yusuf inquest : cctv footage shown to jury", 
+            "text": [
+                "i 'm at ampthill coroner 's court where the second day of the inquest into the death of istiak yusuf , who died at luton police station , is taking place .", 
+                "so far the jury has seen 30 mins of cctv footage showing mr yusuf at the station being checked-in by officers .", 
+                "a number of welfare checks were carried out every 30 minutes and during a check at 11.54 the officer shouts `` are you all right mate ? ''", 
+                "several times and then raises the alarm ."
+            ], 
+            "author": [
+                "Kate Bradbrook", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729cdec4500004400afc731", 
+            "title": "man admits trying to kill widowed shopkeeper at spot where husband was murdered", 
+            "text": [
+                "a man has admitted trying to murder a widowed shopkeeper at the same spot in luton where her husband was killed nearly seven years ago .", 
+                "tomasz jaworski , 30 , pleaded guilty at luton crown court to the attempted murder of nirupa patel , 56 , on christmas eve .", 
+                "she was stabbed at moon 's newsagents in park street , where her husband jashbai , 59 , was murdered in june 2009 .", 
+                "jaworski also admitted actual bodily harm to two others at the same time .", 
+                "he will be sentenced next month ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729cb774600004600a1e2f5", 
+            "title": "breakingjaworski pleads guilty to attempted murder of widow", 
+            "text": [
+                "a polish man has pleaded guilty to the attempted murder of nirupa patel in luton on christmas eve .", 
+                "tomasz jaworski made the plea via video link at luton crown court ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729c8344600003f00a1e2e9", 
+            "title": "george osborne in mk : red bull trophy cabinet packed to the rafters", 
+            "text": [
+                "our reporter paul scoins is at the headquarters of red bull racing in tilbrook , milton keynes .", 
+                "he 's reporting on the visit of chancellor george osborne , but also had time to check out the f1 giants ' trophy cabinet", 
+                "at @ twitterid hq in milton keynes to interview george osborne .", 
+                "their trophy cabinet is quite a sight ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729b8a34300007310919921", 
+            "title": "luton house damaged by fire in kitchen", 
+            "text": [
+                "a house in luton has been left badly damaged after a fire in the kitchen .", 
+                "firefighters from stopsley and the luton community fire stations were called to the house just after 17:00 last night .", 
+                "they say the fire was accidental and left the kitchen damaged .", 
+                "a quarter of the house was affected by smoke ."
+            ], 
+            "author": [
+                "Alex Pope", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729bbbb3c000007110ed0f1", 
+            "title": "chancellor george osborne visits red bull in milton keynes", 
+            "text": [
+                "this morning i 'm at the headquarters of red bull racing in tilbrook , milton keynes , where the chancellor george osborne is visiting today .", 
+                "so far he 's met team principle christian horner"
+            ], 
+            "author": [
+                "Paul Scoins", 
+                "BBC Three Counties Radio political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729ba983c000008110ed0ed", 
+            "title": "travel : two lane collision on m1 southbound by hemel hempstead", 
+            "text": [
+                "two lanes are closed and there 's queuing traffic on the london-bound m1 at junction 7 , hemel hempstead , because of an accident involving two cars .", 
+                "congestion is back to junction 9 at a5 redbourn .", 
+                "collision 2 lanes open # m1 s/b within j8 # hemelhempstead .", 
+                "almost 3 miles of slow moving traffic btwn j9 ( # a5 # markyate ) + j8 delays building"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729a5b1400000950f71ebdd", 
+            "title": "it 's not just star wars day", 
+            "text": [
+                "the station commander at hitchin and royston fire stations has nicely pointed out that today is not only star wars day , but also international firefighters day .", 
+                "lee hutchinson 's tweet cleverly puts the two together .", 
+                "not only may 4th today .", 
+                "# starwarsday # internationalfirefightersday @ twitterid"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57299700430000740f919886", 
+            "title": "luton man calls for action over travellers", 
+            "text": [
+                "a luton man has said councils and police are failing to take action after travellers appeared outside his home on london road near luton hoo on friday .", 
+                "edward doherty says the travellers are making him feel `` very intimidated '' and have sometimes blocked his drive .", 
+                "when i went to visit them , the travellers told me they `` have rights '' .", 
+                "bedfordshire police say they 're working with the landowner and partners to ensure appropriate action is taken .", 
+                "central bedfordshire council say they have started the eviction process ."
+            ], 
+            "author": [
+                "Matthew Lockwood", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729a0d0400000860f71ebc6", 
+            "title": "istiak yusuf inquest : court due to hear from custody officers", 
+            "text": [
+                "on the second day of an inquest into the death of a man who died at luton police station , the coroners ' court is due to hear from the custody officers who searched him .", 
+                "yesterday , ampthill coroner 's court heard istiak yusuf , 25 , had taken a large amount of drugs despite being searched after his arrest .", 
+                "the court is also expecting to be shown cctv footage of mr yusuf being checked in at the station and the checks done on his cell .", 
+                "it may also hear from his family who have said they are `` heartbroken '' and just want to know how he came to die in the care of the police ."
+            ], 
+            "author": [
+                "Nicola Haseler", 
+                "BBC Three Counties"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5729914b400000950f71eb8e", 
+            "title": "latest headlines : mk homeless housing plan custody death inquest continues", 
+            "text": [
+                "here are the main stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Simon Oxley", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5729a8d83c00001a0f0ed099", 
+            "title": "travel : all lanes reopened on m1", 
+            "text": [
+                "all lanes have reopened on the northbound m1 after j13 for the a421 at bedford after a van overturned earlier , but traffic is still queuing for six miles with congestion back to j12 for the a5120 at flitwick .", 
+                "it 's also very busy on surrounding roads with long delays on the northbound a5 between the b4540 luton road junction in markyate and the a4012 leighton road junction in hockcliffe .", 
+                "get the latest updates from bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57299363400000860f71eb95", 
+            "title": "custody death inquest continues later", 
+            "text": [
+                "an inquest continues today into the death of a man at luton police station in june last year .", 
+                "istiak yusuf , 25 , had been arrested on sus of domestic violence .", 
+                "yesterday , ampthill coroner 's court heard mr yusuf had taken a large amount of drugs despite being searched after his arrest ."
+            ], 
+            "author": [
+                "Simon Oxley", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57299077430000790f91987c", 
+            "title": "today 's weather : fine and sunny", 
+            "text": [
+                "after quite a cool start , today will be fine and sunny with temperatures getting warmer .", 
+                "maximum temperature : 17c ( 62f ) .", 
+                "get the detailed forecast where you live at bbc weather ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_572999e83c0000100f0ed049", 
+            "title": "travel : disruption on the m1", 
+            "text": [
+                "two lanes are closed on the northbound m1 after j13 for the a421 at bedford due to an overturned van .", 
+                "congestion is back to j12 for the a5120 at flitwick .", 
+                "meanwhile , traffic is slow on the southbound carriageway due to people slowing down to look .", 
+                "get the latest updates form bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57298f893c00001a0f0ed03b", 
+            "title": "welcome to local live for beds , herts and bucks", 
+            "text": [
+                "good morning and welcome to today 's live page for the three counties .", 
+                "we 'll be bringing you the latest news , sport , weather and travel from now until 18:00 .", 
+                "today is star wars day , so may the 4th be with you .", 
+                "i 'm not entirely sure what we 're supposed to be celebrating , but if you 're doing anything to mark the day , let us know .", 
+                "if you 'd like to get in touch at all , you can tweet us or send an email ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-beds-bucks-herts", 
+    "quality": "high"
+}

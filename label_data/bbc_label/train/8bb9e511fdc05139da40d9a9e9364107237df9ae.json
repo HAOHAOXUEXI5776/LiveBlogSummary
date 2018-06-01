@@ -1,0 +1,956 @@
+{
+    "blog_id": "8bb9e511fdc05139da40d9a9e9364107237df9ae", 
+    "title": "BBC Local Live: Northamptonshire for Thursday 23 July 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-33555465", 
+    "summary": [
+        "closing headlines on thursday 23 july 2015 .", 
+        "northants police officer adrian goldsmith pleads not guilty to murdering his wife jill .", 
+        "northampton hospital chief executive says the last year has been 'dominated by the most sustained period of urgent care we have ever experienced ' .", 
+        "murder accused danny beaumont stabbed his friend stephen smith in the chest and back , northampton crown court hears .", 
+        "more news , sport travel and weather from 08:00 on friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33644844", 
+            "title": "have a good evening", 
+            "text": [
+                "thanks for joining us again .", 
+                "i 'm afraid we 've come to the end of another round-up of the days news , sport , leisure and weather .", 
+                "our main story today has been the news that chief executive dr sonia swart has said `` unprecedented levels of high demand '' at northampton hospital had increased the risk to patient safety .", 
+                "we 'll be back tomorrow from 08:00 - hopefully you can join us then ."
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33643834", 
+            "title": "northampton general hospital 'improving '", 
+            "text": [
+                "chief executive of northampton general hospital , dr sonia swart , has been speaking about the annual report which says the hospital is experiencing `` unprecedented levels of high demand '' .", 
+                "she told"
+            ], 
+            "author": [
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33643836", 
+            "title": "weather : dry evening and night", 
+            "text": [
+                "it will be a largely fine evening with any", 
+                "the minimum temperature overnight is 13c ( 55f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33643833", 
+            "title": "our headlines this evening", 
+            "text": [
+                "here are our top stories :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33642610", 
+            "title": "northampton 's hospital 'doing its best '", 
+            "text": [
+                "northamptonshire 's patient watchdog has said northampton general hospital 's", 
+                "chief executive of healthwatch northamptonshire , rosie newbigging told me the report , `` is telling a of a hospital under intense and sustained pressure trying to do its best under very challenging circumstances '' ."
+            ], 
+            "author": [
+                "Mike Cartwright", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33643832", 
+            "title": "supermarket fined \u00a3 1,500 for sign", 
+            "text": [
+                "a supermarket in brackley town centre has been fined \u00a3 1,500 after displaying an illuminated sign in a conservation area without advertisement consent .", 
+                "in late 2014 the co-op in burgess square put up an illuminated fascia prior to receiving a decision on their advertisement consent application .", 
+                "the council decided the fascia was unacceptable given its sensitive location due to its length , depth , design , colour , and the materials used .", 
+                "the erection of such advertisements is a criminal offence , and so the council chose to prosecute the co-op , which pleaded guilty and was fined \u00a3 1,500 plus costs ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33642614", 
+            "title": "hospital should 'run things efficiently '", 
+            "text": [
+                "the conservative northampton north mp michael ellis has been praising the staff of northamptonshire general hospital describing them as `` dedicated and committed '' , with its chief executive dr sonia swart sent to present the", 
+                "however , mr ellis said there was room for improvement .", 
+                "he said : `` we have to make sure savings are made , to divert resources to the front line .", 
+                "we need to run things efficiently and make savings for the taxpayer where we can , while investing a great deal more money into northampton general hospital . ''"
+            ], 
+            "author": [
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33636735", 
+            "title": "lib dems pressure for towcester bypass", 
+            "text": [
+                "liberal democrat councillors initiated a full debate at south northamptonshire council yesterday in their"
+            ], 
+            "author": [
+                "About My Area NN12"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634982", 
+            "title": "northampton hospital finishes year in debt", 
+            "text": [
+                "we 've been talking about northampton hospital today ahead of its annual general meeting this evening and a warning in its", 
+                "dr swart said the hospital has faced the `` most sustained period of urgent care we have ever experienced '' over the last year - but the report also says the trust ended the financial year in deficit .", 
+                "she said : `` caring for higher numbers of patients with increasingly complex medical and nursing needs presents enormous challenges . ''"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33643830", 
+            "title": "travel : m1 southbound blocked", 
+            "text": [
+                "the m1 southbound is blocked and traffic is stationary", 
+                "all traffic is being held while the vehicles are being recovered and emergency services attend .", 
+                "most of the vehicles are on the hard shoulder .", 
+                "traffic is also slow northbound in the area ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33640768", 
+            "title": "girlfriend tells trial , 'i was screaming '", 
+            "text": [
+                "the trial of danny beaumont , who denies murdering his friend steven smith in rushden last october , has continued at northampton crown court .", 
+                "the court heard from the victim 's girlfriend , ainsley douglas , who says she saw mr smith being stabbed .", 
+                "she said when she went to get a charger for her phone to call an ambulance , she saw mr beaumont attack her boyfriend for a second time .", 
+                "she said : `` i helped steven to the front door to get help .", 
+                "steven collapsed on the stairs .", 
+                "at the bottom of the stairs i said [ to mr beaumont ] 'you need to ring an ambulance ' , but he walked off .", 
+                "i was screaming . ''", 
+                "the court heard a neighbour then called an ambulance .", 
+                "the trial continues ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33640767", 
+            "title": "murder trial told defendant 'looked angry '", 
+            "text": [
+                "some more witness accounts have been heard at northampton crown court , in the trial of a man accused of stabbing his 23-year-old friend to death in the trafford road area of rushden .", 
+                "the court has heard from the girlfriend of victim steven smith , ainsley douglas .", 
+                "she said defendant danny beaumont `` looked angry '' .", 
+                "`` i panicked and asked for his phone to phone an ambulance , '' she said .", 
+                "`` my phone was dead , i told [ mr beaumont ] give me your phone so that i can phone an ambulance .", 
+                "he said 'no ' . ''", 
+                "prosecutors asked , `` did he hand the phone over to you ? ''", 
+                "she replied `` no '' ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33642609", 
+            "title": "state-of-the-art rail academy", 
+            "text": [
+                "i 've been to see the new multimillion-pound state-of-the-art academy to train people for the uk rail industry .", 
+                "it 's being located at the site of siemens ' existing train depot and uk service headquarters in kings heath , northampton .", 
+                "the centre will act as a national hub with regional 'spokes ' located around the country .", 
+                "it 's hoping to take its first students this year ."
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33640765", 
+            "title": "what we 're talking about", 
+            "text": [
+                "here are the top stories :"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33642057", 
+            "title": "'wine bottles smashed during fight ' , murder trial hears", 
+            "text": [
+                "i 'm at northampton crown court for the trial of 27-year-old danny beaumont , who denies murdering his friend steven smith , 23 .", 
+                "the court is hearing from the victim 's girlfriend ainsley douglas .", 
+                "she told prosecutors : `` steven and daniel were fighting .", 
+                "wine bottles smashed on the kitchen floor .", 
+                "i tried to split them up by pulling them apart . ''", 
+                "asked if she succeeded , she said `` no '' ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634981", 
+            "title": "northampton hospital 's year-long expansion to combat bed pressure", 
+            "text": [
+                "what has northampton hospital done to counter what its own chief executive dr sonia swart has called `` the most sustained period of urgent care we have ever experienced '' ?", 
+                "writing in its"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33641423", 
+            "title": "trial of man accused of stabbing friend to death resumes", 
+            "text": [
+                "the trial of a man accused of stabbing his 23-year-old friend to death in rushden has resumed at northampton crown court .", 
+                "steven smith died after being stabbed twice in rushden .", 
+                "danny beaumont , 27 , was charged with murder .", 
+                "today the court heard from the victims 's girlfriend , ainsley douglas .", 
+                "she told the court she came down the stairs to find her boyfriend had been stabbed in the chest .", 
+                "when she went to call an ambulance she said the defendant , mr beaumont , stabbed her boyfriend a second time in the back"
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "14:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33638420", 
+            "title": "man arrested after police search house", 
+            "text": [
+                "one man"
+            ], 
+            "author": [
+                "Northants Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33636733", 
+            "title": "appeal after corby mugging", 
+            "text": [
+                "officers investigating an alleged mugging in corby have", 
+                "unfortunately , he left before police arrived and has not been traced since .", 
+                "he was white , about 15 or 16 and was wearing a red and white checked shirt and tracksuit bottoms .", 
+                "he told bar staff his attacker was a black man who was in his 30s , about 6ft , and was wearing a blue hooded top and dark tracksuit bottoms .", 
+                "he was last seen walking towards studfall avenue in the direction of rowlett road ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33638418", 
+            "title": "green flag awards for northamptonshire", 
+            "text": [
+                "this year 's award winners have been unveiled as part of the green flag award scheme .", 
+                "a green flag is considered the mark of a quality park or green space .", 
+                "several northamptonshire parks have received the gong including pitsford water , abington park , delapre abbey , daventry country park , hall park in rushden ( and hazel and thoroughsale woods in corby .", 
+                "mill park reserve in long buckby has received a green flag community award .", 
+                "you can search for a green flag park on"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635201", 
+            "title": "festival organisers 'considering ' festival return", 
+            "text": [
+                "despite a music festival in northampton"
+            ], 
+            "author": [
+                "Northants Herald & Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33638416", 
+            "title": "weather : dry but cloudy afternoon", 
+            "text": [
+                "it will stay generally dry this afternoon with some cloud , although some bright or sunny spells are likely", 
+                "top temperature today of 19c ( 68f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33633449", 
+            "title": "northants captain confident despite loss", 
+            "text": [
+                "northamptonshire 's hopes for a place in the quarter-final of the t20 blast will go to the final group game , after they", 
+                "the hosts set a target of 155 for victory , but northants fell one run short , despite a late rally that included 29 runs in 11 balls from rory kleinveldt .", 
+                "it means the steelbacks must beat durham on friday to guarantee their passage to the last eight .", 
+                "captain alex wakely told me : `` we got this game close from nowhere , but we 'll win that game [ against durham ] .", 
+                "we want that quarter-final more than anyone . ''"
+            ], 
+            "author": [
+                "Joe Townsend", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33638412", 
+            "title": "holcot woman accepts field proposal", 
+            "text": [
+                "a farmer from milton keynes has proposed to his girlfriend by flying her over a wheat field where he 'd carved the words `` will you marry me '' .", 
+                "rick davies , 32 , did it by spraying pesticide from a quad bike as he rode through the field .", 
+                "his girlfriend said yes .", 
+                "he met 33-year-old diana cull , from holcot , two and a half years ago at a dinner party and they plan to marry in july next year .", 
+                "unsurprisingly the story has attracted"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "12:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634979", 
+            "title": "demand at northampton hospital has led to 'increased risk '", 
+            "text": [
+                "unprecedented levels of demand at northampton hospital have `` increased the risks to patient safety '' and `` placed unsustainable levels of pressure on our workforce '' .", 
+                "that is"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33638414", 
+            "title": "the stories we 're looking at", 
+            "text": [
+                "these are the top stories as we head into the afternoon"
+            ], 
+            "author": [
+                "Sarah Foster", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33629733", 
+            "title": "is this the smelliest job in northants ?", 
+            "text": [
+                "a week or so ago , i donned some steel capped boots and a hi-viz jacket to head over to anglian water 's billing sewage treatment works .", 
+                "you can see how i got on over on"
+            ], 
+            "author": [
+                "Helen Blaby", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33633444", 
+            "title": "recycling plant fires 'big impact '", 
+            "text": [
+                "firefighters are calling for", 
+                "in the latest incident , 80 firefighters tackled a"
+            ], 
+            "author": [
+                "Stuart Ratcliffe", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635831", 
+            "title": "daventry cheering on froome", 
+            "text": [
+                "daventry cycling", 
+                "briton chris froome", 
+                "the grand depart early this morning , # daventry cycling club en route to paris to cheer chris froome @ twitterid", 
+                "@ twitterid can we use this pic on our website ?", 
+                "@ twitterid please do use the pic of our grand depart !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33636731", 
+            "title": "weather warning for tomorrow", 
+            "text": [
+                "the met office has issued a", 
+                "earlier this morning our weather forecaster sara thornton described northamptonshire as a 'border county , ' meaning parts of northamptonshire could get the wind and rain , or it could miss us ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33636738", 
+            "title": "pc adrian goldsmith not guilty plea", 
+            "text": [
+                "northamptonshire police officer adrian goldsmith , appearing at northampton crown court over video link , has pleaded not guilty to murdering his wife jill goldsmith .", 
+                "pc goldsmith , 49 and known as 'otis , ' was arrested in march at his home in wootton hall park , northampton .", 
+                "mrs goldsmith died of head injuries .", 
+                "the case will next come before the court in august ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33636737", 
+            "title": "breakingpolice officer pleads not guilty to wife murder", 
+            "text": [
+                "northamptonshire police officer adrian goldsmith has pleaded not guilty at northampton crown court to murdering his wife jill ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634322", 
+            "title": "cardboard cut-out copper retires", 
+            "text": [
+                "you might not know pc peter littleton unless you live in the wellingborough area , but you would have seen his face across northamptonshire as cardboard cut-outs of him are used in shops , police stations and community buildings around the county to deter criminals .", 
+                "he 's now retired after 30 years of service ."
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33629075", 
+            "title": "murder trial continues", 
+            "text": [
+                "the trial of a man accused of stabbing another man to death in rushden is set to continue at northampton crown court today .", 
+                "danny beaumont , 26 , denies stabbing stephen smith to death in the trafford road area of the town in october .", 
+                "yesterday , the court heard how mr beaumont told police the pair had been drinking together and had a row .", 
+                "the prosecutor told the court mr smith had been stabbed in the back and that the defendant wielded the knife in a way that meant he wanted to kill the victim or at least cause him serious bodily harm ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634978", 
+            "title": "northampton hospital faced 'most sustained period of urgent care ever '", 
+            "text": [
+                "northampton hospital nhs trust 's chief executive is set to tell board members that the last year has been `` dominated by the most sustained period of urgent care we have ever experienced '' .", 
+                "dr sonia swart will speak at the hospital 's annual general meeting from 17:00 .", 
+                "in the introduction to the"
+            ], 
+            "author": [
+                "Craig Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635208", 
+            "title": "air ambulance looking for volunteers", 
+            "text": [
+                "the northamptonshire & warwickshire air ambulance service is", 
+                "jo payne , from the service , told"
+            ], 
+            "author": [
+                "Adam Crowther", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635827", 
+            "title": "the news so far", 
+            "text": [
+                "here are the stories we 're talking about :"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635204", 
+            "title": "care centre expansion will create 20 jobs", 
+            "text": [
+                "one of the uk 's leading care centres for people with complex needs , based on the edge of daventry , is"
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33629078", 
+            "title": "policeman accused of murder to go before jury", 
+            "text": [
+                "a police constable charged with murdering his wife is due to appear at court today .", 
+                "adrian 'otis ' goldsmith , 49 , is accused of killing his wife jill , 49 ,", 
+                "a post-mortem examination concluded that mrs goldsmith died of a head injury .", 
+                "mr goldsmith is due to appear before a jury at northampton crown court ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33635203", 
+            "title": "student block set for approval despite fears from neighbours", 
+            "text": [
+                "plans to build a 293-flat student accommodation block on the site of a"
+            ], 
+            "author": [
+                "Northampton Chronicle & Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33634314", 
+            "title": "more beekeeping apprentices needed", 
+            "text": [
+                "it 's essential more young people get involved in commercial bee farming if britain is to be able to feed itself in the future .", 
+                "that 's the warning from the industry , which says the average age of a bee keeper is 66 .", 
+                "i 've been to brackley bees , on the edge of charlton village in south northamptonshire .", 
+                "they have more than 800 hives and lara manton is an apprentice beekeeper there .", 
+                "she told me : `` you know from that moment you open a beehive , whether you run away screaming , or stand there staring fascinated , whether you will love it or not . ''", 
+                "you can see"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33634317", 
+            "title": "living with memory loss", 
+            "text": [
+                "you might remember", 
+                "i 've been to see her and find out what life is really like for her .", 
+                "you can"
+            ], 
+            "author": [
+                "Jo Black", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33633447", 
+            "title": "northants miss out by one run", 
+            "text": [
+                "northamptonshire missed out on confirming their place in the t20 blast quarter-finals by the narrowest of margins ,", 
+                "the hosts , set a target of 155 for victory , were well off the pace until rory kleinveldt got them down to needing 23 from the final over .", 
+                "the south african all-rounder hit the first two balls for six .", 
+                "captain alex wakely needed a four to win off the final ball , but in the end could only get two .", 
+                "they 'll now have to win on friday night against durham in the final group game to be sure of progression to the last eight ."
+            ], 
+            "author": [
+                "Graham McKechnie", 
+                "BBC Radio Northampton sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33633441", 
+            "title": "greater fire controls for recycling plants", 
+            "text": [
+                "following more than 40 fires at recycling centres in five years , the fire service has joined calls for tighter legislation and planning controls for recycling plants .", 
+                "i 've been to gretton brook road in corby at the site of a recycling plant where a", 
+                "at its height 80 firefighters were brought in to fight the blaze and one fire appliance remains here .", 
+                "councillor andre gonzalez de savage , who has responsibility for northamptonshire fire and rescue service , said : `` i would like to see greater systems in place to prevent these rather large fires taking place . ''"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33633025", 
+            "title": "in the news this morning", 
+            "text": [
+                "here are our top stories :"
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33633022", 
+            "title": "weather : cool start , sunny later", 
+            "text": [
+                "a cooler start than recent days , but it will be a generally", 
+                "it will feel pleasant in the sunshine with a maximum temperature of 19c ( 66f ) .", 
+                "you can"
+            ], 
+            "author": [
+                "Sara Thornton", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33555603", 
+            "title": "hello", 
+            "text": [
+                "good morning and welcome to local live for northamptonshire .", 
+                "from now until 18:00 i 'll be bringing you the latest news , sport , travel and weather from across the county .", 
+                "if you want to contact me in the bbc newsroom in northampton then please feel free to"
+            ], 
+            "author": [
+                "Pete Cooper", 
+                "Northamptonshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

@@ -1,0 +1,1309 @@
+{
+    "blog_id": "2585ba5909f73ea3f5021e7f4987e9c96854a711", 
+    "title": "Japan earthquake: tsunami warning lifted after 7.4 magnitude quake \u00e2\u0080\u0093 as it happened | World news | The Guardian", 
+    "url": "https://www.theguardian.com/world/live/2016/nov/21/japan-earthquake-tsunami-warning-live-updates", 
+    "summary": [
+        "what we know so far .", 
+        "aftershock or new earthquake ?", 
+        "quake was aftershock of massive 2011 earthquake .", 
+        "tsunami alerts lifted .", 
+        "fukushima cooling system has stopped operating .", 
+        "what we know so far .", 
+        "fukushima plant update ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833e798e4b0e0ad2d75bdc3", 
+            "title": "what we know so far", 
+            "text": [
+                "a magnitude 7.4 earthquake has struck off the coast of fukushima the site of 2011 's devastating 9.0 quake and resulting tsunami at tuesday 5.59am local time ( monday 8.59pm gmt ) .", 
+                "the japan meteorological agency said the quake was an aftershock to the 2011 earthquake , the largest since that quake 's immediate aftershocks .", 
+                "the jma warned that another large quake could be expected within the next few days , and people in the region have been advised to remain cautious for the next week .", 
+                "tsunami warnings were issued for the fukushima and miyagi prefectures , with waves at sendai port recorded at 1.4m high .", 
+                "the warnings have since been downgraded , before being cancelled , although residents are still advised to avoid the shore .", 
+                "at the fukushima daini nuclear power plant , the reactor number 3 spent fuel pool pump stopped operating at 6.10am as a result of the quake .", 
+                "operation resumed at 7.49am and the plant is reported to be safe and intact .", 
+                "so far , at least people are reported to have suffered minor injuries in the quake .", 
+                "no deaths have been reported .", 
+                "nissan is suspending work at its fukushima factory , while flights to and from sendai airport have been disrupted .", 
+                "decommissioning work at the fukushima daiichi plant , destroyed in the 2011 quake , has been temporarily suspended .", 
+                "fukushima : tsunami waves hit after 7.4 magnitude earthquake hits japan read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                6, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833e571e4b0cc60d3475ead", 
+            "title": "", 
+            "text": [
+                "this graphic shows how shaking from the magnitude 7.4 quake rippled across japan from 5.59am local time : nippon.com ( @ nippon en ) map showing local ground acceleration as quake propagated .", 
+                "( via @ twitterid )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                6, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833df7fe4b0e0ad2d75bdb6", 
+            "title": "", 
+            "text": [
+                "tsunami waves were filmed surging up the sunaoshi river in tagajo city after a quake of magnitude 7.4 shook japan 's eastern coast , prompting evacuation warnings : japan earthquake : tsunami waves surge up river"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                6, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5833db3fe4b0da4920d6b041", 
+            "title": "aftershock or new earthquake ?", 
+            "text": [
+                "today 's quake was an aftershock of the 2011 magnitude 9 earthquake , the japan meteorological agency has said .", 
+                "but what is the difference ?", 
+                "here 's a handy explainer from the southern california earthquake center : seismologists label an earthquake as an aftershock using two guidelines .", 
+                "first , the earthquake must occur within an \u0080\u0098aftershock zone ' , which is usually defined as the region within one fault-rupture length of the mainshock rupture surface or the area defined by seismologists based on previous aftershock activity .", 
+                "second , it must happen within this zone before the seismicity rate in the area returns to its pre-mainshock level .", 
+                "an earthquake that meets these two specific criteria is considered an aftershock ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                5, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5833d853e4b0cc60d3475ea8", 
+            "title": "", 
+            "text": [
+                "pointing out that tuesday 's quake was an aftershock of the 2011 earthquake , the japan meteorological agency also warned that another large quake could be expected within the next few days .", 
+                "people in japan have been warned to remain cautious for the next week .", 
+                "the magnitude 7.4 quake was the largest earthquake in the region since the magnitude 9 quake in 2011 and some of its immediate aftershocks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                5, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5833d4f8e4b0cc60d3475ea6", 
+            "title": "quake was aftershock of massive 2011 earthquake", 
+            "text": [
+                "the japan meteorological agency has said that tuesday 's earthquake was an aftershock of the enormous , magnitude 9 quake in 2011 , which killed more than 15,000 people and sent the fukushima daiichi nuclear power plant into meltdown ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                5, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5833d199e4b0cc60d3475ea2", 
+            "title": "", 
+            "text": [
+                "new zealand also experienced an earthquake on tuesday , just over a week after a 7.8 magnitude quake rocked the south island .", 
+                "tuesday 's was a magnitude 5.6 quake , which hit off the coast about 200km ( 120 miles ) northeast of wellington , the capital , at around 1.20pm local time ( 00.20 gmt ) .", 
+                "there were no reports of injuries or serious damage , and no tsunami warning was issued ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                5, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833ca92e4b0cc60d3475e9d", 
+            "title": "", 
+            "text": [
+                "there have been no reports of deaths or serious injuries caused by the earthquake , with japanese media reporting around six people have suffered minor injuries ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                4, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833c3d1e4b0e0ad2d75bda5", 
+            "title": "tsunami alerts lifted", 
+            "text": [
+                "all tsunami warnings have now been cancelled for japan 's pacific coast .", 
+                "the japan meteorological agency has confirmed : tsunami advisories have been lifted for the following coastal regions of japan : iwate prefecture , miyagi prefecture , fukushima prefecture , ibaraki prefecture .", 
+                "slight sea-level changes may be observed in coastal regions , but no tsunami damage is expected .", 
+                "pay attention when fishing , swimming or engaging in other marine activities , as there may still be slight sea-level changes.no major tsunami warnings , tsunami warnings or advisories are currently in effect ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                4, 
+                4
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833beaae4b0cc60d3475e8f", 
+            "title": "", 
+            "text": [
+                "stock markets have rebounded after an early wobble , agence france-presse reports : asian markets rose tuesday with energy stocks tracking a surge in oil prices , while tokyo recovered an early sell-off caused by a huge earthquake off japan 's northeast coast .", 
+                "the yen strengthened against the dollar after the quake as investors sought out safe haven assets but gave up most of the gains as it emerged there was no major damage .", 
+                "the dollar fell to as low as 110.27 yen before bouncing back to sit at 110.70 yen , with expectations it will extend gains on bets for higher us interest rates under donald trump 's presidency .", 
+                "japan 's nikkei rebounded to end the morning slightly up and at its highest mark since january ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                3, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833bdbee4b0da4920d6b031", 
+            "title": "", 
+            "text": [
+                "an aerial photo showing fukushima dai-ichi nuclear power plant in okuma today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                3, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833b5cae4b0e0ad2d75bd90", 
+            "title": "", 
+            "text": [
+                "japan has downgraded tsunami warnings issued after a 7.4-magnitude earthquake hit off the country 's east coast , as the risk of major damage appeared to pass .", 
+                "the quake , which struck east of fukushima prefecture at about 6am on tuesday , prompted urgent warnings for people to leave low-lying areas in fukushima and miyagi prefectures as a series of tsunami waves hit the shore .", 
+                "the warnings allowed for the possibility of waves of up to 3m ( 10 feet ) along the country 's north-east pacific coast , but the highest recorded wave , of 1.4m ( 4.6 feet ) , was observed at sendai port shortly after 8am .", 
+                "the tsunami warnings in fukushima and miyagi were downgraded to the less severe status of advisories nearly four hours after the initial quake , although people were still urged to stay away from coastal areas .", 
+                "similar tsunami advisories also remained in place in iwate and ibaraki prefectures .", 
+                "there were no reports of severe injuries from the quake , which struck at a depth of 30km ( 18.6 miles ) , according to the japan meteorological agency .", 
+                "the same region was hit by a series of weaker quakes in the following few hours .", 
+                "fukushima : tsunami waves arrive after 7.4 magnitude earthquake hits japan read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                3, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833b177e4b0e0ad2d75bd8d", 
+            "title": "", 
+            "text": [
+                "while immediate fears around the quake and tsunami appear to have calmed , many people in japan have been shocked by the morning 's events , agence france-presse reports : residents along the coast were badly shaken .", 
+                "it was huge and lasted so long , akemi anzai , from the city of minamisoma which lies north of the fukushima plant , said of the quake .", 
+                "the tsunami siren warning can be heard from the coastline , she told afp .", 
+                "the ground is still shaking .", 
+                "i 'm so scared .", 
+                "but my concern is rather the situation at the nuclear plant .", 
+                "some evacuees took to twitter to express their fears .", 
+                "i 'm at a cultural centre where i evacuated during the previous disaster [ in 2011 ] , one person tweeted in japanese .", 
+                "this reminds me of that ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                2, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833a8b8e4b0e0ad2d75bd84", 
+            "title": "", 
+            "text": [
+                "shinzo abe , the japanese prime minister , has spoken about the earthquake from buenos aires , which he is visiting after attending the apec summit in peru : a strong earthquake was observed off the coast of fukushima a short while ago and the tsunami alerts were issued .", 
+                "from my side , to the nation , we asked that proper and accurate information over the tsunami and the evacuation should be issued , and also to grasp and understand the condition of the damage as quickly as possible , and also to take proper emergency measures .", 
+                "i called the chief cabinet secretary directly .", 
+                "i would like to join hands closely with the local governments \u0080\u00a6 and do our best to take appropriate emergency measures .", 
+                "( thanks to nhk for the translation . )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                2, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5833a2f9e4b0cc60d3475e74", 
+            "title": "what we know so far", 
+            "text": [
+                "a magnitude 7.4 earthquake has struck off the coast of fukushima the site of 2011 's devastating 8.9 quake and resulting tsunami at tuesday 5.59am local time ( monday 8.59pm gmt ) .", 
+                "tsunami warnings were issued for the fukushima and miyagi prefectures , with waves at sendai port recorded at 1.4m high .", 
+                "the warnings have since been downgraded , although residents are still advised to move to high ground and avoid the shore .", 
+                "at the fukushima daini nuclear power plant , reactor number 3 spent fuel pool pump stopped operating at 6.10am as a result of the quake .", 
+                "operation resumed at 7.49am and the plant is reported to be safe and intact .", 
+                "so far , five people are reported to have suffered minor injuries in the quake .", 
+                "nissan is suspending work at its fukushima factory , while flights to and from sendai airport have been disrupted .", 
+                "decommissioning work at the fukushima daiichi plant , destroyed in the 2011 quake , has been temporarily suspended ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338e5ae4b0cc60d3475e60", 
+            "title": "", 
+            "text": [
+                "paul somerville , chief geoscientist with risk frontiers at australia 's macquarie university , says : this earthquake was a normal faulting earthquake that occurred at a shallow depth within the plate that overlies the tohoku subduction zone , which generated the 2011 mw 9.0 event .", 
+                "it indicates east-west extension within the overriding plate , presumably due to the relaxation of horizontal stress that built up before the 2001 event .", 
+                "it occurred about 30km offshore of fukushima .", 
+                "it is very unlikely that this earthquake will have a large impact on japan ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58339d9be4b0e0ad2d75bd79", 
+            "title": "", 
+            "text": [
+                "transport has been affected by the quake and subsequent alerts .", 
+                "sendai port and suma port have been affected by tsunami waves , although the warning has now been downgraded to an advisory .", 
+                "flights to and from sendai airport have been delayed or cancelled .", 
+                "flightradar24 ( @ flightradar24 ) flights to sendai airport have been delayed or cancelled following a 7.4 earthquake off the coast of fukushima ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58339b33e4b0cc60d3475e6c", 
+            "title": "", 
+            "text": [
+                "associated press has more on that incident now resolved at the fukushima power plant : a utility official says he believes a cooling water pump that stopped working at a japanese nuclear power plant after a strong earthquake was shut off automatically by a safety system as the water in the pool shook .", 
+                "the utility says a backup pump was launched to restore cooling water to spent fuel storage pool at the no 3 reactor of the fukushima daini plant .", 
+                "the plant is close to the fukushima daiichi plant that went into meltdown in 2011 after a tsunami swamped the plant , knocking out power to the cooling systems .", 
+                "both plants are operated by tokyo-based tepco .", 
+                "naohiro masuda , head of tepco 's decommissioning unit , said decommissioning work at the destroyed fukushima daiichi plant has been temporarily suspended because of the earthquake ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58339af4e4b0da4920d6b019", 
+            "title": "", 
+            "text": [
+                "crowds at sendai station in miyagi prefecture , northern japan , as evacuations continue .", 
+                "hirata/ap"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58339923e4b0da4920d6b015", 
+            "title": "", 
+            "text": [
+                "yoshihide suga , chief cabinet secretary , also addressed reporters ' questions about the fukushima power plant .", 
+                "he confirmed the affected reactor had resumed cooling function after a temporary stoppage .", 
+                "japan 's nuclear power plants have the most strict regulations in the world .", 
+                "we always think of the worst-case scenario \u0080\u00a6 safety is the utmost priority ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583397a9e4b0cc60d3475e6a", 
+            "title": "", 
+            "text": [
+                "yoshihide suga , chief cabinet secretary , is speaking at a press conference .", 
+                "he says tsunami warnings have been lifted and downgraded to advisory , adding : residents , please continue to evacuate \u0080\u00a6 and please always listen to the latest information .", 
+                "suga says a 1.4m tidal wave was observed at sendai , and tsunami waves were observed to the izu islands .", 
+                "he says it is hard to say exactly whether another quake would occur but the decision to downgrade the alert was based on information from the japan meteorological agency .", 
+                "suga says the prime minister , shinzo abe , who is overseas , directly called me to instruct the government to take adequate measures : the government will continue to address how many people have sustained injury ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                1, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833967be4b0cc60d3475e68", 
+            "title": "tsunami warnings downgraded", 
+            "text": [
+                "tsunami warnings for the fukushima and miyagi prefectures have been downgraded to alerts , a lower level of risk .", 
+                "people in those areas are still advised to avoid the shore .", 
+                "tsunami advisories have been lifted entirely for some coastal regions : the pacific coast of aomori prefecture ; the kujukuri and sotobo area and the uchibo area of chiba prefecture ; and the izu islands ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                52
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58339298e4b0da4920d6b011", 
+            "title": "", 
+            "text": [
+                "the e of the earthquake is off the coast of fukushima .", 
+                "the magnitude 7.4 quake hit at a depth of around 20km , according to latest reports .", 
+                "location of earthquake , japan , 22 november 2016"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338539e4b0e0ad2d75bd61", 
+            "title": "", 
+            "text": [
+                "the earthquake shook buildings in tokyo , 240km ( 150 miles ) southwest of the e kirsty brown is an australian who has been living in tokyo with her husband and 18-month-old daughter for just seven weeks .", 
+                "the family lives 20 minutes from shinkjuku , and woke up to the earthquake early this morning : i 'd experienced a small quake here on one of our visits several years ago .", 
+                "i thought my husband pushed me out of the bed that time , but this was quite a good deal stronger , and you could feel the whole house wobble .", 
+                "the sensation was similar to your bed suddenly deciding to zig-zag , and it lasted for around 90 seconds .", 
+                "no alarms went off , no alerts came to our phones .", 
+                "my dog and husband rolled over and went back to sleep , but i immediately took to my phone to see if i should be getting us ready for a bigger quake .", 
+                "on moving here we were told about earthquake preparedness similar to prepping for bushfires back home so i was thinking about getting our backpack with water and clothes ready , and whether or not i needed to switch off the mains in the house .", 
+                "but nothing happened , and there was no commotion outside , so within 30 minutes we were peacefully back to sleep and have just now woken up again to the sounds of the junior school across from us starting their day as usual .", 
+                "and another reader tweets me to say : fetch me my lolly ( @ fetchmemylolly ) @ claire phipps australian on hols in tokyo , sumida .", 
+                "building was shaking and swaying for 5 mins at 6am"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-583391c6e4b0cc60d3475e65", 
+            "title": "", 
+            "text": [
+                "nissan is suspending work at its fukushima factory , reuters reports : nissan motor co said it would suspend work at its engine factory in fukushima at least until a tsunami warning is lifted after a powerful earthquake rocked northern japan early on tuesday .", 
+                "a spokesman said there were no injuries or damage at the plant , which was badly damaged in an earthquake and tsunami disaster in march 2011 .", 
+                "separately , toyota motor corp said all its factories in northeastern japan were operating as usual ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338ef1e4b0da4920d6b00a", 
+            "title": "police : two people injured", 
+            "text": [
+                "japan 's national police agency has said two people were slightly injured during the quake .", 
+                "nhk news reports that one woman in yabuki , fukushima prefecture , was hurt when a cupboard fell over .", 
+                "a man in fukushima city is also reported to have suffered minor wounds ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338cefe4b0e0ad2d75bd6b", 
+            "title": "", 
+            "text": [
+                "experts in australia have been assessing today 's earthquake against the devastating 2011 quake and tsunami : professor james goff , director of the australia-pacific tsunami research centre and natural hazards research laboratory , university of new south wales , says : in general , with the size of the earthquake experienced , i would not expect any wave to reach the heights of those experienced in 2011 , but that does not mean that this event will not be damaging .", 
+                "tsunamis as small as 90cm can be extremely damaging and so in a sense , we are \u0080\u0098watching this space'\u0080\u00a6 one concern is not necessarily the size of the earthquake itself but whether or not it might generate submarine landslides that can themselves generate large tsunamis .", 
+                "associate professor dale dominey-howes , disaster risk management expert at the university of sydney , says : today 's event is much smaller than the 2011 catastrophic event .", 
+                "the earthquake maybe an aftershock of the 2011 event .", 
+                "it has affected the same region as the 2011 event .", 
+                "a regional tsunami has been generated smaller than 2011 but still potentially dangerous .", 
+                "people who live in the region have been advised to evacuate , with authorities taking no chances after the 2011 disaster .", 
+                "residents in the region are still struggling to recover from the 2011 event resulting in compound socio-psychological impacts on survivors .", 
+                "aftershocks will continue in the region for days to weeks to come ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338b2de4b0cc60d3475e5e", 
+            "title": "tsunami update", 
+            "text": [
+                "a 1.4m-high tsunami wave has been observed in sendai , miyagi prefecture , at 8.03am .", 
+                "it 's the highest so far recorded , although officials stress that second and subsequent waves could be higher , and are still urging people in affected areas to move to higher ground .", 
+                "other high waves recorded include : soma port , 90cm , at 7.06am .", 
+                "ishinomaki ayukawa , 80cm , at 7.39am .", 
+                "kuji port , 80cm , at 7.54am .", 
+                "onahama port , 60cm , at 6.49am .", 
+                "it 's currently 9am in japan ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-583387d7e4b0da4920d6b006", 
+            "title": "", 
+            "text": [
+                "there have so far been reports of only minor injuries following the magnitude 7.4 quake , which struck just before 6am local time at a depth of 25km ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                22, 
+                0, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58338877e4b0cc60d3475e5d", 
+            "title": "", 
+            "text": [
+                "some photos from kyodo , via reuters , which are being circulated to news agencies .", 
+                "they show a traffic jam and concerned onlookers .", 
+                "a traffic jam as people evacuate after tsunami advisories in iwaki , fukushima prefecture .", 
+                "/reuters people keep a lookout at the mouth of a river .", 
+                "/reuters koji nakamura , director of japan meteorological agency 's earthquake and volcano observations division , addresses a news conference while stood next to the map showing the earthquake which triggered the tsunami warning .", 
+                "hanai/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833882ae4b0cc60d3475e5c", 
+            "title": "", 
+            "text": [
+                "the japanese prime minister , shinzo abe , has issued a statement : i have ordered government officials to provide the public with up-to-date and accurate information concerning tsunami evacuation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583385cce4b0e0ad2d75bd62", 
+            "title": "fukushima plant update", 
+            "text": [
+                "tepco says the fukushima power plant remains intact and safe .", 
+                "the company confirms the reactor number 3 spent fuel pool pump tripped and stopped operating at 6.10am .", 
+                "operation resumed at 7.49am .", 
+                "tepco says the stoppage was caused by the tremor and strong acceleration at the power plant .", 
+                "the quake also caused the temperature inside the reactor to increase to 29.5c from 28.7c over 90 minutes .", 
+                "at 6.38am , the fukushima daiichi and daini plants had a tsunami wave about 1m high .", 
+                "a second wave was not very high .", 
+                "there have been no casualties at the fukushima plant ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-583381e0e4b0cc60d3475e54", 
+            "title": "", 
+            "text": [
+                "the fukushima daini reactor 3 cooling system , which had stopped operating , has been restored .", 
+                "the operator of the plant said no abnormalities have been observed .", 
+                "power was temporarily lost for cooling water for a spent fuel pool at the fukushima daini plant , but has been restored , broadcaster nhk reports ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583380a0e4b0e0ad2d75bd5a", 
+            "title": "new tsunami warning for miyagi prefecture", 
+            "text": [
+                "a tsunami warning has now been issued for the miyagi prefecture , expanding the zone believed to be under threat .", 
+                "residents are told to evacuate their homes for higher ground ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                19
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58337eaee4b0da4920d6affd", 
+            "title": "japan revises quake up to magnitude 7.4", 
+            "text": [
+                "the japan meteorological agency ( jma ) is holding a news conference .", 
+                "it says the initial quake , recorded at 5.59am , has been revised up to magnitude 7.4 .", 
+                "a tsunami alert has been issued , centring on fukushima .", 
+                "there is also a warning that landslides may occur ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58337cdfe4b0cc60d3475e51", 
+            "title": "", 
+            "text": [
+                "the tide level is still rising along the coast , with waves as high as 1m now reaching the shore .", 
+                "residents are being instructed to stay away from the water .", 
+                "there are warnings that second and subsequent waves can be higher than the initial tsnuami waves ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58337cb4e4b0e0ad2d75bd58", 
+            "title": "", 
+            "text": [
+                "residents of japan 's northern pacific coast are still being told to leave their homes and seek higher ground via televised tsunami advisories : fukushima residents urged to flee as 7.4 magnitude quake hits japan"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                23, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58337b1de4b0da4920d6aff8", 
+            "title": "fukushima cooling system has stopped operating", 
+            "text": [
+                "nhk reports from fukushima that the fukushima daini reactor 3 cooling system has stopped operating , but no abnormalities have been observed .", 
+                "tepco , the tokyo electric power company , says cooling water has not leaked and it is preparing to resume operation within one to two hours .", 
+                "broadcaster nhk reports that it does not seem tanks have been affected by the quake and the power plant buildings are above water level ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                59
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58337a81e4b0e0ad2d75bd54", 
+            "title": "", 
+            "text": [
+                "earthquakes are a familiar experience for japan , as afp details : japan sits at the junction of four tectonic plates and experiences a number of relatively violent quakes every year .", 
+                "a massive undersea quake that hit in march 2011 sent a tsunami barrelling into japan 's northeast coast , leaving more than 18,000 people dead or missing , and sending three reactors into meltdown at the fukushima nuclear plant .", 
+                "in april this year , two strong earthquakes hit southern japan 's kumamoto prefecture , followed by more than 1,700 aftershocks , leaving at least 50 dead and causing widespread damage ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833789ee4b0e0ad2d75bd4f", 
+            "title": "", 
+            "text": [
+                "this is claire phipps up the live blog coverage .", 
+                "the japanese prime minister , shinzo abe , is currently in in buenos aires , after attending the apec summit in peru .", 
+                "speaking there , he said the government would do its utmost to respond to the quake ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833771de4b0da4920d6aff1", 
+            "title": "tsunami 's first waves smaller than expected", 
+            "text": [
+                "the first tsunami waves to reach the coast of fukushima , japan have ranged between 30 and 90cm , much lower than the three metres that was at first predicted .", 
+                "however , japanese media warn that the tsunami 's waves can increase over time as it continues to strike the coast ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583376d3e4b0da4920d6afef", 
+            "title": "", 
+            "text": [
+                "the coolant pool at one of the reactors at fukushima daini nuclear power plant , one of two in the region , has been turned off , according to nhk world .", 
+                "there is no danger at this time at the site of the plant , and there is plenty of time before the reactors get dangerously warm ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583374eae4b0e0ad2d75bd47", 
+            "title": "", 
+            "text": [
+                "today 's tsunami will not be nearly as large as 2011 's disastrous wave , according to dr. lucy jones , a seismologist and scientist emerita at the us geological survey .", 
+                "dr. lucy jones ( @ drlucyjones ) tsunami recorded near fukushima from today 's m7.3 quake .", 
+                "mag=size of fault & this is much smaller than 3.11.11 japanese officials are still urging people to evacuate the affected area ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-583371c8e4b0e0ad2d75bd45", 
+            "title": "", 
+            "text": [
+                "at fukushima 's two nuclear power plants , fukushima daiichi and fukushima daini , external power sources and coolant water have not been affected so far by the earthquake , according to nhk world .", 
+                "now staff are watching closely to see any abnormalities .", 
+                "in this video you can see water rushing out of the harbor at iwaki city .", 
+                "water levels ty go down just before a tsunami strikes the shoreline .", 
+                "jim dalrymple ii ( @ jimdalrympleii ) video from nhk live stream shows water rushing out of the harbor at iwaki city in japan just now .", 
+                "onohama port is now reporting a tsunami height of 90cm , according to nhk world ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5833701ee4b0da4920d6afea", 
+            "title": "tsunami waves begin to arrive along the fukushima coast", 
+            "text": [
+                "japanese broadcaster nhk world is reporting that waves are beginning to arrive .", 
+                "60cm tsunami waves have been observed offshore , and the waves are expected to be as high as three metres when they reach the shoreline , nhk reports .", 
+                "you can watch the live broadcast , which is being live-translated into english , here ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58336fa5e4b0cc60d3475e45", 
+            "title": "", 
+            "text": [
+                "this is the full text of the tsunami warning issued by the pacific tsunami warning center ( note that the strength of the earthquake was at first reported to be 7.3 magnitude but was later downgraded to 6.9 , according to the us geological survey ) .", 
+                "ron baalke ( @ ronbaalke ) # tsunami warning issued by pacific tsunami warning center for 7.3 magnitude # earthquake in japan today # fukushima"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58336e20e4b0e0ad2d75bd43", 
+            "title": "", 
+            "text": [
+                "a tsunami warning has been issued in fukushima prefecture after an earthquake struck off the east coast of japan in the early hours of tuesday morning .", 
+                "yannis koutsomitis ( @ yannikouts ) # breaking - powerful m7.3 # earthquake hits # japan coast off # fukushima at 20:59 gmt .", 
+                "# tsunami alert on .", 
+                "the earthquake measured 6.9 magnitude , according to the us geological survey .", 
+                "japanese media are reporting that a tsunami as large as three metres high could be about to strike the coastline , and are urging everyone to evacuate coastal areas .", 
+                "the evacuation warnings are urging residents to remember the great earthquake of 2011 , which measured 9.1 .", 
+                "that earthquake and the tsunami that followed killed more than 15,000 people , injured more than 6,000 more , and left nearly quarter of a million people without homes , and also caused a meltdown at the fukushima daiishi nuclear power plant ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                11, 
+                21, 
+                22, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "world", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.42am GMT\n06:42\nWhat we know so far\n", 
+                "block": "block-5833e798e4b0e0ad2d75bdc3"
+            }, 
+            {
+                "text": "\n\n5.46am GMT\n05:46\nAftershock or new earthquake?\n", 
+                "block": "block-5833db3fe4b0da4920d6b041"
+            }, 
+            {
+                "text": "\n\n5.20am GMT\n05:20\nQuake was aftershock of massive 2011 earthquake\n", 
+                "block": "block-5833d4f8e4b0cc60d3475ea6"
+            }, 
+            {
+                "text": "\n\n4.04am GMT\n04:04\nTsunami alerts lifted\n", 
+                "block": "block-5833c3d1e4b0e0ad2d75bda5"
+            }, 
+            {
+                "text": "\n\n10.59pm GMT\n22:59\nFukushima cooling system has stopped operating\n", 
+                "block": "block-58337b1de4b0da4920d6aff8"
+            }, 
+            {
+                "text": "\n\n1.52am GMT\n01:52\nWhat we know so far\n", 
+                "block": "block-5833a2f9e4b0cc60d3475e74"
+            }, 
+            {
+                "text": "\n\n11.47pm GMT\n23:47\nFukushima plant update\n", 
+                "block": "block-583385cce4b0e0ad2d75bd62"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/world/2016/nov/21/japan-earthquake-tsunami-warning"
+                ], 
+                "text": "Full report: Japan hit by 7.4 magnitude earthquake.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Tsunami waves arrive along the Fukushima coast.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://twitter.com/Claire_Phipps"
+                ], 
+                "text": "Are you in the earthquake zone? Contact @twitterid Phipps.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,657 @@
+{
+    "blog_id": "7365f70523a4e35b53509164d0ccdd820980b5a4", 
+    "title": "BBC Local Live: Norfolk on Friday, 20 November 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-34740669", 
+    "summary": [
+        "great yarmouth mp brandon lewis brands the town 's rail service 'disgraceful ' .", 
+        "people who leave the armed services are to be given more support to get into work .", 
+        "news , sport , travel and weather updates resume at 08:00 on monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f3e83380000c890329cf9", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "goodbye from the norfolk live team .", 
+                "we 'll be back from 08:00 on monday , bringing you news , sport , travel and weather updates as they happen .", 
+                "if you have any photographs from around the county you 'd like to share , or if there 's anything happening you 'd like us to know about , you can contact us via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f56ad3d0000d67207599f", 
+            "title": "weather : cold and breezy with scattered showers", 
+            "text": [
+                "cold and breezy tonight with clear spells and a few scattered showers .", 
+                "northwesterly winds will strengthen with temperatures falling to 0c ( 32f ) .", 
+                "saturday will see a raw northerly wind bringing rain , sleet and hill snow first thing but clearing to leave many places dry with some winter sunshine .", 
+                "frequent showers will turn to sleet or snow inland later in a cold and strong northerly wind .", 
+                "maximum temperature 7c ( 45f ) ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f4952380000c790329d2e", 
+            "title": "travel : disruption due to heavy traffic at postwick on a47", 
+            "text": [
+                "east-bound traffic is building up on the a1042 yarmouth road at postwick causing congestion and delays ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f3fa63a0000c1a53802d5", 
+            "title": "the headlines : doctor jailed for sex attack on male patient frustration over suspended train service between norwich and great yarmouth", 
+            "text": [
+                "the headlines : doctor jailed for sex attack on male patient frustration over suspended train service between norwich and great yarmouth"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f4fca3d0000d67207597f", 
+            "title": "men charged over abuse at catholic boys ' home", 
+            "text": [
+                "two men have been charged by police investigating the abuse of 26 children at a catholic boys ' home more than 40 years ago .", 
+                "a man , 79 , from swaffham , norfolk , has been charged with 18 sexual assaults and 48 assaults connected to st francis boys ' home , shefford , bedfordshire , from 1963 to 1974 .", 
+                "a 73-year-old man from bedford has been charged with six sexual offences against four boys aged 11 to 16 ."
+            ], 
+            "author": [
+                "Nic Rigby", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f07c53a000054a23801db", 
+            "title": "listen : no more players leaving norwich city", 
+            "text": [
+                "norwich city manager alex neil explains why he has turned down a bid from leeds united to take kyle lafferty on loan .", 
+                "neil told me this morning that he did n't want to let any more players leave the club until january at the earliest ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f3cd93a0000c1a53802c8", 
+            "title": "six men arrested on sus of hare coursing in fens", 
+            "text": [
+                "six men have been arrested by police near downham market on sus of hare coursing .", 
+                "norfolk police were alerted at 08:40 to reports of coursing activity at ten mile bank and sent up a police helicopter .", 
+                "two vehicles were seized .", 
+                "the men , aged between 25 and 35 , were from wales , cambridgeshire , leicestershire , northamptonshire and berkshire , police said ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f39743a000054a23802b0", 
+            "title": "sex assault doctor betrayed patient trust , judge says", 
+            "text": [
+                "the judge who jailed a doctor for two years over a sex assault on a male patient in a busy ward at the norfolk and norwich university hospital has banned him from working in any medical capacity for 10 years .", 
+                "judge guy ayers jailed married father-of-three , manav arora , 37 , from birmingham , and imposed a sexual harm prevention order .", 
+                "the judge said : `` there is a high level of trust between doctor and patient and you betrayed that trust .", 
+                "the victim was incapable of much physical movement as he was in great pain . ''"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f1cd63d0000e06e0758b1", 
+            "title": "rainbow alliance in norfolk survives two by-elections", 
+            "text": [
+                "the rainbow alliance of labour , liberal democrats and ukip supported by the green party running norfolk county council will remain in power after two by-elections on thursday .", 
+                "north norfolk mp norman lamb ( described the outcome of the south smallburgh poll as `` a stunning and outstanding result '' after allison bradnock held on to the seat for the liberal democrats with a majority of 686 and an increased share of the vote , from 29 % to 54 % .", 
+                "claire bowes for the conservatives took watton from ukip , who have now lost three seats on the authority ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f18cd3a00001ea038023a", 
+            "title": "council justifies building up cash reserves in austerity", 
+            "text": [
+                "councils across norfolk have been challenged by the bbc 's sunday politics east programme over their build-up of \u00a3 55m reserves in an age of austerity .", 
+                "norfolk county council replied that in the context of a \u00a3 1.4bn organisation , \u00a3 19m of unallocated reserves is `` not excessive '' .", 
+                "graham plant , leader of great yarmouth borough council , said its \u00a3 5.3m of reserves were `` the bare minimum we need ; ideally we could do with more '' ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f32a73d0000d672075909", 
+            "title": "travellers frustrated after great yarmouth rail services suspended", 
+            "text": [
+                "passengers at great yarmouth station have been telling me of their frustration after services were cancelled due to damage to trains ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f081c3a000020a03801e0", 
+            "title": "passenger group calls for more rail cash as line services suspended", 
+            "text": [
+                "passenger groups are calling for more investment in local trains after services between norwich and great yarmouth were suspended because damaged rolling stock was being repaired .", 
+                "steve hewitt from east norfolk transport users association said he had sympathy for operator abellio greater anglia , which has apologised for not having enough rolling stock .", 
+                "`` passengers having to use coaches is not the perfect way to travel but rail needs more investment , '' mr hewitt said ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f16f5380000448b329c5d", 
+            "title": "buses to be hit by 24-hour walkout", 
+            "text": [
+                "today 's lynn news front page :"
+            ], 
+            "author": [
+                "Lynn News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f06e13a000056a23801d4", 
+            "title": "iversen thanks king 's lynn fans", 
+            "text": [
+                "king 's lynn stars number one niels-kristian iversen has thanked the club 's fans after ending his five-year stay at the norfolk arena :", 
+                "club and the fans .", 
+                "it 's been 5 great years and i have loved every minute of it .", 
+                "but at times this season i was exhausted and mentally tired", 
+                "@ twitterid best of luck and understand why but this is disastrous for the stars", 
+                "@ twitterid gutted you wo n't be with us for 2016 but i know you 've made the right call but we hope to see you in 2017 # icon # klstars"
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f1e883d0000d4720758bc", 
+            "title": "weather : turning colder with a few showers in places", 
+            "text": [
+                "a much brighter for this afternoon with most places staying dry but there will be a few isolated showers later .", 
+                "winds will strengthen through the day making it feel chilly by evening , especially away from built-up areas .", 
+                "maximum temperature : 8c ( 46f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f21443a000032a438025c", 
+            "title": "sex assault doctor jailed and banned from practice", 
+            "text": [
+                "a doctor convicted of sexually assaulting a male patient has been jailed for two years and banned from practice for 10 years .", 
+                "manav arora , 37 , from birmingham , denied the offence but was found guilty after a four-day trial at king 's lynn crown court .", 
+                "his victim , who can not be named for legal reasons , said the doctor performed a sex act on him on a busy ward at norfolk and norwich university hospital while inserting a catheter in september last year ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "13:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f10c73d0000fe70075887", 
+            "title": "lunch headlines : apology over suspension of train services tributes paid to young couple killed on the a140", 
+            "text": [
+                "lunch headlines : apology over suspension of train services tributes paid to young couple killed on the a140"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f009d3800002e8d329bfc", 
+            "title": "councils building up cash reserves despite austerity", 
+            "text": [
+                "councils in norfolk are sitting on reserves totalling \u00a3 55m and that figure has gone up over the last five years despite all the pressures of austerity , the bbc has learned .", 
+                "local government minister and great yarmouth mp brandon lewis has spoken openly about the findings to sunday politics east .", 
+                "`` it 's very difficult for local authorities to say on the one hand we need more money but on the other hand we 've been keeping and building surpluses which means they 're not exactly spending the money they 've got , '' he said ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f0b513d0000fe7007586b", 
+            "title": "woman who died in a140 crash 'a free spirit and pillar of strength '", 
+            "text": [
+                "the family of norwich woman sarah delf , who died alongside her boyfriend oliver appleby in a collision on the a140 at yaxley , suffolk on sunday , have described her as `` a free spirit , a pillar of strength for her family and friends , and a shoulder for others to cry on '' .", 
+                "in a statement , they said : `` our hearts feel empty because she has gone but resonate with the love we shared for her and the lasting memories she has left behind . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564f00e6380000448b329bfd", 
+            "title": "stars rocked by iversen blow", 
+            "text": [
+                "king 's lynn stars number one niels-kristian iversen wo n't be returning to the club in 2016 .", 
+                "the dane has opted not to ride in england next season after five years as lynn 's most consistent performer", 
+                "the stars are searching for a new rider to lead their elite league challenge ext year ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ee7b63a000020a0380150", 
+            "title": "new speed cameras for norwich", 
+            "text": [
+                "today'snorwich evening newsfront page :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564f01f33800002f8d329c01", 
+            "title": "families pay tribute to couple killed in a140 crash", 
+            "text": [
+                "tributes have been paid to a man and woman from norwich who died in a collision on the a140 on sunday .", 
+                "oliver appleby and sarah delf , both 24 , of dereham road , norwich , were pronounced dead at the scene at yaxley , suffolk .", 
+                "mr appleby 's family said he was `` bright , enthusiastic with a heart of gold '' and miss delf 's family described her as `` beautiful in every sense of the word '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "11:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564efb563d0000e06e075815", 
+            "title": "neil : no more players leaving on loan", 
+            "text": [
+                "norwich city wo n't be loaning out any more players before january , boss alex neil said at this morning 's press conference .", 
+                "that means kyle lafferty ( who has been linked with leeds , wo n't be going to elland road for now ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "10:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ef8c53d0000e26e075809", 
+            "title": "nathan redmond available for chelsea match", 
+            "text": [
+                "norwich city winger nathan redmond will be available for the canaries ' match against chelsea at stamford bridge tomorrow , boss alex neil told a press conference at carrow road this morning .", 
+                "the 21-year-old has been out with an injury ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564eedef3d0000e06e0757dd", 
+            "title": "travel : a143 closed as hgv removed from ditch", 
+            "text": [
+                "the a143 at haddiscoe will be closed until about 12:00 so a large lorry and trailer can be safely removed from a ditch on the b1136 loddon road following a crash on thursday .", 
+                "diversions are in place but drivers are advised to avoid the area if possible ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ed8d63a0000e19e38011c", 
+            "title": "armed services veterans get help to find jobs", 
+            "text": [
+                "people who leave the armed services are to be given more support to get into work .", 
+                "from today the veterans employment transition support programme will help men and women leaving the forces to find employment .", 
+                "claire daniels from petrofac , based in great yarmouth , which recruits veterans , said former military personnel were `` regimented in their work and have a passion for it - they 're team players '' ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ee6853a000020a038014a", 
+            "title": "windfall : east anglia centre of windfarm revolution", 
+            "text": [
+                "today 's edp front page :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ee32d3d00009c6d0757b7", 
+            "title": "train wheel damage suspends great yarmouth services", 
+            "text": [
+                "train services between norwich and great yarmouth via acle have been suspended until monday morning because so many wheels on trains have been damaged .", 
+                "operator abellio greater anglia says many trains are being repaired and it can not maintain its timetable commitment with passengers travelling by bus .", 
+                "the company says it is doing everything it can to repair trains damaged by leaves on the line and has tried but failed to hire in extra rolling stock ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "09:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564edd843a0000de9e38012f", 
+            "title": "school closure : power cable damage at terrington st clement", 
+            "text": [
+                "terrington st clement community school in west norfolk is closed today .", 
+                "the school said the main power cable serving the village was down , so it could not open ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "09:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564eda5a3a0000e09e380120", 
+            "title": "mp calls lack of train to great yarmouth 'disgraceful '", 
+            "text": [
+                "great yarmouth mp brandon lewis has criticised rail operator abellio greater anglia for leaving the town without a proper service for four days .", 
+                "the operator says it 's due to damage to trains but mr lewis has called it `` disgraceful '' .", 
+                "`` i have written to the managing director of the company complaining and this will be taken into account while the franchise is being renewed , '' mr lewis said ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564eb8b03a00008f9c3800e4", 
+            "title": "norwich city fans told to arrive early at chelsea", 
+            "text": [
+                "norwich city supporters have been asked to arrive at chelsea early for tomorrow 's premier league fixture .", 
+                "extra security checks will be in place following the attacks in paris , as bbc london reporter phil parry explains :", 
+                "the main advice is to avoid bringing bags into the ground if possible because they will need to be searched ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ed3bb3d0000a66d07577f", 
+            "title": "weather : cloudy with scattered showers in the afternoon", 
+            "text": [
+                "cloud will clear southwards leaving sunny spells this afternoon .", 
+                "most places will stay dry but there will be a few isolated showers later .", 
+                "winds will be strengthening through the day , making it feel quite chilly by the evening .", 
+                "maximum temperature : 8c ( 46f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_564ed211380000be89329b30", 
+            "title": "news : people who leave the armed services get help to find jobs mp brands great yarmouth 's train service 'disgraceful '", 
+            "text": [
+                "these are the stories making the news in norfolk today :"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_564ecede3a0000de9e3800f5", 
+            "title": "good morning and welcome to our live coverage for norfolk", 
+            "text": [
+                "hello and welcome to friday 's norfolk live .", 
+                "between now and 18:00 , the team here will bring you the news , sport , travel and weather updates as we get them .", 
+                "we 're always interested in what 's happening in your part of norfolk .", 
+                "if there 's anything you wish to share with us you can contact us on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

@@ -1,0 +1,951 @@
+{
+    "blog_id": "82435a1b26f04dfc7cbfb26816269f84da65d056", 
+    "title": "South Live: Tuesday 24 October - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-hampshire-41719638", 
+    "summary": [
+        "updates from tuesday 24 october .", 
+        "briton fighting is killed in syria .", 
+        "\u00a3 440m oxford shopping centre to open ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41735061", 
+            "title": "concern at support for foreign convicts", 
+            "text": [
+                "concern at support for foreign convicts"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef62bce4b0cff5230ce9b1", 
+            "title": "westgate oxford : what do shoppers think ?", 
+            "text": [
+                "westgate oxford has opened its doors to shoppers today .", 
+                "the new \u00a3 440m shopping centre has taken more than two years to build and follows two previous plans to rebuild the site which failed to come to fruition .", 
+                "so has it proved to be worth the wait ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11117410", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41736680", 
+            "title": "'bad weather ' keeps \u00a3 3bn carrier in port", 
+            "text": [
+                "'bad weather ' keeps \u00a3 3bn carrier in port"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef541ee4b0e5ed52a25f3e", 
+            "title": "autistic students open commercial bakery", 
+            "text": [
+                "a school for young autistic people is opening a bakery as a commercial venture .", 
+                "prior 's court , in thatcham , berkshire , is gathering its workforce from among their students to enable the budding bakers to experience fulfilling work ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef4953e4b079cff57a20f6", 
+            "title": "man sentenced for house burglary", 
+            "text": [
+                "a homeless man who broke into and stole items from a slough home has been sentenced to three years in prison .", 
+                "colin kennedy , 40 , stole electrical items from a property in sherbourne close , colnbrook , by forcing the front door open .", 
+                "mr kennedy pleaded guilty to one count of burglary of a dwelling at reading crown court and was sentenced yesterday .", 
+                "investigating officer detective constable james rex , from thames valley police , said : `` i hope that during his time in prison [ kennedy ] has time to reflect on his offence and seeks the help that he needs '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef5a99e4b0e5ed52a25f4d", 
+            "title": "driverless car project wins \u00a3 6.9m investment", 
+            "text": [
+                "a project to trial driverless cars at test areas in oxfordshire which mimic city roads has received government backing .", 
+                "remote applications in challenging environments ( race ) at cultham science centre is to get \u00a3 6.9m from the department of transport .", 
+                "the \u00a3 10m project is designed to test automated vehicles before they are taken onto public roads ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "23:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef3c0ee4b0cff5230ce93e", 
+            "title": "oxford university 's chancellor criticises brexit 'hit list '", 
+            "text": [
+                "an mp 's letter asking for universities to name professors who teach brexit courses has branded as `` idiotic '' by the chancellor of oxford university .", 
+                "lord pattern , who is also a conservative party peer , said the letter - which also asked about the content of lectures on brexit - was `` an extraordinary example of outrageous and foolish behaviour '' .", 
+                "it was written by chris heaton-harris , who responded by saying he believed in `` open '' debate on brexit .", 
+                "downing street said he had written to universities in his capacity as an mp and not as a representative of government ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef1961e4b0cff5230ce8e2", 
+            "title": "storm brian washes up boscombe 's \u00a3 3.2m artificial reef", 
+            "text": [
+                "large parts of bournemouth 's defunct \u00a3 3.2m artificial surf reef have washed up in the wake of storm brian .", 
+                "the debris from the structure , built in the sea east of boscombe pier , has washed up at boscombe , bournemouth borough council said .", 
+                "the reef , made of 55 giant sandbags , opened in 2009 after lengthy delays but closed two years later when it was damaged by a boat 's propeller .", 
+                "the council said the reef material would be cleared during beach cleaning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef16b6e4b079cff57a2073", 
+            "title": "airport announces new destination", 
+            "text": [
+                "flights between southampton airport and menorca will be introduced next year .", 
+                "they start running on 26 may and will continue until 8 september .", 
+                "the new service will be operated by airline tui ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef1654e4b079cff57a2072", 
+            "title": "giant flower replica at oxford botanic gardens", 
+            "text": [
+                "the oxford botanic garden has a giant flower on display until monday .", 
+                "rafflesia measures 1.5m across , but because it can not grow outside its native rainforest in south-east asia , the version you can see is a a life size `` 3d oil painting '' .", 
+                "`` the piece was produced by chris thorogood , our head of science & public engagement here at the garden , '' its website explains .", 
+                "`` because the plant is not yet in cultivation , and because it is so rare in the wild , this 3d replica is the closest most of us can get to seeing this enigmatic botanical giant . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef366de4b079cff57a20be", 
+            "title": "poor weather holds hms queen elizabeth in port", 
+            "text": [
+                "the royal navy 's new \u00a3 3bn aircraft carrier has been forced to postpone her first departure from portsmouth because of bad weather .", 
+                "hms queen elizabeth was set to leave earlier today for her second set of seat trials .", 
+                "but the 65,000 tonne vessel delayed her exit because of weather conditions .", 
+                "`` she will sail from portsmouth when we can ensure a safe exit '' , a spokeswomen for the aircraft carrier alliance said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef3020e4b079cff57a20ae", 
+            "title": "helicopter centre gets \u00a3 90m investment", 
+            "text": [
+                "the future of a helicopter simulation centre in oxfordshire has been secured with a \u00a3 90m investment from the ministry of defence .", 
+                "the facility at raf benson has seven simulators allowing pilots to practise scenarios like flying under enemy fire without leaving the ground .", 
+                "the money will be used to extend a contract with cae aircrew training services , the company which provides the training .", 
+                "russ cole from the ministry of defence said training in simulators was a tenth of the cost of training in live aircraft ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "21:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41734719", 
+            "title": "forest after-dark run event criticised", 
+            "text": [
+                "forest after-dark run event criticised"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef1cb4e4b0cff5230ce8ef", 
+            "title": "appeal to trace relatives of deceased bournemouth man", 
+            "text": [
+                "the coroner for dorset is hoping to trace the next-of-kin of a 61-year-old man who died at his home in bournemouth earlier this month .", 
+                "dorset police said the death of david william king was not being treated as sus but no relatives or friends had been traced .", 
+                "`` it is believed he worked as a support officer in the financial services department of bournemouth borough council and started employment with the local authority in 1972 '' , a spokesman said .", 
+                "anyone with information is asked to call the coroner 's office ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "21:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41737462", 
+            "title": "condor liberation out of action", 
+            "text": [
+                "condor liberation out of action"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef2756e4b079cff57a209e", 
+            "title": "dorchester power cut : shops close following outage", 
+            "text": [
+                "shops in dorchester town centre have been closed following a power cut .", 
+                "more than 1,200 properties have been affected by the outage which sse now says will be restored by 15:00 .", 
+                "we now expect supplies to be restored by 15:00 .", 
+                "thank you for your patience ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef0aaae4b0e5ed52a25e8b", 
+            "title": "southern staff to vote on deal to end dispute", 
+            "text": [
+                "drivers on southern railway are to start voting on whether to accept a proposed deal to end their dispute .", 
+                "ballot papers are being sent to members of the train drivers ' union aslef , with a recommendation to accept after drivers rejected two previous attempts to reach an agreement .", 
+                "the proposal is for a 28 % pay rise and an agreement that trains will have a second , safety-trained person on board , apart from `` exceptional circumstances '' .", 
+                "the ballot result will be announced on 8 november .", 
+                "the rail , maritime and transport union ( rmt ) remains in dispute with southern over the role of guards ."
+            ], 
+            "author": [
+                "Yasmine Djadoudi", 
+                "BBC Live reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11116005", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11115935", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef2932e4b0cff5230ce915", 
+            "title": "breakingcondor liberation sailings cancelled for two weeks", 
+            "text": [
+                "sailings between the channel islands and poole have been cancelled after a fault with the condor liberation .", 
+                "during a routine dive of the high speed ferry while it was in guernsey a number of issues were identified .", 
+                "this led to cancellations on tuesday but further issues were found after a more comprehensive dive leading to cancellations until 6 november .", 
+                "condor rapide will operate between channel islands , uk and france during repairs to the liberation ."
+            ], 
+            "author": [
+                "Ryan Morrison", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef0cdbe4b079cff57a2058", 
+            "title": "knife-point robbery in banbury", 
+            "text": [
+                "cash was taken from a newsagents in banbury during a knife-point robbery yesterday .", 
+                "a man entered martin mccoll 's newsagents in orchard way at about 17:00 ( bst ) .", 
+                "he demanded money from a female cashier while holding a knife which was about four to five inches long .", 
+                "the women handed over `` a quantity of cash '' but was not hurt and police have released cctv images of a hooded man they want to speak to ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11115922", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41734611", 
+            "title": "storm brian washes up artificial reef", 
+            "text": [
+                "storm brian washes up artificial reef"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef2425e4b0cff5230ce90a", 
+            "title": "power cut in dorchester", 
+            "text": [
+                "a power cut 's affecting more than 1,200 properties in the dorchester area .", 
+                "it happened before midday today , which sse says is due to a main network fault .", 
+                "homes in poundbury , dorchester , and winfrith newburgh are affected .", 
+                "banks , jewellers , cafes and mobile shops have all been affected , and there are reports of some traffic lights not working ."
+            ], 
+            "author": [
+                "Ian Wilding", 
+                "Commentator, BBC Radio Solent"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef077ee4b079cff57a204f", 
+            "title": "open but not complete", 
+            "text": [
+                "the new westgate shopping centre has opened this morning but some shops wo n't be trading .", 
+                "around half of the 125 units are either not ready to open or have not been occupied yet .", 
+                "development manager sara fuge said more would be starting to trade in the run-up to christmas .", 
+                "she added there was `` pent up '' demand for retail space in the city .", 
+                "meanwhile , oxford city council leader bob price has hailed the opening which he said would `` transform '' the city 's retail landscape ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef021de4b079cff57a2046", 
+            "title": "dinosaur hunter among those celebrated as island 'heroes '", 
+            "text": [
+                "a new travelling museum is aiming to shine a light on people who achieved remarkable things while on the isle of wight .", 
+                "museums and galleries across the island have come together to bring people the story of seven `` hidden heroes '' .", 
+                "those being featured include , prolific dinosaur hunter rev william fox and isabella de fortibus - the last owner of the isle of wight .", 
+                "the hidden heroes project is running a number of events over the next few months ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41734610", 
+            "title": "compensation to be paid for power loss", 
+            "text": [
+                "compensation to be paid for power loss"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef07e4e4b0cff5230ce8b2", 
+            "title": "compensation over weekend power loss", 
+            "text": [
+                "residents who were left without power for a weekend following a power surge in bournemouth are to get compensation .", 
+                "the surge initially caused a power cut to about 470 properties in st clements gardens , walpole road and hamilton road on friday at about 18:40 bst .", 
+                "scottish and southern electricity networks ( ssen ) said it was in the process of contacting the 300 households eligible for compensation .", 
+                "the firm said the full cause of the surge was not yet known ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ef01dce4b0cff5230ce89d", 
+            "title": "arrests after wokingham assault", 
+            "text": [
+                "there have been arrests following an assault in wokingham in the early hours of saturday .", 
+                "two men were seen kicking another man while he was lying on the floor on broad street , near to the broad street tavern .", 
+                "bystanders intervened but were assaulted too .", 
+                "pc ross kowald , of thames valley police , said : `` i would like to speak to anyone who witnessed these incidents or has any information relating to them .", 
+                "`` we believe that the offenders could have been part of a wider group who were fighting prior to these assaults taking place .", 
+                "`` members of the public can expect to see extra police patrols in the broad street area while our investigation takes place . ''", 
+                "two 18-year-old men , from wokingham , have been arrested ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eefed1e4b0e5ed52a25e6a", 
+            "title": "westgate to be 'another sterile shopping centre ' ?", 
+            "text": [
+                "the new westgate development will have 100 shops , 25 restaurants , cafes , bars and kiosks , and one cinema , but it 's fair to say not all of you are excited about today 's opening .", 
+                "posting on our facebook page , carl pettman says : `` just what the world needs , another sterile shopping centre , where it costs a fortune to buy stuff you can get cheaper online and costs a chuffing fortune to park . ''", 
+                "jill bailey says : `` my heart sinks .", 
+                "not another crass shopping centre for people to waste money in and then complain they ca n't buy a house .", 
+                "what on earth do people find so appealing in these places to spend their money on ? ''", 
+                "however , daren perkins says : `` looks great , i will have to visit when i 'm next down that way . ''", 
+                "first look inside \u00a3 440m @ twitterid as it opens to the public .", 
+                "@ twitterid", 
+                "where 's c & a ?", 
+                "yup , less than 50 % units open", 
+                "it was always said it would be a phased approach to the stores opening , but why let facts get in the way of moaning right", 
+                "deadly quiet for an opening day .", 
+                "you could n't move in trinity leeds or new street birmingham .", 
+                "seems like as many hoardings as shops .", 
+                "very smart .", 
+                "a lot of empty units though it would appear ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_41721784", 
+            "title": "oxford gets new \u00a3 440m shopping centre", 
+            "text": [
+                "oxford gets new \u00a3 440m shopping centre"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef054ee4b0cff5230ce8ab", 
+            "title": "'hero ' killed fighting is in syria", 
+            "text": [
+                "a british man who has been fighting so-called islamic state in syria has been killed while clearing landmines in raqqa , the bbc understands .", 
+                "jac holmes had been fighting with kurdish militia the ypg since 2015 .", 
+                "kurdish representatives in the uk said they had been told by ypg officials the former it worker from bournemouth was killed while he was clearing an area to make it safe for civilians .", 
+                "his mother , angie blannin , said the 24-year-old had been a `` hero in my eyes '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ef0443e4b079cff57a2049", 
+            "title": "westgate 's hotting up ! the queues are building .", 
+            "text": [
+                "the shops are open .", 
+                "the \u00a3 440m @ twitterid is buzzing with its first customers .", 
+                "@ twitterid", 
+                "it is just a shopping centre ffs !", 
+                "i am so glad westgate has opened , it will take the load of tourists off cornmarket street and st aldates"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eef7a1e4b079cff57a2027", 
+            "title": "your starlings in farmoor", 
+            "text": [
+                "anthony morris has sent us these striking images of starlings cooling off in farmoor , oxfordshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_41730369", 
+            "title": "briton fighting against is killed in syria", 
+            "text": [
+                "briton fighting against is killed in syria"
+            ], 
+            "author": [
+                "Emma Vardy", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eefbfde4b079cff57a2031", 
+            "title": "new westgate officially open", 
+            "text": [
+                "even the mad hatter turned up", 
+                "# westgateoxford is officially open ! !", 
+                "@ twitterid", 
+                "great live tonight sinead .", 
+                "thanks @ twitterid", 
+                "the rabbit-lady looks like she 's giving jean fooks acid flashbacks", 
+                "oh joy !", 
+                "please show photo of the lock !", 
+                "# key @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eee155e4b0e5ed52a25e2d", 
+            "title": "scheme to help people with autism expanded", 
+            "text": [
+                "a scheme to help people with autism who also have mental health problems is set to be expanded in hampshire .", 
+                "about 40 people use the brain in hand app , which sets reminders and includes specific advice for crisis situations .", 
+                "users can get help on the phone when they need it , using a traffic light system .", 
+                "tina betts , from gosport , was suicidal and had not left her home for months but now she has started college and joined a choir ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eee620e4b0cff5230ce861", 
+            "title": "weather : 'mostly cloudy , breezy '", 
+            "text": [
+                "weather : 'mostly cloudy , breezy '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eeef28e4b0e5ed52a25e43", 
+            "title": "westgate oxford : what does it look like inside ?", 
+            "text": [
+                "a bit like a space station from star wars , apparently ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eee0d1e4b0cff5230ce856", 
+            "title": "norman 'treasures ' from winchester garden digs on show", 
+            "text": [
+                "remnants of a norman abbey where alfred the great was buried have gone on display after the carved stones were unearthed in two private gardens .", 
+                "the archway components , from the former hyde abbey in winchester , were found at an archaeological dig in april .", 
+                "the details were kept secret while historical research was carried out .", 
+                "some of the 11 `` elaborate '' large carvings and dozens of fragments have been pieced together for an exhibition at st bartholomew 's church in hyde ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59eee6afe4b079cff57a2006", 
+            "title": "westgate oxford : new \u00a3 440m shopping centre opens", 
+            "text": [
+                "a new shopping centre will open in oxford later following a \u00a3 440m redevelopment project .", 
+                "westgate oxford replaces a 1970s centre that was demolished in 2016 , after previous redevelopments stalled .", 
+                "it is estimated about 15 million people a year will visit the centre and it will create the equivalent of 3,500 full-time jobs , westgate oxford alliance said .", 
+                "it covers 800,000 sq ft ( 74,300 sq m ) and has space for 100 shops , restaurants and a cinema ."
+            ], 
+            "author": [
+                "Marcus Liddell", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59eedf3be4b0e5ed52a25e25", 
+            "title": "calls to reduce speed over new forest animal deaths", 
+            "text": [
+                "drivers are being asked to add three minutes to their journey in the new forest to help reduce animal accidents .", 
+                "new signs have been unveiled on the most dangerous routes in the forest to encourage people to slow down .", 
+                "the number of ponies and other animals killed on the roads usually rises dramatically in the weeks when the clocks change in the autumn .", 
+                "in total 63 animals were killed on the roads in 2016 .", 
+                "commoners and organisations come together to ask drivers to # add3minutes to commute to reduce animal road deaths once the clocks go back .", 
+                "in my experience the worst offenders for ignoring 40mph limits on forest roads are people who were born there - think the rules do n't apply", 
+                "you 're right that majority of animal accidents are caused by local drivers .", 
+                "so this campaign asks people to # add3minutes to their commute .", 
+                "good luck with that one .", 
+                "encouragement does n't work .", 
+                "lower speed limits , filtered permeability and enforcement are the only way forward .", 
+                "this is just part of a range of measures , including a safety van that catches 1,000+ speeding motorists every month", 
+                "good .", 
+                "still , 40mph is still too fast - should be 30 as in urban areas .", 
+                "this would also stem rat running .", 
+                "a simple post and wire fence between your pets and traffic would be a good idea to keep them safe , but , i am being too practical .", 
+                "i take it you have never had a deer leap a fence onto the road ?", 
+                "a fence has no effect on them .", 
+                "no , i have not seen that .", 
+                "so deer run across the a31 fenced dual carriageway regularly , do they ?", 
+                "i would point out i did not mention the a31 .", 
+                "other parts of the forest are fenced .", 
+                "beaulieu-brockenhurst where i had a near miss .", 
+                "no deer killed on a31 .", 
+                "no ponies killed on a31 .", 
+                "fencing saves lives .", 
+                "can still see the forest from the road .", 
+                "you paying to fence every road + underpasses ?", 
+                "idiots still damage fences as well and leave gates open , see lyndhurst christchurch road .", 
+                "awful news : kerry ( photo -right ) had a pony hit today , she is devastated .", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid # add3minutes", 
+                "yesssss .", 
+                "every night people pass me on forest roads returning home from work .", 
+                "give just three minutes please", 
+                "ca n't we just put electric fences around the roads to keep the animals off ?", 
+                "i hit a badger recently and it really buggered up my wheel alignment .", 
+                "animals have no place on the highways !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11114599", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59eee4d3e4b0e5ed52a25e32", 
+            "title": "good morning", 
+            "text": [
+                "welcome to south live , where we 'll bring you the latest updates from across the region until 18.00 .", 
+                "you can get in touch with your and news on our hampshire , dorset , berkshire and oxford facebook pages , or by using twitter @ twitterid @ twitterid @ twitterid and @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:59"
+        }
+    ], 
+    "genre": "uk-england-hampshire", 
+    "quality": "high"
+}

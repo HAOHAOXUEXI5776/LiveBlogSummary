@@ -1,0 +1,645 @@
+{
+    "blog_id": "7698f722224cb94c38c3d28eb25ea34da4edd38e", 
+    "title": "BBC Local Live: Leicestershire on Wednesday 8 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-39199979", 
+    "summary": [
+        "updates for wednesday 8 march 2017 .", 
+        "death of man found injured on london road treated as murder .", 
+        "england women 's cricket coming to grace road .", 
+        "campaign into brain tumour research .", 
+        "university use castle after \u00a3 4m renovation .", 
+        "cole and youngs stay with england for scotland match .", 
+        "news , sport , travel and weather updates resume at 08:00 thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c04072e4b0ec68546e380f", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live - updates will start again on thursday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c04054e4b07f8d67a01a28", 
+            "title": "weather : a bright and mild thursday", 
+            "text": [
+                "a dry night with clear spells .", 
+                "remaining breezy with lows of 7c ( 45f ) .", 
+                "thursday will be bright and mild with sunny spells .", 
+                "it will be breezy in the morning but the wind will ease later .", 
+                "a maximum temperature of 12c ( 54f ) ."
+            ], 
+            "author": [
+                "Sara Blizzard", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c033c2e4b07f8d67a019f8", 
+            "title": "electric car powering home in loughborough", 
+            "text": [
+                "this semi-detached home in loughborough is attracting visitors from all over europe and it 's all because of the car parked on the driveway", 
+                "the owner steve carroll is involved in a pilot for a new generation of technology where an electric car can power a house for up to two days - certainly useful in a power cut .", 
+                "it 's also exciting for experts who think it has the potential to help power big stadiums and entire neighbourhoods in years to come .", 
+                "this is a `` vehicle to grid unit , '' steve said .", 
+                "he said it will `` allow the control system of the house to charge and discharge energy from the much bigger battery inside the electric vehicle so we can use some of the electricity in the home . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c03954e4b07f8d67a01a0e", 
+            "title": "breakingmurder investigation launched into london road death", 
+            "text": [
+                "police investigating the death of a man found injured on london road this morning are treating it as murder .", 
+                "originally it was believed he 'd been involved in a hit-and-run but now it 's thought this may not be the case .", 
+                "a post-mortem examination is due to take place this evening .", 
+                "a 30-year-old leicester man has been arrested on sus of murder and is being held in custody ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c0346ce4b08b1f7dee1ad0", 
+            "title": "bath 's burns unhappy at tigers exit", 
+            "text": [
+                "departing leicester tigers fly-half freddie burns has said he is unhappy at the way his move to bath was handled despite relishing the chance to play for his hometown team from next season ."
+            ], 
+            "author": [
+                "Owen Phillips", 
+                "BBC Sport Online"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c02940e4b08b1f7dee1a9e", 
+            "title": "police appeal after nightclub assault", 
+            "text": [
+                "police investigating an assault at a nightclub on market street in leicester want help to identify this man", 
+                "det con frank fraser said : the man in this image could have information which could help with our enquiries . ''", 
+                "the assault happened in the early hours of sunday 22 january - the victim was hit in the face causing a fractured jaw .", 
+                "a 28-year-old man has been arrested ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c02b46e4b0ec68546e37a2", 
+            "title": "road reopens after fatal 'hit-and-run '", 
+            "text": [
+                "# leicester london rd has been reopened @ 16:00 citybound btwn de montfort st & waterloo way ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58c0269ee4b08b1f7dee1a8e", 
+            "title": "listen : shakespeare appointment a 'safe decision '", 
+            "text": [
+                "former leicester city manager micky adams explains what it 's like taking the top job after being an assistant manager"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c00628e4b07f8d67a018de", 
+            "title": "leicester woman climbs africa 's tallest mountain for brain tumour research", 
+            "text": [
+                "a woman from leicester has been speaking out about losing her mother to a brain tumour three months after she was diagnosed .", 
+                "sneha cansara said : `` i could n't believe that in this day and age mum could have something which was 'incurable ' .", 
+                "`` we are a very close family and we were hoping we would have at least a year with mum after her diagnosis , but it ended up being just three months . ''", 
+                "after her mother 's death sneha set herself a challenge to raise money for more research into the condition and has climbed mount kilimanjaro .", 
+                "she said : `` i wanted to do something positive in memory of mum which would bring hope to other families faced with the same situation as ours , so i decided i would set myself a challenge to climb mount kilimanjaro..", 
+                "i gave myself a target to raise enough funds to sponsor a day of research at one of brain tumour research 's centres of excellence . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58c002aee4b08b1f7dee19c8", 
+            "title": "carrier bag charge funds city defibrillator", 
+            "text": [
+                "police in the clarendon park area of leicester have just shared a photo of a new defibrillator on the wall of the co-op .", 
+                "i did notice this myself the other day but was n't sure if it was new or not .", 
+                "it turns out the shop has paid for it by using the 5p carrier bag levy - what a great way to use the money .", 
+                "it 's one of 50 being installed by central england co-operative across leicestershire .", 
+                "others include rothley , kibworth and melton ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bff393e4b08b1f7dee1976", 
+            "title": "lynch 'surprised ' by leicester lions job offer", 
+            "text": [
+                "this morning we told you jim lynch had been named as the new team manager of the leicester lions .", 
+                "the former great britain manager was free to accept the offer after coventry pulled out of the premiership in november .", 
+                "jim lynch said : `` the offer of a job of team manager at leicester did come as a surprise i must admit .", 
+                "i have been following in the news recent developments at leicester and am impressed with the improvements being made since damien bates took over the club .", 
+                "after he had outlined his plans for the lions to me it was an easy decision to accept the post . ''"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfe527e4b08b1f7dee1920", 
+            "title": "your questions : why do parts of west leicestershire have a warwickshire postcode ?", 
+            "text": [
+                "m.j. has been in touch with us using your questions to find out why part of west leicestershire has a warwickshire postcode - places like market bosworth , higham on the hill and congerstone all have a cv13 postcode .", 
+                "he claims some well known local attractions , like twycross zoo , are deemed by many visitors to be in warwickshire because of the postcode : `` it is totally misleading and a detriment to leicestershire . ''", 
+                "i 've been looking into the issue with the help of the people behind postcodes , the royal mail .", 
+                "they told me that the postcode is their `` operational tool '' to ensure the accurate sorting , routing and delivery of post and that postcode boundaries do not necessarily reflect geographical boundaries .", 
+                "basically - the postcode for a street is determined by its nearest .", 
+                "postal town .", 
+                "not the county it is in and , as parts of west leicestershire are closer to coventry than leicester , they have a cv postcode .", 
+                "postcodes started in 1959 - long before we started using them for things like sat navs .", 
+                "royal mail said organisations who use the data should n't solely rely on the post town and recommend using other ways to identify locations ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "13:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfff2ee4b07f8d67a018b6", 
+            "title": "business leaders gather for budget speech", 
+            "text": [
+                "business leaders from across the east midlands have gathered at pwc at castle donington to listen to philip hammond 's first budget"
+            ], 
+            "author": [
+                "Hannah Meredith", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bff198e4b0ec68546e3637", 
+            "title": "afternoon weather update", 
+            "text": [
+                "staying mainly dry and cloudy with a few brighter and sunnier spells developing with top temperatures of 12c ( 54f ) .", 
+                "just the risk of an isolated shower across southern parts later ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bff410e4b08b1f7dee1979", 
+            "title": "watch : police at the scene of a fatal crash", 
+            "text": [
+                "there 's a large police presence at the scene of a crash on london road , including a forensic investigation team .", 
+                "a man died there in a suspected hit-and-run just after midnight ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bff4e3e4b08b1f7dee197a", 
+            "title": "leicester mercury front page", 
+            "text": [
+                "a man left blinded and disfigured when sulphuric acid was poured over him as he slept in bed has given evidence at leicester crown court ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bff0c1e4b08b1f7dee1965", 
+            "title": "cricket countdown clock in leicester", 
+            "text": [
+                "a clock counting down till the start of the icc women 's world cup in england and wales has been unveiled in town hall square this morning .", 
+                "here it is with england players jenny gunn , danielle hazell and amy jones", 
+                "children from rushey mead academy in leicester were invited along for a bit of cricket with the england players"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfe77de4b0ec68546e35e6", 
+            "title": "watch : refurbished castle opens as lecture theatre", 
+            "text": [
+                "after an 18 month renovation costing over \u00a3 4m leicester castle has now been let to de montfort university .", 
+                "i 've been to look around", 
+                "first built in 1070 the castle was part of leicester 's medieval defences , as well as playing host to kings and queens including two edwards and richard iii .", 
+                "later the great hall was used for sessions of the parliament of england , and until 1992 a courthouse ."
+            ], 
+            "author": [
+                "Bridget Blair", 
+                "BBC Radio Leicester Reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfd84fe4b07f8d67a017cf", 
+            "title": "breakingman dies in london road 'hit-and-run '", 
+            "text": [
+                "the man found injured in london road early this morning has died from his injuries .", 
+                "police believe he sustained the fatal injuries in a hit-and-run just after midnight but they are still in the early stages of their investigation .", 
+                "london road is still closed outside the railway station , from regent street to waterloo way - police have said they hope to open the road as soon as possible .", 
+                "they also believe there were other drivers in the london road area at the time of the crash and are appealing to hear from anyone with information ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfd4a5e4b0ec68546e3573", 
+            "title": "watch : budget pork pie", 
+            "text": [
+                "because we had a spare pork pie in the fridge we decided to use it to represent the money the chancellor will be dividing up later today .", 
+                "as you can see - it all got a bit crumbley"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfca0ee4b08b1f7dee1897", 
+            "title": "budget day in leicestershire", 
+            "text": [
+                "the chancellor philip hammond will deliver his first budget later - he 's expected to say that more austerity lies ahead and the government wo n't shirk difficult decisions on tax and spending .", 
+                "i 've used a fine leicestershire pork pie to show you how the money is currently divided", 
+                "so how would you do it differently ?", 
+                "i met matt wray and emma stone who set up an organic health food store in market harborough nine months ago .", 
+                "they want help with business rates and with employing their first member of staff .", 
+                "they believe in paying the living wage but said it 's a big step to also pay an expected rise in national insurance contributions and pension auto-enrolment for any full time staff they take on ."
+            ], 
+            "author": [
+                "Helen McCarthy", 
+                "BBC Radio Leicester Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfc673e4b0ec68546e3529", 
+            "title": "scene of road closure", 
+            "text": [
+                "this is the scene at london road where the road has been closed - by the sound of it there are very long delays getting around the closure ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfc2f3e4b0ec68546e351a", 
+            "title": "missing teen could be in leicester", 
+            "text": [
+                "this is 16-year-old lily rose carr - she 's been missing from home in kettering for over a week", 
+                "police are appealing for information about the whereabouts - it 's thought she could be in corby or leicester ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfbbb2e4b0ec68546e34f2", 
+            "title": "man found injured on london road", 
+            "text": [
+                "i 've got more more information about the closure of a section of london road this morning .", 
+                "police have told us they were called by the ambulance service just after 00.30 this morning following the discovery of a man in the road with injuries .", 
+                "he 's thought to have been involved in a hit-and-run ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfbd16e4b07f8d67a0172d", 
+            "title": "rugby : burns hopeful for anglo-welsh cup silverware", 
+            "text": [
+                "leicester tigers fly-half freddie burns has said he does n't want to leave welford road without winning something .", 
+                "burns ' three-year spell at the club ends in the summer when he moves to bath in a deal that will see george ford arrive in his place .", 
+                "he said he 's targeting saturday 's anglo-welsh cup semi-final as a chance to get some silverware ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfbc8be4b07f8d67a01729", 
+            "title": "rugby : cole and youngs stay with england for scotland match", 
+            "text": [
+                "leicester tigers prop dan cole and scrum-half ben youngs have been retained by england for saturday 's six nations clash with scotland .", 
+                "forwards ellis genge and mike williams will be available for tigers this weekend after being released ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfbad4e4b08b1f7dee1835", 
+            "title": "speedway : lions appoint new team manager", 
+            "text": [
+                "former great britain manager jim lynch has been appointed team manager at leicester lions ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfba04e4b08b1f7dee182e", 
+            "title": "england cricket coming to leicester", 
+            "text": [
+                "england will play pakistan at grace road on 27 june in the icc women 's world cup .", 
+                "the summer tournament in england and wales will include seven fixtures in leicester in total with the city being the home venue for pakistan .", 
+                "five of their seven matches will be at grace road ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfba70e4b08b1f7dee1833", 
+            "title": "watch : east midlands weather outlook", 
+            "text": [
+                "watch : east midlands weather outlook"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfba64e4b08b1f7dee1832", 
+            "title": "travel : delays caused by road closure", 
+            "text": [
+                "the london road closure is causing problems as traffic is diverted", 
+                "in # leicester de montfort street and regent road very busy as traffic diverts around the closure of the citybound side of london road .", 
+                "@ twitterid why is london rd closed ?"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58bfb6d8e4b0ec68546e34d1", 
+            "title": "crash closes london road", 
+            "text": [
+                "this could cause you some delays this morning"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58bfb78ee4b08b1f7dee181e", 
+            "title": "join us for today 's live coverage", 
+            "text": [
+                "good morning leicestershire - i 'll be writing the updates on your local live page today with all the latest news , sport , weather and travel .", 
+                "you can get involved by email , facebook or twitter - send us your comments on the day 's stories ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:09"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

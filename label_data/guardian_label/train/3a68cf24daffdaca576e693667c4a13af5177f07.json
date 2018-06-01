@@ -1,0 +1,1254 @@
+{
+    "blog_id": "3a68cf24daffdaca576e693667c4a13af5177f07", 
+    "title": "MPs quiz Mark Carney on Brexit fallout - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/politics/live/2016/jul/12/mps-to-quiz-mark-carney-on-brexit-fallout-business-live", 
+    "summary": [
+        "wall street opens higher .", 
+        "irish economy grows 26 % in 2015", 
+        "ftse 100 breaks through 6,700 mark .", 
+        "carney : we have tools to meet stability .", 
+        "carney : relaxing capital requirements is no silver bullet .", 
+        "carney : i did not discuss a brexit 'line ' with chancellor .", 
+        "bank of england was warned about property fund suspensions ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784f7a2e4b088da4bdc83fe", 
+            "title": "", 
+            "text": [
+                "that 's it for today , thank you for joining us .", 
+                "we 'll be back again in the morning .", 
+                "am"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                14, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784f356e4b088da4bdc83e0", 
+            "title": "wall street opens higher", 
+            "text": [
+                "us markets are up in early trading .", 
+                "dow jones : +0.4 % at 18,295 s & p 500 : +0.4 % at 2,146 nasdaq : +0.6 % at 5,018"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784f142e4b088da4bdc83d7", 
+            "title": "irish economy grows 26 % in 2015", 
+            "text": [
+                "ireland 's economy grew by a massive 26.3 % in 2015 , following a surge in foreign investment .", 
+                "a major boost came from foreign companies that switched their base to ireland , increasing the value of the country 's corporate sector .", 
+                "michael connolly , a senior statistician at ireland 's central statistics office , said : what happens here is that an entire balance sheet of a company relocating to ireland from somewhere else is included in our capital stocks or our international investment position .", 
+                "the very dramatic increase has increased the capacity for production in the economy and impacts the accounts for 2015 in the increase of exports and imports .", 
+                "read our full story on the figures here : irish economy surges 26 % as revised figures take in foreign investment read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784ebd2e4b088da4bdc83b9", 
+            "title": "", 
+            "text": [
+                "german finance minister wolfgang schaeuble has been speaking in brussels , where he joined other eu finance ministers for the latest ecofin meeting .", 
+                "he called for britain to be clear about its brexit decision as soon as possible to limit long-term uncertainty .", 
+                "speaking separately in berlin , the german chancellor angela merkel said her government 's goal is to ensure brexit does not have an impact in germany ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784ecd0e4b07aeebc8d313e", 
+            "title": "ftse 100 breaks through 6,700 mark", 
+            "text": [
+                "the ftse 100 has risen above 6,700 for the first time since 11 august .", 
+                "investors continue to be cheered by the swifter-than-expected conclusion to the conservative party leadership contest , with theresa may confirmed on tuesday as the uk 's new pm .", 
+                "the ftse is up 0.3 % or 18 points at 6,701 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                17
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784eaa2e4b0e38450247482", 
+            "title": "", 
+            "text": [
+                "the pound is up 1.2 % against the dollar , at $ 1.3152 .", 
+                "it is up 0.9 % against the euro at \u20ac1.1850 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784e7d3e4b0e38450247476", 
+            "title": "", 
+            "text": [
+                "back in the wider world , european markets are higher .", 
+                "the ftse 250 is up 0.6 % at 16,803 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                13, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784dd73e4b0f36a6e1c590e", 
+            "title": "carney gives robust defence in tense exchange with mps", 
+            "text": [
+                "mark carney came under considerable pressure from mps , who quizzed him on the bank 's position in the lead up to the referendum on 23 june .", 
+                "it was the governor 's first appearance in front of the treasury committee .", 
+                "key points from the session : carney said that by highlighting potential risks associated with brexit he was representing the bank 's independent view , and not that of david cameron or george osborne .", 
+                "there was no political bias , he insisted .", 
+                "there was no discussion with the chancellor about any particular brexit line '' to be taken by the bank , the governor said .", 
+                "he said the move to relax the rules on how much capital banks must hold was not expected to be a silver bullet '' , addressing all the risks posed by the brexit vote .", 
+                "but it would help to send a message to businesses and households that banks had money to lend .", 
+                "there will be no repeat of the credit crunch of 2008/2009 .", 
+                "consumers are also in a better position than they were before the crisis , with fewer debts .", 
+                "the bank of england did not intervene in america 's response to the hsbc files .", 
+                "a report in the us suggests the department of justice did not want to see legal proceedings against the bank because of the risks to financial stability .", 
+                "the bank has the tools to ensure both monetary and financial stability , carney said .", 
+                "he added the uk 's exposure to the troubled italian banking system was modest .", 
+                "the weaker pound could reduce britain 's current account deficit by about a third ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                12, 
+                38
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784d718e4b0630007c6ba65", 
+            "title": "", 
+            "text": [
+                "will the brexit decision be negative for foreign direct investment over the long term , tyrie asks richard sharp , an external member of the fpc ?", 
+                "in the short to medium term yes , sharp answers , in the longer term it will depend on policies and agreements struck .", 
+                "and that concludes the session .", 
+                "full story and summary to follow ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                11, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784d3a1e4b0630007c6ba4a", 
+            "title": "", 
+            "text": [
+                "the governor says a weaker pound should improve the current account deficit , making it smaller .", 
+                "if maintained , the drop in the pound since the referendum would reduce the current account deficit by about a third , carney estimates .", 
+                "turning to the downsides of the brexit vote for the current account , carney includes the reduction in foreign investment in uk commercial property , and the modest increase '' in risk premium associated with uk assets .", 
+                "when institutions try to bluff their way through risks , sweeping them under the carpet it is exactly the wrong thing to do '' , carney says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                11, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784d17fe4b0ea445f0fe6ae", 
+            "title": "", 
+            "text": [
+                "carney turns to the fall in the pound since the referendum .", 
+                "the exchange rate move can help the uk adjust to the post-brexit environment , including the change in trade terms that will follow , the governor says .", 
+                "fpc member donald kohn says that if you are going to make a major decision to build a factory or open a new office in the uk , you would want to know what the terms of trading would be with other countries ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                11, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784d04ce4b0ea445f0fe6a5", 
+            "title": "", 
+            "text": [
+                "andrew tyrie follows up by saying the bank 's mpc and fpc would have come in for considerable criticism had they not commented on the potential consequences of brexit in the run up to the referendum .", 
+                "deputy governor cunliffe says the bank 's reputation would have been damaged if it had not warned of brexit risks before the vote ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                11, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784cbaee4b0ea445f0fe689", 
+            "title": "", 
+            "text": [
+                "jacob rees-mogg questions mark carney conservative mp jacob rees-mogg is up .", 
+                "he clashed with carney in the run-up to the referendum , accusing the governor of being in the pocket of the chancellor on the remain side of the campaign .", 
+                "rees-mogg asks whether the bank must be like caesar 's wife , above sus the mp is pressing on with the idea that carney showed political bias in the run-up to the referendum by arguing that being a member of the eu would be net beneficial for the uk economy .", 
+                "carney rejects the idea .", 
+                "the conservative mp is now taking carney to task on his comment pre-referendum that uk rates could go either up or down in the event of a brexit vote .", 
+                "was it ever likely that policy would be tightened , rees-mogg asks , or did it just suit the chancellor 's argument ?", 
+                "carney says the statement was a balanced view , reflecting the views of the mpc as a whole .", 
+                "the governor is keeping a fairly cool head in the face of some hostile questioning by rees-mogg .", 
+                "carney gets the last word , suggesting those questioning whether the bank was biased should consider their [ own ] motivations their judgements ? ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                11, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784cafde4b0ea445f0fe684", 
+            "title": "", 
+            "text": [
+                "markets are hedging downside risk '' according to carney , which is why we have seen record low bond yields .", 
+                "low bond yields do not give an accurate signal of the future of the uk economy .", 
+                "the financial system can withstand huge shocks .", 
+                "there will be growth '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784c86ae4b0630007c6b9fa", 
+            "title": "carney : we have tools to meet stability", 
+            "text": [
+                "carney is talking about the ultra low rates environment we are currently in .", 
+                "the governor suggests that the bank still has tools up its sleeve should it need them .", 
+                "we have the tools to meet our responsibilities for both monetary and financial stability .", 
+                "carney continues to sound the same reassuring note he has adopted since the brexit result was known on 24 june .", 
+                "economists believe the bank 's monetary policy committee will announce fresh measures to stimulate the uk economy - possibly as early as thursday when it announces its monthly policy decision .", 
+                "the mpc could further cut interest rates ( from 0.5 % ) or extend quantitative easing ( from \u00a3 375bn ) , or both ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784c7dde4b0f36a6e1c588b", 
+            "title": "", 
+            "text": [
+                "fpc member donald kohn says the most likely scenario of a rise in uk interest rates is a strong economy .", 
+                "it does n't necessarily have to be all bad news . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784c4f4e4b0f36a6e1c5879", 
+            "title": "", 
+            "text": [
+                "sir jon cunliffe , the bank 's deputy governor for financial stability , says we have seen the beginning of financial markets putting a risk premium on uk assets .", 
+                "however , his fpc colleague donald kohn says this is limited , because the banks are better capitalised than they were in the run-up to the financial crisis ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784c407e4b0ea445f0fe65b", 
+            "title": "", 
+            "text": [
+                "carney says consumers are in a better position than they were in the run-up the crisis , less indebted .", 
+                "so households indebtedness now poses a smaller risk to financial stability ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784c349e4b0ea445f0fe657", 
+            "title": "", 
+            "text": [
+                "labour 's mann asks the governor how the bank might deal with the short term risks posed by a potential second referendum on scottish independence .", 
+                "he says the issue of uk bank headquarters should be addressed well before any future decision on independence ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784c236e4b0f36a6e1c5865", 
+            "title": "", 
+            "text": [
+                "now to italian banks .", 
+                "carney says there is a macroeconomic risk posed by italian banks and their bad loans and the italian authorities are looking at it .", 
+                "the uk 's exposure is modest , '' the governor says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784c0c6e4b0ea445f0fe645", 
+            "title": "", 
+            "text": [
+                "labour mp john mann is bringing carney to task on property funds , and the fact the fpc was aware that investors were likely to withdraw large sums of money in the event of a brexit vote .", 
+                "why did n't the fpc do anything ?", 
+                "carney says that markets have created funds with daily liquidity that invest in illiquid assets ( i.e .", 
+                "property ) .", 
+                "he says the fca were aware and were looking at the issue ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784bee1e4b0ea445f0fe638", 
+            "title": "", 
+            "text": [
+                "tyrie now asks donald kohn about a republican party report in the us that claims the department of justice did not want to see legal proceedings against the hsbc because of risks to financial stability .", 
+                "should we be taking this seriously ?", 
+                "kohn says he has no specific knowledge of this situation .", 
+                "i would n't pass judgment until i heard the other side of the story .", 
+                "tyrie to carney : did you discuss the matter with the chancellor ?", 
+                "the allegation here is that uk authorities have been meddling . ''", 
+                "carney says he was not involved in or aware of any alleged intervention on the hsbc case .", 
+                "( a reminder of the hsbc files here . )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                10, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784bcd7e4b0f36a6e1c584e", 
+            "title": "carney : relaxing capital requirements is no silver bullet", 
+            "text": [
+                "there will be no credit crunch '' , unlike 2008/2009 , according to the governor , because banks will have funds available to lend .", 
+                "credit supply ( lack of it ) will not constrain the economy .", 
+                "reeves says she worries that the relaxing of rules on bank 's capital requirements are not going to be enough to save the economy post-brexit .", 
+                "carney says it 's just one element of a bigger story : we would not represent this as a single silver bullet .", 
+                "it is part of a series of measures ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784bb83e4b0f36a6e1c584a", 
+            "title": "", 
+            "text": [
+                "reeves says she is still worried about whether there will be a reduction in lending .", 
+                "carney says that demand , not credit availability , is more likely to wane .", 
+                "we really want to make it as clear as possible to businesses and individuals that credit should be available for the right ideas , for the right transactions , be it a mortgage or a new business ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784ba24e4b0630007c6b9ab", 
+            "title": "", 
+            "text": [
+                "rachel reeves , labour mp , says the bank was right to warn on brexit risks before she moves on to the issue of counter-cyclical buffers .", 
+                "carney says that by relaxing the rules for banks he wanted to take off the table '' concerns about credit supply .", 
+                "the banks are well capitalised . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784baa5e4b0630007c6b9af", 
+            "title": "", 
+            "text": [
+                "kamal ahmed ( @ bbckamal ) carney responds to tyrie telling him that boris johnson thought he had done a `` superb job : `` any port in a storm , chair . ''", 
+                "# brexit"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b89ae4b0f36a6e1c5835", 
+            "title": "", 
+            "text": [
+                "now tyrie is asking whether carney would agree to the publication of records of any discussions the governor had with osborne on the matter , in order to ease any fears of political bias the public might have .", 
+                "the governor says that he is prepared to look at how that can be done as long as it is within the public interest .", 
+                "tyrie quips that lead brexiteer boris johnson has credited carney with doing a good job since the vote .", 
+                "returning to serious mode , carney says things are different in the current era , much more transparent .", 
+                "we do n't keep things under wraps ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784b7a2e4b0f36a6e1c5831", 
+            "title": "carney : i did not discuss a brexit 'line ' with chancellor", 
+            "text": [
+                "the governor now has the chance to defend himself against the allegations .", 
+                "he describes the allegations as extraordinary '' .", 
+                "the chair [ of the fpc ] does not guide conclusions .", 
+                "the views of the fpc are the views of the fpc .", 
+                "what was in the march record are the views of the fpc , they are not pre-judged or pre-decided .", 
+                "tyrie asks whether the chancellor sought from carney guidance on the likely lines '' the bank would take on the referendum .", 
+                "carney says he did n't , that 's not the way it works .", 
+                "shaun richards ( @ notayesmansecon ) mark carney looks as though he has just eaten a wasp at the treasury select committee # boe # gbp"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                29
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784b6f7e4b0630007c6b99b", 
+            "title": "", 
+            "text": [
+                "david kohn , an external member of the bank 's financial policy committee , says the committee were in agreement on brexit risks , and that there was no pressure on policymaker to take one view or another .", 
+                "we looked at the potential risks that might emerge from a leave vote .", 
+                "all of us agreed it was the biggest near term risk to financial stability the statement we put out at the end of march was a consensus opinion ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784b57de4b0ea445f0fe60f", 
+            "title": "", 
+            "text": [
+                "tyrie says he wants to address the allegation in the run-up to the referendum that the bank attempted to scare voters about brexit for political motives .", 
+                "tyrie runs through the allegations , made by various politicians on the leave side of the campaign .", 
+                "they claimed the governor was working in the interests of david cameron and george osborne , calling into question the independence of the bank of england .", 
+                "tyrie : that 's a very serious allegation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b51fe4b0ea445f0fe60e", 
+            "title": "", 
+            "text": [
+                "andrew tyrie , chairman of the treasury committee , makes the point that this is a significant moment , as it is the first opportunity for mp 's to quiz the governor since the brexit vote ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b4fde4b0ea445f0fe60c", 
+            "title": "", 
+            "text": [
+                "here we go .", 
+                "the governor and bank colleagues take their seats ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b4a1e4b0ea445f0fe60a", 
+            "title": "", 
+            "text": [
+                "the treasury committee is late starting , we will be bringing you updates once it 's underway"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5784b410e4b0ea445f0fe608", 
+            "title": "", 
+            "text": [
+                "the full story on the fpc minutes from the guardian 's jill treanor : bank of england was warned about brexit property fund problems read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b27be4b0f36a6e1c581a", 
+            "title": "", 
+            "text": [
+                "quick note before the governor starts this from jasper lawler of cmc markets on the relief among investors the confirmation of a new uk prime minister has offered some welcome certainty in uncertain times .", 
+                "theresa may as pm has produced no mayday calls in markets .", 
+                "the safe hands '' of mrs may at the helm has actually reduced distress signals .", 
+                "the pound has risen over 1 % against the dollar today , adding to yesterday 's gains when andrea leadsom ended her campaign to become the tory party leader .", 
+                "the certainty of theresa may stepping into the top job in uk politics ahead of schedule has had the perhaps unintuitive effect of weighing on uk stocks .", 
+                "it was the drop in sterling that cushioned the 'brexit blow ' because of its positive effect on uk company foreign earnings .", 
+                "subsequently , the rebound in the pound is weighing on the ftse 100 , notably the big multinationals including vodafone , glaxosmithkline and diageo ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                9, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784b0cae4b0f36a6e1c5812", 
+            "title": "", 
+            "text": [
+                "next up : mark carney appears at the treasury select committee .", 
+                "will there be fireworks as he faces his adversary jacob rees-mogg , the mp and brexit supporter ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784af89e4b0ea445f0fe5f2", 
+            "title": "", 
+            "text": [
+                "the minutes from the financial policy committee also reveal that policymakers were unanimous in the decision to cut banks ' capital requirements following the eu referendum .", 
+                "last week the fpc lowered a capital requirement for banks , affording them greater flexibility to absorb potential brexit-related shocks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784ab3fe4b0630007c6b95c", 
+            "title": "bank of england was warned about property fund suspensions", 
+            "text": [
+                "bank of england was warned that investors were likely to pull large amounts of money out of commercial property funds following the brexit vote .", 
+                "minutes from the meeting of the bank 's financial policy committee on 28 june and 1 july ( published here ) reveal that policymakers were warned by the city regulator that funds might be suspended , which is exactly what happened .", 
+                "since 4 july , seven funds have made moves to stop withdrawals either by suspending trading or reducing the value of the fund .", 
+                "the minutes reveal : the fpc was briefed by the financial conduct authority on the extent of outflows from these funds and on the possibility that funds could suspend redemptions in the near term .", 
+                "the bank also published two paragraphs that were redacted from the minutes of an earlier fpc meeting in march .", 
+                "the pars related to contingency planning in the run-up to the 23 june referendum and were deemed at the time to be against the public interest .", 
+                "here are the paragraphs : supervisors were engaging with banks , insurers and central counterparties on their contingency plans for risks related to the referendum , including for managing funding and liquidity risks in sterling and foreign currency .", 
+                "several firms had reported that they were conducting stress tests with referendum related strategies of varying severity ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784a98be4b0630007c6b951", 
+            "title": "", 
+            "text": [
+                "ubs boss warns about potential job moves from the uk following the brexit vote yannis koutsomitis ( @ yannikouts ) # brexit wll mean `` significant '' job moves , `` complete reassessment '' of businss : ubs ~ @ business"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784a636e4b0630007c6b945", 
+            "title": "", 
+            "text": [
+                "nintendo shares are up more than 50 % in the three trading days since its pokemon go game was launched .", 
+                "pokemon go players in new york nintendo 's shares rose 12.8 % to \u00a522,860 in tokyo on tuesday , taking total gains in the past three days to 53 % .", 
+                "it means the market value of the company has jumped by \u00a3 7bn since the latest version of its 21-year-old game was made available on 7 july .", 
+                "pokemon go is the first edition of the game for mobile phones and and lets players face the monsters in the real world using their smartphone cameras .", 
+                "nintendo shares up 53 % as investors try to catch 'em all read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784a302e4b0630007c6b939", 
+            "title": "", 
+            "text": [
+                "figures published overnight showed consumer spending slowed to recession levels in the run up to the eu referendum .", 
+                "high street and online sales were up 0.2 % in june compared with the same month a year earlier according to the survey from the british retail consortium and kpmg .", 
+                "but sales were down 0.5 % on a like-for-like basis , which strips out the impact of sales at shops open for less than a year .", 
+                "over the second quarter , sales were up 0.5 % on the first quarter and 1.2 % up on an annual basis .", 
+                "the brc said this was the weakest performance since may 2009 , when the economy was contracting during its longest and deepest postwar recessions .", 
+                "economists have commented that consumers are likely to delay spending on big items while economic uncertainty reigns following the brexit decision .", 
+                "consumer spending slowed to recession levels before eu referendum read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                8, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5784a130e4b0ea445f0fe5c7", 
+            "title": "", 
+            "text": [
+                "meanwhile the yen hit more than a two-week low against the dollar as investors factored in more monetary stimulus following the the election victory by japan 's ruling coalition .", 
+                "the dollar rose 0.8 % to 103.64 yen , its strongest since 24 june when the brexit vote was revealed ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                7, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57849f17e4b0630007c6b926", 
+            "title": "pound rises above $ 1.31", 
+            "text": [
+                "the pound is rising this morning , currently up 1 % against the dollar at $ 1.3130 .", 
+                "as it stands , the pound is on track for its biggest one-day gain since before the eu referendum .", 
+                "sterling is also up 0.6 % against the euro at \u20ac1.1813 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                7, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57849829e4b0630007c6b912", 
+            "title": "european markets open slightly higher", 
+            "text": [
+                "markets have edged higher in early trading , following the ftse 100 's move into a bull market on monday .", 
+                "the ftse 100 is trailing however , down four points .", 
+                "investors have found comfort from the sooner-than-expected end to the conservative party leadership contest .", 
+                "theresa may 's confirmation as the next prime minister removes the uncertainty that investors were expecting to run for another couple of month .", 
+                "may is expected to move into number 10 on wednesday , when firm plans for brexit and life outside the eu can get underway .", 
+                "ftse 100 : -0.03 % at 6,681 ftse 250 : +0.4 % at 16,755 stoxx europe 600 : +0.4 % at 334 germany 's dax : +0.8 % at 9,909 france 's cac : +0.7 % at 4,292 italy 's ftse mib : +1.1 % at 16,433 spain 's ibex : +0.7 % at 8,367"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                7, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57848a0de4b0ea445f0fe579", 
+            "title": "the agenda : mark carney updates on brexit fallout", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "the bank of england is in focus this morning .", 
+                "at 9.30am the bank will publish the minutes of the financial policy committee meeting held on 28 july and 1 july .", 
+                "then at 10am the bank 's governor mark carney will be questioned by mps on the treasury select committee about the financial stability report published by the bank last week .", 
+                "here is our story on the report : bank of england releases \u00a3 150bn of lending amid warnings on stability read more today 's session will give carney the opportunity to provide his latest view on the fallout from the brexit vote , in this fast-changing environment .", 
+                "you can watch it live here .", 
+                "also coming up eu finance ministers are meeting in brussels for the latest ecofin meeting marks and spencer answer shareholder questions at the retailer 's annual general meeting and of course we will be bringing you the latest from the markets following the ftse 's move into a bull market on monday ftse enters bull market as may rival quits and wall street surges read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                12, 
+                7, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "politics", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.47pm BST\n14:47\nWall Street opens higher\n", 
+                "block": "block-5784f356e4b088da4bdc83e0"
+            }, 
+            {
+                "text": "\n\n2.39pm BST\n14:39\nIrish economy grows 26% in 2015\n", 
+                "block": "block-5784f142e4b088da4bdc83d7"
+            }, 
+            {
+                "text": "\n\n2.17pm BST\n14:17\nFTSE 100 breaks through 6,700 mark\n", 
+                "block": "block-5784ecd0e4b07aeebc8d313e"
+            }, 
+            {
+                "text": "\n\n11.46am BST\n11:46\nCarney: we have tools to meet stability\n", 
+                "block": "block-5784c86ae4b0630007c6b9fa"
+            }, 
+            {
+                "text": "\n\n10.56am BST\n10:56\nCarney: relaxing capital requirements is no silver bullet\n", 
+                "block": "block-5784bcd7e4b0f36a6e1c584e"
+            }, 
+            {
+                "text": "\n\n10.29am BST\n10:29\nCarney: I did not discuss a Brexit 'line' with Chancellor\n", 
+                "block": "block-5784b7a2e4b0f36a6e1c5831"
+            }, 
+            {
+                "text": "\n\n9.49am BST\n09:49\nBank of England was warned about property fund suspensions\n", 
+                "block": "block-5784ab3fe4b0630007c6b95c"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/politics/live/2016/jul/12/mps-to-quiz-mark-carney-on-brexit-fallout-business-live?page=with:block-5784dd73e4b0f36a6e1c590e#block-5784dd73e4b0f36a6e1c590e"
+                ], 
+                "text": "Bank governor in tense exchange with MPs over Brexit stance.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/politics/live/2016/jul/12/mps-to-quiz-mark-carney-on-brexit-fallout-business-live"
+                ], 
+                "text": "Global markets cheered by greater political certainty in UK.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/politics/live/2016/jul/12/mps-to-quiz-mark-carney-on-brexit-fallout-business-live?page=with:block-5784eaa2e4b0e38450247482#block-5784eaa2e4b0e38450247482"
+                ], 
+                "text": "Pound strengthens to $1.31 and rises against euro.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/2016/jul/12/irish-economic-growth-revised-figures-foreign-investment-aircraft"
+                ], 
+                "text": "Ireland's economy grows by 26% in 2015", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

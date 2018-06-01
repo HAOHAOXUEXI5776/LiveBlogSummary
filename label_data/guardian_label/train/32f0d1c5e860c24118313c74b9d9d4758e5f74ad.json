@@ -1,0 +1,1037 @@
+{
+    "blog_id": "32f0d1c5e860c24118313c74b9d9d4758e5f74ad", 
+    "title": "World stocks hits fresh highs, as bitcoin keeps climbing \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/oct/13/world-markets-hits-fresh-highs-as-chinese-imports-surge-business-live", 
+    "summary": [
+        "mixed day for european markets , while ftse slips from record highs .", 
+        "us consumer confidence hits highest level since 2004", 
+        "wall street opens higher .", 
+        "bitcoin hits new highs .", 
+        "big six energy firms suffer customer exodus .", 
+        "pound recovers on brexit hopes .", 
+        "oil and metals prices rise ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0e52c611ed80722884c9b", 
+            "title": "mixed day for european markets , while ftse slips from record highs", 
+            "text": [
+                "an uncertain day for markets saw the ftse 100 end lower after hitting a new closing peak on thursday .", 
+                "a profit warning from gkn did not help , but the index was supported by a rise in mining shares following a surge in chinese imports .", 
+                "on the other hand , sterling managed to maintain its positive mood against the dollar - with the us currency weakened by disappointing inflation numbers - which in turn undermined the overseas earners in the uk 's leading index .", 
+                "conversely the more domestic focused ftse 250 edged higher to another closing peak .", 
+                "in europe the was mixed , while in the us , wall street moved higher despite a little uncertainty over a december interest rate rise following the inflation figures .", 
+                "the final scores showed : the ftse 100 finished down 20.80 points or 0.28 % at 7535.44 germany 's dax edged up 0.07 % to 12,991.87 france 's cac closed down 0.17 % at 5351.74 italy 's ftse mib rose 0.07 % 22,413.54 spain 's ibex ended 0.17 % lower at 10,258.0 in greece , the athens market added 1.33 % to 761.35 on wall street , the dow jones industrial average is currently up 41 points or 0.18 % .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back on monday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                16, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0e6ff01a8e6075b954d44", 
+            "title": "", 
+            "text": [
+                "presented without comment : anna-louise jackson ( @ aljax7 ) life advice via @ twitterid # bitcoin # stocktoberfest"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                16, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0c3286cff230798e8361c", 
+            "title": "", 
+            "text": [
+                "back with bitcoin , and a senior economist reckons the cryptocurrency faces a mad max problem .", 
+                "teunis brosens , senior eurozone economist at ing bank says : a core element of cryptocurrency is the lack of a central authority .", 
+                "nodes on the network verify transactions which are rewarded with transaction fees and in the case of bitcoins , newly minted bitcoins go with each verified block of transaction .", 
+                "from the verifying nodes ' perspective , these new bitcoins are mined .", 
+                "hence they are referred to as miners .", 
+                "one of the central issues of cryptocurrencies is trust .", 
+                "how can the rest of the cryptocurrency network trust the verification work done by miners ?", 
+                "i 'd like to call this the mad max problem .", 
+                "in a mad max world , with no law enforcement , your base assumption has to be that nobody can be trusted .", 
+                "how to do transactions take place in such a world without anyone getting robbed ?", 
+                "for example , malevolent miners could verify blocks of fraudulent transactions in which bitcoin is taken from victims and sent to their own wallets , or where the same bitcoin is spent several times .", 
+                "how do network nodes know that the blocks presented by miners are truly valid ?", 
+                "the innovative concept applied by bitcoin is proof-of-work ( pow ) system .", 
+                "by making sure that verifying transactions is a costly business , the integrity of the network can be preserved as long as benevolent nodes control a majority of computing power .", 
+                "together , they will dominate the verification ( mining ) process to make the verification ( mining ) costly , the verification algorithm requires a lot of processing power and thus electricity .", 
+                "in fact , the website digiconomist has constructed a bitcoin energy consumption index , estimating bitcoin energy consumption .", 
+                "and the results are sobering .", 
+                "at the time of writing , verifying one transaction on the bitcoin blockchain consumes about 200kwh .", 
+                "korotayev/tass the cryptocurrency community is aware of the sheer energy consumption issue .", 
+                "therefore , it is looking for alternative solutions to the mad max problem .", 
+                "one alternative may be proof of stake .", 
+                "miners are not asked to show they put in work ( computing power ) in validating but to commit valuable resources beforehand , indicating they have a stake in the proper outcome .", 
+                "for example , miners may have to put an amount of cryptocurrency in escrow which is only released if no fraud is detected , otherwise forfeited .", 
+                "that sounds like a smart idea .", 
+                "however , it implies that only those wealthy enough to be able to put resources in escrow can join the mining process .", 
+                "this creates a plutocracy , which sits uncomfortably with cryptocurrency 's anarchistic and libertarian roots .", 
+                "my conclusion is that finding a sustainable and fair solution to the mad max problem is one of the biggest challenges for the cryptocurrency community today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                15, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0d07601a8e6075b954bee", 
+            "title": "", 
+            "text": [
+                "the us inflation figure was the main focus in the day 's data , says connor campbell , financial analyst at spreadex , and it came in below expectations : the dollar did n't get the hawkish data delivery it wished for this friday well , not quite anyway leaving ( an admittedly tiny ) slither of doubt surrounding the potential december rate hike .", 
+                "the afternoon 's figures were n't bad by any means .", 
+                "retail sales saw a huge bounce from -0.1 to 1.6 % month-on-month while consumer confidence hit its highest level since 2004 .", 
+                "yet those readings did n't really matter to investors , who instead focused on the fact inflation rose from 0.4 % to 0.5 % , not the 0.6 % forecast .", 
+                "with a the fed constantly mentioning their concerns about weak us inflation and how it imperils the chances of an interest rate rise before the end of the year it was a miss the dollar was n't willing to indulge .", 
+                "instead the greenback shed 0.2 % against both the pound and the euro , while dropping 0.3 % against the yen .", 
+                "this allowed the dow jones to continue its seemingly unstoppable march to daily all-time highs , with the index lurking just below 22900 following a 50 point rise .", 
+                "as for sterling , it 's had a pretty inconsistent day .", 
+                "the currency 's managed to hold onto last night 's sharp rebound while struggling to maintain a steady grip on this friday 's more modest growth .", 
+                "the inflation situation in the us allowed cable to keep above $ 1.33 ; against the euro , however , it 's seen \u0082\u00ac1.1265-crossing 9 day highs and sub- $ 1.12 lows , eventually settling just above that latter level with a 0.1 % rise ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                14, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0ca6f6cff230798e83671", 
+            "title": "", 
+            "text": [
+                "joseph a. lavorgna ( @ lavorgnanomics ) wow !", 
+                "consumer confidence makes new cyclical high .", 
+                "is faster # gdp growth finally around the corner ?", 
+                "# taxcuts could give the final push"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                14, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0c7cc611ed80722884ae7", 
+            "title": "us consumer confidence hits highest level since 2004", 
+            "text": [
+                "more us data , and it looks like the country 's consumers are in confident mood ( see also the retail sales figures . )", 
+                "the monthly university of michigan consumer sentiment index climbed from 95.1 in september to a preliminary reading of 101.1 for october .", 
+                "this is better than the dip to 95 which had been expected , and is the highest level since the start of 2004. of michigan the survey 's chief economist richard curtin said : the october gain was broadly shared , occurring among all age and income subgroups and across all partisan viewpoints .", 
+                "the data indicate a robust outlook for consumer spending that extends the current expansion to at least mid 2018 , which would mark the 2nd longest expansion since the mid 1800 's .", 
+                "while the early october surge indicates greater optimism about the future course of the economy , it also reflects an unmistakable sense among consumers that economic prospects are now about as good as could be expected .", 
+                "this as good as it gets outlook is supported by a moderation in the expected pace of growth in both personal finances and the overall economy , accompanied by a growing sense that , even with this moderation , it would still mean the continuation of good economic times .", 
+                "nothing in the latest survey indicates that consumers anticipate an economic downturn anytime soon - which contrarians may consider a clear warning sign of trouble ahead .", 
+                "nonetheless , consumers anticipate low unemployment , low inflation , small increases in interest rates , and most importantly , modest income gains in the year ahead .", 
+                "it is this acceptance of lackluster growth rates in personal income and in the overall economy that signifies that consumers have accepted , however reluctantly , limits on the pace of improving prospects for living standards ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                14, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59e0c195611ed80722884a94", 
+            "title": "wall street opens higher", 
+            "text": [
+                "the stronger us retail sales and hopes for positive company results have pushed us markets higher once more .", 
+                "the dow jones industrial average is up 28 points or 0.12 % while the s & p 500 opened 0.16 % higher to reach a new peak while the nasdaq composite added 0.3 % to a record high .", 
+                "cnbc ( @ cnbc ) s & p 500 and nasdaq hit record highs as wall street bets on a strong earnings season"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                13, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0bf256cff230798e835ef", 
+            "title": "", 
+            "text": [
+                "not everyone believes a december us rate rise is a certainty , especially after this latest data .", 
+                "john dolan , senior dealer at fexco corporate payments , said : in the space of just a week , all bets on a december rate rise are off and the us is further than ever from solving its inflationary puzzle .", 
+                "while a december rate hike had seemed a strong probability after last friday 's solid wage growth data , the now looks much more finely balanced .", 
+                "as this week 's fomc minutes revealed , the fed remains deeply concerned about america 's inflation , or rather , the lack of it .", 
+                "even though us wages are rising at a reasonable clip , consumer prices are still rising too slowly to require an immediate rate rise .", 
+                "any december hike would therefore be driven by the fed 's desire to move rates back to more normal levels rather than by any inflationary imperative .", 
+                "while a final hike in 2017 remains a distinct possibility it 's far from a done deal and this uncertainty has weighed heavily on the dollar , dragging it down against both the euro and sterling ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0bc306cff230798e835cc", 
+            "title": "", 
+            "text": [
+                "and from the bureau of labor statistics on us inflation : of labor statistics of labor statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                13, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0bae501a8e6075b954aed", 
+            "title": "", 
+            "text": [
+                "more from the us commerce department on the retail sales : commerce department"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                13, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0b6c1611ed80722884a43", 
+            "title": "", 
+            "text": [
+                "the dollar has weakened following the us data , in particular the inflation figures .", 
+                "but - barring political ructions - the federal reserve is still on track for a rate rise in february , says james knightley , chief international economist at ing bank : inflation pressures are grinding higher and domestic activity is strong , suggesting that the main barrier to a higher fed funds rate is political rather than economic .", 
+                "the us cpi report shows inflation pressures are rising , but this is primarily an energy story reflecting higher oil prices and refinery shutdowns relating to hurricane harvey .", 
+                "at the headline level it rose 0.5 % month on month/2.2 % year on year ( a tenth of a percentage point below what was expected ) .", 
+                "energy prices rose 6.1 % month on month , but excluding food and energy inflationary pressures were more muted , rising just 0.1 % month on month/1.7 % year on year ( again a tenth of a percentage point below expectations ) .", 
+                "in terms of core inflationary pressures , we are starting to see a bit more upward movement in the housing component , but medical care , apparel and education prices are very soft .", 
+                "nonetheless , with the economy growing quite strongly , the jobs market looking tight with wage growth starting to show some signs of life we would expect inflation rates to creep higher september retail sales [ data ] has also been released and is strong , rising 1.6 % mom with small upward revisions to august 's data .", 
+                "hurricane effects are clearly visible higher gasoline prices boosted gasoline station sales 5.8 % mom while the fact unit car sales rose to a 12 year high helped boost the value of sales with a 3.6 % mom rise .", 
+                "strength can also be seen in other components and it is likely that there was some uplift as households start to replace lost items following the recent hurricanes .", 
+                "this has come on top of what is already a strong story for the consumer with employment , wages and confidence all looking healthy .", 
+                "we expect the positive story to continue into next week with industrial production rebounding following storm disruption .", 
+                "after all , the ism manufacturing index is at a 13 year high , the dollar is making exports more competitive and we are seeing stronger global growth .", 
+                "with overall economic growth looking good , inflation pressures gradually increasing and the fed 's worries about asset valuations and financial stability becoming more prominent in speeches , a december rate hike is looking likely .", 
+                "the main risk remains the potential for an economically/market destabilising government shutdown ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                12, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0b5cf611ed80722884a3d", 
+            "title": "", 
+            "text": [
+                "meanwhile us retail sales have bounced back in september , albeit just shy of expectations : david madden ( @ dmadden cmc ) us retail sales mom ( sep ) : 1.6 % vs 1.7 % expected , prior -0.2 % us core retail sales mom ( sep ) : 0.5 % vs 0.4 % expected , prior -0.1 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                12, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0b39601a8e6075b954ab4", 
+            "title": "", 
+            "text": [
+                "newsflash : inflation across america rose last month , but by less than expected .", 
+                "consumer prices increased by 0.5 % in september , below the 0.6 % which wall street expected .", 
+                "on an annual basis , us cpi rose by 2.2 % , up from 1.9 % a month ago .", 
+                "that puts it over the federal reserve 's target of a 2 % inflation rate .", 
+                "core inflation , which strips out volatile factors like food and fuel , was flat at 1.7 % .", 
+                "danske bank research ( @ danske research ) \u00f0\u009f\u0087\u00ba\u00f0\u009f\u0087\u00b8 # us cpi core # inflation lower than expected - # fed still likely to hike in december due to strong labour market $ eurusd # yellen"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                12, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0ad5f01a8e6075b954a6b", 
+            "title": "", 
+            "text": [
+                "so , is bitcoin a sensible investment at today 's record levels , or should you keep well away ?", 
+                "cryptocurrency 's many supporters will argue that city institutions are waking up to bitcoin 's potential ( such as the ability to transfer money safely , securely , and cheaply worldwide ) .", 
+                "two weeks ago , it emerged that goldman sachs has been considering whether to launch a new trading operation dedicated to bitcoin and other digital currencies .", 
+                "if that happens , it would arguably be the biggest endorsement yet from wall street .", 
+                "the moment bitcoin hit a new all-time high over $ 5,800 today but critics argue that the recent rally is a bubble , that could burst if there is a rush to the exits .", 
+                "lee wild , head of equity strategy at interactive investors , says anyone considering investing in digital currencies needs to be cautious : the value of bitcoin has almost doubled in less than a month which is clearly attracting further interest from speculators .", 
+                "there 's evidence of growing institutional activity , too , and if china reopens cryptocurrency exchanges after the communist party congress which starts next week , some believe the price could reach $ 10,000 by the end of the year .", 
+                "however , there could be near-term turbulence around changes to the code the bitcoin network runs on , due to be implemented in mid-november .", 
+                "it is crucial that retail investors understand the many risks involved in cryptocurrency trading , not least the volatility - bitcoin has lost more than a third of its value on two occasions since june .", 
+                "it is clearly not for the faint-hearted ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                12, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0aca2611ed807228849cc", 
+            "title": "", 
+            "text": [
+                "the pace of bitcoin 's rally in recent weeks is quite remarkable .", 
+                "as this chart from bloomberg shows , it 's quadrupled in value this year , despite faltering last month when china announced a crackdown on bitcoin exchanges .", 
+                "the bitcoin price"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                12, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0aa1201a8e6075b954a3f", 
+            "title": "", 
+            "text": [
+                "our economics editor , larry elliott , has been holding the world bank to account at their annual meeting with the imf in washington : ben phillips ( @ benphillips76 ) great question from guardian to @ twitterid boss jim kim on the gap between what the international financial institutions say on inequality and what they do .", 
+                "and a very weak answer from jim kim .", 
+                "you are what you do , @ twitterid and @ twitterid ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                11, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e09cf701a8e6075b9549a7", 
+            "title": "bitcoin hits new highs", 
+            "text": [
+                "bitcoin is having another one of those days .", 
+                "having smashed through $ 5,000 for the first time yesterday , the cryptocurrency soared to $ 5,846 this morning before dipping back to $ 5,600 as i type .", 
+                "last night , imf chief christine lagarde said central bankers and regulators must take digital currencies such as bitcoin seriously , given the way they can disrupt the status quo .", 
+                "cnbc ( @ cnbc ) 'we are about to see massive disruptions ' : imf chief on digital currency future many in the financial industry are struggling to come to terms with the rise of digital currencies , and unconvinced that bitcoin may be an unsustainable bubble .", 
+                "jamie dimon of jp morgan became the poster boy for the sceptics last month , when he declared that bitcoin was a fraud that would n't survive .", 
+                "yesterday he declined to take questions on the issue jason karaian ( @ jkaraian ) jamie dimon vs. bitcoin , a play in five acts sir howard davies , chairman of royal bank of scotland , argues that the blockchain technology which underpins bitcoin should be a useful \u0080\u0098utility ' to improve the financial system operate .", 
+                "he told bloomberg tv this morning : i can see that a cryptocurrency like bitcoin can be useful in a blockchain context and speeding up interbank transactions .", 
+                "but , sir howard reckons that bitcoin 's extreme volatility means it ca n't be a serious store of value for investors .", 
+                "ubs is also sceptical , saying bitcoin seems to be a bubble .", 
+                "but again , they 're attracted to the blockchain - the digital ledger that tracks digital transations .", 
+                "in a new report , they say : cryptocurrencies have soared in popularity since 2008 , with more than 1,000 in existence today and an aggregate value greater than the market capitalization of ibm .", 
+                "but we are highly doubtful whether they will ever become mainstream currencies .", 
+                "the need for companies and individuals to pay tax receipts in government-issued currency , and the potentially unlimited crypto-money supply , pose significant barriers to widespread adoption .", 
+                "we think the sharp rise in crypto-currency valuations in recent months is a speculative bubble .", 
+                "but while we are doubtful cryptocurrencies will ever become a mainstream means of exchange , the underlying technology , blockchain , is likely to have a significant impact in industries ranging from finance to manufacturing , healthcare , and utilities .", 
+                "we estimate that blockchain could add as much as usd 300-400bn of annual economic value globally by 2027 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                11, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e09e1a611ed80722884928", 
+            "title": "", 
+            "text": [
+                "india 's stock market has been swept to a new alltime high today : cnbc-tv18 news ( @ cnbctv18news ) the nifty has hit 3 fresh records in the last 2 months but it has been one roller-coaster ride !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                11, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0992d01a8e6075b95495b", 
+            "title": "", 
+            "text": [
+                "china also hit a milestone for iron ore imports last month , as it bought more higher-quality stocks from abroad .", 
+                "bloomberg has the details : iron ore imports by china surged above 100 million metric tons to a record , smashing the previous high set in 2015 , as the country 's concerted push to clean up the environment stoked demand for higher-grade material from overseas while hurting local mine supply .", 
+                "stuart wallace ( @ stuartlwallace ) iron ore rallies as china 's imports smash 100 million ton level via @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                10, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e092f96cff230798e833e1", 
+            "title": "", 
+            "text": [
+                "leal-olivas/afp/getty images newsflash : uber has filed an appeal against the decision to withdraw its licence to operate in london .", 
+                "the ride hiring app lodged its appeal in the courts this morning , ensuring that it can keep operating until the issue has been addressed .", 
+                "the uk 's judicial office has told reuters that a heading could now take place on december 11 , into transport for london 's ruling that uber was n't a fit and proper company to operate in the capital .", 
+                "zora suleman ( @ zorasuleman ) uber has now filed an appeal against tfl 's decision not to renew its licence in london .", 
+                "today was the deadline for ober to formally object to tfl 's decision .", 
+                "an uber spokesman says : while we have today filed our appeal so that londoners can continue using our app , we hope to continue having constructive discussions with transport for london .", 
+                "as our new ceo has said , we are determined to make things right ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                10, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e0889a611ed8072288483c", 
+            "title": "big six energy firms suffer customer exodus", 
+            "text": [
+                "yesterday , theresa may once again claimed the energy market was broken as she brought forward draft legislation for a price cap .", 
+                "but the big six suppliers , who have around 80 % of the market , lost a record number of customers in september .", 
+                "british gas , edf , e.on , npower , scottishpower and sse collectively lost 163,000 customers over the month , up 127 % on september 2016 , analysis of official statistics showed .", 
+                "a significant chunk of those switchers would have been british gas customers , prompted by the firm hiking electricity prices 12.5 % for 3.1m customers .", 
+                "adam vaughan ( @ adamvaughan uk ) big six energy cos lost a record number of customers in september ( 163k ) , says jefferies .", 
+                "more than 1m people have left big six this year experts at jefferies bank said that with more than 1m people leaving the big six for challenger firms so far this year , 2017 will be a record year for switching .", 
+                "next year could see that trend go into reverse , though , with households potentially lulled into complacency by the prospect of an upcoming cap ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                9, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59e0852f611ed80722884820", 
+            "title": "", 
+            "text": [
+                "the ftse 100 is n't sharing in today 's rally .", 
+                "stocks in london have dropped back from last night 's record close , as the pound 's recovery weights on exports .", 
+                "the footsie is now down by 26 points at 7530 .", 
+                "other european markets are having a better day , though , helping to keep global stocks at today 's record highs .", 
+                "reuters chris beauchamp of ig reckons shares could continue to climb .", 
+                "the bulls have the edge , and a strong us and european earnings should stand them into good stead for the rest of the year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                9, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e07cba6cff230798e83326", 
+            "title": "pound recovers on brexit hopes", 
+            "text": [
+                "sterling is rallying this morning , thanks to signals that britain and the eu might make progress in the brexit talks .", 
+                "it has risen over $ 1.33 against the us dollar for the first time in almost two weeks , and is also recovering against the euro .", 
+                "it 's quite a turnaround from yesterday , when fears that talks had hit \u0080\u0098deadlock ' sent the pound sliding .", 
+                "that , though , was before it emerged that european leaders are expected to tell their negotiators to begin internal preparations for future trade talks with britain at next week 's eu summit .", 
+                "danske bank research ( @ danske research ) \u00f0\u009f\u0087\u00ac\u00f0\u009f\u0087\u00a7 $ eurgbp moved above 0.90 yesterday on barnier 's `` deadlock '' comment but now back below 0.89 , as eu/uk may soon discuss transitional deal !", 
+                "connor campbell of spreadex says sterling is on a rollercoaster ride , thanks to a report that the eu are prepared to offer the uk a 2-year transitional deal .", 
+                "this is n't exactly a fresh-take ; a transitional period has been batted about since brexit day dot .", 
+                "and [ eu negotiator michel ] barnier was n't actually that much of a doomsayer on thursday , stating his belief that \u0080\u0098decisive progress ' was within reach in the next 2 months .", 
+                "but investors are being selective in what brexit news they want to listen to , with this handelsblatt report sending sterling sharply higher ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e074c16cff230798e832fc", 
+            "title": "", 
+            "text": [
+                "a chinese employee making stuffed dinosaur toys .", 
+                "/afp/getty images marc ostwald of adm investor services says the chinese economy seems to be in relatively good health , ahead of next week 's communist party congress .", 
+                "here 's his take on today 's trade data : the september trade data painted an overall much stronger of domestic demand than many had been anticipating , and effectively made clear that the weaker august readings did not signal impending weakness .", 
+                "that said , some of the boost to imports was probably attributable to some front-loading of imports ahead of last week 's national day/autumn festival holiday , with more working days this september probably also giving a boost .", 
+                "but the strength of commodity import growth ( 18.7 % y/y ) was across the spectrum , underlining the strength of domestic demand , and as much as exports missed forecasts at 8.1 % y/y , this was still a notable acceleration from august 's 5.1 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                8, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e072e401a8e6075b954810", 
+            "title": "oil and metals prices rise", 
+            "text": [
+                "the oil price has jumped this morning , as the markets react to china 's 18.7 % surge in imports .", 
+                "brent crude has jumped by 1.5 % to $ 57.07 per barrel , with traders anticipating higher demand for energy .", 
+                "dailyfx team live ( @ dailyfxteam ) best/worst performers - commodities today : oil - us crude : 1.2 % oil - brent crude : 1.1 % spot gold : 0.2 % spot silver : 0.2 % other commodity prices are also rallying , with nickel hitting a one-month high .", 
+                "iron ore and copper are also up .", 
+                "mike van dulken ( @ accendo mike ) buoyancy among commods , esp iron ore and copper helping , after china trade numbers .", 
+                "risk is a usd pop this afternoon after us cpi"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                8, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e06d8401a8e6075b9547de", 
+            "title": "", 
+            "text": [
+                "china 's trade with north korea slumped in september , according to today 's trade data , in a sign that united nations sanctions against pyongyang are being implemented .", 
+                "chinese imports from north korea fell by almost 38 % , including imports of iron ore and coal according to customs spokesman huang songping .", 
+                "chinese exports to north korea also fell , by 6.7 % .", 
+                "more details here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e06cae6cff230798e832c0", 
+            "title": "reuters : china 's us trade surplus has hit a record high", 
+            "text": [
+                "today 's chinese trade data might irk donald trump .", 
+                "according to reuters , china 's trade surplus with the us has hit an all-time high .", 
+                "reuters reports : china 's trade surplus with the united states in september rose to $ 28.08 billion versus $ 26.23 billion last month , chinese customs data on friday showed .", 
+                "the surplus was the highest ever with the u.s. for any single month , based on reuters calculations based on official data going back to 2008 .", 
+                "china 's jan-sept trade surplus with the u.s. was $ 195.54 billion , the data showed .", 
+                "that could give fresh ammunition to u.s. president donald trump , who has long complained that the trade imbalance between the two nations hurts the u.s. economy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                7, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e06ae6611ed80722884776", 
+            "title": "", 
+            "text": [
+                "the strong chinese trade data sent msci 's all-country world share index up to a new peak , at 494.84 points .", 
+                "the index , which tracks equities across the globe , has been rising steadily this year : msci world markets reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                7, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59e05de001a8e6075b954792", 
+            "title": "the agenda : chinese trade data beats forecasts", 
+            "text": [
+                "an artwork of a flag of the communist party of china ( cpc ) is displayed at an exhibition for china 's outstanding achievements over the past five years at the beijing exhibition hall in beijing , china .", 
+                "hong/epa good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "world stock markets are touching new record highs this morning , after new chinese trade data indicated the global economy was strengthening .", 
+                "china smashed forecasts overnight , reporting that imports surged by a remarkable 18.7 % per year in september .", 
+                "exports rose by 8.1 % , a little below forecasts but still a solid result .", 
+                "the leap in imports suggests that chinese factories are continuing to see strong demand for their products ; an encouraging sign for world growth .", 
+                "beijing 's policymakers will be pleased , as they prepare for next week 's communist party congress .", 
+                "this also means that china 's trade surplus has narrowed , as shane oliver , chief economist of amp capital , shows here : shane oliver ( @ shaneoliveramp ) # china sep exports +8 % yoy ( from 5.5 % in aug ) , imports +19 % yoy ( from 13.5 % in aug ) tells us that domestic demand and global demand is solid chinese government officials have hailed the data , saying it shows the country 's economy is on track .", 
+                "cnbc has the details : huang songping , spokesman for the customs department told a press conference on friday that trade for the first three quarters improved due to a recovery in overall global and domestic economic environment .", 
+                "there has been a return in global demand , he added .", 
+                "barring unforeseen events , china 's will post double-digit growth in foreign trade this year , said huang .", 
+                "chi lo , senior economist at bnp paribas investment partners , called the data pretty good , adding : it seems the global demand is still there to support the demand for chinese exports .", 
+                "michael hewson of cmc markets agrees , saying : this morning 's chinese trade data was fairly supportive of a fairly robust domestic economy .", 
+                "asian stock markets rose to a 10-year high following the data , while japan 's nikkei struck at 21-year high : ioan smith ( @ moved average ) # japan | nikkei225 finished up 200 points at 21,155 highest closing level since dec'96 .", 
+                "going to need a lot moar scandals to get back to 40k britain 's ftse 100 joined the party last night , hitting a new record closing high .", 
+                "that was partly down to a weaker pound , but it 's worth noting that the more domestically-focused ftse 250 also hit a new high .", 
+                "here 's our story : ftse 100 soars to record closing high following brexit talks deadlock read more the times also gave it a good show : richard fletcher ( @ fletcherr ) today 's @ twitterid front page : brexit pushes ftse to new high here 's the agenda for the day : 1.30pm bst : us inflation data for september .", 
+                "prices are expected to have risen by 0.6 % during the month .", 
+                "a strong reading raises the chances of a us interest rate rise .", 
+                "from 2pm bst : the imf and the world bank 's annual meeting continues .", 
+                "central bank chiefs , finance ministers , economists and investors will bd discussing the state of the global economy 3pm bst : the university of michigan 's us consumer confidence report .", 
+                "6pm bst : the weekly baker hughes oil rig count .", 
+                "a good measure of whether oil producers are ramping up output , or cutting back we 'll also have an eye on bitcoin , which smashed through $ 5,000 to a record high yesterday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                13, 
+                7, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.43pm BST\n17:43\nMixed day for European markets, while FTSE slips from record highs\n", 
+                "block": "block-59e0e52c611ed80722884c9b"
+            }, 
+            {
+                "text": "\n\n3.12pm BST\n15:12\nUS consumer confidence hits highest level since 2004\n", 
+                "block": "block-59e0c7cc611ed80722884ae7"
+            }, 
+            {
+                "text": "\n\n2.39pm BST\n14:39\nWall Street opens higher\n", 
+                "block": "block-59e0c195611ed80722884a94"
+            }, 
+            {
+                "text": "\n\n12.35pm BST\n12:35\nBitcoin hits new highs\n", 
+                "block": "block-59e09cf701a8e6075b9549a7"
+            }, 
+            {
+                "text": "\n\n10.36am BST\n10:36\nBig Six energy firms suffer customer exodus\n", 
+                "block": "block-59e0889a611ed8072288483c"
+            }, 
+            {
+                "text": "\n\n10.06am BST\n10:06\nPound recovers on Brexit hopes\n", 
+                "block": "block-59e07cba6cff230798e83326"
+            }, 
+            {
+                "text": "\n\n9.09am BST\n09:09\nOil and metals prices rise\n", 
+                "block": "block-59e072e401a8e6075b954810"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic and financial news, as new Chinese trade figures beat expectations.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/oct/13/world-markets-hits-fresh-highs-as-chinese-imports-surge-business-live?page=with:block-59e09cf701a8e6075b9549a7#block-59e09cf701a8e6075b9549a7"
+                ], 
+                "text": "Bitcoin hit $5,800", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/oct/13/world-markets-hits-fresh-highs-as-chinese-imports-surge-business-live?page=with:block-59e05de001a8e6075b954792#block-59e05de001a8e6075b954792"
+                ], 
+                "text": "Chinese imports surge by 18.7%, suggesting strong demand.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "US surplus hits record high, but trade with North Korea tumbles.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/oct/13/world-markets-hits-fresh-highs-as-chinese-imports-surge-business-live?page=with:block-59e06ae6611ed80722884776#block-59e06ae6611ed80722884776"
+                ], 
+                "text": "MSCI World Index hits new peak.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/2017/oct/12/ftse-100-record-closing-high-brexit-talks-deadlock-pound-sell-off"
+                ], 
+                "text": "FTSE 100 hit new closing high last night.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Coming up: US inflation; IMF meeting.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

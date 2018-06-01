@@ -1,0 +1,827 @@
+{
+    "blog_id": "b05fc0d2e1b6fdd63d01f8c650791e0663c2ee67", 
+    "title": "Risks of UK recession 'are increasing', as Glaxo cuts 320 jobs - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live", 
+    "summary": [
+        "european markets edge higher .", 
+        "oil rises as us crude stocks drop .", 
+        "credit suisse : risks of uk recession have increased .", 
+        "positive us housing figures .", 
+        "glaxo to cut jobs , and sell horlicks .", 
+        "morgan stanley profits jump despite bond trading struggles .", 
+        "eurozone construction output drops ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f7caee4b02c8c10c420ec", 
+            "title": "european markets edge higher", 
+            "text": [
+                "with little in the way of real economic news , and with interest meetings from the bank of japan and european central bank due on thursday , investors were in a cautious mood again .", 
+                "even so , markets managed to move in the right direction .", 
+                "in europe , they were lifted by a dip in the euro ahead of the ecb gathering , while in the us a stronger oil price helped to lift wall street .", 
+                "the technology heavy nasdaq index even hit a new high , boosted by another move higher from netflix .", 
+                "the final scores showed : the ftse 100 finished up 40.69 points or 0.55 % at 7430.91 france 's cac closed up 0.17 % at 12,452.05 germany 's dax rose 0.83 % to 5216.07 italy 's ftse mib climbed 0.57 % to 21,478.95 spain 's ibex ended up 0.6 % at 10,588.1 in greece , the athens market added 0.64 % to 853.54 on wall street , the dow jones industrial average is currently 26 points or 0.12 % higher .", 
+                "on that note , we 'll close for the evening .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                16, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-596f7c55e4b0d3b5652c1242", 
+            "title": "", 
+            "text": [
+                "joshua mahony , market analyst at ig , is also cautious about the fall in us oil inventories : us crude stocks posted their third greater than expected inventories drawdown today , as the effects of driving season continue to be felt .", 
+                "it is worth being careful to not read too much into recent us stockpile reductions , as seasonality effects ty see us drivers raise both mileage and air conditioning usage .", 
+                "news that chinese demand is on the wane is certainly not what the bulls want to hear , and despite falling us stocks , we continue to see output rise globally irrespective of the conformity rate of the recent opec production quota ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                15, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-596f7511e4b0d3b5652c120d", 
+            "title": "", 
+            "text": [
+                "david madden , market analyst at cmc markets uk , said : wti and brent crude oil surged higher after the oil inventory report showed a larger than expected decline .", 
+                "the energy information agency ( eia ) revealed that us stockpiles of oil fell by 4.72 million barrels , and the consensus was for a 3.5 million barrel decline .", 
+                "last week there was drop of 7.56 million barrels .", 
+                "traders would be unwise to overlook the fact that us oil production increased by 32 thousand barrels per day ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                15, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-596f73d7e4b01ec854048304", 
+            "title": "oil rises as us crude stocks drop", 
+            "text": [
+                "us crude stocks fell by more than expected last week , giving some support to the oil price .", 
+                "crude inventories dropped by 4.7m barrels compared to forecasts of a 3.2m barrel fall , while gasoline stocks were 4.4m barrels lower .", 
+                "analysts had expected a decline here of 655,000 .", 
+                "the news saw brent crude jump 1.33 % to $ 49.49 a barrel , a two week high ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                15, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f6039e4b02c8c10c4204b", 
+            "title": "credit suisse : risks of uk recession have increased", 
+            "text": [
+                "credit suisse has sent a shiver through the city this afternoon , by warning that britain is 'flirting with recession ' .", 
+                "in a new research note , credit suisse argues there is a roughly one-in-three chance that britain 's economy falls into recession later this year , as the economy continues to slow .", 
+                "bond vigilantes ( @ bondvigilantes ) credit suisse : chance of uk recession in next 6 months is 25 % -38 % ( range of models ) .", 
+                "boe hike of 25 bps would increase that by 5 % .", 
+                "credit suisse estimates that next week 's gdp figures will show that the uk economy only grew by 0.2 % in april-june , matching the poor performance in the first three month of 2017 .", 
+                "for the rest of the year , it expect growth to remain subdued at 0.2 % -0.3 % per quarter .", 
+                "and raises the prospect of a full-blown technical recession , defined as two quarters of negative growth in a row .", 
+                "credit suisse believes this is a real possibility , given the slowdown in consumer spending and the uncertainty created by brexit .", 
+                "the bank 's analysts do admit that they predicted an immediate recession if britain voted to leave the eu .", 
+                "that did n't happen , of course , but that does n't mean that the risk is averted for good .", 
+                "they write : that [ a recession ] is not our central scenario , but the risks are increasing , and the volatile political backdrop and unpredictable brexit negotiations have increased the uncertainty of our forecasts .", 
+                "the reasons for expecting a recession post the eu referendum in the uk continue to haunt the economy .", 
+                "we acknowledge that the recession we forecast in the aftermath of the referendum did not occur .", 
+                "but the channels that we thought would drive negative growth - an inflation-driven squeeze on consumer spending and weaker business investment as a result of brexit uncertainty - are materializing , albeit later than we expected .", 
+                "we think those drivers are only likely to worsen as political uncertainty persists after the election and the uk 's future relationship with europe remains unclear .", 
+                "andy bruce ( @ brucereuters ) credit suisse says models indicate 25-38 % chance of uk recession in next 6 months ( +5 % pts if boe hikes rates ) they also single out the slide in real wages in recent months : suisse"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                14, 
+                27
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-596f6040e4b01ec85404828a", 
+            "title": "", 
+            "text": [
+                "over in new york , shares have hit fresh record highs at the start of trading .", 
+                "the s & p 500 index , and the tech-focused nasdaq , both pushed higher .", 
+                "cnbc ( @ cnbc ) breaking : s & p 500 , nasdaq open at new all-time highs"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                13, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f5865e4b0d3b5652c1179", 
+            "title": "positive us housing figures", 
+            "text": [
+                "over in the us , there are some upbeat housing numbers in the wake of tuesday 's fall in housebuilder confidence .", 
+                "housing starts in june rose by 8.3 % compared to expectations of a 6.2 % increase .", 
+                "this means new houses are being built at the fastest rate in four months .", 
+                "meanwhile may 's number was revised from a 5.5 % fall to a 2.8 % decline ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                13, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-596f5a7de4b0d3b5652c1186", 
+            "title": "", 
+            "text": [
+                "although glaxo is selling horlicks in the uk , it is retaining its indian operation where the malted drink is growing more popular by the day .", 
+                "that 's according to reuters , which explains : in britain , where horlicks is sold as a bedtime drink , the product has largely fallen out of favour and sales are very limited .", 
+                "indian demand for horlicks , by contrast , is strong and gsk has developed the malted barley milk drink into its top consumer brand in the country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                13, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f5552e4b0d3b5652c1160", 
+            "title": "", 
+            "text": [
+                "glaxo 's decision to abandon plans to build a new factory in cumbria is a major blow to the area .", 
+                "five years ago , gsk announced it would create a new state-of-the-art biopharmaceutical manufacturing facility '' at ulverston .", 
+                "the site was expected to cost around \u00a3 350m , and create 500 permanent jobs .", 
+                "at the time , prime minister david cameron said it was excellent news for cumbria '' .", 
+                "a major investment that will create many highly-skilled jobs and provide a huge boost to the area . ''", 
+                "but those hopes have now been thrown into uncertainty .", 
+                "john woodcock ( @ jwoodcockmp ) shocking for uk manufacturing .", 
+                "david cameron launched this on budget day 2012 , was to be the first new gsk plant on uk soil for 30 years john woodcock ( @ jwoodcockmp ) gsk told me no ulverston jobs immediately affected .", 
+                "they 'll look for buyer for the site .", 
+                "calling emergency meeting of town tomorrow morning"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                12, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f4dcbe4b0d3b5652c1147", 
+            "title": "glaxo to cut jobs , and sell horlicks", 
+            "text": [
+                "breaking : pharmaceuticals group glaxosmithkline is cutting more than 300 jobs in the uk .", 
+                "the company has announced details of a plan to improve the efficiency and competitiveness of its manufacturing network '' .", 
+                "under the scheme , glaxo will sell its 'horlick ' brand in the uk , and shut the factory in slough where the malt milk drink is produced .", 
+                "gsk is also outsourcing some manufacturing activity at its worthing site in the uk .", 
+                "and in another blow , the company is abandoning plans to build a biopharmaceutical facility in ulverston , cumbria , as it no longer needs the additional capacity .", 
+                "local mp john woodcock says it 's 'terrible news ' .", 
+                "john woodcock ( @ jwoodcockmp ) terrible news that gsk pulling out of biopharm investment in ulverston .", 
+                "speaking to their head of global manufacturing shortly .", 
+                "glaxo insists that it remains committed to uk manufacturing , and is today pledging an extra \u00a3 140m for sites in hertfordshire , county durham and montrose , in scotland .", 
+                "it says : this new investment is in addition to the \u00a3 275million announced last year and investment of over \u00a3 1.2billion in uk manufacturing since 2012 .", 
+                "it also points out that it is a major employer : overall , gsk employs a total of around 17000 people across the uk of which 5000 are in uk manufacturing operations .", 
+                "the proposals announced today for worthing and slough will result in a reduction of approximately 320 permanent jobs over the next 4 years .", 
+                "is it brexit 's fault ?", 
+                "apparently not .", 
+                "glaxo says : none of the announcements made today by the company have resulted from the uk 's decision to leave the european union ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                12, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f4196e4b01ec854048212", 
+            "title": "", 
+            "text": [
+                "morgan stanley 's results have cheered the markets : ken odeluga ( @ thesquaremile ) could # morganstanley be one of the better performing u.s. bank shares post q2 ?", 
+                "shares up 2.3 % pre-market after mostly solid results"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                11, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f3d86e4b02c8c10c41fb8", 
+            "title": "morgan stanley profits jump despite bond trading struggles", 
+            "text": [
+                "newsflash from wall street : morgan stanley has become the latest bank to warn that bond trading has struggled .", 
+                "but that has n't stopped the bank beating expectations with its financial results for the last quarter ms 's net earnings rose to $ 1.8bn for the april-june quarter , up from $ 1.6bn a year ago .", 
+                "that equates to earnings of 87 cents per share , compared to forecasts of just 76 cents city index ( @ cityindex ) # morganstanley q2 eps beats foerecast : 87c vs 76c expected .", 
+                "revenue also beats : up to $ 9.5b vs $ 8.9b in q 22016 ; consensus was $ 9.09b ^ko ceo james gorman says it 's a decent performance , given the 'subdued ' trading conditions .", 
+                "stanley and those 'subdued ' conditions seem to have hit in ms 's bond trading division .", 
+                "fixed income sales and trading net revenues fell to $ 1.2bn , from $ 1.3bn , due to lower volatility and sporadic activity during the quarter '' .", 
+                "yesterday , goldman sachs reported a 40 % slump in second-quarter bond trading revenue , which was also blamed on the current environment of low volatility ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                11, 
+                20
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f33ace4b02c8c10c41f84", 
+            "title": "", 
+            "text": [
+                "fran\u00e7ois villeroy de galhau .", 
+                "over in paris , the governor of the bank of france has dropped a hint that the ecb will take a cautious approach at this week 's meeting .", 
+                "villeroy de galhau , who serves on the ecb 's governing council , told french mps that the central bank has defeated the threat of deflation .", 
+                "however , he added , it 's too early to end its asset purchase scheme or raising interest rates from their current record lows .", 
+                "de galhau argued : we have made progress , but we have not yet reached the target and so there is still a need for our accommodative monetary policy we are adapting its intensity depending on the economic situation and progress towards the target .", 
+                "here 's a photo from the session : osson catherine ( @ ossoncatherine ) ce matin , audition de fran\u00e7ois villeroy de galhau , gouverneur de la banque de france en commission des finances ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                10, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f1a7be4b0d3b5652c1069", 
+            "title": "", 
+            "text": [
+                "european stock markets have crept higher , helping to keep global stocks at record levels .", 
+                "in london the ftse 100 has gained 6 points , with reckitt benckiser leading the way following the sale of its food business .", 
+                "european stock markets reuters that follows a decent session on wall street last night , where the nasdaq tech index surged to a fresh record high .", 
+                "chris beauchamp of ig says traders are hoping that the european central bank does n't drop any nasty surprises tomorrow : a record high for the nasdaq and a fresh overnight surge in the euro 's ongoing rally will be the key themes on an otherwise relatively quiet day .", 
+                "as the ecb meeting gets closer , the market 's attention will increasingly focus on the likelihood of any further hawkish commentary from the central bank that could squeeze the euro even higher against the dollar .", 
+                "european markets failed to capitalise on last week 's rally , hamstrung by euro strength , so the hope for this particular crowded trade is that mario draghi will row back on the change in language from earlier in the month .", 
+                "given the bank 's predilection for easing , it seems unlikely that they will err too much on the hawkish side ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                9, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f2459e4b0d3b5652c109a", 
+            "title": "", 
+            "text": [
+                "quite forex.com ( @ forexcom ) not much on the agenda in terms of economic news but it could be the calm before the storm with boj and ecb taking centre stage tomorrow ^fr"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                9, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f1fb9e4b0d3b5652c1086", 
+            "title": "eurozone construction output drops", 
+            "text": [
+                "newsflash : europe 's construction sector cooled a little in may .", 
+                "construction output across the eurozone shrank by 0.7 % , compared to may , due to a 0.9 % decline in civil engineering and a 0.7 % drop in building construction by 0.6 % .", 
+                "across the wider eu , construction dropped by 1.1 % .", 
+                "eurostat explains : the largest decreases in production in construction were recorded in slovenia ( -10.6 % ) , sweden ( -7.1 % ) and slovakia ( -4.9 % ) , and the highest increases in hungary ( +7.6 % ) , bulgaria ( +3.6 % ) and italy ( +2.7 % ) .", 
+                "despite the month-on-month decline , eurozone construction production was still 2.6 % higher than a year ago : eu eurostat ( @ eu eurostat ) euro area construction -0.7 % in may over april ; +2.6 % over may 2016 # eurostat this may encourage the european central bank not to rush into unwinding its stimulus programme"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                9, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f1de4e4b0d3b5652c1079", 
+            "title": "", 
+            "text": [
+                "hot news for sauce lovers !", 
+                "consumer giant reckitt benckiser has sold off its food business in a deal worth $ 4.2bn ( \u00a3 3.2bn ) .", 
+                "the division , which produces french 's mustard , franks ' redhot and cattlemen 's sauces , has been gobbled up by america 's mccormick & co - which owns schwartz herbs and s this follows a bid battle with unilever and hormel foods , maker of spam .", 
+                "delcrookes ( @ hairydel ) the us owner of schwartz herbs and s has won the battle to acquire reckitt benckiser 's food business the deal should allow reckitt to focus on its cleaning and healthcare operations .", 
+                "shares in the company have jumped 1.5 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                8, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f1841e4b01ec85404814d", 
+            "title": "", 
+            "text": [
+                "an electronic stock board in tokyo showing japan 's nikkei 225 index today .", 
+                "hoshiko/ap peter rosenstreich of swissquote bank predicts that the bank of japan will reaffirm its commitment to loose monetary policy when it monetary policy meeting ends tomorrow .", 
+                "the boj is currently buying 80 trillion yen of bonds each year , hitting banks with negative interest rates , and trying to keep long-term government borrowing costs around zero , in a bid to drive inflation and growth up .", 
+                "but with inflation still weak , rosenstreich does n't believe the boj can consider slowing its stimulus programme yet .", 
+                "while most major central banks have begun tightening money supplies , the boj has not .", 
+                "the central bank has been unable to boost inflation to its target of 2 % , and success is not in sight for 2017-2018 .", 
+                "the bank is likely to focus on controlling the yield curve , one of its primary targets will be to pin 10-year government bond yields at 0 % rosenstreich adds that two hawkish boj policymakers are leaving the board , giving governor haruhiko kuroda more freedom to continue his expansive policy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                8, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f18e3e4b0d3b5652c1063", 
+            "title": "", 
+            "text": [
+                "australia 's stock market had a good day , driven by its banks .", 
+                "shares in australia 's largest lenders rallied after regulators unveiled new capital requirements which are less onerous than feared .", 
+                "bloomberg has the details : the new requirements look relatively benign , '' said anthony ip , a credit analyst at citigroup inc .", 
+                "the majors may well be able to meet the new requirements organically without equity raisings , assets sales or changes to dividends . ''", 
+                "anz bank shares rose as much as 4.2 percent , the most in more than eight months , and commonwealth bank added 3.4 percent .", 
+                "national australia bank rallied as much as 3.7 percent and westpac climbed as much as 4 percent .", 
+                "that sent the s & p/asx index up by 0.8 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                8, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f0f73e4b0d3b5652c103e", 
+            "title": "", 
+            "text": [
+                "the euro is dipping this morning , down 0.2 % against the pound at 88.4p .", 
+                "that suggests that traders expect the european central bank to calm expectations that it might rein in its stimulus programme soon , at tomorrow 's meeting .", 
+                "benjamin schroeder , a rates strategist at ing , believes the ecb have had a rethink after president draghi gave an upbeat speech in late june .", 
+                "those upbeat comments drove the euro up , and sparked a selloff in eurozone government bonds .", 
+                "schroeder adds ( via reuters ) : a strong euro has also raised expectations that they will not sound overly hawkish . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                8, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596f0d4ee4b01ec85404812b", 
+            "title": "", 
+            "text": [
+                "the us dollar 's weakness has boosted the chinese yuan .", 
+                "beijing just fixed its currency at the strongest level in nine months , as trump 's healthcare woes continue to weigh on the greenback .", 
+                "this news clearly calls for a cute panda haidi lun \u4f26\u6d77\u8fea ( @ haidilun ) hey guys , remember the yuan fixing ?", 
+                "today 's was the strongest since oct 2016 , 6.7451 vs 6.7611 with $ bbdxy weakest since aug 2016 cny $ cnh"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                7, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-596ef788e4b02c8c10c41e81", 
+            "title": "the agenda : investors await ecb and boj tomorrow", 
+            "text": [
+                "a trader yawns on the frankfurt stock exchange .", 
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "there 's an end of term feeling in the markets today .", 
+                "i do n't think any traders have actually turned up with a kerplunk set , but they could be forgiven for risking a quick game of top trumps across their trading terminals .", 
+                "in short , there 's not much going on today .", 
+                "so with nothing to scare investors right now , global markets remain at their highest ever levels .", 
+                "msci 's gauge of shares around the world has risen this morning , putting it on track for its fifth daily rise in a row .", 
+                "the msci 'all country world index ' but although the summer lull is nearly upon us , we 're not there quite yet , class .", 
+                "investors need to prepare for a busy thursday , when the bank of japan and the european central bank both hold monetary policy meetings .", 
+                "they could move move the markets , if policymakers offer any hints that monetary policy will be tightened soon .", 
+                "in particular , the ecb could provide fresh guidance on when it will start to taper its bond purchase scheme .", 
+                "any bullish comments from president draghi could send the euro spiking .", 
+                "mihir kapadia , ceo of sun global investments , says : any comments which are perceived are more hawkish then expected could result in further pressure on the us dollar .", 
+                "the dollar is also weaker against the yen and the pound . ''", 
+                "over in asia , optimism over china 's economy , following this week 's gdp figures , has pushed shares higher .", 
+                "holger zschaepitz ( @ schuldensuehner ) good morning from berlin .", 
+                "global stocks retest record highs .", 
+                "asia mkts rise on china optimism .", 
+                "# euro bulls cautious ahead of ecb on thursday the us dollar is languishing around a 10-month low today , following donald trump 's inability to get healthcare changes though congress .", 
+                "investors are increasingly sceptical that that the president can implement tax reforms or push through a big infrastructure spending bill .", 
+                "as michael hewson of cmc markets puts it the trump administration is also helping by appearing to undermine the us dollar at every available opportunity with what can only be described as either incompetence or sheer stupidity .", 
+                "another failure to enact policy reforms this time on health care is raising serious questions as to whether this administration will deliver on any of the promises it made at the end of last year , with serious doubts now being expressed about tax and banking reform .", 
+                "it seems that even with a majority in both houses the republicans appear unable to even agree amongst themselves as to what is best for the us economy .", 
+                "it appears that the us government is giving the uk government a run for its money in the incompetence stakes .", 
+                "it does n't help that neither country has a competent opposition to offset this .", 
+                "president draghi will certainly have his work cut out in keeping a lid on the euro at this rate , as the market gears up for tomorrow 's ecb rate meeting , with a move to the $ 1.2000 level a distinct possibility on a break of $ 1.1620 and last year 's high .", 
+                "the agenda : it looks like a quiet day , but we do get new eurozone construction figures , us housing data , and new oil inventory figures this afternoon 10am bst : eurozone construction output for may 1.30pm bst : us housing starts and building permits 3.30pm bst : us crude oil inventories"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                7, 
+                19, 
+                7, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.42pm BST\n17:42\nEuropean markets edge higher\n", 
+                "block": "block-596f7caee4b02c8c10c420ec"
+            }, 
+            {
+                "text": "\n\n4.03pm BST\n16:03\nOil rises as US crude stocks drop\n", 
+                "block": "block-596f73d7e4b01ec854048304"
+            }, 
+            {
+                "text": "\n\n3.27pm BST\n15:27\nCredit Suisse: Risks of UK recession have increased\n", 
+                "block": "block-596f6039e4b02c8c10c4204b"
+            }, 
+            {
+                "text": "\n\n2.34pm BST\n14:34\nPositive US housing figures\n", 
+                "block": "block-596f5865e4b0d3b5652c1179"
+            }, 
+            {
+                "text": "\n\n1.36pm BST\n13:36\nGlaxo to cut jobs, and sell Horlicks\n", 
+                "block": "block-596f4dcbe4b0d3b5652c1147"
+            }, 
+            {
+                "text": "\n\n12.20pm BST\n12:20\nMorgan Stanley profits jump despite bond trading struggles\n", 
+                "block": "block-596f3d86e4b02c8c10c41fb8"
+            }, 
+            {
+                "text": "\n\n10.07am BST\n10:07\nEurozone construction output drops\n", 
+                "block": "block-596f1fb9e4b0d3b5652c1086"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic and financial news, including new eurozone construction and US housing data.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596f6039e4b02c8c10c4204b#block-596f6039e4b02c8c10c4204b"
+                ], 
+                "text": "Latest: Credit Suisse says UK could fall into recession.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596f4dcbe4b0d3b5652c1147#block-596f4dcbe4b0d3b5652c1147"
+                ], 
+                "text": "Glaxo cuts jobs.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596f5552e4b0d3b5652c1160#block-596f5552e4b0d3b5652c1160"
+                ], 
+                "text": "MP angry as biotech plans are axed.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Earlier;", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596ef788e4b02c8c10c41e81#block-596ef788e4b02c8c10c41e81"
+                ], 
+                "text": "The agenda: Markets at record levels ahead of ECB and BoJ.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Investors face quiet day, but Thursday could be dramatic.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596f3d86e4b02c8c10c41fb8#block-596f3d86e4b02c8c10c41fb8"
+                ], 
+                "text": "Morgan Stanley beats forecasts.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/jul/19/stock-markets-highs-investors-central-banks-construction-housing-oil-business-live?page=with:block-596f1a7be4b0d3b5652c1069#block-596f1a7be4b0d3b5652c1069"
+                ], 
+                "text": "European markets rise (a little)", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,715 @@
+{
+    "blog_id": "95c99bc58fa0548bc621397510780c8f1b4bd0c1", 
+    "title": "US snowstorm as it happened - BBC News", 
+    "url": "http://www.bbc.com/news/live/world-us-canada-35391579", 
+    "summary": [
+        "new york city is closed for business due to snow .", 
+        "roads , tunnels and bridges shut in the biggest city in us .", 
+        "more than 20 states are affected - some 85 million people .", 
+        "emergencies were declared in 11 states , and at least 11 people have died .", 
+        "parts of west virginia are blanketed under 40in ( 102cm ) of snow ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3fc013c00002f544cae1f", 
+            "title": "blizzard returns to washington", 
+            "text": [
+                "and that 's it from our live updates from the snowstorm in the us .", 
+                "thanks for staying with us .", 
+                "as we sign off , snow is falling again in the nation 's capital , as you 'll see from the 360 below tweeted by the bbc 's sarah holmes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3f35b3c00002e544cae1b", 
+            "title": "what we know so far", 
+            "text": [
+                "heavy snow and blizzard conditions are persisting across the east coast , with 85 million people affected and up to 3ft ( 90 cm ) of snow dumped in some places .", 
+                "here 's what 's happened so far :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3f9d23d0000665ca959f8", 
+            "title": "cars completely covered by snow", 
+            "text": [
+                "radio 5 live has been asking people for their snowbound video stories .", 
+                "here 's what they got - including a street in washington where cars are completely buried ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3cd6b3c000027544cadef", 
+            "title": "the pause before the next blizzard", 
+            "text": [
+                "in some parts of dc , such as outside the us capitol , the clear up was already under way earlier , before another blizzard struck ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3f1413c000027544cae1a", 
+            "title": "the political snowmen have arrrived", 
+            "text": [
+                "the political snowmen have arrrived"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3ee063e00002254ee3e3f", 
+            "title": "sledging on the rocky steps", 
+            "text": [
+                "sledgers have taken to the rocky steps outside the philadelphia museum of art in pennsylvania ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3e2e83e00002254ee3e37", 
+            "title": "hitting the slopes", 
+            "text": [
+                "for some skiing and snowboarding enthusiasts , the huge snow dump has proved too tempting to stay indoors ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "21:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3e5773d0000ee53a959ed", 
+            "title": "scenes from snowy baltimore", 
+            "text": [
+                "scenes from snowy baltimore"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3e7fa3c00002f544cae17", 
+            "title": "what makes a blizzard a blizzard ?", 
+            "text": [
+                "the national weather service defines a blizzard as a storm which contains large amounts of snow or blowing snow , with winds in excess of 35 mph ( 16km/h ) and visibility of less than 1/4 mile for an extended period of time ( at least 3 hours ) .", 
+                "the word used to refer to a cannon shot or a volley of musket fire , according to accuweather , but started to be used to describe snowstorms in the 1870s ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "20:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3bbbe3e00002954ee3df5", 
+            "title": "pictures from the snow storm", 
+            "text": [
+                "hundreds of people are sharing their of # snowmageddon2016 online ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3e1a63e00003154ee3e33", 
+            "title": "snowfall totals so far", 
+            "text": [
+                "source : national weather service as of 17:30 gmt"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3e2093d0000f753a959e7", 
+            "title": "the city that never sleeps is getting mighty drowsy", 
+            "text": [
+                "the city that never sleeps is getting mighty drowsy"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3e0203d0000ee53a959de", 
+            "title": "even the secret service get stuck", 
+            "text": [
+                "even the secret service get stuck"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3da8f3d0000ee53a959d9", 
+            "title": "the storm is n't over in washington", 
+            "text": [
+                "after a lull in the early afternoon in washington , the blizzard roared back with high winds and heavy snow .", 
+                "here , a reporter for buzzfeed filmed the scene in washington 's adams morgan neighborhood ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "20:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3d9643e00002254ee3e25", 
+            "title": "what is thundersnow ?", 
+            "text": [
+                "there have been reports of `` thundersnow '' in parts of the us .", 
+                "for those furrowing their brows in confusion , the meteorological phenomenon is basically the same as a thunderstorm , except that snow falls instead of rain .", 
+                "it occurs when the atmosphere is unstable and the layer of air closest to the ground is cold enough to create snow , but still warmer than the air above it .", 
+                "read more here .", 
+                "capital weather gang", 
+                "capitalweather", 
+                "thundersnow seen & heard around our nation 's capital .", 
+                "follow live updates on # snowzilla wapo.st/1sangbg", 
+                "nbc nightly news", 
+                "nbcnightlynews", 
+                "astronaut scott kelly witnesses 'rare thundersnow ' from space nbcnews.to/1s1g4ke"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3d58f3e00002254ee3e1e", 
+            "title": "washington ghost town", 
+            "text": [
+                "the bbc 's laura bicker , in washington dc , reports on the storm sweeping the us .", 
+                "this content only works in the uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3d3603e00003154ee3e19", 
+            "title": "flooding , not snow , in southern new jersey", 
+            "text": [
+                "a full moon , high tide and the massive winter storm hitting the us east coast combined to cause significant flooding in southern new jersey 's seaside towns .", 
+                "waves of 22ft ( 7m ) and a storm surge of two to three feet were reported on saturday morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3ca323c00002f544cade2", 
+            "title": "emergency vehicles not immue", 
+            "text": [
+                "even a massive fire engine was no match for unploughed snow along 12th street in northwest washington on saturday .", 
+                "at one point , the firemen used their axes as ( ineffective ) makeshift shovels .", 
+                "it took a few hours for the engine to get moving again ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3b6473d0000f053a95988", 
+            "title": "flights cancelled across the east coast", 
+            "text": [
+                "flights cancelled across the east coast"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3c99d3d0000f053a959b8", 
+            "title": "broadway cancelled", 
+            "text": [
+                "they say the show must go on .", 
+                "but not this weekend .", 
+                "all matinee and evening broadway shows on saturday have been cancelled .", 
+                "charlotte st. martin , the president of the broadway league , said `` normal operations to resume for tomorrow 's sunday matinees '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3c7143c000026544cadda", 
+            "title": "venturing outdoors", 
+            "text": [
+                "despite warnings from the mayor of washington to stay inside , some people are venturing outside to view the blizzard .", 
+                "here , the normally bustling massachusetts avenue has become a pedestrian trail ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3c5ed3e00003154ee3e08", 
+            "title": "snowzilla memespeople are having fun on twitter", 
+            "text": [
+                "brendan mcinnis", 
+                "brendanmcinnis", 
+                "# snowzilla in the empire state", 
+                "capital weather gang", 
+                "capitalweather", 
+                "we hereby name this winter storm # snowzilla wapo.st/1rwqqku"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3c1083c000027544cadc7", 
+            "title": "snow conditions : what we know so far", 
+            "text": [
+                "blizzard conditions are expected to persist throughout the day across the east coast .", 
+                "in addition to snow and hurricane-force winds , the national weather service predicted up to half an inch of ice for the carolinas and potentially serious coastal flooding for the mid-atlantic region .", 
+                "here 's some of what 's happened so far :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3c1653d0000f753a959ad", 
+            "title": "correspondents brave the snow in dc", 
+            "text": [
+                "correspondents brave the snow in dc"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3afe63c000026544cad94", 
+            "title": "stranded for 12 hours on pennsylvania highway", 
+            "text": [
+                "we have been stranded on the pennsylvania turnpike for more than 12 hours now .", 
+                "our spirits are good and no one is panicking .", 
+                "the snow is up to our knees now when we leave the bus .", 
+                "we 're on our way back to north dakota from washington dc .", 
+                "we 've got a 20-hour journey ahead once we get moving again .", 
+                "the students - ranging in ages from 16-22 - have been keeping themselves busy by having snowball fights ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3bfb43c000026544cadc3", 
+            "title": "breakingnew york city bans road travel", 
+            "text": [
+                "new york mayor bill de blasio said that any civilians found driving on the city 's streets could be arrested"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3bf503c00002f544cadc1", 
+            "title": "blizzard duty", 
+            "text": [
+                "arlington national cemetery in virginia is closed , but the guards at the tomb of the unknown soldier are still on duty ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3b9503c000027544cadaf", 
+            "title": "new york mayor issues warning to city", 
+            "text": [
+                "this content only works in the uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3a90a3c00002f544cad5e", 
+            "title": "snowmageddon : the view from space", 
+            "text": [
+                "scott kelly", 
+                "stationcdrkelly", 
+                "rare # thundersnow visible from @ twitterid in # blizzard2016 !", 
+                "# snowzilla # snowmaggedon2016 # yearinspace", 
+                "scott kelly", 
+                "stationcdrkelly", 
+                "massive # snowstorm blanketing # eastcoast clearly visible from @ twitterid stay safe !", 
+                "# blizzard2016 # yearinspace"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3a8ba3e00003154ee3d8b", 
+            "title": "where has seen the heaviest snow so far ?", 
+            "text": [
+                "some of the southernmost states have seen huge snowfall over the last day - but so has maryland , where it started snowing only last night .", 
+                "the highest levels are as follows :", 
+                "you can see all the snow levels recorded so far here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3b55f3c000027544cada4", 
+            "title": "new york buses to shut down", 
+            "text": [
+                "nyct buses", 
+                "nyctbus", 
+                "an orderly shutdown of all local , limited and express bus service has begun .", 
+                "please adjust your travel plans accordingly ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3b24b3e00003254ee3de0", 
+            "title": "watch : views of the snow across the us", 
+            "text": [
+                "this content only works in the uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3b1963c000026544cad98", 
+            "title": "governor chris christie says 90,000 without power in new jersey", 
+            "text": [
+                "new jersey governor chris christie is giving a news conference - he just confirmed that 90,000 people are without power across the state , a figure that may rise .", 
+                "as for flooding , he said the high tide on saturday morning had led to `` minor street flooding '' across the coast , although some parts of southern new jersey suffered significant flooding .", 
+                "saturday night 's high tide , and the one on sunday morning , will be less harmful , he said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a3af2a3e00003154ee3dc8", 
+            "title": "where the snow came down", 
+            "text": [
+                "the us national weather service 's weather prediction center has tweeted this map , showing where the heaviest snows have fallen .", 
+                "nws wpc", 
+                "nwswpc", 
+                "48 hour snowfall map , capturing the major winter storm/blizzard impacting the eastern u.s. # winterstorm"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3ae4e3e00003154ee3dc0", 
+            "title": "snow not only problem facing new jersey", 
+            "text": [
+                "parts of new jersey have already seen heavy flooding this weekend - while the snow poses some problems , there is also a full moon , so a higher tide .", 
+                "add to that strong winds , and there are real fears for low-lying areas .", 
+                "governor chris christie is about to speak at a press conference - we 'll bring you news from that when we get it ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3ac663c000026544cad75", 
+            "title": "nyc mayor : 'one of the worst storms in city 's history '", 
+            "text": [
+                "warnings do n't come much clearer than this one , from the office of new york mayor bill de blasio :", 
+                "nyc mayor 's office", 
+                "nycmayorsoffice", 
+                "this will very likely be one of the worst storms in city history .", 
+                "go home .", 
+                "stay home .", 
+                "stay safe today .", 
+                "- @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3aacc3e00003254ee3d9f", 
+            "title": "storm 'could be one of worst yet in nyc '", 
+            "text": [
+                "there are more warnings coming in from the city 's mayor :", 
+                "nyc mayor 's office", 
+                "nycmayorsoffice", 
+                "mayor @ twitterid official storm estimate now 20-25 ''", 
+                "nyc mayor 's office", 
+                "nycmayorsoffice", 
+                "once we pass 20 '' of snow , this becomes top 5 storm since records kept .", 
+                "- @ billdeblasio", 
+                "nyc mayor 's office", 
+                "nycmayorsoffice", 
+                "imperative that vehicles stay off the road .", 
+                "this is bad and getting worse rapidly .", 
+                "- @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3aa5b3d0000f053a9592c", 
+            "title": "new york mayor 'considering travel ban '", 
+            "text": [
+                "new york city has already seen a significant amount of snow , but mayor bill de blasio has just told a press conference more is to come .", 
+                "nypd news", 
+                "nypdnews", 
+                "we are considering a full travel ban .", 
+                "people need to get off the road , mayor says .", 
+                "@ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3a82c3c000026544cad57", 
+            "title": "in detail : path of the storm", 
+            "text": [
+                "huge parts of the mid-atlantic states are all white this saturday .", 
+                "but there is more to come : north-east states such as new york , new jersey and connecticut could see much , much more of the white stuff over the coming hours ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3a63a3e00003254ee3d67", 
+            "title": "heavy snow : good news for this panda", 
+            "text": [
+                "some parts of washington dc have seen 13in ( 33cm ) of snow overnight - and there is more to come .", 
+                "here 's one dc resident who is more than happy with the cold conditions .", 
+                "this content only works in the uk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a3a5ae3e00003154ee3d63", 
+            "title": "welcome to our live coverage", 
+            "text": [
+                "if you 're in the eastern united states , thanks for deciding to stay in , where it is warm , and for joining us .", 
+                "if you are elsewhere , thanks for joining us all the same - we will have all the latest updates as a massive winter storm works its way up the east of the us ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:11"
+        }
+    ], 
+    "genre": "world-us-canada", 
+    "quality": "high"
+}

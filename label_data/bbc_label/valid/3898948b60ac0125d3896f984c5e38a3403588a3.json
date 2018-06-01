@@ -1,0 +1,592 @@
+{
+    "blog_id": "3898948b60ac0125d3896f984c5e38a3403588a3", 
+    "title": "BBC Local Live: Norfolk on Thursday, 21 January 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-35296337", 
+    "summary": [
+        "german u-boat discovered off norfolk coast .", 
+        "families evacuated after gorleston fire .", 
+        "lifesaver calls for more basic first aid training .", 
+        "updates on thursday , 21 january 2016 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a110363e00001a01ee3866", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it from the norfolk live team today , we 'll return tomorrow at 08:00 .", 
+                "do n't forget to get in touch if you have a story or a photograph that you 'd like to share with us .", 
+                "you can contact us via email , on facebook or twitter .", 
+                "have a good evening ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0f5233c00003a004ca803", 
+            "title": "pub 's music licence restricted", 
+            "text": [
+                "the landlord of a north norfolk pub says he feels he 's been unfairly treated after his music licence was restricted by councillors .", 
+                "dennis gilligan , who runs the white lady in worstead , has been told he can also only play music outdoors at four weddings a year .", 
+                "people living nearby had complained about the noise ."
+            ], 
+            "author": [
+                "Nicky Price", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a10ae93d00003102a95428", 
+            "title": "weather : cloudy with light rain overnight", 
+            "text": [
+                "increasingly cloudy with light patchy rain tonight and feeling chilly as temperatures fall to 1 ( c ) ( 34f ) .", 
+                "friday will be a cloudy and windy day , with outbreaks of rain , heavy in places , though this will gradually clear through the afternoon .", 
+                "maximum temperature : 11 ( c ) ( 52f ) .", 
+                "there 's further information available from bbc weather ."
+            ], 
+            "author": [
+                "Dan Holley", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a105933c00003d004ca850", 
+            "title": "harry toffolo joins peterborough on-loan", 
+            "text": [
+                "norwich city left-back harry toffolo has joined league one side peterborough united for the rest of the season .", 
+                "the 20-year-old , who has made one first-team appearance for the canaries , played seven times on loan at rotherham earlier this term .", 
+                "he also spent much of last season on loan at swindon town , appearing 30 times for posh 's league one rivals ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a110e83d00003202a95443", 
+            "title": "the headlines : german u-boat discovered off norfolk coast firefighters tackle 3m-long jet of flame", 
+            "text": [
+                "the stories in the news today :"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a109543d00003102a9541e", 
+            "title": "first world war submarine discovered on seabed", 
+            "text": [
+                "the wreck of a german submarine , lost for more than 100 years , was uncovered on a seabed 90kms ( 55 miles ) off the norfolk coast .", 
+                "engineers working on a wind farm project discovered the u-boat lying on the seabed at a depth of 98ft ( 30m ) .", 
+                "the find was made in 2012 , but the vessel has only now been officially identified ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a100ea3c00003c004ca83e", 
+            "title": "rebecca field misses out at world bowls championships", 
+            "text": [
+                "norwich 's rebecca field has lost out in the ladies singles final at the world indoor bowls championships at potters in hopton-on-sea .", 
+                "the 2013 world champion was beaten in two sets by cambridge 's ellen falkner .", 
+                "both sets were won by just a single shot ."
+            ], 
+            "author": [
+                "Phil Daley", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0e2bf400000ce4ab29b5e", 
+            "title": "ryan is ready to take on the world", 
+            "text": [
+                "the back page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a10b233d0000f900a9542a", 
+            "title": "watch : queen arrives at wi for afternoon tea", 
+            "text": [
+                "here 's the queen arriving for tea and cakes with the women 's institute at sandringham today .", 
+                "each year , she visits wi members at west newton village hall as part of her winter stay on the norfolk estate .", 
+                "the monarch became a member of the sandringham wi in 1943 ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0f8023e00001901ee3801", 
+            "title": "better gcse results for norfolk 's pupils", 
+            "text": [
+                "the latest school league tables show the average number of children in a norfolk school getting five a to c gcses has gone up to 54.9 % , from 52.7 % .", 
+                "the best-performing school was wymondham college , where 87 % of pupils got the grades .", 
+                "several schools failed to hit the minimum score of 40 % , expected by the government .", 
+                "these include wayland academy , ormiston victory academy , great yarmouth va high school , city academy and the hewett academy ."
+            ], 
+            "author": [
+                "Paul Moseley", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0e281210000534b01d70b", 
+            "title": "criminal charges over fire deaths ?", 
+            "text": [
+                "the front page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0f2683d00003500a953bb", 
+            "title": "watch : house badly damaged after fire crews tackle 3m-long jet of flame", 
+            "text": [
+                "firefighters called to a blaze in a gorleston terraced house last night had to tackle a 3m-long jet of flame .", 
+                "the gas main within the house had fractured , the first time that fire station manager john wilby had known this to happen ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0a2b6210000b74601d5c3", 
+            "title": "glassmakers ' stock to be sold next week", 
+            "text": [
+                "the remaining stock at caithness crystal in king 's lynn will be sold off next week , with the fittings and equipment going in an online sale next month .", 
+                "the glass-making company has announced its closure , saying it 's struggled since the recession .", 
+                "it says it can no longer meet its overheads , citing a change in customer buying habits with more people using the internet to shop .", 
+                "changes to the hardwick roundabout have led to fewer people dropping into the centre ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0bf763e00009b4603aba2", 
+            "title": "medical centre rated 'outstanding '", 
+            "text": [
+                "a gp surgery in east norfolk has been rated `` oustanding '' following an inspection by the care quality commission .", 
+                "the park surgery , in great yarmouth , provides general medical services to 10,600 patients in the area , including gorleston and bradwell .", 
+                "the inspection , in november , found the practice met the needs of the people it served , providing an `` innovative , caring effective and well-led service '' ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0d1c43e0000bf4803ac11", 
+            "title": "german submarine discovery 'a surprise '", 
+            "text": [
+                "engineers working on a wind farm project off the norfolk coast have discovered the wreck of a german u-boat , more than 100 years since it sank with the loss of its entire crew .", 
+                "the scanning team were expecting to see wrecks , but such a discovery was quite a surprise and has been extremely interesting . ''", 
+                "the 57.6m-long ( 63yds ) wreck is described as being in `` remarkable condition '' , with damage found at the bow and stern , suggesting its original length could have been slightly longer ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0c1204000007348b29aa6", 
+            "title": "city on to a winner", 
+            "text": [
+                "the back page of today 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0cf483e00009b4603abfe", 
+            "title": "u-boat find : entire crew of submarine lost their lives off norfolk coast", 
+            "text": [
+                "four officers and 31 men were lost when a world war one u-boat , from the imperial german navy , sank off the norfolk coast more than 100 years ago .", 
+                "the submarine , discovered in 2012 by engineers working on a wind farm project , has only now been officially identified .", 
+                "relatives and descendants of those lost in the u-31 can now take comfort in knowing the final resting place of the crew the discovery serves as a poignant reminder of all those lost at sea , on land and in the air during the first world war . ''"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a094a03e0000a24403aabc", 
+            "title": "disruption to main line rail services", 
+            "text": [
+                "abellio greater anglia is warning of some disruption to rail services between norwich and liverpool street , due to urgent track repairs near london ."
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0c95d4000005244b29ae0", 
+            "title": "u-boat believed to have struck a mine", 
+            "text": [
+                "the german submarine found lying on the seabed 90km ( 60 miles ) east of the norfolk coast was commissioned into the imperial german navy in september 1914 .", 
+                "in january 1915 , the sm u-31 slipped its mooring , sailing north-west from wilhelmshaven for a routine patrol , and disappeared..", 
+                "it 's thought the submarine had struck a mine , sinking with the loss of its entire crew .", 
+                "the wreck , discovered by engineers working on a wind farm project , is 57.6m ( 63yds ) long , 4.1m ( 4.5yds ) wide , and 4.6m ( 5yds ) high .", 
+                "the bow appears to be facing south , experts said ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "12:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0c5344000007348b29ac4", 
+            "title": "wreck of german u-boat discovered off norfolk coast", 
+            "text": [
+                "a german u-boat lost for more than a century has been uncovered on the seabed off the norfolk coast .", 
+                "engineers working on a wind farm project unearthed the wreck , lying about 90km ( 60 miles ) east of caister-on-sea .", 
+                "mark dunkley , marine archaeologist at historic england says the submarine is in `` remarkable condition , with the conning tower present and the bows partially buried . ''"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0afbb3e00009b4403ab40", 
+            "title": "norwich the coldest place in the frozen east", 
+            "text": [
+                "frost and freezing fog was the scene across norfolk this morning , and weather forecaster dan holley confirms that norwich was the coldest place in east anglia .", 
+                "e anglia min temps : norwich top of the table with -5.6c , but coldest night since apr 2013 for shoebury + charsfield :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0c1694000005244b29aa9", 
+            "title": "costs of payouts revealed", 
+            "text": [
+                "the front page of today 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0b379210000b64601d614", 
+            "title": "gorleston fire : fire crews did all they could", 
+            "text": [
+                "i 've been speaking to people who live in daphne way , gorleston , this morning , and they 've been telling me about the fire last night , when firefighters spent several hours containing a 3m ( 8.4ft ) flaming gas jet .", 
+                "carol barber , who looked after a neighbour , said it was very scary but the firefighters were doing all they could .", 
+                "they could n't do any more until the gas people got here they were the only people who could cap the gas off without any danger . ''"
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a0974f4000004f44b299d7", 
+            "title": "neighbour helps save life of four-week-old baby", 
+            "text": [
+                "a woman who helped save the life of her neighbour 's four-week-old baby is urging people to learn basic first aid skills .", 
+                "emily white , of foulsham , seen here with her own child , performed cpr on tina westlake 's son kane , after he stopped breathing from choking on milk .", 
+                "emily said her `` instinct kicked in .", 
+                "i started rescue breaths and cpr , and called for an ambulance '' ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a08cb33e00009e4403aa92", 
+            "title": "weather : some sunshine", 
+            "text": [
+                "after a frosty and foggy start , there 'll be some sunshine but cloud will build later .", 
+                "maximum temperature : 6c ( 43f ) .", 
+                "outbreaks of rain tonight , and not as cold as recently .", 
+                "minimum temperature : 2c ( 36f ) .", 
+                "there 's more information on bbc weather ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a0a4464000005244b29a10", 
+            "title": "three-vehicle accident closes a47", 
+            "text": [
+                "emergency services are on the scene of a three-vehicle accident on the a47 at east winch .", 
+                "the lynn road is blocked in both directions near to the junction with hall farm .", 
+                "traffic is queueing in both directions .", 
+                "it 's not known if anyone has been injured ."
+            ], 
+            "author": [
+                "Tim Addicott", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a09e83210000e34401d5ae", 
+            "title": "fighting gorleston house fire 'was very difficult '", 
+            "text": [
+                "the fire station manager called to the scene of a fire in a terraced house in gorleston last night says it was one of the most complicated he 's ever had to fight .", 
+                "john wilby says crews quickly realised a gas main within the house had fractured , and firefighters had to contain a 3m ( 8.4ft ) flaming gas jet .", 
+                "trying to contain a fire like that and stop it spreading for two- and-a-half hours until it could be isolated was very difficult . ''"
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56a093b74000005244b299c7", 
+            "title": "fire forces families to evacuate their homes", 
+            "text": [
+                "a number of families were evacuated from their homes in gorleston last night after a fire in a row of terraced houses .", 
+                "five fire crews spent three hours fighting the blaze in daphne way , which broke out at 18:00 .", 
+                "station manager john wilby of norfolk fire and rescue service said it was a complicated fire to fight , as they discovered that a gas main inside the house had fractured and caught fire ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a08ecf210000d94401d563", 
+            "title": "the headlines : fire forces families to leave their homes plea for all to learn basic first aid", 
+            "text": [
+                "the headlines this morning :"
+            ], 
+            "author": [
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56a08aeb210000d94401d54f", 
+            "title": "welcome to norfolk live", 
+            "text": [
+                "hello and thanks for joining us for thursday 's norfolk live , where the team will keep you up to date with news , sport , travel and weather from around the county .", 
+                "is there something happening in your part of norfolk that you think we should know about , or maybe you have some photographs that you 'd like to share ? .", 
+                "you can contact us on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

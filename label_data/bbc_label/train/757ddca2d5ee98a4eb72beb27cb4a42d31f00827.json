@@ -1,0 +1,533 @@
+{
+    "blog_id": "757ddca2d5ee98a4eb72beb27cb4a42d31f00827", 
+    "title": "Oxfordshire Live: Friday 18 November - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-38023842", 
+    "summary": [
+        "news , travel , weather and sport from across oxfordshire from friday 18 november .", 
+        "wind and willows used in court plea .", 
+        "m40 crash between junctions six and seven .", 
+        "police show drivers using phones fatal a34 crash footage ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f381de4b0e58fc37d3d04", 
+            "title": "that 's all for today", 
+            "text": [
+                "local live for oxfordshire resumes at 08:00 on monday .", 
+                "we hope you have a great weekend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f37f1e4b05314e457b17c", 
+            "title": "weather : 'cold night with frost '", 
+            "text": [
+                "this evening and tonight most places will be dry with light winds and clear spells , and just the odd light shower perhaps .", 
+                "it 'll be a cold night with a frost likely away from oxford and other more built up areas .", 
+                "minimum temperature 1c ( 34f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f0201e4b05314e457b05d", 
+            "title": "festival to cut number of tickets", 
+            "text": [
+                "fewer tickets will be available for next year 's henley festival and prices are to increase slightly ."
+            ], 
+            "author": [
+                "Henley Standard"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582f3e72e4b0e58fc37d3d20", 
+            "title": "travel update : lane closed on m40 southbound", 
+            "text": [
+                "there 's queuing traffic and one lane closed on the m40 southbound between junction 10 , a43 ( brackley ) and junction 9 , a34 ( bicester ) , because of an accident ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f0060e4b0e58fc37d3bf7", 
+            "title": "fantastic beasts and where to review them", 
+            "text": [
+                "david prever was joined in the studio by radio times film critic james luxford .", 
+                "they discussed the week 's big new release fantastic beasts and where to find them .", 
+                "it sees the launch of a new franchise from the pen of jk rowling , set in the harry potter universe , and stars eddie redmayne as newt scamander , a magical beasts collector in 1920s new york ."
+            ], 
+            "author": [
+                "Martin Eastaugh", 
+                "BBC Radio Oxford producer"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582f3782e4b01ef5e4d0b9d4", 
+            "title": "breakingthree more oxford cyclist murder arrests", 
+            "text": [
+                "three more people have been arrested on sus of the murder of a cyclist in oxford .", 
+                "six people have been taken into custody in connection with the death of eamonn anderson , 56 , who was assaulted in high street , oxford , on 25 october .", 
+                "he died in hospital on 11 november and iman st clair , 18 , of kestrel crescent , oxford , has been charged with murder .", 
+                "a further 23-year-old man and two 17-year-old boys , all from oxford , have been arrested on sus of murder ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f3877e4b01ef5e4d0b9d7", 
+            "title": "travel update : long delays on a40 westbound", 
+            "text": [
+                "there 's long delays on the a40 westbound in eynsham at the freeland turn off , because of an accident involving four or five cars earlier on .", 
+                "all lanes have been reopened but there 's congestion to the cutteslowe roundabout ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582f362fe4b01ef5e4d0b9cf", 
+            "title": "seven in court after sexual abuse raids", 
+            "text": [
+                "seven men have appeared in court charged with 27 historical child sexual exploitation offences in oxford .", 
+                "the charges include conspiracy to rape , causing or inciting a girl aged 15 to engage in sexual activity , and indecent assault of a girl under 16 .", 
+                "the men appeared in oxford crown court and were charged as part of thames valley police 's operation rolo after police raids in the city last month .", 
+                "the offences were allegedly committed between 2000 and 2005 ."
+            ], 
+            "author": [
+                "Joe Nimmo", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f0a66e4b0e58fc37d3c28", 
+            "title": "family 'torn apart ' by home office refusal", 
+            "text": [
+                "a man from oxfordshire says his family 's been torn apart after the home office refused to let his chinese wife stay in the country .", 
+                "steve bearns from wallingford married mary zu six years ago and they have a british-born son together .", 
+                "but mary 's application to stay in the uk was refused and she 's been in china since january .", 
+                "wantage mp ed vaizey has called the case a scandal ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "pgl_38027207", 
+            "title": "oxfordshire 's big picture", 
+            "text": [
+                "oxfordshire 's big picture"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f0bb8e4b0e58fc37d3c2d", 
+            "title": "the shires in the studio", 
+            "text": [
+                "the shires have been speaking to alex lester today ahead of their gig at the o2 academy oxford and played their song a thousand hallelujahs ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10191931", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f17d7e4b0e58fc37d3c63", 
+            "title": "terminally-ill student 'blown over ' by efforts to complete bucket list", 
+            "text": [
+                "matt greenwood , from walsall , said the support he 's received from his friends and family has been `` mind-blowing '' .", 
+                "he said : `` it 's just incredible really , all the support that 's been coming in , it 's amazing and i 'm so grateful to my friends .", 
+                "`` when you really really need it in the crunch time , and when it kind of comes through for you , that 's really special . ''", 
+                "the st edmund hall student 's friends and family broke their original justgiving.com target of \u00a3 10,000 in four hours and are now hoping to raise \u00a3 75,000 ."
+            ], 
+            "author": [
+                "Joe Nimmo", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582f1216e4b01ef5e4d0b900", 
+            "title": "travel update : broken down vehicle on m40 london-bound", 
+            "text": [
+                "there 's a broken down vehicle on the m40 london-bound between junction 5 , a40 ( stokenchurch ) and junction 4 , a404 ( high wycombe handy cross roundabout ) ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582f01b9e4b05314e457b05a", 
+            "title": "friends of terminally-ill student raise \u00a3 45,000 for 'bucket list '", 
+            "text": [
+                "friends of a terminally-ill oxford university student have raised \u00a3 45,000 to make his dreams of travelling the world come true .", 
+                "matt greenwood , 21 , was given nine months to live in october after bone cancer in his hip spread to his lungs .", 
+                "and despite having his leg amputated the engineering student and keen sportsman is learning to walk again with the aid of crutches .", 
+                "now his supporters are determined to help him complete his `` bucket list '' ."
+            ], 
+            "author": [
+                "Joe Nimmo", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582f0247e4b05314e457b061", 
+            "title": "travel update : a34 partially blocked southbound at east ilsley", 
+            "text": [
+                "the a34 is partially blocked and there 's queuing traffic southbound at east ilsley , because of an accident ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582efdf7e4b05314e457b046", 
+            "title": "most common surnames in britain and ireland revealed", 
+            "text": [
+                "the origins of more than 45,000 surnames have been revealed by a new study - giving some people a fresh insight into where their names come from .", 
+                "the surname database , which will soon be searchable in some libraries , is the result of four years of work led by the university of the west of england .", 
+                "its fascinating findings have been published in the oxford english dictionary of family names in britain and ireland ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582eef2fe4b05314e457b007", 
+            "title": "the race for pudsey at bbc oxford and radio berkshire", 
+            "text": [
+                "mannequin challenge , pudsey styleee !", 
+                "who 's gon na get to him first !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid # mannequinchallenge # cin"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ee5f1e4b01ef5e4d0b80d", 
+            "title": "new gcse grades increases pressure on students", 
+            "text": [
+                "an oxfordshire headteacher has criticised plans to overhaul the gcse grading system .", 
+                "caroline jordan , who runs headington school , says introducing a numbering system will increase pressure on pupils , particularly perfectionists .", 
+                "a to g grades will be replaced with numbers one to nine - with nine being the highest .", 
+                "the department for education says reforms have reduced exam pressure by scrapping january modules and removing resits from league tables ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ede9ee4b05314e457af8c", 
+            "title": "watch : how children in need cash helps charity", 
+            "text": [
+                "it 's children in need day and here 's one reason to give your pennies .", 
+                "local charity home start banbury and chipping norton"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38016683", 
+            "title": "pepperell battles through q school pain", 
+            "text": [
+                "pepperell battles through q school pain"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ec272e4b05314e457aec1", 
+            "title": "latest headlines : hydro high court challenge fails", 
+            "text": [
+                "here 's the latest headlines from bbc radio oxford :"
+            ], 
+            "author": [
+                "BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ecbfce4b01ef5e4d0b76b", 
+            "title": "breakingman charged with cyclist murder", 
+            "text": [
+                "an 18-year-old man has been charged with the murder of a cyclist , who died after being pushed off his bike by a group of people .", 
+                "iman st clair , of kestrel crescent , oxford was arrested on wednesday and was charged yesterday evening with one count of murder .", 
+                "he will appear at oxford magistrate 's court later today .", 
+                "two other people have also been arrested on sus of murder ."
+            ], 
+            "author": [
+                "Alex Regan", 
+                "South Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ec6e8e4b01ef5e4d0b74f", 
+            "title": "watch : did you miss the oxford united q & a ?", 
+            "text": [
+                "last night we spent an hour putting your questions to the u 's boss michael appleton and chairman darryl eales on facebook .", 
+                "here 's the video if you want to catch up ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582ec2f6e4b0e58fc37d3a91", 
+            "title": "wind in the willows used in court plea", 
+            "text": [
+                "extracts from the wind in the willows are read out in court in an attempt to stop a hydro-electric scheme ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ec0a7e4b0e58fc37d3a82", 
+            "title": "travel latest : crash on m40 northbound", 
+            "text": [
+                "travel latest : crash on m40 northbound"
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582ec02be4b01ef5e4d0b72a", 
+            "title": "bosses who went back , for better or worse", 
+            "text": [
+                "sport looks at bosses , like qpr 's ian holloway and oxford united 's jim smith , who make multiple stops at one club on the managerial merry-go-round ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_582ebd0be4b0e58fc37d3a75", 
+            "title": "police show drivers using phones fatal a34 footage", 
+            "text": [
+                "thames valley police is showing drivers they catch using mobile phones while driving footage of a fatal crash on the a34 that killed four people in august .", 
+                "tomasz kroker was sentenced to 10 years after he pleaded guilty to being distracted by his phone when driving a lorry , which led to the deaths of tracey houghton , 45 , her sons ethan and joshua , and her partner 's daughter aimee goldsmith .", 
+                "the shock tactics were used on thursday in oxfordshire .", 
+                "one offender said : `` i 'll definitely be telling my colleagues to be more careful , not just because you can get caught but because it was really dangerous . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582eb1ffe4b01ef5e4d0b6c2", 
+            "title": "friday 's weather : decidedly chilly with blustery showers", 
+            "text": [
+                "it 's going to be decidedly chilly today , but mainly sunny , although there is the chance of some blustery showers later on this afternoon .", 
+                "temperatures will be struggling to get above 6c ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582eb197e4b05314e457ae57", 
+            "title": "what are you doing for children in need ?", 
+            "text": [
+                "it 's that time of year again , it 's children in need , and bbc oxford is in a battle royale to beat radio berkshire in a quest to find pudsey in the county .", 
+                "we 'll be bringing you updates from roving reporter lilley mitchell , and we want to hear what you 're doing to raise money for children in need .", 
+                "do n't forget to send us your snaps from around the county for this week 's oxfordshire big picture via email .", 
+                "above is a great of godstow from xuguang liu ."
+            ], 
+            "author": [
+                "Alex Regan", 
+                "South Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

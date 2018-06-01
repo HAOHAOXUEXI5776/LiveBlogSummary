@@ -1,0 +1,727 @@
+{
+    "blog_id": "2adb4c48df86c92108e58caebe9c3f9d38b4b28e", 
+    "title": "BBC Local Live: Nottinghamshire on Friday 17 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-nottinghamshire-38990556", 
+    "summary": [
+        "updates for friday 17 february 2017 .", 
+        "policeman sacked over sexual misconduct .", 
+        "ivf eligibility tightened in parts of notts .", 
+        "four people injured in caunton crash .", 
+        "forest welcome back cohen and lichaj .", 
+        "news , sport , travel and weather updates resume at 08:00 monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a72edae4b06f5728f821fa", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's the end of local live for this week .", 
+                "we 'll be back at 08:00 on monday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a72ebce4b06f5728f821f8", 
+            "title": "weather : rain expected overnight", 
+            "text": [
+                "it 'll be cloudy overnight with some scattered showery rain in the early hours .", 
+                "lows of 6c ( 43f ) ."
+            ], 
+            "author": [
+                "Alex Hamilton", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a72e12e4b03cb862dd0a42", 
+            "title": "forest to welcome back defender", 
+            "text": [
+                "full-back eric lichaj returns from a one-match ban and is expected to start for nottingham forest at home to sheffield wednesday tomorrow .", 
+                "more team news and match stats here ."
+            ], 
+            "author": [
+                "BBC Nottingham Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a72caee4b03cb862dd0a39", 
+            "title": "your laneham sunset", 
+            "text": [
+                "the sun 's going down on another week here in notts - this pic was taken by molesend in laneham ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a727cfe4b03cb862dd0a26", 
+            "title": "dismissal followed lewd comments and knee squeeze", 
+            "text": [
+                "the nottingham post reports mr syed made a series of sexually inappropriate comments to female colleagues and squeezed the knee of a female officer while driving her down a dark lane in a patrol car ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a72644e4b074e9ec25fbe1", 
+            "title": "officer had denied misconduct allegations", 
+            "text": [
+                "the panel found mr syed guilty of five of the six counts of misconduct he was facing and he was dismissed - although he is entitled to appeal the decision .", 
+                "det insp louise jordan , said : `` we expect the highest standards of behaviour from those employed by nottinghamshire police . ''"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a72550e4b03cb862dd0a1f", 
+            "title": "policeman fired over sexual misconduct", 
+            "text": [
+                "a nottinghamshire police officer has been sacked following a misconduct hearing .", 
+                "ateeq syed , 39 , based at radford road police station , was dismissed after the panel found him guilty of sexually inappropriate , degrading , and unprofessional conduct towards female colleagues ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a723e2e4b03cb862dd0a19", 
+            "title": "fly-tippers leave huge pile near major road", 
+            "text": [
+                "any idea who dumped this pile of rubbish next to the a60 near ravenshead ?", 
+                "gedling borough council said it was left at some point between 20:00 last night and first thing this morning ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a72314e4b03cb862dd0a15", 
+            "title": "lady pie gets international call-up", 
+            "text": [
+                "some good news for meg walsh .", 
+                "congratulations to @ twitterid who has been called up to the @ twitterid u23 squad for la manga # lionesses", 
+                "congratulations megs !", 
+                "grats megs .", 
+                "know u 'll keep working hard & imo in no time u 'll b with ct on the a team !", 
+                "# coylp : )", 
+                "congratulations megs !", 
+                "happy to see you get the call up you deserve it"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a71d39e4b074e9ec25fbc4", 
+            "title": "spring is coming", 
+            "text": [
+                "it 's not just the milder weather looking forward to spring - these are the first snowdrop shoots at holme pierrepont hall in nottingham , captured this morning ."
+            ], 
+            "author": [
+                "Geeta Pendse", 
+                "BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a71b23e4b06f5728f821a5", 
+            "title": "missing man found safe", 
+            "text": [
+                "police say 46-year-old david hunter , who was reported missing from his home in sneinton earlier this week , has been found safe and well ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a7172ee4b03cb862dd09e9", 
+            "title": "your views : new rules on ivf", 
+            "text": [
+                "we 've had a few comments on our facebook page over the decision to put further restrictions on the number of women eligible for free nhs ivf treatment in parts of notts .", 
+                "carolyn talkes-nicholls wrote : `` how utterly heartbreaking for the potential families affected .", 
+                "everyone deserves a chance . ''", 
+                "barry elliott posted : `` another way to divide people from the have and have nots .", 
+                "what 's next ? ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a7148ae4b03cb862dd09df", 
+            "title": "judge tells dealer : 'you 're too old for this '", 
+            "text": [
+                "a 25-year-old man caught with wraps of cannabis was told he was 'getting a bit old for street corner dealing ' as he was spared jail ."
+            ], 
+            "author": [
+                "Nottingham Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a71003e4b06f5728f8217d", 
+            "title": "'people feel neglected in warsop '", 
+            "text": [
+                "andy wetton , chairman of warsop parish council , said he hoped a new operator could be found for meden sports centre .", 
+                "`` it 's always been a valued centre of the community .", 
+                "thousands of children have learned to swim there , '' he said .", 
+                "`` people generally feel we 're neglected in warsop - there 's not been a lot of investment in the town over the years and they feel left out . ''"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a70d1fe4b06f5728f8216f", 
+            "title": "sport centre facing closure", 
+            "text": [
+                "a public meeting is being held in warsop this evening to try to save the swimming pool .", 
+                "mansfield district council is considering closing the town 's sports centre if a new operator can not be found ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a7057fe4b03cb862dd0998", 
+            "title": "golf : foster fades in round two", 
+            "text": [
+                "worksop 's mark foster slipped back to a share of 26th place with a second-round 73 at the inaugural world super 6 in perth , australia .", 
+                "he made seven birdies in his opening round but could manage only one in round two , with two bogeys leaving him on five under par ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a70426e4b074e9ec25fb49", 
+            "title": "cohen returns for forest", 
+            "text": [
+                "nottingham forest manager gary brazil reveals chris cohen is back training with the first team squad and michael mancienne will have a fitness test ahead of tomorrow 's sheffield wednesday match ."
+            ], 
+            "author": [
+                "BBC Nottingham Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6f1c8e4b03cb862dd0952", 
+            "title": "your squirrel sighting", 
+            "text": [
+                "check out this cheeky chappie - spotted in hempshill vale and uploaded to bbc east midlands today 's facebook page by sharon anne bell ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6efd2e4b074e9ec25fb00", 
+            "title": "weather : latest forecast", 
+            "text": [
+                "plenty of cloud around throughout the afternoon though there may be a couple of brighter spells developing as the cloud thins for a time .", 
+                "dry with highs of 11c ( 52f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6efa4e4b074e9ec25fafe", 
+            "title": "cancer clinics cut", 
+            "text": [
+                "cancer patients have been told that from monday king 's mill hospital will reduce its cancer clinics from five to three days ."
+            ], 
+            "author": [
+                "Mansfield Chad"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6f05be4b06f5728f820f6", 
+            "title": "latest headlines for nottinghamshire", 
+            "text": [
+                "here 's a recap of our top stories :"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a6e7b3e4b06f5728f820c9", 
+            "title": "four injured in caunton crash", 
+            "text": [
+                "a man and a woman suffered serious injuries in a crash involving a car , van and lorry in caunton last night .", 
+                "police said two other people also needed hospital treatment after the collision , on the a616 between mill lane and manor road at about 22:00 .", 
+                "the road stayed closed overnight .", 
+                "police have appealed for witnesses ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6e00be4b074e9ec25fabb", 
+            "title": "cricket : ecb role for noon", 
+            "text": [
+                "former nottinghamshire coach and wicketkeeper wayne noon has been appointed as a cricket liaison officer by the ecb ."
+            ], 
+            "author": [
+                "BBC Nottingham Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6e0abe4b074e9ec25fabf", 
+            "title": "double trouble for bus users", 
+            "text": [
+                "we have delays on yellow 68 , 69 because of the works in # bulwell and an issue with the barriers in # basford"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6dd36e4b03cb862dd08f8", 
+            "title": "pop goes the weasel", 
+            "text": [
+                "this just popped up on the weather watchers website - taken by steve a in kimberley ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6dc63e4b06f5728f8209d", 
+            "title": "signalling problem resolved", 
+            "text": [
+                "good news and bad news"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6d6a5e4b03cb862dd08e9", 
+            "title": "train problems rumble on", 
+            "text": [
+                "east midlands trains says services through derby will be suspended until at least 11:15 .", 
+                "it 's provided this map of alternative routes it 's accepting tickets on ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6d374e4b03cb862dd08d5", 
+            "title": "snake surprise for staff at animal charity", 
+            "text": [
+                "eek !", 
+                "look what was found in a gutter just round the corner from branch today torpid when found but soon warmed up & off to the vets !", 
+                "not casper @ twitterid rt @ twitterid look what was found in a gutter"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6d2e1e4b06f5728f8207f", 
+            "title": "your photos : february in notts", 
+            "text": [
+                "hoveringham was looking glorious this morning .", 
+                "many thanks to weather watcher david e for the"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6cef1e4b03cb862dd08bf", 
+            "title": "wanted : former shoe factory workers", 
+            "text": [
+                "did you ever work at the british shoe corporation in leicester ?", 
+                "if so , you 're invited to a reunion next month .", 
+                "the firm employed people from across the region ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6cf53e4b03cb862dd08c4", 
+            "title": "broken traffic lights in basford", 
+            "text": [
+                "traffic signal failure : vernon road / david lane ( basford crossing ) - engineer on way to investigate"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6c9f2e4b06f5728f8204f", 
+            "title": "travel : train delays after signalling fault", 
+            "text": [
+                "a signalling problem is causing major disruption for train services between nottingham and derby .", 
+                "due to a fault with the signalling system at derby all lines are currently blocked :"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6c8eee4b03cb862dd08a6", 
+            "title": "goalkeeper in penguin probe", 
+            "text": [
+                "a former nottingham forest goalkeeper has been quizzed by cops over whether he stole a penguin ."
+            ], 
+            "author": [
+                "Nottingham Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6c80ee4b03cb862dd08a2", 
+            "title": "airline hiring ground staff at east midlands airport", 
+            "text": [
+                "a hundred new jobs are being created at east midlands airport after budget airline jet2 decided to bring its ground handling operations in-house .", 
+                "the company 's taking on ramp handling services that were previously operated by another firm ."
+            ], 
+            "author": [
+                "BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6c37ae4b03cb862dd088d", 
+            "title": "watch : health boss on ivf rule change", 
+            "text": [
+                "dr amanda sullivan said the tightening of ivf eligibility was `` a sensible compromise ''"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a6ba78e4b03cb862dd0867", 
+            "title": "health boss : ivf switch 'a very difficult decision '", 
+            "text": [
+                "amanda sullivan , chief officer for the two clinical groups , said the decision to further limit ivf eligibility was driven by the need to cut costs and had followed extensive consultation .", 
+                "she said : `` it 's only part of the savings we need to make but we have to look at every single area of spend and prioritise it on the things that we think are likely to have the best chances of success for people .", 
+                "`` it 's a very difficult decision and at the end of the day there are inevitably going to be different views about it . ''"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a6b4f0e4b06f5728f81ffa", 
+            "title": "anger at ivf rule change", 
+            "text": [
+                "a fertility clinic that treats patients from across the east midlands says cuts to nhs-funded treatment in some parts of nottinghamshire will be life-changing .", 
+                "yesterday health bosses in mansfield and ashfield , and newark and sherwood , further restricted access to ivf on the nhs , meaning women under 35 and men under 40 will only have access to a single round of funded treatment .", 
+                "managers at nurture fertility in sandiacre say they 're disappointed and hope funding will return to the national recommendation of three nhs cycles ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6aeb9e4b074e9ec25f9de", 
+            "title": "watch : friday 's forecast", 
+            "text": [
+                "here 's how today 's looking weather-wise ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a6ae76e4b03cb862dd082c", 
+            "title": "city route shut", 
+            "text": [
+                "something to be aware of today", 
+                "24 hour road closure will commence on wollaton street in the arboretum today .", 
+                "please seek alternative routes", 
+                "is this correct ?", 
+                "we thought it was at the weekend .", 
+                "do you have timings too ?"
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a6ab0ee4b074e9ec25f9c6", 
+            "title": "good morning : join us for today 's live coverage", 
+            "text": [
+                "greetings one and all .", 
+                "i 'll be bringing you all of today 's news , sport , travel and weather for nottinghamshire .", 
+                "get your comments , questions and photos featured by contacting me via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Gavin Bevis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-nottinghamshire", 
+    "quality": "high"
+}

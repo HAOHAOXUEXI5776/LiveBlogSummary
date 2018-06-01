@@ -1,0 +1,833 @@
+{
+    "blog_id": "9e3df0bae4ceb9a68b5daa33e050fd9a3a3431b3", 
+    "title": "UK inflation steady at 2.3% in March - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/apr/11/markets-edgy-on-political-risks-ahead-of-uk-inflation-business-live", 
+    "summary": [
+        "uk house prices rise in february but london slows down .", 
+        "bad news for fans of crisp sandwiches .", 
+        "german economic sentiment improves .", 
+        "reaction to inflation figures .", 
+        "uk inflation unchanged at 2.3 %", 
+        "barclays : jes staley 's actions `` amazing '' , says standard life .", 
+        "jd sports shares hit new peak after record profits ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-58eccb2ee4b05b487c0e15c8", 
+            "title": "closing summary", 
+            "text": [
+                "here 's a round up of the day 's events .", 
+                "uk inflation was flat , with the consumer price index coming in at 2.3 % in march for the second month in a row .", 
+                "that was still the highest level for more than three years , and raises the question of whether the bank of england should raise interest rates .", 
+                "but with wage growth slowing , real incomes are being hit .", 
+                "uk house prices rose by 5.8 % in february but london saw its slowest growth since april 2012 .", 
+                "elsewhere a leading investment group has described the actions of barclays boss jes staley in trying to unmask a whistleblower as amazing '' in the light of attempts to encourage people with concerns to come forward .", 
+                "german economic sentiment improved in april but eurozone industrial production was disappointing .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ecc980e4b05776df18ca84", 
+            "title": "", 
+            "text": [
+                "the pound is currently up 0.25 % at $ 1.2441 , having been as high as $ 1.2445 and as low as $ 1.2404 .", 
+                "fxtm research analyst lukman otunuga said : sterling was volatile on tuesday , with prices oscillating between losses and gains after markets digested the uk 's steady 2.3 % inflation figure for march , which was the highest level since september 2013 .", 
+                "the ongoing currency weakness created by brexit , coupled with rising oil prices has elevated inflation above the bank of england 's 2 % target , with speculation mounting over cpi following its positive trajectory this quarter .", 
+                "although the immediate market reaction to march 's headline cpi reading was noticeably bullish , gains may be relinquished when participants start to re-evaluate the impact it may have on the uk economy .", 
+                "with inflation still above average earning there is a threat of consumer spending taking a hit , which could spark concerns over the longevity of the uk 's consumer-fuelled economic growth ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                12, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ecb89ce4b05776df18ca35", 
+            "title": "", 
+            "text": [
+                "should the bank of england raise interest rates ?", 
+                "the answer is complicated , writes larry elliott : it seems so obvious .", 
+                "the bank of england sets interest rates to hit the government 's 2 % inflation target .", 
+                "inflation is currently 2.3 % and - despite holding steady in march - is certain to go higher over the coming months .", 
+                "higher borrowing costs choke off inflationary pressure .", 
+                "therefore interest rates should now be going up .", 
+                "in reality , it is a bit more complicated than that .", 
+                "the first thing the nine members of the bank 's monetary policy committee have to decide is whether the above-target inflation seen in the last couple of months is a temporary blip .", 
+                "it 's quite clear it is n't .", 
+                "food is going up , energy companies are raising their tariffs , retailers are passing on the higher costs of imports caused by a weaker pound .", 
+                "last month 's inflation figure was flattered by the timing of easter , which led to a sharp fall in the annual cost of air fares .", 
+                "that one-off factor will be reversed in april .", 
+                "the question is not whether inflation will continue rising in 2017 but how high it will go .", 
+                "at least to 3 % is the answer , perhaps a bit higher .", 
+                "the next thing for the mpc to consider is whether there is a risk of inflation becoming entrenched .", 
+                "that would happen if rising prices led to workers successfully negotiating higher wages to compensate them for the hit to living standards .", 
+                "there seems little sign that inflation will feed on itself , as it did in the 1970s .", 
+                "his full analysis is here : inflation is only going one way .", 
+                "let 's hope interest rates do n't follow | larry elliott read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                11, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ecb4cce4b05776df18ca1e", 
+            "title": "", 
+            "text": [
+                "here 's our report on the inflation figures : rising food and clothing prices kept britain 's inflation rate at its highest level for more than three years last month , putting household budgets under pressure as the brexit effect on the pound worked its way through the economy .", 
+                "official figures put inflation on the consumer prices index ( cpi ) at 2.3 % for the second month running in march , in line with economists ' forecasts , as food prices rose at the fastest pace for three years , increasing 1.2 % on the year .", 
+                "economists said inflation was likely to push higher in april and they warned the rising costs of essentials such as groceries were already eating into households ' budgets and leaving them with less cash to spend on other items .", 
+                "reports from retailers suggest sales have slowed in recent months .", 
+                "today 's release confirms our expectations that 2017 will see the end of the consumer spending boom which has driven economic growth in recent years , '' said nina skero at the consultancy the centre for economics and business research .", 
+                "with the prices of essentials such as housing costs , food and transport on the rise , less money will be left over for discretionary spending .", 
+                "this is especially true given that wage growth is unlikely to keep up with the elevated inflation levels . ''", 
+                "the full story is here : uk inflation stays at three-year high of 2.3 % read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                10, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ecb1fee4b05b487c0e154e", 
+            "title": "", 
+            "text": [
+                "chris beauchamp ( @ chrisb ig ) $ ftse enjoying itself today , do n't forget april is historically a strong month ( ave. return 1.8 % over last 20 yrs ) :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                10, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ecafece4b0e0ec04effd7c", 
+            "title": "", 
+            "text": [
+                "with the pound now fairly flat against the dollar in the wake of the inflation numbers , the ftse 100 is pretty buoyant , up 44 points or 0.6 % .", 
+                "the host of overseas earners in the uk 's leading index are supported by a weaker sterling , and the fact the currency has moved no higher has been taken positively by investors .", 
+                "connor campbell at spreadex said : while the pound was clearly disappointed that the cpi did n't grow any further in march , the fact that it avoided the dip forecast by analysts meant the currency 's losses were n't too pronounced .", 
+                "against the euro sterling fell 0.2 % , shuffling under 1.17 in the process ; against the dollar , however , the pound sat flat , keeping its head just above 1.24 .", 
+                "though the pound did n't have an aggressively sour reaction to the inflation figure , the fact that it did n't move any higher was enough to lift the ftse , which surged more than half a percent to hit a 3 week high .", 
+                "the eurozone indices , on the other hand , could n't shake their negative open , the dax and cac slipping 0.3 % and 0.1 % respectively .", 
+                "the region was aided , however , by a pair of better than expected zew economic sentiment readings ; the german figure came in at a 20 month high of 19.5 , while the eurozone-wide hit a 16 month peak of 26.3 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                10, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58eca9c7e4b05b487c0e152c", 
+            "title": "uk house prices rise in february but london slows down", 
+            "text": [
+                "uk house prices rose by 5.8 % year on year in february compared to 5.3 % the previous month , with london showing the slowest increase since april 2012 at 3.7 % .", 
+                "the uk figure is still below the average annual house price growth of 7.3 % seen in 2016 .", 
+                "the office for national statistics said : the main contribution to the increase in uk house prices came from england , where house prices increased by 6.3 % over the year to february 2017 , with the average price in england now \u00a3 234,000 .", 
+                "wales saw house prices increase by 1.8 % over the last 12 months to stand at \u00a3 145,000 .", 
+                "in scotland , the average price increased by 3.1 % over the year to stand at \u00a3 139,000 .", 
+                "the average price in northern ireland currently stands at \u00a3 125,000 , an increase of 5.7 % over the last 12 months .", 
+                "samuel tombs ( @ samueltombs ) house prices in feb were up just 3.7 % y/y in london vs 6 % in the rest of the uk .", 
+                "prices have n't underperformed in the capital since aug 09 :"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                10, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58eca877e4b05b487c0e1526", 
+            "title": "", 
+            "text": [
+                "the forthcoming french presidential election is causing some tremors for the euro : bloomberg ( @ business ) investors are showing increasing concern before the french presidential elections arnaud masset at swissquote bank said : the single currency has held up so far but investors are becoming particularly worried ahead of april 23rd ( the first round of the french election ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                9, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58eca0b5e4b05b487c0e150a", 
+            "title": "bad news for fans of crisp sandwiches", 
+            "text": [
+                "back with uk inflation , and there is one category of consumer who is being particularly hard hit by price rises , points out laith khalaf , senior analyst at hargreaves lansdown : in march food inflation really took off , which suggests the supermarkets are now starting to pass rising import costs onto consumers .", 
+                "crisps and margarine saw particularly steep price rises , not good news for fans of the crisp sandwich .", 
+                "he added : the inflationary squeeze that 's coming is going to mean consumers have to spend more at the check outs and petrol pumps , and that reduces their capacity to fund discretionary spending .", 
+                "it also reduces people 's propensity to save , which is particularly worrying at a time when the uk 's savings ratio is at its lowest level since the 1960s , and retirement is costlier than ever because of gains in life expectancy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                9, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec9df9e4b05776df18c9c4", 
+            "title": "german economic sentiment improves", 
+            "text": [
+                "away from uk inflation , and german consumers remain confident it seems .", 
+                "the zew institute 's economic sentiment index came in at 19.5 in april compared to 12.8 the previous month and expectations of a figure of 14 .", 
+                "this was the highest level since august 2015 .", 
+                "zew president achim wambach said : though the long-term average as calculated from the beginning of the survey ( december 1991 ) is yet to be beaten , these results are comparable to the expectations prior to the brexit vote in june 2016 .", 
+                "the german economic situation has proved fairly robust in the first quarter .", 
+                "this is highlighted by the solid figures for growth in industrial production , the construction sector and retail sales from february .", 
+                "in addition , the consistently high labour demand has boosted private consumption .", 
+                "the financial market experts expect this positive development to continue .", 
+                "economic sentiment index however there have also been some disappointing eurozone industrial production figures : howard archer ( @ howardarcheruk ) # eurozone # industrial production unexepctedly dipped 0.3 % m/m in feb ( +0.3 % in jan ) as limited by 4.7 % drop in energy output ; up 1.2 % y/y"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                9, 
+                21
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec9b7ee4b05b487c0e14f5", 
+            "title": "", 
+            "text": [
+                "more reaction : james smith , ing bank economist : uk inflation stayed at 2.3 % year on year in march , which when compared to wage growth ( which is likely to slow in data released tomorrow ) , means real incomes could be starting to fall .", 
+                "a major driver of the recent in inflation has been food prices .", 
+                "having been depressed for multiple years by a fierce price war , supermarket prices have been increasing fairly rapidly as the near-20 % depreciation in sterling since november 2015 pushes up costs .", 
+                "at 1.2 % , the annual rate of growth in food & non-alcoholic drink prices is the highest since early 2014 .", 
+                "that said , there was a risk that last year 's early easter provided a temporary drag on today 's data , as items such as air fares would have been lower than had there been a holiday weekend .", 
+                "but at first glance , this effect appears to be fairly limited .", 
+                "overall , we think that the effect of the weaker pound and higher fuel costs will drive inflation above 3 % in the second half of this year in tomorrow 's jobs report , we expect wage growth ( excluding bonuses ) to fall back to 2 % following some particularly weak single month '' figures recently .", 
+                "in real terms , that means that disposable incomes will be falling , and we are seeing some signs that this is hitting spending .", 
+                "suren thiru , head of economics at the british chambers of commerce : the continued elevation in costs at the factory gate suggests that consumer prices are likely to resume their upward trend in the coming months .", 
+                "businesses say they are facing an uphill struggle to absorb the increasing cost of imports - a task made more difficult by the raft of additional upfront costs imposed on businesses at the start of the new tax year .", 
+                "as a result , the rising price of imported raw materials are expected to increasingly filter through into higher prices , stifling consumer spending , a key driver of uk growth .", 
+                "it is probable that rising inflation helped weaken uk gdp growth in the first quarter of 2017 , with growth likely to have slowed to 0.4 % , from 0.7 % in the previous quarter .", 
+                "the uk 's growth prospects are expected to remain subdued over the near term , as higher inflation continues to squeeze consumers and businesses .", 
+                "against this backdrop , it is vital that government does more to ease the cost pressures facing firms by tackling the burden of upfront costs and taxes associated with doing business in the uk .", 
+                "the mpc must also continue to 'look through ' the expected rises in inflation and opt for an extended period of monetary stability .", 
+                "this will help businesses to continue to invest , recruit and support the wider economy .", 
+                "ian kernohan , economist at royal london asset management : the later date of easter this year will have held back prices in march , thanks to the lower air fares .", 
+                "however , while the impact of rising oil prices last year is now fading , the full impact of sterling 's devaluation is still feeding through .", 
+                "we would expect the air fare effect to reverse next month , and cpi to move higher , further above the 2 % target .", 
+                "inflation"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                9, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec9afde4b05776df18c9b6", 
+            "title": "", 
+            "text": [
+                "and here 's the tuc on the inflation figures .", 
+                "general secretary frances o'grady said : rising prices and sluggish pay increases mean that real earnings growth has now ground to a halt .", 
+                "without government action , another living standards crisis is on the cards .", 
+                "we urgently need more investment in skills and infrastructure to build strong foundations for better paid jobs .", 
+                "and it 's time to scrap the pay restrictions hitting midwives , teachers and other public servants .", 
+                "frances o'grady fuller/pa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                9, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec975ce4b05776df18c9a7", 
+            "title": "reaction to inflation figures", 
+            "text": [
+                "maike currie , investment director for personal investing at fidelity international : retail sales figures from the british retail consortium released overnight showed that the rise in inflation is already starting to bite , with non-food high street sales suffering the worst fall in nearly six years .", 
+                "with price rises outstripping wages , we are getting progressively poorer each month .", 
+                "unsurprisingly , consumers are choosing to instead focus their spending on essential items like food and fuel .", 
+                "changing shopping habits and a fall in spending should flash amber warning lights for an economy reliant on confident consumers hitting the shops .", 
+                "rising inflation also has implications for savers , investors and retirees as it erodes the spending power of future interest and dividend payments and eats away at the worth of your original capital .", 
+                "inflation never looks like a problem , until suddenly it is a big problem .", 
+                "once pricing pressures become entrenched , consumers ' feel the pain , companies do n't invest and the market gets worried .", 
+                "dennis de jong , managing director at ufx.com : inflation remained above the two percent mark in march , stoking fears that consumer spending - the engine room of the uk economy - could begin to slip .", 
+                "theresa may will be concerned that the sharp fall in sterling over recent months , combined with rising food and fuel costs , is beginning to squeeze living standards .", 
+                "but of even greater concern is the impact this could have on the uk economy during brexit negotiations .", 
+                "with inflation now beyond the bank of england 's target , it would not be a surprise to see interest rates hiked sooner rather than later to keep prices in check .", 
+                "paul sirani , chief market analyst at xtrade : the uk 's consumer price index remains some way above the bank of england 's 2 % target , though mark carney and co may be somewhat relieved to see that prices have n't continued to rise .", 
+                "it marks temporary respite from soaring inflation following the post-brexit collapse of the pound , with a late easter and fuel prices being partly responsible for the pause .", 
+                "despite march 's plateau , inflation could up again as we head into the second half of 2017 , and could even exceed 3 % by the summer .", 
+                "whether that forces the mpc 's hand is still unsure , though - many will want to see unemployment down and wage growth markedly up before an interest rate hike .", 
+                "nick dixon , investment director at aegon : with inflation surpassing the bank of england 's target for a second month running savers will begin to feel the pinch as inflation erodes the value of their hard earned cash and this poses a particular threat to pensioner income .", 
+                "howard archer , chief european and uk economist at ihs markit : some respite for consumers - and the bank of england - as consumer price inflation stabilized at 2.3 % in march after rising sharply from 0.9 % in october .", 
+                "unfortunately though , it is odds-on that this will prove only a temporary respite on the inflation front .", 
+                "inflation was held down in march by easter-related pricing distortions .", 
+                "specifically , easter related price hikes ( notably on air and sea transport , package holidays , hotels ) occurred in march in 2016 but are occurring in april this year .", 
+                "consumers are facing a serious squeeze as higher inflation is occurring in tandem with muted earnings growth - and this looks set to bite even harder over the coming months .", 
+                "it is evident that the bank of england has recently become more concerned about the potential inflation overshoot but we still expect interest rates to remain at 0.25 % through 2017 and 2018 at least .", 
+                "we suspect that any bank of england temptation to raise interest rates will be tempered by mounting evidence of a slowing uk economy as consumers rein in their spending and business caution mounts .", 
+                "likely ongoing muted earnings growth is also seen encouraging the bank of england to sit tight on interest rates ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec96d6e4b05776df18c9a3", 
+            "title": "", 
+            "text": [
+                "rising inflation which is outpacing wage growth puts pressure on household incomes of course , something the treasury seems aware of in its response to this latest data .", 
+                "a spokesperson said : we are building an economy that works for everyone and helping families with the cost of living by cutting income taxes for 31 million people , freezing fuel duty and increasing the national living wage to \u00a3 7.50 per hour .", 
+                "contributions to inflation ( march 2017 ) for national statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec961ee4b0e0ec04effd1c", 
+            "title": "", 
+            "text": [
+                "the pound , initially down on the inflation figures , is now at a day 's high of $ 1.2446 against the dollar ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec95d9e4b0e0ec04effd18", 
+            "title": "", 
+            "text": [
+                "rising prices for food , alcohol and tobacco , clothing and footwear , miscellaneous goods and services were largely offset by falls in transport costs , notably air fares , according to the office for national statistics .", 
+                "the later timing of easter had an influence here .", 
+                "the ons said : the timing of easter in march 2016 contributed to air fares rising by 22.9 % on the month whereas this year , easter is in april and there was no price rise .", 
+                "instead fares fell by 3.9 % between february and march .", 
+                "contributions to inflation figure for national statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec9133e4b05776df18c98a", 
+            "title": "uk inflation unchanged at 2.3 %", 
+            "text": [
+                "breaking news uk consumer price inflation - the bank of england 's preferred measure - has come in at 2.3 % year on year in march , the same as the previous month and in line with expectations .", 
+                "this remains the highest year on year level since september 2013 .", 
+                "month on month the rise was 0.4 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec8dbbe4b0e0ec04effd02", 
+            "title": "barclays : jes staley 's actions `` amazing '' , says standard life", 
+            "text": [
+                "more on the news on monday that barclays chief executive jes staley had attempted to unmask a whistleblower despite being warned not to , and is facing an investigation by regulators .", 
+                "thomas moore , investment director at standard life investments told the bbc today programme that the timing of staley 's actions was amazing '' given that only last year the financial conduct authority issued a report saying it wanted to encourage a culture where whistleblowers could come forward without fear of reprisals .", 
+                "can staley survive in his job ?", 
+                "moore says much will depend on the outcome of the regulatory investigation : the tone is set by the top of the organisation .", 
+                "if you go to barclays ' canary wharf headquarters you are surrounded by the word 'integrity ' .", 
+                "so it is disappointing when the chief executive is told not to pursue this individual and he continued to chase this individual . ''", 
+                "moore said the issue was a key one for investors : banks who behaved badly have the lowest [ stock market ] valuations . ''", 
+                "staley .", 
+                "sprich/reuters if you want to follow events as they unfolded on monday , our live blog is here : barclays boss admits errors over whistleblower and says 'i got too personally involved ' - as it happened read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                8, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58ec8734e4b05b487c0e149d", 
+            "title": "jd sports shares hit new peak after record profits", 
+            "text": [
+                "shares in jd sports fashion have hit a new all time high after it unveiled record full year profits .", 
+                "they jumped as high as 425p in the immediate wake of the figures and are currently up 4 % at 424p .", 
+                "reuters reports : britain 's jd sports fashion plc posted a 55 percent rise in full-year headline pretax profit as demand for leisurewear products remained firm .", 
+                "jd sports , which alongside its core sports retail business runs fashion and outdoor retail outlets such as scotts and blacks , said headline profit before tax and exceptional items rose to a record 244.8 million pounds from 157.1 million a year earlier .", 
+                "like-for-like store sales at its core sports fashion business rose 10 percent but the company said it was unreasonable '' to expect like-for-like sales growth to be maintained at this level .", 
+                "the company , which rivals mike ashley-owned sports direct in britain , warned that external influences , such as inflationary pressures arising from brexit , may impact trading in the latter part of the year .", 
+                "the new jd sports store in amsterdam company handout peel hunt analyst jonathan pritchard said : the results are an example of what the right product , well merchandised can achieve in the current environment and , whilst the trainer trend tailwind has been off the beaufort scale , jd has sailed it skilfully .", 
+                "both sports fashion and outdoor exceeded expectations ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                7, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec82eae4b05776df18c95b", 
+            "title": "", 
+            "text": [
+                "connor campbell , financial analyst at spreadex , said : the eurozone indices fell sharply this tuesday , the dax and cac each dropping half a percent .", 
+                "it appears that the current global political tensions , namely those between the us and syria/russia , as well as north korea , have spooked investors , the ftse perhaps only avoiding the same level of losses due to the impending inflation update ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                7, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec7f85e4b0e0ec04effcca", 
+            "title": "european markets open lower", 
+            "text": [
+                "as expected , investors are taking a cautious view in the wake of growing geo-political tensions .", 
+                "those investors who are around , that is , given that trading is likely to be fairly quiet in the run-up to the easter break .", 
+                "the ftse 100 has fallen around 10 points or 0.1 % while france 's cac has opened 0.5 % lower , germany 's dax is down 0.4 % and spain 's ibex is 0.6 % lower .", 
+                "ransquawk ( @ ransquawk ) eu movers : balfour beatty +3.8 % givaudan +3.2 % lvmh +2.3 % kering +1.3 % altice +0.7 % abb -1.4 % on the currency markets the pound is flat against the dollar at $ 1.2411 and upu 0.2 % against the euro at \u20ac1.1732 .", 
+                "elsewhere brent crude has slipped 0.36 % to $ 55.78 a barrel despite the global uncertainty while gold is up $ 2 to $ 1256 an ounce ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                7, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec7da5e4b0e0ec04effcc3", 
+            "title": "", 
+            "text": [
+                "adding to the general uncertainty is the us federal reserve , which recently said it could begin selling off assets bought following the financial crisis , as well as raising interest rates further this year .", 
+                "on monday fed chair janet yellen made positive noises on the us economy , adding to the feeling that the central bank will continue moving away from its stimulus programme .", 
+                "reuters reports : the federal reserve 's plans to raise u.s. interest rates gradually are aimed at sustaining full employment and near-2-percent inflation without letting the economy overheat , fed chair janet yellen said on monday .", 
+                "i think we have a healthy economy now , '' yellen said at an event at the university of michigan 's ford school of public policy in ann arbor .", 
+                "unemployment , at 4.5 percent , is now a little bit below the jobless rate that most fed officials think signals full employment , and inflation is reasonably close '' to the fed 's 2-percent goal , she said .", 
+                "with the economy expected to continue to grow at a moderate pace , she said , the fed is now shifting its focus .", 
+                "whereas before we had our foot pressed down on the gas pedal trying to give the economy all the oomph we possibly could , now allowing the economy to kind of coast and remain on an even keel - to give it some gas but not so much that we are pressing down hard on the accelerator - that 's a better stance of monetary policy , '' she said .", 
+                "we want to be ahead of the curve and not behind it . ''", 
+                "in the u.s. treasury bond market , yields were little changed after yellen 's remarks .", 
+                "the fed raised rates in march for only the third time since the great recession , and most fed officials expect the central bank to raise rates at least two more times this year .", 
+                "yellen .", 
+                "gripas/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                6, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58ec7277e4b05776df18c91e", 
+            "title": "agenda : uk consumer prices in focus", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "stock markets are back in nervous mode , with a number of political concerns to worry investors .", 
+                "the us attack on syria has increased the global uncertainty , and on top of that there are increasing tensions between president trump 's administration and north korea .", 
+                "in europe the french presidential race continues to dominate the agenda .", 
+                "ipek ozkardeskaya , senior market analyst at london capital group , said : flight to safety continues , as geopolitical concerns occupy the global headlines with north korea 's missile tests , us ' strike on syria and jean-luc melonchon gaining support in the french election race according to one kantar poll , melonchon advanced to the third place , taking lead over francois fillon .", 
+                "political risks could encourage a further slide in the euro .", 
+                "so the nikkei has closed down 0.27 % and european markets are expected to open slightly lower : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7343 down 6 $ dax 12170 down 30 $ cac 5099 down 8 $ ibex 10406 down 32 $ mib 20145 down 57 on the economic front , the latest uk inflation figures are in focus , and are expected once again to come in above the bank of england 's 2 % target .", 
+                "many analysts are forecasting a figure of 2.3 % in march , flat on the previous month although some believe there could be a slight dip .", 
+                "unicredit said : we see headline cpi inflation easing to 2.1 % year on year in march from 2.3 % year on year in the previous month , and core inflation down by 0.3 percentage points to 1.7 % year on year .", 
+                "the later timing of easter this year and a negative contribution from motor fuel prices is likely to more than offset substantial price rises by some of the big 6 uk energy suppliers .", 
+                "here 's our preview of what to expect : price rises and pay figures to underline brexit strain on britons read more german confidence figures are also due later and , on the corporate front , we have figures from jd sports ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                4, 
+                11, 
+                6, 
+                32
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n11.08am BST\n11:08\nUK house prices rise in February but London slows down\n", 
+                "block": "block-58eca9c7e4b05b487c0e152c"
+            }, 
+            {
+                "text": "\n\n10.26am BST\n10:26\nBad news for fans of crisp sandwiches\n", 
+                "block": "block-58eca0b5e4b05b487c0e150a"
+            }, 
+            {
+                "text": "\n\n10.21am BST\n10:21\nGerman economic sentiment improves\n", 
+                "block": "block-58ec9df9e4b05776df18c9c4"
+            }, 
+            {
+                "text": "\n\n9.49am BST\n09:49\nReaction to inflation figures\n", 
+                "block": "block-58ec975ce4b05776df18c9a7"
+            }, 
+            {
+                "text": "\n\n9.31am BST\n09:31\nUK inflation unchanged at 2.3%\n", 
+                "block": "block-58ec9133e4b05776df18c98a"
+            }, 
+            {
+                "text": "\n\n9.13am BST\n09:13\nBarclays: Jes Staley's actions \"amazing\", says Standard Life\n", 
+                "block": "block-58ec8dbbe4b0e0ec04effd02"
+            }, 
+            {
+                "text": "\n\n8.42am BST\n08:42\nJD Sports shares hit new peak after record profits\n", 
+                "block": "block-58ec8734e4b05b487c0e149d"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "UK consumer price index above Bank of England's 2% target again, putting continuing pressure on real incomes.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

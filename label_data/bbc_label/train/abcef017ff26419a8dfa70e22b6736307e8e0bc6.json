@@ -1,0 +1,554 @@
+{
+    "blog_id": "abcef017ff26419a8dfa70e22b6736307e8e0bc6", 
+    "title": "BBC Local Live: Essex on Thursday, 26 May 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-essex-36155389", 
+    "summary": [
+        "teenager james fairweather , who murdered two strangers , is to appeal against his sentence which ruled he must serve at least 27 years .", 
+        "the east of england ambulance service spends nearly \u00a3 40m on private ambulances in the past six years , a bbc investigation reveals .", 
+        "a single vote by an independent on thurrock council sweeps the conservatives into power .", 
+        "more news , sport , weather and travel updates from 08:00 on friday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_57471bede4b05ae906b0ce47", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "the sun came out and shone on the crowds at audley end where the bbc antiques roadshow was holding an event to allow people to show off their treasures .", 
+                "it seems much of the county was also bathed in sunshine - this is how it looked in west mersea a little earlier as captured by bbc weather watcher walking the dogs .", 
+                "we 'll be back in the morning from 08:00 .", 
+                "meanwhile if you have anything to tell us or to share you can get in touch by email , twitter and facebook .", 
+                "have a good evening ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57472438e4b020b885363d2a", 
+            "title": "weather : staying dry , but chilly overnight", 
+            "text": [
+                "it will stay dry overnight , turning a little chilly under clear skies .", 
+                "mist and fog patches are possible later in the night , with a minimum temperature of 6c ( 42f ) ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57471450e4b05ae906b0ce1f", 
+            "title": "sale of memorial benches in river estuary park suspended", 
+            "text": [
+                "a council is suspending the sale of memorial benches in a popular park overlooking a river estuary because there are now too many in the area .", 
+                "maldon district council is considering other options to offer to residents after it was decided the benches in the promenade park had become too numerous .", 
+                "the council said it was also `` considering other options '' ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57470592e4b05ae906b0cde2", 
+            "title": "khan 's birdies kept him in touch with wentworth leaders", 
+            "text": [
+                "epping golfer simon khan is four shots off the lead after his first round at the pga championship at wentworth .", 
+                "birdies on the fourth , fifth , sixth , tenth , 12th and 14th have kept him in touch with the leaders , but he would have been further up the field but for bogeys on the third , 16th and 17th .", 
+                "a round score of 69 showed a stronger performance on the out holes when his shots amounted to 33 ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746f0dbe4b020b885363c36", 
+            "title": "another thames crossing needed to avoid costly transport delays , says freight assciation boss", 
+            "text": [
+                "another traffic hold up on the dartford crossing bringing traffic delays to the m25 in essex and kent has brought anger from the freight transport association ( fta ) .", 
+                "a crash on the kent-side of the qe2 bridge almost brought traffic to a stand-still earlier today .", 
+                "this follows hold ups caused by over-running engineering work on monday and serious accidents on monday night , tuesday morning , tuesday night and this morning .", 
+                "these are irritations according to james hookham , deputy chief executive at the fta ( another thames crossing was needed and the existing ones better managed to take account of risky loads and driver behaviour .", 
+                "`` risky vehicles should be identified earlier and marshalled together for a crossing , '' he said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57471096e4b05ae906b0ce0e", 
+            "title": "antiques roadshow crowds had great time in audley end sunshine", 
+            "text": [
+                "the antiques roadshow event in audley end , near saffron walden , is drawing to a close .", 
+                "the crowds have had a great time and the most valuable item found during today was", 
+                "well actually , you 'll have to wait until the programme is screened later in the year to find out .", 
+                "we do n't want to spoil it for you .", 
+                "but here 's a little flavour of the day of the audience and crew enjoying the audley end sunshine ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746c9d3e4b0affe8ad0aa9f", 
+            "title": "wyatt pledges to profit from second chance in professional game", 
+            "text": [
+                "new colchester united signing , defender ben wyatt , hopes he is an example of how to bounce back from disappointment .", 
+                "wyatt is getting a second chance in the professional game after joining from maldon and tiptree earlier this week and hopes to be part of a u 's side that were relegated to league two next season .", 
+                "the 20-year-old previously played at youth level for norwich and ipswich .", 
+                "he said : `` you have to re-evaluate , and try and push up again . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746da0ae4b020b885363ba6", 
+            "title": "teenager remanded in custody accused over acid attacks at rail station", 
+            "text": [
+                "a teenager has been remanded in custody by a youth court today charged after a suspected acid attack on a group of boys at south ockendon railway station .", 
+                "five teenagers were injured when an unknown substance was thrown at them in the early hours of sunday morning .", 
+                "one of the boys suffered significant burns to his eyes .", 
+                "a 17-year old boy from dagenham was charged with three counts of grievous bodily harm with intent and two counts of attempted gbh with intent .", 
+                "he is due to appear again on 31 may at basildon youth court ."
+            ], 
+            "author": [
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746eb23e4b020b885363c19", 
+            "title": "hundreds come to antiques roadshow clutching their treasures", 
+            "text": [
+                "sunshine is bringing out the crowds to the bbc 's antiques roadshow at audley end today .", 
+                "hundreds of people have searched through attics , cupboards and sheds for hidden treasures to get valued .", 
+                "others have come clutching heirlooms , the value of which they only have the faintest of ideas .", 
+                "the free event to see one of the valuers is open to all .", 
+                "see here for more details ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_36388571", 
+            "title": "shrews sign southend midfielder deegan", 
+            "text": [
+                "shrews sign southend midfielder deegan"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746cf9ce4b05ae906b0cc91", 
+            "title": "boat under tow found to be over weight limit", 
+            "text": [
+                "a range rover driver attempting to tow a large boat to suffolk was stopped during a roadside check by traffic police in essex and the load was found to be more than a tonne over the legal weight limit .", 
+                "the driver was given a \u00a3 100 fixed penalty fine , prohibited from continuing his journey and had to arrange for a crane and loader to transport the boat .", 
+                "three cars were also seized during the operation in chelmsford yesterday ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746ac33e4b020b885363a6b", 
+            "title": "private ambulance business not in high profit sector , operator says", 
+            "text": [
+                "earlier we mentioned a bbc inquiry has revealed the east and england ambulance service trust ( eeast ) has spent millions on private ambulance here 's more detail .", 
+                "the eeast with a budget in 2014-15 of nearly \u00a3 246m , has spent about \u00a3 40m over the past six years on private ambulance support services .", 
+                "james barnes runs a private ambulance company in basildon and said it is not a high profit occupation .", 
+                "he has 10 ambulances which are equipped to the same high standards as nhs vehicles and his crews and paramedic staff are equally well trained , he said .", 
+                "he sees private ambulance companies working alongside the trust .", 
+                "`` the nhs should retain management control telling the private firms what is to be done and where they should go , '' he said ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746f358e4b05ae906b0cd82", 
+            "title": "fairweather appeal : how the papers are reporting it", 
+            "text": [
+                "before we leave the fairweather story - here 's a look at how some of our colleagues in the press are reporting today 's appeal by the `` wannabe serial killer '' , from colchester , who is launching an appeal against the length of time he will spend in detention :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "13:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746e269e4b020b885363bde", 
+            "title": "james fairweather : known knife offender made frenzied attacks on two victims", 
+            "text": [
+                "teenager james fairweather made frenzied attacks on a vulnerable man in a colchester park stabbing him 100 times and a saudi woman , stabbing her 16 times , on a busy path used by university students .", 
+                "james fairweather , 17 , was sentenced to be detained for 27 years before being considered for release but is now launching an appeal .", 
+                "he was one of 70 people with histories of knife offences in essex questioned about the killings of nahid almanea in june 2014 and james attfield three months earlier .", 
+                "dr simon hill , who assessed him after his arrest , told guildford crown court fairweather described some of the `` most anti-social and violent thoughts '' the psychiatrist had come across in his professional practice ."
+            ], 
+            "author": [
+                "Laurence Cawley", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746df3ce4b0affe8ad0ab1c", 
+            "title": "james fairweather : double murderer had 'obsession with serial killers that fuelled crimes '", 
+            "text": [
+                "a teenager planning to appeal again a 27-year detention sentence for brutal stabbing attacks on two strangers had an `` obsessive interest '' in serial killers `` which undeniably fuelled these killings '' , the judge who sentenced him said .", 
+                "james fairweather collected documentaries and photos of peter sutcliffe , the yorkshire ripper , and he had researched stockwell strangler kenneth erskine , ipswich serial killer steve wright and us murderer ted bundy .", 
+                "he was spotted by a dog walker hiding in bushes , wearing latex gloves and carrying a knife .", 
+                "`` i was going to get my third victim , but there was no-one about , '' he told police when arrested ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746d6f8e4b020b885363b93", 
+            "title": "double killer to appeal against length of 27-year detention", 
+            "text": [
+                "a teenager who murdered two strangers in random attacks is to appeal against his sentence of at least 27 years in jail .", 
+                "james fairweather , 17 , was given two life sentences last month for killing disabled man james attfield and saudi student nahid almanea in colchester in 2014 .", 
+                "his solicitor has confirmed that fairweather was to appeal against the length of the minimum time he must spend behind bars .", 
+                "he was convicted at guidford crown court in april and his solicitor simon spence , qc , has now described the sentence as `` excessive '' ."
+            ], 
+            "author": [
+                "Andrew Woodger", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746d2b9e4b020b885363b74", 
+            "title": "matt southgate makes nervous start in first pga championship at wentworth", 
+            "text": [
+                "southend golfer matt southgate made a nervous start in the pga championship at wentworth , dropping a shot on the third , to be one over .", 
+                "he 's playing in the tournament , one of the biggest on the european tour , for the first time ever .", 
+                "three other essex players , dan brooks , oliver fisher and simon khan are also in the field ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746c75be4b0affe8ad0aa8a", 
+            "title": "essex draw but stay top of division two in county championship", 
+            "text": [
+                "staying with sport and the county cricket side can take plenty of confidence from their draw at glamorgan in the championship yesterday , essex cricket coach chris silverwood said .", 
+                "essex are still top of the second division , but needed to bat out the final two sessions to avoid defeat .", 
+                "ravi bopara and tom westley both reached 80 in the essex total of 313 .", 
+                "silverwood told bbc essex : `` it 's been tough game .", 
+                "we can learn the lessons and move forward . ''"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746ba78e4b0affe8ad0aa20", 
+            "title": "antiques roadshow : thousands come to get treasures valued at audley end", 
+            "text": [
+                "dozens of people turned up early at audley end house , near saffron walden , this morning clutching their treasures in the hope of a valuation from the bbc 's antiques roadshow .", 
+                "the doors opened at the free event at 09:30 for visitors to meet the programme 's valuers throughout the day .", 
+                "so , if you 're within travelling distance of the house and have a treasure or two you 'd like to know more about - today 's your chance .", 
+                "the house is well signposted from saffron walden .", 
+                "we 'll have more from the programme later ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746b8a8e4b05ae906b0cbf6", 
+            "title": "travel : two people hurt in a12/m25 junction crash", 
+            "text": [
+                "more details now on the six-vehicle accident we reported earlier - and the ambulance service has said two people were taken to queen 's hospital in romford with non-life threatening injuries after the incident near the a12/m25 junction in brentwood .", 
+                "traffic is still stop-start on the a12 as a result of the crashes , but all lanes are now open and the two-mile tailback is decreasing slowly .", 
+                "more details from bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746b037e4b020b885363a83", 
+            "title": "one vote by independent clinches power for conservatives in thurrock", 
+            "text": [
+                "it was a close call , but the conservatives have taken charge of thurrock council after a vote last night .", 
+                "one single vote from independent councillor colin churchman changed the balance of power , but the party is under no illusions as it controls only just over a third of seats so will need cooperation to get measures passed .", 
+                "both the conservatives and ukip held 17 seats after the recent elections , but it was the tories who got the backing of mr churchman - a man who has sat with both parties in the past .", 
+                "the new authority leader rob gledhill used his acceptance speech to call on the other parties to put the past behind them and work together for the good of the borough ."
+            ], 
+            "author": [
+                "Ian Puckey", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746a5b7e4b0affe8ad0a99d", 
+            "title": "travel : traffic congestion building around basildon", 
+            "text": [
+                "traffic congestion is building around basildon with slow traffic on the southbound a1245 towards the a127 junction at nevenden .", 
+                "one lane is closed on the a132 nevendon road in basildon because of repairs to road and this is causing tailbacks .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746a0bde4b0affe8ad0a97d", 
+            "title": "weather : warm sunny spells and isolated showers", 
+            "text": [
+                "good news if you 're off to the antiques roadshow - as after a cool and cloudy start with a few mist and fog patches , sunny periods are expected throughout the day .", 
+                "take a brolly though as an isolated sharp shower is possible through the afternoon .", 
+                "maximum temperature : 18c ( 64f ) ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746a07be4b020b885363a15", 
+            "title": "treasures on show as the bbc 's antiques roadshow comes to audley end", 
+            "text": [
+                "quick - check your cupboards , the attic and under the stairs for hidden treasures as the antiques roadshow is coming to audley end today .", 
+                "the free event is open to everyone and the doors open at 09:30 .", 
+                "bring your treasures to # antiquesroadshow at audley end thurs 26 may .", 
+                "free event .", 
+                "all welcome .", 
+                "doors open 09:30 .", 
+                ".", 
+                "@ bbc aroadshow r at @ twitterid so just staining paper with tea & burning the edges for a page of the first folio", 
+                "looking forward to this"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5746a331e4b020b885363a2a", 
+            "title": "travel : two-mile queue leading to a12/m25 junction after accident", 
+            "text": [
+                "a multi-vehicle accident on the a1023 in brentwood , just before junction 12 for the a12 and m25 , is causing two-mile queue of traffic back to the brook street roundabout .", 
+                "more details on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57469b4be4b05ae906b0cb3b", 
+            "title": "good morning from the bbc local live team in essex", 
+            "text": [
+                "this morning we 're looking at :", 
+                "if you want to get in touch with us we can be contacted by email , facebook and twitter ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-essex", 
+    "quality": "high"
+}

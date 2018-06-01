@@ -1,0 +1,751 @@
+{
+    "blog_id": "2b16f110ff89a5bcb74869f46dd80c6592874f55", 
+    "title": "Pound dips on uncertainty over Brexit talks - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live", 
+    "summary": [
+        "closing summary .", 
+        "wall street rises in early trading .", 
+        "us weekly jobless claims hold steady .", 
+        "barnier 's brexit comments send pound lower .", 
+        "german jobless total falls in august .", 
+        "eurozone unemployment holds steady at 9.1 %", 
+        "carrefour shares plunge on profit warning ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a813f4e4b0246be4749621", 
+            "title": "closing summary", 
+            "text": [
+                "markets have been in more upbeat mood this morning , boosted in part by some stronger-than-expected manufacturing data from china this morning .", 
+                "all of europe 's major markets are in firmly positive territory , and wall street has open higher .", 
+                "it is looking less rosy for the pound , which was unable to hold on above $ 1.29 after michel barnier , the eu 's chief brexit negotiator , raised fresh concerns about how talks are going .", 
+                "the pound is currently down 0.4 % against the dollar at $ 1.2871 .", 
+                "over in france , supermarket group carrefour issued a profits warning , prompting a heavy share sell-off .", 
+                "shares are currently down 14 % .", 
+                "eurozone inflation up to 1.5 % in august from 1.3 % in july , while the jobless rate was unchanged at 9.1 % ( in july ) .", 
+                "in the uk , the big corporate news was that online gambling firm 888 was handed a record \u00a3 7.8m fine by the regulator for failing to protect vulnerable customers .", 
+                "michael saunders , a member of the bank of england 's monetary policy committee , stepped up his argument for an immediate rise in uk interest rates .", 
+                "on that note we 'll close up for the day .", 
+                "thank you for all the comments and please join us again tomorrow .", 
+                "am"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                14, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a8127fe4b0246be4749617", 
+            "title": "wall street rises in early trading", 
+            "text": [
+                "us markets have maintained the upbeat sentiment in european markets with wall street climbing higher in early trading : dow jones : +0.3 % at 21,958 s & p 500 : +0.2 % at 2,464 nasdaq : +0.4 % at 6,390"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                13, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a80a08e4b0246be47495f3", 
+            "title": "us weekly jobless claims hold steady", 
+            "text": [
+                "over in the us , initial jobless claims have come in slightly below expectations .", 
+                "there were 236,000 new claims for jobless benefits in the week ending 26 august - 1,000 more than in than in the previous week - according to the us labor department figures .", 
+                "it was a little below the 237,000 forecast by economists .", 
+                "tomorrow is the big day for us jobs data , with the closely watched non-farm payrolls report for august to be published at 13.30 ( bst ) .", 
+                "economists polled by reuters are forecasting that 180,000 were added this month , following 209,000 in july .", 
+                "richard baris ( @ peoples pundit ) weekly jobless claims beat consensus ahead of big monthly report -"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                13, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a808aae4b0221ecad1465f", 
+            "title": "", 
+            "text": [
+                "shilen shah , bond strategist at investec wealth & investment , says barnier 's comments have longer term implications for uk assets : the risk of no transitionary agreement seems to have increased today given the strong word 's from barnier , the eu chief brexit negotiator .", 
+                "his not unexpected comments has led to a modest weakening in sterling , however it also increases the chance of the uk exiting the eu in a disorderly fashion .", 
+                "the key hazard for markets is that today 's disagreement is an indicator of where future negotiations are heading , with the danger that the risk-premium on uk assets will widen if the talks implode with no agreement ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                13, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a80559e4b0d78647cff902", 
+            "title": "", 
+            "text": [
+                "andrew sentance , a former member of the bank of england 's monetary policy committee is feeling the effects of the weaker pound today : andrew sentance ( @ asentance ) pound will buy less than 0.95 euros at heathrow this morning .", 
+                "# brexit and ultra-low interest rates have really trashed our currency ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                12, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a80486e4b0221ecad1463f", 
+            "title": "", 
+            "text": [
+                "here is our full story on the latest round of brexit talks : no decisive progress on key brexit issues , says eu 's chief negotiator read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                12, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a800dfe4b0d78647cff8ec", 
+            "title": "barnier 's brexit comments send pound lower", 
+            "text": [
+                "the pound 's losses have widened against the dollar and it is now down 0.5 % at $ 1.2856 .", 
+                "sterling has been knocked further since michel barnier , the eu 's chief brexit negotiator , said that no decisive progress '' had been achieved after the third round of talks in brussels .", 
+                "he told a news conference : over the course of this week we have made a number of useful clarifications on a number of points , for instance the status of border workers .", 
+                "however , we did not get any decisive progress on any of the principle subjects , even though on the discussion we had about ireland - that discussion was fruitful ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                12, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7feb8e4b0246be47495b8", 
+            "title": "", 
+            "text": [
+                "european markets have extended gains this afternoon .", 
+                "here are the latest scores : ftse 100 : +0.7 % at 7,414 germany 's dax : +0.6 % at 12,074 france 's cac : +0.7 % at 5,092 italy 's ftse mib : +1 % at 21,717 spain 's ibex : +0.8 % at 10,327 europe 's stoxx 600 : +0.8 % at 374"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                12, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7eed3e4b0221ecad145b7", 
+            "title": "german jobless total falls in august", 
+            "text": [
+                "german data this morning showed that the number of people out of work in europe 's largest economy fell by 5,000 in august to 2.53m .", 
+                "it disappointed expectations , with economists forecasting a bigger fall of 6,000 .", 
+                "rainer sartoris , economist at hsbc , said the fall in german unemployment was slowing : the slowdown in the pace of falling unemployment is likely linked to more and more refugees starting to search for a job , as they exit training courses ( e.g .", 
+                "language courses ) .", 
+                "this trend is likely to continue over the coming quarters , which could constrain a further improvement in the number of unemployed ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                11, 
+                27
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7e908e4b0221ecad14588", 
+            "title": "", 
+            "text": [
+                "village of oia , in the popular tourist destination of santorini , greece over in greece , tourism is helping to boost economic sentiment according to the eurozone 's statistics agency , eurostat .", 
+                "it comes as the country prepares to further ease capital controls .", 
+                "helena smith reports from athens : reaping the dividends of a bumper tourism season , greece saw its economic sentiment indicator rise to 99 points this month from 98.2 points in july .", 
+                "while the index is still in negative territory - optimism is only measured at 100 points - it was the strongest in 12 months and is being interpreted as another turning point for the eurozone 's weakest economy .", 
+                "in another sign of growing confidence in the greek economy , the leftist-led government is to allow bank depositors to withdraw more of their savings as of tomorrow ( september 1st ) .", 
+                "the move will see the cap on withdrawals being increased by 7 % to \u20ac1,800 a month .", 
+                "as part of the relaxation , opening of new accounts will be facilitated for farmers , companies and freelancers .", 
+                "the restrictive measures were imposed at the height of the country 's debt crisis in the summer of 2015 amid fears of a run on banks .", 
+                "however , it has not been lost on many that total annual withdrawals will actually amount to less .", 
+                "under the new relaxed '' rules , depositors will be able to withdraw \u20ac21,600 euro a year , compared with \u20ac21,840 under the old rules ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                11, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7de69e4b05e10214f96d1", 
+            "title": "carrefour shares plunge on profit warning", 
+            "text": [
+                "french supermarket group carrefour has suffered a heavy share sell-off this morning after a profit warning from the retailer spooked investors .", 
+                "shares are currently down nearly 15 % , putting the company on track for its biggest daily fall in 20 years .", 
+                "carrefour reported weaker-than-expected first-half results and warned that full-year profits could fall by 12 % .", 
+                "the retailer 's new chief executive , alexandre bompard , had this to say : our 2017 results will be impacted by our first-half performance and an operating environment that will remain difficult in the second half in some countries .", 
+                "a carrefour supermarket in toulouse , southwestern france the negative news from carrefour spread throughout the supermarket sector , making uk grocers among the biggest fallers on the ftse 100 : tesco is down 1.3 % at 180p morrisons is down 0.7 % at 244p sainsbury 's is down 0.6 % at 234p the retail index has been among the worst performers in europe this year as competition and structural pressures mount .", 
+                "paul harper , equity analyst at dnb bank , says its partly down to amazon : it 's been a tough time for the sector , with the more macro theme that amazon is slowly eating everyone 's lunch , though that 's not the case in europe to the same extent as the us .", 
+                "another problem is that the retail sector is relatively highly priced , so there 's not really much room for disappointment ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                10, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7da81e4b0510bc1f0a742", 
+            "title": "", 
+            "text": [
+                "peter vanden houte , chief economist for the eurozone at ing , said higher-than-expected inflation in the region would give ammunition to those members of the european central bank 's governing council who favour tighter policy .", 
+                "he is not convinced , however : the hawks within the governing council will argue that deflationary pressures have now clearly disappeared .", 
+                "but given the risk that an overshoot of the euro exchange rate could push inflation back below 1.5 % , caution remains warranted in removing monetary policy accommodation .", 
+                "we believe that the ecb will announce a dovish tapering '' in october , giving the markets the impression that quantitative easing could be lengthened into the second half of next year , if need be .", 
+                "at the same time we think that a deposit rate hike is not to be expected before the end of 2018 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                9, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a7d588e4b060d61ffc9d61", 
+            "title": "eurozone unemployment holds steady at 9.1 %", 
+            "text": [
+                "unemployment in the single currency bloc was unchanged in july at 9.1 % - the lowest since february 2009 .", 
+                "it compared with a jobless rate of 7.7 % in the wider eu .", 
+                "the number of unemployed people in the eurozone rose by 73,000 in july , to 14.86m , according to the eurostat figures .", 
+                "here is how it looks across the european union :"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7d22de4b05e10214f969c", 
+            "title": "eurozone inflation up", 
+            "text": [
+                "eurozone inflation rose to 1.5 % in august , from 1.3 % in july , according to a flash estimate '' from eurostat .", 
+                "it was higher than the 1.4 % rate forecast by economists , and the main driver of the rise was energy , with prices up 4 % year-on-year .", 
+                "here is the breakdown : eurozone inflation up to 1.5 % in august core inflation - which strips out food and energy - was unchanged at 1.3 % in august .", 
+                "economists predicted a slight dip to 1.2 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                9, 
+                21
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7cf8be4b05e10214f9691", 
+            "title": "", 
+            "text": [
+                "the pound has slipped below $ 1.29 , and is currently down 0.2 % at $ 1.2896 .", 
+                "thu lan nguyen , a currency strategist at commerzbank , says concerns about the way brexit talks are going are weighing on the pound : brexit uncertainty continues to weigh on sterling , and if there is a protracted spell of weakness then policymakers may come out to support the currency as it pushes up headline inflation .", 
+                "against the euro , the pound is down 0.4 % at \u20ac1.0832 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7c82ce4b05e10214f9676", 
+            "title": "", 
+            "text": [
+                "the top ftse 100 risers this morning are dominated by mining companies , which tend to benefit from data that signals strong demand from china .", 
+                "mike van dulken ( @ accendo mike ) london open : stocks edge higher as china pmi lifts mining sector via @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7c0e9e4b05e10214f965a", 
+            "title": "european markets rise across the board", 
+            "text": [
+                "all major european markets are up this morning , boosted by stronger-than-expected manufacturing growth in china , positive us data , and easing tension over north korea .", 
+                "here are the latest scores : ftse 100 : +0.5 % at 7,400 germany 's dax : +0.5 % at 12,064 france 's cac : +0.3 % at 5,072 italy 's ftse mib : +0.4 % at 21,581 spain 's ibex : +0.6 % at 10,305 europe 's stoxx 600 : +0.4 % at 372"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                8, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7c4b8e4b0510bc1f0a6d4", 
+            "title": "", 
+            "text": [
+                "here is our full story on the speech by michael saunders , bank of england policymaker , in cardiff : bank of england policymaker urges interest rate rise read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                8, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7c0cce4b0510bc1f0a6c0", 
+            "title": "pound holds steady at $ 1.29", 
+            "text": [
+                "michael saunders ' latest call for a rise in rates has failed to lift the pound this morning .", 
+                "sterling is down 0.2 % against the dollar but is still holding on above $ 1.29 at $ 1.2902 .", 
+                "saunders ' comments will come as a surprise to few , after his vote for a hike at the last two meetings , but the exchange rate is also reflective of dollar strength .", 
+                "stronger-than-expected us data on wednesday has raised investor expectations that the federal reserve will raise rates again before the end of the year , sending the dollar broadly higher .", 
+                "the pound meanwhile is also down -0.2 % against the euro this morning , at \u20ac1.0850 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                8, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7ba97e4b05e10214f963c", 
+            "title": "bank of england 's saunders : uk needs rate rise now", 
+            "text": [
+                "michael saunders michael saunders , a member of the bank of england 's monetary policy committee , has stepped up his argument that the uk needs an immediate rise in interest rates .", 
+                "predicting that inflation would hit 3 % in the coming months ( well above the bank 's 2 % ) target , saunders told an audience in cardiff : our foot no longer needs to be quite so firmly on the accelerator in my view .", 
+                "a modest rise in rates would help ensure a sustainable return of inflation to target over time .", 
+                "he said that raising rates now would allow a more gradual pace of hikes , making it easier for people to adjust to higher borrowing rates .", 
+                "there are considerable advantages to acting early enough to allow a gradual rise in interest rates .", 
+                "it is fully 10 years since the mpc last tightened monetary policy .", 
+                "many borrowers have never faced a rate hike .", 
+                "it would be preferable to have the space to move gradually , observing the effects as we go .", 
+                "if we get behind the curve , we lose that space .", 
+                "saunders has voted for a 0.25 point rise in rates - from a current all-time low of 0.25 % - at the last two meetings of the mpc .", 
+                "he has yet to convince the majority of his colleagues , with only one other mpc member - ian mccafferty - joining him in the vote for a rise ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                7, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7b9c3e4b0510bc1f0a6b1", 
+            "title": "", 
+            "text": [
+                "in response to the gambling commission 's fine , 888 said : it was never 888 's intention to benefit financially from this technical failure and we have completed a detailed process to identify all affected customers .", 
+                "the group is refunding customers who were able to continue playing when they should have been excluded across 888 's platforms ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                7, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7b60ce4b05e10214f962c", 
+            "title": "", 
+            "text": [
+                "the gambling commission said 888 's record \u00a3 7.8m fine for failing to protect thousands of vulnerable customers will be divided in the following way : a \u00a3 3.5m repayment of deposits made by self excluded customers ( whose accounts were left accessible ) a \u00a3 62,000 compensation payment to the employer from whom money was stolen by a problem gambler ( that 888 failed to spot/stop ) a further \u00a3 4.25m will be paid to a socially responsible cause to invest in measures to tackle gambling-related harm sarah harrison , chief executive at the gambling commission : safeguarding consumers is not optional .", 
+                "this penalty package of just under \u00a3 8m reflects the seriousness of 888 's failings to protect vulnerable customers .", 
+                "the 888 sanction package will ensure those affected do n't lose out , that the operator pays the price for its failings via a sum that will go to tackling gambling-related harm , and that independent assurance will be given to see that lessons are learnt . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                7, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7b318e4b05e10214f961c", 
+            "title": "online gambling firm 888 fined record \u00a3 7.8m", 
+            "text": [
+                "888 , one of britain 's biggest online gambling firms , has been fined a record \u00a3 7.8m by the regulator for failing to protect thousands of vulnerable customers .", 
+                "an investigation by the gambling commission found that over 7,000 customers who had chosen to self exclude '' ( people who flag that they wish to stop gambling for at least six months ) were still able to access their 888 accounts due to a technical failure .", 
+                "it meant that vulnerable customers were able to deposit \u00a3 3.5m into their accounts , and then continue to gamble , for over 13 months .", 
+                "888 also failed to spot visible signs '' of problem behaviour from one individual , which was so significant it resulted in criminal activity , the watchdog said .", 
+                "that particular customer staked over \u00a3 1.3m , including \u00a3 55,000 stolen from their employer .", 
+                "during a 13 month period the customer gambled on average 3-4 hours a day ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                7, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a7a6a2e4b060d61ffc9cab", 
+            "title": "the agenda : chinese factory growth , eurozone inflation and bank of england speech in focus", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the latest news from the world economy , the financial markets , the eurozone and business .", 
+                "growth in china 's manufacturing sector accelerated unexpectedly in august , reassuring global investors that the world 's second largest economy is still growing at a decent pace .", 
+                "china 's official manufacturing pmi index rose to 51.7 in august from 51.4 in july , confounding economists ' expectations for a small decline .", 
+                "( anything above 50 signals growth . )", 
+                "along with stronger q2 growth and jobs figures from the us on wednesday , the chinese pmi figures are expected to lift investor sentiment after a torrid week of heightened tensions over north korea .", 
+                "us gdp beats forecasts with 3 % growth , as markets recover from korea shock - as it happened read more markets on both sides of the atlantic rose on wednesday - largely because of a relatively measured response from president trump - and european markets are expected to open higher this morning : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7378 up 13 $ dax 12043 up 40 $ cac 5076 up 19 $ ibex 10280 up 35 $ mib 21573 up 69 also coming up today : 08.25 bst speech by michael saunders , member of the bank of england 's monetary policy committee 08.45 bst german unemployment ( august ) 10.00 bst eurozone 'flash estimate of inflation ( august ) 13.30 bst us weekly jobless claims"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                8, 
+                31, 
+                6, 
+                51
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n3.05pm BST\n15:05\nClosing summary\n", 
+                "block": "block-59a813f4e4b0246be4749621"
+            }, 
+            {
+                "text": "\n\n2.49pm BST\n14:49\nWall Street rises in early trading\n", 
+                "block": "block-59a8127fe4b0246be4749617"
+            }, 
+            {
+                "text": "\n\n2.41pm BST\n14:41\nUS weekly jobless claims hold steady\n", 
+                "block": "block-59a80a08e4b0246be47495f3"
+            }, 
+            {
+                "text": "\n\n1.33pm BST\n13:33\nBarnier's Brexit comments send pound lower\n", 
+                "block": "block-59a800dfe4b0d78647cff8ec"
+            }, 
+            {
+                "text": "\n\n12.27pm BST\n12:27\nGerman jobless total falls in August\n", 
+                "block": "block-59a7eed3e4b0221ecad145b7"
+            }, 
+            {
+                "text": "\n\n10.39am BST\n10:39\nEurozone unemployment holds steady at 9.1%\n", 
+                "block": "block-59a7d588e4b060d61ffc9d61"
+            }, 
+            {
+                "text": "\n\n11.41am BST\n11:41\nCarrefour shares plunge on profit warning\n", 
+                "block": "block-59a7de69e4b05e10214f96d1"
+            }
+        ], 
+        "bulletin": [
+            {
+                "text": "The pound fell below $1.29 against the dollar after Michel Barnier, the EU's chief Brexit negotiator, said no decisive progress had been achieved on key issues.", 
+                "type": "p", 
+                "key_points": [], 
+                "link": [], 
+                "time": ""
+            }, 
+            {
+                "text": "Investor spirits lifted by strong data from China.", 
+                "type": "ul", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live?page=with:block-59a7c0e9e4b05e10214f965a#block-59a7c0e9e4b05e10214f965a"
+                ], 
+                "time": ""
+            }, 
+            {
+                "text": "Carrefour shares plunge on profit warning.", 
+                "type": "ul", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live?page=with:block-59a7de69e4b05e10214f96d1#block-59a7de69e4b05e10214f96d1"
+                ], 
+                "time": ""
+            }, 
+            {
+                "text": "Eurozone inflation up; unemployment steadies.", 
+                "type": "ul", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live?page=with:block-59a7d22de4b05e10214f969c#block-59a7d22de4b05e10214f969c", 
+                    "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live?page=with:block-59a7d588e4b060d61ffc9d61#block-59a7d588e4b060d61ffc9d61"
+                ], 
+                "time": ""
+            }, 
+            {
+                "text": "Bank of England policymaker urges interest rate rise.", 
+                "type": "ul", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/business/2017/aug/31/bank-of-england-interest-rate-rise-brexit-michael-saunders"
+                ], 
+                "time": ""
+            }, 
+            {
+                "text": "Gambling firm 888 fined record \u00a3 7.8m for failing to protect customers.", 
+                "type": "ul", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/aug/31/chinese-factory-growth-eases-global-investor-fears-north-korea-business-live?page=with:block-59a7b318e4b05e10214f961c#block-59a7b318e4b05e10214f961c"
+                ], 
+                "time": ""
+            }
+        ]
+    }, 
+    "quality": "high"
+}

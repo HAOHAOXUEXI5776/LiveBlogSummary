@@ -1,0 +1,626 @@
+{
+    "blog_id": "e6c2f31e5ee1852e8f8f5bab9139995cc4c8406f", 
+    "title": "BBC Local Live: Merseyside and west Cheshire on Monday 30 January 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-merseyside-38693007", 
+    "summary": [
+        "investigation finds 100 children went missing from care in wirral last year .", 
+        "boy held over stabbing in birkenhead .", 
+        "man killed outside liverpool gym died of gunshot wounds , police say .", 
+        "updates on monday 30 january ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f5fa7e4b01666551b0523", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates from merseyside and west cheshire have finished for the day , but we 'll be back from 08:00 on tuesday with the latest news , sport , weather and travel from across the region ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f5f75e4b01666551b0521", 
+            "title": "weather : turning cloudy with drizzle , but mild", 
+            "text": [
+                "it will turn increasingly cloudy through the night , preventing a frost from forming .", 
+                "there 's likely to be a few outbreaks of drizzly light rain too .", 
+                "minimum temperature : 5c .", 
+                "tuesday will be a rather cloudy , grey and breezy start to the morning with some light rain and drizzle .", 
+                "rain will become more persistent at times during the day , with some hill fog forming over higher ground like billenge hill .", 
+                "maximum temperature : 10c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f5c93e4b01666551b0512", 
+            "title": "shopkeeper by day , rocker by night", 
+            "text": [
+                "jon sharky worked in the music departments of high street chains for just over a decade , but always dreamed of owning his own shop .", 
+                "a rock frontman by night in liverpool 's vibrant music scene , he saved up money to start his own business .", 
+                "he has a tiny shop in liverpool 's quiggins mall for independent shops , but hopes to expand his operations ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f7508e4b03dfbbec21bbc", 
+            "title": "boy , 16 , arrested after cars set alight", 
+            "text": [
+                "a 16-year-old boy 's been arrested on sus of arson after a number of cars were set alight near liverpool cathedral .", 
+                "two were set on fire in the gambier terrace area early on sunday morning , another four at about 03:00 this morning and three more were damaged a few hours later .", 
+                "a 48-hour temporary dispersal zone came into effect at 17:00 to target anti-social and criminal behaviour .", 
+                "it includes myrtle street , upper parliament street and princes avenue ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "03:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38794067", 
+            "title": "breakingsunderland sign gibson & oviedo", 
+            "text": [
+                "breakingsunderland sign gibson & oviedo"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "03:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f6d54e4b03e32feec0495", 
+            "title": "jaguar land rover extending halewood plant in \u00a3 130m investment", 
+            "text": [
+                "jaguar land rover is investing \u00a3 130m into its halewood plant - including an extension towards speke boulevard ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "03:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f5fcae4b03b348c492534", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "latest headlines in merseyside and west cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "03:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f6f4be4b0ae1f06b0e39a", 
+            "title": "breakingfootball : sunderland sign everton pair gibson & oviedo", 
+            "text": [
+                "sunderland have signed republic of ireland midfielder darron gibson and costa rica left-back bryan oviedo from everton .", 
+                "oviedo , 26 , has agreed a contract until 2020 , while gibson , 29 , joins on an 18-month deal - both for undisclosed fees .", 
+                "the pair have been fringe players under toffees boss ronald koeman this season .", 
+                "sunderland 's david moyes has now signed three players this month - including joleon lescott - who he also signed when he was in charge at everton ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "03:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f64e8e4b03e32feec046d", 
+            "title": "three held after 'antique gun ' found at southport house", 
+            "text": [
+                "three men have been arrested after police recovered drugs and an antique firearm following a search by police in southport last night .", 
+                "officers attempted to stop a vauxhall corsa on hesketh road at about 17:00 .", 
+                "the car initially failed to stop and was followed before being stopped on nearby queens road .", 
+                "bags of cannabis and a phone were found in the car and a furrther search of an address in sefton street , southport , found what was described as an antique handgun .", 
+                "a 19-year-old man and two 20-year old men are being questioned on firearm and drugs offences ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f5bf7e4b03b348c492520", 
+            "title": "football : moyes keen to sign darron gibson & bryan oviedo from everton", 
+            "text": [
+                "sunderland manager david moyes is hoping to sign out-of-favour everton pair darron gibson and bryan oviedo before tuesday 's transfer deadline .", 
+                "left-back oviedo , 26 , and 29-year-old midfielder gibson have been fringe figures under everton boss ronald koeman this season .", 
+                "steven pienaar , victor anichebe and joleon lescott , who played under moyes when he was everton manager , have already moved to wearside this season ."
+            ], 
+            "author": [
+                "Phil McNulty", 
+                "BBC Sport chief football writer"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f5308e4b03b348c4924f7", 
+            "title": "three arrested after imitation 'high-powered bb gun ' forund in anfield house bin", 
+            "text": [
+                "three men have been arrested and an imitation handgun has been recovered following an incident in liverpool last night .", 
+                "officers in an unmarked car had followed a vehicle towards a house on breckside park , anfield and following a search of the premises found an imitation high-powered bb gun in a bag in a wheelie bin .", 
+                "a 28-year-old man from anfield was arrested on sus of possessing a firearm without a certificate and possessing a firearm without a certificate .", 
+                "a 19-year-old man from anfield and a 25-year-old man from forfar in scotland were both arrested on possessing an imitation firearm with intent to cause fear of violence ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f5b7de4b01666551b050a", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "latest headlines in merseyside and west cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f4ac5e4b03b348c4924d0", 
+            "title": "football fan cycles 10,667 miles to watch liverpool", 
+            "text": [
+                "meet the 24-year-old from south korea , who has cycled 10,667 miles ( 17,168km ) through 12 countries to see his beloved liverpool play at anfield .", 
+                "jungyu lee left seoul on 10 june 2016 to start on his marathon journey to the uk .", 
+                "he has passed though china , mongolia , russia , kazakhstan , estonia , latvia , lithuania , poland , czech republic , germany , netherlands to get to the uk - and is completing the last leg to liverpool today .", 
+                "he said :", 
+                "i am a keen liverpool fan and wanted to see the home ground and look for an opportunity to train as an assistant coach .", 
+                "i am also quite adventurous person and there many places in the world i wanted to see , so going on my bicycle seemed a good way to see places and meet lots of people ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f429fe4b03b348c4924b4", 
+            "title": "police appeal after dash-cam captures city centre fight", 
+            "text": [
+                "police have appealed for information after a fight in liverpool city centr was captured on a dash-cam ."
+            ], 
+            "author": [
+                "Liverpool Echo"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f4a4ee4b03b348c4924cf", 
+            "title": "weather : cloudy and cool afternoon", 
+            "text": [
+                "becoming increasingly cloudy and feeling cool .", 
+                "highs of 7c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f467be4b0e7428083def6", 
+            "title": "football : preston sign everton defender browning", 
+            "text": [
+                "everton defender tyias browning signs a new two-and-a-half-year deal and joins preston on loan ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f330ee4b03b348c49247b", 
+            "title": "council 'hugely disappointed ' as southport regeneration plan rejected", 
+            "text": [
+                "sefton council leaders say they are hugely disappointed '' after the government rejected plans for a \u00a3 1.5m scheme to regenerate lord street in southport ."
+            ], 
+            "author": [
+                "Southport Visiter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f27b7e4b01666551b0422", 
+            "title": "three arrested after drugs found in car in liverpool", 
+            "text": [
+                "three people have been arrested , after police found a large quantity of class a drugs during a stop and search in liverpool .", 
+                "over 300 wraps of white and brown powder were recovered , when officers stopped a ford fiesta in speke last night .", 
+                "a 32-year-old woman and 33-year-old man have been questioned on sus of drugs offences .", 
+                "a 16-year-old boy was arrested on sus of obstructing a constable ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f31fbe4b03b348c492473", 
+            "title": "roads : traffic light failure in liverpool", 
+            "text": [
+                "there is a traffic light failure on a580 townsend avenue in liverpool at the faversham road junction .", 
+                "latest from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "20:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f2be7e4b03b348c49245f", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "latest headlines in merseyside and west cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f217de4b01666551b040a", 
+            "title": "man taken to hospital after fire at home", 
+            "text": [
+                "a man was taken to hospital after fire broke out at his home in ellesmere port ."
+            ], 
+            "author": [
+                "Wirral Globe"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f1923e4b01666551b03db", 
+            "title": "football : southport sack steve burr after four months", 
+            "text": [
+                "southport sack manager steve burr after just over four months in charge with liam watson taking interim charge ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f0dd9e4b01666551b03a1", 
+            "title": "lloyds bank to close down churchtown branch", 
+            "text": [
+                "churchtown is set to lose another of its banks this year as lloyds bank reveals plans to close down 200 of its high street branches , including one in churchtown village ."
+            ], 
+            "author": [
+                "Southport Visiter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f038ae4b03b348c4923b3", 
+            "title": "cheshire police 'sniff out ' drug drivers", 
+            "text": [
+                "figures released by cheshire police show there is a growing number of people driving under the influence of drugs .", 
+                "inside out north west 's jacey normand has been out with officers from the force as they try to combat offenders ."
+            ], 
+            "author": [
+                "BBC Inside Out"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f0efee4b01666551b03a7", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "latest headlines in merseyside and west cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f1333e4b01666551b03b9", 
+            "title": "fault leaves widnes residents without power", 
+            "text": [
+                "residents in part of widnes have been left without electricity , after a fault in the network .", 
+                "scottish power says properties in cowan way , broad lane , greenway road and the surrounding area are all affected .", 
+                "the firm has apologised , and says emergency response teams are on their way to restore the supply ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588f0910e4b0e7428083ddfc", 
+            "title": "football : moyes keen to sign gibson & oviedo", 
+            "text": [
+                "sunderland boss david moyes wants to sign out-of-favour everton pair darron gibson and bryan oviedo from his former club ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588efde9e4b01666551b035c", 
+            "title": "liverpool man killed at meat market gym died of gunshot wounds", 
+            "text": [
+                "a man killed after going to a gym at a meat market died of gunshot wounds , a post mortem examination has found .", 
+                "thomas baker was found badly injured at stanley meat market in the old swan area of liverpool on friday .", 
+                "the 44-year-old from everton had been shot in the head and chest .", 
+                "he died later in hospital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588f04abe4b0e7428083ddea", 
+            "title": "man and boy arrested over birkenhead stabbing", 
+            "text": [
+                "a 14-year-old boy and a 19-year-old man have been arrested over a stabbing outside yates wine bar in birkenhead on saturday night .", 
+                "a 37-year-old man was found by emergency services outside the bar and is in a `` stable '' condition in hospital , police say .", 
+                "the arrested pair are being held on sus of wounding ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10344082", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588efe53e4b0e7428083ddcf", 
+            "title": "wirral sees sharp rise in number of missing children from care", 
+            "text": [
+                "one hundred children went missing from care in wirral last year - more than double the number in 2015 , the bbc has discovered .", 
+                "many of the 570 incidents were due to 65 youngsters going missing at least twice , according to data released under the freedom of information ( foi ) act .", 
+                "wirral 's director of children 's services julia hassall said `` intensive '' support is given to children in care ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588ef45ce4b01666551b032e", 
+            "title": "latest headlines in merseyside and west cheshire", 
+            "text": [
+                "latest headlines in merseyside and west cheshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10343896", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_588ef175e4b01666551b0317", 
+            "title": "weather : dry with some bright spells", 
+            "text": [
+                "partly cloudy and dry conditions will persist through the day , with some bright spells likely at times .", 
+                "it will feel cool under any cloud with light winds .", 
+                "highs of 7c .", 
+                "more from bbc weather"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_588ef074e4b0e7428083dd76", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "hello from liverpool , i 'm here with all your news , sport , travel and weather updates from across merseyside and west cheshire today .", 
+                "if you 've got a story you 'd like me to hear about or a photograph you 'd like to share , you can contact me on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Jenny Coleman", 
+                "Reporter, BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-merseyside", 
+    "quality": "high"
+}

@@ -1,0 +1,886 @@
+{
+    "blog_id": "a1ae46ab05d3e1c9feaafc06d5db3bfee8e6aff9", 
+    "title": "Putin calls for end of 'mutual mistrust' after Macron's victory in France \u00e2\u0080\u0093 as it happened | World news | The Guardian", 
+    "url": "https://www.theguardian.com/world/live/2017/may/08/french-election-emmanuel-macron-victory-marine-le-pen-france-live-updates", 
+    "summary": [
+        "merkel : macron carries the hope of `` millions '' of europeans .", 
+        "theresa may asks for mandate to equal macron .", 
+        "french election hackers linked to russian-affiliated group .", 
+        "hollande and macron meet for the first time since victory .", 
+        "nicolas sarkozy has congratulated emmanuel macron .", 
+        "the final figures are in .", 
+        "putin calls on france to `` overcome mutual mistrust '' in wake of macron victory ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-591068dbe4b0df096d2591eb", 
+            "title": "", 
+            "text": [
+                "we are wrapping up our french presidential liveblog for the day .", 
+                "all the latest developments can be found in our most recent story and you can read about potential interference in the election by russian-affiliated hackers here .", 
+                "thanks for tuning in .", 
+                "and vive la france !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                12, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59105cd9e4b07939cb697ff1", 
+            "title": "lunchtime summary", 
+            "text": [
+                "the final count in the second round of the 2017 french presidential election saw macron take 66.1 % of the vote ; le pen took 33.9 % .", 
+                "russian president vladimir putin has called on france to overcome mutual mistrust in the wake of emmanuel macron 's victory .", 
+                "the massive and coordinated attack on the campaign of france 's president-elect has been linked the same russian-affiliated group accused for interfering the us election .", 
+                "german chancellor angela merkel has said macron carries the hope of millions of europeans .", 
+                "british prime minister theresa may congratulated macron and used his election to ask the british electorate to give her a an equally strong mandate ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                12, 
+                16
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591056ade4b07939cb697fd4", 
+            "title": "merkel : macron carries the hope of `` millions '' of europeans", 
+            "text": [
+                "sam pye ( @ freddie1999 ) # macron carries the hopes of millions of europeans , declares angela # merkel .", 
+                "# germany # brussels # eu germany 's chancellor angela merkel congratulated emmanuel macron on his spectacular election success today , and has promised to help france tackle unemployment and to work together with him to promote european stability .", 
+                "merkel told a news conference : he carries the hopes of millions of french people , and of many people in germany and the whole of europe .", 
+                "he ran a courageous pro-european campaign , stands for openness to the world and is committed decisively to a social market economy .", 
+                "franco-german cooperation was a cornerstone of german foreign policy , she said , but added that germany did not need to change its economic course in response to macron 's election victory .", 
+                "the german government says macron 's pro-european stance bodes well for future franco-german cooperation .", 
+                "afp news agency ( @ afp ) # update macron 'carries hopes ' of millions of europeans : merkel"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                11, 
+                49
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59105176e4b07939cb697fbb", 
+            "title": "theresa may asks for mandate to equal macron", 
+            "text": [
+                "theresa may ( @ theresa may ) i warmly congratulate @ twitterid on his success and look forward to working with him on a wide range of shared priorities .", 
+                "speaking in harrow , north west london , this morning , theresa may noted that macron had been elected with a strong mandate - indicating that she needed an equally strong mandate to sit opposite him and his european colleagues during brexit negotiations .", 
+                "the prime minister , speaking in front of signs that said \u0080\u0098theresa may 's team ' told tory activists : yesterday a new french president was elected .", 
+                "he was elected with a strong mandate which he can take as as strong position into the negotiations .", 
+                "the uk we need to ensue we have an equally strong mandate and an equally strong negotiating position .", 
+                "may said every vote for me and my team will strengthen my hand in those brexit negotiations .", 
+                "may said voting for corbyn was a risk .", 
+                "she said : try to him at that negotiating table with the collective might of the european commission and 27 other eu countries against him .", 
+                "in a phone call with macron , may briefly discussed brexit and the prime minister reiterated that the uk wants a strong partnership , downing street said ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                11, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591050c6e4b0df096d25917e", 
+            "title": "french election hackers linked to russian-affiliated group", 
+            "text": [
+                "the hackers behind a massive and coordinated attack on the campaign of france 's president-elect , emmanuel macron , have been linked by a number of cybersecurity research firms to the same russian-affiliated group blamed for attacking the democratic party shortly before the us election , reports my colleague alex herne .", 
+                "tens of thousands of internal emails and other documents were released online overnight on friday as the midnight deadline to halt campaigning in the french election passed .", 
+                "new york 's flashpoint intelligence and tokyo-based trend micro have shared intelligence that suggests that the hacking group known variously as advanced persistent threat 28 , fancy bear and pawn storm was responsible .", 
+                "the group has been liked with the gru , the russian military intelligence directorate .", 
+                "macron hackers linked to russian-affiliated group behind us attack read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                11, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59104600e4b07939cb697f7b", 
+            "title": "", 
+            "text": [
+                "jason ( @ jasonjournalist ) fran\u00e3\u00a7ois hollande : `` beaucoup d'\u00e3\u00a9motion '' \u00e3. donner \u00e3. macron `` la marche \u00e3. suivre '' # politique fran\u00e3\u00a7ois hollande has spoken to france 2 about the election of emmanuel macron , and why he wanted to stand alongside him today .", 
+                "this year i wanted emmanuel macron to be here with me , at my side , so that the flame could be passed to him .", 
+                "he told france 2 that he did n't want to capture macon : it is the french people who have chosen him .", 
+                "it 's true that he followed me these last few years .", 
+                "but afterwards , he freed himself , he wanted to propose his [ own ] project to the french people .", 
+                "he is the president and it 's up to him now , bolstered by the experience he had with me , to continue on his path .", 
+                "i wish him every success .", 
+                "and he knows that if he has any need for some information , advice if he asks me , i will always be at his side .", 
+                "hollande said he would stand down on sunday , when macron will officially become the new president .", 
+                "on monday , i will be a citizen of france and i will be attentive to the situation of my country and i will be ready to help with any requests people ask of me .", 
+                "he gave his successor some advice : he must love the french , all of them , without exception and think that they can be tempted by solutions that are not good .", 
+                "he must soothe as much as possible , but above all protect hollande said he felt emotional to be at the commemorations with macron .", 
+                "i feel a lot of emotion to be in this place .", 
+                "and then , to speak honestly , to show emmanuel macron the path to take .", 
+                "assistant editor of le figaro samuel potier calls hollande 's promise to always be at macron 's side a a poisoned chalice samuel potier ( @ samuelpotier ) le cadeau empoisonn\u00e3\u00a9 de hollande \u00e3. macron : \u00e2 \u00ab je serai toujours \u00e3. c\u00e3\u00b4t\u00e3\u00a9 de lui\u00e2 \u00bb .", 
+                "la droite n'en demandait pas tant ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                11, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591044e5e4b07939cb697f76", 
+            "title": "", 
+            "text": [
+                "theresa may rousseau/pa theresa may has signalled that she will fight any attempts by macron to renegotiate the border deal between the uk and france that allows british police to operate in calais .", 
+                "last month macron said the le touquet border deal must be renegotiated to ensure a better outcome for child migrants .", 
+                "asked about macron 's threat at an election rally in harrow on monday , may said : the le touquet agreement actually works for the benefit of both the uk and france .", 
+                "she said she would remind macron 's team of the mutual benefit of the agreement when she meets his government team .", 
+                "we will be sitting down and talking to monsieur macron and others about how that system has worked both for the benefit of france as well as for the benefit of the uk , may said .", 
+                "the british prime minister also crowbarred in her electoral slogan about the need for strong leadership in her response to macron 's win .", 
+                "she said : yesterday a new french president was elected .", 
+                "he was elected with a strong mandate which he can take as a strong position in the negotiations .", 
+                "in the uk we need to ensure that we 've got an equally strong mandate and equally strong negotiating position .", 
+                "every vote for me and my team will strengthen my hand in those brexit negotiations ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                10, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59103f5fe4b0d608cb08299a", 
+            "title": "", 
+            "text": [], 
+            "is_key_event": false, 
+            "sent_label": [], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59103e64e4b0df096d259123", 
+            "title": "", 
+            "text": [
+                "guardian-reading macron voters share their reactions to macron 's win , and their hopes for the future of france .", 
+                "hugo t\u00e3\u00a9tu , 27 , unemployed , parisin the first round i voted for jean-luc m\u00e3\u00a9lenchon , but i did n't like the way he did n't support [ macron ] .", 
+                "i felt a kind of responsibility toward all the people in france and elsewhere who could n't vote , and wanted to.terrorism , unemployment and mistrust are the most pressing issues facing france .", 
+                "this will be fixed by coping with the economy , public life which he wants to moralise .", 
+                "mich\u00e3\u00a8le , 65 , writer , dr\u00e3\u00b4me i 'm ecstatic .", 
+                "i feel as if my life has been saved .", 
+                "i feel that europe has been saved .", 
+                "the thought of a fascist president was too much to contemplate , especially after brexit .", 
+                "the eu might really not have survived a frexit .", 
+                "i think his centrist approach , niether right nor left , is the only way forward from this right left divide which means nothing ever gets done anywhere .", 
+                "he 's inspiring .", 
+                "and he believes in the eu , as i do .", 
+                "i would have voted for whoever stood against le pen , but i voted for macron out of total conviction .", 
+                "vincent , 24 , law student , rennesi voted for macron without hesitation .", 
+                "i would have been happy to vote for macron , if he was clear in the policies that he wants to lead .", 
+                "[ ] our most important problems are all about economy , poverty , and the most marginalised parts of our population that are struggling with no end in sight .", 
+                "this explains the votes for the front national in the north ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59103d9be4b0d608cb082991", 
+            "title": "", 
+            "text": [
+                "this is interesting - the number one reason macron voters gave for backing their candidate was france 's image abroad .", 
+                "in second they valued honesty and in third new ideas .", 
+                "angelique chrisafis ( @ achrisafis ) analysis of what motivated macron voters : no 1 france 's image abroad"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59103b2ee4b07939cb697f37", 
+            "title": "", 
+            "text": [
+                "a little insight , thanks to the figaro sport department , on macron 's love of the beautiful game and sport more generally .", 
+                "macron is a graduate of the french federation of football , when he was a student at l'ena , macron is a lifelong marseille fan .", 
+                "apparently he also plays tennis , runs and goes skiing .", 
+                "here is is playing football with some young fans : emmanuel macron ( @ emmanuelmacron ) plat du pied , s\u00e3\u00a9curit\u00e3\u00a9 .", 
+                "he has described paris ' bid to host the 2024 olympic games as a boon for the economy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59103604e4b0df096d2590f8", 
+            "title": "hollande and macron meet for the first time since victory", 
+            "text": [
+                "t quinault maupoil ( @ tristanqm ) premi\u00e3\u00a8re rencontre depuis la victoire de son ancien ministre angelique chrisafis ( @ achrisafis ) smiling father and son moment for hollande and macron - hollande pats him on back , looks as if he 'd almost hug him"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5910347fe4b0df096d2590f2", 
+            "title": "nicolas sarkozy has congratulated emmanuel macron", 
+            "text": [
+                "le point ( @ lepoint ) en direct .", 
+                "nicolas # sarkozy f\u00e3\u00a9licite emmanuel # macron # 8mai1945 nicolas sarkozy has congratulated macron for this beautiful election and said he wished the best for france , from the bottom of my heart .", 
+                "questioned on france 2 , at the ve day commemorations the former president said : i must first congratulate president macron for this beautiful election and wish from the bottom of my heart the best for france .", 
+                "when you love your country , you ca n't but wish the best for him .", 
+                "i know from experience that now the difficult [ work ] begins ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591032cfe4b0d608cb08295e", 
+            "title": "the final figures are in", 
+            "text": [
+                "after all the votes have been counted , the official breakdown of votes in the second round of the 2017 french presidential election are in : macron took 66.1 % of the vote ; le pen took 33.9 % .", 
+                "afp news agency ( @ afp ) # breaking macron won 66.1 % , le pen 33.9 % in french vote : final results"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                9, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59103012e4b0d608cb082953", 
+            "title": "", 
+            "text": [
+                "afp news agency ( @ afp ) france marks the 72nd anniversary of the victory over nazi germany in 1945 , with a ceremony at the arc de triomphe in paris macron has arrived for a ceremony at the arc de triomphe for the french 1945 armistice ve day commemorations this morning .", 
+                "he will stand alongside fran\u00e3\u00a7ois hollande , in what as seen as a symbolic handing over of power from one president to the next .", 
+                "c\u00e3\u00a9dric pietralunga ( @ cpietralunga ) arriv\u00e3\u00a9e du nouveau chef de l'etat \u00e3. l'arc de triomphe , suivi par une nu\u00e3\u00a9e de motards et de cam\u00e3\u00a9ras # 8mai"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59102d0be4b0d608cb082948", 
+            "title": "", 
+            "text": [
+                "macron has got around to changing his twitter profile bio : le figaro ( @ le figaro ) \u00f0\u009f\u0094\u00b4 en direct - macron met \u00e3. jour son compte twitter # presidentielle2017 > >"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59102a44e4b0df096d2590cc", 
+            "title": "", 
+            "text": [
+                "for the french speakers among you this is a good round-up video of last night 's key moments from le monde ( and if you do n't speak french , it 's relatively easy to follow ) .", 
+                "le monde ( @ lemondefr ) r\u00e3\u00a9cit en images d'une soir\u00e3\u00a9e de records .", 
+                "# pr\u00e3\u00a9sidentielle2017 some key figures from the video : macron took 66.06 % of the vote , the second highest score in the second round of a presidential vote since 1965 .", 
+                "but that pales in comparison with the highest figure : jacques chirac beat marine le pen 's father in the 2002 second round with 82.21 % .", 
+                "but three other statistics indicate that macron 's political journey may be fraught with danger .", 
+                "more people abstained in this election than at any time since 1969 , with 25.4 % of the population choosing not to vote .", 
+                "meanwhile 11.5 % of voters spoiled their ballot - the highest recorded figure in the 5th republic .", 
+                "marine le pen got 10.5m vote , more than twice the number her father achieved in 2002 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59102724e4b0d608cb08292f", 
+            "title": "putin calls on france to `` overcome mutual mistrust '' in wake of macron victory", 
+            "text": [
+                "russian president vladimir putin has congratulated macron on his victory and wished him strong health for the job ahead , the kremlin announced today ( in russian here ) .", 
+                "in a telegram putin told the new president that russia is ready for constructive work on bilateral and global issues .", 
+                "he urged macron to overcome mutual distrust and join forces .", 
+                "he said : the citizens of france have entrusted you the leadership of the country at a difficult time for europe and for the entire international community .", 
+                "putin added that the growing threat of terrorism and the destabilisation of entire regions , made it particularly important to overcome mutual distrust and unite efforts to ensure international stability and security ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                11
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5910269de4b0d608cb08292d", 
+            "title": "", 
+            "text": [
+                "stock markets relieved as france rejects le pen - business live read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5910238de4b07939cb697ed6", 
+            "title": "", 
+            "text": [
+                "macron 's chief economics adviser jean pisani-ferry has offered a conciliatory message to britain , saying the new president will not punish britain for its decision to leave the eu .", 
+                "jean pisani-ferry ( @ pisaniferry ) we have been very many .", 
+                "plus one !", 
+                "speaking on bbc radio 4 's today programme pisani-ferry said a hard brexit that completely severs ties between britain and the rest of the european union is in no one 's interest , and called for security and economic ties to be maintained ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                8, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59102233e4b07939cb697ed1", 
+            "title": "", 
+            "text": [
+                "angelique chrisafis ( @ achrisafis ) analysis : what now for # macron ?", 
+                "the leader who would be both revolutionary and king"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59101c0fe4b0df096d259099", 
+            "title": "", 
+            "text": [
+                "france 24 have interviewed le pen aide jean messiha about the challenges facing the national front party .", 
+                "of course it 's a defeat , of course we are a little bit disappointed by the result but if we take the good aspect of this [ ] we are at a historic level of voters - almost 11mm people voted for marine le pen .", 
+                "as le pen was dancing le rock following the result - it seems fairly safe to say she does n't see the result as a crushing defeat .", 
+                "( or she might just love rock n roll dancing like every other french person ever ) .", 
+                "laure fourquet ( @ laurefourquet ) on assignment for @ twitterid24 marine le pen dancing a rock after conceding defeat to emmanuel macron in french presidential race"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                7, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5910174ee4b07939cb697ea9", 
+            "title": "euro rallies to six-month high", 
+            "text": [
+                "the euro has rallied to a six-month high after macron 's victory last night : france 24 english ( @ france24 en ) euro rallies after macron wins french presidency this from afp : the euro rallied to a six-month high against the dollar in early asia-pacific forex trading monday after pro-european centrist emmanuel macron won the french presidency in a resounding victory over far-right rival marine le pen .", 
+                "the single currency reached $ 1.1023 , its highest level since november , from $ 1.0998 on friday but the gains were modest compared to the reaction following his first round victory last month with markets largely pricing in le pen 's defeat ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                7, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591016c0e4b07939cb697ea4", 
+            "title": "", 
+            "text": [
+                "to find out more about emmanuel macron in just three minutes , here is our essential primer : play video who is the new french president , emmanuel macron ?", 
+                "video"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                6, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59101147e4b0d608cb0828db", 
+            "title": "", 
+            "text": [
+                "speculation is rife this morning about who new french president macron will choose as his prime minister .", 
+                "as a relative unknown , some have suggested that a high-profile name is in the offing , in order to boost support for macron 's fledgling party en marche !", 
+                "in the french legislative elections in june .", 
+                "as macron promised he would appoint more women to office if he was elected , and hinted he may appoint a female prime minster .", 
+                "there has been speculation that overtures could be made to international monetary fund managing director christine lagarde - one of france 's best known faces .", 
+                "lci ( @ lci ) quel premier ministre souhaitez-vous voir nomm\u00e3\u00a9 par macron ?", 
+                "christine lagarde a les faveurs des fran\u00e3\u00a7ais selecting lagarde as prime minister would be smart , laure mandeville , veteran political reporter for the french publication le figaro and best-selling author , told newsmax , and it would bring lots of voters to his camp for the parliamentary election .", 
+                "other potential candidates include sylvie goulard , a member of the european parliament from the centrist democratic movement , and anne-marie idrac , former secretary of state for transport in outgoing socialist president francois hollande 's cabinet .", 
+                "jean-yves ledrian , defense minister in the hollande government , and lyon mayor gerard collombe , another socialist are said to be in the running .", 
+                "macron said on friday he had decided who would be his prime minister if he won sunday 's vote - but the name was only in his head .", 
+                "but as angelique has tweeted : macon has said he will not announce his prime minster until he officially becomes president next sunday .", 
+                "angelique chrisafis ( @ achrisafis ) macron spokesman says he wo n't name his prime minister before he takes power next sunday"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                6, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591010bbe4b0d608cb0828d7", 
+            "title": "", 
+            "text": [
+                "if you are coming fresh to our coverage of the french election then our main story by paris correspondent angelique chrisafis is an excellent place to start : the pro-eu centrist emmanuel macron has won the french presidency in a decisive victory over the far-right front national leader , marine le pen , and vowed to unite a divided and fractured france .", 
+                "macron , 39 , a former economy minister who ran as a neither left nor right independent promising to shake up the french political system , took 65.1 % to le pen 's 34.9 % , according to initial projections from early counts .", 
+                "his victory was hailed by his supporters as holding back a tide of populism after the brexit vote and donald trump 's victory in the us election .", 
+                "addressing thousands of supporters in the grand courtyard of the louvre , the vast paris palace-turned-museum , macron said he would defend france and europe .", 
+                "he said europe and the world are watching us and waiting for us to defend the spirit of the enlightenment , threatened in so many places .", 
+                "he promised to unite a divided and fractured france , saying : i will do everything to make sure you never have reason again to vote for extremes .", 
+                "speaking of his meteoric rise and victory that was not forecast even a year ago , he said : everyone said it was impossible .", 
+                "but they did n't know france !", 
+                "french election : emmanuel macron wins presidency by decisive margin read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                6, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59100cb7e4b07939cb697e78", 
+            "title": "", 
+            "text": [
+                "good morning and welcome to our second day of live coverage of the french presidential election .", 
+                "here is what we know so far this morning : \u0080\u00a2 independent centrist emmanuel macron , 39 , who was unknown three years ago , has become france 's youngest-ever president after a 66 % to 34 % victory in the second round run-off against the far-right front national 's marine le pen .", 
+                "\u0080\u00a2 the resounding win has been hailed by his supporters as holding back a tide of populism after the brexit vote and donald trump 's victory in the us election .", 
+                "\u0080\u00a2 in macron 's fairly subdued victory speech the political outsider vowed to unite a divided and fractured france , saying the world was watching and waiting for us to defend the spirit of the enlightenment , threatened in so many places .", 
+                "\u0080\u00a2 despite her loss , le pen 's score marked a historical high point for the french right .", 
+                "in a defiant concession speech , le pen said she was leader of the biggest opposition force in france and vowed to radically overhaul her party .", 
+                "\u0080\u00a2 with 99.99 % of ballots counted early on monday , macron had 66.06 % of the vote , and le pen 33.94 % .", 
+                "turnout was 74.62 % the lowest in 40 years .", 
+                "\u0080\u00a2 macron now faces the challenge of trying to win a parliamentary majority for his fledgling political movement en marche !", 
+                "in legislative elections next month .", 
+                "without a majority , he will not be able to carry out his manifesto promises .", 
+                "\u0080\u00a2 world leaders including trump , theresa may and justin trudeau have congratulated macron .", 
+                "\u0080\u00a2 the british prime minister spoke to macron in a brief call in which the pair discussed brexit .", 
+                "macron also had a warm conversation with german chancellor angela merkel .", 
+                "\u0080\u00a2 financial markets have been muted in response to macron 's victory , the euro remaining fairly flat in early asian trading ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                8, 
+                6, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "world", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n12.49pm BST\n12:49\nMerkel: Macron carries the hope of \"millions\" of Europeans\n", 
+                "block": "block-591056ade4b07939cb697fd4"
+            }, 
+            {
+                "text": "\n\n12.10pm BST\n12:10\nTheresa May asks for mandate to equal Macron\n", 
+                "block": "block-59105176e4b07939cb697fbb"
+            }, 
+            {
+                "text": "\n\n12.06pm BST\n12:06\nFrench election hackers linked to Russian-affiliated group\n", 
+                "block": "block-591050c6e4b0df096d25917e"
+            }, 
+            {
+                "text": "\n\n10.13am BST\n10:13\nHollande and Macron meet for the first time since victory\n", 
+                "block": "block-59103604e4b0df096d2590f8"
+            }, 
+            {
+                "text": "\n\n10.09am BST\n10:09\nNicolas Sarkozy has congratulated Emmanuel Macron\n", 
+                "block": "block-5910347fe4b0df096d2590f2"
+            }, 
+            {
+                "text": "\n\n10.02am BST\n10:02\nThe final figures are in...\n", 
+                "block": "block-591032cfe4b0d608cb08295e"
+            }, 
+            {
+                "text": "\n\n9.11am BST\n09:11\nPutin calls on France to \"overcome mutual mistrust\" in wake of Macron victory\n", 
+                "block": "block-59102724e4b0d608cb08292f"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Reaction and developments in France in the aftermath of the victory of centrist Emmanuel Macron over the far-right Marine Le Pen.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/world/ng-interactive/2017/may/07/french-presidential-election-results-latest"
+                ], 
+                "text": "Full results department by department.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/world/2017/may/07/emmanuel-macron-wins-french-presidency-marine-le-pen"
+                ], 
+                "text": "Emmanuel Macron vows unity after election win.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/world/2017/may/07/british-brexit-supporters-insult-emmanuel-macron-after-presidential-win"
+                ], 
+                "text": "Brexit campaign group insults Macron after presidential win.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,873 @@
+{
+    "blog_id": "640f0904a3b4082a26fe72536b1191b5e6961823", 
+    "title": "BBC Local Live: Northamptonshire for Monday 17 August 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-northamptonshire-33795645", 
+    "summary": [
+        "closing headlines on monday 17 august 2015 .", 
+        "a man who stabbed his friend to death in rushden is jailed for life with a minimum term of 17 years .", 
+        "research by bbc radio northampton reveals 7,500 social housing properties in northampton and 10,000 in corby have been sold in the past 40 years .", 
+        "a man denies murdering a pensioner whose body was found in a northampton pet shop more than 20 years ago .", 
+        "police say they are concerned about a missing man last seen at northampton general hospital .", 
+        "more news , sport , weather and travel for northamptonshire from 08:00 on tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33968091", 
+            "title": "have a good evening", 
+            "text": [
+                "right , that 's it for today folks .", 
+                "thanks very much for joining us .", 
+                "we 'll be back again at 08:00 tomorrow with the latest updates for northamptonshire .", 
+                "if you 're just coming home from work and you want to catch up with what 's being going on , just scroll down the page .", 
+                "the top stories we 've been covering are :"
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33966716", 
+            "title": "northants win by four wickets", 
+            "text": [
+                "northants ' cricketers have", 
+                "reducing their opponents to 215 with steven crook taking 4 for 37 , northants made a strong start with josh cobb and david willey finishing just short of 100 for the first wicket .", 
+                "steady innings from alex wakely and kyle coetzer , who ended the day both not out on 31 and 23 respectively , then sealed gloucestershire 's fate , who were always going to struggle following their tail-end collapse ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33966715", 
+            "title": "graffiti subway 'looking good '", 
+            "text": [
+                "the graffiti art project in a daventry subway started following the success of a community litter district councillor wendy randall said .", 
+                "today one side of the yeomanry underpass on the grange estate was painted to reflect `` the community '' , with the other side due to be sprayed on tomorrow that will de `` the environment '' .", 
+                "`` it started off with a litter and now there 's 30 litter who regularly meet up , and it 's just built on from there , '' said ms randall ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33967840", 
+            "title": "steven smith murder : beaumont 'refused to call ambulance '", 
+            "text": [
+                "a man who has been jailed for life for murder refused to call an ambulance after stabbing his friend to death .", 
+                "danny beaumont , 27 , of maple road , rushden , attacked steven smith , 23 , after the pair argued in october last year .", 
+                "northampton crown court judge rupert mayo drew attention to the fact beaumont had fled the scene rather than calling for help and spoke at length of the impact mr smith 's death will have on his family ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33967835", 
+            "title": "car goes up in flames in oundle road", 
+            "text": [
+                "emergency services were called after a car was"
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33965355", 
+            "title": "graffiti art project for estate", 
+            "text": [
+                "children as young as three have been getting involved in a graffiti art project to help spruce up a subway on daventry 's grange estate .", 
+                "one side of the subway was completed today showing different parts of the estate , including the local school and shops , before the other side is painted tomorrow .", 
+                "wendy randall , leader of the labour group on"
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33966712", 
+            "title": "weather forecast : possible rain", 
+            "text": [
+                "tonight will see clear skies at first before cloud slowly builds , bringing some rain to more eastern areas through the early hours .", 
+                "temperatures dropping to between 12 and 14c ( 57f ) .", 
+                "tomorrow , a cloudier and cooler day with further outbreaks of rain but becoming clearer in the afternoon with highs of 19c ( 66f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33966709", 
+            "title": "'no doubt that you intended to kill '", 
+            "text": [
+                "passing sentence on danny beaumont , who has been jailed for a minimum of 17 years for murdering steven smith ( in rushden , judge rupert mayo said he had `` no doubt that you intended to kill '' .", 
+                "the defendant , 27 , of maple road , rushden , had served time for offences including", 
+                "the victim , 23 , died just four days later at his home in trafford road after a row with beaumont ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33966707", 
+            "title": "steven smith murder : danny beaumont jailed for life", 
+            "text": [
+                "the judge at northampton crown court has just passed a life sentence to 27-year-old danny beaumont after a jury found him", 
+                "he stabbed mr smith twice in the victim 's own home in trafford road , rushden - once in the chest and again in the back - just days after being released from prison .", 
+                "beaumont , of maple road , rushden , will now serve a minimum of 17 years in prison before being considered for parole ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33966058", 
+            "title": "travel updates : slow through roade roadworks", 
+            "text": [
+                "queuing traffic both ways on a508 though roade around the high street junction .", 
+                "you can find the latest travel news for the county"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33965358", 
+            "title": "breakingman jailed for life for murder", 
+            "text": [
+                "a rushden man who stabbed his friend to death just days after being released from prison has been jailed for life , and must serve a minimum of 17 years before being considered for parole .", 
+                "i 'll bring you more from northampton crown court shortly ."
+            ], 
+            "author": [
+                "Elinor Cross", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33964725", 
+            "title": "capital one cup", 
+            "text": [
+                "northampton town", 
+                "so that confirms it - the cobblers ' away tie against newcastle is taking place a week on tuesday .", 
+                "better ask your boss nicely to get the day / next day off !", 
+                "full details can be found on", 
+                "the @ twitterid @ twitterid tie will take place on tue aug 25 at 7.45pm .", 
+                "ticket prices reduced to \u00a3 15 and \u00a3 5 .", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid woah that 's depressing", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid i have 2 st as my old man is n't going.nikel is your dad going ?", 
+                "otherwise that 's 3 secured", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid is it even allocate seating ?", 
+                "if we go together get their early .", 
+                "does it matter on seat no ?", 
+                "@ twitterid @ twitterid @ twitterid will it be on tv ?", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid no tv games have already been announced", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid ah okay thank you , being on the tuesday i doubt it will be but we 'll see !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid my punctuation has let me down there , no it wo n't be on tv , the games have already been announced !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid i 've just looked as i sent that other reply , everton and stoke are on television .", 
+                "@ twitterid got 2 x st 's if anyone wants to use them for tickets ?", 
+                "on holiday next week so wo n't be going"
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33964722", 
+            "title": "food waste findings leads to councils ' 're-think '", 
+            "text": [
+                "new research has made councils re-think their school waste policies , according to the", 
+                "third-year students at its environmental and geographical sciences department concluded there was a `` significant '' need for food waste collection at schools .", 
+                "the university said northamptonshire county council was looking to implement a food waste incentive scheme in schools from september following the findings , adding that other authorities were `` hot on their heels '' ."
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33965353", 
+            "title": "piling on the runs", 
+            "text": [
+                "northants have made a strong start to their innings reaching 64 for no wicket against gloucestershire , who were bowled out for just 215 runs .", 
+                "david willey and josh cobb are giving the fielders a tough time and are level pegging on 30 runs each , both smashing five fours in the process .", 
+                "that means northants with 37 overs to go need just"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33962427", 
+            "title": "white wallaby 'poses ' for photograph in field near northampton", 
+            "text": [
+                "a"
+            ], 
+            "author": [
+                "Northampton Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33964718", 
+            "title": "good afternoon", 
+            "text": [
+                "hello all .", 
+                "thanks to dani and katy for their contributions today .", 
+                "i 'll be bringing you the latest news , sport , weather and travel for northamptonshire until 18:00 .", 
+                "remember you can still send us your stories or comments at any point via"
+            ], 
+            "author": [
+                "David Keller", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33963902", 
+            "title": "steven smith murder : killer left jail days before stabbing", 
+            "text": [
+                "a man found guilty of stabbing his friend to death had been released from prison days before the murder .", 
+                "danny beaumont , 27 , is due to be sentenced over the murder of steven smith , 23 , later this afternoon .", 
+                "mr smith 's family are outside northampton crown court .", 
+                "beaumount , of maple road , rushden , had served time for offences including actual bodily harm before being released from prison four days before killing his friend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33957601", 
+            "title": "more homes in the daventry area get superfast broadband", 
+            "text": [
+                "more than 50,000 homes and businesses in the county can now access superfast fibre broadband speeds above 24mbps as part of the"
+            ], 
+            "author": [
+                "Daventry Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33963906", 
+            "title": "firefighters free child trapped in vehicle", 
+            "text": [
+                "northants fire", 
+                "the call came in at about 12:20 , and the child was released a short time later .", 
+                "incident 17/08/15 12:19 child locked inside vehicle released # mereway , northampton"
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33958433", 
+            "title": "northamptonshire should be 'wellbeing ' leader", 
+            "text": [
+                "northamptonshire should aim to be a national leader in `` wellbeing '' according to health professionals in the county .", 
+                "dr david smart from the nene clinical commissioning group said the difference between happiness and well-being - promoting better physical and mental health in our day-to-day lives - was a really important point .", 
+                "`` if you get a new car or a new shirt or something else , you feel happy - that 's actually a bit of a quick fix , '' he said ."
+            ], 
+            "author": [
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33961284", 
+            "title": "steven smith murder : man due to be sentenced", 
+            "text": [
+                "a man who stabbed his friend to death after a row is due to be sentenced this afternoon .", 
+                "danny beaumont , 27 , killed 23-year-old father of three steven smith last october , by stabbing him twice at mr smith 's home in trafford road , rushden .", 
+                "he was"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "13:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33963065", 
+            "title": "travel update : train delays", 
+            "text": [
+                "there are delays of up to 35 minutes on"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33963060", 
+            "title": "cricket : northants v gloucestershire", 
+            "text": [
+                "one-day cup action is underway with northamptonshire playing gloucestershire , who are currently 169-7 with 10 overs left .", 
+                "you can listen to"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33961289", 
+            "title": "man denies 1993 pet shop murder", 
+            "text": [
+                "a man has denied the killing of a pensioner more than 20 years ago .", 
+                "stuart jenkins , 39 , of ossett , west yorkshire , pleaded not guilty at northampton crown court to the january 1993 murder of arthur brumhill , 76 ( with his daughter ) .", 
+                "mr brumhill 's body was found in the basement of denton 's pet and garden store in wellingborough road ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33961283", 
+            "title": "if you 've just joined us", 
+            "text": [
+                "here are the top stories we 're looking at today :"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33959742", 
+            "title": "weather update : sunny and warm", 
+            "text": [
+                "today has so far shaped up to be fine and dry with plenty of sunshine .", 
+                "it 's possible some cloud may bubble up later on but it wo n't get in the way - it will even feel warm in the sunshine with light winds , especially in and around northampton .", 
+                "maximum temperature : 20c ( 68f )"
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33958429", 
+            "title": "vandals return to daub graffiti on pavilion", 
+            "text": [
+                "higham ferrers town council said it is `` appalled '' after vandals"
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33959734", 
+            "title": "\u00a3 1.2m spent on helping 'troubled families '", 
+            "text": [
+                "more than 1,000 people in northamptonshire have been helped by the government 's", 
+                "the scheme , which supports families with children not going into school and those causing crime and anti-social behaviour , has given one-on-one support to 1,200 people over three years at a cost of \u00a3 1.2m ."
+            ], 
+            "author": [
+                "Sam Read", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "12:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33961281", 
+            "title": "lunchtime travel update", 
+            "text": [
+                "if you 're out and about this lunchtime there are a couple of congested areas on the road to avoid .", 
+                "there 's been an accident involving two lorries on the a43 in cottisford between the barley mow roundabout and evenley roundabout and there 's also congestion on the a6 with heavy traffic in both directions in burton latimer at the higham road junction .", 
+                "get the latest updates from"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33959740", 
+            "title": "man robbed by fake police", 
+            "text": [
+                "a 20-year-old man - trying to climb through the window of his own northampton home after forgetting his keys - has been robbed by two men who claimed to be police officers , northamptonshire police said .", 
+                "the man was trying to get back into his house in johnson court , cotton end ( on friday night when he was approached by two men who asked him questions about whether the house was his .", 
+                "they then searched him and took his wallet before pushing him to the ground and kicking him ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "11:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33959739", 
+            "title": "police 'concern ' for missing man", 
+            "text": [
+                "northamptonshire police officers say they 're growing increasingly concerned for the welfare of a missing northampton man .", 
+                "daniel walker , 29 , who 's described as black , about 5ft 9in , with dark hair and a beard , was last seen at northampton general hospital at about 05:00 today .", 
+                "he was wearing a long , light brown jacket , black jeans and black trainers , and was carrying a bag .", 
+                "anyone who may have seen him is asked to contact police immediately ."
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33958431", 
+            "title": "five steps to mental well-being", 
+            "text": [
+                "radio northampton has launched its be happy : a feelgood fortnight today - and here are the five steps we can take to make us feel happier , according to", 
+                "the nhs says : `` if you give them a try , you may feel happier , more positive and able to get the most from your life . ''"
+            ], 
+            "author": [
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "11:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33959737", 
+            "title": "dollar star sings at care home", 
+            "text": [
+                "residents and staff at lucas court care home in northampton have been treated to"
+            ], 
+            "author": [
+                "Northampton Chronicle"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33958435", 
+            "title": "shrinking social housing stock causes 'great strain '", 
+            "text": [
+                "the organisation which runs social housing in northampton has said shrinking stock and continuing demand are placing great strain on the system .", 
+                "more than 7,500 properties have been sold in the town under the right to buy scheme - which started 40 years ago - and very few of them have been replaced .", 
+                "shirley davis from northampton partnership homes said there were still more than 4,000 people on the waiting list , even after a `` huge review '' a couple of years ago ."
+            ], 
+            "author": [
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33959013", 
+            "title": "a trip down weather memory lane", 
+            "text": [
+                "remember when weather forecasts ( and indeed forecasters ) looked like this ?", 
+                "it 's been 40 years since symbols , designed to give viewers a clearer understanding of what weather was on the way , were introduced to bbc forecasts .", 
+                "john hammond from bbc weather has been looking at the"
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33958434", 
+            "title": "if you 're just joining us", 
+            "text": [
+                "here are the stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33957596", 
+            "title": "village to be transformed into 'thriving community '", 
+            "text": [
+                "one of the county 's leading house building firms , charles church midlands , has revealed plans for a"
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33957809", 
+            "title": "can we all learn to feel a bit happier ?", 
+            "text": [
+                "today we 're launching `` be happy : a feelgood fortnight '' on bbc radio northampton .", 
+                "the nene clinical commissioning group has said it wants the county to be a national centre of excellence in its promotion of well-being .", 
+                "family doctors and public health bodies say they want to help us all feel better and happier , and bbc radio northampton will be putting their theories about happiness to the test over the coming weeks ."
+            ], 
+            "author": [
+                "Willy Gilder", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "09:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33956758", 
+            "title": "cobblers 'need to be better ' , manager says", 
+            "text": [
+                "northampton town fc kept their third clean sheet of the season at the weekend ,", 
+                "cobblers manager chris wilder told bbc radio northampton he `` did n't think [ the team ] played well '' .", 
+                "`` it 's a new team and we are still learning , it 's a 3-0 win and we are grateful for that but we need to be better , '' he said ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33956988", 
+            "title": "mum 's tweet results in action to stop cyclists riding on paths in corby", 
+            "text": [
+                "cyclists are being warned to"
+            ], 
+            "author": [
+                "Northamptonshire Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33956756", 
+            "title": "social housing sell-off causes problems", 
+            "text": [
+                "the social housing stock of northamptonshire has shrunk by tens of thousands since the right to buy scheme was introduced 40 years ago , according to research by bbc radio northampton .", 
+                "two thirds of social housing in corby - which amounts to some 10,000 units - has been sold with more than 7,500 properties sold in northampton .", 
+                "since the 1970s , very low levels of new social housing have been built which some vulnerable people say has left them struggling to get the help they need ."
+            ], 
+            "author": [
+                "Anna Bartlett", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33956463", 
+            "title": "today 's weather : fine and dry", 
+            "text": [
+                "today is set to be a fine and dry one for most , with plenty of sunshine and light winds and a top temperature of 20c ( 68 deg f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33956438", 
+            "title": "the news so far today", 
+            "text": [
+                "here are the top stories we 're looking at this morning :"
+            ], 
+            "author": [
+                "Tom Percival", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33956467", 
+            "title": "travel update : morning traffic congestion", 
+            "text": [
+                "there 's heavy traffic on the southbound m1 around j15a for the a43 at towcester this morning and very slow traffic on the a508 london road southbound in roade at the high street junction .", 
+                "get the latest updates from"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33956433", 
+            "title": "good morning", 
+            "text": [
+                "good morning and welcome to another week on the live page for northamptonshire where once again we 'll be bringing you the latest news , sport , weather and travel for the county until 18:00 .", 
+                "please get in touch with us at any point today with your comments or stories via"
+            ], 
+            "author": [
+                "Katy Lewis", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-northamptonshire", 
+    "quality": "high"
+}

@@ -1,0 +1,822 @@
+{
+    "blog_id": "e183d410d58f91a6f0dd7010e13c88f5f41b457c", 
+    "title": "BBC Local Live: Derbyshire on Wednesday 7 December 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-38219697", 
+    "summary": [
+        "council house revamp to be discussed .", 
+        "teaching assistants to resume strike action .", 
+        "'miracle ' girl defies predictions to walk .", 
+        "cricket : derbyshire sign south african fast bowler .", 
+        "updates for wednesday 7 december 2016 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_5848491ae4b082b17ce88582", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from local live for today but we 'll be back tomorrow from 08:00 with your news , travel , sport and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58484861e4b020ed1e9be8e5", 
+            "title": "weather : staying mild overnight", 
+            "text": [
+                "cloud increasing through the evening and overnight .", 
+                "winds should ease a little and it will stay mild with lows of 11c ( 52f ) ."
+            ], 
+            "author": [
+                "Kay Crewdson", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58484b31e4b0e181fd5d91e4", 
+            "title": "halcyon theuri inquest : taxi driver 'heard bump '", 
+            "text": [
+                "a taxi driver 's told an inquest into the death of a man in alfreton that he heard `` a bump '' on the road where his body was found .", 
+                "alan bramley told derby coroner 's court that he drove along wingfield road on the same night halcyon therui 's body was found .", 
+                "he was coming towards the end of a long shift and heard a `` speed bump '' like noise as he approached alfreton but he maintained that was n't at the same spot mr theuri died .", 
+                "earlier a home office pathologist told the inquest the 21-year-old chef died because of a head injury - most probably caused by the hard edge of a vehicle .", 
+                "the hearing will continue tomorrow ."
+            ], 
+            "author": [
+                "Lisa Teanby", 
+                "Newsreader, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5848447fe4b082b17ce88568", 
+            "title": "teaching assistants to resume strike action", 
+            "text": [
+                "school support staff in derby are to take six days of strike action against cuts to their pay .", 
+                "unison said staff will take action on wednesday and thursday next week , as well as the following monday and tuesday and 19-20 january .", 
+                "it follows a vote last week in response to a revised offer from the city council ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58484572e4b082b17ce8856e", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5848415ce4b020ed1e9be8ba", 
+            "title": "library to host ww1 exhibition", 
+            "text": [
+                "stories of local people who were involved in world war one are being told at an exhibition at chesterfield library .", 
+                "the county council received \u00a3 84,600 in heritage lottery funding in 2014 to set up derbyshire lives in the first world war ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58483d0be4b082b17ce88533", 
+            "title": "your views : council house revamp to be debated", 
+            "text": [
+                "so tonight derby city council will discuss plans to close down the central library and redesign the ground floor of the council house .", 
+                "our facebook has had lots of comments about this .", 
+                "emma riley said : `` could have been used towards the swimming pools . ''", 
+                "glenn ford posted : `` absolute nonsense ! ! ''", 
+                "elaine smith wrote : `` another slap in the face for the derby tax payer . ''", 
+                "nicola stephens said : `` so they 've shut the swimming pool , the children 's centres , the libraries , the assembly rooms , scrapped lollipop ladies , dried up fountains , and closed the train in the park . ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5848387fe4b082b17ce88516", 
+            "title": "man wanted over ilkeston burglary", 
+            "text": [
+                "a person was threatened with a knife before jewellery was taken in an aggravated burglary at a house in ilkeston .", 
+                "police say they want to speak to 48-year-old daniel smith ( who 's wanted on recall to prison , about the burglary in beauvale drive in september ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5848343fe4b020ed1e9be86d", 
+            "title": "police share of ilkeston cannabis discovery", 
+            "text": [
+                "earlier i told you about three men who were arrested after police found 70 cannabis plants growing at an industrial units in ilkeston .", 
+                "here are a few showing what officers found ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58482cfee4b020ed1e9be851", 
+            "title": "your photos : sunset in mayfield", 
+            "text": [
+                "a stunning sunset photo taken in mayfield this afternoon by our regular weather watcher mayfieldmartin .", 
+                "if you have any snaps send them into us here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584828c5e4b020ed1e9be833", 
+            "title": "dusky thrush still attracting twitchers", 
+            "text": [
+                "rachel jones the woman who first spotted the rare dusky thrush in beeley ca n't believe how popular the bird has become .", 
+                "she told us : `` it 's unbelievable .", 
+                "there was people here before i even disclosed the location , i tried to keep it quiet as it 's tiny and it 's on private property . ''", 
+                "the 'very very rare ' bird has drawn hundreds of twitchers to derbyshire since its arrival ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58481d1ae4b0e181fd5d90d2", 
+            "title": "avian flu : 'every farmer 's nightmare '", 
+            "text": [
+                "derbyshire poultry farmer roger hoskins , who runs highfield happy hens in etwall , has had to put all 24,000 hens indoors .", 
+                "he said : `` it 's a bit like the foot and mouth , every farmer just has nightmares because it finishes you off really .", 
+                "`` if all of our hens were destroyed , we 'd have to pay for our place to be cleaned out and i do n't think we would ever start again . ''"
+            ], 
+            "author": [
+                "Martyn Williams", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584823c3e4b020ed1e9be813", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58481beee4b0e181fd5d90c8", 
+            "title": "mac predicting rams v forest classic", 
+            "text": [
+                "now it 's steve mcclaren 's turn to face questions about sunday 's derby v forest game .", 
+                "he said : `` this will be two teams who are both confident , both in good form .", 
+                "this should be one hell of a game . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58481930e4b020ed1e9be7d0", 
+            "title": "hunt for sudbury absconder", 
+            "text": [
+                "an arsonist has absconded from sudbury open prison in derbyshire .", 
+                "phillip henry willis , 65 , was released on licence yesterday but failed to reach his destination .", 
+                "police say he has links to cambridgeshire and northamptonshire ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584813ace4b0e181fd5d90a6", 
+            "title": "rams skipper expects motivation to be high", 
+            "text": [
+                "keogh says : `` if you ca n't get excited for this [ rams v forest ] , you 're in the wrong job . ''"
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_584812bfe4b0e181fd5d90a0", 
+            "title": "derby v forest news conference", 
+            "text": [
+                "it 's a packed press room at moor farm for the pre-forest news conference .", 
+                "richard keogh will be talking first ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58480c34e4b082b17ce88417", 
+            "title": "halcyon theuri inquest begins", 
+            "text": [
+                "an inquest 's begun into the death of a 21-year-old man who was found on a road in alfreton last summer .", 
+                "halcyon theuri was discovered on wingfield road with fatal head injuries in august 2015 .", 
+                "two months ago , police said they did n't have enough evidence to charge anyone in connection with his death .", 
+                "the hearing at derby coroner 's court is expected to last two days ."
+            ], 
+            "author": [
+                "Lisa Teanby", 
+                "Newsreader, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58480324e4b020ed1e9be764", 
+            "title": "crime prevention tips on offer", 
+            "text": [
+                "at kingsway retail with @ twitterid and volunteers to talk to shoppers about crime prevention # christmas # staysafe # wednesdaywisdom"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58480173e4b0e181fd5d904b", 
+            "title": "your views : dovedale stones", 
+            "text": [
+                "yesterday we told you about the stepping stones at dovedale being out of use due to them moving during recent bad weather .", 
+                "our facebook received lots of comments .", 
+                "noel lawton said : `` i 'm rubbish at balancing and only just managed when they were straight ! ''", 
+                "paul elston said : `` i said when they butchered them with limestone toppers they should have built an alternative crossing . ''", 
+                "paul elston said : `` i said when they butchered them with limestone toppers they should have built an alternative crossing . ''", 
+                "becky hough said : `` it doesnt help when people with pushchairs etc try to cross ! ''"
+            ], 
+            "author": [
+                "Facebook"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847fce5e4b0e181fd5d9029", 
+            "title": "your photos : festive ripley", 
+            "text": [
+                "ripley town hall looking very bright and festive .", 
+                "thank you to kings for sending this in ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847fa82e4b0b61486791dd9", 
+            "title": "afternoon weather : dry and mild", 
+            "text": [
+                "a dry and mild this afternoon with plenty of cloud around and a few brighter intervals .", 
+                "highs of 13c ( 55f ) ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847f701e4b05d09ea83b651", 
+            "title": "cannabis factory discovered in ilkeston", 
+            "text": [
+                "a suspcted cannabis growing operation has been discovered in industrial units in ilkeston .", 
+                "police found 70 plants at kensington business park along with about \u00a3 50,000 in cash .", 
+                "three men were arrested and are now bail ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847f330e4b032502cc61eab", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847ec7be4b05d09ea83b616", 
+            "title": "pensioner admits kidnap and sexual assualt", 
+            "text": [
+                "a 72-year-old man has admitted the kidnap and sexual assault of a young girl more than 15 years ago ."
+            ], 
+            "author": [
+                "Derby Telegraph"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847e9e4e4b05d09ea83b60a", 
+            "title": "environment agency back at cromford", 
+            "text": [
+                "looks like they will be busy again today .", 
+                "back down on the # cromford canal this morning with @ twitterid still have a lot of clean-up work to do ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847e904e4b032502cc61e65", 
+            "title": "listen : brother of 'miracle ' girl feels proud", 
+            "text": [
+                "radio derby has been talking to the brother of nine-year-old hannah toon , from melbourne , who doctors did n't think would ever walk but is now taking her first steps ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847e491e4b05d09ea83b5f4", 
+            "title": "jean jeanie the cow gets monthly sponsor", 
+            "text": [
+                "can you all remember a few weeks ago we told you about a derbyshire women trisha bokyo who was raising money to keep her cow from the slaughter house .", 
+                "well she hit her fundraising target of over \u00a3 3,500 and now has a monthly sponsor for her pet cow .", 
+                "here he is ( martin sands from cornwall who will fund jean jeanie each month .", 
+                "the money will pay to keep the cow in the field and help trisha pay for any vet bills ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847e0cde4b032502cc61e38", 
+            "title": "farmers urged to 'keep poultry inside '", 
+            "text": [
+                "farmers in derbyshire who own chickens have been told to keep the birds indoors for the next 30 days .", 
+                "officials want to protect poultry from a virulent strain of avian flu that has been found in dead wild birds across mainland europe ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847dd20e4b05d09ea83b5c5", 
+            "title": "your photos : breathtaking view of hathersage", 
+            "text": [
+                "david e 's photo of hathersage is so beautiful it looks like a painting .", 
+                "does n't it make you want to get your walking boots on ?"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10235438", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847d906e4b0b61486791d20", 
+            "title": "twitchers excited about dusky thrush find", 
+            "text": [
+                "birdwatchers are still flocking to see a rare bird in a north derbyshire village .", 
+                "hundreds of twitchers from across the country have travelled to beeley on the chatsworth estate to see the dusky thrush .", 
+                "mike powell travelled from cardiff yesterday and he said he thinks the bird will stay in the area for a while ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847d51ae4b032502cc61df5", 
+            "title": "a year since clough returned", 
+            "text": [
+                "on this day in 2015 , nigel clough returned to burton albion for his second spell as manager .", 
+                "now that year has gone by ever so quick !"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847d2d3e4b05d09ea83b58a", 
+            "title": "festive derby", 
+            "text": [
+                "the council 's compiled a handy guide to christmas events taking place in derby", 
+                "there are lots of exciting # christmas events taking place over the # festive period", 
+                "bin emptying is the event folks want and need !"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5847cf60e4b05d09ea83b579", 
+            "title": "derbyshire sign south african fast bowler", 
+            "text": [
+                "derbyshire have signed south africa international fast bowler hardus viljoen on a three-year deal ."
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847ce2de4b05d09ea83b572", 
+            "title": "cromford canal clean-up to finish today", 
+            "text": [
+                "derbyshire wildlife trust said it 'll be months before the true impact of the oil spill at cromford canal is known .", 
+                "the environment agency and a team of volunteers spent much of yesterday cleaning up the water and hope to finish their work today ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5847caa4e4b0b61486791cc7", 
+            "title": "council house \u00a3 2.5m revamp plan to be discussed", 
+            "text": [
+                "plans to redesign the ground floor of derby 's council house will be discussed at a meeting tonight .", 
+                "the proposed redevelopment would cost \u00a3 2.5m and could see the central library moved from its current location to inside the council house .", 
+                "what do you think to the plans ?", 
+                "email us your comments ."
+            ], 
+            "author": [
+                "Wesley Mallin", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c8a7e4b05d09ea83b557", 
+            "title": "your photos : swanning around", 
+            "text": [
+                "what a lovely photo , taken in heanor yesterday by our regular weather watcher stoneyford view .", 
+                "thank you for sending this in .", 
+                "if you have any snaps send them into us here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c6d0e4b032502cc61da4", 
+            "title": "'she is doing fantastically well '", 
+            "text": [
+                "hannah toon 's physiotherapist at the footsteps centre , gosia swietlik , said : in the spider [ walking aid ] hannah works on reaching , rotation , using her hands and feet and she even walks on a treadmill .", 
+                "she is doing fantastically well . ''", 
+                "mum melanie said : the best way i can describe the effect of this specialist physiotherapy is that it is waking her up.. every time she comes to footsteps she wakes up more . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c4a0e4b032502cc61d93", 
+            "title": "'miracle ' as girl defies predictions to walk", 
+            "text": [
+                "a nine-year-old girl from derbyshire is beginning to walk despite doctors telling her parents she would n't be able to .", 
+                "hannah toon , from melbourne , was just eight months old when her parents were told the `` heartbreaking '' news .", 
+                "she was born with a rare genetic disorder and an incredibly severe form of epilepsy .", 
+                "having gone through years of physio treatment and with the help of a walking device , hannah is walking and engaging with people .", 
+                "her family have described it as `` a miracle '' ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c262e4b0b61486791c95", 
+            "title": "travel : breakdown causes a38 delays", 
+            "text": [
+                "one lane is blocked and there 's slow traffic on the a38 northbound in ripley at the b6179 derby road junction , because of a broken down vehicle ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c1b7e4b05d09ea83b534", 
+            "title": "watch : wednesday 's weather outlook", 
+            "text": [
+                "watch : wednesday 's weather outlook"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5847c0dee4b032502cc61d7a", 
+            "title": "good morning : our live coverage for today", 
+            "text": [
+                "it 's me with your news , travel , sport and weather for derbyshire and east staffordshire today .", 
+                "get in touch via email , facebook or twitter .", 
+                "have a good day !"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

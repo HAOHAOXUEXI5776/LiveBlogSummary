@@ -1,0 +1,703 @@
+{
+    "blog_id": "2a2a647d1b1b2975d025d4870aa429f921efda73", 
+    "title": "BBC Local Live: Norfolk on Tuesday, 8 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-35590969", 
+    "summary": [
+        "plans to build 200 homes at the former pontins holiday centre at hemsby are recommended for approval by councillors tonight .", 
+        "engineers continue repair work to a burst water main in great yarmouth .", 
+        "more news , sport , travel and weather from 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56df07874a000088aeef30fe", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "thanks for joining us for norfolk live .", 
+                "we 'll be back tomorrow 08:00 bringing you the news , sport , travel and weather updates from across the county .", 
+                "you can get in touch with us on email , facebook or twitter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56df05653e000053b12acf1e", 
+            "title": "weather : cloudy with light rain", 
+            "text": [
+                "a cloudy evening , with light rain or drizzle .", 
+                "becoming wet and windy .", 
+                "temperatures falling to 4c ( 39f ) .", 
+                "a wet and windy day , with heavy rain easing later .", 
+                "temperatures reaching 7c ( 45f ) .", 
+                "there 's more information on bbc weather ."
+            ], 
+            "author": [
+                "Alex Dolan", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56def57a3e00009bac73acd2", 
+            "title": "your sunrise in norfolk", 
+            "text": [
+                "what a contrast to yesterday morning , when a carpet of snow spread itself across norfolk .", 
+                "weather watcher kim captured this photograph of the sunrise today .", 
+                "if you have a photograph that you 'd like to share with us , you can send it to us on email ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56def4144a000088aeef3090", 
+            "title": "new ct scanner to reduce waiting times", 
+            "text": [
+                "a new temporary ct scanner has been installed at the norfolk and norwich university hospital to help cut down patient waiting times .", 
+                "the unit , situated in front of the urgent care centre , will be in place for six months and will be used by more than 30 patients a day for cancer and diagnostic scans .", 
+                "chief operating officer richard parker says it will help in the short term to speed up the care and treatment of patients .", 
+                "the hospital has been taking steps to reduce waiting times for diagnostic procedures ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56df07264a000088aeef30fd", 
+            "title": "the headlines : decision due on plans for homes at former holiday camp workers repairing burst water main remove section of pipe", 
+            "text": [
+                "the stories in the news today :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56df039c3e00009ab073ad29", 
+            "title": "norfolk senior cup semi-final is on", 
+            "text": [
+                "king 's lynn town reserves take on dereham town for a place in the norfolk senior cup final tonight .", 
+                "norwich united await the winners .", 
+                "the linnets ' game against hungerford on saturday was postponed due to a waterlogged pitch but the walks surface has been deemed playable for tonight 's game ."
+            ], 
+            "author": [
+                "Rob Butler", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56defce23e000053b12acee8", 
+            "title": "paw patrols 'invaluable ' in fight against crime", 
+            "text": [
+                "there are 47 police dogs and 25 handlers in norfolk and suffolk 's joint dog unit , providing specialist support to colleagues to help keep both counties safe .", 
+                "last year , the team made more than 1,170 arrests , carried out more than 1,500 drug searches and helped find 347 missing people .", 
+                "earlier the team posted this video on twitter :", 
+                "paw patrols are invaluable in the fight against crime read more > > >", 
+                "@ twitterid @ twitterid fascinating .", 
+                "wish you had time to tweet more often .", 
+                "poor pd ozzy .", 
+                "rip no baddies in heaven ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56defd473e000055b12aceec", 
+            "title": "watch : starlings take flight over norwich", 
+            "text": [
+                "as the sun sets over the norwich skyline , an amazing sight can be seen .", 
+                "hundreds of starlings take flight , forming a `` murmuration '' , wheeling in formation over the city centre .", 
+                "many thanks to fabian harrison for sending us this video ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56deeeda4a000089aeef306f", 
+            "title": "beales ' diss store safe", 
+            "text": [
+                "landlords of loss-making shops in the beales department store group are being asked to lower rents or take back their properties ."
+            ], 
+            "author": [
+                "Diss Express"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56def2353e000059ad2aceb4", 
+            "title": "councillors urge rethink on parking meters scheme for cromer and sheringham", 
+            "text": [
+                "north norfolk district council has sent a statement from its members to officers of the norfolk parking partnership joint committee setting out the authority 's concerns at controversial plans to introduce on-street parking meters to cromer and sheringham .", 
+                "councillor nigel pearce says he feels the proposals would be `` robbing the norfolk coast taking money out of the area and not bringing benefits to the two seaside towns . ''", 
+                "councillor judy oliver says the council would look to challenge the proposal in court if it 's pushed through .", 
+                "the partnership says the financial sustainability of civil parking enforcement in norfolk depends on additional revenue from such schemes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56deecea3e00002daf2acea0", 
+            "title": "medieval monument to be restored", 
+            "text": [
+                "a medieval stone monument in the heart of norfolk is being reinstated after it was broken in pieces when a car crashed into it in 2013 .", 
+                "norfolk county council has brought in a specialist firm to undertake the work to the old stump cross at haveringland , near reepham .", 
+                "when put back together , the 500-year old monument will stand about 5ft ( 1.5m ) tall ."
+            ], 
+            "author": [
+                "Tim Addicott", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56dec5183e00000fac2acdf5", 
+            "title": "updates on road closures for construction of northern distributor road", 
+            "text": [
+                "a main road to the east of norwich , which has been closed since 22 february for preparatory work ahead of construction of a double bridge for the norwich northern distributor road ( ndr ) , is to reopen .", 
+                "plumstead road , which has been closed between thorpe end and little plumstead , is set to reopen by the evening of friday .", 
+                "on monday , the nearby middle road will close until 25 march , followed by the closures of smee lane from 28 march and low road .", 
+                "from 11 april .", 
+                "the long-term closure of drayton lane , on the western half of the ndr , begins on monday , with holly lane providing a diversion route .", 
+                "the lane , a popular cut-through between reepham road and the b1149 holt road , is to be realigned to provide a new route for holt road traffic to the ndr ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56deeb3b3e000092ae73ac9a", 
+            "title": "watch : conductor is new voice of train company", 
+            "text": [
+                "senior conductor stephen carlyle-hearn has been chosen as the new voice of east midlands trains .", 
+                "mr carlyle-hearn , from norwich , will be heard on pre-recorded announcements at all the rail company 's stations .", 
+                "he says it 's a real privilege to be chosen , and that he had great fun recording the announcements ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ded4ae3e00005aad2ace2b", 
+            "title": "engineers remove damaged water main", 
+            "text": [
+                "engineers from essex and suffolk water worked throughout the night to repair a burst water main in great yarmouth .", 
+                "a 4.5m ( 14.7ft ) section of the burst pipe was removed .", 
+                "traffic is restricted to one lane on south quay , and gorleston-bound traffic can not use the south quay or haven bridge .", 
+                "road restrictions are likely to remain in place until the weekend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "14:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56ded44d3e00005aad2ace2a", 
+            "title": "norwich : a vibrant city", 
+            "text": [
+                "norwich is among the five most vibrant smaller cities in the uk , according to a new report .", 
+                "the report , by the centre for cities think tank , says norwich , cambridge , oxford , milton keynes and swindon have higher productivity levels than bigger cities such as manchester and birmingham .", 
+                "they also have higher than average levels of employment and business start-ups , and are among the fastest growing in terms of population .", 
+                "however , the report warns that without government help , challenges such as housing , increasing traffic congestion and skills gaps could halt the progress in its tracks ."
+            ], 
+            "author": [
+                "Nanette Aldous", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56deb7713e000068ab73aba7", 
+            "title": "cannabis 'should be available in specialist shops , ' says mp", 
+            "text": [
+                "the north norfolk mp norman lamb is leading calls by the liberal democrats to allow specialist shops to sell cannabis .", 
+                "he says it could raise over \u00a3 1bn a year in tax revenue for the government .", 
+                "the party also says over-18s should be allowed to grow cannabis at home for personal use .", 
+                "mr lamb , lib dem health spokesman , said it had to be better than the current policy where `` vast amounts of police time and resources are wasted going after those using the drug '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "22:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56debe374a0000a9a7ef2f9f", 
+            "title": "norwich cathedral science fest 's explosive start", 
+            "text": [
+                "there was an explosive start to a two-week science festival at norwich cathedral last night when a replica volcano erupted just outside the historic venue ."
+            ], 
+            "author": [
+                "Network Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56dec0304a000088aaef2fa7", 
+            "title": "walsh 's next challenger confirmed", 
+            "text": [
+                "cromer 's british featherweight champion ryan walsh will make the second defence of his title on 30 april .", 
+                "he will face northern irishman james tennyson ( london 's copper box arena ."
+            ], 
+            "author": [
+                "Rob Butler", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56debcf83e00006dab73abcb", 
+            "title": "coast protection work begins", 
+            "text": [
+                "maintenance work on the shingle embankment and beach between snettisham and hunstanton is set to begin today .", 
+                "ryan ely , flood and coastal risk adviser for the environment agency , says the moving of more than 5,000 cubic metres of sand and shingle from the snettisham scalp to reinforce the defences is the most sustainable way to protect the coast .", 
+                "nearly 3,000 properties are protected from tidal flooding by the embankment .", 
+                "the work , costing about \u00a3 150,000 , will take three weeks and is being carried out before the start of the bird breeding season ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56debd383e0000dda72acdd6", 
+            "title": "watch : councillors to consider homes plan for former holiday camp", 
+            "text": [
+                "controversial plans to build 200 new homes on the site of the former pontins holiday camp in hemsby are likely to get the go-ahead .", 
+                "there 's been strong opposition to the housing since the resort closed eight years ago .", 
+                "a decision will be made by councillors this evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "20:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56dea9444a000087aaef2f2a", 
+            "title": "chris sutton : 'norwich just are n't good enough '", 
+            "text": [
+                "with norwich city currently 18th in the premier league , former striker chris sutton pulled no punches when discussing their chances of avoiding relegation on bbc 5 live 's monday night club .", 
+                "`` i think norwich are where they should be .", 
+                "i do n't think they are underachieving - i just do n't think they are good enough , '' he said .", 
+                "you can hear the full clip below :"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de8f953e0000cda72accfe", 
+            "title": "make mine a double , demands city boss", 
+            "text": [
+                "the back page of the norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56deba294a0000a9a7ef2f85", 
+            "title": "police 'co-operating fully ' with ipcc over complaint", 
+            "text": [
+                "norfolk police says it is `` co-operating fully '' with the independent police complaints commission investigation following a complaint about the conduct of one of its officers at a school for pupils with special education needs .", 
+                "the spokesman for norfolk police said the incident happened on 3 december 2015 , and its professional standards department received a complaint on 17 december .", 
+                "the matter was then referred to the ipcc .", 
+                "ipcc associate commissioner tom milsom said the allegations were `` serious , involving the officer 's interaction with a vulnerable boy '' and that it would be conducting a thorough investigation ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56deb0f73e000032aa73ab84", 
+            "title": "investigation into conduct of police officer", 
+            "text": [
+                "the independent police complaints commission ( ipcc ) has begun an independent investigation following a complaint about the conduct of a norfolk police officer at a school for pupils with special educational needs .", 
+                "the mother of a 14-year-old pupil raised concerns that a police constable had used abusive and discriminatory language towards her son while at the school in december 2015 .", 
+                "the investigation will also examine an allegation that the officer used excessive force when arresting the boy during the incident ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de94e43e0000cda72acd18", 
+            "title": "former holiday camp plan 'could bring much-needed housing and investment '", 
+            "text": [
+                "a former holiday camp in hemsby could be used for housing if a planning application for 200 homes is approved , despite objections from the parish council and local people .", 
+                "northern trust , the owners of the site of the former pontins resort , says the development would being `` much-needed housing and investment into the area for the benefit of the local economy . ''", 
+                "people living nearby have raised concerns that the plans would create a dormitory suburb for commuters and that the local infrastructure wo n't be able to cope .", 
+                "many have said it still has tourist potential ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de8f5b3e00002fa873aae9", 
+            "title": "bid to save a hidden gem", 
+            "text": [
+                "the front page of the norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de8fe03e0000cda72acd00", 
+            "title": "picture : engineers install new water pipe in great yarmouth", 
+            "text": [
+                "essex and suffolk water engineers are working to fix a burst water main in great yarmouth .", 
+                "here 's a tweet from the company :", 
+                "here 's the # water pipe we 've installed overnight in # gtyarmouth # norfolk - securing supplies @ twitterid @ twitterid", 
+                "i am not impressed by your photo of a plastic pipe @ twitterid @ twitterid @ twitterid what about repairing the hole in the road you made ?", 
+                "@ twitterid @ twitterid @ twitterid we are working to re-instate the road once the repair work is completed - oliver @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "18:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de95773e000049a773ab06", 
+            "title": "only one can survive", 
+            "text": [
+                "the back page of the eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de95473e00002fa873ab04", 
+            "title": "drug-driver faces custody", 
+            "text": [
+                "the front page of the eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de8a673e000051a773aacf", 
+            "title": "source of burst water main has been located", 
+            "text": [
+                "engineers from essex and suffolk water say they have found the source of flooding in great yarmouth .", 
+                "a 4.5m ( 14.7ft ) section of the burst water main has been cut out and removed , and work to repair the pipe continues .", 
+                "the a1243 south quay remains closed between the haven bridge and yarmouth way junction .", 
+                "oliver rogers , from the water company , said it was a difficult job and he expected roads to be affected by diversions until the weekend ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de66773e000078a52acca7", 
+            "title": "canaries hopeful on brady and naismith injuries", 
+            "text": [
+                "norwich city manager alex neil is expecting robbie brady and steven naismith to take part in their relegation fight .", 
+                "both players limped out of the canaries ' latest defeat at swansea .", 
+                "left-back brady suffered a calf injury in the first half with naismith going off with a hamstring problem just after norwich had conceded the game 's only goal .", 
+                "neil said : `` i think both felt it and i 'm hoping they 've come off before it 's got any worse . ''", 
+                "city have already lost midfielder alex tettey to injury for the rest of the season ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de8cb94a0000a9a7ef2eaf", 
+            "title": "traffic information for great yarmouth", 
+            "text": [
+                "motorists in great yarmouth are facing travel disruption while repair works on a burst water main continue .", 
+                "norfolk county council engineers are liaising with essex and suffolk water , and expect the disruption to last at least until the weekend .", 
+                "council engineers will decide later this week whether a planned closure this weekend of nottingham way will go ahead ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de812c3e000048a773aa99", 
+            "title": "warning to motorists : take care on icy roads", 
+            "text": [
+                "east anglia : ice is a real hazard this morning given wet surfaces following showers over recent days , and subzero temps .", 
+                "take care on roads ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de86133e000049a773aaaf", 
+            "title": "councillors expected to approve plans for homes on former holiday camp", 
+            "text": [
+                "councillors are expected to approve plans to build 200 new homes on a disused holiday camp in norfolk tonight .", 
+                "great yarmouth councillors are expected to give the go-ahead for the scheme for the former pontins holiday centre at hemsby , despite objections from the parish council and local residents .", 
+                "there has been an eight-year fight against housing at the holiday camp since in closed in 2008 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de80df3e000051a773aa97", 
+            "title": "weather : mostly dry and bright", 
+            "text": [
+                "after a chilly and frosty start , it will be a dry day with some sunny spells .", 
+                "cloudy , thickening later , with a few outbreaks of light rain .", 
+                "maximum temperature : 7c ( 45f ) .", 
+                "staying cloudy tonight , with heavy rain spreading across the county by dawn .", 
+                "minimum temperature : 4c ( 39f ) .", 
+                "there 's more information on bbc weather ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56de88043e0000cda72acce7", 
+            "title": "headlines : plans for homes at a former holiday recommended for approval repair work continues on burst water main", 
+            "text": [
+                "the stories in the news this morning :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56de7fe33e0000dda72accb6", 
+            "title": "welcome to norfolk live", 
+            "text": [
+                "thanks for joining us for tuesday 's norfolk live .", 
+                "we 'll have your news , sport , travel and weather updates for the county from now until 18:00 .", 
+                "if there 's something happening where you live that you 'd like to share with us , or maybe you have a photograph , you can get in touch via email , twitter or facebook ."
+            ], 
+            "author": [
+                "Caroline Kingdon", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

@@ -1,0 +1,966 @@
+{
+    "blog_id": "252ba7cef6d520bd18fca05c739122a061a798d3", 
+    "title": "Bank of England policymaker says no rush to cut interest rates \u00e2\u0080\u0093 as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live", 
+    "summary": [
+        "mixed day for european markets but ftse hits 11 month closing high .", 
+        "wells fargo buys city office block development for \u00e2\u00a3 300m .", 
+        "softbank ceo : uk government approve of arm takeover .", 
+        "socgen : top london house prices could halve due to brexit .", 
+        "weale speech : what the experts say .", 
+        "weale : our incomes will be lower because of brexit .", 
+        "uk government back arm takeover ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-578d037ae4b055dc11d001b1", 
+            "title": "mixed day for european markets but ftse hits 11 month closing high", 
+            "text": [
+                "the arm deal may have boosted the uk markets , but elsewhere the mood was fairly uninspired .", 
+                "french and german markets dipped slightly while italy edged higher and wall street struggled to gain ground .", 
+                "the final scores showed : the ftse 100 finished 26.18 points or 0.39 % higher at 6695.42 , but that was more than accounted for by the gain in arm ( 26.5 points ) .", 
+                "it still represents the highest close since august last year germany 's dax dipped 0.04 % to 10,063.13 france 's cac closed 0.34 % lower at 4357.74 italy 's ftse mib added 0.08 % to 16,762.73 spain 's ibex ended down 0.08 % at 8524.4 in greece , the athens market slipped 0.38 % to 555.26 on wall street the dow jones industrial average is currently up 4.79 points or 0.03 % .", 
+                "meanwhile after the hawkish comments from mpc member martin weale , the pound has added 0.49 % to $ 1.3255 .", 
+                "on that note , it 's time to close for the evening .", 
+                "thanks for your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                16, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578cfba5e4b06683917bdc6b", 
+            "title": "", 
+            "text": [
+                "it has ended up being a fairly uninspiring day on the markets , with only the \u00e2\u00a3 24bn deal to buy uk chip designer arm giving a boost to leading shares .", 
+                "tony cross , market analyst at trustnet direct said : there 's really only one story driving the rally in london today , and that 's the bid for arm holdings that 's been received from japan 's softbank .", 
+                "shares in the microchip company are up around 40 % and if it had n't been for this news , the day 's performance would have been a whole lot more pedestrian .", 
+                "hawkish comments from boe policymaker martin weale have also done little to buoy sentiment for uk stocks today , although the confidence this kind of message imparts has at least managed to cheer the housebuilders .", 
+                "at the other end of the board , tui is markedly lower off the back of the weekend 's events in turkey amidst fears of holidaymakers changing plans for the summer , whilst bhp billiton is also struggling with word that a subsidiary has seen its debt rating downgraded to junk weighing here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                15, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578ced0ee4b08239dbab7d05", 
+            "title": "", 
+            "text": [
+                "oil prices are now down around 2 % as new data showed a hike in us crude supplies .", 
+                "market data firm genscape reported a stock build of 26,460 barrels last week at the cushing , oklahoma delivery hub , following a surge in us supplies of gasoline and distillate last week .", 
+                "brent crude is currently down $ 1.03 a barrel at $ 46.58 while west texas intermediate , the us benchmark , is down 2.1 % at $ 44.98 a barrel ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                14, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578ce6d9e4b033b610b6e7d6", 
+            "title": "", 
+            "text": [
+                "wall street has edged ahead in early trading , continuing to head towards record highs but only gradually .", 
+                "a drop in the oil price has taken the shine off some reasonable company results , with bank of america beating expectations with its second quarter figures .", 
+                "the dow jones industrial average is currently up 0.12 % at 18538 , compared to its lifetime high of 18557 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                14, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578ce3d2e4b073c22786cc26", 
+            "title": "", 
+            "text": [
+                "the proposed takeover of arm by japan 's softbank is an illustration of the consequences of volatility in the global currency markets , says john haynes , head of research at investec wealth & investment : the announcement of an agreed bid for arm holdings by softbank of japan is the clearest illustration possible of the consequences of the current global currency volatility .", 
+                "assuming the bid price , softbank is paying over 25 % less in yen terms compared to over a year ago to acquire this crown jewel of uk , and indeed global , intellectual property .", 
+                "the devaluation of sterling will continue to provide interesting investment opportunities for overseas investors to buy uk assets , including central london property , at a discount .", 
+                "the repercussions of the brexit decision have yet to be felt .", 
+                "over the next six to nine months we will see not only the direct effect on growth in the uk and europe of this blow to business confidence , but also the impact it has on the political landscape .", 
+                "we should take some reassurance from recent market action as it was a high profile challenge to the resilience of the european financial system .", 
+                "the measures central banks have put in place to address outside shocks passed an important test , which is an endorsement of the progress made since the eurozone crisis .", 
+                "furthermore , as last week 's non-european data indicated , the world economic still has many bright spots .", 
+                "the us remains highly resilient whilst the in emerging markets is improving .", 
+                "if the last two weeks has taught us anything , it is that britain is not as important to the world as the world is to britain , hence the importance of retaining a global perspective when making investment decisions .", 
+                "our view prior to brexit was that the world would muddle through and risk takers would be rewarded for their steely nerve .", 
+                "our view now is the same , but there is less margin for error and a higher level of background political risk ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                14, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578cdcf5e4b08239dbab7cc8", 
+            "title": "wells fargo buys city office block development for \u00e2\u00a3 300m", 
+            "text": [
+                "in another sign that britain remains open for business , us bank wells fargo is to buy an 11-storey office block development in the heart of the city in one of the largest real estate deals since the brexit vote.it has bought the development - 33 central at 33 king william street - from property company hb reavis .", 
+                "the deal will allow the us bank to consolidate its 850 london-based staff in a single location when construction is completed in the third quarter of 2017 .", 
+                "terms of the deal were not revealed but a source told reuters it was likely to be worth around \u00e2\u00a3 300m ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578cc9d3e4b08239dbab7c8d", 
+            "title": "lunchtime summary", 
+            "text": [
+                "a quick recap .", 
+                "one of the bank of england 's top policymakers has dampened expectations that uk interest rates will be slashed to fresh record lows next month .", 
+                "martin weale argued that britain may not need immediate reassurance from the boe , and argued that central bankers should n't act as nursemaids to the markets ' every whim .", 
+                "weale also predicted that the brexit vote will make the country poorer , as firms slash spending and hiring .", 
+                "need for interest rate cut called into question by bank of england expert read more the warning came after a flurry of data showing that the brexit vote has hurt the economy .", 
+                "the ey item club predicted a recession next year .", 
+                "deloitte reported that business confidence has suffered its worst knock in at least a decade .", 
+                "rightmove warned that asking price for home sales have dipped in the last month .", 
+                "societe generale predicted that house prices in some london areas could halve !", 
+                "elsewhere the uk government has thrown its backing behind japanese corporation softbank 's \u00e2\u00a3 24bn takeover of the tech firm arm holdings .", 
+                "downing street says the deal is in the national interest , while softbank 's ceo masayoshi son claims to have wowed theresa may and philip hammond with his pledges to invest in the company and hire more staff .", 
+                "cambridge 's mp , though , is worried arm holdings to be sold to japan 's softbank for \u00e2\u00a3 24bn read more turkey 's stock market has now slumped by over 5 % , following last week 's coup attempt .", 
+                "the turkish lira has recovered some of friday night 's heavy losses , as the erdogan government asserts control .", 
+                "fawad razaqzada , market analyst at forex.com , predicts more lira losses : over time , interest rates will need to be reduced significantly in order to stimulate demand in the economy .", 
+                "but at the same time , this will reduce the appeal of the lira as a higher yielding currency for foreign investors .", 
+                "so whichever way you look at it , the outlook for the lira looks dire unfortunately ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                12, 
+                34
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578cc602e4b073c22786cbc1", 
+            "title": "", 
+            "text": [
+                "unsurprisingly , the adam smith institute thinks overseas firms should n't be blocked from buying uk ones .", 
+                "their head of research , ben southwood , says it would be a blunder to consider blocking deals such as the softbank/arm takeover .", 
+                "here 's his argument : vetting all foreign bids for british firms represents yet another step on the risky road to \u0080\u0098italyification ' of the uk economy , where inefficient national champions are propped up and those putting money into our growth are scrutinised based on their national origin .", 
+                "the fact you can later sell your business to a wider pool of investorsand attract capital from everywhere in the worldis a major driver behind british investment .", 
+                "it is also the foundation of britain 's world-beating finance industry , which provides an outsized portion of uk output , and uk tax revenues .", 
+                "british economic success has been based on openness to trade and investment for hundreds of years .", 
+                "theresa may must not put an end to that .", 
+                "is he right ?", 
+                "well , arm is hardly a failing company in need of some foreign expertise .", 
+                "it 's already hugely successful , providing key chips for the iphone ( for example ) .", 
+                "softbank are paying 43 % over last week 's share price precisely because arm is such a good company .", 
+                "also , softbank 's insistence that really wants arm 's technology , and will help the company grow , should allay fears in westminster ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                12, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578cc43be4b033b610b6e758", 
+            "title": "", 
+            "text": [
+                "the labour mp for cambridge does n't share the conservative government 's enthusiasm for the \u00e2\u00a3 24bn takeover of arm britain 's preeminent tech company .", 
+                "daniel zeichner is concerned about arm 's long-term future under japanese conglomerate softbank , and is n't totally convinced by its pledge to double the uk workforce .", 
+                "he told itv news that : well of course the promises are great , but how are those promises going to be guaranteed ?", 
+                "do we know what will happen in 6 months or a year ?", 
+                "do we know much about softbank ?", 
+                "and they seem to be making some pretty big deals across the world .", 
+                "this is a cambridge success story upon which the future of the united kingdom is probably depends because this is what we 're good at .", 
+                "itv news anglia ( @ itvanglia ) cambridge mp cautious over arm holdings takeover"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                12, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578cc1fde4b073c22786cbb6", 
+            "title": "", 
+            "text": [
+                "holiday firm tui is the worst-performing stock on the fste 100 so far today , shedding over 2 % .", 
+                "traders are calculating that the turmoil in turkey is going to deter holidaymakers from jetting to its resorts ; although recent terrorist attacks had already had an impact .", 
+                "tony cross of trustnet direct explains : tui is also struggling with that news from turkey likely to further disrupt travel to the country this summer , although there has been a shift in bookings by holidaymakers for some months now to resorts in the western mediterranean ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                11, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578cb8e9e4b073c22786cb98", 
+            "title": "", 
+            "text": [
+                "the shock brexit vote has taken the world 's attention off other issues , such as the ongoing economic crisis in greece .", 
+                "but the eurozone 's most troubled member has n't gone away .", 
+                "and european comissioner pierre moscovici has popped to athens today , for high-level talks about its current bailout programme .", 
+                "he 's met with prime minister alexis tsipras , and discussed the labour reforms and spending cuts that greece needs to enforce , to get its next tranche of bailout funds ( worth around \u0082\u00ac2.8bn ) .", 
+                "ntantamis/afp/getty images karagiannis/reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                11, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578cb515e4b08239dbab7c48", 
+            "title": "", 
+            "text": [
+                "over in downing street , theresa may 's spokeswoman has told lobby reporters that softbank 's takeover of arm is in the national interest ( that 's via reuters )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                10, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578cabe9e4b033b610b6e710", 
+            "title": "softbank ceo : uk government approve of arm takeover", 
+            "text": [
+                "softbank 's ceo , masayoshi son , has denied that the brexit vote prompted him to launch today 's massive \u00e2\u00a3 24bn takeover of uk chipmaker arm .", 
+                "speaking to reporters in london , son says the eu referendum did not affect his decision .", 
+                "he says softbank is determined to have a big role in the development of the internet of things - the next major area of technology .", 
+                "the ft 's arash massoudi is tweeting the key points : arash massoudi ( @ arashmassoudi ) masason takes the stage at softbank presser .", 
+                "just back from meeting uk chancellor hammond .", 
+                "arash massoudi ( @ arashmassoudi ) `` one of the biggest paradigm shifts is coming . ''", 
+                "first wave was internet to pc .", 
+                "then mobile .", 
+                "next wave is internet in everything , son says arash massoudi ( @ arashmassoudi ) why is softbank doing deal ?", 
+                "`` next big paradigm shift is coming in iot it will be a big opportunity for all of mankind and products used '' son also declared that britain 's new political masters are impressed by the deal - and his pledge to double arm 's uk workforce .", 
+                "arash massoudi ( @ arashmassoudi ) son : i presented assurances abt hq , jobs , investment .", 
+                "`` the pm and chancellor said wow .", 
+                "that 's good ! ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                10, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578ca2b2e4b073c22786cb56", 
+            "title": "socgen : top london house prices could halve due to brexit", 
+            "text": [
+                "readers with expensive houses in the heart of london should take a deep breath , and stay sitting down .", 
+                "french bank societe generale has predicted that house prices in the capital could plunge by over 30 % , due to the vote to leave the european union .", 
+                "that 's based on the idea that highly paid city workers will be forced out of london , if britain loses access to the single market .", 
+                "that would end the \u0080\u0098passporting ' which lets banks in the uk sell services across the eu , and mean banks have to shift overseas .", 
+                "socgen analyst marc mozzi explains the gloomy prognosis : while in recent stress tests , the major u.k. banks were assessed with declines of around 30 percent in commercial real estate prices , we fear that london residential could experience an even more severe downturn .", 
+                "brexit will damage the u.k. economy , and some companies will almost certainly have to relocate parts of their business to retain access to the eu single market .", 
+                "ed conway ( @ edconwaysky ) whoa .", 
+                "socgen : house prices in london 's most expensive areas could halve in the wake of brexit"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                10, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c9f3fe4b033b610b6e6ec", 
+            "title": "weale speech : what the experts say", 
+            "text": [
+                "jeremy cook , chief economist at world first , reckons martin weale may decline to support an interest rate cut in august : world first ( @ world first ) weale : boe should wait for firmer evidence before policy change - rate cut abstention in august ?", 
+                "sky 's ed conway is n't too surprised ; weale is one of the more hawkish mpc members .", 
+                "ed conway ( @ edconwaysky ) note the mpc minutes said most mpc members thought policy should be loosened in aug. not all .", 
+                "so weale 's relative hawkishness not a shock buzzfeed 's simon neville flags up that the rapid appointment of theresa may as prime minister may calm the situation : simon neville ( @ simonneville ) martin weale says : `` if i did want to read the tea leaves , investors are expecting the economy to be a bit weaker than beforehand '' simon neville ( @ simonneville ) weale suggesting the alarm immediately after the referendum result could have been allayed now the political vacuum has been removed"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c9bf0e4b033b610b6e6e5", 
+            "title": "weale : our incomes will be lower because of brexit", 
+            "text": [
+                "martin weale has also warned that the brexit vote will make the uk population poorer .", 
+                "the bank of england rate-setter tells his audience in london that : my own view is that , despite any savings resulting from a lower contribution to the eu budget , the nation 's income , and thus people 's incomes , are likely to be reduced as a result of the choice made on 23rd june .", 
+                "weale is concerned that britain may not retain full access to the single market , which has delivered useful economies of scale .", 
+                "a failure to retain them would amount to a worsening of britain 's supply conditions reducing both productivity and household incomes .", 
+                "international competition may also have had the effect of stimulating productivity improvements in domestic firms .", 
+                "he also warns that everyone could suffer , if london 's financial sector takes a hit ( perhaps because banks are forced to move operations into the eu ) : should life become harder for the financial sector then that may fall disproportionately on london and the south-east .", 
+                "but , if taxable capacity declines disproportionately as a result , the effects of this on people 's incomes will be spread across the country more evenly than the effects on output .", 
+                "he also produces these two charts , showing how uk business confidence has declined in the last few weeks .", 
+                "of england"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c9497e4b033b610b6e6d7", 
+            "title": "boe policymaker says interest rates may not be cut next month", 
+            "text": [
+                "bank of england policymaker martin weale has just fired a warning shot at the city , saying interest rates might not be cut in august .", 
+                "speaking in london , weale revealed that he is not convinced - yet anyway - that rates need to be slashed from 0.5 % to fresh record lows to calm brexit fears .", 
+                "city economists expect the bank of england to cut interest rates in august of england weale ( who has previously voted to raise interest rates ) , says : the bank should n't be worried about disappointing the markets .", 
+                "the old lady of threadneedle street is not a nurse to markets .", 
+                "people who trade in markets know that the monetary policy committee sets policy month by month in the way that its members think appropriate .", 
+                "it does sometimes , as we did in our july meeting , give an indication of where policy may go in the future .", 
+                "but that is no more than the best judgement at the time and not in any sense a commitment ; the public understand that .", 
+                "weale also argues that the bank does n't need to act early to reassure households and businesses .", 
+                "in contrast to the experience of 2008 , i do not have any sense that either consumers or businesses are panic-struck and , as i observed , there have been no material signs of financial panic .", 
+                "ed conway ( @ edconwaysky ) martin weale giving his final major speech as an mpc member .", 
+                "does n't sound like he 'll be voting for a cut next month last week , the bank of england surprised many economists by voting to leave interest rates on hold .", 
+                "the minutes of the meeting showed that many members of its monetary policy committee expect to agree on a new stimulus package in august .", 
+                "however , that might not necessarily include a rate cut .", 
+                "the mpc could vote to boost quantitative easing ( buying bonds from banks with newly created money ) , or launch new measures to encourage banks to lend to businesses and consumers .", 
+                "howard archer ( @ howardarcheruk ) # weale ( largely hawkish ) indicates not sure will vote for # boe # interest # rate cut at his final # mpc meeting in aug"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                8, 
+                59
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c93a4e4b033b610b6e6d1", 
+            "title": "brexit vote will drive uk into recession ey item club", 
+            "text": [
+                "the uk will fall into a short , shallow recession around the turn of the year as brexit hits house prices , jobs and spending , according to forecasters at the ey item club .", 
+                "in another dose of gloom , they have slashed their 2017 growth estimate to 0.4 % from 2.6 % , and warned that britain 's economy will suffer permanent harm from the decision to leave the eu .", 
+                "the group says : there are likely to be severe confidence effects on spending , only partially cushioned by a fall in the pound .", 
+                "we would expect a permanent reduction in the level of u.k. output and productivity ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                8, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578c916ce4b08239dbab7bda", 
+            "title": "", 
+            "text": [
+                "britain 's new digital minister is also backing the arm takeover , underlying that softbank are not going to be blocked by westminster .", 
+                "matt hancock ( @ matthancockmp ) the proposed investment of \u00e2\u00a3 24bn in arm by softbank highlights britain 's capability to grow & build world-beating tech companies investment is a funny way of describing a takeover bid - surely hancock knows that the money goes to arm 's shareholders ?", 
+                "the government 's eagerness to support the deal is also ironic , as prime minister theresa may has pledged to protect uk firms in \u0080\u0098strategic ' industries from foreign takeovers .", 
+                "jonathan eley ( @ jonathaneley ) july 11 : theresa may says govt will block takeovers of key uk firmsjuly 18 : govt welcomes takeover of arm , uk 's most important tech company proof that a week really is a long time in politics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                8, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c8d0ee4b08239dbab7bcf", 
+            "title": "", 
+            "text": [
+                "matthews/pa brexit fears have now hit britain 's housing market , according to the latest data from rightmove .", 
+                "uk property asking prices have dropped 0.9 % over the last month , suggesting that the eu referendum is hitting demand for property .", 
+                "some sellers may also be trying to get a deal before britain 's economy has deteriorated .", 
+                "uk property asking prices drop 0.9 % since june read more jeremy duncombe , director of the legal & general mortgage club , reckons its not a reason to panic : given the uncertainty that has followed the uk 's decision to leave the eu , it 's not surprising that house prices have decreased month-on-month for the first time in a while .", 
+                "we need however to look at the annual trend and not a month in isolation .", 
+                "house prices are still rising faster much than inflation over a 12 month period , and a slowing of this growth is not necessarily a bad thing ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                8, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c8880e4b073c22786cb1d", 
+            "title": "turkish stock market slides after coup failure", 
+            "text": [
+                "pro-erdogan supporters gathered at taksim square in istanbul on july 17 , 2016 .", 
+                "kose/afp/getty images turkey 's stock market has slumped by 3 % in early trading , failing to match the gains in other markets .", 
+                "traders at the istanbul stock exchange are understandably nervous following last weekend 's failed coup , which is likely to deter businesses from investing in turkey and holidaymakers from visiting the country .", 
+                "there 's huge trading in the turkish lira too .", 
+                "it tumbled on friday night as military officers tried to overthrow president erdo\u00e4\u009fan , falling from 2.88 lira to the $ 1 to 3.04 .", 
+                "the lira has now bounced back a bit , as turkey 's government rounds up thousands of suspected coup plotters .", 
+                "fastft ( @ fastft ) turkish lira claws back half of losses from coup attempt ( ( ( burnett tabrum ) ) ) ( @ btabrum ) trading volume in turkish lira `` double normal '' wolfango piccoli of teneo intelligence fears turkey faces further instability : this highlights that erdogan is eager to exploit the event to expand his power and continue the witch-hunt , further worsening the state of turkey 's crumbling democracy .", 
+                "moreover , there is a growing risk of a snap election , as the akp might seize the opportunity to enlarge its parliamentary majority with the aim of introducing an executive presidency via a constitutional revision .", 
+                "with two opposition parties ( the mhp and the hdp ) undergoing significant internal turmoil , an early election could deliver the necessary numbers for erdogan 's dream to be fulfilled .", 
+                "on the external front , the already strained relationship with the us could worsen as a result of ankara 's increased determination to request the extradition of fethullah gulen , who has been quickly accused by the turkish government of being behind the failed putsch ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c859ae4b073c22786cb19", 
+            "title": "", 
+            "text": [
+                "arm 's soaring share price has helped to drive the ftse 100 towards the 11-month intraday high hit last week .", 
+                "the footsie is up 45 points in early trading to 6715 , while the smaller ftse 250 has gained 1 % .", 
+                "the top risers on the ftse 100 this morning reuters other european stock markets are also up in early trading , as traders remain sanguine despite brexit concerns and the instability in turkey ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                7, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c8379e4b033b610b6e6bd", 
+            "title": "", 
+            "text": [
+                "overnight , a top city fund manager warned that brexit will be horrible for the uk economy .", 
+                "richard buxton , the chief executive and head of uk equities at old mutual global investors ( omgi ) , says the referendum vote is stupendously final .", 
+                "i do n't always agree with martin wolf [ the financial times columnist ] , but when he wrote the day after that this is probably the single worst event in british postwar history , yeah , i do n't disagree buxton also laid into the leave campaign for failing to have a strategy for actually leaving the eu : you can criticise the brexit team for a ) an utterly mendacious campaign and b ) not expecting that they would really win , so never having a plan .", 
+                "i mean the whole thing is literally unbelievable .", 
+                "it is extraordinary how we have ended up where we are .", 
+                "brexit impact is going to be horrible , says leading city fund manager read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                7, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578c80b2e4b073c22786cb12", 
+            "title": "", 
+            "text": [
+                "shares in chipmaker arm holdings have surged by 45 % at the start of trading , as the city reacts to softbank 's takeover offer .", 
+                "they 're changing hands for \u00e2\u00a3 17.32 each , slightly over the softbank offer of \u00e2\u00a3 17 .", 
+                "that suggests investors expect the deal to go through , and there may be some speculation of a rival offer ( even though softbank are paying a 43 % premium ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                7, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c7f4ae4b073c22786cb11", 
+            "title": "uk government back arm takeover", 
+            "text": [
+                "britain 's new finance minister has decided that the takeover of arm holdings by softbank is a jolly good thing .", 
+                "philip hammond argues that the deal shows that the brexit vote has n't hurt britain 's place in the world , saying : britain has lost none of its allure to international investors .", 
+                "britain is open for business - and open to foreign investment .", 
+                "he 's tweeting the same message : philip hammond ( @ phammondmp ) decision by softbank to invest in @ twitterid shows uk has lost none of its allure to global investors - britain is open for business philip hammond ( @ phammondmp ) this would be largest ever asian investment into the uk & would double size of arm 's uk workforce.big vote of confidence in british business the deal is also a reminder that the slump in the pound makes uk assets more affordable to overseas investors .", 
+                "the yen has surged by almost a third against the pound over the last year , including a 12 % spike since the referendum .", 
+                "joshua mahony ( @ jmahony ig ) softbank 's purchase of arm largely facilitated by fx shifts , with gbpjpy falling around 30 % over the past 12 months however arm 's share price has also been boosted by the weak pound ( as it earns most of its revenues in foreign currencies ) ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                7, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-578c7b53e4b033b610b6e6b9", 
+            "title": "brexit vote drives business pessimism to record high", 
+            "text": [
+                "british firms are slashing their spending plans in the face of uncertainty following last month 's eu referendum vote .", 
+                "in a worrying signal , anxiety among uk bosses has hit a five year high , according to accountancy firm deloitte .", 
+                "its survey found that 82 % of chief financial officers from ftse 350 and large private companies are planning to cut capital spending in the next year .", 
+                "that 's the biggest amount since the survey began a decade ago , up from 34 percent in the first quarter .", 
+                "and 83 % are planning to rein in their hiring plans , in a blow to workers seeking new jobs .", 
+                "tim weber ( @ tim weber ) how brexit works : 82 % of top uk firms shelve spending plans after eu vote - deloitte alarmingly , businesses are more pessimistic than after the financial crisis in 2008 .", 
+                "ian stewart , deloitte 's chief economist , sums up the situation : perceptions of uncertainty have soared to levels last associated with the euro crisis five years ago .", 
+                "the spike in uncertainty has had a toxic effect on business sentiment , with optimism dropping to the lowest level since our survey started in 2007 - lower , even , than in the wake of the failure of lehman in late 2008 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                7, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-578c76eee4b08239dbab7bc3", 
+            "title": "the agenda : brexit , arm and turkey", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "there are three things on the agenda in the city today .", 
+                "firstly , the brexit vote , as companies continue to chew through the implications of last month 's eu referendum .", 
+                "second , investors are watching the situation in turkey closely after last weekend 's failed coup attempt .", 
+                "president erdo\u00e4\u009fan remains in power , and is now pledging to purge the turkish state of dissidents .", 
+                "but the sight of tanks on the streets may shake confidence in the country , which is already facing high inflation and a troubled tourism industry .", 
+                "analysts at rbc capital markets explain : following a turbulent weekend , markets are actually quite calm .", 
+                "the weekend 's main highlight was the failed attempt to overthrow the turkish government in a military coup d'etat and the subsequent mass detentions of military and judiciary personal .", 
+                "recep tayyip erdo\u00e4\u009fan mourns coup casualties and vows retribution read more and thirdly , we have some early morning takeover action .", 
+                "arm holdings , britain 's biggest technology company , is being taken over by japan 's softbank in a \u00e2\u00a3 24bn deal .", 
+                "encouragingly , softbank are promising to at least double the number of uk employees at arm , in what looks a massive bet on the internet of things [ the idea that every object will be linked to the web ] arm holdings to be sold to japan 's softbank for \u00e2\u00a3 24bn read more caroline hyde ( @ carolinehydetv ) watch shares of @ twitterid at open # softbank offers \u00e2\u00a3 24b = 45 % premium to current \u00e2\u00a3 16.7b market cap we 'll be tracking all the main developments through the day ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                7, 
+                18, 
+                6, 
+                46
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.38pm BST\n17:38\nMixed day for European markets but FTSE hits 11 month closing high\n", 
+                "block": "block-578d037ae4b055dc11d001b1"
+            }, 
+            {
+                "text": "\n\n2.45pm BST\n14:45\nWells Fargo buys City office block development for \u00c2\u00a3300m\n", 
+                "block": "block-578cdcf5e4b08239dbab7cc8"
+            }, 
+            {
+                "text": "\n\n11.26am BST\n11:26\nSoftBank CEO: UK government approve of ARM takeover\n", 
+                "block": "block-578cabe9e4b033b610b6e710"
+            }, 
+            {
+                "text": "\n\n11.08am BST\n11:08\nSocGen: Top London house prices could halve due to Brexit\n", 
+                "block": "block-578ca2b2e4b073c22786cb56"
+            }, 
+            {
+                "text": "\n\n10.25am BST\n10:25\nWeale speech: What the experts say\n", 
+                "block": "block-578c9f3fe4b033b610b6e6ec"
+            }, 
+            {
+                "text": "\n\n10.16am BST\n10:16\nWeale: Our incomes will be lower because of Brexit\n", 
+                "block": "block-578c9bf0e4b033b610b6e6e5"
+            }, 
+            {
+                "text": "\n\n8.09am BST\n08:09\nUK government back ARM takeover\n", 
+                "block": "block-578c7f4ae4b073c22786cb11"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "MPC member Martin Weale says Bank doesn't need to \u0080\u0098nurse' the markets by slashing borrowing costs next month.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live?page=with:block-578d037ae4b055dc11d001b1#block-578d037ae4b055dc11d001b1"
+                ], 
+                "text": "European markets mixed despite ARM deal but FTSE at 11 month high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live?page=with:block-578c9497e4b033b610b6e6d7#block-578c9497e4b033b610b6e6d7"
+                ], 
+                "text": "Weale argues against August rate cut.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live?page=with:block-578c9bf0e4b033b610b6e6e5#block-578c9bf0e4b033b610b6e6e5"
+                ], 
+                "text": "Warns that Brexit will make us poorer.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live?page=with:block-578c7b53e4b033b610b6e6b9#block-578c7b53e4b033b610b6e6b9"
+                ], 
+                "text": "Deloitte: UK gloom deeper than after Lehman Brothers collapse.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2016/jul/18/uk-economy-firms-slash-spending-financial-news-brexit-arm-holdings-softbank-live?page=with:block-578c7f4ae4b073c22786cb11#block-578c7f4ae4b073c22786cb11"
+                ], 
+                "text": "UK government backs ARM takeover.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

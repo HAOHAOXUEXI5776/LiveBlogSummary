@@ -1,0 +1,902 @@
+{
+    "blog_id": "864f145e29421fd466809e780203a9243b524882", 
+    "title": "BBC Local Live: Stoke & Staffordshire on Wednesday 8 July 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-stoke-staffordshire-33350304", 
+    "summary": [
+        "updates for wednesday 8 july 2015 .", 
+        "joe pugh , badly injured in the smiler rollercoaster crash at alton towers , says he does not blame the theme park .", 
+        "stoke-on-trent is named european city of sport ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33452697", 
+            "title": "good evening", 
+            "text": [
+                "local live will be back from 08:00 on thursday with the latest news , sport , travel and weather for stoke-on-trent , staffordshire and cheshire ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33454394", 
+            "title": "breakingbreaking news", 
+            "text": [
+                "police have named a 14-year-old girl and her mother who were killed in a five-car pile-up on a busy main road .", 
+                "kira elizabeth mcgrail and 53-year-old diane mcgrail died at the scene after the accident on the a5 at weston-under-lizard , in staffordshire , on monday afternoon .", 
+                "the pair were from the oakley area of market drayton in shropshire , according to staffordshire police ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33450643", 
+            "title": "'feather in the cap ' accolade", 
+            "text": [
+                "stoke-on-trent city council", 
+                ".", 
+                "@ stokecity boss mark hughes says it is a `` feather in the cap '' for stoke-on-trent to be named european # cityofsport16", 
+                "@ twitterid @ twitterid @ twitterid mark hughes smiling ?", 
+                "must be wind"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33450640", 
+            "title": "poisonous spider ?", 
+            "text": [
+                "a talke pits woman says she thinks she 's found a potentially poisonous spider in grapes from a local supermarket .", 
+                "abbie rigby says she 'd been enjoying the fruit from asda in tunstall when she spotted what she thinks is a poisonous spider .", 
+                "she believes it could be an african sac spider after finding out where the grapes were from ."
+            ], 
+            "author": [
+                "Tim Wedgwood", 
+                "Presenter, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33453294", 
+            "title": "newcastle police investigation", 
+            "text": [
+                "do you recognise anyone in these photos taken on 6 june in newcastle ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33450636", 
+            "title": "overnight forecast", 
+            "text": [
+                "looking ahead to tomorrow it will be a fine and dry day , with plenty of good sunny spells ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33446760", 
+            "title": "woman taken to hospital after canal fall", 
+            "text": [
+                "a woman in her 70s has been taken to hospital with a serious head injury after she fell into a canal she was operating in stone .", 
+                "paramedics say the woman has to be anaesthetised due to the nature of her injuries ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33452695", 
+            "title": "lane blocked on the m6", 
+            "text": [
+                "lane blocked on the m6"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33444057", 
+            "title": "'big role ' for dodds", 
+            "text": [
+                "port vale striker louis dodds ( has a big role to play for the team in the coming season , according to manager rob page .", 
+                "dodds has been a regular in the side since page took over but only managed to score four times last season .", 
+                "page says he was impressed with the impact that dodds had on the team ."
+            ], 
+            "author": [
+                "BBC Radio Stoke Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33448740", 
+            "title": "'terrifying ordeal '", 
+            "text": [
+                "a mother"
+            ], 
+            "author": [
+                "Uttoxeter Advertiser"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33448735", 
+            "title": "conan doyle 's george edalji letters on show", 
+            "text": [
+                "letters revealing arthur conan doyle 's", 
+                "the letters have never before been published and show the writer , who created sherlock holmes , corresponding with staffordshire police 's chief constable captain george anson .", 
+                "they concern the case of george edalji , who had been working as a solicitor in great wyrley and who was sent to prison in 1903 after being convicted of horse maiming .", 
+                "the case was the subject of the julian barnes novel arthur and george , which was recently adapted for itv starring martin clunes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33448742", 
+            "title": "chasedown accident", 
+            "text": [
+                "there 's been an accident on ogley hay road in chasetown at the hanney hay road junction and there 's also heavy traffic and a lane closed on the a38 northbound near alrewas , because of a broken down car ,", 
+                "traffic is slow on the a5 northbound in dordon at the m42 j10 junction ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33446762", 
+            "title": "illegal immigrants arrested on m6", 
+            "text": [
+                "two illegal immigrants have been arrested after they were seen walking on the hard shoulder of the m6 near stoke-on-trent earlier .", 
+                "the", 
+                "two illegal immigrants arrested after being found walking on the hard shoulder , m6 near j15 .", 
+                "fortunately for us they did n't have any dogs !", 
+                "@ twitterid you mean fortunately for your followers , we do n't have to suffer another `` paw '' joke", 
+                "@ twitterid they were n't completely barking then : ) )"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33445661", 
+            "title": "chaos in tamworth", 
+            "text": [
+                "drivers across"
+            ], 
+            "author": [
+                "Tamworth Herald"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33445793", 
+            "title": "seeks views of bloggers", 
+            "text": [
+                "it 's no secret that news and how , when and where people consume it has dramatically changed .", 
+                "in the past decade alone the choice and type of outlets have proliferated , with traditional media owners no longer always the go to choice for audiences .", 
+                "if , like me , you are in the business of local news , you will know that hyperlocal websites and bloggers are in part changing the face of this sector .", 
+                "but what does hyperlocal actually mean ?", 
+                "well , it can be as local as your street - or - as your village , town , or city ."
+            ], 
+            "author": [
+                "David Holdsworth", 
+                "Controller of English Regions"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33446757", 
+            "title": "afternoon forecast", 
+            "text": [
+                "what a difference a week makes - temperatures are down by 15c compared to last week .", 
+                "there 's a brisk northwestlerly breeze with a high of 17c ( 63f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33445789", 
+            "title": "elderly woman falls in canal", 
+            "text": [
+                "a woman in her 70s has been rushed to hospital after she fell 10 feet into the trent and mersey canal in north staffordshire this morning ."
+            ], 
+            "author": [
+                "The Sentinel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33444055", 
+            "title": "a38 crash victim named", 
+            "text": [
+                "a woman who died in a crash on the a38 on tuesday has been named by police .", 
+                "suk yin cheng of leominster drive , oakwood in derby , aged 20 , died on thursday 2 july between clay mills and stretton shortly after midnight .", 
+                "staffordshire police is appealing to anyone who saw a blue ford fiesta travelling along the a38 southbound ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33446774", 
+            "title": "'two paracetamol '", 
+            "text": [
+                "speaking about the immediate aftermath of the", 
+                "both his kneecaps were shattered in the collision .", 
+                "mr pugh , of barnsley , south yorkshire , told", 
+                "medics told him he would always struggle with stairs as a result of his injuries , he said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "14:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33446770", 
+            "title": "tamworth road works", 
+            "text": [
+                "it looks like", 
+                "tamworth council", 
+                "to which staffordshire county council", 
+                "to everyone tweeting us about roadworks , we appreciate your frustration but roads are done by @ twitterid and @ twitterid not tbc .", 
+                ".", 
+                "@ tamworthcouncil we have been informed that the crews have been called off and finishing of the works will be re-scheduled .", 
+                "apologies", 
+                "to everyone tweeting us about roadworks , we appreciate your frustration but roads are done by @ twitterid and @ twitterid not tbc .", 
+                ".", 
+                "@ tamworthcouncil we have been informed that the crews have been called off and finishing of the works will be re-scheduled .", 
+                "apologies"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33440238", 
+            "title": "'achieve great things '", 
+            "text": [
+                "i went along to stoke city 's training ground yesterday where it was announced stoke-on-trent is to be european city of sport for the uk in 2016 .", 
+                "council figures and the organisation that awards the title were there , as well as plenty of young sportsmen and women that it 's hoped this title will inspire to achieve great things ."
+            ], 
+            "author": [
+                "James Bovill", 
+                "Journalist, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33442704", 
+            "title": "wildlife trust to open charity shop", 
+            "text": [
+                "the first ever charity shop for", 
+                "# staffordshirehour our new leek charity shop opens on wednesday ( 15th july ) at 9am !", 
+                "it 's situated in derby street !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33442702", 
+            "title": "year of spies", 
+            "text": [
+                "a stoke-on-trent film maker is hoping his latest venture will help him achieve his ambition of directing a james bond film .", 
+                "chris stone from burslem has created a web series called", 
+                "the programmes are themed around 12 different secret agents filmed across a whole year .", 
+                "with little budget chris has created some movie magic by using local areas as film sets ."
+            ], 
+            "author": [
+                "Phil Bowers", 
+                "Reporter, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33446754", 
+            "title": "award to raising sporting profile", 
+            "text": [
+                "one of the people who awarded stoke-on-trent the title of european city of sport for 2016 , has been explaining how the area will benefit .", 
+                "judges were impressed by the city 's sports facilities , passion for sport and plans to put health at the heart of the city 's regeneration .", 
+                "john swanson says the award will help raise the profile of sport in the city ."
+            ], 
+            "author": [
+                "Lee Thomas", 
+                "Newsreader, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439749", 
+            "title": "burton albion yet to ban selfie sticks", 
+            "text": [
+                "football fans are"
+            ], 
+            "author": [
+                "Burton Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33445666", 
+            "title": "rail disruption continues", 
+            "text": [
+                "the broken down train between liverpool lime street and crewe is still causing delays of up to 20 minutes to services between liverpool lime street / warrington bank quay and crewe .", 
+                "the"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33445664", 
+            "title": "stationary traffic in tamworth", 
+            "text": [
+                "there 's stationary traffic on bolebridge street in tamworth town centre at old egg island and slow traffic on the b5074 in rease heath which is closed in both directions between reaseheath roundabout and the reaseheath college junction , because of a fallen tree ,", 
+                "the a513 rugeley road in armitage partially blocked near the rectory lane junction , because of an accident and there 's slow traffic on the a5 northbound in tamworth at the m42 j10 junction ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "12:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33444064", 
+            "title": "leah 'doing really well '", 
+            "text": [
+                "joe pugh told itv 's this morning his girlfriend leah washington ( `` is doing really well '' despite still being treated in hospital after", 
+                "joe , 18 , was discharged from hospital on 23 june .", 
+                "he had shattered both knee caps and broke two fingers .", 
+                "he also vowed to return to university in september and said he was told by doctors he will now struggle to climb stairs and kneel down but added it would not hold him back ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33444058", 
+            "title": "'never ride a rollercoaster again '", 
+            "text": [
+                "the 18-year-old from barnsley was with his girlfriend leah washington , 17 , when the accident happened on 2 june .", 
+                "when asked by", 
+                "`` obviously when health and safety checks get released and we find out what actually happened i might feel a different emotion but until then i do n't feel angry . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33444060", 
+            "title": "port vale friendly fixtures", 
+            "text": [
+                "vale have confirmed that they 'll host spanish top flight side getafe in a pre-season friendly .", 
+                "the match will take place at vale park on saturday 25 july , with a 15:00 kick off ."
+            ], 
+            "author": [
+                "Lee Blakeman", 
+                "BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "12:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33442700", 
+            "title": "criminal behaviour order", 
+            "text": [
+                "stoke city centre police"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439447", 
+            "title": "welfare cuts to hit stoke", 
+            "text": [
+                "there are concerns welfare cuts will see more stoke-on-trent families fall into debt .", 
+                "chief executive of stoke-on-trent citizens advice bureau , simon harris , says : `` the question really is , are the poorest people in cities like stoke on trent the people who should really be paying the highest price for the problems that have actually been the making of other people . ''"
+            ], 
+            "author": [
+                "BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "11:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33442845", 
+            "title": "broken down train", 
+            "text": [
+                "a broken down train between liverpool lime street and crewe is causing delays of up to 40 minutes to trains between liverpool lime street / warrington bank quay and crewe , the", 
+                "there is no firm estimate yet of how long disruption will last but it is likely to continue until at least 11:30 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "11:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33440243", 
+            "title": "latest headlines", 
+            "text": [
+                "the top stories in the newsroom at the moment include :"
+            ], 
+            "author": [
+                "Stephanie Barnard", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33442843", 
+            "title": "accident in armitage", 
+            "text": [
+                "there 's been an accident on the a513 rugeley road in armitage near the rectory lane junction and there 's queuing traffic on a52 werrington road in both directions in bucknall , stoke-on-trent , at the marychurch road junction , because of temporary traffic lights ,", 
+                "also , traffic is slow on the a5 northbound in tamworth at the m42 j10 junction ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "10:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439745", 
+            "title": "stoke 's 'biggest ever ' christmas market planned", 
+            "text": [
+                "shoppers and families can look forward to a magical christmas in the city centre complete with a"
+            ], 
+            "author": [
+                "The Sentinel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33442840", 
+            "title": "'string of attacks '", 
+            "text": [
+                "a 21-year-old man has"
+            ], 
+            "author": [
+                "Burton Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439531", 
+            "title": "m6 toll drivers face disruption", 
+            "text": [
+                "motorists planning on using the m6 toll are"
+            ], 
+            "author": [
+                "Lichfield Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33440242", 
+            "title": "king signing 'no brainer '", 
+            "text": [
+                "crewe manager steve davis believes new signing adam king ( is good enough to compete for a starting place .", 
+                "the midfielder has joined the club on loan from swansea until the start of january .", 
+                "davis says `` it was a no brainer '' to sign the 19-year-old .", 
+                "he said : `` he 's a good footballer - has a tremendous amount of energy - great attitude and hungry to show people what he can do . ''"
+            ], 
+            "author": [
+                "BBC Radio Stoke Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439529", 
+            "title": "burntwood 'treated as poor relation '", 
+            "text": [
+                "a burntwood councillor says the town is"
+            ], 
+            "author": [
+                "Lichfield Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33440819", 
+            "title": "sue davey thanksgiving service", 
+            "text": [
+                "a church service of thanksgiving is to be held for sue davey , killed in a gun attack in tunisia , on 17 july .", 
+                "members of the public are welcome to attend the service at st editha 's in her home town of tamworth .", 
+                "her son conor fulford , and his sisters rosy and chloe lea fulford , published the arrangements on facebook and twitter , thanking people for their messages of support .", 
+                "ms davey was killed"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439527", 
+            "title": "crash victim 's family praise helpers", 
+            "text": [
+                "the family of a penkridge man who died after being seriously injured in a crash on the m6 has"
+            ], 
+            "author": [
+                "Staffordshire Newsletter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33440235", 
+            "title": "28 % adults obese in stoke", 
+            "text": [
+                "this title is a big accolade for the city , and the city council wants to use it to improve people 's fitness levels .", 
+                "an estimated 28 % adults in the city are obese and the authorities are trying to encourage more people to exercise regularly .", 
+                "stoke-on-trent gets the title alongside bilbao in spain and bordeaux in france .", 
+                "there 's no extra money with this award , but previous winners have attracted grants from the european union to hold events ."
+            ], 
+            "author": [
+                "Terry Goodwin", 
+                "News Editor, BBC Radio Stoke"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "09:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439525", 
+            "title": "man dies in house fire", 
+            "text": [
+                "a"
+            ], 
+            "author": [
+                "Burton Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439450", 
+            "title": "'no money ' for european city of sport title", 
+            "text": [
+                "a series of events are being planned for next year to celebrate stoke-on-trent being awarded european city of sport 2016 .", 
+                "the aim of the title is to get more people playing sport , and ultimately tackling obesity , the city council says .", 
+                "the vice president of", 
+                "john swanson says though no additional money will be given for the accolade the council is able to apply for eu funding ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439523", 
+            "title": "travellers move on to playing fields", 
+            "text": [
+                "travellers have angered many residents after"
+            ], 
+            "author": [
+                "The Sentinel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439619", 
+            "title": "on the roads", 
+            "text": [
+                "there 's delays on the a449 stourbridge road southbound in wombourne , between the beggars bush lane junction and the school road junction , because of a broken down van and also on the a52 werrington road in both directions in bucknall , stoke-on-trent at the marychurch road junction , because of temporary traffic lights ,", 
+                "there 's also slow traffic on the a5 northbound in tamworth at the m42 j10 junction and queuing traffic on the m6 southbound between j10a m54 and j8 m5 ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439444", 
+            "title": "stoke 'european city of sport '", 
+            "text": [
+                "the title was handed out by aces europe , a not-for-profit group based in brussels .", 
+                "the city council said the title was won with the support of stoke 's two major football clubs - stoke city and port vale - as well as other sporting bodies and its university ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_33439747", 
+            "title": "accident in burslem", 
+            "text": [
+                "an accident and recovery work is"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33439442", 
+            "title": "brightening up later", 
+            "text": [
+                "a mostly cloudy day for all , though there", 
+                "there is a chance of a shower , though most should see a dry day .", 
+                "cooler than of late with a blustery northerly breeze with a high of 17c ( 63f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_33435286", 
+            "title": "good morning", 
+            "text": [
+                "i 'll be bringing you the latest news , sport , weather , travel and more from across stoke-on-trent , staffordshire and cheshire .", 
+                "if there 's something happening in your local area which you think we should be covering please get in touch on"
+            ], 
+            "author": [
+                "Stephanie Barnard", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-stoke-staffordshire", 
+    "quality": "high"
+}

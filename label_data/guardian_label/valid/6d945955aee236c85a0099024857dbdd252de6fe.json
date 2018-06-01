@@ -1,0 +1,714 @@
+{
+    "blog_id": "6d945955aee236c85a0099024857dbdd252de6fe", 
+    "title": "UK construction growth disappoints while FTSE 100 slips despite positive Next update - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2018/jan/03/ftse-100-expected-to-open-flat-ahead-of-uk-construction-figures-business-live", 
+    "summary": [
+        "wall street opens higher .", 
+        "uk construction growth weaker than expected .", 
+        "german jobless total falls by more than expected .", 
+        "bitcoin back above $ 15,000", 
+        "european markets open higher .", 
+        "agenda : uk construction and german unemployment in the spotlight ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4ce3cae4b05efedfbd6e85", 
+            "title": "closing summary", 
+            "text": [
+                "after tuesday 's disappointing uk manufacturing survey , the construction data for december was also underwhelming .", 
+                "the ihs/markit construction pmi saw a slowdown in growth for the first time since september .", 
+                "all eyes will now be on the uk services figures due out on thursday to get a clear snapshot of how the country 's economy performed in the final month of 2017 .", 
+                "earlier there was positive news from germany , with the jobless rate at a record low of 5.5 % .", 
+                "better than expected christmas trading from next lifted the retailers ' shares and gave investors hope for the whole sector 's festive performance .", 
+                "but the rise in next shares was not enough to lift the uk market out of the post-holiday doldrums , with the ftse 100 slipping back and forth from postive to negative .", 
+                "the index is currently up 0.13 % but european markets have turned in a better performance and wall street has opened higher .", 
+                "on that note , it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                14, 
+                34
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4ce92be4b01254e1d21962", 
+            "title": "wall street opens higher", 
+            "text": [
+                "the record breaking run on wall street continues , at least as far as the s & p 500 and nasdaq composite are concerned .", 
+                "the s & p is up 0.11 % and nasdaq 0.15 % better at the open , while the dow jones industrial average is 0.02 % higher in early trading ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                14, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cd5a3e4b0379a474776ec", 
+            "title": "", 
+            "text": [
+                "the pattern of a rise in european markets and a slight dip in the ftse 100 continues .", 
+                "markets appear to have shrugged off any worries about the new regulatory regime - mifid ii - which comes into effect today .", 
+                "mike van dulken and henry croft at accendo markets said : global equities are generally positive as investors calmly digest the impact of the vast mifid ii regulation taking effect across the globe , while trading volumes gradually return following the new year .", 
+                "german stocks are outperforming as the us dollar rebounds from its lows , denting euro strength to aid the region 's exporting names , while the flat ftse 100 comes as a result of gbp/usd weakness offsetting gbp/eur strength .", 
+                "reuters has a report on the new rules : the rollout of new rules on wednesday that aim to make european union financial markets safer and more transparent has been glitch-free so far , though disruptions can not be ruled out , the eu 's markets watchdog said .", 
+                "the new regime shines a spotlight on the inner workings of stock , bond , commodity and derivatives markets by forcing banks , asset managers and traders to provide detailed information on trillions of euros in transactions .", 
+                "big banks spent an estimated $ 2 billion collectively last year to upgrade it systems to prepare .", 
+                "what we can see for our part , is no glitches so far , '' steven maijoor , chairman of the european securities and markets authority ( esma ) , told reporters .", 
+                "it will be the first time we have a complete overview of all financial instruments in the eu . ''", 
+                "european stock and bond volumes were light in early trading .", 
+                "so far [ there is ] no difference compared to a regular day , '' said markus huber , a trader at city of london markets .", 
+                "volume is n't expected to be massive or back to normal either due to not everybody being back from holidays , and not much going on in regard to major news or economic data . ''", 
+                "the new rules , known as markets in financial instruments directive ii ( mifid ii ) , were delayed by a year to give banks , asset managers and exchanges more time to get ready market nerves were eased by esma announcing measures just before christmas to give companies more time to comply with some key requirements ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                13, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4ccfe2e4b0379a474776ad", 
+            "title": "", 
+            "text": [
+                "oil is edging higher again , helped by the output caps from opec and russia and concerns about the protests in iran .", 
+                "brent crude is currently up 0.63 % to $ 66.99 a barrel , having earlier climbed as high as $ 67.08 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                12, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cc5ede4b01254e1d21786", 
+            "title": "", 
+            "text": [
+                "here 's our story on the uk construction figures , from richard partington : britain 's construction industry is its least optimistic for five years amid fears over brexit and an economic slowdown , according to a survey .", 
+                "despite some pockets of strength as building firms won the most work for several months in december , the balance of companies expecting a rise in output levels over the next 12 months was the weakest recorded since mid-2013 , according to the markit/cips uk construction pmi .", 
+                "the gauge of sentiment among executives at 170 construction firms fell to 52.2 in december from 53.1 in november - worse than forecast by city economists - although still remained above the 50 level indicating expansion .", 
+                "the dip in the pmi reflected falling volumes of commercial work , offset by growing numbers of housebuilding projects .", 
+                "the prospect of greater workloads led firms to take on staff and buy materials at the fastest pace in two years over december .", 
+                "strength in the housebuilding sector is likely to please government ministers trying to fix the country 's housing crisis , after the conservatives pledged to build 300,000 new homes a year in the budget .", 
+                "philip hammond , the chancellor , also ploughed an additional \u00a3 10bn into the help-to-buy loan scheme and cut stamp duty for most first-time buyers .", 
+                "samuel tombs , chief uk economist at the consultancy pantheon macroeconomics said support from the government should keep housebuilding motoring along '' in 2018 , although warned construction output overall was likely to flatline .", 
+                "the full report is here : uk construction industry optimism slumps to five-year low , survey reveals read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                12, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4cc387e4b01254e1d21757", 
+            "title": "", 
+            "text": [
+                "and here 's more from ihs markit 's economist on the construction data : chris williamson ( @ williamsonchris ) pmi survey shows a worrying trend of uk commercial # construction falling for a sixth month running in december , illustrating how uncertainty is curbing business investment .", 
+                "read more at"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                11, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cc1ffe4b01254e1d2173e", 
+            "title": "", 
+            "text": [
+                "connor campbell , financial analyst at spreadex , said : a construction sector slip did little for either the ftse or pound this wednesday morning .", 
+                "like tuesday 's manufacturing figure , the most recent construction pmi fell short of expectations , coming in at 52.2 against the 52.8 forecast and the 53.1 seen in november .", 
+                "while neither of december 's pmis have been disastrous , there 's nevertheless a slight whiff of disappointment that the robust levels seen in november could n't last a bit longer .", 
+                "all this helped edge cable into the red , though even with a 0.2 % decline the pound is still circling a 3 and a half month high against the dollar ; against the euro it fared better , rising 0.1 % as its rival gave back some of its recent growth ( the euro 's also down 0.3 % against the greenback ) .", 
+                "the ftse , meanwhile , strained to keep the right side of the red/green divide , the index struggling to shake its sluggish start to 2018 despite the newfound - if fragile - sense of optimism in the retail sector following next 's surprisingly solid christmas figures .", 
+                "as for the eurozone indices , with the euro taking a breather from the vertiginous climb seen in the last few weeks the dax and cac attempted to right yesterday 's wrongs .", 
+                "both the german and french indices rose 0.6 % , allowing them to cross 12900 and 5300 respectively ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                11, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cbc4de4b0379a47477594", 
+            "title": "", 
+            "text": [
+                "the pound is holding up fairly well despite the weaker than expected uk construction data , with sterling down 0.18 % against the dollar at $ 1.3562 .", 
+                "but with underwhelming manufacturing figures on tuesday following by these construction numbers , all eyes will be on the service sector data on thursday for more insight into how the uk economy ended the year .", 
+                "william anderson jones , head of uk corporate dealing at rationalfx , said : despite forecasts expecting an unchanged figure of 53.1 , construction pmi underwhelmed analysts after falling to 52.2 on the back of weaker housebuilding and a decline in commercial building .", 
+                "the pound was holding near yesterday 's highs against a weak dollar in the early hours of trading this morning as investors awaited the data , but the currency appears to have been able to shrug off the weak figures .", 
+                "following yesterday 's unexpected dip in manufacturing pmi and today 's weaker construction data , investors will be looking for signs to help strengthen confidence in the uk 's economic outlook .", 
+                "as one of the strongest indicators of the health of the economy at the end of last year , analysts will be directing their attention to the release of services pmi later this week .", 
+                "the markets could see a more notable reaction from sterling depending on the strength or weakness of the services sector , and following less than promising signs from data released so far , investors may be bracing themselves for some volatility should figures point to brexit-based pressure on the economy ahead of a crucial year for negotiations ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                11, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cb01fe4b05efedfbd6c23", 
+            "title": "", 
+            "text": [
+                "back with the construction pmis , balraj sroya , sales trader at foenix partners , said : after a subpar pmi figure from the manufacturing industry yesterday that slipped from four-year highs , today 's construction pmi print followed suit , missing forecasts coming out at 52.2 .", 
+                "while both sets of pmis were above the crucial 50 level showing expansion in the sector , there was still doubt that stellar figures would be reached once again .", 
+                "today 's figure is weighed down by the moderate downturn in commercial projects combined with stagnated expansion in the home building sector .", 
+                "however , investors are still forecasting an increase in construction activity throughout 2018 , which fuels views that the uk economy saw an unexpected slowdown at the end of 2017 and is expected to get back on track shortly .", 
+                "tomorrow services pmi is being released , which is the largest sector in the uk and investors along with the bank of england will be looking closely to see if this is a turning point for the uk economy and whether or not 2018 will be as prosperous as many think ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                10, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4cad35e4b05efedfbd6c0d", 
+            "title": "", 
+            "text": [
+                "the ftse 100 has drifted lower after its initial gains thanks to uk retailers , and is now off 0.01 % .", 
+                "joshua mahony , market analyst at ig , said : the ftse has continued to flounder on the second trading day of 2018 , even though the us , asian , and mainland european markets have pushed higher .", 
+                "the disappointing uk construction pmi forms the second disappointing uk pmi survey is as many days , with the pound drifting marginally lower as a result .", 
+                "unfortunately , the weaker pound has done little to help the ftse , which has been dragged lower thanks to yet another poor showing from the miners thanks to ripples in the recent gold and copper resurgence story .", 
+                "the uk services pmi reading is due on thursday morning , and a third disappointing survey would provide yet another reason to sell the pound ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                10, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4ca9d6e4b0379a47477524", 
+            "title": "", 
+            "text": [
+                "more reaction to the uk construction data .", 
+                "here is investec 's chief economist philip shaw : philip shaw ( @ philipshaw8 ) uk construction pmi stayed above 50 in december , but note that official ons data show the sector in technical recession , having posted quarterly declines in both q2 & q3 last year .", 
+                "october 's figures were very soft as well .", 
+                "max jones , global corporates relationship director for construction at lloyds bank commercial banking , said : a downbeat pmi in december capped off a difficult year for construction firms .", 
+                "the great unknown is what this year holds and how the economy will react to the next phase of the brexit negotiations .", 
+                "in the second half of last year , many construction businesses focused on shoring up their balance sheets , putting them in the best possible position to invest and ride out any turbulence .", 
+                "looking ahead , there are several trends we expect to see play out in 2018 , some a continuation of developments in recent years .", 
+                "some firms will invest in tech and automation , helping a sector that is still quite old-fashioned to transition to a more productive future .", 
+                "meanwhile , contractors will continue to focus on developing specialisms with an increasing reliance on fewer , bigger-spending clients in key sub-sectors .", 
+                "another expectation is that we will see businesses make smaller , targeted acquisitions to fill in gaps in their expertise .", 
+                "but it is unlikely that a mega-merger is on the cards because of the inherent risk in combining balance sheets and order books ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                10, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4ca578e4b01254e1d21664", 
+            "title": "", 
+            "text": [
+                "tim moore , associate director at ihs markit and author of the ihs markit/cips construction pmi said : the uk construction sector achieved a moderate expansion of business activity at the end of 2017 , although the recovery remained uneven and slowed overall since november .", 
+                "construction companies indicated that another strong contribution from house building helped to offset subdued civil engineering activity and reduced volumes of commercial work .", 
+                "total new orders up at the fastest pace for seven months in december , which provides a positive signal for construction workloads in the short-term .", 
+                "resilient demand and forthcoming project starts also led to greater job creation and the strongest increase in input buying for two years .", 
+                "however , construction firms indicated that longer- term business confidence is still relatively subdued , largely reflecting concerns about the domestic economic outlook .", 
+                "exactly 37 % of the survey panel forecast a rise in construction activity over the course of 2018 , while around 11 % anticipate a reduction .", 
+                "as a result , the balance of uk construction companies expecting growth in the year ahead remains among the weakest recorded by the survey since mid-2013 .", 
+                "markit"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                9, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4ca489e4b05efedfbd6be1", 
+            "title": "", 
+            "text": [
+                "here 's ihs markit 's chief business economist : chris williamson ( @ williamsonchris ) uk # construction # pmi at 52.2 in dec , down from 53.1 in nov .", 
+                "suggests building sector pulled out of downturn in q4 but still struggling to grow .", 
+                "chris williamson ( @ williamsonchris ) december uk # construction # pmi shows builders reliant on house building as civil engineering stagnates and commercial construction declines .", 
+                "chris williamson ( @ williamsonchris ) downturn in commercial # construction in recent months points to falling business investment in fixed assets , linked in turn to historically low business confidence & heightened uncertainty , according to december # pmi"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4ca2b3e4b0379a474774f1", 
+            "title": "uk construction growth weaker than expected", 
+            "text": [
+                "growth in britain 's construction sector slowed down last month after forecasts of an unchanged figure .", 
+                "the december construction pmi came in at 52.2 , down from a five month high of 53.1 and the first slowdown since september .", 
+                "weaker growth in housebuilding and a fall in commercial building combined with slower infrastructure work to bring about the decline .", 
+                "but the new orders index rose from 52.9 in november to 53.1 , according to ihs markit , the highest since may 2017 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                9, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4c9b9ee4b05efedfbd6b9b", 
+            "title": "german jobless total falls by more than expected", 
+            "text": [
+                "germany 's unemployment figures have beaten analysts ' forecasts .", 
+                "the seasonally adjusted jobless total fell by 29,000 to 2.44m , compared to estimates of a 12,000 decrease .", 
+                "the jobless rate was unchanged at 5.5 % after november 's reading was revised down from 5.6 % .", 
+                "trading economics ( @ teconomics ) # germany # unemployment change at -29k lemasabachthani ( @ lemasabachthani ) german unemployment rate drops to record-low 5.5 percent"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                9, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4c9226e4b01254e1d215f8", 
+            "title": "", 
+            "text": [
+                "here is our report on the next figures .", 
+                "sarah butler writes : next has raised hopes for the retail sector by revealing a better than expected christmas , with strong online sales offsetting a fall at its high street stores .", 
+                "in a trading statement , the clothing and home chain said sales rose 1.5 % in the 54 days to 24 december .", 
+                "a fall of 0.3 % had been forecast .", 
+                "shares in next , the first major retailer to report on festive trading , jumped almost 10 % in early trading .", 
+                "marks & spencer and primark-owner associated british foods were also up , rising about 3 % , on hopes that they may also have fared better than expected .", 
+                "the retailer upgraded its profit expectations for the year to january by \u00a3 8m , to \u00a3 725m , after sales benefited from the colder weather in the run up to christmas .", 
+                "profit guidance is now between \u00a3 718m and \u00a3 732m and performance will depend on the clearance sales in january .", 
+                "next said that all its growth came online , where sales rose 13.6 % .", 
+                "the chain 's high street stores suffered a 6.1 % slump .", 
+                "that pattern is expected to be repeated across the retail sector as companies including marks & spencer , debenhams , john lewis and house of fraser next week reveal how they fared over the most important part of the trading year .", 
+                "the full story is here : next results signal a good christmas for uk retailers read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                8, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4c9008e4b01254e1d215f5", 
+            "title": "bitcoin back above $ 15,000", 
+            "text": [
+                "now for a quick look at our favourite cryptocurrency .", 
+                "bitcoin is currently up nearly 3 % at $ 15,083 , continuing its new year rebound .", 
+                "naeem aslam at thinkmarkets said : bitcoin has bounced back up after a wall street journal report showed that a venture firm ( which has a track record on betting on big firms like airbnb and spacex ) has been accumulating bitcoin and the fund may be holding approximately $ 20million worth of bitcoin .", 
+                "bitcoin has crossed above the 15k mark , an important resistance level broken , and this opens the floor for bitcoin to move towards the 20k mark ( as long as it stays above 15k ) ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                8, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4c8e68e4b0379a47477475", 
+            "title": "european markets open higher", 
+            "text": [
+                "helped by next 's better than expected christmas update , the ftse 100 has opened higher , while european markets are also making a positive start .", 
+                "next is up nearly 10 % , while primark owner associated british foods and marks and spencer are both around 3 % better .", 
+                "the ftse 100 is currently up 0.11 % while germany 's dax has opened 0.4 % higher ahead of the country 's employment data and france 's cac has climbed 0.2 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                8, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4c8d83e4b01254e1d215f0", 
+            "title": "", 
+            "text": [
+                "here 's alistair davies of investec on next : expect some share price relief that christmas was n't as bad as expected and no further downgrades .", 
+                "however , we would caution against reading too much across to other retail stocks - the reality is that even though next 's christmas numbers are better than expected , the company has still had a tough christmas ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                8, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4c89f3e4b0379a47477465", 
+            "title": "", 
+            "text": [
+                "more on next .", 
+                "the retailer has raised its full year profit forecast for 2018 after better than expected sales in the run-up to christmas , with cold weather boosting demand for winter clothing .", 
+                "it now expects full year profits of \u00a3 725m , up from its previous guidance of \u00a3 717m but below the \u00a3 790m it made the previous year .", 
+                "and it did warn of continuing challenges , not least from subdued consumer demand thanks to the squeeze on real incomes .", 
+                "the company 's shares are expected to open higher after the update .", 
+                "but analysts at beaufort securities were unimpressed , issuing a sell note following the update and pointing out a profit downgrade for 2019 : next is an interesting beast , very cash generative , decent balance sheet ( net debt of circa \u00a3 950m ) , growing on line sales but declining sales in its shops .", 
+                "this morning 's sales news is positive although nothing like a reversal of next 's long term high street decline .", 
+                "and the outlook statement is less positive , with fy19 profit guidance of \u00a3 705m ( down 3 % on fy18 to jan ) and free cash ( for divis and share buybacks ) of \u00a3 525m versus a market cap of \u00a3 6.57bn .", 
+                "next in bristol cardy/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                7, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4c8888e4b01254e1d215df", 
+            "title": "", 
+            "text": [
+                "here are the opening calls for european markets from ig : igsquawk ( @ igsquawk ) european opening calls : # ftse 7646 -0.02 % # dax 12906 +0.27 % # cac 5295 +0.11 % # mib 21895 +0.23 % # ibex 10090 +0.10 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                7, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a4c8367e4b01254e1d215c1", 
+            "title": "agenda : uk construction and german unemployment in the spotlight", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "after tuesday 's unspectacular uk manufacturing data - britain 's factories saw a slowdown in december but the performance was described as solid '' - comes the latest snapshot of the country 's construction industry .", 
+                "analysts are expecting an unchanged figure from november 's 53.1 .", 
+                "also coming up are german unemployment figures which are forecast to show an improvement from november .", 
+                "elsewhere the oil price has slipped back after the iran protests pushed brent to a peak of $ 67 a barrel on tuesday , its highest level since may 2015 .", 
+                "and european markets are expected to open higher in the main after wall street hit new records , although the ftse 100 is forecast to be fairly flat .", 
+                "the strength of the pound against the dollar is likely to undermine the leading uk index , packed as it is with overseas earners who benefit from a weaker sterling .", 
+                "there are also some positive trading figures from next for the christmas period , the first indicator of how the high street performed over the festive period .", 
+                "the agenda : 8.55 gmt german unemployment 9.30 gmt uk construction pmis"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2018, 
+                1, 
+                3, 
+                7, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.32pm GMT\n14:32\nWall Street opens higher\n", 
+                "block": "block-5a4ce92be4b01254e1d21962"
+            }, 
+            {
+                "text": "\n\n9.34am GMT\n09:34\nUK construction growth weaker than expected\n", 
+                "block": "block-5a4ca2b3e4b0379a474774f1"
+            }, 
+            {
+                "text": "\n\n9.03am GMT\n09:03\nGerman jobless total falls by more than expected\n", 
+                "block": "block-5a4c9b9ee4b05efedfbd6b9b"
+            }, 
+            {
+                "text": "\n\n8.13am GMT\n08:13\nBitcoin back above $15,000\n", 
+                "block": "block-5a4c9008e4b01254e1d215f5"
+            }, 
+            {
+                "text": "\n\n8.08am GMT\n08:08\nEuropean markets open higher\n", 
+                "block": "block-5a4c8e68e4b0379a47477475"
+            }, 
+            {
+                "text": "\n\n7.35am GMT\n07:35\nAgenda: UK construction and German unemployment in the spotlight\n", 
+                "block": "block-5a4c8367e4b01254e1d215c1"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "UK building figures show first slowdown since September, while German jobs data beats forecasts and Next Christmas trading is better than expected.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

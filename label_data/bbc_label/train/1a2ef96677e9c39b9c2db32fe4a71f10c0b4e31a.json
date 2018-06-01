@@ -1,0 +1,478 @@
+{
+    "blog_id": "1a2ef96677e9c39b9c2db32fe4a71f10c0b4e31a", 
+    "title": "Oxfordshire Live: Monday 8 August - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-36915097", 
+    "summary": [
+        "fears for man , 64 , missing and thought to be in oxfordshire .", 
+        "waits for child mental health care are 'real problem ' .", 
+        "stuck boy , 10 , rescued from seaside mud .", 
+        "injury worries for oxford united after league 1 opener .", 
+        "u 's end pursuit of motherwell winger marvin johnson ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8b519e4b0fc69b7dcf6ee", 
+            "title": "that 's all for today", 
+            "text": [
+                "thanks for joining us for all of the news from across oxfordshire today .", 
+                "we 'll be back at 08:00 tomorrow morning , so be sure to join us ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8a92fe4b0fc4d8dbbcffc", 
+            "title": "rowing back in time", 
+            "text": [
+                "while the team gb rowers of today look to win olympic gold in rio , here 's how the rowers during eights week in oxford spent their time in the 1920s ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a88e55e4b05862698ccf3d", 
+            "title": "80 countries , 80 anthems", 
+            "text": [
+                "here 's a world tour with a difference .", 
+                "capri everitt is 11 , from vancouver in canada , and is raising money for a children 's charity by visiting 80 countries and singing their national anthems in the native language .", 
+                "she popped by to visit us in oxford to tell us what it 's all about , and show off her vocal skills"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8abc9e4b033a4e3130c81", 
+            "title": "man admits raping two-year-old girl", 
+            "text": [
+                "a man has admitted raping a two-year-old girl and dozens of other sexual offences .", 
+                "daniel kilbee , 34 , of bradstocks way , sutton courtenay , was convicted of 31 sex crimes against five victims between 1997 and 2015 .", 
+                "during two trials in july and august he was found guilty of sexual assault and indecency with a child .", 
+                "he pleaded guilty to further crimes including rape and making indecent images of children ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a894a1e4b0f02e1529df7a", 
+            "title": "oxford flood project work begins", 
+            "text": [
+                "more than 50 boreholes are being dug along the proposed course of the oxford flood alleviation channel over the next five weeks .", 
+                "ground investigations are starting today after the preferred route was announced earlier this year .", 
+                "flooding caused widespread disruption in february 2014 with homes and major city routes cut off for days - some train services also had to be stopped .", 
+                "the environment agency said the planned channel would run from north of botley road to munday 's bridge , kennington ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8617ce4b03932bad7eaf3", 
+            "title": "appeal for sightings of man , 6ft 8in tall", 
+            "text": [
+                "police are appealing for sightings of a man measuring at least 6ft 8in tall , who has gone missing in banbury .", 
+                "john bolton , also known as shane bolton , was reported missing from his home on thursday .", 
+                "he is white , 46-years-old , about 6ft 8 or 9ins and of stocky build .", 
+                "he has access to a grey citroen c5 car with the registration gn52 fja ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a8a027e4b00a25e2c5df2d", 
+            "title": "overturned car causes delays", 
+            "text": [
+                "# m40 : overturned car london bound between j4 , # highwycombe and j3 , # loudwater , because of recovery work .", 
+                "dealys of 20+mins"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a8968be4b033a4e3130c68", 
+            "title": "people should be paid to recycle plastic bottles , says bampton-based cpre president", 
+            "text": [
+                "shops should pay customers 10p for every plastic bottle they bring back for recycling , the president of the campaign to protect rural england has said ."
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a87a22e4b0b1eee8b3bebf", 
+            "title": "traffic plan to be reviewed after countryfile live 'chaos '", 
+            "text": [
+                "traffic management will be reviewed ahead of next year 's countryfile live - if it happens .", 
+                "drivers complained of `` traffic chaos '' and hour-long delays at the bbc event on thursday and friday .", 
+                "the chief executive of blenheim palace , john hoy , says he does n't want the weekend to be remembered for the wrong reasons .", 
+                "inevitably if you have large volumes of people going to anything it is going to take time to get there and possibly time to get out ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a8722de4b0c061381e582a", 
+            "title": "buses replacing trains between oxford and didcot", 
+            "text": [
+                "buses are replacing trains between oxford and didcot parkway until 14 august -", 
+                "@ twitterid why do you illustrate this with a of snow when it 's august ?", 
+                "hi louise .", 
+                "it 's a photo of water to represent the flood prevention works being undertaken by network rail at hinksey .", 
+                "grant", 
+                "@ twitterid sorry , my eyes are pretty good , that is clearly snow !", 
+                "when was water white and settled ?", 
+                "it 's a photo from network rail taken at the site of flooding on tracks last year .", 
+                "i guess we all see things differently .", 
+                "grant", 
+                "yes impressed by engineering work under hot summer sun on saturday", 
+                "our friends at @ twitterid have certainly been busy !", 
+                "work ongoing until sunday : ) grant", 
+                "photos of floods might confuse and is a negative message .", 
+                "perhaps use positive images / work underway from @ twitterid", 
+                "thanks for the feedback .", 
+                "will bear in mind for future posts .", 
+                "we 're sharing @ twitterid posts during the works too .", 
+                "grant", 
+                "and they 're doing one hell of a job .", 
+                "i had literally no waiting time on those legs for last week 's holiday !", 
+                "hello , glad to hear it 's worked out well for you !", 
+                "hope you had a nice holiday : ) -andy", 
+                "absolutely - the sprinters and pacers wo n't be around for ever"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a86fe1e4b0fb3eb99d66ef", 
+            "title": "missing man could have travelled to oxfordshire", 
+            "text": [
+                "police are searching for a man who went missing from winchcombe in gloucestershire on 20 july .", 
+                "nigel wise , 64 , left home to get his car serviced and has since missed two other appointments .", 
+                "his blue vauxhall zafira , registration vo16 lfl , has been found in chippenham in wiltshire today and police believe he may have travelled to oxfordshire .", 
+                "to provide information , call gloucestershire constabulary on 101 and quote incident 100 of 22 july ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a868bee4b03932bad7eafe", 
+            "title": "oxford united end pursuit of motherwell 's marvin johnson", 
+            "text": [
+                "# oufc after rejected bid oxford utd have ended pursuit of motherwell 's marvin johnson according to michael appleton", 
+                "nice to know we 're still in the market for additional attacking options and willing to pay a fee as well !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "13:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a84c2be4b002110d23482f", 
+            "title": "'scrap bus lane and put electronic system on toll bridge to cut jams ' says councillor", 
+            "text": [
+                "calls have been made for a 'smart card ' system at the swinford toll bridge to be included in major improvements to cut daily traffic jams ."
+            ], 
+            "author": [
+                "Oxford Times"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a858cfe4b002110d234844", 
+            "title": "hunt on for thieves posing as police officers", 
+            "text": [
+                "two men who posed as police officers to rob a witney woman in her 80s are being hunted by police .", 
+                "between 21:20 and 21:45 on thursday , two men forced their way into a home in hailey road .", 
+                "when they were confronted by the woman , they said they were police officers and held up what appeared to be id cards .", 
+                "they told her they were there as a result of a burglary and needed to check her money ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a84a58e4b069f6cdbaba39", 
+            "title": "classic car enthusiasts gear up for cowley exhibition", 
+            "text": [
+                "the third cowley classsic car exhibition begins today , showcasing the cowley car community , past and present .", 
+                "organiser tanya field came to our studios with william , her 1991 rover 800 - one of the last cars to be built on the old north works .", 
+                "the exhibition begins today and runs until saturday at templars square shopping centre ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a85a50e4b0c9461d0be5f3", 
+            "title": "steam train blamed for field fire", 
+            "text": [
+                "embers from a passing steam train are being blamed for a field fire near the heritage railway line in chinnor .", 
+                "six fire engines were needed to deal with the fire that affected an area of 4,000 sqm just off the lower icknield way .", 
+                "this is a reminder that during hot dry weather we need to be very careful in the countryside with any kind of potential ignition source ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a83c3ce4b0657c3d0c6f1a", 
+            "title": "'nowhere to hide ' for rogue landlords as two more dragged before courts for shoddy houses", 
+            "text": [
+                "rogue landlords have been warned they have `` nowhere to hide '' as two more were hauled before the courts for charging seven people to live in ramshackle houses ."
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a83bb0e4b0fb3eb99d669f", 
+            "title": "transfer moves possible as injuries hit oxford united", 
+            "text": [
+                "oxford united may use the transfer market to bring in cover after injuries hit the squad in the first weekend of the league 1 season .", 
+                "a crowd of more than 8,500 saw the u 's draw 1-1 at the kassam stadium on saturday .", 
+                "following the match , head coach michael appleton revealed that christian ribeiro had up a minor ankle fracture on friday , aaron martin was unavailable due to bad blistering and fellow defender shay dunkley came off with a hamstring injury ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a83832e4b03932bad7eac2", 
+            "title": "stuck boy , 10 , rescued from seaside mud", 
+            "text": [
+                "a 10-year-old boy from faringdon has been rescued after becoming stuck in deep mud while trying to reach the sea at low tide .", 
+                "the boy was spotted in difficulty by a beach warden at brean sands , somerset , on saturday afternoon .", 
+                "he was kept calm by the warden until the rescue hovercraft arrived and safely returned him to his mother .", 
+                "minutes later the same crew was called to rescue a male youth who had been spotted in the mud at nearby uphill ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a82bbae4b0d002738013f0", 
+            "title": "waits for child mental health care are 'real problem '", 
+            "text": [
+                "children who have been referred for mental health assessments in oxfordshire have faced waits of more than six months .", 
+                "oxfordshire clinical commissioning group said 75 % of the time they should be seen within eight weeks .", 
+                "but a report for its board said : `` waiting times remain some way below target , with 38 % of referrals assessed within eight weeks . ''", 
+                "oxford health nhs trust said the waits did not meet its `` high standards '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a82aaae4b0034e68a4cfba", 
+            "title": "weather : brightening up with sunny spells by the afternoon", 
+            "text": [
+                "after a mainly cloudy start it will brighten up by the afternoon and feel pleasant in the sunshine .", 
+                "one or two showers are possible but the brisk wind will slowly ease .", 
+                "highs of 20c ( 68f ) ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_57a839aae4b0657c3d0c6f13", 
+            "title": "from rio to the woodstock # lilym", 
+            "text": [
+                "radio oxford reporter lilley mitchell is flying the flag for , err , team bbc at the woodstock open air pool .", 
+                "tom daley probably does n't need to worry too much about the competition", 
+                "i did it ! !", 
+                "my first dive off the 1m board !", 
+                "thanks to jill .", 
+                "how does tom daley jump off 10m ? !", 
+                "# lilym @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a827e4e4b07fc783bf492d", 
+            "title": "chiltern mainline reopens after nine-day closure", 
+            "text": [
+                "the chiltern mainline from oxford , through bicester and banbury , to leamington spa has reopened after a nine-day closure .", 
+                "it was shut for a \u00a3 76m upgrade to the track layout at banbury and signalling along the line .", 
+                "signalling before and after # siemens # banburyupgrade # railwayupgradeplan @ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_57a8321ee4b082c6904f9680", 
+            "title": "welcome to oxfordshire live", 
+            "text": [
+                "a very good morning to you all .", 
+                "good weekend ?", 
+                "it 's the start of the first full olympic weekend , and we 're going for a medal today for our performance in bringing you the latest headlines from around our county .", 
+                "let us know what 's happening in your area via email , facebook or twitter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:36"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

@@ -1,0 +1,761 @@
+{
+    "blog_id": "c199d6c010fdb38ff3bca19d4e0d006239ca5f74", 
+    "title": "Rail delays after person hit by train near Reading - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-berkshire-37765983", 
+    "summary": [
+        "live updates on 25 october 2016 .", 
+        "a person was hit by train at twyford station , at about 15:45 bst .", 
+        "there were delays of at least 90 minutes between reading and paddington .", 
+        "reading were playing arsenal at the emirates stadium .", 
+        "rail services have returned to normal ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_580fa7aae4b0ece2f905a420", 
+            "title": "people running to catch trains at paddington", 
+            "text": [
+                "people running to catch trains at paddington"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580fa2afe4b05d511bb2e771", 
+            "title": "disruptions expected for 24 hours", 
+            "text": [
+                "some lines have now reopened , but great western railway said there are delays of up to 70 minutes , and disruptions could continue until 20:00 tomorrow ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f9ae7e4b0ece2f905a40a", 
+            "title": "delays of 90 minutes continue as lines reopen", 
+            "text": [
+                "delays of 90 minutes are expected as all lines reopen to london paddington .", 
+                "earlier today great western railway services were suspended in berkshire after a person was hit by a train in twyford .", 
+                "although lines have reopened , trains will not stop at burnham , taplow , maidenhead and twyford .", 
+                "there will also be no service between twyford and henley-on-thames ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "19:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_580f9b38e4b01da14c1844a6", 
+            "title": "reading fans stranded before match at emirates stadium", 
+            "text": [
+                "2/4 lines reopened but still disruption between reading and london .", 
+                "worried football fans # afcvrfc @ twitterid @ twitterid # gwr"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f97a7e4b0455bb82a6a6f", 
+            "title": "no news is good news ?", 
+            "text": [
+                "departure boards at london paddington have been left blank due to cancellations on services running through berkshire .", 
+                "chaos at paddington - no trains displayed or leaving .", 
+                "dinner @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f97eee4b0b37c93bb2d39", 
+            "title": "scores of people waiting as train delays cause commuter chaos at paddington", 
+            "text": [
+                "paddington at 18:00 .", 
+                "no trains , no information , no early night !", 
+                "@ twitterid", 
+                "that looks a bid depressing hope you were n't too late home x", 
+                "unfortunately disruption due to person hit by a train earlier .", 
+                "screens will show trains when confirmed as running .", 
+                "-ollie"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f9895e4b0455bb82a6a72", 
+            "title": "trains beginning to roll again", 
+            "text": [
+                "delays to/from london paddington as a person has been hit by a train between slough and reading .", 
+                "2 out of 4 lines between slough & reading are now open .", 
+                "a limited service will resume to/from paddington .", 
+                "delays of up to 90 mins possible .", 
+                "2 out of 4 lines between slough & reading are open .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "twyford railway station is closed .", 
+                "a coach is running between twyford & henley .", 
+                "this will be operated by reading & wokingham coaches .", 
+                "3 out of 4 lines now open between reading & slough .", 
+                "services can call twyford ( towards london only ) .", 
+                "delays of up to 90 mins on this route .", 
+                "1 of the 4 lines through twyford remains closed .", 
+                "services are now calling at twyford .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "all lines are now open via twyford .", 
+                "there are delays of up to 40 mins to/from london paddington as a person was hit by a train earlier .", 
+                "services expected to be running normally to/from london paddington tomorrow morning .", 
+                "apologies for disruption experienced via twyford today .", 
+                "so if 3 lines are open , why is paddington still full and trains sat stationary !", 
+                "!", 
+                "the lines still have a lot of trains on them that need to filter down on the lines so then more can move .", 
+                "jess", 
+                "all well and good , but if all platforms have trains sitting at them where are they gon na go ?", 
+                "need to start moving people !", 
+                "toilets need to opened up to passengers for free !", 
+                "lots of kids around as half term", 
+                "the lines are congested with other trains , so we ca n't just moved them .", 
+                "toilets opening would be up to @ twitterid jess", 
+                "in the interest of your customers , maybe some dialogue between you , unless you are more like @ twitterid", 
+                "we can suggest it , and we do share ideas .", 
+                "jess", 
+                "great but nothing on the board at paddington and no rail timetable updates on the app either .", 
+                "trains will be posted on screens as they 're confirmed as running .", 
+                "-ollie", 
+                "guard on 1818 from padd to oxford just suggested this will stop at twyford ?", 
+                "this service looks like it has been cancelled , but twyford is still closed .", 
+                "jess", 
+                "delays to/from london paddington as a person has been hit by a train between slough and reading .", 
+                "2 out of 4 lines between slough & reading are now open .", 
+                "a limited service will resume to/from paddington .", 
+                "delays of up to 90 mins possible .", 
+                "2 out of 4 lines between slough & reading are open .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "twyford railway station is closed .", 
+                "a coach is running between twyford & henley .", 
+                "this will be operated by reading & wokingham coaches .", 
+                "a train is now running between twyford & henley .", 
+                "first train from twyford is 1831 ( departed on time ) .", 
+                "due to depart henley at 1846 .", 
+                "hi - do you guys know when the next twyford to henley train will be ?", 
+                "it 's 6.45pm and sitting at maidenhead .", 
+                "thanks .", 
+                "not at the moment , as twyford is still closed .", 
+                "jess", 
+                "hi jess ; i 'm afraid your bosses are letting you down as we 've just pulled out of twyford and heading to henley now ( 1902hrs ) !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f97f4e4b0455bb82a6a71", 
+            "title": "delays remain", 
+            "text": [
+                "national rail has just repeated the information that delays of up to 90 minutes are expected .", 
+                "earlier , disruption was expected to last until 18:30 .", 
+                "journeys between # londonpaddington and reading are being delayed by up to 90 minutes , with some services cancelled ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f971ee4b0ece2f905a404", 
+            "title": "massive delays on trains at london paddington", 
+            "text": [
+                "although three of four lines have reopened there are still significant delays across the gwr network .", 
+                "but some can see the funny side .", 
+                "at paddington reading `` girl on a train '' .", 
+                "v jealous as all my trains are delayed", 
+                "great book .", 
+                "seen the film ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f94e7e4b0b37c93bb2d36", 
+            "title": "'berkshire train users should consider marylebone service '", 
+            "text": [
+                "great western railway ( gwr ) is advising customers to seek alternative modes of transport after services in berkshire have been incapacitated .", 
+                "speaking on bbc radio berkshire , gwr spokesman dan panes said people closer to oxfordshire should consider taking crosscountry services to london marylebone .", 
+                "gwr tickets will be valid on these services ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f93f1e4b01da14c18449a", 
+            "title": "coach service to help passengers", 
+            "text": [
+                "delays to/from london paddington as a person has been hit by a train between slough and reading .", 
+                "2 out of 4 lines between slough & reading are now open .", 
+                "a limited service will resume to/from paddington .", 
+                "delays of up to 90 mins possible .", 
+                "2 out of 4 lines between slough & reading are open .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "twyford railway station is closed .", 
+                "a coach is running between twyford & henley .", 
+                "this will be operated by reading & wokingham coaches .", 
+                "3 out of 4 lines now open between reading & slough .", 
+                "services can call twyford ( towards london only ) .", 
+                "delays of up to 90 mins on this route .", 
+                "1 of the 4 lines through twyford remains closed .", 
+                "services are now calling at twyford .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "all lines are now open via twyford .", 
+                "there are delays of up to 40 mins to/from london paddington as a person was hit by a train earlier .", 
+                "services expected to be running normally to/from london paddington tomorrow morning .", 
+                "apologies for disruption experienced via twyford today .", 
+                "a train is now running between twyford & henley .", 
+                "first train from twyford is 1831 ( departed on time ) .", 
+                "due to depart henley at 1846 .", 
+                "hi - do you guys know when the next twyford to henley train will be ?", 
+                "it 's 6.45pm and sitting at maidenhead .", 
+                "thanks .", 
+                "not at the moment , as twyford is still closed .", 
+                "jess", 
+                "hi jess ; i 'm afraid your bosses are letting you down as we 've just pulled out of twyford and heading to henley now ( 1902hrs ) !", 
+                "can you confirm please what 's happening westbound at twyford please ?", 
+                "i see coaches twy to hot but assume twy has to be via reading", 
+                "at the moment would need to change at reading ( or slough ) depending on what journey is being made .", 
+                "-ollie", 
+                "@ twitterid what are coach times / how reg from twy to hot pls ?", 
+                "headed from pad to reading then 1848 to twy .", 
+                "arriving 1854 .", 
+                "thx"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_580f8dd5e4b0455bb82a6a56", 
+            "title": "london bus routes accepting rail tickets", 
+            "text": [
+                "arrangements have been made for great western railway rail tickets to be accepted for these journeys .", 
+                "it comes after bus services in berkshire also began accepting rail tickets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f8b67e4b05d511bb2e750", 
+            "title": "waterloo services impacted by twyford incident", 
+            "text": [
+                "trains between reading and waterloo are busier than normal at present due to disruption on paddington route"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7ab8e4b0b37c93bb2cea", 
+            "title": "gwr statement", 
+            "text": [
+                "a statement on the gwr website reads :", 
+                "due to a person being hit by a train between reading and slough all lines are blocked .", 
+                "`` train services running to and from these stations may be cancelled , delayed by up to 90 minutes or revised .", 
+                "disruption is expected until 18:30 25/10 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f8b09e4b01d6458c1e055", 
+            "title": "emergency services finish their efforts", 
+            "text": [
+                "# londonpaddington - emergency services have now dealt with the incident at twyford , allowing all lines at the station to reopen ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f8945e4b0b37c93bb2d22", 
+            "title": "twyford remains closed", 
+            "text": [
+                "two of the four lines have reopened , but twyford station remains shut .", 
+                "delays to/from london paddington as a person has been hit by a train between slough and reading .", 
+                "2 out of 4 lines between slough & reading are now open .", 
+                "a limited service will resume to/from paddington .", 
+                "delays of up to 90 mins possible .", 
+                "2 out of 4 lines between slough & reading are open .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "twyford railway station is closed .", 
+                "a coach is running between twyford & henley .", 
+                "this will be operated by reading & wokingham coaches .", 
+                "3 out of 4 lines now open between reading & slough .", 
+                "services can call twyford ( towards london only ) .", 
+                "delays of up to 90 mins on this route .", 
+                "1 of the 4 lines through twyford remains closed .", 
+                "services are now calling at twyford .", 
+                "delays of up to 90 minutes to/from london paddington .", 
+                "all lines are now open via twyford .", 
+                "there are delays of up to 40 mins to/from london paddington as a person was hit by a train earlier .", 
+                "services expected to be running normally to/from london paddington tomorrow morning .", 
+                "apologies for disruption experienced via twyford today .", 
+                "would you believe that despite being promised call backs repeatedly and that my complaint is being dealt with , i am still waiting .", 
+                "i am sorry , we are quite busy at the moment .", 
+                "best to call us and we can look into this for you .", 
+                "jess", 
+                "i 've called many times before .", 
+                "promised emails and letters and call backs and nothing comes .", 
+                "shocking service", 
+                "i am sorry , but we do n't have the records here .", 
+                "you would need to call and speak to an advisor .", 
+                "jess", 
+                "utter chaos at paddington .", 
+                "as usual gwr staff have no idea on what trains will run to where and when .", 
+                "services are being amended at short notice , sorry for the confusion .", 
+                "best to keep an eye on the boards .", 
+                "jess", 
+                "do you mean these boards that are n't really much help to anyone ?", 
+                "yes , as trains are confirmed they will be advertised on the screens .", 
+                "-ollie", 
+                "on the 1742 stopping service to reading .", 
+                "stuck at hayes & harlington for 10 minutes now .", 
+                "now announcements as to why of course", 
+                "are tickets being accepted on the chiltern marylebone to oxford parkway route ?", 
+                "hi ruth .", 
+                "yes they are .", 
+                "-ollie", 
+                "thoughts go to your train crew involved this evening", 
+                "thanks ben , very kind of you .", 
+                "jess", 
+                "15.22 to cotswolds now moving but only as far as oxford .", 
+                "will there be room on the 16.22 or are you laying on a replacement train ?", 
+                "it will be busier , i 'm afraid we do n't have extra trains to put on though .", 
+                "jess", 
+                "thanks .", 
+                "there is room ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_580f8577e4b0b37c93bb2d14", 
+            "title": "long queues at reading", 
+            "text": [
+                "long journey to the football @ twitterid @ twitterid # afcvrfc # gwr"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f8182e4b05d511bb2e732", 
+            "title": "disruption to last until 18:30", 
+            "text": [
+                "national rail expect the railways to be disrupted until 18.:30 bst .", 
+                "major disruption between # londonpaddington and reading expected until 18:30", 
+                "@ twitterid hi , can i use my pad - hot season ticket to go between myb - hwy ?", 
+                "yes , but it 's likely to be quicker to wait at paddington .", 
+                "jess", 
+                "hey jess , really ! ?", 
+                "even with major disruptions ?", 
+                "there 's no disruption at all on the marylebone - wycombe route", 
+                "does depend , how busy the tube is , etc .", 
+                "jess", 
+                "but your twitter feed is saying delays of 90 mins at pad , with twyford closed & no line between twy - hot", 
+                "you are more than welcome to take that route , we are trying to clear the line as quickly as possible .", 
+                "jess", 
+                "cool , as long as ticket still valid .", 
+                "thanks jess ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f8412e4b0b37c93bb2d10", 
+            "title": "queues 'snaking around reading station ' as trains delayed until 18:30", 
+            "text": [
+                "queues of commuters and football fans are `` snaking around reading station '' as rail delays continue .", 
+                "radio berkshire 's nick johnson is on the scene ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7e53e4b05d511bb2e727", 
+            "title": "train tickets accepted on buses", 
+            "text": [
+                "according to gwr , these bus services are accepting tickets for their services :", 
+                "they also say that : `` during this disruption if you wish to use local buses as an alternative means of transport and the local bus is not accepting great western railway tickets please purchase a ticket for the bus journey , keep the bus ticket and send it , together with your rail ticket , to us for a refund of the bus fare . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f828de4b0455bb82a6a3e", 
+            "title": "young arsenal fans delayed at reading station", 
+            "text": [
+                "gooners grace , george , vicky facing a car journey in to london due to train delays @ twitterid @ twitterid # afcvrfc # gwr"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7e54e4b0ece2f905a3c8", 
+            "title": "suspended trains affecting trains in oxfordshire", 
+            "text": [
+                "service suspended on # gwr between # reading and # slough due to an incident on the line at # twyford .", 
+                "affecting trains from # didcotparkway .", 
+                "told alight at d'cot , get slow train to r'ding & l'don.i stay & laff as train goes 5 mins later ! pickup at r'ding on empty train !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7f1ae4b05d511bb2e729", 
+            "title": "breakingpolice investigating death of 'person struck by a train '", 
+            "text": [
+                "british transport police have confirmed that a person was hit by a train at twyford station , at about 15:45 bst .", 
+                "ambulances also attended the scene , but the person was pronounced dead at the scene , police are not treating the incident as sus", 
+                "a spokesperson added : `` we are now working to identify the person and inform their family . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7b4ce4b0455bb82a6a28", 
+            "title": "football fans warned about delays", 
+            "text": [
+                "the railway incident will also impact reading fc fans , who are heading to the emirates stadium tonight to take on arsenal in the efl cup .", 
+                "reading-waterloo line is currently operational as usual , alternatively high wycombe to marylebone is suggested for those able to get there .", 
+                "@ twitterid @ twitterid", 
+                "do you know if they will close the turnstiles a certain time afer kick off ?", 
+                "thanks", 
+                "is every train to paddington delayed for two hours ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_580f7ad3e4b0b37c93bb2cec", 
+            "title": "", 
+            "text": [
+                "gwr say chiltern railways , cross country , south west trains and london underground are conveying passengers via any `` reasonable route '' until further notice .", 
+                "arrangements have been made for great western railway rail tickets to be accepted for these journeys ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7b7ae4b0ece2f905a3c5", 
+            "title": "emergency services are on the scene", 
+            "text": [
+                "a person has been hit by a train at # twyford .", 
+                "all lines closed in area .", 
+                "emergency services on route .", 
+                "@ twitterid for rail train info ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_580f7a69e4b0b37c93bb2ce9", 
+            "title": "breakingperson hit by train near reading", 
+            "text": [
+                "there are long delays on the railways this evening after a person was hit by a train near reading ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:29"
+        }
+    ], 
+    "genre": "uk-england-berkshire", 
+    "quality": "high"
+}

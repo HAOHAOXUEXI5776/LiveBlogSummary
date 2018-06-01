@@ -1,0 +1,689 @@
+{
+    "blog_id": "bc93976440dae8880e0c11c773dcb8a405ed0b6b", 
+    "title": "Yoshinori Ohsumi wins Nobel prize in medicine \u00e2\u0080\u0093 as it happened | Science | The Guardian", 
+    "url": "https://www.theguardian.com/science/live/2016/oct/03/nobel-prize-in-medicine-2016-to-be-announced-live", 
+    "summary": [
+        "ohsumi on winning the prize .", 
+        "and that 's a wrap .", 
+        "`` it 's very well deserved ''", 
+        "what is autophagy ?", 
+        "the nobel season begins .", 
+        "tips from the pundits .", 
+        "the 2015 winners ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f24837e4b015be63833afb", 
+            "title": "and that 's a wrap", 
+            "text": [
+                "there we have it .", 
+                "the 2016 nobel prize in medicine or physiology has gone to yoshinori ohsumi for his work on autophagy .", 
+                "the biological recycling system breaks down old or dangerous proteins and turns them into fresh building blocks for the cell .", 
+                "the same process keeps invading pathogens at bay and prevents the buildup of clumps of proteins that can lead to devastating neurodegenerative diseases .", 
+                "for more on today 's prize the first of the 2016 nobels see our news story here .", 
+                "we 'll be back on tuesday morning with our live coverage of the nobel prize in physics .", 
+                "we expect to hear the winner or winners at the slightly later time of 10.45am uk .", 
+                "do join us if you can ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                12, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f24550e4b015be63833aeb", 
+            "title": "", 
+            "text": [
+                "juleen zierath , a member of the nobel committee , has been talking about the work that led to today 's prize .", 
+                "until ohsumi came on the scene in the 1990s , scientists thought that cells had a dumping ground for waste , but not the sophisticated recycling centre that ohsumi discovered .", 
+                "here she explains the day-to-day importance of autophagy in simply maintaining healthy cells in the body : every day we need to replace about 200-300g of protein in our bodies .", 
+                "every two to three months , every protein in our body turns over .", 
+                "because of autophagy , these 200-300g of proteins are made .", 
+                "we are eating proteins every day , about 70g , but that 's not enough to take care of the requirement to make new proteins .", 
+                "because of this machinery , we 're able to rely on some of our own proteins , maybe the damaged proteins or the long-lived proteins , and they are recycled with this sophisticated machinery so that we can sustain and we survive ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                11, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f23f31e4b0ab0063087693", 
+            "title": "ohsumi on winning the prize", 
+            "text": [
+                "ohsumi was in his lab when he received the call from stockholm today .", 
+                "i was surprised , he told adam smith at nobel media in a telephone interview after the announcement .", 
+                "ohsumi always believed that the most fundamental functions of cells should be conserved , from yeast to mammals .", 
+                "and so it proved with autophagy : it 's an indication of just how important the process is .", 
+                "his pioneering work gave the rest of the scientific community the tools they needed to explore autophagy , transforming it from niche area to one of the most popular in biology .", 
+                "but as ohsumi said , more than 20 years after he started , there is still plenty to learn : we have so many questions .", 
+                "even now we have more questions than when i started .", 
+                "adam smith , chief scientific officer at nobel media , interviews yoshinori ohsumi ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                11, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f23b19e4b0ab0063087674", 
+            "title": "", 
+            "text": [
+                "if you 're having trouble grasping autophagy ( or even pronouncing the word ) , here 's an interpretation of the process from dancers at the university of michigan .", 
+                "it 's quite a thing .", 
+                "a unique artistic collaboration between a cell biologist , composer , choreographer and scientific illustrator helps university of michigan students and others understand the complex cellular process of autophagy ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                11, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f238f3e4b015be63833aa1", 
+            "title": "", 
+            "text": [
+                "ohsumi , 71 , has been talking to the japanese broadcaster nhk .", 
+                "in a live phone interview , he said he was extremely honoured to have won the prize .", 
+                "when asked why he decided to study autophagy , he replied : i wanted to do something different from other people .", 
+                "i thought auto-decomposition was going to be an interesting to he added that the human body is always repeating the auto-decomposition process , or cannibalism , and there is a fine balance between formation and decomposition .", 
+                "that 's what life is about ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                10, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f234ade4b015be63833a8c", 
+            "title": "`` it 's very well deserved ''", 
+            "text": [
+                "the prize has gone down well with david rubinsztein , professor of molecular neurogenetics at cambridge university .", 
+                "he studies autophagy , and one branch of his research looks at whether ramping up autophagy in cells can help keep neurodegenerative diseases such as parkinson 's , alzheimer 's and huntington 's at bay .", 
+                "the work comes from the discovery that autophagy can get rid of proteins that can wreak havoc by clumping together in cells .", 
+                "here 's what he had to say : i 'm very happy he 's got this year 's nobel prize , it 's very well deserved .", 
+                "there are many other people who 've made important contributions in the field , but i 'm very comfortable he 's the sole winner .", 
+                "rubinsztein said the work highlighted how basic research in model organisms in this case , yeast can lead to the creation of whole new fields and fresh insights into human disease .", 
+                "it shows the importance of basic science and it shows you can make great discoveries that transform a field by starting in a model system like yeast .", 
+                "so when people worry about what should science funding be used for , it 's very difficult to predict what 's ultimately going to come up trumps , and by being restrictive , or penalising people who work on model systems that do n't look like they 're obviously related to human disease , you risk hampering the development of that field .", 
+                "you have to think of science in a holistic way , and understand that key discoveries that can be truly transformative can be made maybe more easily in these systems .", 
+                "it 's a really nice example of how basic science in a model system can be truly transformative ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                10, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f22c38e4b0ab0063087616", 
+            "title": "", 
+            "text": [
+                "in the years since autophagy research began , scientists have worked out that it is essential for survival .", 
+                "ohsumi wrote a history of the field in 2014 , by which time it had become one of the hottest to in biology .", 
+                "he describes how streptococcus and salmonella bacteria that infect cells can be dealt with by the autophagy process .", 
+                "meanwhile other pathogens , such as listeria and shigella , escape destruction ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                10, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f22a57e4b015be63833a57", 
+            "title": "", 
+            "text": [
+                "here is why autophagy matters , courtesy of the nobel foundation : we now know that autophagy controls important physiological functions where cellular components need to be degraded and recycled .", 
+                "autophagy can rapidly provide fuel for energy and building blocks for renewal of cellular components , and is therefore essential for the cellular response to starvation and other types of stress .", 
+                "after infection , autophagy can eliminate invading intracellular bacteria and viruses .", 
+                "autophagy contributes to embryo development and cell differentiation .", 
+                "cells also use autophagy to eliminate damaged proteins and organelles , a quality control mechanism that is critical for counteracting the negative consequences of ageing .", 
+                "disrupted autophagy has been linked to parkinson 's disease , type 2 diabetes and other disorders that appear in the elderly .", 
+                "mutations in autophagy genes can cause genetic disease .", 
+                "disturbances in the autophagic machinery have also been linked to cancer .", 
+                "intense research is now ongoing to develop drugs that can target autophagy in various diseases ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f229a3e4b015be63833a52", 
+            "title": "", 
+            "text": [
+                "here is ohsumi explaining his work on autophagy in a 2015 lecture at the university of toronto : dr ohsumi shares his research on autophagy at the 2015 canada gairdner awardees lecture at the university of toronto ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f226ece4b05962fdf4a600", 
+            "title": "what is autophagy ?", 
+            "text": [
+                "but what is autophagy ?", 
+                "a simple translation is self-eat , but this is really about how cells recycle their contents .", 
+                "it might like sound an odd thing for a cell to do , but it has been known about since the 1960s , when scientists first noticed that cells can trash their innards by enclosing them in a membrane and transporting the sack of material to the cell 's recycling centre .", 
+                "yoshinori ohsumi identified a set of genes that control autophagy in baker 's yeast , and went on to show the same mechanism is at work in humans .", 
+                "this is how cells recycle their contents ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f22644e4b05962fdf4a5fc", 
+            "title": "and the winner is :", 
+            "text": [
+                "the nobel prize ( @ nobelprize ) breaking news the 2016 # nobelprize # medicine awarded to yoshinori ohsumi @ twitterid en for his discoveries of mechanisms for autophagy"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f2252ce4b015be63833a3b", 
+            "title": "", 
+            "text": [
+                "lest we all get carried away with thoughts of the wonderful new lives the winners embark on after the award is announced , bear in mind there may be downsides .", 
+                "i wrote a piece on this very thing back in the day .", 
+                "the nobel physics laureate andre geim , who levitated a frog and included his hamster as a co-author on a research paper before hitting on graphene , told me there were too many downsides to mention .", 
+                "he added : journalists ' questions are the obvious downside in the context ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f22416e4b05962fdf4a5f0", 
+            "title": "", 
+            "text": [
+                "the nobel assembly are keeping us all on our toes .", 
+                "the live feed from stockholm appears to be struggling at best , and failing at worst .", 
+                "i have n't seen or heard a peep from my video viewer since the start .", 
+                "but i have faith .", 
+                "surely one place to find a decent engineer is the home of the nobel prizes ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f21d35e4b0ab00630875cd", 
+            "title": "", 
+            "text": [
+                "nobel season always throws up a controversy or two .", 
+                "the problem originates in large part from the lack of transparency in the decision making and the tradition of handing prizes to no more than three scientists .", 
+                "when was a breakthrough last made by so few brains ?", 
+                "take 2003 , when the nobel prize in medicine was awarded to paul lauterbur and sir peter mansfield for inventing the ubiquitous brain-scanning procedure , magnetic resonance imagining ( mri ) .", 
+                "another scientist , raymond v damadian , was so incensed , he took out a full-page advert in the new york times to protest against the decision .", 
+                "the nobel prize committee had committed a shameful wrong that must be righted , the advert said .", 
+                "the incident escalated into a full-blown bunfight , with other scientists piling in to defend lauterbur and mansfield ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f2205ce4b015be63833a1e", 
+            "title": "", 
+            "text": [
+                "the judges for the nobel prize in physiology or medicine are selected by the karolinska institute in stockholm .", 
+                "this follows specifications made by alfred nobel in his 1895 will concerning which institutions should select the winners .", 
+                "the royal swedish academy of sciences got the physics and chemistry awards and the swedish academy got the literature prize .", 
+                "the peace prize was given to a panel selected by the parliament of neighbouring norway , which was ruled in union with sweden at the time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f21fdce4b015be63833a19", 
+            "title": "", 
+            "text": [
+                "the nobel statutes prohibit judges from discussing any nominations besides the winners for half a century .", 
+                "gustav kallstrand , curator of the nobel museum in stockholm , cites two reasons for the secrecy .", 
+                "first , the committee wants to spare those who were nominated but did n't win the feeling that they came within a hair 's breadth of the most prestigious prize in science .", 
+                "the nobel prize is n't a competition in that sense , he says .", 
+                "the other reason is to safeguard the independence of the nobel judges ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f21912e4b0ab00630875b6", 
+            "title": "", 
+            "text": [
+                "according to stats from the nobel foundation , the average age of medicine prize winners has slowly crept up over the past 50 years .", 
+                "the nobel prize ( @ nobelprize ) # nobelfacts average age of the 210 medicine laureates during the past century :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                8, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f21b57e4b0ab00630875c0", 
+            "title": "", 
+            "text": [
+                "the cambridge geneticist sir john gurdon , who turns 83 today , won the nobel prize in medicine in 2012 for his work on reprogramming cells .", 
+                "his schoolboy ambition to be a scientist was famously written off by his eton schoolmaster .", 
+                "here 's the school report .", 
+                "heartening , is n't it ?", 
+                "the nobel prize ( @ nobelprize ) warmest congratulations to medicine laureate john gurdon who turns 83 today !", 
+                "# nobelprize"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                8, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57eea651e4b0ab0063086989", 
+            "title": "the 2015 winners", 
+            "text": [
+                "the medicine prize went to three researchers last year for discoveries that helped doctors fight malaria and infections caused by roundworm parasites .", 
+                "half of the prize went to tu youyou , who stumbled on one of the most effective treatments for malaria artemisinin while working on a secret military project during china 's cultural revolution .", 
+                "the other two winners , satoshi \u00e5\u008cmura and william campbell , were honoured for their discovery of avermectin , a treatment for roundworm parasites .", 
+                "speaking at the time , steve ward , the deputy director of the liverpool school of tro medicine , stressed the importance of the drugs : both of these compounds are central to current programmes to eradicate disease from the whole planet .", 
+                "elephantiasis and river blindness blight the lives of millions of the poorest people on the planet , and ivermectin [ a derivative of avermectin ] is having a genuine effect on reducing the burden of disease to the point that we can think about getting rid of them for good .", 
+                "artemisinin was discovered when fatalities from malaria were rocketing and the world was terrified we 'd be looking at a post-chloroquine era .", 
+                "it has been a real game-changer .", 
+                "which to me sounds like a tough act for the 2016 winners to follow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                8, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57ee93bae4b0ab0063086932", 
+            "title": "tips from the pundits", 
+            "text": [
+                "plenty of nobel medicine prize winners have previously bagged the lasker basic medical research award .", 
+                "on that basis , we could take a punt on kazutoshi mori and peter walter winning the prize at some point .", 
+                "they discovered a quality control system inside cells that spots when proteins have become dangerously misfolded .", 
+                "i 'm always hoping to see the prize go to karl deisseroth at stanford and others for inventing optogenetics , a neat and powerful tool that has revolutionised areas of neuroscience .", 
+                "scientists can use it to turn off individual neurons inside living organisms , and so work out what the brain cells do .", 
+                "but would the technique even qualify for the medicine prize ?", 
+                "or is it one for the chemistry prize , which increasingly rewards biomedical research ?", 
+                "the analysts at thomson reuters wade through the web of science each year to compile a list of contenders for the nobel prizes .", 
+                "this year they like the look of gordon freeman , tasuku honjo and arlene sharpe , whose work sheds light on the way cells are programmed to kill themselves off at the end of their useful lives .", 
+                "that knowledge has fed into the burgeoning field of cancer immunotherapy .", 
+                "another tipped trio is james allison , jeffrey bluestone and craig thompson who discovered how t cells , a major part of the immune system , are switched on .", 
+                "another group that takes their fancy is michael hall , david sabatini and stuart schreiber who discovered the target for the immune system-depressing drug rapamycin .", 
+                "as ever , we are in the dark until the committee makes its decision known .", 
+                "we shall have an answer very soon ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57ee7e74e4b05962fdf498d7", 
+            "title": "the nobel season begins", 
+            "text": [
+                "welcome to the most anticipated week in the scientific calendar .", 
+                "a time when the nobel committees in stockholm emerge from their secretive huddles , name the winners of the world 's most prestigious prizes , and leave the rest of us baffled about what was actually done and who really made the breakthrough .", 
+                "the 19th-century industrialist alfred nobel built an empire on weapons and explosives before establishing the prizes in his will to honour those whose research most benefited humanity .", 
+                "this year each prize is worth 8m swedish krona or \u00e2\u00a3 718,000 , and a pile more in kudos .", 
+                "the nobel prize is life-changing .", 
+                "the fun kicks off today at 10.30am uk time when the nobel assembly at the karolinska institute announces the winner or , more likely , winners of the nobel prize in physiology or medicine .", 
+                "the other two science prizes are awarded by the royal swedish academy of sciences .", 
+                "we 'll have the physics prize at 10.45am on tuesday and the chemistry prize at the same time on wednesday .", 
+                "do join us for the live announcements , explanations of the work , and reaction from the winners and others from the world of science ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                3, 
+                8, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "science", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n12.34pm BST\n12:34\nOhsumi on winning the prize\n", 
+                "block": "block-57f23f31e4b0ab0063087693"
+            }, 
+            {
+                "text": "\n\n1.10pm BST\n13:10\nAnd that's a wrap\n", 
+                "block": "block-57f24837e4b015be63833afb"
+            }, 
+            {
+                "text": "\n\n11.45am BST\n11:45\n\"It's very well deserved\"\n", 
+                "block": "block-57f234ade4b015be63833a8c"
+            }, 
+            {
+                "text": "\n\n10.45am BST\n10:45\nWhat is autophagy?\n", 
+                "block": "block-57f226ece4b05962fdf4a600"
+            }, 
+            {
+                "text": "\n\n9.31am BST\n09:31\nThe Nobel season begins\n", 
+                "block": "block-57ee7e74e4b05962fdf498d7"
+            }, 
+            {
+                "text": "\n\n9.41am BST\n09:41\nTips from the pundits\n", 
+                "block": "block-57ee93bae4b0ab0063086932"
+            }, 
+            {
+                "text": "\n\n9.47am BST\n09:47\nThe 2015 winners\n", 
+                "block": "block-57eea651e4b0ab0063086989"
+            }
+        ], 
+        "bulletin": [
+            {
+                "text": "Hailed as a well-deserved award, this year's prize went to cell biologist Ohsumi for this pioneering work on autophagy how the body's cells detoxify and repair themselves.", 
+                "type": "p", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/science/2016/oct/03/yoshinori-ohsumi-wins-nobel-prize-in-medicine"
+                ], 
+                "time": ""
+            }
+        ]
+    }, 
+    "quality": "high"
+}

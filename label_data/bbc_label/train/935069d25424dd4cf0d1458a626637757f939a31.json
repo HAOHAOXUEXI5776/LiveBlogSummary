@@ -1,0 +1,619 @@
+{
+    "blog_id": "935069d25424dd4cf0d1458a626637757f939a31", 
+    "title": "Election 2015: West Midlands debate - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-32497748", 
+    "summary": [
+        "voters put questions to a panel of politicians .", 
+        "watch the debate on bbc one at 22:50 .", 
+        "updates on wednesday 29 april ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32527391", 
+            "title": "goodbye", 
+            "text": [
+                "well , that 's all for this evening now the debate is over .", 
+                "we hope you enjoyed it ."
+            ], 
+            "author": [
+                "Caroline Gall", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32527034", 
+            "title": "via twitter", 
+            "text": [
+                "why so many ppl are disenfranchised .", 
+                "uninformed politicians doing nothing to present the real facts on the issues they talk about # midsvote"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32527032", 
+            "title": "via twitter", 
+            "text": [
+                "# midsvote hs2 is needed to move the business from london to the midlands", 
+                "@ twitterid @ twitterid you 're having a laugh .", 
+                "all that will happen is brum will become a commuter suburb of london ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32527028", 
+            "title": "via twitter", 
+            "text": [
+                "via twitter"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32527113", 
+            "title": "'stirring things up '", 
+            "text": [
+                "an audience member says he is looking forward to scottish politicians `` stirring things up in westminster '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526613", 
+            "title": "via twitter", 
+            "text": [
+                "really great question to kick off # midsvote about efficiency in the # nhs suppliers inflate prices without reason simply because it 's public !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526609", 
+            "title": "'why you should vote for me '", 
+            "text": [
+                "each panellist is now being asked to talk for 15 seconds on why the public should vote for them ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526611", 
+            "title": "via twitter", 
+            "text": [
+                "joel a on twitter is", 
+                "he 's fed up with hearing 'political football ' .", 
+                "if you want to contact us via twitter , go to # midsvote .", 
+                "if i hear the term 'politacal football ' or 'austrailian style points system ' one more time # midsvote", 
+                "@ twitterid # midsvote but do we need to import low skilled jobs when we have 1m kids 18-24 on the dole ?", 
+                "# midsvote", 
+                "@ twitterid exactly !", 
+                "hit the nail on the head"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526608", 
+            "title": "'integrated rail network '", 
+            "text": [
+                "an audience member asks which other countries have been looked at as a model for high speed rail .", 
+                "tristram hunt says the german model allows for regional and sub regional cities to fit into rail network .", 
+                "he says there is a 'great deal of scepticism ' in stoke-on-trent [ his constituency ] about the plans north for birmingham as regeneration in the area is key and they could miss out ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526607", 
+            "title": "'exciting project '", 
+            "text": [
+                "but lorely burt says she thinks its necessary and exciting - `` a fantastic opportunity for the west midlands '' .", 
+                "'it 's for the future for our country , ' she says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526606", 
+            "title": "'no need for hs2 '", 
+            "text": [
+                "will duckworth he wants the idea stopped and believes there are other , better ways to spend the money , including improve the current infrastructure .", 
+                "there are already transport corridors where rail could be increased , he says .", 
+                "'we need high speed rail but we do n't need hs2 , ' he says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526605", 
+            "title": "'invest elsewhere '", 
+            "text": [
+                "suzanne evans says she wants the money spent elsewhere as the project will only benefit the few .", 
+                "but sajid javid disagrees , saying there has not been a major new rail line built outside london in over a century .", 
+                "he accepts he would not like live alongside the proposed route route but the fears people have are the same when new motorways were built ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526240", 
+            "title": "hs2 : who supports it ?", 
+            "text": [
+                "party manifestos show that the greens and ukip say they 'd scrap hs2 and spend the money on something else and labour , the conservatives and the lib dems are committed to the scheme .", 
+                "here 's a map of the route of hs2 through parliamentary constituencies :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "23:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526239", 
+            "title": "convincing case for hs2 ?", 
+            "text": [
+                "the final question this evening is from william whiting :", 
+                "`` the house of lords economic affairs committee said that the government has not yet made a convincing case for the \u00a3 50bn investment in hs2 .", 
+                "`` does the panel agree ? ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526238", 
+            "title": "eu controls 'too much ' for business", 
+            "text": [
+                "ukip 's suzanne evans says she has run small businesses and her party is the only one to talk about them in their manifesto .", 
+                "but she says eu controls on the uk mean you can not cut regulation for small businesses ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "23:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526236", 
+            "title": "change how we measure growth ?", 
+            "text": [
+                "will duckworth says economic growth does not measure what most people think it measures .", 
+                "'we need to look at what is being manufactured and how peoples ' lives are , how much they are having to spend on the basic necessities of life and measure that instead of just how much money has swapped between things , '' he says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526235", 
+            "title": "tax avoidance", 
+            "text": [
+                "a member of the audience asks about changes to legislation to address historical tax avoidance .", 
+                "tristram hunt says labour will abolish the nom dom status which allows people to not pay tax on their foreign earnings .", 
+                "'we need people to pay their fair share . '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "23:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526233", 
+            "title": "low growth recorded", 
+            "text": [
+                "sajid javid accepts that the latest figures that showed just a 0.3 % growth in the last quarter were weaker than before .", 
+                "but he said over the last year 'we 're growing faster than any other industrialised economy . '", 
+                "the slowdown means you should not take a risk with the economic recovery , he says .", 
+                "economic confidence 'comes first ' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526232", 
+            "title": "midlands manufacturing", 
+            "text": [
+                "lorely burt says a lot more things are now made in the west midlands and the region is being acknowledged more for what it does .", 
+                "but small business always need the right help to get started and when they 're up and running and the government has created many systems to ensure that happens , she says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32526664", 
+            "title": "economy question", 
+            "text": [
+                "an audience member describes small businesses as the `` engine of the economy '' and asks how they will be protected ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525787", 
+            "title": "'not counting people out '", 
+            "text": [
+                "lorely burt says the uk has a points-based system .", 
+                "but she says the main problem is that `` we have been counting people in this country but we do n't count them out again . '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32512477", 
+            "title": "find your constituency", 
+            "text": [
+                "there 's eight days to go until the general election on 7 may .", 
+                "find who 's standing in your area on the"
+            ], 
+            "author": [
+                "Election 2015"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525783", 
+            "title": "housing pressure", 
+            "text": [
+                "an audience member from sutton coldfield asks why focus is on unlimited immigration in europe when birminghams ' development plans means 300,00 homes are to be required by 2031 .", 
+                "he says he feels the issues is about `` space not race '' .", 
+                "will duckworth says only about one tenth of our land mass is for human habitation .", 
+                "'we have the room , ' he says , adding that any housing shortage is because of previous governments not building them ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525784", 
+            "title": "immigration 'good for the uk '", 
+            "text": [
+                "sajid javid says immigration has made the uk a greater country but it needs to be controlled which it has n't under labour .", 
+                "an audience member criticises previous tory governments for their 'appalling ' record on immigration ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525782", 
+            "title": "immigration", 
+            "text": [
+                "asab ali in the audience asks : `` what are the parties ' policies on capping immigration ? ''", 
+                "tristram hunt says pressures on public services have increased and his party wants a fair system , to remain within the eu , pay more on border guards and that people wo n't get benefits 'from day one ' if they come from the eu ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525781", 
+            "title": "panel disagreement", 
+            "text": [
+                "the panel disagree about who first introduced private elements into the health service .", 
+                "but tristram hunt tells the audiences that they are absolutely right to be scared for the health service under a try or lib dem coalition .", 
+                "'only the labour party is committed to a publicly funded health service , ' he says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "23:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525780", 
+            "title": "'privatisation elements introduced by labour '", 
+            "text": [
+                "conservative sajid javid says labour were the party to first introduced 'competitive elements ' within the nhs which have 'more or less remained ' .", 
+                "the total private involvement in the nhs over the last five years has gone up from 3 % to 4 % he says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525328", 
+            "title": "lib dems 'have cost plans for nhs '", 
+            "text": [
+                "lorely burt from the lib dems says she thinks health and social care needs to work together .", 
+                "all services should be centred around an individual in 'a holistic way ' .", 
+                "the nhs will need \u00a3 8bn a year more investment , according to her party 's figures and only her party as a fully costed plan of how to do that , she says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "23:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525779", 
+            "title": "'coalition reduced nhs management '", 
+            "text": [
+                "lorely burt says they have cut out about 10,000 managers within the nhs but more needs to be done .", 
+                "government needs to get more people to work together in a 'can-do ' culture , she says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525329", 
+            "title": "misusing the nhs ?", 
+            "text": [
+                "a member of the audience says money could be saved by tackling people who misuse the service .", 
+                "ukip 's suzanne evans says other efficiencies could be made by spending less money on nhs spin doctors and more money on real doctors , cuts to public relations budget .", 
+                "she said the management bill 'on labour 's watch ' went up from \u00a3 300m to over \u00a3 1bn .", 
+                "she adds that her party believes that \u00a3 2bn is coming from so-called 'health tourism ' and ukip want to make sure everyone that comes to the uk has their own health insurance ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "22:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525327", 
+            "title": "'mansion tax ' to help fund nhs", 
+            "text": [
+                "labour 's tristram hunt says his party is committed to a mansion tax on properties over \u00a3 2m which would generate \u00a3 2.5bn to go into the health service .", 
+                "he is critical of the health and social care act the tories , which puts 'hospital against hospital ' he says .", 
+                "the labour party wants much more integration between health and social care and he says that is where labour would focus their reforms ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525326", 
+            "title": "nhs 'one of the most important things '", 
+            "text": [
+                "conservative sajid javid says he thinks everyone in the country believes the nhs is one of the most important things but admits politicians are guilty of using rhetoric .", 
+                "he thinks all the panel will agree that it should be free , it is unique and we all rely on it and on will agree on the financial challenges that lie ahead ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_32525325", 
+            "title": "first question", 
+            "text": [
+                "the first question is from rex parmley and is about the nhs .", 
+                "he asks : `` all parties are saying they will throw millions at the nhs , but how will you ensure that money is efficiently used so the nhs is not an endless money pit ? ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32525321", 
+            "title": "the panel", 
+            "text": [
+                "here are the politicians taking part this evening :", 
+                "from left to right : will duckworth of the green party , lorely burt from the liberal democrats , culture secretary sajid javid for the conservatives , tristram hunt from the labour party and suzanne evans - deputy chairwoman of ukip ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32523868", 
+            "title": "midlands today special", 
+            "text": [
+                "midlands today has filmed the programme at the drum arts centre in birmingham .", 
+                "mary rhodes is presenting it on"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32523859", 
+            "title": "midlands today special", 
+            "text": [
+                "we 'll be bringing you live updates from a special bbc midlands today political debate that 'll be starting in a few minutes .", 
+                "a panel of politicians from across the region will be answering questions from an audience from within the region , discussing to including the nhs , immigration , the economy and hs2 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "22:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32497755", 
+            "title": "election news", 
+            "text": [
+                "you can keep up-to-date with all the latest news on the general election on the bbc 's"
+            ], 
+            "author": [
+                "Election 2015"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:42"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_32526389", 
+            "title": "good evening", 
+            "text": [
+                "welcome to our live page for the election 2015 : west midlands debate being broadcast on bbc one at 22:50 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:30"
+        }
+    ], 
+    "genre": "uk-england", 
+    "quality": "high"
+}

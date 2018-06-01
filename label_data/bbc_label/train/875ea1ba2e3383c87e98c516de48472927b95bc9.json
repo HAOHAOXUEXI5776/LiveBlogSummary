@@ -1,0 +1,545 @@
+{
+    "blog_id": "875ea1ba2e3383c87e98c516de48472927b95bc9", 
+    "title": "Live: Russian ambassador shot dead in Turkey - BBC News", 
+    "url": "http://www.bbc.com/news/live/world-europe-38370362", 
+    "summary": [
+        "russian ambassador to turkey , andrei karlov , has been killed in a gun attack in ankara .", 
+        "he was shot while visiting a photo exhibition .", 
+        "the gunman was heard shouting 'do n't forget about aleppo ! ' .", 
+        "he has been identified as a police officer .", 
+        "it is unclear if he acted alone or had links to any group ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58583750e4b0c688e56c93d9", 
+            "title": "end of our live coverage", 
+            "text": [
+                "we are pausing our live coverage of the assassination of russia 's ambassador to turkey , andrei karlov .", 
+                "here 's a round-up of what we know :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58583473e4b0fb6baf91896c", 
+            "title": "gunman 's 'sister and brother arrested '", 
+            "text": [
+                "the sister and mother of the gunman who shot the russian ambassador have been detained in the western turkish city of aydin , reuters quotes local media as saying ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58583139e4b0fb6baf918961", 
+            "title": "wounded people fell on the ground with me , says eyewitness", 
+            "text": [
+                "bahar bakir , the diplomatic correspondent for the haberturk newspaper , was in the art gallery in ankara when the shooting happened , and has described what he saw .", 
+                "`` a person who shouted 'allah-u akbar ' [ god is great , in arabic ] behind the ambassador said : 'you killed civilians in syria , you will not get away with this ' , '' he said .", 
+                "`` he took out his gun and pointed it at the ambassador first and then to everyone else in the room .", 
+                "we lay down in panic .", 
+                "i saw the attacker pointing the gun towards [ the ] ceiling and the ambassador lying on the ground unfortunately .", 
+                "`` the exhibit hall was on second storey and i went down running .", 
+                "i saw wounded people who fell on the ground with me . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585832e6e4b055b7d25a98f5", 
+            "title": "'not clear if the attacker was a lone wolf '", 
+            "text": [
+                "it is not clear whether the gunman was a lone operator , reuters news agency says .", 
+                "analysts say he may possibly have been motivated by popular discontent over russian actions in syria - moscow is a strong ally of president bashar al-assad and has supported syrian forces with air power - or affiliated to the group known as islamic state , which has carried out a string of bomb attacks in turkey over the last 12 months .", 
+                "which ever is the case , the news agency says , the incident raises concerns about a police force currently being purged after a failed coup against president recep tayyip erdogan in july ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "19:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582fece4b0fb6baf91895a", 
+            "title": "attacker 'worked at ankara police '", 
+            "text": [
+                "turkey 's interior minister has confirmed that the gunman who shot and killed russia 's ambassador to turkey was a police officer at ankara 's riot police .", 
+                "he has been identified as mevlut mert altintas , born in 1994 , ap news agency reports .", 
+                "the ministry added that three other people were wounded in the attack , none in serious condition .", 
+                "and that one had already been released ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "19:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582e5ce4b0fb6baf918951", 
+            "title": "turkey 's fm condemns 'lowly terrorist attack '", 
+            "text": [
+                "the turkish foreign ministry has condemned the `` lowly terrorist attack '' that killed the russian ambassador to turkey , andrei karlov .", 
+                "in a statement , it says it will not allow the incident to `` cast a shadow '' over its friendship with russia .", 
+                "it also pays tribute to the ambassador as being a well respected diplomat .", 
+                "the killer was said to be an off-duty turkish policeman .", 
+                "media in turkey said he was later `` neutralised '' by police .", 
+                "other turkish officials have strongly condemned the attack .", 
+                "relations between the two countries have been fraught recently , especially after a turkish plane shot down a russian jet close to the syrian border .", 
+                "but , on a political level , both governments have been co-operating , at least , in the ceasefire operation in the syrian city of aleppo ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5858295ce4b0c688e56c93af", 
+            "title": "police out in force in ankara", 
+            "text": [
+                "a major police operation followed the killing of russian ambassador to turkey , andrei karlov , who was shot and killed by a gunman at a photo gallery in ankara ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582644e4b055b7d25a98c5", 
+            "title": "ambassador 's death 'a huge loss '", 
+            "text": [
+                "more from russian foreign ministry spokeswoman maria zakharova , who says `` it 's a huge loss to us '' .", 
+                "`` it 's a loss to the whole world because our ambassador to turkey focused a huge part of his efforts over the past few years on making a contribution to the syria settlement and stability in the region , '' ms zakharova says on state-run rossiya 24 tv ."
+            ], 
+            "author": [
+                "BBC Monitoring", 
+                "News from around the globe"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582596e4b0c688e56c93a2", 
+            "title": "syria condemns the attack", 
+            "text": [
+                "syria has condemned the `` cowardly terrorist act that killed russian ambassador to turkey andrei karlov '' , according to syrian state-controlled tv ."
+            ], 
+            "author": [
+                "BBC Monitoring", 
+                "News from around the globe"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585826b5e4b0fb6baf918938", 
+            "title": "erdogan and putin speak on the phone - reports", 
+            "text": [
+                "turkish president recep tayyip erdogan has spoken on the phone with his russian counterpart vladimir putin after the shooting , reuters reports , quoting cnn turk ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58582537e4b0fb6baf918932", 
+            "title": "ankara mayor confirms attacker is a policeman", 
+            "text": [
+                "ankara mayor melih gokcek confirms on twitter ( writing in turkish ) that the attacker is a policeman .", 
+                "ibrahim melih g\u00f6k\u00e7ek", 
+                "06melihgokcek", 
+                "saldirgan polis ve aldi\u011fim duyumlara g\u00f6re fetocu saldirganin sloganlari sadece algi y\u00f6netimi", 
+                "saldirgan polis ve aldi\u011fim duyumlara g\u00f6re fetocu saldirganin sloganlari sadece algi y\u00f6netimi", 
+                "cumamiz m\u00fcbarek olsun", 
+                "sen onu putin ' e anlat ! !", 
+                "!", 
+                "nerdesin la melo \u015fehit falan oldu mu kayboluyorsun hay\u0131rd\u0131r botoksmu yaptirdin melih", 
+                "akp+fet\u00f6 ortakl\u0131\u011f\u0131n\u0131 \u00e7ok iyi bildi\u011fi i\u00e7in olay\u0131 \u00e7\u00f6zm\u00fc\u015f .", 
+                "ama b\u00fct\u00fcn fet\u00f6c\u00fclerin akp'li oldu\u011funu unutmu\u015f yorum yap\u0131yor kendince", 
+                "say\u0131n belediye ba\u015fkan\u0131 misin..i\u00e7i\u015fleri bakan\u0131 misin . ?", 
+                "darbeden sonra halen cemaatten polis mi kald\u0131 .", 
+                "?", 
+                "polis daha \u00e7ok ama hainler azald\u0131", 
+                "hay\u0131rd\u0131r baskan ilk ak\u015famda ayn\u0131 idi \u015fimdi feto mu soyledi nede olsa ahbabin az aglamadniz beraber", 
+                "ald\u0131\u011f\u0131m\u0131z duyumlara g\u00f6re ankara'y\u0131 parsel parsel satm\u0131\u015f sat\u0131lm\u0131\u015f birisi"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585822f2e4b0c688e56c939a", 
+            "title": "russia : no weakening of ties with turkey", 
+            "text": [
+                "`` there will be no fresh cooling in relations between moscow and ankara , no matter how strongly our strategic opponents in ankara and the west want this , '' said leonid slutsky , who heads the international affairs committee of the russian duma .", 
+                "`` this is not going to happen .", 
+                "there are differences between us .", 
+                "it 's a horrendous tragedy , but relations between our states will not suffer . ''"
+            ], 
+            "author": [
+                "BBC Monitoring", 
+                "News from around the globe"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585824d0e4b055b7d25a98c1", 
+            "title": "uk reaction to shooting", 
+            "text": [
+                "uk foreign secretary boris johnson has condemned the `` cowardly '' and", 
+                "`` des murder of russia 's ambassador to turkey andrei karlov ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "18:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582169e4b055b7d25a98b7", 
+            "title": "more details of the shooting", 
+            "text": [
+                "turkey 's hurriyet newspaper provides more details of the shooting .", 
+                "it says the attacker first fired into the air and later shot the envoy in the back .", 
+                "more shots were heard after the area was evacuated , hurriyet says , quoting reports that the attacker entered the scene by showing a police identity card ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "18:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5858206de4b0c688e56c9394", 
+            "title": "gunman 'an off-duty police officer '", 
+            "text": [
+                "the gunman who shot mr karlov was an off-duty police officer who worked in ankara , two security sources told reuters news agency .", 
+                "the reports have not been confirmed ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58582000e4b0c688e56c9392", 
+            "title": "dramatic video from the scene", 
+            "text": [
+                "footage has captured the moments after the gunman fatally shot the russian ambassador .", 
+                "you can see him here shouting : `` do n't forget about aleppo , do n't forget about syria ! ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581f80e4b0c688e56c938d", 
+            "title": "andrei karlov - career diplomat", 
+            "text": [
+                "murdered russian diplomat andrei karlov began his career as a diplomat in 1976 , working extensively in north korea for more than 30 years before being transferred to ankara in 2007 , according to the russian embassy 's website .", 
+                "he became ambassador in july 2013 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "18:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581e3ae4b0fb6baf918910", 
+            "title": "russia , iran and turkey talks to go ahead", 
+            "text": [
+                "negotiations about the future of syria involving russia , iran and turkey will go ahead in moscow on tuesday despite mr karlov 's killing , the interfax news agency quoted senior russian parliamentarian leonid slutsky as saying ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581e54e4b055b7d25a98a5", 
+            "title": "us reaction to shooting", 
+            "text": [
+                "us state department spokesman john kirby says washington is aware of reports about the attack on the russian ambassador .", 
+                "`` we condemn this act of violence , whatever its source , '' mr kirby said .", 
+                "`` our thoughts and prayers are with him and his family . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58581d61e4b0fb6baf918907", 
+            "title": "aleppo evacuation continues", 
+            "text": [
+                "the shooting took place as thousands of people , including dozens of orphans , left aleppo in one of the besieged syrian city 's biggest evacuations since they were resumed as part of a ceasefire deal last week .", 
+                "more than 4,500 civilians have left rebel-held parts of eastern aleppo so far on monday .", 
+                "russia says that 20,000 rebel fighters and civilians have reached rebel-held territory since the evacuations got under way ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581d07e4b0fb6baf918906", 
+            "title": "aleppo connection to shooting", 
+            "text": [
+                "the gunman - whose identity is not known - was heard shouting : `` do n't forget about aleppo , do n't forget about syria ! ''", 
+                "russia - a key ally of syrian president bashar al-assad - has been accused of killing civilians during air strikes on the syrian city of aleppo , which is now controlled by syrian government troops .", 
+                "protest rallies have been held near russian embassies in a number of countries around the world .", 
+                "russia has repeatedly denied the allegation , saying it is targeting radical islamists ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58581a91e4b055b7d25a9894", 
+            "title": "pictures from the scene", 
+            "text": [
+                "pictures from the scene"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581abfe4b055b7d25a9896", 
+            "title": "'terrorism will not pass ! ' - russian statement", 
+            "text": [
+                "more from the russian foreign ministry .", 
+                "its spokeswoman maria zakharova says : `` terrorism will not pass !", 
+                "we will fight it resolutely .", 
+                "memory of this outstanding russian diplomat , a man who did so much to counter terrorism in his diplomatic line of work , andrei gennadyevich karlov , will remain in our hearts forever . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585819ece4b0fb6baf9188f9", 
+            "title": "turkish special forces surround building", 
+            "text": [
+                "hurriyet newspaper says turkish special forces have surrounded the building .", 
+                "meanwhile , a witness has told reuters that while gunfire resounded for some time after the attack , it has now stopped ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581827e4b0c688e56c936b", 
+            "title": "attack intended 'to ruin turkey-russia relations '", 
+            "text": [
+                "the mayor of ankara , melih gokcek , says the attack is directed at ruining turkey-russia relations ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5858187fe4b0c688e56c936d", 
+            "title": "breakingambassador killed - russian officials", 
+            "text": [
+                "ambassador karlov has been killed in the shooting , russian officials say"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5858166be4b0c688e56c9365", 
+            "title": "a chequered relationship", 
+            "text": [
+                "turkey and russia have had a a chequered relationship in recent months .", 
+                "relations have been improving since turkey shot down a russian warplane on syria 's border in november 2015 .", 
+                "the two countries agreed a gas deal in august in which presidents erdogan and putin agreed to patch up their damaging quarrel , pledging to restore close economic relations .", 
+                "but even at the time .", 
+                "it was described by the bbc 's sarah rainsofrd as `` an alliance of misfits '' .", 
+                "in october the two countries agreed closer military relations ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585817fbe4b0fb6baf9188f3", 
+            "title": "smartly dressed gunman", 
+            "text": [
+                "footage from inside the building showed a smartly dressed gunman , wearing a suit and tie , waving a pistol and shouting .", 
+                "he can be heard yelling `` do n't forget about aleppo , do n't forget about syria '' and uses the islamic phrase `` allahu akbar '' ( god is great '' ) .", 
+                "reports suggest the gunman was later killed by police ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585816f8e4b0fb6baf9188ec", 
+            "title": "shot at speaking engagement", 
+            "text": [
+                "ambassador andrei karlov was shot as he was speaking at the exhibition called `` russia as seen by turks '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581561e4b055b7d25a9877", 
+            "title": "location of attack", 
+            "text": [
+                "welcome to our live coverage of the shooting of russia 's ambassador in the turkish capital , ankara .", 
+                "the attack happened at a major art exhibition hall in the cankaya district where most foreign embassies are based , including russia 's mission , .", 
+                "afp reports ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:16"
+        }
+    ], 
+    "genre": "world-europe", 
+    "quality": "high"
+}

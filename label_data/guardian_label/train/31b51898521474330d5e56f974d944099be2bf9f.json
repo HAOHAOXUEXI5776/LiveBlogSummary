@@ -1,0 +1,1664 @@
+{
+    "blog_id": "31b51898521474330d5e56f974d944099be2bf9f", 
+    "title": "US economy grows at fastest pace in a decade \u00e2\u0080\u0093 live | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live", 
+    "summary": [
+        "european markets keep santa rally going .", 
+        "dow jones hits 18,000 for the first time .", 
+        "us growth rate surges to 5 % : early reaction .", 
+        "ap : us growth is sizzling .", 
+        "us smashes forecasts with 5.0 % annualised growth .", 
+        "labour : osborne has failed to rebalance britain 's economy .", 
+        "uk no longer outpacing america or australia ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-549996dfe4b069a7f08a7c98", 
+            "title": "european markets keep santa rally going", 
+            "text": [
+                "on the last full trading day before christmas , european shares shrugged off worries about the weak oil price to record another positive performance .", 
+                "there was a mixed bag of economic news , with uk growth disappointing but us gdp stronger than expected .", 
+                "the failure of the second greek presidential vote , while not unexpected , acted as a slight restraint on the positive mood , with the athens market not surprisingly falling back .", 
+                "the final scores showed : the ftse 100 finished 21.44 points or 0.33 % higher at 6598.18 germany 's dax added 0.57 % to 9922.11 france 's cac closed 1.42 % better at 4314.97 italy 's ftse mib added 1.46 % to 19,352.13 spain 's ibex ended up 1.03 % to 10,477.7 the athens market fell 1.69 % to 853.2 on wall street the dow jones industrial average is currently 81 points or 0.45 % higher at 18,040 .", 
+                "the rouble is up around 1.6 % to just below 55 to the dollar , while brent crude is up 1 % at $ 60.74 .", 
+                "on that note it 's time to close up for the evening .", 
+                "thanks for all your comments and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                17, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54998f2fe4b069a7f08a7c95", 
+            "title": "", 
+            "text": [
+                "marketwatch graphics ( @ mktwgraphics ) dow set for the fifth fastest 1,000-point rise in history .", 
+                "$ djia"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                15, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549986dce4b0b52189cd6f88", 
+            "title": "", 
+            "text": [
+                "as the dow jones industrial average passes through 18,000 to a new high , and the s & p 500 also setting an intra-day record in the wake of the gdp figures , it is no surprise that the us is outpacing other markets .", 
+                "but here 's the visual evidence : michael mcdonough ( @ m mcdonough ) a contender for chart of the year : msci world index ( excluding the u.s. ) vs. the msci u.s. index"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                15, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5499848ce4b0b52189cd6f83", 
+            "title": "", 
+            "text": [
+                "and now a disappointing us number .", 
+                "sales of new single family homes fell for the second month in a row in november , down 1.6 % to a seasonally adjusted annual rate of 438,000 units compared with expectations of a rise to 460,000 .", 
+                "to emphasise the fragility of the us housing market , october 's figure was revised down from 458,000 to 445,000 .", 
+                "michael hewson ( @ mhewson cmc ) us new home sales drop 1.6 % in november following on from yesterday 's poor existing home sales numbers .", 
+                "separately consumer spending recorded its biggest gain in three months , up 0.6 % in november according to the commerce department , as the fall in oil prices gave people more disposable income ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                15, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54998326e4b0b9ba12afcbc1", 
+            "title": "", 
+            "text": [
+                "us consumer confidence hit its best level for nearly eight years this month , thanks to cheaper petrol ( sorry , gasoline ) prices and better job and wage prospects .", 
+                "the thomson reuters/university of michigan index came in at 93.6 on its final reading , the highest since january 2007 and up from 88.8 in november .", 
+                "it was just below the initial estimate of 93.8 but better than the 93.5 that analysts had been expecting .", 
+                "richard curtin , the survey 's director , said : consumers held the most favourable long-term prospects for the national economy in the past decade .", 
+                "importantly , the 2014 gains in jobs and wages were widespread across all population subgroups and regions ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                15, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549980e0e4b0b52189cd6f79", 
+            "title": "", 
+            "text": [
+                "of course , the upbeat us data has revived the prospect of higher interest rates from the federal reserve , reflected in a rise in the dollar .", 
+                "michael hewson at cmc markets said : what this data does is raise expectations that the fed might find it much more difficult to resist calls for tighter policy as we head into 2015 irrespective of the deflationary effects of the recent falls in the oil price .", 
+                "the performance of the us dollar would also appear to reflect that with the us dollar index posting its best levels since 2006 , and the euro/dollar and dollar/yen looking to test and potentially break some very important technical levels .", 
+                "federal reserve chair janet yellen .", 
+                "photo : ap/cliff owen"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54997c58e4b0b52189cd6f71", 
+            "title": "dow jones hits 18,000 for the first time", 
+            "text": [
+                "wall street has opened , and in the wake of the better than expected us growth numbers , it has opened well .", 
+                "the dow jones industrial average is up 54 points or 0.3 % to break through the 18,000 barrier for the first time .", 
+                "while the s & p has climbed 4.42 points or 0.2 % .", 
+                "more us data is due shortly , including confidence , housing and manufacturing figures .", 
+                "jamie mcgeever ( @ reutersjamie ) dow jones above 18,000 , meaning it has risen 1,000 points in just one week :"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54997abfe4b0787a8292c910", 
+            "title": "", 
+            "text": [
+                "allianz chief economist , mohamed el-erian , points out that the us is diverging from other advanced economies mohamed a. el-erian ( @ elerianm ) the `` wow '' revision ( up to 5 % ) in us q3 # gdp higlights global economic/policy # divergence .", 
+                "look for many analysts to revist 2015 projections"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54997a83e4b086b7c9dab003", 
+            "title": "", 
+            "text": [
+                "duncan weldon ( @ duncanweldon ) respective gdp revisions today another reason to expect the fed to hike rates before the bank of england ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54997960e4b086b7c9dab002", 
+            "title": "", 
+            "text": [
+                "there is one small fly in the ointment - sales of us durable goods ( items meant to last at least three years ) fell by 0.7 % in november ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54997883e4b0b9ba12afcbb8", 
+            "title": "", 
+            "text": [
+                "this is the latest in a stream of decent-looking us economic data that has n't ( yet at least ) boosted president obama 's popularity , points out the ft 's richard blackden : richard blackden ( @ richardblackden ) us gdp : 5 % , job growth : 321,000 ; gas : $ 2.40 obama poll rating : 45 % .", 
+                "clinton adage `` it 's all about the economy '' looks out of date post crisis"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549976d3e4b0b9ba12afcbb3", 
+            "title": "us growth rate surges to 5 % : early reaction", 
+            "text": [
+                "james pethokoukis ( @ jimpethokoukis ) from 1981-2000 , us had 21 quarters of 5 % real gdp growth or faster , since then , just 2 - including 3q 2014 yannis koutsomitis ( @ yannikouts ) us gdp data just enhanced us/eurozone economies ' decoupling .", 
+                "us rates hike & ez qe getting closer .", 
+                "jamie mcgeever ( @ reutersjamie ) blistering 5 % us gdp growth pushes dollar to 8-yr high .", 
+                "increasingly looks like its 3-decade downtrend may be over : max gomarasca ( @ maxonthenet ) merry xmas # us - # consumer spending powers q3 # gdp to 5.0 % # rate # market # business # investment # equity # stocks # money"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                11
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549975b5e4b0b9ba12afcbb2", 
+            "title": "", 
+            "text": [
+                "the outlook for us growth looks rosy , says paul dales of capital economics , even though today 's data shows families had to dip into their savings .", 
+                "dales explains : the upward revision to third-quarter annualised gdp growth , to 5.0 % from 3.9 % ( consensus 4.3 % ) , left the economy expanding at its fastest rate in 11 years .", 
+                "the revision was mainly due to faster consumption growth ( 3.2 % v.s .", 
+                "2.2 % ) .", 
+                "that was despite a downward revision to annualised growth of real disposable incomes ( to 2.0 % from 2.3 % ) , which suggests households reduced their saving rate ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                14, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549974dee4b0787a8292c90c", 
+            "title": "", 
+            "text": [
+                "the us dow jones index is expected to smash through the 18,000 point mark for the first time , when trading begins in 30 minutes .", 
+                "cnbc now ( @ cnbcnow ) alert : dow futures indicating an open above 18,000 for the first time ever ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5499743ce4b0787a8292c90b", 
+            "title": "ap : us growth is sizzling", 
+            "text": [
+                "here 's associated press 's take on the forecast-busting american growth data : us economy grew at fast 5 pct .", 
+                "annual rate in q3 the u.s. economy grew at a sizzling 5 % annual rate in the july-september period , the fastest in more than a decade , boosted by strength in consumer spending and business investment .", 
+                "the commerce department on tuesday sharply revised up its estimate of third-quarter growth from a previous figure of 3.9 % .", 
+                "much of the strength came from consumer spending on health care and business spending on structures and computer software .", 
+                "it was the fastest quarterly growth since the summer of 2003 .", 
+                "it followed a 4.6 % annual growth rate in the april-june quarter .", 
+                "most economists think growth is slowing to an annual rate of around 2.5 % in the current october-december quarter .", 
+                "they foresee growth around 3 % in 2015 .", 
+                "that would be the strongest figure since the economy expanded 3.3 % in 2005 , two years before the great recession began .", 
+                "the 2007-2009 downturn , the worst since the 1930s , cost millions of people their jobs .", 
+                "since then , the economy has struggled to regain full health .", 
+                "even after the recession ended in june 2009 , the economy has turned in mediocre growth rates averaging 2.2 percent annually .", 
+                "but many analysts think growth is finally set to accelerate as more businesses have grown confident about hiring .", 
+                "the country is on track to have its healthiest year for job growth since 1999 .", 
+                "in november , employers added 321,000 jobs , the biggest one-month increase in three years .", 
+                "with more people working and having money to spend , solid gains are expected in consumer spending , which accounts for about 70 percent of the economy ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549972dae4b069a7f08a7c84", 
+            "title": "", 
+            "text": [
+                "a quick note : it can be confusing to compare us and uk gdp data , because america reports an \u0080\u0098annualised ' growth rate , in this case a remarkable 5.0 % .", 
+                "that means it actually grew by around 1.25 % in july-september .", 
+                "in comparison , the uk expanded by 0.7 % , or 2.8 % on an annualised basis .", 
+                "that 's different to britain 's year-on-year growth rate , which was revised down to 2.6 % earlier today ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5499724be4b0b9ba12afcbb0", 
+            "title": "", 
+            "text": [
+                "the commerce department says that personal consumption , business investment , federal and local government spending , and exports all contributed to us growth in the last quarter ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549971bfe4b069a7f08a7c83", 
+            "title": "", 
+            "text": [
+                "us consumer spending and business investment were both stronger than first estimated , leading the us commerce department to revise up its estimate for us growth to 5 % ( annualised ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54996e14e4b0b9ba12afcbab", 
+            "title": "us smashes forecasts with 5.0 % annualised growth", 
+            "text": [
+                "breaking !", 
+                "the us economy grew at a blistering 5.0 % annual rate in the third quarter of 2014 , the fastest rate in over a decade .", 
+                "that 's the equivalent of 1.25 % growth quarter-on-quarter .", 
+                "the previous estimate was a 3.9 % annual rate , or almost 1 % quarter-on-quarter .", 
+                "so , a big beat , and a genuinely strong reading .", 
+                "it 's the fastest quarterly rate since the third quarter of 2003 .", 
+                "the commerce departmant has revised up its forecast for consumer spending , and business investment .", 
+                "bottom line : the us economy is up pace , at a time when europe is stagnating , japan is back in recession , china is slowing , and russia is risking a full-blown crisis .", 
+                "details and reaction to follow"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54996db5e4b086b7c9daaffe", 
+            "title": "", 
+            "text": [
+                "ok , it 's nearly time for the next data splurge updated gdp data from the us and canada for the last quarter"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54996d09e4b069a7f08a7c80", 
+            "title": "", 
+            "text": [
+                ".", 
+                "sterling has hit a 16-month low agains the us dollar , as the city gives its verdict on today 's data .", 
+                "the pound is down almost 0.5 % , or 0.7 of a cent , at $ 1.552 , the lowest since september 2013 .", 
+                "that 's partly because the dollar is rallying against most currencies ; the euro has hit a 28-month low against the greenback ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549969fde4b0b52189cd6f5e", 
+            "title": "", 
+            "text": [
+                "back in the city of london , shoppers are hitting the streets as the clock ticks towards christmas day .", 
+                "the times ' juliet samuel spies a lengthy queue at popular scent firm jo malone .", 
+                "juliet samuel ( @ citysamuel ) panicked christmas shoppers outside jo malone in the city today juliet samuel ( @ citysamuel ) `` every year it 's the same , '' observes a passing suit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549965e4e4b0b52189cd6f59", 
+            "title": "", 
+            "text": [
+                "a reader has politely suggested i 'm being too pessimistic about the uk 's growth figures .", 
+                "and to be fair , a 2.6 % increase in gdp over the last 12 months is much better than the european average .", 
+                "france , for example , has only grown by 0.4 % over the last 12 months , while germany expanded by 1.2 % .", 
+                "and both economies are expected to under-perform the uk in 2015 , when the economy is predicted to grow by another 2.4 % martin beck , senior economic advisor to the ey item club , reckons the fall in the oil price could mean faster growth next year , so it 's not all doom and gloom ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                13, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5499621ae4b0b9ba12afcb9e", 
+            "title": "", 
+            "text": [
+                "heads up : we get updated us growth data in around 45 minutes .", 
+                "economists reckon that america 's gdp could be revised higher , to show an annual growth rate of perhaps 4.3 % in the last quarter , up from the previous forecast of 3.9 % .", 
+                "anil panchal ( @ fx anil ) rt @ twitterid : what to watch in the u.s. gdp report that comes out at 8:30 a.m. est :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                12, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54994ce0e4b0305868b4e7c2", 
+            "title": "summary : worrying news on the uk economy", 
+            "text": [
+                "britain has been dealt a double-dose of unfestive economic news this morning , showing that the recovery may be on more fragile ground than feared .", 
+                "the office for national statistics has lowered its estimate for growth over the last 12 months to 2.6 % , sharply down from 3 % .", 
+                "the ons confirmed that the economy grew by 0.7 % in july-september , down from 0.8 % in q2 , and trimmed growth forecasts for the previous five quarters .", 
+                "today 's revisions ( light blue ) vs previous forecasts ( dark blue ) .", 
+                "the data also confirmed that business investment contracted in the last quarter , leaving britain worryingly reliant on consumer spending .", 
+                "reuters sums it up : household spending rose 0.9 percent from the april-june period , up speed from the second quarter , and was the main driver of growth .", 
+                "the data showed consumers dug into their savings .", 
+                "household disposable income , after tax and inflation , fell 0.1 percent on the quarter and was up only 1.0 percent on the year , reflecting weak pay growth that has raised questions about the durability of the economic recovery .", 
+                "weak earnings have also put the issue of living standards at the centre of campaigning for britain 's national elections in may .", 
+                "business investment , which is considered crucial to ensure the economy continues to grow , fell 1.4 percent from the second quarter and was up 5.2 percent compared with a year earlier , the office for national statistics said .", 
+                "it probably means that the uk is no longer the fastest growing advanced economy ; that crown has been passed to australia .", 
+                "ben chu ( @ benchu ) on an annual basis the uk is not `` fastest growing of any major advanced economy in the world '' .", 
+                "oz and us stronger : the opposition labour party have seized on the data ; shadow treasury minister shabana mahmood says the chancellor has totally failed to rebalance the economy as he promised .", 
+                "economists agree that the data shows the uk is slowing down , and that economy is more unbalanced .", 
+                "there is also concern that britain 's current account deficit the difference between the money that flowed into the uk , and flowed out hit a record , at 6 % of gdp .", 
+                "gergely polner ( @ eurocrat ) the uk 's current account deficit has reached 6 % of gdp - the highest ever recorded via @ twitterid the british chambers of commerce say that such a deficit is simply unsustainable .", 
+                "the cebr fears that the pound could be hit : with the downward revisions to growth and a slightly less rosy outlook , financial markets may soon turn their attention to more concerning aspects of the uk economy such as the current account deficit .", 
+                "if the current account position continues to decline in the coming quarters , then a sterling sell-off may become a viable concern in the not too distant future .", 
+                "and newsnight 's duncan weldon has explained how it could undermine confidence in the uk economy .", 
+                "it 's all rather worrying .", 
+                "duncan weldon ( @ duncanweldon ) gdp revisions leave uk recovery looking slower & more unbalanced .", 
+                "add in a large current deficit and the word 'fragile ' comes to mind .", 
+                "and in other news greek debt is weakening after mps rejected the government 's nominee as president for the second time .", 
+                "stavros dimas attracted just 168 votes , 12 shy of the 180 target in next week 's third , final , vote .", 
+                "thepressproject en ( @ pressproject en ) rt @ twitterid parliament fails to back pm 's presidential candidate in second vote # ptd # greece an early election in 2015 looks increasingly likely , raising the prospect that the left-wing syriza party will take power - and push for a new deal on greek debt .", 
+                "lemasabachthani ( @ lemasabachthani ) samaras says dangerous for country to go to early elections"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                12, 
+                14
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54995bfae4b069a7f08a7c77", 
+            "title": "", 
+            "text": [
+                "sam alderson , economist at the centre for economics and business research , fears that the trajectory of the current account deficit could significantly hold back economic growth prospects , especially as export prospects look weak : british car manufacturer jaguar land rover suspended sales to russia in recent days as the value of the russian rouble collapsed .", 
+                "russia is not the only economy struggling and economic weakness in other emerging markets and advanced economies such as the eurozone and japan looks likely to continue to hold back income from overseas investments ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                12, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5499568ce4b0b9ba12afcb8a", 
+            "title": "", 
+            "text": [
+                "economist howard archer of ihs global insight says the uk economy looks somewhat unbalanced and disappointing .", 
+                "growth was heavily dependent on consumer spending ( up 0.9 % % quarter-on-quarter ) while there was also an appreciable contribution from higher inventories .", 
+                "there was a worrying marked relapse in business investment ( down 1.4 % quarter-on-quarter ) , although overall investment edged up 0.1 % quarter-on-quarter in the third quarter as it was helped by a rebound in government investment after a sharp fall in the second quarter .", 
+                "meanwhile , net trade was modestly negative as exports rose 0.6 % quarter-on-quarter and imports grew 0.9 % quarter-on-quarter ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549953d6e4b09af8f3be4e06", 
+            "title": "labour : osborne has failed to rebalance britain 's economy", 
+            "text": [
+                "shabana mahmood mp , labour 's shadow treasury minister , says today 's data shows george osborne has failed to rebalance the economy : these are concerning figures .", 
+                "growth has been revised down for five of the last six quarters , exports continue to disappoint and business investment fell in the last quarter .", 
+                "the chancellor has totally failed to rebalance the economy as he promised .", 
+                "and working people are still not feeling the recovery with wages sluggish and average earnings in real terms down \u00e2\u00a3 1600 a year since 2010 .", 
+                "labour 's economic plan will ensure we earn our way to rising living standards for all , not just a few .", 
+                "alongside sensible spending cuts and ensuring those with the broadest shoulders make a greater contribution , that 's the way to get the deficit down in a tough but balanced way .", 
+                "on the rebalancing point today 's gdp report shows that uk industry only grew by 0.2 % in the last quarter , while services expanded by 0.8 % and construction by 1.6 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54995195e4b09af8f3be4e03", 
+            "title": "uk no longer outpacing america or australia", 
+            "text": [
+                "today 's gdp revisions mean that the uk has not been growing significantly faster than america this year .", 
+                "this chart from the ons shows that uk gdp ( red bars ) is barely ahead of the us ( blue line ) so far this year : .", 
+                "sky 's ed conway reckons george osborne can no longer brag that the uk is the fastest growing of any major advanced economy in the world .", 
+                "he writes : far from growing at an annual rate of 3 % in the year to the third quarter , the uk economy actually grew by 2.6 % .", 
+                "now , while this remains , of course , a decent growth rate , particularly considering the depth of britain 's financial crisis and the weakness of the eu , it does undermine those boasts .", 
+                "because of that reduced annual growth rate , the uk is growing slower than australia , at the same rate as canada , and only a touch faster than the us .", 
+                "ed conway ( @ edconwaysky ) after today 's @ twitterid revisions @ twitterid osborne can no longer claim uk is fastest growing economy in developed world"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54994e01e4b042919937352f", 
+            "title": "", 
+            "text": [
+                "the downward revisions to uk gdp mean britain may fail to grow by 3 % this year : david smith ( @ dsmitheconomics ) extensive revisions ( as last december ) mean 2014 gdp growth now likely to come in a bit below 3 % , for now at least :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54994c02e4b042919937352e", 
+            "title": "", 
+            "text": [
+                "a current account deficit is n't , on its own , a bad thing .", 
+                "in a global economy , some country 's will inevitably be taking in more than they give out .", 
+                "but britain 's deficit , as a share of gdp , even bigger than in the latter days of the thatcher government .", 
+                "and that ended with a recession , pressure on the pound , and sterling being ejected from the european exchange rate mechanism : ben chu ( @ benchu ) uk 's quarterly current account deficit now bigger as a % of gdp than it was in the lawson boom of the late 1980s :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54994a8be4b0e1e78c1f841c", 
+            "title": "bcc : current account deficit is unsustainable", 
+            "text": [
+                "the british chambers of commerce ( bcc ) says britain 's current account deficit has how hit unsustainable levels , at 6 % of gdp or \u00e2\u00a3 27bn .", 
+                "it is also concerned that today 's growth figures show the uk recovery is slowing .", 
+                "bcc chief economist david kern says : while the quarterly results remain strong , the stark revision in annual growth confirms that the pace of recovery is slowing .", 
+                "the most concerning aspect of these figures is that the current deficit has risen to an unsustainably high level due to the fall in net investment .", 
+                "although the economy continues to grow , the recovery is not yet secure and further efforts are needed to boost business investment and to help businesses export to foreign markets ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54994596e4b0305868b4e7be", 
+            "title": "why britain 's current account deficit is a big worry", 
+            "text": [
+                "how worried should we be that britain 's current account deficit has soared to \u00e2\u00a3 27bn , or 6 % of gdp ?", 
+                "very concerned , argues newsnight economics correspondent duncan weldon .", 
+                "the current account shows how much money the uk receives from the rest of the world and how much we pay out .", 
+                "it includes trade ( goods and services in and out ) and \u0080\u0098net investment income ' - the difference between what britain earns on overseas investments , and what foreign investors take out of the uk .", 
+                "and the failure to narrow the gap , while the economy has been growing , could eventually alarm investors and hit faith in the uk .", 
+                "duncan did a detailed blogpost on this two weeks ago .", 
+                "here 's a flavour : the nightmare scenario one you 'll occasionally hear from city types and which whilst almost no one 's \u0080\u0098base case ' is worth not totally ignoring runs something like this .", 
+                "overseas investors see a current deficit that is n't coming down , they see a government deficit that is still a high and they maybe start to pay attention to polls predicting a very messy outcome in next year 's general election .", 
+                "their reaction is to start sell sterling and push down the value of the pound .", 
+                "a moderate downwards move in sterling could prove helpful it might make uk exports more competitive and help reduce the trade deficit and it could help push up inflation , which is currently below the bank of england 's target .", 
+                "sterling was devalued hugely between 2008 and 2009 in a move that was quietly welcomed by uk policymakers .", 
+                "but the extreme scenario goes further , it sees disorderly sell off in sterling and sterling assets as international investors begin to dump anything connected to the uk .", 
+                "assets prices fall and sterling depreciates quickly pushing up inflation to well ahead of the bank of england 's target .", 
+                "if the bank then raises interest rates , it causes havoc among indebted families .", 
+                "and today 's gdp data showed that households continue to dig into their savings to fund consumer spending , giving them less protection against a rate hike duncan weldon ( @ duncanweldon ) uk current account deficit widens to 6 % of gdp .", 
+                "huge .", 
+                "something i wrote about why that might be a reason to worry -"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549945d8e4b0e1e78c1f8415", 
+            "title": "", 
+            "text": [
+                "it 's official - just 168 greek mps backed the government in today 's presidential vote , eight more than last time , but well shy of the 200 target .", 
+                "next week 's vote is now crucial ; the target drops to 180 , so another 12 arms need to be twisted yannis koutsomitis ( @ yannikouts ) # greece | 2nd presidential vote fails to elect a new president .", 
+                "dimas gets 168 votes .", 
+                "3rd & final vote december 29 .", 
+                "# ptd"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54994431e4b042919937352a", 
+            "title": "greek mps reject presidential candidate again", 
+            "text": [
+                "just in : the greek government has failed to win enough support for its presidential candidate , stavros dimas , bringing early elections a step closer .", 
+                "we do n't have the final vote yet , but two mps from the neo-nazi golden dawn party have backed dimas this time , suggesting the government may have more support than last week .", 
+                "nick malkoutzis ( @ nickmalkoutzis ) both former golden dawn mps ( boukouras & alexopoulos ) vote for dimas as president after being absent in first round # greece damian mac con uladh ( @ damomac ) so , the govt 's presidential candidate has up 2 votes from former # goldendawn mps , one of whom is facing criminal charges .", 
+                "# ptd"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                35
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549943d6e4b0abb34724c1d2", 
+            "title": "", 
+            "text": [
+                "those downward revisions mean that britain 's economy is only 2.9 % larger than before the financial crisis , not 3.4 % as previously thought ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549942ace4b0e1e78c1f8412", 
+            "title": "", 
+            "text": [
+                "the greek government is struggling to win a decisive majority in the presidential vote the result is due very soon derek gatopoulos ( @ dgatopoulos ) midway through voting : 71-69 for dimas # greece # ptd"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54994193e4b0ab3037000981", 
+            "title": "", 
+            "text": [
+                "ben chu ( @ benchu ) here 's those ons gdp growth revisions on an annual basis .", 
+                "downward revisions for the past five quarters :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54993eeee4b0e1e78c1f840b", 
+            "title": "", 
+            "text": [
+                "back to the disappointing uk economic data .", 
+                "britain 's annual growth rate was revised down to 2.6 % from 3 % because investment by businesses and the government was weaker than expected over the last year as his chart shows , the ons has cut its growth estimates for five of the last six quarters : uk gdp revisions the decline in business investment is particularly worrying ; declining by 1.4 % compared with the second quarter of 2014 .", 
+                "household spending , though , continued to drive the recovery by rising by 0.9 % in q3 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54993e45e4b0429199373526", 
+            "title": "", 
+            "text": [
+                "heads-up .", 
+                "mps in greece are voting on whether to accept the government 's candidate as president .", 
+                "as explained earlier , we expect stavros dimas to be rejected , but can he win more support than last week ?", 
+                "lorcan roche kelly ( @ lorcanrk ) there 's a new drama on greek tv called `` the vote '' second episode is about to start here saw it last week , was v good ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54993daae4b0e1e78c1f840a", 
+            "title": "", 
+            "text": [
+                "sky 's ed conway is alarmed by the deterioration in the uk 's current account balance with the rest of the world : ed conway ( @ edconwaysky ) the current account is yr country 's financial balance with rest of world .", 
+                "uk 's really does n't look pretty right now"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54993abbe4b0e1e78c1f8405", 
+            "title": "uk current account deficit balloons to \u00e2\u00a3 27bn", 
+            "text": [
+                "there 's a second dose of bad news for britain 's economy ; the current account deficit has soared to \u00e2\u00a3 27bn in the third quarter of 2014 .", 
+                "that 's \u00e2\u00a3 4bn more than economists had expected , and is an eye-watering 6 % of gdp .", 
+                "it shows that the uk continues to import much more goods and services than it sells to the rest of the world .", 
+                "the ons blamed a drop in receipts from foreign direct investment , and a rise in payments to foreign direct investors .", 
+                "ransquawk ( @ ransquawk ) large fall in invest .", 
+                "income as part of primary income of uk current account in q3 looks to be standout component that led to large deficit jamie mcgeever ( @ reutersjamie ) britain 's current account deficit balloons to a record \u00e2\u00a3 27 bln in q3 .", 
+                "that 's 6 % of gdp : the trade deficit component of the current account deficit came in at \u00e2\u00a3 9bn , slightly better than \u00e2\u00a3 9.2 billion in april-june .", 
+                "that due a larger surplus on trade in services ; however , the deficit in goods did widen.."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                10, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549939a5e4b07f6efdae7d5b", 
+            "title": "uk gdp : the key charts", 
+            "text": [
+                "this downward revision to uk growth , from 3 % to 2.6 % , over the last year is particularly disappointing as britain has already been experiencing the slowest recovery in decades .", 
+                "uk gdp uk gdp"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                48
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-549936a6e4b0429199373524", 
+            "title": "uk annual growth rate revised down", 
+            "text": [
+                "the uk economy grew by 0.7 % in the third quarter of 2014 , in line with initial expectations , and down from 0.9 % in q2 .", 
+                "but the office for national statistics has revised down the annual growth rate to 2.6 % , from 3 % previously .", 
+                "that 's quite a downward revision , showing britain 's recovery has not been as strong as expected .", 
+                "ed conway ( @ edconwaysky ) ons leaves its estimate of q3 2014 quarterly gdp growth unchanged at 0.7 % .", 
+                "but previous five quarters revised down shaun richards ( @ notayesmansecon ) ouch !", 
+                "uk ons : between q3 2013 and q3 2014 , # gdp in volume terms increased by 2.6 % , revised downwards by 0.4 % # noxmaspresent more details and reaction to follow"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                37
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549935dee4b0305868b4e7b7", 
+            "title": "", 
+            "text": [
+                "here come the updated uk growth and current account figures louisa bojesen ( @ louisabojesen ) got ta love a little uk gdp"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54993482e4b0e1e78c1f8401", 
+            "title": "", 
+            "text": [
+                "here 's a handy breakdown of the greek parliament , showing how the government ( left hand side ) is struggling to attract support for today 's presidential vote .", 
+                "olaf cramme ( @ olafcramme ) smart summary by @ twitterid gr of 2nd round vote today in # greece .", 
+                "no majority in sight for gov't candidate ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549932c3e4b0abb34724c1c8", 
+            "title": "", 
+            "text": [
+                "back to the uk festive rush , and john lewis says it expects a mad rush in the final shopping days before christmas as it reported a drop in last week 's sales .", 
+                "my colleague julia kollewe explains : the department store chain made sales of \u00e2\u00a3 160.6m in the week to last saturday , up 6.5 % on the previous week but down 2.4 % from a year ago .", 
+                "john lewis , seen as a barometer of the high street , said customers are leaving their christmas shopping right up until the last minute .", 
+                "online sales rose 5.5 % year-on-year .", 
+                "it also suggests that the black friday sales ( on november 28 ) pulled forward some spending from december .", 
+                "so it could be manic on the high streets today , as the christmas spirit grips the nation : abi wilkinson ( @ abiwilks ) \u00f0\u009f\u008e\u0084\u00f0\u009f\u008e\u0081\u00f0\u009f\u008e \u00f0\u009f\u0098\u0084"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5499305de4b0429199373523", 
+            "title": "", 
+            "text": [
+                "italian consumers remain downbeat , as the country endures another recession .", 
+                "retail sales in italy stagnated for the second month running in october , with no growth across the sector , data just released showed .", 
+                "cigolo ( @ cigolo ) italy retail sales stagnate in october for second month running ( 0.0 % mm , -0.8 % yy )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54992f01e4b0305868b4e7b4", 
+            "title": "", 
+            "text": [
+                "yannis koutsomitis ( @ yannikouts ) # greece | 2nd presidential vote in parliament at 1000 gmt .", 
+                "threshold still 200 votes .", 
+                "dimas expected to get 164~166 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54992bb4e4b0e1e78c1f83fc", 
+            "title": "can greek pm win more support ?", 
+            "text": [
+                "greek pm antonis samaras yesterday .", 
+                "ntantamis/kostis ntantamis/demotix/corbis over in greece , prime minister antonis samaras is nervously waiting to discover if his presidential nominee wins more support than last week .", 
+                "mps vote in an hour 's time .", 
+                "and political analysts predict that the government will again fall short in its bid to get stavros dimas appointed as greece 's next president .", 
+                "last week , just 160 mps backed him ; prompting samaras to promise elections at the end of 2015 in return for support .", 
+                "that may lure a few waverers , but samaras looks a long way short of the 180 he needs to win the third , decisive vote next week .", 
+                "kathimerini newspaper reports : the overture by samaras who also pledged to broaden the government to include pro-european personalities appeared to have influenced some skeptical independent lawmakers .", 
+                "a few indicated on monday that they would vote for the government 's candidate , former european commissioner stavros dimas .", 
+                "the government is certain to fall short of tuesday 's minimum of 200 votes but its performance will give an indication of whether it will be able to attain the 180 necessary in next monday 's final ballot to avert snap general elections .", 
+                "yiannis mouzakis ( @ yiannismouzakis ) @ efiefthimiou 165 - 167 # greekvoteguesses"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                57
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54992801e4b0ab3037000970", 
+            "title": "", 
+            "text": [
+                "it would n't be christmas without profit warnings .", 
+                "and chocolate maker thorntons has become the first uk retailer to admit that it wo n't hit expectations .", 
+                "around a quarter has been wiped off thornton 's value , after it warned that profits will be lower than last year .", 
+                "it blamed a significant reduction in orders from grocers , suggesting thorntons is a casualty of the price war raging in the supermarket sector .", 
+                "but that 's not all ; it also encountered significant short-term difficulties with its new centralised warehouse .", 
+                "it 's a bitter blow to investors ; thorntons shares fell from 118p to 77p , before climbing back to 91p.. reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54992932e4b0abb34724c1c3", 
+            "title": "", 
+            "text": [
+                "ransquawk ( @ ransquawk ) uk gdp up in 1 hour and greek presidential voting starts at 1000 gmt"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54992623e4b042919937351e", 
+            "title": "", 
+            "text": [
+                "christmas trees in moscow vyacheslav/ .", 
+                "russia 's currency crisis has eased a little this morning , with the rouble inching up 1 % to 55 roubles to the $ 1 .", 
+                "that follows a report that pm dmitry medvedev has signed an order compelling state exporters to sell some of their foreign currency reserves moscow is taking yesterday 's bailout of trust bank in its stride ; the rts share index is up 1.8 % , with further rescue packages expected .", 
+                "christopher scollo ( @ spycho ) # imf raises fears of global # crisis as russian # bank forced into # bailout"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54992445e4b0abb34724c1c1", 
+            "title": "", 
+            "text": [
+                "europe 's stock markets have opened higher , with the ftsurofirst 300 gaining 0.25 % in early trading .", 
+                "ig 's stam shamu predicts a cautious tone today , as investors watch greece 's second attempt to elect a president ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-549920fbe4b0abb34724c1c0", 
+            "title": "french growth rate confirmed at 0.3 %", 
+            "text": [
+                "just in confirmation that france 's economy grew by 0.3 % in the third quarter of the year .", 
+                "but it 's arguably not the kind of growth that france really needs .", 
+                "insee , the french stats body , confirmed that the growth was driven by household spending ( +0.3 % ) and government spending ( +0.6 % ) .", 
+                "but trade detracted from the french growth rate - as imports jumped by 1.3 % but exports only grew by 0.5 % .", 
+                "and investment contracted by 0.6 % , following a 0.8 % decline in q2 , indicating companies are nervous about buying new equipment .", 
+                "it all means france avoided recession , having contracted by 0.1 % in q2 .", 
+                "french gdp , q3 2014 french consumers are ending the year on a positive enough note ; insee also reported that consumer spending rose by 0.4 % in november .", 
+                "and inflationary pressures remain weak , with the prices charged by factories for their products dropping slightly .", 
+                "markit economics ( @ markiteconomics ) french data out this morning : q3 # gdp confirmed at +0.3 % ; consumer spending up 0.4 % in november ( -0.8 % in october ) ; producer prices : -0.1 %"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                8, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54991813e4b0305868b4e7b3", 
+            "title": "the agenda : uk and us growth figures , and greek vote", 
+            "text": [
+                ".", 
+                "good morning , and welcome to our rolling coverage of the financial markets , the world economy , business and the eurozone .", 
+                "it 's the last full trading day before christmas , and santa has come early with a bumper load of updated growth figures for the uk , us , canada and france ( i must have been terribly good all year # whoknew ?", 
+                ") .", 
+                "there 's a good chance that the us growth rate in the third quarter will be revised up from around 1 % to 1.1 % , and we ca n't rule out the uk 's quarterly 0.7 % growth rate being raised to 0.8 % , following strong construction reports .", 
+                "the latest uk current account is also being released , showing how britain traded with the rest of the world .", 
+                "the french numbers are out now , followed by the uk at 9.30am gmt , and the us and canada at 1.30pm .", 
+                "as well as the topline growth rate , we 'll get fresh details into exactly how each economy performed .", 
+                "michael hewson of cmc markets explains : the final q3 gdp numbers from the uk is expected to be confirmed at growth of 0.7 % and 3 % annualised .", 
+                "the business investment numbers are a concern after the recent adjustment to -0.7 % , suggesting that businesses cut back due to uncertainty over the scottish referendum , with the hope that we will probably have seen a rebound in q4 .", 
+                "we also have us q3 gdp which is expected to be revised up to an annualised 4.3 % , while durable goods ex-transports for november are expected to rebound from the poor october number of -1.1 % to a gain of 1 % .", 
+                "the other big news of the day is the greek parliament will take its second stab at electing a president , at noon local time or 10am gmt .", 
+                "candidate stavros dimas is expected to be rejected again , bringing greece another step closer to snap elections .", 
+                "the crucial third and final vote is on the 29th .", 
+                "we 'll also have half an eye on the uk retail sector as the christmas shopping season reaches a crescendo"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                12, 
+                23, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n5.03pm GMT\n17:03\nEuropean markets keep Santa rally going\n", 
+                "block": "block-549996dfe4b069a7f08a7c98"
+            }, 
+            {
+                "text": "\n\n2.33pm GMT\n14:33\nDow Jones hits 18,000 for the first time\n", 
+                "block": "block-54997c58e4b0b52189cd6f71"
+            }, 
+            {
+                "text": "\n\n2.11pm GMT\n14:11\nUS growth rate surges to 5%: Early reaction\n", 
+                "block": "block-549976d3e4b0b9ba12afcbb3"
+            }, 
+            {
+                "text": "\n\n1.56pm GMT\n13:56\nAP: US growth is sizzling\n", 
+                "block": "block-5499743ce4b0787a8292c90b"
+            }, 
+            {
+                "text": "\n\n1.34pm GMT\n13:34\nUS smashes forecasts with 5.0% annualised growth\n", 
+                "block": "block-54996e14e4b0b9ba12afcbab"
+            }, 
+            {
+                "text": "\n\n11.39am GMT\n11:39\nLabour: Osborne has failed to rebalance Britain's economy\n", 
+                "block": "block-549953d6e4b09af8f3be4e06"
+            }, 
+            {
+                "text": "\n\n11.34am GMT\n11:34\nUK no longer outpacing America or Australia\n", 
+                "block": "block-54995195e4b09af8f3be4e03"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "America smashes forecasts with annualised growth of 5.0% in the last quarter, as Britain's growth is revised lower.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live#block-54996e14e4b0b9ba12afcbab"
+                ], 
+                "text": "Latest: US GDP revised up to 5.0% (annualised).", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live#block-5499743ce4b0787a8292c90b"
+                ], 
+                "text": "AP: It's sizzling growth.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live#block-549975b5e4b0b9ba12afcbb2"
+                ], 
+                "text": "Reaction starts here.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Earlier:", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live#block-54994ce0e4b0305868b4e7c2"
+                ], 
+                "text": "UK growth rate revised down to 2.6% year-on-year.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2014/dec/23/uk-us-growth-greek-presidential-vote-business-live#block-54994596e4b0305868b4e7be"
+                ], 
+                "text": "Why UK's current account deficit is a worry.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/2014/dec/23/is-george-osborne-a-closet-keynesian"
+                ], 
+                "text": "Robert Skidelsky: Is George Osborne a closet Keynesian?", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

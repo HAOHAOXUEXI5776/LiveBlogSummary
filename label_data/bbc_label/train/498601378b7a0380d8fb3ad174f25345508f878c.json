@@ -1,0 +1,697 @@
+{
+    "blog_id": "498601378b7a0380d8fb3ad174f25345508f878c", 
+    "title": "General election 2017: Bedford candidates debate key issues - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-beds-bucks-herts-40043626", 
+    "summary": [
+        "updates on thursday , 1 june 2017 .", 
+        "mp hopefuls for bedford debate issues ahead of the general election .", 
+        "the candidates taking part are : .", 
+        "lucy bywater ( green ) .", 
+        "richard fuller ( conservative ) .", 
+        "henry vann ( lib dem ) .", 
+        "mohammad yasin ( labour ) ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_59305a27e4b084c6e7050cdc", 
+            "title": "goodbye and thanks for joining us for the bedford candidates ' debate", 
+            "text": [
+                "thank you for joining us at bbc beds , herts and bucks for the debate .", 
+                "quite lively at times , we hope it helped you gain a better understanding of the issues ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "19:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5930483ae4b0ee8ae9ea15f7", 
+            "title": "political correspondent 's verdict : 'a knowledgeable debate '", 
+            "text": [
+                "four well-spoken candidates and an audience of more than 200 .", 
+                "presenter roberto perrone promised an informed and knowledgeable debate , and he was n't wrong .", 
+                "our bedford hustings tackled the big issues like the nhs , education and what each party would do for pensioners .", 
+                "candidates were asked for the `` idiotic '' parts of their manifestos and whether they trusted their leaders ( the good news is they all do !", 
+                ") .", 
+                "surprisingly the state of bedfordshire police and worries over bedford hospital were n't really touched on , nor for that matter was brexit .", 
+                "only time will tell how much impact this hustings has had on the voters in a week 's time , but with this seat holding a slender majority of 1,097 , surely every vote and therefore every answer will count ."
+            ], 
+            "author": [
+                "Andy Holmes", 
+                "BBC Three Counties Radio political reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304891e4b0ee8ae9ea15f9", 
+            "title": "what 's your view on fox hunting ?", 
+            "text": [
+                "the panel was asked what their view was of the conservative manifesto commitment for a vote on the repeal of the act banning fox hunting ?", 
+                "richard fuller ( conservative ) said : `` i stood on a manifesto in 2010 which had that in it and nothing happened .", 
+                "i stood in 2015 on a manifesto that had that in it and nothing happened .", 
+                "`` my guess is that nothing is going to happen . ''", 
+                "when asked what his view would be he said he was `` sitting on the privet hedge '' .", 
+                "henry vann ( lib dem ) said : `` if something is in the conservative manifesto and may not happen i would welcome that .", 
+                "`` including fox hunting in the manifesto at this time , i do n't know what 's going through the conservative 's minds . ''", 
+                "lucy bywater ( green party ) said : `` there was a time when bear-baiting and cock-fighting was supported .", 
+                "`` i do n't know why they would waste time trying to repeal the fox hunting ban .", 
+                "it is monstrous . ''", 
+                "mohammad yassin ( labour ) said : `` all of the manifesto is not going to happen it is just a storybook .", 
+                "`` i am completely against fox hunting and would vote against it [ the repeal ] . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "19:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59305a11e4b0ee8ae9ea1635", 
+            "title": "'we need to re-invest money from nhs assets back into healthcare ' : lib dem candidate", 
+            "text": [
+                "henry vann , the lib dem candidate , says it 's an issue the government needs to be `` really hot '' on .", 
+                "`` what we need is to be absolutely transparent on where the money goes if anything does happen to any of the assets of the nhs .", 
+                "`` i think the concern is that this naylor review may cause some people to sell too quickly and just get it out of the door and , as a result , not necessarily get a good market rate to re-invest into the nhs .", 
+                "`` and i 'm worried the money wo n't be re-invested into the nhs and will go elsewhere . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593058c2e4b012a6cdd8f0de", 
+            "title": "'do n't privatise the nhs ' : green party candidate", 
+            "text": [
+                "green candidate lucy bywater says : `` we should do something about inefficiencies [ in the nhs , but ] we do n't throw the baby out with the bath water and say , 'let 's scrap the nhs and privatise it and let it be a profit-led organisation ' . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593057ffe4b084c6e7050cd5", 
+            "title": "'selling off parts of the nhs estate is very worrying ' : labour candidate", 
+            "text": [
+                "mohammad yasin for labour says : `` if the nhs has to sell their assets to pay for nhs [ services ] and they have to sell it very quickly so it means they may have to sell it at a cheap price , it is very , very worrying . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5930572ae4b084c6e7050cd2", 
+            "title": "'nhs needs to manage its estate properly ' - conservative candidate", 
+            "text": [
+                "richard fuller , the conservative candidate , says the nhs currently badly manages its estates and raised the example of gp surgeries in bedford who were unable to create their own super surgery .", 
+                "`` the naylor review , in terms of where it 's directing the nhs estate to be more effective and efficient so money can be found for the nhs , is a good thing to do .", 
+                "i would be very worried if that money was not put back into nhs . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593055c6e4b012a6cdd8f0d1", 
+            "title": "how should the nhs deal with its assets ?", 
+            "text": [
+                "a member of the audience asked the panel of candidates for bedford and kempston about the naylor review in march which called on the nhs to sell off its assets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593052c5e4b0ee8ae9ea1620", 
+            "title": "what can the parties offer pensioners ?", 
+            "text": [
+                "audience member keith asked for the candidates ' views on conservative plans to cut the triple-lock on pensions by 2020 and means-test the winter fuel allowance for pensioners ?", 
+                "the triple-lock sees the state pension rise in line with wages , inflation or by 2.5 % - whichever is highest .", 
+                "however , it is becoming increasingly expensive to maintain and some have called for it to be scrapped .", 
+                "richard fuller ( conservative ) said : `` the reason i voted for the triple-lock when it was brought in was the derisory increase in state pensions under labour .", 
+                "`` i promised to keep the lock until 2020 .", 
+                "it is extremely important to me to protect pensioners .", 
+                "but there is another issue which is fairness to the generations . ''", 
+                "henry vann ( lib dem ) said : `` you can fight back against these policies by not voting conservative . ''", 
+                "he said unlike the labour party and conservative party , the lib dem manifesto is costed .", 
+                "`` we are keeping the triple-lock , '' he added .", 
+                "lucy bywater ( green party ) said : `` the triple-lock needs to be maintained .", 
+                "the money is there .", 
+                "we are the fifth wealthiest economy . ''", 
+                "she said the issue of a growing elderly population needs to be `` grappled with '' .", 
+                "mohammad yassin ( labour ) said : `` you wo n't get a straight answer from mr fuller .", 
+                "theresa may is hitting pensioners hard .", 
+                "the government trying to take savings away from them .", 
+                "`` labour guarantees the triple-lock . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304b7ae4b012a6cdd8f0ae", 
+            "title": "what about the nhs ?", 
+            "text": [
+                "the panel has also been asked about the nhs and the 1 % cap on pay rises for nurse and public sector workers .", 
+                "richard fuller ( conservative ) said : `` i voted to cap the increase in public sector .", 
+                "one of the reasons for that was the rapid increase in public sector wages compared with the private sector in the previous five years .", 
+                "`` a disparity remains .", 
+                "we are still trying to reduce the budget deficit . ''", 
+                "mohammad yassin ( labour ) said : `` richard fuller talked about voting for the cap .", 
+                "he voted for every single cut .", 
+                "we need somebody to oppose those cuts .", 
+                "to stand up for people .", 
+                "`` mr fuller is asking for votes , but does not stand up for the people of bedford . ''", 
+                "lucy bywater ( green party ) said : `` we all value the nhs .", 
+                "we have to spend a lot of money on it because it is really important .", 
+                "`` we are the world 's fifth richest economy , we can and have to afford to pay people properly .", 
+                "but we do n't want to waste money making the nhs compete with private firms . ''", 
+                "henry vann ( lib dem ) said : `` we would lift the cap on public sector pay .", 
+                "we will pay nurses properly .", 
+                "`` people are living longer , so the nhs needs more money and we have a plan to do that . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593051f7e4b012a6cdd8f0c8", 
+            "title": "green candidate says schools are turning into exam factories", 
+            "text": [
+                "lucy bywater , for the greens , says schools in bedford are seeing cuts of \u00a3 300 per pupil .", 
+                "`` we 're going to lose teachers , we 're already losing teachers .", 
+                "`` you 've got less staff , less support staff , the children 's welfare suffers so you end up with exam factories . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593050a0e4b0ee8ae9ea1616", 
+            "title": "conservative candidate denies school funding cuts in bedford", 
+            "text": [
+                "richard fuller says the conservative government has protected school funding over the last five years , but admits that more pupils has meant that per head funding in the country has gone down .", 
+                "`` [ but ] as a member of parliament for bedford and kempston , and through the free funding formula for our town , for our schools , i have protected per pupil funding for our town - and that will happen in bedford and kempston because i 've been member of parliament . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304da0e4b012a6cdd8f0b4", 
+            "title": "more funding for schools , says labour", 
+            "text": [
+                "mohammad yasin for labour says his party would give more money for schools , provide free lunch for primary school children and more free childcare , which would be paid for as outlined in the labour manifesto .", 
+                "`` this government has made \u00a3 8m in cuts to schools in bedfordshire .", 
+                "`` teachers who have joined since 2010 , most of them are leaving because of stress and pressure .", 
+                "headteachers are finding it very difficult to find good teachers . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304c50e4b0ee8ae9ea1605", 
+            "title": "lib dem blames tories for cutting education funding", 
+            "text": [
+                "lib dem candidate henry vann says the conservatives have not been giving local authorities the power or the resources to improve schools .", 
+                "`` our schools are unfunded , we need more money , we need more qualified teachers and every school should be required to employ qualified teachers or those working towards qualification .", 
+                "`` i do n't agree with the conservative policy to remove that requirement and have anyone coming and teaching . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304b21e4b0ee8ae9ea1603", 
+            "title": "teacher asks candidates to do something about the state of education", 
+            "text": [
+                "sandra , a primary school teacher for 40 years , says she 's been appalled at some of the schools she 's been supply teaching in in bedfordshire over the past two years .", 
+                "she put to the panel : `` i want to know how the candidates intend to tackle the poor state of the education system which is , in my opinion , heading towards the same fate as the nhs as young teachers are leaving the profession in droves . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593047a4e4b084c6e7050ca9", 
+            "title": "how would you help small businesses ?", 
+            "text": [
+                "the panel was asked how they would help small businesses in bedford .", 
+                "mohammad yassin ( labour ) said : `` we would ensure a better workforce and put more money into education and training , something which the conservative have not done .", 
+                "`` we would also ask the council to provide lower business rates [ but the council has been hit by ] \u00a3 35m of cuts .", 
+                "we need more money . ''", 
+                "richard fuller ( conservative ) said : `` since i became mp i have tried to increase the number of small businesses in bedfordshire and the number has increased dramatically .", 
+                "`` we should focus together on how to get measures to maintain lower rates and supporting people who run businesses . ''", 
+                "henry vann ( lib dem ) said : `` the first thing i would do is block the conservative plan to make small businesses do quarterly tax returns .", 
+                "`` the conservatives are only talking about deregulation . ''", 
+                "lucy bywater ( green party ) said : `` we would support small businesses because we believe in local communities and the local economy .", 
+                "`` we 'd give extra help to start-up companies . ''", 
+                "she said she was concerned that amazon was paying too little tax compared with local firms in bedford ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304630e4b012a6cdd8f093", 
+            "title": "richard fuller says theresa may is the right person to take britain into brexit", 
+            "text": [
+                "the conservative candidate , richard fuller , rejected criticism of his party leader , theresa may : `` i opposed a number of conservative policies which were in her area [ when she was home secretary ] , particularly on immigration and on stop and search and theresa may , in both cases , listened to the evidence , came to a judgement and changed the law , and i think that speaks volumes for her . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304539e4b0ee8ae9ea15e7", 
+            "title": "does the labour candidate trust jeremy corbyn ? 'oh , course i do '", 
+            "text": [
+                "mohammad yasin says of his leader , jeremy corbyn : `` a lot of people had doubts about him , but since the election campaign has started he has come out as a true and principled man .", 
+                "`` he speaks from the heart and he does not take the u-turn like theresa may . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5930447ce4b0ee8ae9ea15e3", 
+            "title": "green candidate says two party leaders are a good thing", 
+            "text": [
+                "lucy bywater says : `` caroline [ lucas ] , our first leader , has been voted ethical politician of the year several times .", 
+                "she stands by her morals and her principles , which a lot of politicians do n't .", 
+                "`` we also have jonathan bartley , our new co-leader , and i think it shows how we can do different things differently . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5930435de4b012a6cdd8f086", 
+            "title": "does henry vann trust his party leader ? : yes", 
+            "text": [
+                "as a liberal democrat , henry vann says he trusts lib dem leader tim farron .", 
+                "`` here 's something that labour will probably bring up at some point - tuition fees .", 
+                "he [ farron ] signed the pledge and he kept it and he voted against the increase .", 
+                "i trust tim farron . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304289e4b012a6cdd8f081", 
+            "title": "do you trust your party leader ?", 
+            "text": [
+                "the candidates taking part in tonight 's debate at bedford rugby club are being asked : `` how important do you think your leader is to the success of your party at the ballot box ? ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_593041d6e4b0ee8ae9ea15d5", 
+            "title": "idiotic manifesto policies ?", 
+            "text": [
+                "kate in the audience asked the candidates which parts of their party manifestos they disagreed with or found idiotic .", 
+                "mohammad yassin ( labour ) said : `` i think the labour manifesto is the best .", 
+                "it is fully costed and tells where the money comes from and where we will spend it , unlike the conservative manifesto .", 
+                "`` i ca n't think of anything i disagree . ''", 
+                "he said he 'd read most of the manifesto .", 
+                "lucy bywater ( green ) said : `` this is a really hard question .", 
+                "i honestly ca n't think of anything . ''", 
+                "she was asked about the commitment to a four-day working week , but she defended the policy asking , `` why should we be wage slaves ? ''", 
+                "richard fuller ( conservative ) said : `` the energy price cap .", 
+                "i do n't think it is a good idea .", 
+                "i do n't know how it would work .", 
+                "`` mr yassin has said he supports the labour manifesto but has n't read it all . ''", 
+                "henry vann ( lib dem ) said : `` one policy area where i think it lacks ambition is in education .", 
+                "`` i think all schools should be the same [ rather than having free schools and grammar schools etc ] .", 
+                "that 's what people want . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59304185e4b084c6e7050c94", 
+            "title": "labour candidate says only his party can provide 'real solution ' for workers", 
+            "text": [
+                "mohammad yasin , who 's the labour candidate for bedford and kempston , accuses the government of overseeing a decline in wages for working class people of \u00a3 1,400 on average since 2010 .", 
+                "`` labour will give a real minimum wage of \u00a3 10-an-hour .", 
+                "we will give workers rights when they start work and equal rights for part-time as well as full-time workers .", 
+                "`` we need to protect the workforce and protect the eu workforce and we need to increase the number of jobs .", 
+                "looking after the workforce is the real solution and only labour can do that . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59303ff7e4b012a6cdd8f07d", 
+            "title": "lib dems criticise tory record on wages", 
+            "text": [
+                "the liberal democrat candidate , henry vann , has hit out on the conservatives ' approach to the cost of living .", 
+                "`` the national living wage is not a real living wage .", 
+                "i 'm proud of the lib dems ' record in coalition in lifting poor people out of paying tax altogether .", 
+                "`` i 'm also proud that our manifesto says we will raise benefits in line with inflation .", 
+                "but i 'm afraid the national living wage is just a re-branded minimum wage , and people are going to food banks more and more . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59303e86e4b012a6cdd8f076", 
+            "title": "conservative candidate praises tory record on wages", 
+            "text": [
+                "richard fuller , who 's defending his seat in bedford and kempston as a conservative , is proud of the government 's record on wages .", 
+                "`` the first step to high pay is to have a job and , since 2010 , 2.9 million jobs have been created across the country and we have seen unemployment go down .", 
+                "`` the second thing is to make sure people 's pay goes up and i was one of the early and strong supporters in parliament talking for the national living wage .", 
+                "`` i was proud the conservatives did something the labour government never did and that was to introduce the national living wage . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59303d09e4b0ee8ae9ea15c2", 
+            "title": "people relying on food banks 'shocking ' , says green candidate", 
+            "text": [
+                "green party candidate lucy bywater says people are living on mushrooming debt .", 
+                "`` inflation is rising faster than wages , so we have a situation where people 's rent and mortgages are so high they can not keep pace with the cost of living .", 
+                "`` we 're seeing people relying on food banks and the shocking thing is that many people relying on food banks are people in work .", 
+                "something needs to change desperately . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59303f39e4b0ee8ae9ea15cc", 
+            "title": "question number one", 
+            "text": [
+                "some of the political focus today has been about wages and the cost of living .", 
+                "labour claims that many people are n't `` just about managing '' - they are not managing at all .", 
+                "many argue that wages are not keeping pace with inflation .", 
+                "how are people in bedford and kempston coping with the cost of living ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59303768e4b084c6e7050c61", 
+            "title": "here 's the candidates", 
+            "text": [
+                "left to right we have mohammad yasin ( labour ) , richard fuller ( conservative ) , henry vann ( lib dem ) and lucy bywater ( green ) ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5926c30de4b067b356cfda10", 
+            "title": "general election : bedford decides", 
+            "text": [
+                "one of the more interesting seats in beds , herts and bucks , currently it 's tory with richard fuller the incumbent , but he holds a majority of just 1,097 from 2015 , and labour leader jeremy corbyn has already visited the town twice with the seat as high as 13th on the party 's target list .", 
+                "mr fuller and previous labour candidate patrick hall battled hard over three elections with hall triumphant in 2005 , and mr fuller winning in 2010 and 2015 .", 
+                "mr hall is n't standing in 2017 , so mr fuller will instead face competition from local labour councillor mohammad yasin , along with lib dem candidate henry vann and lucy bywater from the green party ."
+            ], 
+            "author": [
+                "Andy Holmes", 
+                "BBC Three Counties Radio political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5926c1f9e4b050109886de21", 
+            "title": "general election : meet the bedford candidates", 
+            "text": [
+                "these are the candidates we 'll be hearing from in our debate at bedford rugby club this evening", 
+                "lucy bywater ( green ) lucy has lived in bedford for 14 years , is married with two teenagers and works in publishing .", 
+                "in local council elections she has contested the castle ward in bedford for the green party on three occasions and is an active campaigner for the local party .", 
+                "she has a masters in children 's literature from de montfort university and a politics and modern history degree from the university of manchester .", 
+                "richard fuller ( conservative ) richard is bedford-born and narrowly won the election in the town in 2010 from labour 's patrick hall , and held on to the seat in 2015 by an even tighter margin .", 
+                "he 'd previously stood and lost to hall in 2005 .", 
+                "was schooled in bedford before going on to study at oxford university and then harvard business school .", 
+                "he joined the conservative party in 1979 , delivering leaflets for trevor skeet in the election of the same year and was chairman of the young conservatives between 1985 and 1987 .", 
+                "henry vann ( lib dem ) henry is the education portfolio holder at bedford borough council .", 
+                "he stood in the constituency in 2010 , finishing third behind hall and fuller .", 
+                "he graduated from cambridge in 2007 and previously appeared in vogue magazine .", 
+                "henry works in london in the music industry and sings in the choir at st paul 's church in bedford .", 
+                "mohammad yasin ( labour ) mohammad has lived in bedford for more than 25 years and currently resides in the queen 's park area where he 's been a labour borough councillor for the last 11 years .", 
+                "he 's the current portfolio holder for adult services and housing and is a former speaker of the council ."
+            ], 
+            "author": [
+                "Jane Killick", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5926c039e4b0d071b4d7ddc1", 
+            "title": "general election : the bedford debate", 
+            "text": [
+                "hello .", 
+                "this evening we 're meeting the people who want to become the mp for bedford following the general election on 8 june .", 
+                "they 'll be debating key issues including immigration and housing .", 
+                "you can listen to the debate live from bedford blues rugby club on bbc three counties radio , between 17:00 and 19:00 .", 
+                "we 'll also be bringing you the main points here .", 
+                "first up , let 's have a quick look at who 's taking part ."
+            ], 
+            "author": [
+                "Jane Killick", 
+                "BBC Three Counties Radio"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:34"
+        }
+    ], 
+    "genre": "uk-england-beds-bucks-herts", 
+    "quality": "high"
+}

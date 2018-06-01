@@ -1,0 +1,1296 @@
+{
+    "blog_id": "79a6c2be76d27d5a6c29e296af95409656be790f", 
+    "title": "Business Live: Monday 21st March - BBC News", 
+    "url": "http://www.bbc.com/news/live/business-35844319", 
+    "summary": [
+        "apple launches new iphone .", 
+        "wall st opens flat .", 
+        "former waitrose md becomes a conservative peer .", 
+        "valeant boss resigns after share price plunges ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0665e580000334ac90aec", 
+            "title": "goodbye", 
+            "text": [
+                "that 's all from the business team tonight .", 
+                "we are back with you at 6am on tuesday .", 
+                "at 9.30am the office for national statistics ( ons ) will announce february 's inflation figures and also the government 's borrowing numbers for the same month ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0639c5800000c4ac90ae9", 
+            "title": "united airlines boarding call for cuba", 
+            "text": [
+                "us carrier , united airlines , has applied for permission to start flying to cuba from its global gateways in newark/new york , houston , washington and chicago .", 
+                "all flights would go to havana 's jose mart\u00ed international airport in cuba .", 
+                "the request comes on the second day of us president barack obama 's historic visit to cuba - the first for an american leader since 1959 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f05c831a00008149d27dfa", 
+            "title": "iran may join opec and freeze oil production", 
+            "text": [
+                "iran , which is wanting to increase its oil exports , may consider joining the opec countries and freeze production , to help boost the price .", 
+                "the secretary general of opec says the output freeze would be discussed at their meeting in qatar on 17 april and that iran , which has been wanting to increase its exports since the western sanctions were lifted in january , may participate in the measure .", 
+                "oil has been trading at above $ 41 a barrel on monday , up from a 12-year-low of $ 27 .", 
+                "they ( iran ) are not objecting to the meeting but they have some conditions for the production and maybe in the future they will join the group ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f057dc710000b148b0ebc0", 
+            "title": "new york close", 
+            "text": [
+                "wall st has ended the trading day with modest gains .", 
+                "the dow jones industrial average rose rose 21.57 points , or 0.12 % , to 17,623.87 .", 
+                "the s & p 500 gained 2 points , or 0.1 % .", 
+                "to 2,051.6 .", 
+                "and the nasdaq was up 13 points , or 0.28 % , .", 
+                "to 4,808.87 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f051415800008e49c90ae3", 
+            "title": "nike leads wall street", 
+            "text": [
+                "shares in nike are the top gainer on the dow jones , up 2.8 % , boosted by expectations that the sporting goods giant will beat analyst estimates when it reports third-quarter results on tuesday ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f04d9b5800007f49c90ae2", 
+            "title": "apple 's new iphone is 'fightback against china '", 
+            "text": [
+                "apple 's new iphone has so far seen a largely positive reaction from analysts , with some saying it will allow the tech giant to compete better against cheaper smartphone makers , particularly in china .", 
+                "taking the iconic design of the 5s and supercharging it with the innards of the 6s , its best iphone yet , and for a vastly lower price , should strike fear in the hearts of brands already competing in the mid-range mobile market ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f048601a00002749d27df0", 
+            "title": "fancy a visit to cuba ?", 
+            "text": [
+                "president barack obama 's visit to cuba is the first to the caribbean island by a current american leader in 88 years .", 
+                "relations between the two countries have been thawing since mr obama took office , and one industry which is benefiting from the rapprochement is tourism .", 
+                "there has been a spike in visits by tourists many of whom say they want to experience the communist country before it 's irreversibly influenced by america .", 
+                "find out more from world business report here ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f01a905800007a46c90a68", 
+            "title": "economic models - do they work ?", 
+            "text": [
+                "economic forecasting - should you believe the predictions ?", 
+                "reality check from the bbc 's anthony reuben - what should you look out for ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0404a7100008e43b0ebb0", 
+            "title": "valeant former finance chief may face a big bill - bloomberg", 
+            "text": [
+                "howard schiller , the former chief financial officer at valeant pharmaceuticals , who is still on the board of the company but has been asked to leave , may have to pay back some of his bonuses .", 
+                "howard schiller may be forced to pay back valeant up to $ 26.1 million"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f039955800009c48c90ad4", 
+            "title": "it 's all about the sizenorth america business correspondent tweets :", 
+            "text": [
+                "perfect for those with smaller hands the smaller 4-inch iphone se and the 9-inch ipad pro # appleevent", 
+                "@ twitterid who did you have in mind", 
+                "@ twitterid @ twitterid i guess those with smaller hands .", 
+                "@ twitterid @ twitterid you just might be on to something there"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0384a5800009c48c90acf", 
+            "title": "apple launches their `` most affordable '' phone", 
+            "text": [
+                "technology", 
+                "bbctech", 
+                "apple unveils smaller iphone handset bbc.in/21dkrs7", 
+                "apple unveils smaller iphone handset"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0356c7100008c46b0eba4", 
+            "title": "apple boss on data protection", 
+            "text": [
+                "apple boss tim cook says the company has `` an obligation '' to protect user data and privacy a day before a court hearing on the fbi 's efforts to force the firm to break into the iphone of a terrorist who carried out a gun attack in california last december .", 
+                "we need to decide as a nation how much power the government should have over our data and our privacy .", 
+                "we believe strongly we have an obligation to help protect your data and your privacy .", 
+                "we owe it to our customers .", 
+                "we will not shrink from this responsiblity ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f031ca7100008c46b0eb9f", 
+            "title": "smaller , cheaper iphoneapple launches new phone for $ 399 aimed at customers in emerging markets", 
+            "text": [
+                "apple confirms iphone se .", 
+                "@ twitterid @ twitterid cheap iphone 6 clone ?", 
+                "@ twitterid @ twitterid looks like an iphone 4", 
+                "@ twitterid @ twitterid iphone paradigm until the next millenium ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f02fd01a00004948d27dd6", 
+            "title": "apple reduces the the price of its watchesbbc north america technology reporter tweets :", 
+            "text": [
+                "dave lee", 
+                "daveleebbc", 
+                "price cut for the apple watch - now $ 299 .", 
+                "price cut for the apple watch - now $ 299 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f02cb37100007845b0eb8f", 
+            "title": "apple boss tim cook on `` security of customers '' bbc 's north america technology reporter tweets .", 
+            "text": [
+                "a day before apple is due in court over its encryption battle with the fbi and the us justice department .", 
+                "dave lee", 
+                "daveleebbc", 
+                "cook addresses fbi case .", 
+                "did not expect to be `` at odds with our government '' .", 
+                "cook addresses fbi case .", 
+                "did not expect to be `` at odds with our government '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f027aa1a00002446d27db4", 
+            "title": "ftse close", 
+            "text": [
+                "the ftse index has ended the day 0.08 % lower at 6184.58 .", 
+                "there were gains in the pharmaceutical sector and by supermarket sainsbury 's which balanced out a fall in mining stocks .", 
+                "the biggest riser was pharma firm , shire , up 4.09 % .", 
+                "britain 's second-biggest supermarket chain , sainsbury 's , saw its share price rise 1.2 % after it was given a clear run to buy argos-owner home retail group for \u00a3 1.4bn .", 
+                "the biggest faller was mining group , antofagasta , down 3.65 % ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0216f580000b947c90a84", 
+            "title": "monday is probably the best day for announcing mergers", 
+            "text": [
+                "business insider has had a busy weekend - they have totted up all the mergers in the past 24 hours and says over $ 37bn has been spent on deals .", 
+                "mondays are ty the biggest days for mergers , with lawyers and bankers hammering out the details over the weekend before a monday"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f01dd35800007946c90a76", 
+            "title": "london 's wealthy offshore investors", 
+            "text": [
+                "business", 
+                "bbcbusiness", 
+                "hidden london - how much of the capital is owned by wealthy offshore investors ?", 
+                "bbc.in/1pecszx", 
+                "hidden london - how much of the capital is owned by wealthy offshore investors ?", 
+                "@ twitterid but who are they ?", 
+                "are they laundering dirty money through london ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f013867100007645b0eb0c", 
+            "title": "sound advise from london business school", 
+            "text": [
+                "companies that treat their workers better , do better in terms of high returns - @ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f017505800007946c90a57", 
+            "title": "spending on disability benefitsbbc 's assistant political editor tweets :", 
+            "text": [
+                "spending on disability benefits has increased by \u00a3 3 billion in real terms since 2010 says treasury minister david gauke", 
+                "@ twitterid as % of gdp spending on out of work disability benefits now half what it was in 1996 growing , ageing population = more disabilty", 
+                ".", 
+                "@ bbcnormans yes , all going to atos , maximus , and the rest for sham assessments", 
+                "@ twitterid might have done but if it actually needed a 5billion increase , because of demand its actually a `` cut '' by any other name", 
+                "@ twitterid nice to see you repeating the untruths norman .", 
+                "great journalism , not , try finding the truth", 
+                "@ twitterid yet that has been disputed by ifs", 
+                "@ twitterid more disabled because people do n't die and population increasing .", 
+                "it 's not real extra spending p/person .", 
+                "@ twitterid lies lies and more lies", 
+                "@ twitterid smoke and mirrors , usual tory ploy , blame labour # esacuts", 
+                "@ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f016035800006d45c90a51", 
+            "title": "medicines to be on g7 agenda in may", 
+            "text": [
+                "french president fran\u00e7ois hollande wants medicine prices to be on the agenda at the g7 meeting in japan in may ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f011d25800007a46c90a38", 
+            "title": "new york opens flat", 
+            "text": [
+                "in new york , it 's been a flat start to the week on wall street , as investors wait for signs that the us economy is continuing to recover , with expectations for corporate earnings improving and commodity prices edging up .", 
+                "shares of starwood were up 4 % after the hotel owner said it had accepted a higher offer from marriott beating .", 
+                "an all-cash offer by a group led by china 's anbang insurance group ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f00df91a00005e44d27d36", 
+            "title": "telecom italia boss resigns", 
+            "text": [
+                "telecom italia says its chief executive officer , marco patuano , .", 
+                "has resigned following a boardroom dispute with the company 's biggest shareholder , french media company , vivendi , over selling the company 's brazilian subsidiary .", 
+                "the share price of telecom italia rose almost 3 % on the announcement .", 
+                "in less than a year vivendi has built up its stake in telecom italia to just under the 25 % level that would trigger a full takeover under stock exchange rules"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f008545800007445c90a0f", 
+            "title": "conservative peer introduced", 
+            "text": [
+                "conservative peer and waitrose boss lord price is being introduced to the house of lords .", 
+                "he has already been named a minister of state jointly at the foreign and commonwealth office and the department for business , innovation and skills ."
+            ], 
+            "author": [
+                "House of Lords", 
+                "Parliament"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f006775800006d45c90a03", 
+            "title": "coming or going ?", 
+            "text": [
+                "the board of canadian drugs firm , valeant , has asked that former chief financial officer howard schiller steps down as a director but apparently mr schiller is not keen to do so .", 
+                "ceo michael pearson is stepping down .", 
+                "update : howard schiller declines valeant request to resign from board", 
+                "howard schiller says valeant 's claim he engaged in `` improper conduct '' is incorrect"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efff355800009b44c909de", 
+            "title": "bringing johannesburg back to life", 
+            "text": [
+                "meet the man bringing central johannesburg back to life"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56effbc47100008e43b0eaa4", 
+            "title": "'fairness ' of 2016 budget under scrutiny", 
+            "text": [
+                "fairness - a word as easy to shout about as it is difficult to define .", 
+                "iain duncan smith 's resignation has put the issue at the heart of the government 's approach to the economy - whether george osborne 's announcements in the budget last week were `` fair '' .", 
+                "mr duncan smith told the andrew marr programme on sunday morning that the budget was `` deeply unfair '' , as it proposed restrictions to increases in the disability payments budget whilst at the same time provided an effective tax cut for those with higher incomes .", 
+                "read more from kamal 's blog"
+            ], 
+            "author": [
+                "Kamal Ahmed", 
+                "Economics editor"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56effb0f7100008d43b0eaa0", 
+            "title": "us shares struggle for gains", 
+            "text": [
+                "us markets are already open - for those wondering why its because the us puts its clocks forward a couple of weeks earlier than we do , normality will resume next monday .", 
+                "so far the dow jones industrial average is just shy of 9 points lower at 17593.36 .", 
+                "the s & p 500 is down by just 1.48 points at 2048.10 and the nasdaq is up 1.54 % at 4797.19 .", 
+                "oil prices seem to be worrying traders a little .", 
+                "but it 's also a short week with easter at the end so it may well be that this is simply a light trading week ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efcf285800000a3fc90913", 
+            "title": "the secret life of call centresbbc capital tweets", 
+            "text": [
+                "inside the secretive world of call centre workers"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56eff3951a00005443d27cb8", 
+            "title": "valeant boss resigns after share price plunge", 
+            "text": [
+                "valeant chief executive j. michael pearson is to stand down after eight years at the helm the company has announced .", 
+                "trading in the pharmaceutical firm 's shares was suspended earlier today by the new york stock exchange pending the announcement from the company .", 
+                "early trading had seen its shares fall 4.5 % in the first 15 minutes of trade .", 
+                "last week valeant saw its share price plummet 61 % after it cut its 2016 forecast , reported weak fourth-quarter results and said it was at risk of breaching some of its debt agreements .", 
+                "the pharmaceutical company has had been on the receiving end of a blizzard of bad news in recent months with investigations and criticism of the drugmaker 's prices and business practices .", 
+                "mr pearson was also hospitalised earlier this year with severe pneumonia ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "21:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efc200710000e83fb0e9dc", 
+            "title": "how does google make money ?", 
+            "text": [
+                "technology correspondent rory cellan-jones takes a look at how google makes its money , including how google ranks advertisers .", 
+                "in case you were wondering , eric schmidt ( executive chairman of google 's parent company , alphabet , was addressing an economic club of washington lunch when this was taken ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe5eb580000aa42c90972", 
+            "title": "volkswagen renews german football sponsorship deal", 
+            "text": [
+                "volkswagen has agreed to extend its sponsorship of the german dfb football cup for six years until 2022 , it said .", 
+                "`` football is and will remain an important pillar of our sponsoring strategy , '' the german carmaker said , which faces fines and lawsuits over its cheating us diesel emissions tests .", 
+                "in october volkswagen said it would cut investment by \u20ac1bn ( \u00a3 750m ) a year as a result of the scandal ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe7a11a00008842d27c8f", 
+            "title": "property calculator updatedbbc personal finance reporter tweets", 
+            "text": [
+                "where can you afford to live - either renting or buying a property .", 
+                "our calculator has just been updated"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef9ab7710000dc3db0e95e", 
+            "title": "ftse 100 firms 'should stop quarterly reporting '", 
+            "text": [
+                "ftse 100 firms should stop quarterly reporting and instead focus on longer-term strategy , the telegraph expects an investment manager association to say .", 
+                "the investment association requirement `` will essentially force companies in the ftse 350 to comply or explain how quarterly reporting fits into their strategy , '' the article says ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efdfb3580000a942c90957", 
+            "title": "starwood accepts higher offer from marriott", 
+            "text": [
+                "marriott international has said it made a higher offer for starwood hotels that was accepted by the owner of the sheraton and westin hotel brands .", 
+                "the new stock-and-cash offer is worth $ 79.53 per share , or $ 13.6bn , and was enough to top an all cash $ 78 per share or $ 13.16bn offer from a group led by china 's anbang insurance group .", 
+                "the marriott-starwood deal will create the world 's largest hotel chain with brands including sheraton and ritz carlton .", 
+                "in november marriott offered $ 12.2bn , or $ 72.08 per share for starwood ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efde45710000b941b0ea36", 
+            "title": "google set to expand wi-fi and broadband access in cuba , says obama", 
+            "text": [
+                "alphabet 's google is poised to expand internet access in cuba , barack obama has told abc news on the first visit to the country by a us president in nearly 90 years .", 
+                "`` one of the things that we 'll be announcing here is that google has a deal to start setting up more wi-fi and broadband access on the island , '' mr obama said ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efdb9a580000a942c90943", 
+            "title": "powa : the startup that fell to earth", 
+            "text": [
+                "meet dan wagner & find out how a firm that was going to be bigger than google fell to earth", 
+                "@ twitterid kudos to writer of headline ( and acquirer of that email ) .", 
+                "@ twitterid thanks charles !", 
+                "@ twitterid did a great production job", 
+                "@ twitterid did no one think to look back on dan 's history from the days of maid in the 1980 's ?", 
+                "i think they call it `` due diligence '' ?", 
+                "@ twitterid ah but that was the period of huge success when he hung out with bill gates and made a fortune selling to thomson : - )", 
+                "@ twitterid yes you have to admire dan 's chutzpah !", 
+                "@ twitterid consider the harm that powa 's claims did to uk businesses & staff that had working products when dan offered his 1/2 price vapour", 
+                "@ twitterid the old bill would have him off down the nick in no time .", 
+                "but , in the city", 
+                "@ twitterid a man peddling snake oil comes to your door , tells you he has sold it to major brands on the highstreet , but really he has n't"
+            ], 
+            "author": [
+                "Rory Cellan-Jones", 
+                "Technology correspondent"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efcfff580000ae41c90915", 
+            "title": "'some uk local papers flourish even as others struggle '", 
+            "text": [
+                "one of britain 's national newspapers , the independent , will no longer be printed from next week .", 
+                "it 's moving completely online after losing about seven million dollars over the past year .", 
+                "but local newspapers in some parts of the uk are flourishing .", 
+                "one such paper is the st ives times & echo in cornwall - the most southwesterly region of britain .", 
+                "it still produces its weekly edition on local printing presses .", 
+                "the paper 's been in circulation since 1899 .", 
+                "susannah streeter went along to meet the people who put it together ."
+            ], 
+            "author": [
+                "BBC World Service"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efcedd1a0000bf40d27c17", 
+            "title": "ihs and markit announce $ 13bn merger", 
+            "text": [
+                "business research provider ihs has announced a merger deal with london-based financial data rival markit in a deal valued at more than $ 13bn .", 
+                "ihs shareholders will own about 57 % of the combined company , while the rest will be owned by markit shareholders ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efcf9b1a0000a341d27c19", 
+            "title": "british airways flights hurt by french strike", 
+            "text": [
+                "and it looks like british airways are experiencing fight delays and cancellations too .", 
+                "industrial action in france is affecting some flights today .", 
+                "please check your flight status here [ 09:20 21mar ]", 
+                "@ twitterid flight to madrid cancelled again .", 
+                "i 'm missing again my flight to santiago for business .", 
+                "that 's unbelievable and no help", 
+                "@ twitterid i 'm sorry to hear that , pam .", 
+                "have you spoken to anyone , to see if they can help ?", 
+                "if not , can you dm your reference , ( 1/2 )", 
+                "@ twitterid sister coming in from kuwait today , all on time in fact it left early # 12monthsaway # bangersandmash", 
+                "@ twitterid we 're pleased to hear we managed to deliver your sister slightly earlier than expected !", 
+                "enjoy your reunion !", 
+                "^kelly", 
+                "@ twitterid will do # homeforaweek", 
+                "@ twitterid yep flight cancelled again"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efbedf710000e83fb0e9d6", 
+            "title": "easyjet and ryanair cancel flights", 
+            "text": [
+                "quick update on how the french airport traffic control strike is going .", 
+                "so far ryanair says it has cancelled about 200 flights , while easyjet said it had cancelled 96 flights ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efbf735800001a3fc908d9", 
+            "title": "what mexicans think of donald trump", 
+            "text": [
+                "the republican frontrunner has called them rapists and criminals , but what do mexicans make of donald trump ?", 
+                "the bbc 's katy watson travels to border town to find out ."
+            ], 
+            "author": [
+                "BBC World Service"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb0ef5800001f3fc908a1", 
+            "title": "twitter marks ten year anniversary", 
+            "text": [
+                "it 's ten years since the first tweet was sent by twitter co-founder jack dorsey .", 
+                "five hundred million tweets are now sent every day .", 
+                "at its peak , the company was worth $ 25bn .", 
+                "however , twitter 's value has plummeted as the site struggles to attract new users .", 
+                "social media commentator zoe cairns told the bbc that twitter was not keeping up with other social media platforms like facebook - although both were losing younger users .", 
+                "they [ twitter ] are that little bit behind in bringing out the new features and this is why people are still on facebook .", 
+                "however , the younger generation have gone off to other platforms ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efc16f710000e73fb0e9db", 
+            "title": "china stockpiles oil as imports hit second highest on record", 
+            "text": [
+                "china 's monthly oil imports from saudi arabia rose to their second highest level on record in february , customs data shows .", 
+                "oil imports from russia also surged , as weak crude prices prompted the world 's top energy consumer to bring in record high volumes last month .", 
+                "china 's total oil imports rose about 20 % year on year to the highest ever on a daily basis in february , when near 10-year low global oil prices drove buying from a group of new importers and for state and commercial stockpiling .", 
+                "saudi arabia was china 's top supplier in february with shipments of 1.38 million barrels per day ( bpd ) .", 
+                "that was slightly below a record 1.39 million bpd in february 2012 .", 
+                "russia came in third , behind angola , with shipments of 1.03 million bpd , up almost 48 % on a daily basis from a year ago ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb847710000f53db0e9be", 
+            "title": "cuba potential air market 'vast '", 
+            "text": [
+                "us president barack obama and cuban president raul castro will sit down today in the first us presidential visit since before the 1959 revolution to discuss trade and political reform .", 
+                "at the moment , from the us to cuba there is only `` the odd charter flight '' , so the potential market is `` vast '' , robin hayes , chief executive of jetblue , has told the bbc north america editor john sopel .", 
+                "when we think about the potential for havanna and cuba , it 's really vast - it could easily become the largest market in the caribbean ."
+            ], 
+            "author": [
+                "BBC Business Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb9131a0000cf3ed27bcb", 
+            "title": "vote leave rejects cbi report", 
+            "text": [
+                "businessman alan halsall used to own pram-maker silver cross and is on the board of the vote leave campaign .", 
+                "he told bbc breakfast why he rejected today 's cbi report predictions of a strong shock to the uk 's economy if britain left the eu .", 
+                "the cbi commissioned a report looking at two different scenarios if the uk voted to leave the eu .", 
+                "the report warned of a \u00a3 100bn cost to the uk economy , and nearly a million fewer jobs over the next four years under one of two brexit scenarios ."
+            ], 
+            "author": [
+                "BBC Breakfast"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb4825800001c3fc908b3", 
+            "title": "'do n't trust your gut'bbc business video journalist and reporter tweets", 
+            "text": [
+                "'do n't trust your gut ' @ twitterid shares with us her # ceosecrets # mondaymotivation"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb176710000f53db0e998", 
+            "title": "cbi boss on brexit cost calculation", 
+            "text": [
+                "the cbi commissioned a report looking at two different scenarios if the uk voted to leave the eu .", 
+                "it warned of a \u00a3 100bn cost to the uk economy , and nearly a million fewer jobs over the next four years if the uk leaves the eu .", 
+                "the report has already been attacked by pro-brexit campaigners who say the report 's predicted brexit scenarios are flawed , and that the same data still shows that the economy and employment would grow even if britain voted to leave .", 
+                "the cbi director general carolyn fairbairn spoke to bbc breakfast ."
+            ], 
+            "author": [
+                "BBC Breakfast"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efa84e710000ed3db0e96a", 
+            "title": "pets at home chief executive resigns", 
+            "text": [
+                "pet shop and vet chain pets at home has announced its chief executive nick wood is to resign `` to spend time with his family '' , the company said .", 
+                "mr wood will be replaced by board member ian kellett ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efaab21a0000e33ed27b90", 
+            "title": "apple 'expected to launch smaller iphone today '", 
+            "text": [
+                "apple is expected to launch a smaller , cheaper iphone later today aimed at emerging markets and china , the world 's biggest buyer of smartphones , news agency press association reports .", 
+                "expected to be called the iphone se , speculation suggests the new device could have the same design as the iphone 5 , but have similar features to an iphone 6s ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efaca81a0000e43ed27b97", 
+            "title": "ftse falls after lower oil prices", 
+            "text": [
+                "the ftse 100 index has opened around 0.5 % lower at 6,157.74 as the effect of falling oil prices continues to hit stock markets ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efa6e0710000ed3db0e968", 
+            "title": "dyson 'to invest \u00a3 1bn in battery technology '", 
+            "text": [
+                "engineering firm dyson , famous for bagless vacuum cleaners , is to put \u00a3 1bn into battery technology by 2020 , reports the guardian .", 
+                "in 2015 the firm made a total pre-tax loss of \u00a3 2.7m ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efa2485800000a3fc9085e", 
+            "title": "listen again to today business segmentbbc radio 4 today programme tweets", 
+            "text": [
+                "it 's time for reflection of the london stock markets in today 's business podcast with @ twitterid"
+            ], 
+            "author": [
+                "Today Programme", 
+                "BBC Radio 4"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef9ea8580000f93ec9085a", 
+            "title": "oil prices slide as supply fears grow again", 
+            "text": [
+                "oil prices have fallen for a second day after renewed concerns about oversupply .", 
+                "us oil firms increased production last week after three months of cuts , according to data from baker hughes .", 
+                "the number of oil rigs had fallen by two-thirds over the past year to a level not seen since 2009 .", 
+                "but the fall in crude oil drilling appears to have stabilised after a 50 % rally in prices since february .", 
+                "the price of us light sweet crude fell 1.4 % to $ 38.89 a barrel earlier this morning .", 
+                "meanwhile , the price of brent crude fell 33 cents to $ 40.87 , after hitting a high of $ 42.54 a barrel last week ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efa1e61a0000d23ed27b69", 
+            "title": "australian stock exchange boss resigns", 
+            "text": [
+                "australian stock exchange boss resigns", 
+                "@ twitterid please we r late .", 
+                "`` put some mud ``"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef9b76710000d93db0e95f", 
+            "title": "cbi 's brexit fears 'wrong '", 
+            "text": [
+                "the cbi 's director general carolyn fairbairn was on today , and said the uk economy never quite recovers to where it would have been '' if the country voted to leave europe , even in the most benign brexit scenario .", 
+                "but alan halsall from vote leave , the former chairman of silver cross prams , says the cbi had made `` misjudgements '' about europe .", 
+                "well , it 's monday morning and it 's another cbi report on the eu , oh dear .", 
+                "if i 'd have run my businesses , and had as many misjudgements as the cbi , i 'd be seriously concerned , '' he says .", 
+                "`` it was the cbi that supported the exchange rate mechanism .", 
+                "it was the cbi that supported going into the euro .", 
+                "in november 2013 the cbi said staying in europe was overwhelmingly in our interests and worth \u00a3 3,000 per household . ''", 
+                "he says that in all cases the cbi was wrong ."
+            ], 
+            "author": [
+                "Today Programme", 
+                "BBC Radio 4"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef9e781a0000c13ed27b62", 
+            "title": "foxconn 'discussing sharp deal '", 
+            "text": [
+                "foxconn has responded to media reports that it is seeking to reduce the price it will pay for sharp by 20 % .", 
+                "foxconn , which is formally known as hon hai precision industry company , said :", 
+                "hon hai and sharp are currently discussing on the basis of practical principles , with the aim to reach a satisfactory agreement as soon as possible .", 
+                "hon hai does not comment on market speculation regarding the price reduction on the deal . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef96a81a0000733ed27b5b", 
+            "title": "bullish about oil ?", 
+            "text": [
+                "tony hayward , chairman of genel and glencore , and former chairman of oil giant bp , is setting up a new hedge fund for distressed oil and gas assets .", 
+                "david cummings on today says it 's an interesting idea because there may be distressed oil and gas assets to invest in '' .", 
+                "he says `` without being unkind to tony hayward '' that with `` the bp oil disaster '' and that `` genel has been a bit of a disaster as well in terms of production downgrades .", 
+                "you have to believe his statistically significant record of bad luck has to revert '' .", 
+                "investors would have to be relatively bullish about oil prices returning to their previously high levels to invest in a fund like that , mr cummings adds ."
+            ], 
+            "author": [
+                "Today Programme", 
+                "BBC Radio 4"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef96b21a0000743ed27b5c", 
+            "title": "axa chief executive to step down", 
+            "text": [
+                "axa chief executive henri de castries is set to step down at the beginning of september .", 
+                "mr de castries has been chief executive of the insurer for nearly 17 years .", 
+                "axa germany head thomas buberl will become deputy chief executive from monday , before taking over as chief executive in september , the insurer said .", 
+                "deputy chief executive in charge of finance denis duverne will replace mr de castries as chairman .", 
+                "in a letter to staff announcing his departure , mr de castries said : `` it is only natural that a new team launches and manages our new strategic plan to be announced in june 2016 '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef96c61a00006c3ed27b5d", 
+            "title": "coming up on today", 
+            "text": [
+                "read today 's running order :", 
+                "@ twitterid of course capital gains rate cut is likely to mean more revenue raised as was discouraging transactions at higher rate", 
+                "@ twitterid where is the liberal voice and commentary on this - get @ twitterid on"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef94d61a0000243ed27b5a", 
+            "title": "'oil price fears overdone '", 
+            "text": [
+                "china 's economic growth still looks a bit patchy and oil prices are still very low by the standards of the last few years but in recent weeks share markets have begun to recover from the extreme swings we saw at the start of the year .", 
+                "why ?", 
+                "david cumming of standard life tells the today programme things just are n't as bad as people thought '' .", 
+                "china 's holding up relatively well , the property market 's up , consuming spend there is still growing robustly their currency has stopped falling .", 
+                "`` europe is still growing .", 
+                "[ mario ] draghi 's put more money into the system .", 
+                "probably worries about deflation , the oil price are probably overdone .", 
+                "oil , copper are all trading at three month highs and most importantly the us economy is still growing , still creating jobs us interest rates are still expected to go up , although not as quickly as expected , '' he says .", 
+                "the only outstanding issue for the uk is the prospect of a possible exit from the eu , he adds ."
+            ], 
+            "author": [
+                "Today Programme", 
+                "BBC Radio 4"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef94595800003a3ec90853", 
+            "title": "ryanair urges france to intervene over air traffic strikes", 
+            "text": [
+                "ryanair has called on the french government and the european commission to intervene in order to prevent british passengers being `` held to ransom '' by `` tiny numbers '' of french air traffic controllers .", 
+                "hundreds of passengers flying with easyjet , ryanair and british airways face flight cancellations up until tuesday due to french strikes ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef9024580000703dc90852", 
+            "title": "brexit would have 'no clear end point ' says cbi chief", 
+            "text": [
+                "while economic forecasts can be inaccurate , `` we know '' there would be a period a post-brexit period of uncertainty , the cbi 's carolyn fairburn says .", 
+                "article 50 - which is the process that gets triggered when we say we want to leave - that is a two-year process where our current deal comes off the table , and we know we 're negotiating with 27 other countries in the european union , and there is no clear end point as to where we want to get to . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef8de6710000cd3bb0e95a", 
+            "title": "'uk post-brexit gdp could be zero ' says cbi director general", 
+            "text": [
+                "carolyn fairbairn says the uk could survive outside the eu , and the economy would grow over the longer term , but that there would be `` a significant short term shock '' .", 
+                "there is no clear description of what kind of alternative is on the table .", 
+                "the european union has no particular rush to want to do a deal with us , and we 'd have to renegotiate 50 deals around the world that are currently run through the european union .", 
+                "the short term hit [ of brexit ] - we reckon that the gdp could be very low indeed over the next five years , and possibly even zero . ''"
+            ], 
+            "author": [
+                "BBC Radio 5 Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef8bf7580000163cc90851", 
+            "title": "brexit would be 'a real shock '", 
+            "text": [
+                "the risks of job losses if the uk leaves the eu and a \u00a3 100bn hit to the economy are `` very realistic '' , carolyn fairburn , director general of the cbi tells wake up to money .", 
+                "even a best case scenario where free trade deals are agreed very quickly with the eu and around the world after a brexit would give the uk economy `` a real shock '' , she says .", 
+                "you might call it an uncertainty shock over the next five years that reduces the gdp of the economy by 3 % , [ and ] delivers an increase in unemployment of about 500,000 .", 
+                "and even in the longer run the economy would stay smaller than it would have been otherwise . ''"
+            ], 
+            "author": [
+                "BBC Radio 5 Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56ef86677100002539b0e959", 
+            "title": "good morning", 
+            "text": [
+                "the cbi has said that a uk exit from the eu would cause a `` serious economic shock '' , and could cost the country \u00a3 100bn and 950,000 jobs by 2020 .", 
+                "but vote leave has said employment and the economy would continue to grow outside the eu .", 
+                "we 'll bring you more on that and the rest of the day 's news as it happens ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:00"
+        }
+    ], 
+    "genre": "business", 
+    "quality": "high"
+}

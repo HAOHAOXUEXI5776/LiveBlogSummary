@@ -1,0 +1,742 @@
+{
+    "blog_id": "5a10a9c6541c5876ea7934967071a922c7bc60c4", 
+    "title": "BBC Local Live: Coventry & Warwickshire on Wednesday 25 November 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-coventry-warwickshire-34873620", 
+    "summary": [
+        "network rail drop plans for sleeper factory at former daw mill colliery .", 
+        "concrete table tennis table installed in stratford park .", 
+        "updates on wednesday 25 november 2015 .", 
+        "news , sport , travel and weather updates to resume at 08:00 on thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655e40a3d0000741a07649a", 
+            "title": "our live coverage has ended for the day", 
+            "text": [
+                "live updates for coventry and warwickshire have finished for the day but we 'll be back from 08:00 on thursday with the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655d4763d00009c19076451", 
+            "title": "weather : the forecast for coventry & warwickshire", 
+            "text": [
+                "here 's the weather forecast for coventry and warwickshire from shefali oza .", 
+                "there 'll be some patchy light rain tonight , which 'll move in from the west .", 
+                "thursday should be dry but cloudy with more rain later on ."
+            ], 
+            "author": [
+                "Shefali Oza", 
+                "BBC Midlands Today"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655d3093a00003e5d380da7", 
+            "title": "'we need to carefully examine the statement ' on police funding says west midlands pcc", 
+            "text": [
+                "david jamieson , the police and crime commissioner for the west midlands , said the details of the chancellor 's spending review needed to be worked through to see what it means for the force 's funding .", 
+                "the chancellor 's announcement does not change the fact that west midlands police has been hit harder than any other force in the country , that we have had cuts of \u00a3 130m since 2010 and have had to make difficult choices as a result"
+            ], 
+            "author": [
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655cf213d00009c19076435", 
+            "title": "coventry service to celebrate return of the pegasus flash", 
+            "text": [
+                "a service has been held at the airborne forces memorial in coventry 's war memorial park , 15 years after the government banned current members of the parachute regiment wearing a. shoulder flash to commemorate the capture of pegasus bridge in france on d-day .", 
+                "the ruling means the motif can now be worn by members of 16 air assault brigade , successors to the parachute regiment ."
+            ], 
+            "author": [
+                "Keith Wedgebury", 
+                "BBC Coventry and Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655d6aa3d00009c1907645b", 
+            "title": "man jailed for rugby and nuneaton bank robberies", 
+            "text": [
+                "a 41-year-old man has been jailed for a series of bank robberies in warwickshire .", 
+                "james keay , of no fixed address , raided the royal bank of scotland branch in church street , rugby , on thursday , 8 october , where he threatened staff with an axe and claimed to have a firearm .", 
+                "four days later , he targeted the queens road , nuneaton branch of the same bank , threatening the cashier with an axe .", 
+                "the money stolen in the two raids was recovered when keay was arrested .", 
+                "he was jailed by warwick crown court for five years and four months , ordered to pay \u00a3 120 in victim surcharge and \u00a3 900 in court costs ."
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655de73380000ae4532a88d", 
+            "title": "latest : cautious welcome for police funding announcement and former gang member honoured", 
+            "text": [
+                "here are some of the stories making the headlines :", 
+                "- the police and crime commissioner for the west midlands says the chancellor 's announcement on police spending needs to be fully examined", 
+                "- the boss of ryton-based uk mail has stepped down , just a week after the firm issued a profits warning", 
+                "- a former gang member from coventry is the prince 's trust young achiever in the west midlands ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655d0f53a0000275e380da1", 
+            "title": "families enjoy switch-on fun in bulkington", 
+            "text": [
+                "scores of residents filled the streets to watch as the mayor of nuneaton and bedworth , councillor barry longden joined the bulkington carnival court to push the plunger down to spark up the lights ."
+            ], 
+            "author": [
+                "Nuneaton News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655c8f93a0000265e380d73", 
+            "title": "west midlands police chief welcomes chancellor 's announcement of police spending", 
+            "text": [
+                "george osborne confirmed he would maintain current spending on police forces .", 
+                "chief constables had warned a further cut in spending would harm their ability to respond to a paris-style terrorist attack .", 
+                "david thompson , who 'll succeed chris sims as chief constable in the west midlands next year , tweeted :", 
+                "pleased to hear today 's announcement .", 
+                "we need to now look closely at the details and continue to modernise .", 
+                "@ twitterid hi zoe .", 
+                "we need to look at the details .", 
+                "it is good news it is not quite straight forward .", 
+                "we will have more certainty in dec .", 
+                "@ twitterid yes and you are not alone .", 
+                "keep up the good work .", 
+                "live on bbcradio foyle : ira admits2 21murders in pubbombs & trio of evil @ twitterid @ twitterid hav bombers names4 @ twitterid", 
+                "@ twitterid @ twitterid provesatrio of heinous , depraved & inhuman criminals lead @ twitterid sick denialof @ twitterid", 
+                "@ twitterid also eject the snr gang oflying corrupt officiers who cont heinous coverupof 21 murders , blighting @ twitterid @ twitterid"
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655b45f3d0000b5180763a5", 
+            "title": "uk mail boss quits after profits dip because of ryton move", 
+            "text": [
+                "guy buswell has left the delivery service uk mail by `` mutual consent '' the firm has said in a statement .", 
+                "the company moved to the site of the old peugeot factory at ryton-on-dunsmore , but problems with the automated factory has seen the company lose 40 % of its stock value .", 
+                "last week , uk mail said its pre-tax profits had dropped by 81 % and it expected the problems at its coventry plant to take 12 months to resolve ."
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565598f9380000c24032a714", 
+            "title": "coventry switches on its christmas lights", 
+            "text": [
+                "the lights in broadgate will be turned on by the lord mayor , michael hammon and singer conor maynard .", 
+                "the ceremony starts at 17:00 with the switch being thrown at 19:35 .", 
+                "the stage is being set up and preparations are well underway for tonight 's christmas lights switch on .", 
+                "# covswitchon"
+            ], 
+            "author": [
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655863e3d000004150762cd", 
+            "title": "former gang member from coventry wins prince 's trust award", 
+            "text": [
+                "omar sharif , who 's 23-years-old , became involved in gang crime when he was living in london .", 
+                "when he lost a close friend to a knife-related attack , he knew it was time to get out .", 
+                "after a company he founded collapsed , he moved to coventry to be with his new wife .", 
+                "he signed up to a 12-week programme called team , run by the prince 's trust at henley college in the city .", 
+                "i had faced so much rejection in the past and had hit many low points but team and everyone in it helped me push myself and finally begin to make something of my life .", 
+                "now all i see is my path to success ."
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655b1bd3d00000917076397", 
+            "title": "helicopter crash pilot `` was n't looking forward '' to flight , inquest hears", 
+            "text": [
+                "pete barnes , 50 , who used to fly out of coventry airport for warwickshire and northamptonshire air ambulance , died from multiple injuries after the helicopter he was flying hit a crane on the tower at in vauxhall , and plunged into wandsworth road on the morning of january 16 2013 ."
+            ], 
+            "author": [
+                "Coventry Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "15:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655ca643d00009c1907641e", 
+            "title": "travel : severe delays in rugby", 
+            "text": [
+                "there are severe delays in both directions around central way in rugby , because of an overturned lorry .", 
+                "you can find more details here ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655c59e3a0000265e380d65", 
+            "title": "latest : chancellor praises devolution in west midlands and coventry firm wins driverless car award", 
+            "text": [
+                "here are some of the stories making the headlines this afternoon :", 
+                "- the chancellor , george osborne , has praised coventry city council for joining the west midlands combined authority", 
+                "- the coventry-based automotive firm , rdm group , has won a major award for its work on driverless vehicles", 
+                "- warwickshire police have sacked a sergeant for having inappropriate relationships with vulnerable women"
+            ], 
+            "author": [
+                "Philip Churm", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565599a33a0000635a380c8a", 
+            "title": "sport : coventry & warwickshire headlines", 
+            "text": [
+                "here are some of the sports stories making the headlines in coventry and warwickshire :", 
+                "- the coventry city manager , tony mowbray , felt his side dominated the game but ultimately was happy with a point in the goalless draw at bradford last night - they 're a point clear at the top of league one", 
+                "- nuneaton are also flying high - they won 2-1 at north ferriby last night to extend their unbeaten run to seven and stay top of national league north", 
+                "- wasps are apparently one of two teams trying to make manu tuilagi the highest paid player in english rugby"
+            ], 
+            "author": [
+                "Mikey Burrows", 
+                "BBC Coventry & Warwickshire Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565596e13d00000415076319", 
+            "title": "kenilworth school among top 50 comprehensives in country", 
+            "text": [
+                "kenilworth school and sixth form has been ranked among the top 50 comprehensive and partially selective schools in the country , according to league tables published by the sunday times ."
+            ], 
+            "author": [
+                "Kenilworth Weekly News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56558bfd3a0000635a380c4d", 
+            "title": "nuneaton woman 's vandalised mobility scooter replaced by shop boss", 
+            "text": [
+                "shirley holland , who is 73-years-old and lives at james diskin court in nuneaton , had her original scooter stolen and set on fire last week .", 
+                "but her machine has been replaced by adam southall , who runs the mobility lifestyle scooter shop in the town .", 
+                "we had a scooter which was suitable for her needs , [ so ] we thought the only thing we could do , being as shirley has been a customer for so many years , was donate one"
+            ], 
+            "author": [
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56558884380000133e32a6cd", 
+            "title": "police raid cannabis factory in brownsover , rugby", 
+            "text": [
+                "police discovered two bedrooms in a house in brownsover had been converted into a cannabis factory ."
+            ], 
+            "author": [
+                "Rugby Advertiser"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655804c3d000042130762ac", 
+            "title": "former county councillor calls for procedure to be made available on nhs", 
+            "text": [
+                "ron cockings recently received treatment for an enlarged prostate and now says he has 'practically forgotten ' he ever had the condition ."
+            ], 
+            "author": [
+                "Leamington Observer"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655aa7a3a00004a5c380cdc", 
+            "title": "'pioneering work ' wins coventry firm driverless car prize", 
+            "text": [
+                "the rdm group , who are based on bilton road industrial estate in coventry , make the two-seat pods that will be tested in milton keynes next year .", 
+                "they 'll be driven on pavements and among pedestrians , using technology designed to avoid collisions .", 
+                "the firm 's work was recognised by the society of motor manufacturers and traders , who gave them their automotive innovation award at their annual dinner ."
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "13:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56559658380000d63f32a70c", 
+            "title": "weather : coventry & warwickshire weather", 
+            "text": [
+                "here 's how the weather 's shaping up for the rest of the day ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655ab4b3a0000495c380ce1", 
+            "title": "travel : delays in rugby", 
+            "text": [
+                "an overturned lorry is causing delays around central way in rugby .", 
+                "there are more details here .", 
+                "a426 island with central way significant delays avoid area please if possible", 
+                "@ twitterid please can you confirm the location for the accident - and if there are any injuries to the driver"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56558c963a00007c59380c53", 
+            "title": "all change to car park prices in nuneaton and bedworth", 
+            "text": [
+                "day-time car park charges are to rise across nuneaton and bedworth but it will be free at night ."
+            ], 
+            "author": [
+                "Nuneaton News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5655a1eb380000e34132a73e", 
+            "title": "latest : warwickshire police sergeant dismissed over relationships and warning about overseas puppies", 
+            "text": [
+                "here are some of the stories making the headlines in coventry and warwickshire :", 
+                "- a north warwickshire police sergeant has been sacked by the force for having inappropriate relationships with vulnerable women", 
+                "- there are warnings from coventry trading standards to people buying puppies overseas and trying to bring them back to the uk .", 
+                "- the sky blues remain top of league one by a point , after their goalless draw with bradford city ."
+            ], 
+            "author": [
+                "Susie Rack", 
+                "BBC Coventry and Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56544aa43d0000ecf9076069", 
+            "title": "your frost in leamington spa", 
+            "text": [
+                "no frosty weather forecast for the rest of this week , but julie hart sent us this lovely of frosty leamington from earlier in the week .", 
+                "we love to feature your of coventry and warwickshire .", 
+                "you can send them to us by by email , twitter or facebook"
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565576d03a00009857380bea", 
+            "title": "warning over puppies brought to the uk from overseas", 
+            "text": [
+                "trading standards in coventry say an american bulldog , bought in from the republic of ireland , was found to be too young to be imported into the uk , needed to be quarantined and had to be re-vaccinated for rabies .", 
+                "the problems were discovered when the animal was take to a vets for a check-up , where it was found to be eight weeks old - it should have been at least 15 weeks before being brought into the country .", 
+                "the animal was seized by trading standards officers and quarantined for four weeks , which cost its owner approximately \u00a3 800 .", 
+                "our trading standards team are increasingly becoming aware of incidents such as this , primarily as dogs offered for sale abroad can be considerably cheaper than those born here"
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56557af63a00009857380bfb", 
+            "title": "abdul khan is new coventry city council deputy leader", 
+            "text": [
+                "the cabinet member for culture , leisure and sport was appointed by council leader ann lucas during a labour group meeting on monday ."
+            ], 
+            "author": [
+                "Coventry Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565580ea3a00007d59380c12", 
+            "title": "travel : congestion on a45", 
+            "text": [
+                "there 's congestion both ways on the a45 dunchurch highway at the junction with broad lane .", 
+                "you can find more details here ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56557fb43d00000a140762a7", 
+            "title": "latest : fears of more police cuts in spending review and historic stratford fresco should be uncovered", 
+            "text": [
+                "here are some of the stories making the headlines :", 
+                "- there could be more cuts to the police in the west midlands in the chancellor 's spending review , say the police federation", 
+                "- a campaign to uncover and restore medieval frescos at the guild chapel in stratford", 
+                "- the sky blues draw 0-0 with bradford city , but stay top of league one"
+            ], 
+            "author": [
+                "Susie Rack", 
+                "BBC Coventry and Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "10:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56557d343d0000041507629c", 
+            "title": "bradford city 0-0 coventry city", 
+            "text": [
+                "coventry city stay top of league one after drawing 0-0 with bradford city ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5655780c3d00004213076287", 
+            "title": "watch : the latest weather forecast for coventry and warwickshire", 
+            "text": [
+                "the weather forecast for coventry and warwickshire comes from charlie slater ."
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "09:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565573703a00007858380bdd", 
+            "title": "warwickshire police sergeant dismissed after behaviour towards women 'fell below standards '", 
+            "text": [
+                "a warwickshire police sergeant has been dismissed from the force with immediate effect following a gross misconduct hearing ."
+            ], 
+            "author": [
+                "Rugby Advertiser"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56548a813a0000683f380abb", 
+            "title": "your winter scene in coventry", 
+            "text": [
+                "paul thompson sent us this stunning he took in coventry .", 
+                "we love to feature your of coventry and warwickshire .", 
+                "you can send them to us by by email , twitter or facebook"
+            ], 
+            "author": [
+                "Alec Blackman", 
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5654901f380000de2732a593", 
+            "title": "campaign to reveal 'secret ' wall paintings in stratford", 
+            "text": [
+                "medieval wall paintings at the guild chapel in stratford-upon-avon , which were covered up by william shakespeare 's father , may be revealed again .", 
+                "the stratford town trust is applying for \u00a3 100,000 from the heritage lottery fund to carry out the work .", 
+                "the paintings were covered in limewash in 1563 under the supervision of john shakespeare , father of the playwright william , when he was the chamberlain of the corporation of stratford .", 
+                "the guild chapel wall paintings are an extremely important survival and are of national significance they also provide a visual context for the social and religious attitudes which would have been prevalent at the time of the young william shakespeare"
+            ], 
+            "author": [
+                "BBC Coventry & Warwickshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565570c83a00008f57380bd0", 
+            "title": "latest : police officer dismissed over on-duty relationships and campaign to restore medieval wall paintings", 
+            "text": [
+                "here are some of the stories we are looking at for coventry and warwickshire :", 
+                "- a warwickshire police sergeant has been dismissed after concerns were raised about how he had engaged with a number of women whilst on duty", 
+                "- coventry city council have appointed a new deputy leader after the death of councillor phil townsend last month", 
+                "- a campaign has been launched to restore a series of medieval wall paintings in a historic stratford-on-avon church"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56556d883800000f3e32a669", 
+            "title": "weather : cloud and rain moving in", 
+            "text": [
+                "eastern parts will see the best of the brightness today , with cloud andoutbreaks of rain moving in from the west .", 
+                "a fresh breeze , especially over the hills .", 
+                "highs of 9c ( 48f ) .", 
+                "patchy , mainly light , rain will continue tonight , becoming more confined to western parts by dawn .", 
+                "mainly cloudy , with some clear spells ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56556cf23800000f3e32a667", 
+            "title": "travel : a46 southbound delays", 
+            "text": [
+                "there is slow traffic on the a46 southbound in coventry at tollbar island in the roadworks area .", 
+                "more for bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565449b03800003f2332a478", 
+            "title": "good morning from coventry and warwickshire live", 
+            "text": [
+                "welcome to our live service for wednesday morning .", 
+                "we 'll be bringing you the latest news , sport , travel and weather .", 
+                "if you 'd like to comment on anything , or send in your best from around the area , then get in touch with the team by email , twitter or facebook ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-coventry-warwickshire", 
+    "quality": "high"
+}

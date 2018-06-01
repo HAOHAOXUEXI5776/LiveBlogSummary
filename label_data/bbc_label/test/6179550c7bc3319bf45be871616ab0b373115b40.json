@@ -1,0 +1,762 @@
+{
+    "blog_id": "6179550c7bc3319bf45be871616ab0b373115b40", 
+    "title": "BBC Local Live: Cambridgeshire on Tuesday, 1 December 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-cambridgeshire-34969135", 
+    "summary": [
+        "disruption to operations at cambridgeshire 's hospitals despite a 24-hour strike by junior doctors being called off .", 
+        "secondary schools in cambridgeshire are ranked among the worst performing in england .", 
+        "more news , sport , travel and weather from 08:00 on wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dda693e0000bfe76bbdec", 
+            "title": "that 's all from local live for today", 
+            "text": [
+                "that 's all from the cambridgeshire live team for today .", 
+                "we 'll be back tomorrow from 08:00 with news , sport , weather and travel updates for the county .", 
+                "if you have something to share with us , you can send us your stories and"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dd9ce3e000001edb3c78b", 
+            "title": "weather : mainly cloudy and dry overnight", 
+            "text": [
+                "it will be dry and cloudy overnight .", 
+                "temperatures will be very mild for the time of year .", 
+                "minimum temperature : 9c ( 48f ) .", 
+                "tomorrow is expected to be dry through much of the day , with brighter spells developing in places .", 
+                "you can find a more detailed forecast for where you live at bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dd3b53e0000b3e96bbdcd", 
+            "title": "father of baby believed to be youngest organ donor praises hospital staff", 
+            "text": [
+                "the father of a newborn who lived just 74 minutes has praised staff who looked after her at the rosie hospital in cambridge .", 
+                "hope lee is believed to be the uk 's youngest organ donor after her parents gave their blessing , as reported in the cambridge news .", 
+                "drew lee , from newmarket , says the support the family received has been `` unbelievable '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565db69d19000033ebf4001a", 
+            "title": "steve barclay : 'no more important vote ' than deciding to commit military forces", 
+            "text": [
+                "`` there is no more important vote in parliament than deciding whether to commit military forces , '' says north east cambridgeshire mp steve barclay , who is voting for uk air strikes in syria to try and defeat so-called islamic state .", 
+                "the conservative mp , who served in the forces before being elected , said : `` given the lack of a clear border between iraq and syria , it is important to consider whether this existing action should extend to include syria '' .", 
+                "conservative south east cambs mp , lucy frazer , says she will also vote for air strikes ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dcc8a1900001cedf4009e", 
+            "title": "'youngest ' donor 'achieved so much ' says father", 
+            "text": [
+                "the father of a baby believed to be the uk 's youngest organ donor says she `` achieved so much '' in her short life .", 
+                "as reported by the cambridge news , drew and emma lee 's baby daughter , hope , suffered from a rare condition which meant she lived just 74 minutes , at the rosie hospital in cambridge .", 
+                "drew lee says a woman who had received hope 's kidneys was doing well , and that liver cells taken `` with the family 's blessing '' would be used in research ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dc9933e0000bfe76bbd9d", 
+            "title": "headlines : school principal blames funding for cambridgeshire secondary school problems man left with serious injuries after a14 crash", 
+            "text": [
+                "here are the top stories in cambridgeshire this afternoon :"
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dbcce3e000007e16bbd5c", 
+            "title": "father of 'youngest ' organ donor says he had no doubts", 
+            "text": [
+                "the father of a newborn baby girl believed to be the uk 's youngest organ donor says he never had any doubts about donating her organs .", 
+                "as reported in the cambridge news , hope lee ( above left ) lived for just 74 minutes after being born at cambridge 's rosie maternity hospital last week .", 
+                "drew lee says donating her kidneys and liver cells meant hope had `` achieved so much '' in her short life .", 
+                "her twin brother josh is now back at the family home in newmarket ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565d90753e0000ebe36bbc6d", 
+            "title": "syria vote : cambridge mp says he will not support military action", 
+            "text": [
+                "cambridge 's labour mp , daniel zeichner , has tweeted to say he will be voting against uk air strikes on syria .", 
+                "we need to ensure our security and that of the syrian people .", 
+                "bombing wo n't achieve that security , so i 'll be voting against air strikes .", 
+                "@ twitterid appreciate your busy , but your constituents might appreciate a small blog post ( or similar ) explaining your descision .", 
+                "@ twitterid there 's a little more here", 
+                "@ twitterid very disappointed .", 
+                "unless we act with our allies is will win .", 
+                "@ twitterid i agree , but air-strikes would have to be complementary to a long term strategy to stabilise syria and no evidence there is", 
+                "@ twitterid disappointed in your vote on daesh .", 
+                "mrs davies", 
+                "@ twitterid @ twitterid thank you", 
+                "@ twitterid @ twitterid we just need the rest of the party to realise .", 
+                "thank you daniel", 
+                "@ twitterid well done daniel", 
+                "@ twitterid @ twitterid pls clarify what actions you feel are appropriate and if you have a plan of action to carry them out .", 
+                "oil etc .", 
+                "@ twitterid @ twitterid good for you , let 's hope more mp 's see sense .", 
+                "@ twitterid thank you", 
+                "@ twitterid 10 points to my mp", 
+                "@ twitterid i 'm glad to hear that .", 
+                "@ twitterid thank you daniel .", 
+                "good call after good call .", 
+                "@ twitterid thank you", 
+                "@ twitterid thank you for representing my view by voting against bombing syria", 
+                "@ twitterid i 'm glad you take this position .", 
+                "@ twitterid excellent work , please keep up the opposition to syrian bombing .", 
+                "thank you", 
+                "@ twitterid delighted to hear that you will be voting against bombing in syria .", 
+                "trying to remain hopeful about the outcome tonight ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dbee719000033ebf4004e", 
+            "title": "school principal blames funding and staff recruitment on county 's problems", 
+            "text": [
+                "i 've spoken to andrew goulding , principal at hinchingbrooke school , about cambridgeshire being ranked in the bottom 10 authorities for secondary schools rated good or outstanding by ofsted .", 
+                "the huntingdon school is currently classed as `` requiring improvement '' , but it 's due another inspection soon .", 
+                "mr goulding blamed reasons such as historically low funding , staff recruitment and retention , plus a relaxed pupil culture as contributory factors to the problems the county faces ."
+            ], 
+            "author": [
+                "Anna Todd", 
+                "BBC Look East"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dbfc23e0000f9e8b3c71d", 
+            "title": "a14 lorry crash update : man in 30s taken to hospital with 'serious leg injuries '", 
+            "text": [
+                "the ambulance service has told us a man in his 30s has been taken to addenbrooke 's hospital , in cambridge , with `` serious leg injuries , '' following a crash between two lorries .", 
+                "emergency services were called to the m11 junction with the a14 at girton just before 14:00 .", 
+                "drivers can expect long delays ."
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "15:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565db8933e00000febb3c6ff", 
+            "title": "one person has 'life-threatening ' injuries following a14 girton crash", 
+            "text": [
+                "police have just told us one person is believed to have `` life-threatening '' injuries following a crash between two lorries on the a14 at girton .", 
+                "if we hear any more we 'll let you know .", 
+                "travel has the latest closure information ."
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565db77a3e000007e16bbd37", 
+            "title": "man trapped in vehicle after crash on a14 at girton", 
+            "text": [
+                "the ambulance service says a man is trapped following a crash between two lorries on the a14 at girton .", 
+                "the east anglian air ambulance is also in attendance ."
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:09"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565db59119000033ebf40016", 
+            "title": "a14 shut westbound near girton", 
+            "text": [
+                "the a14 has been shut westbound between junctions 31 and 30 near girton , on the outskirts of cambridge , because of a serious accident .", 
+                "congestion is going back on the m11 to junction 13 ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dabea3e000007e16bbd00", 
+            "title": "no operations cancelled at hinchingbrooke hospital due to planned junior doctors strike", 
+            "text": [
+                "hinchingbrooke hospital has told us no operations were cancelled because of the planned strike by junior doctors .", 
+                "the british medical association agreed to suspend the walk-out following a last-minute breakthrough in talks , but across the uk about 4,000 patients have had treatment delayed - including a number in peterborough ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565dad003e0000bfe76bbd08", 
+            "title": "more peterborough children going to good or outstanding rated schools", 
+            "text": [
+                "more children in peterborough are going to good and outstanding schools than ever before , new figures show ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565da5f23e0000f8e8b3c6a1", 
+            "title": "uk should 'play part ' in syria , says huntingdon mp jonathan djanogly", 
+            "text": [
+                "huntingdon mp jonathan djanogly believes the uk has a `` part to play '' in military action in syria , confirming he will be voting for air strikes in the country .", 
+                "the conservative mp said : `` having weighed up the pros and cons , of which there are a number of both , i now think that it is right that britain accepts a part to play in taking military action against daesh . ''"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "14:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d97f61900004ce9f3ff74", 
+            "title": "syria vote : two cambridgeshire mps say they will support airstrikes", 
+            "text": [
+                "cambridgeshire conservative mps heidi allen ( below ) and stewart jackson have confirmed they will be voting in favour of air strikes in syria .", 
+                "the prime minister is asking his cabinet to endorse a one-day commons debate and vote on wednesday over uk air strikes against so-called islamic state .", 
+                "for the latest on the syria vote , head to politics live ."
+            ], 
+            "author": [
+                "Hannah Olsson", 
+                "BBC Radio Cambridgeshire political reporter"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "13:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d9e213e0000f6e7b3c679", 
+            "title": "incident near guided busway crossing in st ives", 
+            "text": [
+                "there are reports of an incident near the guided busway crossing in harrison 's way , st ives .", 
+                "drivers are told to expect delays .", 
+                "# a1096 harrison way # stives near the junction with the busway crossing .", 
+                "incident .", 
+                "delays in both directions"
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565d93343e0000f8e8b3c648", 
+            "title": "headlines : cambridgeshire secondary schools among worst performing in england dog badly injured after being 'dragged or thrown from moving car '", 
+            "text": [
+                "if you 're just joining us here are the headlines this afternoon :"
+            ], 
+            "author": [
+                "Tom Horn", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d947d3e0000f6e7b3c64f", 
+            "title": "weather : a dry afternoon with some sunny spells", 
+            "text": [
+                "it will be mostly dry and cloudy , although a few bright or sunny intervals are possible .", 
+                "maximum temperature : 13c ( 55f ) .", 
+                "you can find a more detailed forecast for where you live at bbc weather ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "12:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d6dd419000097e4f3fe9e", 
+            "title": "performance of cambridgeshire secondary schools should be 'national concern '", 
+            "text": [
+                "ofsted chief sir michael wilshaw has called for greater `` political will '' to improve the quality of teaching , as cambridgeshire 's secondary schools are named as some of the worst performing in england .", 
+                "the chief inspector of schools says the `` mediocrity in secondary performance should be a national concern '' .", 
+                "cambridgeshire is among the bottom 10 authorities for secondary schools rated good or outstanding ."
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d899d3e0000e8e6b3c61c", 
+            "title": "peterborough school shut as possible power cut is investigated", 
+            "text": [
+                "a potential power cut in peterborough is being investigated after a city school said it was closing for the day due to a lack of power ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "12:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d82e73e0000e8e46bbc38", 
+            "title": "operations cancelled : have you been affected ?", 
+            "text": [
+                "hospitals in the county still cancelled operations today despite a 24-hour strike by junior doctors being called off .", 
+                "nationally more than 4,000 patients have already had their treatment delayed .", 
+                "have you been affected ?", 
+                "if so , tell us your story via email , facebook or twitter ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:45"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d786c3e0000eae36bbc08", 
+            "title": "cambridgeshire pupils in good or outstanding secondary schools down 10 %", 
+            "text": [
+                "the number of pupils in good or outstanding secondary schools in cambridgeshire has decreased by 10 % in a year , according to ofsted .", 
+                "the education watchdog 's annual report says just 45 % of secondary pupils went to schools deemed good or outstanding in 2015 .", 
+                "cambridgeshire is among the bottom 10 local authorities in england ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "11:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d7fd33e0000e9e6b3c5ec", 
+            "title": "headlines : cambridgeshire secondary schools among worst performing in england dog badly injured after being 'dragged or thrown from moving car '", 
+            "text": [
+                "here are the main stories in cambridgeshire this morning :"
+            ], 
+            "author": [
+                "Sam Edwards", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d7a923e0000e8e6b3c5d5", 
+            "title": "safety warning to cambridge students after assault by 'hammer-wielding thugs '", 
+            "text": [
+                "students have been warned not to walk home alone on fen causeway in cambridge , after a man was attacked by hammer-wielding thugs ."
+            ], 
+            "author": [
+                "Cambridge News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d728c19000097e4f3febc", 
+            "title": "dog badly injured after being 'thrown from moving car ' in peterborough", 
+            "text": [
+                "a dog suffered `` shocking wounds '' after being dragged behind or thrown from a moving car in peterborough , the rspca said .", 
+                "the tan-coloured crossbreed was found by officers roaming eastfield road in the city .", 
+                "the charity has appealed for anyone with information to get in touch ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "10:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565d69d03e0000dde16bbbc3", 
+            "title": "cambridgeshire christmas 'tree bank ' opens to 'help spread cheer '", 
+            "text": [
+                "a mum who started a christmas `` tree bank '' three years ago for people who ca n't afford one says it is going from strength-to-strength - and she already has a garage full of donated decorations .", 
+                "four years ago hayley dolbear from march could not afford a tree so a neighbour gave one to her .", 
+                "this inspired her to appeal for unwanted trees to `` help spread cheer to those in need '' ."
+            ], 
+            "author": [
+                "Katharine Park", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d6fd3190000a3e4f3feae", 
+            "title": "junior doctor strike off after appointments cancelled at peterborough city hospital", 
+            "text": [
+                "a national strike of junior doctors has been called off at the last minute , but only after 120 patients at peterborough city hospital had their appointments cancelled ."
+            ], 
+            "author": [
+                "Peterborough Telegraph"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "10:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d5f13190000a3e4f3fe59", 
+            "title": "cambridgeshire secondary schools among worst performing in england", 
+            "text": [
+                "cambridgeshire has one of the lowest proportions of outstanding and good secondary schools in england , according to ofsted 's annual report .", 
+                "the education watchdog says cambridgeshire is among the bottom 10 local authorities , with 45.3 % of secondary schools rated outstanding or good .", 
+                "ofsted chief sir michael wilshaw says more attention must be focused on regions where too many schools are `` languishing in mediocrity '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "09:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_565d5fc43e0000e4e4b3c543", 
+            "title": "newborn baby girl hope lee becomes uk 's youngest organ donor", 
+            "text": [
+                "a newborn baby girl has become the uk 's youngest organ donor after she tragically passed away less than three hours old ."
+            ], 
+            "author": [
+                "Cambridge News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "09:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d59da1900006ee5f3fe3b", 
+            "title": "operations cancelled at cambridgeshire hospitals despite junior doctors ' strike being called off", 
+            "text": [
+                "operations have been disrupted and cancelled at cambridgeshire 's hospitals , despite a 24-hour strike by junior doctors being called off .", 
+                "the british medical association agreed to suspend the walk-out following a last-minute breakthrough in talks .", 
+                "peterborough and stamford hospitals nhs foundation trust told bbc radio cambridgeshire 120 patients have had appointments cancelled .", 
+                "we 'll keep you updated with the situation at our other hospitals ."
+            ], 
+            "author": [
+                "David Webster", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "09:06"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d5074190000a3e4f3fe09", 
+            "title": "cash-strapped police in cambridge need you to clean their cars and turn detective - for free", 
+            "text": [
+                "a cash-strapped police force is recruiting a volunteer `` detective '' to `` find stolen property '' and another to wash its patrol cars at cambridge police station ."
+            ], 
+            "author": [
+                "Cambridge News"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d57b73e000007e16bbb6b", 
+            "title": "headlines : disruption expected despite junior doctors ' strike being called-off cambridgeshire secondary schools among the worst performing in england", 
+            "text": [
+                "here are the headlines in cambridgeshire this morning :"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d51fc3e00001ae4b3c509", 
+            "title": "travel : delays on m11 southbound at junction 11 following a crash", 
+            "text": [
+                "there are delays on the m11 southbound at junction 11 for cambridge following a crash .", 
+                "for the latest on the the roads , head to bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "08:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d4f8e19000097e4f3fe03", 
+            "title": "weather : outbreaks of rain , becoming drier and milder later", 
+            "text": [
+                "there will be outbreaks of light rain at first this morning before it becomes dry and cloudy later .", 
+                "a few bright or sunny intervals are possible .", 
+                "maximum temperature : 13c ( 55f ) .", 
+                "you can find a more detailed forecast for where you live at bbc weather ."
+            ], 
+            "author": [
+                "Kate Kinsella", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:10"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_565d4e2e3e000007e16bbb32", 
+            "title": "welcome to tuesday 's cambridgeshire live page", 
+            "text": [
+                "welcome to cambridgeshire live on the first day of december .", 
+                "we 'll be here until 18:00 with news , sport , weather and travel updates for the county .", 
+                "if you have something to share with us , you can send us your stories and"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-cambridgeshire", 
+    "quality": "high"
+}

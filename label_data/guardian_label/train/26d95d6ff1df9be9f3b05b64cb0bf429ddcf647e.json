@@ -1,0 +1,477 @@
+{
+    "blog_id": "26d95d6ff1df9be9f3b05b64cb0bf429ddcf647e", 
+    "title": "Eric Betzig, Stefan Hell, William Moerner win Nobel Prize in Chemistry \u00e2\u0080\u0093 as it happened | Science | The Guardian", 
+    "url": "https://www.theguardian.com/science/live/2014/oct/08/nobel-prize-chemistry-2014-announcement-live", 
+    "summary": [
+        "what the research achieved .", 
+        "and the winners are \u0080\u00a6", 
+        "predictions from the pundits ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5435211de4b094c490f340b2", 
+            "title": "", 
+            "text": [
+                "that 's it for another year from the nobel science prizes .", 
+                "you can see all our coverage including the stories of past winners here .", 
+                "look out for the guardian 's in-depth news story about this year 's winners and their research later today on www.theguardian.com/science or follow us on twitter @ twitterid .", 
+                "in the meantime , here 's a quick summary of today 's chemistry prizes .", 
+                "thanks for your company during our 2014 science nobel liveblogs !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                11, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-543518e1e4b094c490f3409d", 
+            "title": "", 
+            "text": [
+                "i 've just got off the phone to dr stefanie reichelt , head of light microscopy at cancer research uk 's cambridge institute .", 
+                "she 's chuffed to bits with today 's prize .", 
+                "here she talks about how the winners ' work transformed microscopy from a field mocked for making pretty to an area where scientists could watch biochemical processes unfold before their eyes ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                11, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54351863e4b094c490f3409c", 
+            "title": "", 
+            "text": [
+                "nobel prizes by country since 1901. business insider ( @ businessinsider ) here 's a beautiful visualization of nobel prizes by country since 1901"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                10, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5435171ae4b0cd82a095ef00", 
+            "title": "", 
+            "text": [
+                "eric betzig and william moerner of the us and stefan w hell of germany ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                10, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54351101e4b0cd82a095eef2", 
+            "title": "", 
+            "text": [
+                "here 's one of the winners , eric betzig , speaking in singapore in 2012 : i 'd like to give my talk on a personal level , so you can see at least how science is done by a guy like myself who does n't consider himself a scientist at all .", 
+                "eric betzig speaking about microscopy in singapore in 2012"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                10, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5435118be4b0cd82a095eef4", 
+            "title": "", 
+            "text": [
+                "winners of the 2014 nobel prize in chemistry .", 
+                ".org"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                10, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54350c68e4b0d098fa946d35", 
+            "title": "", 
+            "text": [
+                "i had an intuitive feeling that the resolution of light microscopes had not come to an end .", 
+                "here 's stefan hell on his nobel prizewinning work on nanoscale microscopy : stefan hell explores new microscopic techniques to examine living cells non-invasively ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                10, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54350a58e4b09a3751419dac", 
+            "title": "what the research achieved", 
+            "text": [
+                "more explanation from the nobel assembly : in what has become known as nanoscopy , scientists visualise the pathways of individual molecules inside living cells .", 
+                "they can see how molecules create synapses between nerve cells in the brain ; they can track proteins involved in parkinson 's , alzheimer 's and huntington 's diseases as they aggregate ; they follow individual proteins in fertilised eggs as these divide into embryos .", 
+                "it was all but obvious that scientists should ever be able to study living cells in the tiniest molecular detail .", 
+                "in 1873 , the microscopist ernst abbe stipulated a physical limit for the maximum resolution of traditional optical microscopy : it could never become better than 0.2 micrometres .", 
+                "eric betzig , stefan w hell and william e moerner are awarded the nobel prize in chemistry 2014 for having bypassed this limit .", 
+                "due to their achievements the optical microscope can now peer into the nanoworld .", 
+                "two separate principles are rewarded .", 
+                "one enables the method stimulated emission depletion ( sted ) microscopy , developed by stefan hell in 2000 .", 
+                "two laser beams are utilised ; one stimulates fluorescent molecules to glow , another cancels out all fluorescence except for that in a nanometre-sized volume .", 
+                "scanning over the sample , nanometre for nanometre , yields an image with a resolution better than abbe 's stipulated limit .", 
+                "eric betzig and william moerner , working separately , laid the foundation for the second method , single-molecule microscopy .", 
+                "the method relies upon the possibility to turn the fluorescence of individual molecules on and off .", 
+                "scientists image the same area multiple times , letting just a few interspersed molecules glow each time .", 
+                "superimposing these images yields a dense super-image resolved at the nanolevel .", 
+                "in 2006 eric betzig utilised this method for the first time .", 
+                "today , nanoscopy is used worldwide and new knowledge of greatest benefit to mankind is produced on a daily basis ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                57
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-543509efe4b0cd82a095eee6", 
+            "title": "", 
+            "text": [
+                "the winners overcame the resolution limits of optical microscopy and brought it down to the nanoscale .", 
+                "as the ever-helpful nobel assembly notes : for a long time optical microscopy was held back by a presumed limitation : that it would never obtain a better resolution than half the wavelength of light .", 
+                "helped by fluorescent molecules the nobel laureates in chemistry 2014 ingeniously circumvented this limitation .", 
+                "their ground-breaking work has brought optical microscopy into the nanodimension ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-543509cbe4b09a3751419daa", 
+            "title": "", 
+            "text": [
+                "here are the winners ' biographies : eric betzig , u.s. citizen .", 
+                "born 1960 in ann arbor , mi , usa .", 
+                "ph.d. 1988 from cornell university , ithaca , ny , usa .", 
+                "group leader at janelia farm research campus , howard hughes medical institute , ashburn , va , usa .", 
+                "stefan w. hell , german citizen .", 
+                "born 1962 in arad , romania .", 
+                "ph.d. 1990 from the university of heidelberg , germany .", 
+                "director at the max planck institute for biophysical chemistry , go\u00ec\u0088t- tingen , and division head at the german cancer research center , heidelberg , germany .", 
+                "william e. moerner , u.s. citizen .", 
+                "born 1953 in pleasanton , ca , usa .", 
+                "ph.d. 1982 from cornell university , ithaca , ny , usa .", 
+                "harry s. mosher professor in chemistry and professor , by cour- tesy , of applied physics at stanford university , stanford , ca , usa ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5435090be4b0c5eead747f81", 
+            "title": "and the winners are \u0080\u00a6", 
+            "text": [
+                "eric betzig at howard hughes medical institute , us stefan w hell at max planck institute in goettingen , germany william e moerner at stanford university , us for the development of super-resolved fluorescence microscopy"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54350854e4b0c5eead747f80", 
+            "title": "", 
+            "text": [
+                "while we 're waiting for the nobel committee to reach a majority vote or whatever else is holding up their decision how about a tribute from lou reed and metallica to yesterday 's winners of the nobel prize in physics : lou red and metallica : white light/white heat in germany , 2011 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5435062fe4b09a3751419da2", 
+            "title": "", 
+            "text": [
+                "the announcement has been delayed for 5 to 10 minutes .", 
+                "we 'll try to find out what that 's all about and let you know .", 
+                "unless it 's dull .", 
+                "i 'm going to learn swedish in time for next year 's nobel prizes .", 
+                "that 's what i told myself last year .", 
+                "and possibly the year before .", 
+                "understandable but frustrating to be so clueless as to what 's being said in the first moments of the annual press conferences .", 
+                "i 'll have the language firmly under my belt by 2015 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54350339e4b09a3751419d9e", 
+            "title": "", 
+            "text": [
+                "in recent years , nobel watchers have noted that the chemistry prize has moved away from what we might think of as traditional chemistry and been awarded for more biochemical or even biomedical work .", 
+                "that 's inevitable , i suspect , as chemistry grows into different subfields .", 
+                "the nobel assembly has totted up the chemistry prizewinners .", 
+                "here are the stats : the nobel prize ( @ nobelprize ) top 10 list of the chemistry laureates ( 1901-2013 ) sorted by field :"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5434f5fce4b09a3751419d8d", 
+            "title": "predictions from the pundits", 
+            "text": [
+                "the citation trackers at thomson reuters have drawn up their annual list of names that seem ripe for the prize .", 
+                "they like the look of ching tang at the university of rochester and steven van slyke at kateeva in california for inventing organic leds .", 
+                "but will we really see two prizes in one year for leds ?", 
+                "others on their list are charles t kresge at saudi aramco , ryong ryoo at kaist in south korea and galen d stucky at the university of california , santa barbara for work on functional mesoporous materials .", 
+                "they have huge surface areas ( the materials , that is ) and are in all sorts of industrial processes ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5434f5bde4b0682440b81f8b", 
+            "title": "", 
+            "text": [
+                "a nobel finale it 's time to discover who has won the third and final nobel science prize to be announced in stockholm this year .", 
+                "this morning it 's the chemistry award .", 
+                "on monday , the nobel prize in physiology or medicine went to john o'keefe ( us-uk ) and may-britt moser and edvard i moser , a norwegian couple who met as postdocs in o'keefe 's lab at ucl in london .", 
+                "the trio won for their discovery of cells that constitute a positioning system in the brain .", 
+                "yesterday , the nobel prize in physics was shared by shuji namkura ( us ) , isamu akasaki ( japan ) and hiroshi amano ( japan ) for the invention of efficient blue light-emitting diodes , which has enabled the creation of bright and energy-saving white light sources .", 
+                "but who will win the chemistry prize ?", 
+                "who will join the list of nobel luminaries from linus pauling and ernest rutherford to fritz haber and fred sanger ?", 
+                "we will hear at 10.45am uk time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2014, 
+                10, 
+                8, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "science", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n10.57am BST\n10:57\nWhat the research achieved\n", 
+                "block": "block-54350a58e4b09a3751419dac"
+            }, 
+            {
+                "text": "\n\n10.53am BST\n10:53\nAnd the winners are \u00e2\u0080\u00a6\n", 
+                "block": "block-5435090be4b0c5eead747f81"
+            }, 
+            {
+                "text": "\n\n10.25am BST\n10:25\nPredictions from the pundits\n", 
+                "block": "block-5434f5fce4b09a3751419d8d"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Two US and one German scientist win Nobels for opening a window into the nanoworld with their development of \u0080\u0098super-resolved fluorescence microscopy'", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,682 @@
+{
+    "blog_id": "8c3d446ce783d8f7ef3c747d5a98c7ae87381643", 
+    "title": "Australia weather: cyclone builds off WA as supercell storms hit east coast \u00e2\u0080\u0093 as it happened | Australia news | The Guardian", 
+    "url": "https://www.theguardian.com/australia-news/live/2016/jan/29/australia-weather-supercell-storms-threaten-sydney-brisbane-and-canberra-live", 
+    "summary": [
+        "across the country .", 
+        "cyclone stan upgraded to category 3 , likely to hit saturday .", 
+        "bushfires and floods in wa .", 
+        "first cyclone of the season : category one stan off wa ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-56ab1572e4b072f80e4c2c60", 
+            "title": "across the country", 
+            "text": [
+                "we 're closing off our coverage off the weather around australia now .", 
+                "here 's where things stand : in new south wales , severe thunderstorms have been detected in the area between oberon and taralga .", 
+                "they are forecast to affect the nattai national park , the area southwest of yerranderie , high range and the wombeyan caves road by 7:30 pm .", 
+                "large hailstones and damaging winds are likely .", 
+                "abc emergency ( @ abcemergency ) # nsw at 6:30 pm , severe # thunderstorms were detected near the area between # oberon # taralga queensland will see severe thunderstorms over the next few hours in the capricornia , wide bay and burnett , southeast coast and parts of the central highlands and coalfields and darling downs and granite belt districts .", 
+                "the same is predicted for the next few hours in parts of the northern tro coast and tablelands district .", 
+                "abc emergency ( @ abcemergency ) se # qld severe # thunderstorm warning : # noosa # gympie # scenicrim # goldcoast # sunshinecoast in victoria , geelong has just been issued a severe thunderstorm warning , with flood watches still in place in regional areas across the state .", 
+                "a storm is making its way north through tasmania , with damaging winds forecast for the furneaux islands and parts of the north-west coast .", 
+                "it will remain in place throughout saturday , the bom says .", 
+                "damaging winds are forecast for adelaide this evening , with heavy rainfall and the attendant risk of flash flooding a concern for port lincoln , port pirie , clare , maitland , kingscote and port wakefield .", 
+                "and finally , cyclone stan is looming over western australia , expected to make land on saturday as a category 3 storm .", 
+                "more information on that weather event here .", 
+                "that brings out coverage to a close .", 
+                "stay dry .", 
+                "stay safe ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                7, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56ab13d6e4b040f932978ee3", 
+            "title": "", 
+            "text": [
+                "abc emergency ( @ abcemergency ) # qld severe thunderstorms are likely over the next several hours in # northerntro # tablelands district ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                7, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56ab1217e4b0016c423dd73b", 
+            "title": "cyclone stan upgraded to category 3 , likely to hit saturday", 
+            "text": [
+                "cyclone stan , currently at sea to the north of the pilbara coast , is now forecast to make land on saturday , the bom says .", 
+                "bom wa ( @ bom wa ) latest advice for tro cyclone stan .", 
+                "could be a cat 3 at landfall on sat .", 
+                "# cyclonestan it 's currently a category one storm but is forecast to be category three by the time it hits .", 
+                "here 's what that means : category 3 ( severe tro cyclone ) some roof and structural damage .", 
+                "some caravans destroyed .", 
+                "power failures likely.a category 3 cyclone 's strongest winds are very destructive winds with ty gusts over open flat land of 165 - 224 km/h.these winds correspond to the highest category on the beaufort scale , beaufort 12 ( hurricane ) a blue warning , the first grade of alert , has been issued , meaning resident of the following towns should get ready for a cyclone : blue alert : people in communities between bidyadanga to pardoo including sandfire and pardoo ; and between mardie and pannawonica need to prepare for cyclonic weather and organise an emergency kit including first aid kit , torch , portable radio , spare batteries , food and water .", 
+                "the following communities have been issued a yellow warning ( take action and get ready to shelter from a cyclone .", 
+                ") : yellow alert : people in communities between pardoo and mardie including port hedland , south hedland , marble bar , wickham , point samson , roebourne , karratha , whim creek and dampier need to take action and get ready to shelter from a cyclone ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                7, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56ab0c19e4b06eba8819a9dd", 
+            "title": "", 
+            "text": [
+                "all across brisbane , residents are glaring at the sky , fists raised , roaring : is that the best you 've got , supercell ?", 
+                "jean burgess ( @ jeanburgess ) meh , only enough to wet the ground in # 4030 # bnestorm maeve o'leary ( @ maeve oleary ) so much for a `` super cell storm , '' more like stinking heat and humidity instead # bnestorm cassie dellit ( @ cassie1805 ) well that was a massive let down .", 
+                "did n't realise supercell now means light rain & a bit of lightning # bnestorm"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                6, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56ab0b5ae4b02808d5f28dac", 
+            "title": "", 
+            "text": [
+                "victoria-way , the bom has just issued its latest flood watches and thankfully now warnings , despite earlier fears .", 
+                "here they are : flood watch for east gippsland ( mitchell , tambo , snowy , cann and genoa rivers and gippsland lakes ) flood watch for greater melbourne catchments ( werribee , maribyrnong , yarra , dandenong and bunyip )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                6, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56ab0926e4b0016c423dd6f9", 
+            "title": "", 
+            "text": [
+                "further south in the act , a different story : severe thunderstorms have been detected near belconnen , a district north-west of canberra 's centre .", 
+                "abc emergency ( @ abcemergency ) # act at 5:30 pm , severe # thunderstorms were detected near # belconnen # hall and the # barton highway between # murrumbateman and # hall here 's how the thunderstorms will unfold across the territory this evening .", 
+                "abc emergency ( @ abcemergency ) # act severe # thunderstorms are forecast to affect # canberracivic # canberraairport # southcanberra and # hume by 6pm # queanbeyan by 6:30pm"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                6, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56ab08b2e4b0016c423dd6f5", 
+            "title": "", 
+            "text": [
+                "the abc 's alle mcmahon is keeping score in brisbane , where conditions appear to have cleared a little in the past few minutes .", 
+                "alle mcmahon ( @ allemcmahon ) looks like # brisbane has won this round .", 
+                "supercell : 0 brisbane cbd : 1 # bnestorm"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                6, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56ab0329e4b02808d5f28d69", 
+            "title": "", 
+            "text": [
+                "michael safi here , taking over weather duties from helen davidson .", 
+                "a month ago south australia was battling bush fires and record high temperatures .", 
+                "today ?", 
+                "adelaide 's coldest january day in nine years , and heavy storms .", 
+                "via aap : adelaide and south australia 's gulf regions have been lashed by damaging winds and heavy rain .", 
+                "an intense low dumped 17mm on the city early on friday and the foul weather returned later in the day .", 
+                "the bureau of meteorology has forecast adelaide will receive another 25mm before conditions improve on saturday .", 
+                "damaging winds of up to 90km/h were also forecast with the centres most likely to be affected including adelaide , port lincoln , clare , maitland , kingscote and victor harbor .", 
+                "there were no immediate reports of any major damage but police warned people to take extra care on the roads .", 
+                "the early rain on friday caused minor flooding as the city copped close to its average rainfall for january .", 
+                "black hill conversation park , in the adelaide hills , had the heaviest falls with 39mm , while suburban payneham had 27.6mm .", 
+                "by 4pm on friday the state emergency service had responded to 30 calls , mostly for help with leaking roofs .", 
+                "abc emergency ( @ abcemergency ) # sa there 's a bit of rain about # adelaide and surrounding areas .", 
+                "severe weather warning at"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                6, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aafc9ce4b0016c423dd68b", 
+            "title": "", 
+            "text": [
+                "some incredible of the queensland storms coming up on social media .", 
+                "kate wall ( @ thekatewall ) view from tamborine mountain towards the gold coast !", 
+                "# goldcoast # thisisqueensland # qld # bnestorm # storm # seq matt miller ( @ mirrormatt86 ) # augustineheights # ipswich , ~14.45 .", 
+                "@ twitterid qld @ twitterid @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                5, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aafad2e4b06eba8819a95b", 
+            "title": "", 
+            "text": [
+                "there are reports of heavy traffic around brisbane as the storm closes in on the region , and motorists are urged to take care .", 
+                "three severe thunderstorms are on the latest warning image from the bureau .", 
+                "people in the scenic rim and parts of the ipswich , logan , southern downs , toowoomba , lockyer valley and gold coast council areas have been warned of damaging wind , heavy rainfall , and large hailstones .", 
+                "helen davidson ( @ heldavidson ) three storms for south east queensland , from @ twitterid qld"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                5, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56aaf838e4b02808d5f28d1c", 
+            "title": "", 
+            "text": [
+                "time-lapse footage of sydney shot by the climate change research centre shows a heavy storm rolling through the city .", 
+                "the storm developed inland in south-east australia on friday morning and strengthened as it moved towards the coast , bringing a thunderstorm to sydney just after 1pm ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                5, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aaf2f0e4b0016c423dd654", 
+            "title": "", 
+            "text": [
+                "there is a risk that cyclone stan could reach category three intensity before making landfall , aap reports .", 
+                "destructive winds of up to 150km/h are expected near the cyclone 's centre on early saturday morning near port hedland .", 
+                "gales with gusts of up to 100km/h are likely to develop in coastal parts between wallal and dampier on friday evening and saturday morning .", 
+                "people between pardoo and whim creek , including port hedland , have been warned of potential dangerous storm tides as the cyclone crosses the coast on saturday morning , with damaging waves and flooding expected .", 
+                "a yellow cyclone alert has been issued for people in communities between pardoo to mardie including port hedland , south hedland , wickham , point samson , roebourne , karratha , whim creek and dampier need to take action and get ready to shelter from a cyclone .", 
+                "a blue alert remains in place for people between bidyadanga to pardoo including marble bar , sandfire and pardoo and between mardie and pannawonica , who need to prepare for cyclonic weather .", 
+                "port hedland shipping channel and port was officially closed at 11am on friday morning .", 
+                "at the port of dampier , the inner anchorages , dampier cargo wharf and bulk liquids berth were scheduled to close at midday , while the port will officially close at 6pm .", 
+                "bom wa ( @ bom wa ) a view of tro cyclone stan from 35000 km above the earth # bomsat # cyclonestan"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                5, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aaf32ce4b0ae753c39dd34", 
+            "title": "", 
+            "text": [
+                "tasmania is facing a deluge of heavy rains , damaging winds and thunderstorms thanks to a complex area of low pressure , the bureau warns .", 
+                "furneaux islands district and parts of the north west coast are warned of damaging easterly winds of 45km/h with gusts up to 85km/h .", 
+                "the north east forecast district , and parts of the north west , central north and east coast forecast districts , and ( later today ) the furneaux islands could see thunderstorms and flash flooding .", 
+                "bom tasmania ( @ bom tas ) more rain and storms ( blue & green ) moving towards north tas heavy at times during evening"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                5, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aaee79e4b06eba8819a91b", 
+            "title": "", 
+            "text": [
+                "the sun is back out in sydney , as my colleague michael slezak points out .", 
+                "michael slezak ( @ mikeyslezak ) that storm passed pretty quickly !", 
+                "here 's the view from the @ twitterid office in sydney .", 
+                "\u00f0\u009f\u008c\u009e @ twitterid the earlier storm did leave some destruction in its wake , and a lot of photographs .", 
+                "the ses received about 300 calls for assistance , and said the worst hit areas included bankstown , blacktown , the blue mountains , fairfield and holroyd .", 
+                "sean berry ( @ seanberry7news ) the storm ripped through quickly but now it 's slow-going on woodville rd .", 
+                "dallas kilponen ( @ dallaskilponen ) time-lapse large storm front moving over sydney .", 
+                "@ twitterid @ twitterid # sydney # sydneystorm # australia janie barrett ( @ janie barrett ) # storm in # sydney .", 
+                "# weather # sydneyharbour # operahouse"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56aae251e4b040f932978d82", 
+            "title": "bushfires and floods in wa", 
+            "text": [
+                "lives and homes in the midwest gascoyne region are under threat by an emergency level bushfire in western australia .", 
+                "local residents were warned to act immediately , as the fire was earlier upgraded to an emergency warning for people in wedge , west of grey road , in the shire of dandaragan .", 
+                "the fire was upgraded after it crossed the indian ocean drive about 4km north of wedge island .", 
+                "bushfire advices are in place for areas in the perth region .", 
+                "there are also flood warnings in place for parts of the pilbara and midwest gascoyne .", 
+                "cyclone stan is expected to intensify and cross land as a category two between pardoo and whim creek on saturday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                40
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aaea16e4b040f932978da6", 
+            "title": "", 
+            "text": [
+                "adelaide has had its coldest january day since 2007 .", 
+                "temperatures reached just 19.5 today .", 
+                "a severe weather warning is in place for adelaide residents as well as people in the mount lofty ranges , lower eyre peninsula , yorke peninsula , kangaroo island and parts of the eastern eyre peninsula and mid north districts .", 
+                "the northern regions are expected to be impacted later this afternoon and evening .", 
+                "from the bureau of meteorology : an intense low pressure system centred south of kangaroo island is tracking north .", 
+                "damaging winds averaging 60-70 km/h , with gusts in excess of 90 km/h are forecast in association with the low .", 
+                "damaging wind gusts in excess of 90 km/h will mainly be associated with squally showers and thunderstorms , which also have the potential to produce heavy rainfall that may lead to flash flooding ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aae7d5e4b072f80e4c2b02", 
+            "title": "", 
+            "text": [
+                "queensland has updated its storm warnings with two areas urged to take care .", 
+                "severe thunderstorms in the south east and the central highlands are likely to produce damaging winds , heavy rainfall that may lead to flash flooding and large hailstones .", 
+                "racq ( @ racqofficial ) severe thunderstorm warnings in place for a larger area now as storm approaches the coast # bnestorms # getready qps media unit ( @ qpsmedia ) be careful out there guys , storms are looking like they could be a bit nasty !", 
+                "flash flooding means you might need a new route home # bnestorm"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56aae640e4b0016c423dd5e0", 
+            "title": "", 
+            "text": [
+                "victoria was hit by wild storms overnight , with the sad news that four dairy cows were killed by lightning in gippsland , and a winery partially destroyed in wangaratta .", 
+                "parts of victoria are on flood watch after heavy rain continued .", 
+                "earlier on friday the bureau said there was a good chance of minor flooding in some catchments ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56aae587e4b072f80e4c2af6", 
+            "title": "", 
+            "text": [
+                "in the act severe thunderstorms have been detected by the bureau near belconnen , canberra civic , south canberra , weston creek and woden valley , heading south .", 
+                "abc emergency ( @ abcemergency ) # act 2.52pm update canberra # thunderstorm warning for city , suburbs of canberra , queanbeyan karl lijnders ( @ klijnders ) stormy welcome to # canberra - the tro of # darwinnt visiting today @ twitterid bourchier @ twitterid @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56aae47ae4b0016c423dd5d7", 
+            "title": "first cyclone of the season : category one stan off wa", 
+            "text": [
+                "a cyclone has formed north of western australia , and its name is stan .", 
+                "currently a category one , the storm is about 305km north northwest of port hedland with sustained winds near the centre of 75km/h and gusts up to 100km/h .", 
+                "stan is likely to cross land on saturday , with warnings in place for bidyadanga to mardie and the adjacent inland parts to marble bar and pannawonica .", 
+                "bom wa ( @ bom wa ) ist # cyclone of the season .", 
+                "tro # cyclonestan has been named .", 
+                "latest advice here ;"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aae36ce4b072f80e4c2aed", 
+            "title": "", 
+            "text": [
+                "a very large portion of new south wales has a storm warning at the moment .", 
+                "severe thunderstorms hae eased , but others are still possible , the bureau warns .", 
+                "one has already ridden over sydney .", 
+                "below are some bom new south wales ( @ bom nsw ) spectacular view of the # sydneystorm from the rhodes area .", 
+                "warning current : 7 news queensland ( @ 7newsqueensland ) lightning hitting the sydney tower .", 
+                "photo credit : @ twitterid1979 # 7news"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                4, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56aadf8de4b040f932978d6a", 
+            "title": "", 
+            "text": [
+                "the bureau of meteorology has issued severe weather warnings for every state and territory except the nt , including supercell storms in the east and a potential cyclone to the west .", 
+                "i 'll take you through the afternoon of wild weather across the country .", 
+                "let 's start in queensland , where parts of the state 's south , including warwick , toowoomba , dalby , kingaroy , stanthorpe and goondiwindi have been warned to expect a severe thunderstorm with large hail stones , damaging winds and heavy rains .", 
+                "the southeast is already on alert for three days of storms and a potential supercell for brisbane .", 
+                "zara rattue ( @ zararattue ) severe thunderstorm warning now in place for the darling downs and granite belt @ 9newsbrisbane # 9news"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                29, 
+                3, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "australia-news", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n7.55am GMT\n07:55\nAcross the country\n", 
+                "block": "block-56ab1572e4b072f80e4c2c60"
+            }, 
+            {
+                "text": "\n\n7.23am GMT\n07:23\nCyclone Stan upgraded to category 3, likely to hit Saturday\n", 
+                "block": "block-56ab1217e4b0016c423dd73b"
+            }, 
+            {
+                "text": "\n\n4.40am GMT\n04:40\nBushfires and floods in WA\n", 
+                "block": "block-56aae251e4b040f932978d82"
+            }, 
+            {
+                "text": "\n\n4.06am GMT\n04:06\nFirst cyclone of the season: Category one Stan off WA\n", 
+                "block": "block-56aae47ae4b0016c423dd5d7"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Bureau of Meteorology issues severe weather warnings for every state and territory apart from NT as supercell storms stalk eastern cities and the season's first cyclone forms off the coast of Western Australia.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

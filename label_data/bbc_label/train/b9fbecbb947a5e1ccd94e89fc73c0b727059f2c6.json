@@ -1,0 +1,421 @@
+{
+    "blog_id": "b9fbecbb947a5e1ccd94e89fc73c0b727059f2c6", 
+    "title": "Oxfordshire Live: Pigeon probe; rail works due - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-36675888", 
+    "summary": [
+        "didcot pigeon fancier investigated over cheat claims .", 
+        "southern health 'paid millions ' to boss ex-associates .", 
+        "rail works due between oxford and didcot parkway .", 
+        "new paid-for paper for oxfordshire ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b75eee4b04bbe9316a364", 
+            "title": "that 's all for today", 
+            "text": [
+                "thanks for joining us for all of the news from across oxfordshire today .", 
+                "we 'll be back at 08:00 on monday morning , so be sure to join us ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b8209e4b04bbe9316a3a2", 
+            "title": "spotted : alex lester feeling drowzee", 
+            "text": [
+                "our afternoon presenter alex lester is being overrun by pokemon .", 
+                "those little blighters get everywhere"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b6b86e4b04bbe9316a32f", 
+            "title": "man and boy arrested on drugs offences", 
+            "text": [
+                "a 50-year-old man and a 17-year-old boy , both from oxford , have been arrested on sus of possession with intent to supply class a drugs .", 
+                "city centre neighbourhood officers carried out a warrant at about 12:00 yesterday at a residential property in lake street , and a quantity of drugs was seized .", 
+                "they have been bailed until september ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b76f3e4b04bbe9316a36a", 
+            "title": "travel latest : a34 heavy northbound at weston-on-the-green", 
+            "text": [
+                "the traffic is heavier than usual on the a34 northbound between abingdon north and bicester in weston-on-the-green ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b77c0e4b04bbe9316a36c", 
+            "title": "travel latest : lanes reopened on m40 southbound", 
+            "text": [
+                "all lanes have been re-opened on the m40 southbound between j10 , a43 ( brackley ) and j9 , a34 ( bicester ) , following the blockage caused earlier by a broken down vehicle .", 
+                "traffic there is still slow ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b722fe4b0d1a9555b1f4d", 
+            "title": "your clouds gather at barnard gate", 
+            "text": [
+                "anthony morris has taken these of dark clouds gathering over barnard gate farm near witney .", 
+                "he told us the area had experienced bright spells and showers today ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b749ae4b0d1a9555b1f59", 
+            "title": "five things at bbc oxford this week", 
+            "text": [
+                "catch up on some of the online stories you may have missed over the last week in oxfordshire here .", 
+                "we covered all kinds of weird and wonderful happenings , including the bus driver with a heart of gold , mystery markings made out of flour in kidlington , and penguins in love at cotswold wildlife park ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b7338e4b0d1a9555b1f52", 
+            "title": "travel latest : queues on botley road", 
+            "text": [
+                "there 's queuing traffic on the a420 botley road in both directions in oxford at the oxford station mini-roundabout in the roadworks area .", 
+                "the congestion goes back to yje seacourt tower lights and on the a4144 abingdon road northbound to the b4495 weirs lane junction ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b5678e4b06d80a52e6e55", 
+            "title": "weekend weather : set fair", 
+            "text": [
+                "this weekend will be less humid , with a good deal of sunshine to enjoy .", 
+                "saturday might start cloudy but the skies should brighten with some spells of sunshine and just the odd shower .", 
+                "sunday should see more of the same , with temperatures reaching 20c ( 68f ) ."
+            ], 
+            "author": [
+                "Holly Green", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b697ae4b04bbe9316a322", 
+            "title": "travel latest : severe disruption on m40", 
+            "text": [
+                "the m40 is partially blocked southbound because of a broken down car near bicester .", 
+                "traffic is very slow from just before j9 ( bicester ) , with tailbacks extending north of j10 ( brackley / a43 ) ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b2a53e4b0d575a774ed78", 
+            "title": "cycle ride in memory of son who died aged two days", 
+            "text": [
+                "the parents of a northamptonshire boy who died aged two days old are preparing for a gruelling bike ride , to raise money for the hospitals who tried to save him .", 
+                "stacy howarth ( and karl aran 's son , matthew , was born in the horton hospital in banbury , but then transferred to southampton general for heart surgery .", 
+                "the couple , who live in silverstone , will be leading a team tomorrow that 's cycling the 90 miles ( 145km ) between banbury and southampton ."
+            ], 
+            "author": [
+                "Martin Heath", 
+                "BBC Radio Northampton"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_579b5b39e4b04bbe9316a2d4", 
+            "title": "'another classic '", 
+            "text": [
+                "pixar 's much-anticipated sequel to 'finding nemo ' is out today , but is 'finding dory ' as good as the original ?", 
+                "james luxford from the radio times gives it the fins-up !", 
+                "he talks to the film 's director and producer for bbc radio oxford and gives his verdict on the weekend 's other big films ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "22:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b538ce4b0d575a774ee54", 
+            "title": "quaffle-ied success for uk team", 
+            "text": [
+                "the uk quidditch team , including five people from oxford , is back from winning bronze at the world cup in frankfurt .", 
+                "australia won the tournament , which is played on `` broomsticks '' in imitation of the harry potter series .", 
+                "uk team member alice walker told radio oxford 's alex lester she hoped the game would soon be certified and funded by sport england ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b5a94e4b04bbe9316a2ce", 
+            "title": "pigeon champion investigated", 
+            "text": [
+                "in 2004 bbc news spoke to mr kelly about his success with racing partner frank lloyd , who passed away in 2008 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b586ee4b04bbe9316a2bc", 
+            "title": "cheating claims after pigeon race", 
+            "text": [
+                "cheating claims after pigeon race"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b0986e4b06d80a52e6c82", 
+            "title": "delay passing on patient data 'harmful '", 
+            "text": [
+                "long delays in transferring patient information from the john radcliffe hospital to gps could affect their safety , an nhs body has warned .", 
+                "oxfordshire 's clinical commissioning group ( ccg ) has been monitoring the hospital 's performance and said in 20 % of cases it was taking too long ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_579b4230e4b0d575a774edf9", 
+            "title": "rail works 'will cause huge disruption '", 
+            "text": [
+                "at the same time , nine days of signalling improvements will shut the track between oxford and banbury ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_579b36bbe4b0d575a774edba", 
+            "title": "trust 'paid millions ' to boss associates", 
+            "text": [
+                "trust 'paid millions ' to boss associates"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b3630e4b06d80a52e6da0", 
+            "title": "new paid-for paper for oxfordshire", 
+            "text": [
+                "managing director howard taylor said he was `` confident '' the new weekly publication would be a hit ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b247fe4b06d80a52e6d3b", 
+            "title": "world pigeon champion 'distraught ' after reports of cheating", 
+            "text": [
+                "pigeon racing champion eamon kelly , 52 , from didcot , has reportedly admitted cheating in this year 's race from tarbes in france to his home town .", 
+                "he allegedly registered 14 birds for the race , then kept them in his loft while sending another set out to france .", 
+                "a former member of the national flying club and friend of eamon kelly ron cook said : `` there will be high level meetings over the next few days - where all the evidence will be examined .", 
+                "`` until such time before the matter goes before the national flying club committee there is no more comment ''", 
+                "when contacted by the bbc eamon 's partner said he was distraught '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b0236e4b0d575a774ec72", 
+            "title": "trust 'paid millions ' to boss 's former associates", 
+            "text": [
+                "a troubled nhs trust has paid millions of pounds to companies owned by associates of its embattled chief executive , bbc news has learned .", 
+                "one firm received more than \u00a3 5m despite winning a contract valued at less than \u00a3 300,000 , while another was paid more than \u00a3 500,000 without bidding at all .", 
+                "both are owned by acquaintances of southern health nhs trust 's chief executive katrina percy .", 
+                "the trust said it took its financial responsibilities `` very seriously '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579b0835e4b0d575a774eca2", 
+            "title": "'my pub is a pokestop '", 
+            "text": [
+                "we 've been on the trail of pokestops in the county and catching up with businesses which found themselves placed by chance on the pokemon go map .", 
+                "cafes and pubs have discovered they are virtual targets for players of the gps-based game .", 
+                "the beetle and wedge boathouse in moulsford and thirsty meeples board game cafe in oxford are both enjoying a sudden influx of new customers , hunting pokemon characters .", 
+                "random people were coming in with their phones and wandering around"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_579b015de4b0d575a774ec6b", 
+            "title": "travel latest : no unexpected delays", 
+            "text": [
+                "traffic is building up on the a40 north way westbound in oxford between cutteslowe roundabout and wolvercote roundabout , due to the ongoing roadworks .", 
+                "a broken-down car which was affecting the heyford hill roundabout this morning has now been cleared ."
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "15:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579afdede4b06d80a52e6c34", 
+            "title": "and to start the day", 
+            "text": [
+                "here 's a little bit of loveliness from near wigginton .", 
+                "thank you jon white ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_579afd85e4b06d80a52e6c2f", 
+            "title": "good morning and welcome to friday", 
+            "text": [
+                "as always , we 're here bringing you oxfordshire 's headlines , travel ( woes most likely ! )", 
+                "and sport .", 
+                "do n't forget to let us know what 's happening in your area via email , facebook or twitter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:59"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

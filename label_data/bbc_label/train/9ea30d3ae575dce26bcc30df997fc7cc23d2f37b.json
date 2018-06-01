@@ -1,0 +1,938 @@
+{
+    "blog_id": "9ea30d3ae575dce26bcc30df997fc7cc23d2f37b", 
+    "title": "Dorset and Hampshire Live: Monday 27 March - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-hampshire-39378275", 
+    "summary": [
+        "'fake doctor ' escapes jail sentence .", 
+        "restaurant plan for fawley power station .", 
+        "stagecoach loses south west trains rail franchise .", 
+        "bournemouth and poole see rise in holiday school absences .", 
+        "updates from monday 27 march ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "sty_39380529", 
+            "title": "holidays behind 25 % of school absences", 
+            "text": [
+                "holidays behind 25 % of school absences"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d94541e4b033806f503624", 
+            "title": "that 's all for today", 
+            "text": [
+                "thanks for joining us today .", 
+                "we 'll be back from 08:00 bst on tuesday ."
+            ], 
+            "author": [
+                "Sue Paz", 
+                "BBC South"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d93331e4b0a714a98f62ef", 
+            "title": "latest news headlines : soldier 'stabbed ex while children slept '", 
+            "text": [
+                "latest news headlines : soldier 'stabbed ex while children slept '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d931fee4b033806f5035c8", 
+            "title": "weather outlook : dry but chilly", 
+            "text": [
+                "it will remain dry overnight but some clear spells will mean it 'll turn cold once again .", 
+                "during the early hours , cloud will increase from the southwest bringing the chance of the odd shower by dawn .", 
+                "showery outbreaks of rain will continue through the day tomorrow - possibly turning heavy and thundery for a time .", 
+                "despite this , there will still be some warm sunny spells .", 
+                "for a full 10-day forecast , visit the .", 
+                "bbc weather .", 
+                "site ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d9354de4b0762b96cdf67f", 
+            "title": "sport headlines : portsmouth 's rose says experienced heads will be crucial in promotion race", 
+            "text": [
+                "sport headlines : portsmouth 's rose says experienced heads will be crucial in promotion race"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10482095", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d91a44e4b033806f503569", 
+            "title": "'spectacular ' plan for fawley power station chimney", 
+            "text": [
+                "a disused 650ft ( 198m ) power station chimney could be converted into a public viewing tower and restaurant overlooking the hampshire coast , under plans released by developers .", 
+                "proposals revealed by developers long harbour would make the disused fawley power station chimney the tallest such attraction south of london 's shard .", 
+                "with an application for outline planning permission due later this year , building could start in 2018 .", 
+                "we 'd be mad to knock the chimney down - its our signature piece of infrastructure .", 
+                "if you think of the money spent building the i360 in brighton , or the spinnaker tower in portsmouth , this building is already there so with relatively little investment we can do something very spectacular . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d933f8e4b0a714a98f62f4", 
+            "title": "dorset travel latest : 'long delays ' in west parley", 
+            "text": [
+                "# traveldorsetalert : west parley - a347 new rd - very long delays - urgent watermain repairs / t/lights at ensbury bridge .", 
+                "@ twitterid", 
+                "# traveldorsetalert : poole - a0349 dorset way eastbound - reports of a breakdown around oakdale road - slow traffic .", 
+                "# traveldorsetalert : christchurch - stanpit closed southbound due to roadworks / purewell cross road / somerford slow as a result ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d92da1e4b0762b96cdf65f", 
+            "title": "natasha wake death : jay nava 'stabbed ex while children slept '", 
+            "text": [
+                "a soldier stabbed the mother of his child 11 times after she discovered he was being investigated for a sex offence , a court has heard .", 
+                "jay nava , 26 , of the royal citadel , plymouth , is charged with murdering mother-of-two natasha wake , 26 .", 
+                "he repeatedly stabbed her using a kitchen knife while her children slept upstairs , his trial was told .", 
+                "miss wake was found wrapped in a duvet in a cupboard under the stairs of her bournemouth home on 2 october ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d91fbae4b033806f50357d", 
+            "title": "man dies in pony and trap collision", 
+            "text": [
+                "a man driving a pony and trap has died following a collision with a car near southampton .", 
+                "police were called to portsmouth road in bursledon late on sunday evening after the pony and trap collided with a volkswagen bora .", 
+                "the 33-year-old man , from guildford was taken to southampton general hospital where he died a short time later .", 
+                "a 28-year-old man from southampton was arrested on sus of causing death by dangerous driving ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d926dae4b033806f50359f", 
+            "title": "mp 'heartbroken ' over police officer 's death", 
+            "text": [
+                "tobias ellwood has released a statement about the terror attack at westminster last week .", 
+                "the mp for bournemouth east tried in vain to save the life of pc keith palmer after he was stabbed by khalid masood .", 
+                "22 march : deeply humbled # westminster", 
+                "a lot of people are not buying it tobias .", 
+                "have a look on youtube = too many obvious mistakes", 
+                "it makes no sense , highly trained medics were standing around .", 
+                "i 'd sue ellwood if it was my son .", 
+                "although $ 736,000 british pounds is n't a bad payday for a hoax .", 
+                "are u for real he helped try to save a life .", 
+                "medics did there bit but he did he 's too", 
+                "yes i 'm for real .", 
+                "you 'd never see medics allow a pedestrian to administer treatment .", 
+                "reminds me of this bs in boston .", 
+                "nope , would n't happen .", 
+                "thank you for all that you did", 
+                "you are a proper credit to this country big respect to you sir # hero # westminster", 
+                "you did more that you realise .", 
+                "thank you sir", 
+                "@ twitterid terrorism and hate will not overcome the common decency that prevails in this country .", 
+                "simply .", 
+                "thank you .", 
+                "horrific to have to witness @ twitterid hope you are ok .", 
+                "thank you for being there for pc palmer in his hour of need .", 
+                "with terrorism in mind , please stop british citizen , graham phillips on-going terrorist acts .", 
+                "info", 
+                "sir as a met police office ex arv now traffic and one of the first on scene can i say thank you", 
+                "thank you as well !", 
+                "lovely words , tobias ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_39405779", 
+            "title": "'fake doctor ' escapes jail sentence", 
+            "text": [
+                "'fake doctor ' escapes jail sentence"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "22:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d911ede4b0a714a98f624f", 
+            "title": "fake doctor escapes jail sentence", 
+            "text": [
+                "a woman who pretended to be a doctor and gave a woman with a terminal illness `` false hope '' has escaped a jail sentence .", 
+                "julie higgins , 54 , from poole , dorset , had claimed to be an oncologist at london 's great ormond street children 's hospital , bournemouth crown court heard .", 
+                "she also falsely claimed she had located transplant organs for terminally ill angela murray ( from swanage , who she befriended through a beauty salon .", 
+                "the judge said he wanted to jail her but his hands were tied by the law , and he gave her a 12-month community order .", 
+                "higgins , of spruce close , previously admitted pretending to be a medical practitioner and fraud by false representation ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d9016fe4b0762b96cdf5a0", 
+            "title": "restaurant plan for fawley power station", 
+            "text": [
+                "plans have been unveiled to convert a 650ft ( 198m ) power station chimney into a public viewing tower over the south coast .", 
+                "the scheme for a hotel and restaurant at the top of the former fawley power station chimney would be the tallest man-made structure south of london 's shard .", 
+                "architect plans released today show a petal shaped glass structure at the centre of a marina development of housing and restaurants .", 
+                "the total scheme is expected to cost in excess of a billion pounds , with an application for outline planning permission set to be submitted later this year .", 
+                "building could start in 2018 ."
+            ], 
+            "author": [
+                "Peter Henley", 
+                "Political editor, South of England"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8fa0ae4b0762b96cdf581", 
+            "title": "viral video teen lewis hine reaches funding appeal target", 
+            "text": [
+                "a disabled teenager who made a video about growing up with a brain tumour has reached his target in an online fundraising appeal .", 
+                "lewis hine .", 
+                "posted the video .", 
+                "to mark his 16th birthday and it has been viewed more than 20 million times on facebook .", 
+                "it prompted sir elton john to phone him to say it had moved him to tears .", 
+                "lewis , from portsmouth , wanted to raise \u00a3 15,000 for teenagers who had missed their school proms through illness or disability to have their own party ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8f76ae4b0a714a98f61d9", 
+            "title": "isle of wight festival search for new talent", 
+            "text": [
+                "organisers of the isle of wight festival have announced details of the new blood competition which gives two up-and-coming artists the chance to play on the festival 's stage in june .", 
+                "it 's open to artists anywhere in the uk who could find themselves on the same bill as arcade fire , david guetta , rod stewart and run dmc .", 
+                "full details are on the isle of wight festival website ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8efffe4b0762b96cdf555", 
+            "title": "new names for cowes floating bridge", 
+            "text": [
+                "suggestions for the name of the new cowes floating bridge have been flooding in .", 
+                "isle of wight council has asked the public to come up with suggested names for the new chain ferry , due to enter service next month .", 
+                "`` floaty mcfloatface '' has been vetoed by the authority .", 
+                "among the suggestions on the council 's facebook page -"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d90e7de4b0762b96cdf5d5", 
+            "title": "mother killed in head-on crash after christmas pantomime", 
+            "text": [
+                "a young mother was killed by a speeding driver in a head-on crash on her way home from a christmas pantomime with her family , a court has heard .", 
+                "sabrina bellman , 28 , from hampshire was travelling with her baby daughter , husband and mother-in-law while holidaying in cornwall when daniel smith , 31 , hit them on boxing day 2015 , a jury was told .", 
+                "mr smith from st teath admitted causing death by careless driving but denies causing both death and serious injury by dangerous driving .", 
+                "the case continues at truro crown court ."
+            ], 
+            "author": [
+                "Amy Gladwell, BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d903f8e4b0a714a98f621c", 
+            "title": "watch : should new forest speed limit be cut to 30mph ?", 
+            "text": [
+                "watch : should new forest speed limit be cut to 30mph ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8ed7ee4b0a714a98f61ae", 
+            "title": "cash stolen during dorchester pub break-in", 
+            "text": [
+                "a `` quantity of cash '' has been stolen from a pub in dorchester after a break-in overnight , police said .", 
+                "thieves entered the old ship inn on high west street , via its back entrance on princes street .", 
+                "officers , who were called at about 08:15 this morning , said no arrests had been made and an investigation was under way ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_39407927", 
+            "title": "experience will see pompey home - rose", 
+            "text": [
+                "experience will see pompey home - rose"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8e2fce4b033806f503480", 
+            "title": "first managing director on sw rail franchise plans", 
+            "text": [
+                "first mtr is promising to provide more seats on trains and faster journey times to london , following its take over of south west trains this summer .", 
+                "managing director steve montgomery told bbc radio solent 's sasha twining about the company 's plans on its routes to and from waterloo as well as for the isle of wight 's island line ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "20:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8edb1e4b0762b96cdf542", 
+            "title": "cctv released after pet shop burlary", 
+            "text": [
+                "cctv of a man police would like to speak to following a burglary at a bournemouth pet shop has been released .", 
+                "a man entered pampurred pets on castle lane through the back entrance on wednesday afternoon .", 
+                "he found a set of keys to a safe and a quantity of cash was taken .", 
+                "dorset police said the offender left the shop and walked toward castlepoint shopping park ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10480973", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c5c7e4b0762b96cdf48d", 
+            "title": "new d-day centre opens on portland", 
+            "text": [
+                "a new museum charting dorset 's role in the d-day landings opened to the public at the weekend .", 
+                "the castletown d-day centre on portland is located close to slipways where thousands of soldiers embarked for the .", 
+                "invasion of normandy in 1944 .", 
+                "exhibits include a replica mk ix spitfire and an original sherman m4a4 tank .", 
+                "portland was used as an embarkation point for personnel , ships and landing craft and also hosted a field hospital and a prisoner of war cage , during the operation to liberate europe from nazi occupation .", 
+                "we 're trying to create an environment that gives the visitor an impression of what it was like in april , may , june 1944 , with the arrival of thousands and thousands of american gis and the impact that had on the indigenous population ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8d2cde4b0762b96cdf4c5", 
+            "title": "rmt union slams first mtr rail franchise award", 
+            "text": [
+                "the rmt union has criticised the awarding for the southern western rail franchise to first group and hong kong firm mtr .", 
+                "first mtr will take over train services in and out of waterloo from existing operator stagecoach in august .", 
+                "rmt general secretary mick cash said the chinese state would `` make a killing at the british taxpayers expense '' .", 
+                "the department for transport ( dft ) said the new operators would oversee a \u00a3 1.2bn investment to improve journeys for millions of train passengers .", 
+                "it is frankly ludicrous that the tories are continuing with the 'any state but the british state ' policy which has plundered our railways for \u200eover two decades .", 
+                "the rmt is deeply concerned at exactly what this announcement will mean for our members , these crucial rail services and the safety of the travelling public ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8eb33e4b0a714a98f61a7", 
+            "title": "'major upgrade programme ' promised by new rail franchisee", 
+            "text": [
+                "the government has announced the franchise for operating trains between the south coast and london is going to mtr first - a collaboration between first rail and a hong kong owned-company mtr .", 
+                "the company has promised a `` major programme of upgrades '' .", 
+                "improvements promised under the new contract include :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b892e4b033806f5033c7", 
+            "title": "south west rail franchise : stagecoach 'disappointed ' to lose contract", 
+            "text": [
+                "the rail firm which currently runs the south west franchise says it is disappointed to have lost out on the next contract .", 
+                "south west trains has operated the network for more than 20 years .", 
+                "over the past two decades , we have delivered real improvements for our customers right across the network .", 
+                "that success has been built on fantastic people , detailed knowledge of the business and strong relationships with our stakeholders and railway partners .", 
+                "but we have never thought our job was finished .", 
+                "we believe we submitted a strong bid for the new south western franchise .", 
+                "it offered a transformation in the travel experience for our customers , more investment to help the railway support the communities and economy of the south-west , as well as a substantial and deliverable financial benefit to taxpayers to help fund better public services ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8dc5ae4b033806f50346a", 
+            "title": "teenage pregnancy rates 'fall in southampton '", 
+            "text": [
+                "teen # pregnancy rates plummet in # southampton"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8bf34e4b033806f5033ea", 
+            "title": "4,400 sign petition to stop teen 's deportation", 
+            "text": [
+                "thousands of people have signed a petition to try and stop the deportation of a hampshire teenager to afghanistan .", 
+                "walid durani was sent to the uk by his mother and grandmother when he was 14 .", 
+                "mr durani , who works as an apprentice builder for a firm in fleet , says since turning 18 he has been told he must return to afghanistan , where he knows no-one .", 
+                "his sister also lives in uk - his parents now live in austria with the rest of his family .", 
+                "the petition has gathered more than 4,400 signatures to date ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8cf2ce4b0762b96cdf4b6", 
+            "title": "waterfest weymouth axed for 2017", 
+            "text": [
+                "a major maritime heritage event , held in weymouth for the past three years , will not take place this summer .", 
+                "organisers of the waterfest weymouth event said they wanted to have a `` heritage boat race '' finishing in the dorset resort , which could not be achieved in time for its scheduled dates in september .", 
+                "waterfest featured heritage and shipping displays as well as entertainment around weymouth harbour .", 
+                "it has been financed by the town 's business improvement district .", 
+                "nigel reed , weymouth bid manager said there was a `` strong commitment '' for a potential `` mini tall ships '' event ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_39405269", 
+            "title": "man bailed in murder investigation", 
+            "text": [
+                "man bailed in murder investigation"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8d449e4b0762b96cdf4ce", 
+            "title": "man bailed in carl scott murder inquiry", 
+            "text": [
+                "a man arrested in connection with the murder of carl scott in winchester has been released on police bail pending further inquiries .", 
+                "the 58-year-old man has been bailed until june 7 .", 
+                "mr scott 's body was found by a member of the public at a property in birch court in the stanmore area on wednesday afternoon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c949e4b0762b96cdf49d", 
+            "title": "southampton players in international action", 
+            "text": [
+                "saints captain steven davis was man of the match as northern ireland secured an impressive 2-0 over norway to keep their hopes of a world cup play-off spot alive .", 
+                "ryan bertrand played for england in their 2-0. win against lithuania .", 
+                "at wembley while shane long was in action for the republic of ireland in their goalless draw against wales .", 
+                "du\u0161an tadi\u0107 scored from the penalty spot in serbia 's 3-1 win over georgia ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c0f6e4b033806f5033f5", 
+            "title": "sport headlines : pompey maintain promotion push", 
+            "text": [
+                "sport headlines : pompey maintain promotion push"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8ceb7e4b0a714a98f613a", 
+            "title": "boat crash drugs suspects released", 
+            "text": [
+                "three men arrested after a boat crash in cowes marina have been released .", 
+                "the three were held by police on sus of drugs offences after the crash involving the 6m ( 20ft ) vessel , loose cannon , in the early hours of sunday .", 
+                "police said a 39-year-old man from waterlooville held on sus of possession and the supply of a class-b drug has been bailed .", 
+                "a 34-year-old man from southsea and a 39-year-old man from petersfield both arrested on sus of being concerned in the supply of drugs have been released with no further action .", 
+                "all three men were taken to the island 's hospital where they were treated for injuries sustained in the crash .", 
+                "a two-hour search by a coastguard helicopter and two lifeboats was also carried out for another man who was reported missing from the vessel .", 
+                "the rnli said it was called off after the man was later found ashore ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8c5e0e4b0a714a98f6113", 
+            "title": "mtr and first group will run huge swathe of country", 
+            "text": [
+                "the timing for this is awkward , right in the middle of a massive re-building of waterloo station , right in the middle of a new fleet of suburban trains entering service into berkshire , in will come first group , the operator of great western , in partnership with the chinese-owned mtr who will be the operators of crossrail .", 
+                "they will run services in a huge swathe of the country ."
+            ], 
+            "author": [
+                "Paul Clifton", 
+                "Transport correspondent, BBC South Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8c47ce4b033806f503408", 
+            "title": "analysis : 'changing of the guard at britain 's second biggest rail franchise '", 
+            "text": [
+                "south west trains is the only franchise to have remained in the same hands since privatisation 20 years ago .", 
+                "it was the stagecoach flagship .", 
+                "in august it will change hands - right in the middle of a massive rebuilding of waterloo station , right in the middle of a new fleet of suburban trains entering service .", 
+                "the timing is awkward .", 
+                "in come first group , the operator of great western , in partnership with chinese-owned mtr , which will also run crossrail .", 
+                "the new company promises faster journeys on a fleet of 90 new trains - shaving eight minutes off the journey between southampton and london .", 
+                "it is also promising refurbishment of the existing fleet , more journeys from portsmouth , there will be a new route linking portsmouth and weymouth and southampton central station will be refurbished .", 
+                "this really will be a changing of the guard at britain 's second biggest franchise ."
+            ], 
+            "author": [
+                "Paul Clifton", 
+                "Transport correspondent, BBC South Today"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8bf60e4b033806f5033ec", 
+            "title": "news headlines : first group and chinese firm take over swt franchise", 
+            "text": [
+                "news headlines : first group and chinese firm take over swt franchise"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:38"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8bddce4b0762b96cdf45f", 
+            "title": "stagecoach 'disappointment ' at losing rail franchise", 
+            "text": [
+                "stagecoach group has said it is `` disappointed '' that it has lost the south western rail franchise .", 
+                "the department for transport announced first mtr south western trains limited has won the franchise to operate trains in and out of london waterloo .", 
+                "mtr - which runs the busy hong kong metro - will take over the franchise , along with the giant first group , for seven years from august .", 
+                "it has been run by stagecoach 's south west trains for more than 20 years .", 
+                "stagecoach group chief executive martin griffiths insisted the company had delivered `` real improvements '' over the past two decades .", 
+                "we believe we submitted a strong bid for the new south western franchise .", 
+                "it offered a transformation in the travel experience for our customers , more investment to help the railway support the communities and economy of the south-west , as well as a substantial and deliverable financial benefit to taxpayers to help fund better public services ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8b0d9e4b033806f50339c", 
+            "title": "term-time holidays : where most children were absent", 
+            "text": [
+                "term-time holidays accounted for a quarter of unauthorised absences from schools in england , analysis of official figures shows .", 
+                "almost a million children missed at least one day of school in england , despite the threat of fines .", 
+                "teachers said the fines were a `` blunt instrument '' and the problem was down to the price of holidays .", 
+                "the department for education said unauthorised absences damage children 's life chances .", 
+                "torbay , bournemouth , poole , cornwall and devon are among the 10 areas with the highest percentage rise in holiday absence ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b88ce4b0a714a98f60d6", 
+            "title": "south west rail franchise 'will see an improvement people want '", 
+            "text": [
+                "as part of the seven-year contract , the government has said first mtr south western trains ltd will oversee a \u00a3 1.2bn investment that will improve journeys for millions of train passengers , and provide a boost for the communities served .", 
+                "first mtr south western trains limited will deliver the improvements that people tell us they want right across the south western franchise area , from bristol and exeter , to southampton , weymouth , portsmouth and london .", 
+                "we are delivering the biggest rail modernisation programme for over a century and this franchise will deliver real changes for passengers , who can look forward to modern trains , faster journeys and a more reliable service ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:11"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58d8b840e4b033806f5033c3", 
+            "title": "breakingstagecoach loses rail franchise", 
+            "text": [
+                "the franchise to operate trains out of waterloo has been awarded to first mtr south western trains limited , the government has announced .", 
+                "the company will take over from the existing operator stagecoach which has run south west trains since privatisation of the railways 20 years ago ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b5ffe4b033806f5033b5", 
+            "title": "weather : dry with warm sunshine", 
+            "text": [
+                "it will be a bright start with the odd patch of mist and fog , although this will clear fairly quickly through the morning .", 
+                "thereafter , there will be plenty of sunshine , leading to a warm day with lighter winds than over the weekend .", 
+                "highs of 16c ( 61f ) ."
+            ], 
+            "author": [
+                "Holly Green", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58d8b04de4b0a714a98f60a9", 
+            "title": "good morning", 
+            "text": [
+                "welcome to local live for dorset , hampshire and the isle of wight .", 
+                "we 'll be bringing you the latest news , sport , travel and weather updates .", 
+                "you can get in touch via .", 
+                "email , on our .", 
+                "hampshire .", 
+                "and .", 
+                "dorset .", 
+                "facebook pages or on twitter .", 
+                "@ twitterid .", 
+                "and @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:01"
+        }
+    ], 
+    "genre": "uk-england-hampshire", 
+    "quality": "high"
+}

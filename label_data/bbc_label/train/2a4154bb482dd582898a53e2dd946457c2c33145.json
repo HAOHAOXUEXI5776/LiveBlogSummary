@@ -1,0 +1,509 @@
+{
+    "blog_id": "2a4154bb482dd582898a53e2dd946457c2c33145", 
+    "title": "BBC Local Live: Oxfordshire on Monday 21 November 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-38048583", 
+    "summary": [
+        "rise in complaints about noisy students .", 
+        "m40 disruption .", 
+        "oxford united striker wes thomas to miss rest of season ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_58333381e4b0e58fc37d492b", 
+            "title": "that 's all from us", 
+            "text": [
+                "thanks for joining us today , we 'll be with you again at 08:00 tomorrow .", 
+                "do n't forget to stay in touch and follow oxfordshire 's latest news , sports and weather on facebook , twitter and email ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58332278e4b01ef5e4d0c578", 
+            "title": "experimental skin graft from world war two 'as good as today 's operations '", 
+            "text": [
+                "what was it like getting plastic surgery during the second world war ?", 
+                "well that 's something explored by the aptly named `` guinea pig club '' - a group of raf veterans who had experimental plastic surgery for burns .", 
+                "radio oxford spoke to club secretary jack perry , whose skin graft was so good `` it could not be improved in this day and age '' ."
+            ], 
+            "author": [
+                "Alex Regan", 
+                "South Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_583327c8e4b05314e457bd59", 
+            "title": "cctv images released of cowley road sex assault suspect", 
+            "text": [
+                "cctv images have been released of a man thought to have sexually assaulted a 20-year-old woman at the o2 academy in cowley road .", 
+                "the incident took place on 3 november on the ground floor dance floor at about 01:30 .", 
+                "the man is described at in his late teen of mid-20s , medium build with mousy-coloured hair with a quiff and short sides ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58332b71e4b01ef5e4d0c5ae", 
+            "title": "travel update : delays on a34 southbound and m40 northbound", 
+            "text": [
+                "travel update : delays on a34 southbound and m40 northbound"
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833265ce4b01ef5e4d0c590", 
+            "title": "firefighters tackle arson attack in banbury", 
+            "text": [
+                "a blaze in an outbuilding in banbury is being treated as arson by fire scene investigators .", 
+                "two fire engines attended moulds crescent at about 1:00 on monday after a neighbour called the brigade .", 
+                "crew manager mike aspinal said : `` whilst no-one was injured significant damage was done to personal property . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58332cf9e4b05314e457bd7a", 
+            "title": "breakingfurther flood warnings for west oxfordshire", 
+            "text": [
+                "the environment agency has issued more warnings for the river evenlode and the river glyme , affected towns , which could affect villages across west oxfordshire .", 
+                "people living in the following areas have been told to prepare for flooding :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_583324ffe4b01ef5e4d0c58a", 
+            "title": "travel latest : flooding on gwr trains affecting didcot parkway", 
+            "text": [
+                "good afternoon from the oxfordshire travel centre .", 
+                "here 's our latest update so you can prepare for your journey home :"
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58332410e4b01ef5e4d0c583", 
+            "title": "breakingflood warning for oxfordshire river", 
+            "text": [
+                "the environment agency has issued a flood alert for the upper river great ouse , which runs close to somerton in the cherwell valley .", 
+                "residents have been advised to protect their properties due to further rainfall this evening and tuesday morning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5833217fe4b0e58fc37d48d5", 
+            "title": "weather outlook : strong winds", 
+            "text": [
+                "weather outlook : strong winds"
+            ], 
+            "author": [
+                "Holly Green", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "01:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58330c58e4b05314e457bcb2", 
+            "title": "cyclist murder accused bailed", 
+            "text": [
+                "a man charged with the murder of a cyclist in oxford has been bailed until 2 december .", 
+                "eamonn anderson , 56 , was assaulted in the city 's high street on 25 october and later died in hospital .", 
+                "iman st clair , 18 , of kestrel crescent , oxford , appeared at oxford crown court on monday .", 
+                "an 18-year-old man and 17-year-old boy , both from oxford , were also arrested on sus of murder and have been bailed until january next year ."
+            ], 
+            "author": [
+                "Rahil Sheikh", 
+                "BBC News Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58330619e4b05314e457bc8e", 
+            "title": "'desperately needed ' aid for refugees", 
+            "text": [
+                "around 20 tonnes of humanitarian aid is to be shipped to uganda by an oxfordshire charity .", 
+                "oxfam 's aid shipment includes water tanks and equipment for water purification .", 
+                "it will be used in the refugee camp bidibidi in north west uganda , where thousands of people have fled to from south sudan .", 
+                "the charity said it is increasing its work there to meet the needs of the growing number of refugees .", 
+                "every week , the conflict in south sudan is pushing over 2,500 new refugees , mostly women and children , to leave their country and seek sanctuary in bidibidi where more facilities are desperately needed ."
+            ], 
+            "author": [
+                "Rahil Sheikh", 
+                "BBC News Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58330367e4b05314e457bc83", 
+            "title": "dogs used to help people living with autism trialed", 
+            "text": [
+                "dogs are being used to help adults with autism in oxfordshire .", 
+                "dogs for good has already trialed a scheme in berkshire and is now partnering with wallingford charity style acre ."
+            ], 
+            "author": [
+                "Rahil Sheikh", 
+                "BBC News Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "22:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832eba2e4b01ef5e4d0c460", 
+            "title": "scandinavia challenge complete", 
+            "text": [
+                "a banbury woman who ran the length of scandinavia for charity has made it home .", 
+                "sophie rooney 's almost 3,000km-trek took her through norway , sweden and denmark .", 
+                "i 've been running everyday since i got back and people keep telling me i should stop now"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832f7f6e4b01ef5e4d0c4a1", 
+            "title": "witnesses sought after daylight robbery of woman in cowley", 
+            "text": [
+                "police are searching for witnesses after a woman was robbed by a man in cowley .", 
+                "the robbery happened at 9:50 on 12 november on the footpath between templars square and beauchamp lane .", 
+                "a thin man , in his 20s , pushed the victim , grabbed a bag , and rustled through it before taking cash out of her purse .", 
+                "police are looking for a man who is around 6ft 2in ( 189cm ) .", 
+                "he was carrying a black plastic bag and was wearing a black tracksuit and hoodie , with the hoot up ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5832e726e4b01ef5e4d0c445", 
+            "title": "the u 's striker expected to be out on injury for rest of season", 
+            "text": [
+                "# oufc oxford united expect striker wes thomas to miss rest of season after rupturing achilles .", 
+                "skarz unavailable tues following concussion"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "21:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_38051585", 
+            "title": "oxford 's thomas ruled out for season", 
+            "text": [
+                "oxford 's thomas ruled out for season"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "20:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5832d374e4b01ef5e4d0c3ea", 
+            "title": "majority of reported crime unsolved", 
+            "text": [
+                "more than 80 % of crimes reported in oxford during the first half of the year have not been solved by police , the oxford mail can reveal .", 
+                "an investigation by the mail found of 6,791 crimes reported from january to the end of june , 5,599 of them have been recorded as 'unsolved ' ."
+            ], 
+            "author": [
+                "Oxford Mail"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "19:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832d332e4b05314e457bb71", 
+            "title": "firefighters use mannequin challenge to drive point home", 
+            "text": [
+                "firefighters use mannequin challenge to drive point home"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10196282", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10196146", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832ba0be4b01ef5e4d0c360", 
+            "title": "man charged with fraud", 
+            "text": [
+                "a man 's been charged with fraud after a resident from drayton was conned out of a 'substantial ' amount of money .", 
+                "nahiyan choudhury , 21 , from camden , is charged with conspiring with others to acquire , use or possess criminal property .", 
+                "choudhury is due to appear at oxford magistrates ' court on 20 december ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832b4c8e4b05314e457bad4", 
+            "title": "autumn statement : expressway announced", 
+            "text": [
+                "a total of \u00a3 27 million has been earmarked to develop an expressway linking oxford to milton keynes and cambridge .", 
+                "it 's part of a \u00a3 1 billion investment across the whole country expected to be formally announced during wednesday 's autumn statement ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "16:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5832afcae4b05314e457bab7", 
+            "title": "complaints about noisy students rise", 
+            "text": [
+                "east oxford residents have been complaining about the behaviour of oxford brookes students on nights out .", 
+                "students could face disciplinary action according to a letter seen by the bbc ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10195908", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832adfbe4b05314e457baab", 
+            "title": "oxfordshire 's weather : heavy and prolonged rain", 
+            "text": [
+                "rain will be heavy and prolonged today .", 
+                "later some bright intervals may develop , but thundery showers are also expected this afternoon .", 
+                "highs of 11c ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832ab48e4b05314e457ba95", 
+            "title": "travel : collision on a34", 
+            "text": [
+                "travel : collision on a34"
+            ], 
+            "author": [
+                "Danny Cox", 
+                "Presenter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832ab92e4b01ef5e4d0c303", 
+            "title": "you never know", 
+            "text": [
+                "the sun may shine again , as demonstrated by this blissful of the thames at godstow , taken by xuguang liu , at the end of last week"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5832a95ce4b0e58fc37d4635", 
+            "title": "happy monday", 
+            "text": [
+                "good morning and yuck !", 
+                "it 's a grim old day , but we 've made it - wet , soggy and chilled to our bones - to bbc oxford towers to bring you all the latest news , travel and weather from across the county ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:04"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

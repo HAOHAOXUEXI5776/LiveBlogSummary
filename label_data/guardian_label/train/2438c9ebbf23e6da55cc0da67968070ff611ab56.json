@@ -1,0 +1,938 @@
+{
+    "blog_id": "2438c9ebbf23e6da55cc0da67968070ff611ab56", 
+    "title": "London stock market hits record high but bitcoin wobbles - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live", 
+    "summary": [
+        "closing summary .", 
+        "ftse 100 hits record closing high .", 
+        "us consumer confidence dips .", 
+        "ftse 100 hits record high .", 
+        "greeks fear end of bailout programme .", 
+        "ftse 250 hits new record high .", 
+        "world 's richest people gained $ 1 trillion in 2017"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a43e30467f37406955a1a44", 
+            "title": "closing summary", 
+            "text": [
+                "right , time for a quick recap .", 
+                "britain 's stock market has closed at a new peak tonight , on the first trading day since christmas .", 
+                "the ftse 100 hit a record closing high , propelled by mining companies as optimism for the world economy in 2018 boosted commodity prices .", 
+                "the smaller ftse 250 also finished at its highest ever level , partly due to a takeover bid for office manager iwg ( which closed 27 % higher ) .", 
+                "the rally came as new data showed that the world 's 500 richest people had collectively gained $ 1tn in 2017 .", 
+                "world 's richest 500 see their wealth increase by $ 1tn this year read more but it was a volatile day for bitcoin .", 
+                "after surging 13 % yesterday , the digital currency has fallen back this afternoon .", 
+                "it 's currently down 4 % at $ 15,094 - having been valued at almost $ 20,000 10 days ago .", 
+                "this latest fluctuation came after israel 's stock market regulator suggested it could ban cryptocurrency firms from listing on the tel aviv exchange .", 
+                "thomas biesheuvel ( @ tbiesheuvel ) bitcoin drops back below $ 15,000 that 's all for tonight .", 
+                "thanks for reading and commenting .", 
+                "gw"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                18, 
+                26
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43e1bc67f37406955a1a41", 
+            "title": "", 
+            "text": [
+                "the jump in commodity prices today helped to push the ftse 100 to its record high , thanks to the various mining giants that are included in the index .", 
+                "sky news explains : the rally was supported by an upturn in copper and other commodity prices , which helped to lift global mining giants including fresnillo , antofagasta and glencore .", 
+                "demand for commodities implies optimism about the outlook for rapidly advancing world economies such as china .", 
+                "greg mckenna , chief strategist at axitrader , said : the rally in copper supports expectations that 2018 is going to be a strong year for synchronised global growth . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                18, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43e0d98b2886068986d347", 
+            "title": "", 
+            "text": [
+                "of course , the ftse 100 's run of record highs is less impressive once you remember the tumble in sterling 18 months ago .", 
+                "the pound is still worth around 10 % less than before the eu referendum ; that made uk companies more affordable to overseas investors , and pumped up the value of their foreign earnings ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                18, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43d4578b2886068986d328", 
+            "title": "", 
+            "text": [
+                "peer and pollster lord ashcroft tweets : lord ashcroft ( @ lordashcroft ) both remainers and leavers should be heartened by the ftse 100 at the stock exchange having closed at a record high of 7620"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                17, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43d2d58b2886068986d31f", 
+            "title": "", 
+            "text": [
+                "the smaller , more domestically focused ftse 250 has also hit a new record high tonight : londonstockexchange ( @ lseplc ) # ftse 250 closes at 20,640.04 , up 0.78 %"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                17, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a43d1c48b2886068986d31c", 
+            "title": "ftse 100 hits record closing high", 
+            "text": [
+                "newsflash : the ftse 100 index has closed at a new all time high of 7,620 points .", 
+                "mining companies and supermarkets helped the index rise on the first trading day since christmas .", 
+                "almanacist ( @ ukalmanac ) for the 29th year in the last 34 , the # ftse100 closes up on the first trading day after christmas"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                17, 
+                4
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43b754b7f7b10656af31f5", 
+            "title": "us consumer confidence dips", 
+            "text": [
+                "newsflash : us consumer confidence has fallen back from its recent highs .", 
+                "the conference board 's measure of consumer confidence , just released , dropped to 122.1 in december , down from november 's 129.5 - which was the highest in 17 years .", 
+                "lynn franco , director of economic indicators at the conference board , says : the decline in confidence was fueled by a somewhat less optimistic outlook for business and job prospects in the coming months , ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                15, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43b6ebda10b906a26ac4c4", 
+            "title": "", 
+            "text": [
+                "the wheels are coming off bitcoin 's recovery .", 
+                "the crypocurrency is now down over 4 % at $ 15,080 , which means it has shed over $ 1,000 since this morning 's early bounce ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                15, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43b10dda10b906a26ac49a", 
+            "title": "", 
+            "text": [
+                "over in new york , the us stock market has opened very slightly higher as traders return to work after the christmas break .", 
+                "the dow jones industrial average rose by 16 points , or 0.07 % , with the s & p 500 and the nasdaq also managed minuscule gains .", 
+                "cnbc now ( @ cnbcnow ) us stocks open higher as copper hits 3.5-year high"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                14, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43ae0fda10b906a26ac489", 
+            "title": "", 
+            "text": [
+                "while mining companies drove the ftse 100 to today 's record high , engineering firm rolls-royce , building materials group ferguson , broadcaster sky and holiday firm tui all held it back : the best and worst-performing companies on the ftse 100 today reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                14, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a43a742da10b906a26ac478", 
+            "title": "ftse 100 hits record high", 
+            "text": [
+                "newsflash : britain 's ftse 100 has just hit a new all-time high , following the lead set by its little brother , the ftse 250 .", 
+                "the index of the biggest companies listed in london has risen by 22 points , or 0.3 % , to 7615 - nudging over the previous intraday record set last friday .", 
+                "livesquawk india ( @ livesquawkindia ) britain 's ftse 100 hits fresh record high , up 0.3 pct .", 
+                "the jump in commodity prices today , such as copper , has pushed mining stocks up ( silver miner fresnillo is the top performer , up almost 3 % ) , with other natural resource companies also up .", 
+                "this means the ftse 100 has gained around 6.6 % this year , lagging behind other indexes such as the us dow jones ( +25 % ) , germany 's dax ( +13 % ) or the hong kong hang seng ( +34 % ) ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                14, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43a63ab7f7b10656af31aa", 
+            "title": "", 
+            "text": [
+                "maybe it was the prospect of mrs brown 's boys as the highlight of tv on christmas day - but according to official hmrc figures , a total of 2,590 people said 'bah humbug ' to the festivities and decided to spend the day filling in and submitting their tax return instead .", 
+                "even as millions of kids across the globe were transfixed by santa trackers on their computers , in the last hour of christmas eve , 92 grown-ups were instead glued to the hmrc 's homepage and sent in their tax returns between 23.00 and midnight .", 
+                "on boxing day , a further 7,655 returns arrived at hmrc .", 
+                "hmrc issued the figures as it began its annual plea to the 11m people in britain who must complete a self-assessment form by january 31 .", 
+                "this year it has a new advertising campaign , featuring ducks , of course .", 
+                "the strapline is do n't let your tax returns peck away at you '' .", 
+                "it 's quackers .", 
+                "< insert joke about large bills > /pa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                13, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a43a35d67f37406955a1902", 
+            "title": "", 
+            "text": [
+                "via city am , here 's a list of the billionaires who gained the most wealth in 2017 .", 
+                "the richest people who gained the most wealth in 2017 am/bloomberg the full table is online here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                13, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a439800da10b906a26ac409", 
+            "title": "greeks fear end of bailout programme", 
+            "text": [
+                "syntagma square in athens , greece on december 25 , 2017 .", 
+                "agency/getty images meanwhile a new poll in greece has revealed that most citizens are not buying the leftist-led government 's cheery vision of a 'clean exit ' from international supervision when the country 's latest bailout programme officially ends next year .", 
+                "helena smith reports from athens in theory , greeks should be going into the new year on an optimistic note .", 
+                "after seven years of gruelling austerity - the price of three economic adjustment programmes that have kept the debt stricken country afloat - athens ' latest bailout officially expires in august 2018 .", 
+                "but the excoriating terms attached to financial rescue wo n't end there , with the result that most greeks are not buying government assertions of post-bailout bliss come the summer .", 
+                "instead , a poll conducted on behalf of the real news newspaper by mrb hellas found that 66.3 % of respondents are convinced that international monitoring of greek finances will continue in some form .", 
+                "a mere 17 % accept the official version : that greece will make a 'clean exit , ' weaning itself off borrowed funds by returning to international capital markets .", 
+                "under that scenario - one vividly expanded by prime minister alexis tsipras - athens will have completed a compliance review in time for the country to build up a cash buffer that would enable it to return to markets and begin debt relief talks by the summer .", 
+                "however , only one in four greeks expect a market return .", 
+                "three out of five do n't think greece would be able to tap markets to cover debt payments , according to the survey ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                12, 
+                58
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43919267f37406955a18a8", 
+            "title": "ftse 250 hits new record high", 
+            "text": [
+                "boom !", 
+                "britain 's ftse 250 index , which contains medium-sized companies too small for the ftse 100 , has hit a new alltime high .", 
+                "the ftse 250 has gained 59 points to 20,540 this morning , putting it ahead of the previous record high set on 22 december .", 
+                "the ftse 250 over the last 20 years reuters offices group international workplace group ( iwg ) is leading the rally ; its shares have jumped by almost 30 % today after receiving a takeover offer from canada 's onex and brookfield asset management .", 
+                "the ftse 100 is also close to a record high today , up 13 points at 7606 .", 
+                "other european markets are lagging , though , with germany 's dax down 0.3 % and spain 's ibex down 0.2 % .", 
+                "henry croft at accendo markets explains : miners are leading the ftse 's charge higher after copper traded a fresh three and half year high on christmas day , however a significant contribution from oilers , the index 's largest sector , is aiding the latest foray in record territory .", 
+                "continued concern as to the impact of last week 's catalonian election victory for pro-independence parties , as well as a euro recovery from its christmas day 'flash crash ' , are both weighing on mainland european equities , while us futures are clawing back gains following a negative boxing day session impacted by an apple sell-off ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                12, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a438c43da10b906a26ac3d3", 
+            "title": "", 
+            "text": [
+                "commodity price are charging ahead today ( doubtless pleasing billionaires in the raw materials sector ) .", 
+                "the copper price has hit its highest level in over three years , partly due to optimism that the strengthening global economy will push up demand .", 
+                "the prospect of supply cuts was also a factor - with china ordering its top producer to halt output for a week to combat winter pollution .", 
+                "jamie mcgeever ( @ reutersjamie ) no one can succeed like dr copper .", 
+                "copper hits $ 7,210/ton , its highest in almost 4 years on the back of strong demand from china .", 
+                "metal prices are also rising because the us dollar has weakened ( as traders ponder the consequences of donald trump 's tax 'reform ' plan ) .", 
+                "palladium has hit a 17-year high , at $ 1,069 per ounce , while gold rose to $ 1.285 per ounce ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                12, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4381f88b2886068986d191", 
+            "title": "", 
+            "text": [
+                "the world 's roster of billionaires includes tyler and cameron winkelvoss , the internet entrepreneurs who made a big investment in bitcoin back in 2011 .", 
+                "their $ 11m investment is probably worth around $ 1.3bn today - although their precise fortune is obviously as volatile as bitcoin itself .", 
+                "craig erlam of city firm oanda predicts more wild price moves next year bitcoin is going to continue to fascinate traders heading into the new year and while volatility by its own standards has been tame today , it 's likely to remain very active .", 
+                "speculators appetite for bitcoin has been tested in the run up to christmas , with price having fallen from around $ 20,000 to not far from half that less than a week later , depending on the exchange .", 
+                "while prices have since rebounded back to around $ 15,000 , it will be interesting to see whether we see the kind of wild gains that we 've become accustomed to in the coming months , or whether the recent decline has shaken people 's confidence in the cryptocurrency ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                11, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4375aeb7f7b10656af30cb", 
+            "title": "world 's richest people gained $ 1 trillion in 2017", 
+            "text": [
+                "the world 's wealthiest people need n't worry about their incomes being squeezed , though .", 
+                "new figures from bloomberg show that the 500 richest people in the world saw their respective wealth expand by an astonishing 23 % during 2017 , from $ 4.4 trillion to over $ 5.3 trillion .", 
+                "jeff bezos , founder of amazon.com , had the best year - gaining over $ 34bn to become the world 's richest person at around $ 99.6bn , thanks to the surge in amazon 's share price .", 
+                "the report also shows that lesser ( ! )", 
+                "billionaires also had a vintage year , as the strong gains on the world 's stock markets made the richest even richer ( at a time when the average household in the uk was suffering from falling real wages ) how the rich got richer in 2017 here are some of the key points from bloomberg 's report : the 38 chinese billionaires on the bloomberg index added $ 177 billion in 2017 , a 65 percent gain that was the biggest of the 49 countries represented .", 
+                "hui ka yan , founder of developer china evergrande group , added $ 25.9 billion , a 350 percent jump from last year , and the second-biggest u.s. dollar gain on the index , after bezos .", 
+                "technology billionaire ma huateng , co-founder of messaging service tencent holdings , became asia 's second-richest person when his fortune nearly doubled to $ 41 billion .", 
+                "the number of asian billionaires surpassed the u.s. for the first time , according to a ubs group ag and pricewaterhousecoopers report .", 
+                "the u.s. has the largest presence on the index , with 159 billionaires who added $ 315 billion , an 18 percent gain that gives them a collective net worth of $ 2 trillion .", 
+                "russia 's 27 richest people put behind them the economic pain that followed president vladimir putin 's 2014 annexation of crimea , adding $ 29 billion to $ 275 billion , surpassing the collective net worth they had before western economic sanctions began .", 
+                "it was also a banner year for tech moguls , with the 57 technology billionaires on the index adding $ 262 billion , a 35 percent increase that was the most of any sector on the ranking .", 
+                "here 's the full story , which could fuel calls for higher wealth taxes to tackle the growing gap between the richest and everyone else .", 
+                "bloomberg asia ( @ bloombergasia ) the world 's wealthiest became $ 1 trillion richer in 2017"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                10, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a437624b7f7b10656af30ce", 
+            "title": "", 
+            "text": [
+                "hmmm , bitcoin 's rally seems to be fizzling out .", 
+                "the digital currency has now dipped back to around $ 15,500 - wiping out this morning 's gains .", 
+                "this sort of volatility is ty for bitcoin , but maybe the threat of a regulatory clampdown is worrying the market .", 
+                "fxtm 's hussein sayed says there are several reasons to be cautious : israel became the most recent country to propose banning companies based on digital currencies to trade on its stock exchange .", 
+                "a south korean bitcoin exchange has been hacked , leading it into bankruptcy .", 
+                "cryptocurrency exchanges are disabling transaction temporarily due to high traffic .", 
+                "professional traders on cboe seems to be going short on bitcoin ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                10, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4371cbb7f7b10656af30be", 
+            "title": "", 
+            "text": [
+                "britain should brace itself for another year of falling real wages .", 
+                "in news that might take the sparkle off your new year celebrations , the resolution foundation has predicted that pay rises wo n't overtake inflation until the end of next year .", 
+                "zero real wage growth in britain until end of 2018 , thinktank forecasts read more if they 're right , that would mean the current cost of living squeeze will last two whole years .", 
+                "torsten bell ( @ torstenbell ) merry christmas ( for next christmas ) .", 
+                "pay may not be rising until the back end of 2018 , with the office for budget responsibility forecasts implying pay standing still for the year as a whole rebecca long-bailey mp , labour 's shadow business , energy and industrial strategy secretary , blames the government 's economic policies : the resolution foundation report succinctly encapsulates the hardship many across britain are facing under the tories and will continue to face in 2018 .", 
+                "after seven years of conservative economic mismanagement , the figures speak for themselves .", 
+                "real wages are still lower than they were in 2010 and britain faces a productivity crisis .", 
+                "this is not a government willing or able to raise productivity and living standards for people in britain . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                10, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4369c8b7f7b10656af30a3", 
+            "title": "tech stocks hit by apple x worries", 
+            "text": [
+                "tech companies are suffering a hangover this morning , following reports that sales of apple 's new iphone x have been disappointing .", 
+                "yesterday taiwan 's economic daily reported that apple will slash its sales forecast for the iphone x in the first quarter to 30 million units , down from 50 million .", 
+                "this hit asian chip makers overnight , and european technology companies are now following - sending the stoxx 600 tech index down 1 % .", 
+                "austrian-based apple supplier ams is the biggest casualty , down almost 10 % the worst-performing european tech companies today reuters"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                9, 
+                58
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a436b758b2886068986d146", 
+            "title": "", 
+            "text": [
+                "we had been expecting new uk mortgage data today , but it turns out that the figures are actually being released by uk finance ( the industry body ) tomorrow ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                9, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a43590b67f37406955a17de", 
+            "title": "", 
+            "text": [
+                "as predicted , european stock markets are rather quiet after the christmas break .", 
+                "in london , the ftse 100 is up a modest four points ( perhaps traders are being distracted by the snowflakes that are now sweeping through the capital ) .", 
+                "mining companies are leading the risers ; rio tinto , glencore , bhp billiton and anglo american have all gained around 1.5 % while silver producer fresnillo is up 2 % .", 
+                "jeremy cook of world first sums up the situation : worldfirst ( @ world first ) christmas week markets summary : thinner markets , fatter participants"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                9, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4361aeda10b906a26ac32d", 
+            "title": "", 
+            "text": [
+                "bitcoin 's stumble last week came after two exchanges , cme and cboe , both launched futures markets allowing investors to bet against the cryptocurrency - as this tweet shows : holger zschaepitz ( @ schuldensuehner ) # bitcoin 's rally has taken a pause > 16k as cryptocurrency watchers debate value .", 
+                "now trades at $ 16300 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a435faf8b2886068986d135", 
+            "title": "", 
+            "text": [
+                "shares in cryptocurrency-related companies have also risen today , on the back of bitcoin 's rebound .", 
+                "reuters has the details : internet provider gmo internet inc , which is engaged in the mining '' of bitcoin , rose 3.1 % .", 
+                "remixpoint inc , an operator of virtual currency trading post services , gained 5 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                8, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a435d8b8b2886068986d12f", 
+            "title": "", 
+            "text": [
+                "the bitcoin futures price has also rebounded from last week 's slump .", 
+                "on cme group 's new bitcoin derivatives market , the price of a bitcoin in january has risen by $ 430 today to $ 16,250 .", 
+                "bitcoin futures prices the bitcoin futures prices allow traders to bet on bitcoin falling , or rising , in value ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                8, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a435af567f37406955a17e0", 
+            "title": "", 
+            "text": [
+                "as things stand , bitcoin has gained around 1,600 % during 2017 , despite last week 's wobble .", 
+                "bitcoin over the last year reuters"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                8, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a4355fcda10b906a26ac316", 
+            "title": "", 
+            "text": [
+                "hussein sayed , chief market strategist at fxtm , agrees that bitcoin looks like a bubble - partly because it 's so hard to put a 'proper ' value on it .", 
+                "he writes : after crashing by more than $ 8,000 from an all-time high , bitcoin is up 3.5 % at the time of writing .", 
+                "although the recent plunge frightened many bitcoin fans , when looking at the relatively short history of bitcoin trading , the price action seems just normal .", 
+                "during 2017 the cryptocurrency crashed by 30 % or more six times .", 
+                "every fall was followed by huge price appreciation until it peaked on 17 december .", 
+                "whether the bitcoin bull market is close to an end or just pausing for a short break , remains to be a wild question for 2018 .", 
+                "i still believe that bitcoin is in a bubble formation .", 
+                "however , there 's no effective test to measure at which stage we are currently standing .", 
+                "for example , equity prices may be said in a bubble territory if investors are willing to pay much more for a stock than the intrinsic value which is justified by the discounted divided stream .", 
+                "similarly , econometric tests may be run on bonds , commodities , currencies or any other asset to come up with a justified value .", 
+                "for bitcoin , there is n't any fundamental basis to justify the price ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                8, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a434ba58b2886068986d103", 
+            "title": "the agenda : bitcoin bounce , uk mortgage figures", 
+            "text": [
+                "the city of london .", 
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "there 's a subdued atmosphere in the city of london this morning as traders struggle through the drizzle back to their desks following the christmas break .", 
+                "but bitcoin is defying the quiet mood , and staging a strong recovery after its sharp plunge last week which saw it fall from around $ 19,000 to just $ 14,000 in two days .", 
+                "the price of bitcoin surged by 13 % on tuesday , and it 's extending those gains again this morning - currently changing hands at around $ 16,200 .", 
+                "that should relieve those who jumped into the cryptocurrency arena in recent weeks , but may also spur concerns that the bitcoin bubble is still inflating .", 
+                "bitcoin bubble inflates again after pre-christmas rout read more the rally comes despite another crackdown against bitcoin , this time from israel .", 
+                "on monday , israel 's stock market regulator revealed plans to ban companies based on digital currencies from trading on the tel aviv stock exchange .", 
+                "shmuel hauser , the chairman of the israel securities authority , declared that the public need to be protected from potentially unscrupulous bitcoin operations : if we have a company that their main business is digital currencies we would not allow it .", 
+                "if already listed , its trading will be suspended . ''", 
+                "hauser , who clearly is n't a fan of bitcoin , added : i think it looks like a bubble , smells like a bubble , acts like a bubble and feels like a bubble .", 
+                "this tough stance may embolden other regulators to take a closer look at bitcoin , which could mean further volatility in the weeks ahead .", 
+                "apart from bitcoin , city traders will also be watching out for new uk home loan data this morning , and us consumer confidence stats this afternoon ( unless they slope off early to finish off the mince pies ) .", 
+                "igsquawk ( @ igsquawk ) european opening calls : # ftse 7605 +0.16 % # dax 13092 +0.15 % # cac 5375 +0.19 % # mib 22252 +0.19 % # ibex 10197 +0.15 % the agenda : 9:30am gmt : uk mortgage approvals data for november 3pm gmt : us consumer confidence index for december update : the mortgage approvals figures have been pushed back to thursday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                12, 
+                27, 
+                8, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.26pm GMT\n18:26\nClosing summary\n", 
+                "block": "block-5a43e30467f37406955a1a44"
+            }, 
+            {
+                "text": "\n\n5.04pm GMT\n17:04\nFTSE 100 hits record closing high\n", 
+                "block": "block-5a43d1c48b2886068986d31c"
+            }, 
+            {
+                "text": "\n\n3.10pm GMT\n15:10\nUS consumer confidence dips\n", 
+                "block": "block-5a43b754b7f7b10656af31f5"
+            }, 
+            {
+                "text": "\n\n2.08pm GMT\n14:08\nFTSE 100 hits record high\n", 
+                "block": "block-5a43a742da10b906a26ac478"
+            }, 
+            {
+                "text": "\n\n12.58pm GMT\n12:58\nGreeks fear end of bailout programme\n", 
+                "block": "block-5a439800da10b906a26ac409"
+            }, 
+            {
+                "text": "\n\n12.41pm GMT\n12:41\nFTSE 250 hits new record high\n", 
+                "block": "block-5a43919267f37406955a18a8"
+            }, 
+            {
+                "text": "\n\n10.55am GMT\n10:55\nWorld's richest people gained $1 trillion in 2017\n", 
+                "block": "block-5a4375aeb7f7b10656af30cb"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "All the day's economic and financial news, as shares in London close at a new peak.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live?page=with:block-5a43d1c48b2886068986d31c#block-5a43d1c48b2886068986d31c"
+                ], 
+                "text": "Latest: FTSE 100 closes at new high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live?page=with:block-5a4375aeb7f7b10656af30cb#block-5a4375aeb7f7b10656af30cb"
+                ], 
+                "text": "Wealthiest 500 people became 23% richer this year.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live?page=with:block-5a43919267f37406955a18a8#block-5a43919267f37406955a18a8"
+                ], 
+                "text": "FTSE 250 hits new peak.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Earlier:", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live?page=with:block-5a434ba58b2886068986d103#block-5a434ba58b2886068986d103"
+                ], 
+                "text": "Bitcoin rebounds from pre-Christmas wobble.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Israel plans clampdown over 'bubble' fears.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/dec/27/bitcoin-price-bubble-digital-currencies-uk-mortgages-retail-business-live?page=with:block-5a4355fcda10b906a26ac316#block-5a4355fcda10b906a26ac316"
+                ], 
+                "text": "Analyst: How do you value bitcoin?", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

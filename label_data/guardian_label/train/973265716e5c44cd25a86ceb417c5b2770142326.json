@@ -1,0 +1,1875 @@
+{
+    "blog_id": "973265716e5c44cd25a86ceb417c5b2770142326", 
+    "title": "Guardian Hack Day February 2015 \u00e2\u0080\u0093 liveblog | Info | The Guardian", 
+    "url": "https://www.theguardian.com/info/developer-blog/live/2015/feb/26/guardian-hack-day-february-2015-liveblog", 
+    "summary": [
+        "the results are in !", 
+        "happy birthday zofia !", 
+        "halfway .", 
+        "swells tames aws .", 
+        "the live blog is dead , long-live the live article .", 
+        "choose wisely ( or burn in climate change hell )", 
+        "it 's jenny 's birthday tomorrow ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0b0c1e4b0c60f7be314ac", 
+            "title": "the results are in !", 
+            "text": [
+                "dominic kendrick takes the award for most amusing hack with his cautionary environmental tale choose wisely .", 
+                "the graham tackley memorial award for most valuable hack controversially goes to do you come here often ?", 
+                "congratulations to chris clarke , john duffell , chris austin and steve vadocz as graham entrusts his trophy to them for the next year .", 
+                "less controversially the stephan fowler award for best hack goes to stephen fowler and amy hughes for live newsdesk .", 
+                "balance is restored .", 
+                "and so , to the bar and the post-hack day conversations .", 
+                "updates may now be limited ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                18, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f0a6f6e4b0c60f7be3149c", 
+            "title": "", 
+            "text": [
+                "and that 's it !", 
+                "now its time for the voting ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a19ae4b0c45a1f93a697", 
+            "title": "", 
+            "text": [
+                "last hack !", 
+                "applause for these two waiting to go until the very end of the day .", 
+                "zofia korcz and justin pinner have been working on making the guardian 404 pages more useful .", 
+                "justin kicks off by pointing out this is not the most helpful page ( at all ) .", 
+                "short and sweet they demo their far more thoughtfully crafted page with clear onward journeys ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a5ebe4b0d8e22cb8e7f3", 
+            "title": "happy birthday zofia !", 
+            "text": [
+                "another round of singing for another birthday .", 
+                "hurrah !"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a589e4b0c45a1f93a699", 
+            "title": "", 
+            "text": [
+                "some light trolling of cantlin ashrowan in seb and lindsey 's talk .", 
+                "i look forward to that article exposing ageing hipsters ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f0a156e4b011581586e570", 
+            "title": "", 
+            "text": [
+                "hangu by seb cevey and lindsey dew is about making editorial lives easier , integrating a hangout with content production inside the tool itself .", 
+                "it 's like a chat channel inside the tools that builds on our internal user presence indicators .", 
+                "you can chat with individuals or have a room around the content .", 
+                "it also integrates with google chat so chats are integrated with gmail ( the primary channel for chat inside the guardian offices ) ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a3c6e4b0d8e22cb8e7f0", 
+            "title": "", 
+            "text": [
+                "they have created an additional option for the app that allows an editor to open ophan directly from the app ( we use browser extensions for these kind of tools on the web ) .", 
+                "the website has a heatmap overlay that records where clicks on the page are happening .", 
+                "again as an option you can see how many clicks the native front components are getting in near realtime ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a37ee4b011581586e576", 
+            "title": "", 
+            "text": [
+                "i 've left a bunch of accents off frederic 's name , sorry ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f0a2f8e4b0c60f7be31491", 
+            "title": "", 
+            "text": [
+                "ophan is our internal analytics tool and frederic , jesus and diego from the native apps team are going to talk about how they can create an app experience for it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a211e4b08ec7379dc5c4", 
+            "title": "", 
+            "text": [
+                "team m.a.r.i.o .", 
+                "( making all readers involved in the observer ) up now by frank hulley-jones , rob phillips and of course mario andrade .", 
+                "the guardian has gorgeous supplements in the paper on the weekend but they are nowhere to be found on the website .", 
+                "this team has created beautiful pages for the web designed to make you feel like having a nice long read over a cup of coffee .", 
+                "nabeelah ( @ lahnabee ) creating bespoke sites for @ twitterid sections # guhackday15"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0a0b8e4b0c60f7be3148c", 
+            "title": "", 
+            "text": [
+                "another single-person hack , nick satterly has created on this day .", 
+                "a guardian digest for a particular day .", 
+                "nick is nostalgic for our old frontend and i suspect some of you reading are too , one thing it did was a summary of a day , however that was based on the newspaper and nick 's is based on what the audience were discussing on a given day .", 
+                "you can see nick 's hack for yourself .", 
+                "this is the coverage the day after the attack on the charlie hebdo offices ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                17, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09ff4e4b09d0edf204b82", 
+            "title": "", 
+            "text": [
+                "come here often ?", 
+                "here 's hoping .", 
+                "chris clarke , john duffell , chris austin and steve vadocz are targeting the large percentage of visitors who only visit the guardian once and leave .", 
+                "they are tailoring the experience based on where you have come from .", 
+                "facebook users should get more scrolling whereas google referrals probably know exactly what they want , so keep it short and sweet .", 
+                "for example for facebook referrals the page could include an overview of the guardian and a facebook \u0080\u0098like us ' button .", 
+                "nice !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f0a108e4b011581586e56e", 
+            "title": "", 
+            "text": [
+                "there are going to be just under forty hacks to vote on and only three prizes .", 
+                "it is going to be hard to remember all the hacks let alone vote on them !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09fe0e4b0d8e22cb8e7ec", 
+            "title": "", 
+            "text": [
+                "snapchat content is about brand awareness .", 
+                "the average guardian reader is aged about 37 , there is n't really any content on the site aimed at them .", 
+                "it 's not really clear what the app is about but i think the idea is to create a dedicated app with a less conservative design aesthetic .", 
+                "helene sears ( @ mateers ) targeting a younger audience for the guardian , nice work by @ twitterid and co # guhackday15"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09e0de4b011581586e568", 
+            "title": "", 
+            "text": [
+                "the power is yours !", 
+                "hot tips to save the planet is on by steve vadocz , mario andrade and michael mcnamara .", 
+                "michael explains this is about recruiting our users as a force for change .", 
+                "everyone is worried about the environment but most are not sure how to help .", 
+                "they have created eat seasonally and locally as an easy way for people to make a difference .", 
+                "featuring on article pages it has simple facts and tips on ways to make a difference ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09f6fe4b08ec7379dc5c0", 
+            "title": "", 
+            "text": [
+                "lexy topping has just made the point that there is only one under-25 woman in the audience .", 
+                "however even amy is n't using snapchat either .", 
+                "our app does n't require a dig dev soft porn session"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09e7fe4b011581586e569", 
+            "title": "", 
+            "text": [
+                "apologies to jenny whose surname i mis-spelled earlier : sivapalan , just one l. also wendy is disgruntled that i thought her hack name was sinister , but it is so she 's just going to have to be unhappy ( or rename it ) to cuddly hug links ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09daee4b0c60f7be31485", 
+            "title": "", 
+            "text": [
+                "the guardian has a lot of community products : comments , witness , professional networks and indeed the opinion section where external contributors are encouraged to provide their personal view .", 
+                "it 's demo time yo !", 
+                "thanks adam .", 
+                "inspired by medium 's response articles the team want to open our internal tools for the audience ( you ! )", 
+                "to write a response to our content .", 
+                "interesting idea , we already do this a bit with blog networks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09d82e4b011581586e566", 
+            "title": "", 
+            "text": [
+                "we 're opening with some call and response , adam 's always the showman .", 
+                "luke is now going to talk some sense ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09cc1e4b0c45a1f93a68d", 
+            "title": "", 
+            "text": [
+                "luke taylor and adam fisher are going to talk about guardian responses next ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09aeee4b0c60f7be3147e", 
+            "title": "", 
+            "text": [
+                "live newsdesk is up by stephan fowler , amy hughes , richard nguyen , chris pearson and celine bijleveld .", 
+                "the guardian now has a live desk and this hack adds a column to the homepage pulling in all of the great new content which will make the page feel far more lively and increase discoverability .", 
+                "stephan fowler demos the all new live column on the guardian homepage sears"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09b90e4b09d0edf204b7a", 
+            "title": "", 
+            "text": [
+                "the next hack by the same team ( sam , ivor and wendy ) is about changing the related content in videos to relate to what you are currently watching .", 
+                "you can explore to deeply as you continue to watch the current video .", 
+                "there is also a personal playlist that you can add videos to so that you can create a little backlog of videos you want to watch later .", 
+                "its called down the rabbit hole , watch video endlessly !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09ad7e4b0c60f7be3147d", 
+            "title": "", 
+            "text": [
+                "the next hack is called where do you think you 're going ?", 
+                "seems a little sinister for a personalisation hack this is an attempt to link the link the sponsored content we run in things like the travel section to news about the areas , making it easy to visit if you want to ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09a8be4b08ec7379dc5ba", 
+            "title": "", 
+            "text": [
+                "podcast player by richard nguyen is up now .", 
+                "he is showing off a spiffy visualiser with accompanying playlist for the series so you do n't have to leave the page to get to the next podcast ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f0993fe4b011581586e558", 
+            "title": "", 
+            "text": [
+                "team weather oracle are here to illustrate the impact of climate change via the weather widget .", 
+                "it provides a future macro forecast with a fact about what climate change means for your area .", 
+                "a lightweight illustration of what the change in average global temperature means to you .", 
+                "a simple but powerful addition to our existing functionality ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09883e4b0c60f7be31479", 
+            "title": "", 
+            "text": [
+                "now we have guardian communication head quarters which is a simple notification system and offline reading for theguardian.com we need to create deeper , longer lasting relationships with out users .", 
+                "patrick hamann introducing gchq , an web notification that is being demoed with great success .", 
+                "but it does not end here , if you missed one of the notifications it is available even offline !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09817e4b0c45a1f93a688", 
+            "title": "", 
+            "text": [
+                "next is listen with alan , save your articles for later on the app , then get the app to read them back to you while running .", 
+                "the voice synthesis is good but still a little bit creepy .", 
+                "one of the features is that you can have the comments read to you while you read the article .", 
+                "save your time by using all your senses !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0975be4b011581586e553", 
+            "title": "", 
+            "text": [
+                "up next is nightvision 2.0 by gwyn lockett .", 
+                "he points out reading a screen at night affects your health , not least if it wakes up your partner sleeping next to you .", 
+                "some nice animations where you can see the app and website with different visual styles .", 
+                "nightvision 2.0 sears"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09803e4b08ec7379dc5b5", 
+            "title": "halfway", 
+            "text": [
+                "we 're about halfway through the presentations now ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09672e4b011581586e54f", 
+            "title": "", 
+            "text": [
+                "the next team features the newest guardian developer akash askoolum who started today .", 
+                "welcome akash !", 
+                "the team have been doing sentiment analysis on both content and their associated discussions .", 
+                "on film reviews , they are looking between the feelings of the critics and the commentors .", 
+                "commentors like will smith a lot more than pete bradshaw does according to their analysis .", 
+                "they have also analysed the post for the launch of the new website !", 
+                "unsurprisingly the guardian was very positive and the comments were very negative .", 
+                "however the analysis does out themes like windows 8 where there were problems at launch so this could be really useful for separating the light from the fury .", 
+                "this will be particularly useful for our moderation team for identifying big themes that emerging in the discussion thread ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f09539e4b09d0edf204b73", 
+            "title": "the live blog is dead , long-live the live article", 
+            "text": [
+                "what do you get when you cross a live blog with an article ( both of which are guardian content types ) living article !", 
+                "josh and sam think that there are events where the detailed live blog format does n't serve the minute by minute format ( like this blog you 're reading ) .", 
+                "looks like there are live panels within an article that can be updated independently of the main article .", 
+                "the example they use is of apple product launches where you want to group things by the product but update and refine the information within the sub-heading ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f093a5e4b0c60f7be3146e", 
+            "title": "", 
+            "text": [
+                "exciting name for the next the hack : flow rider !", 
+                "on big to like climate change it 's hard to know where to start , which is where this hack comes in .", 
+                "it asks the user what they know on a particular topic at the bottom of an article and provides relevant next steps .", 
+                "flow rider presentation sears"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0936ce4b09d0edf204b70", 
+            "title": "swells tames aws", 
+            "text": [
+                "stephen wells ( aka swells ) jokes that the environmental theme is really about configuring your environment .", 
+                "therefore he 's built a tool to configure your environment with cloud formation .", 
+                "he 's created a web app that uses your aws account to create cloud formation scripts simply by answering questions about what you want to setup and how you want your existing resources to interact with the new stack .", 
+                "after answering all the questions the app spits out the json you 'll need to build your stack .", 
+                "brilliant ( who wants to write their own cloud formation ) !", 
+                "nabeelah ( @ lahnabee ) everyone laughed and clapped at this one but i did n't get it # environmenthack # guhackday15"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                16, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f091e9e4b0c45a1f93a681", 
+            "title": "", 
+            "text": [
+                "nomfomo is up next , it gives people the chance to get involved with the big conversations , some lovely sketches here by laura doward .", 
+                "laura doward ( @ saltieseadog ) working on a concept to help people keep up to date with news when they have little time : nofomo # guhackday15 using a data visualisation you can see what stories are big right now to get up to speed on the latest news .", 
+                "catch up on big stories sears"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f09142e4b011581586e540", 
+            "title": "", 
+            "text": [
+                "tracer up now .", 
+                "trying to tie polluters to those are politically or fiscally accountable to regular people .", 
+                "they 've used real data in neo4j to trace the relationships between companies and their owners .", 
+                "they also use the data to identify the largest carbon emitting countries .", 
+                "in addition they have dumped expense data into the store so they can aggregate expenses by party .", 
+                "they can visualise the links between politicians , parties and companies .", 
+                "the conservative party and shell seem to have several connections ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0902ce4b09d0edf204b69", 
+            "title": "", 
+            "text": [
+                "up first is guardian publishing frequency which visualises when content gets published over the course of the day .", 
+                "next is guardian of things a web of everything , ever .", 
+                "this links tags with metadeta .", 
+                "finally he is simplifying taleo , the complex hr tool for appraisals .", 
+                "a very productive day at the office for rob !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08ff0e4b011581586e53d", 
+            "title": "", 
+            "text": [
+                "now robert rees is going to present three hacks three !", 
+                "tristram hunt to quit as mp to become v & a director read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08f9be4b0c60f7be31463", 
+            "title": "", 
+            "text": [
+                "the next team want to try to talk about mobile phone battery usage and trying to show users how much energy they use when reading the news ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54f08ecde4b0c60f7be31461", 
+            "title": "choose wisely ( or burn in climate change hell )", 
+            "text": [
+                "dominic kendrick is now going to present choose wisely , a hack on the climate change theme .", 
+                "if we do n't make the right choices now then we 're going to burn in a fiery hell of climate change !", 
+                "it 's an isometric choose your own adventure game .", 
+                "if you deny climate change the world gets progressively darker while remaining very much like an early final fantasy game .", 
+                "dominic kendrick 's climate change hack kendrick"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08de8e4b0d8e22cb8e7d2", 
+            "title": "", 
+            "text": [
+                "jenny sivapalan , robert kenny and celine bijleveld have been investigating getting better , faster results out on election night .", 
+                "the current system uses ap journalists and the ftp cloud of delay .", 
+                "the new system will use guardian journalists and volunteers , swarmize and the ability to embed the results directly into our content editor composer .", 
+                "creating this system would make sure we having input from readers outside of london and make sure we have truly national coverage ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08db6e4b0c60f7be3145e", 
+            "title": "it 's jenny 's birthday tomorrow", 
+            "text": [
+                "happy birthday to jenny sivapalan and a spontaneous round of happy birthday echoes through shoreditch town hall ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08d4ee4b09d0edf204b62", 
+            "title": "", 
+            "text": [
+                "currently the reporting dashboards are generated by hand from a variety of data sources .", 
+                "this hack is using dashboard as a service software to generate metrics .", 
+                "includes a funnel of user engagement ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08d15e4b09d0edf204b61", 
+            "title": "", 
+            "text": [
+                "solo product management team now with piers jones taking about dashboards ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08c9ee4b0c60f7be3145c", 
+            "title": "", 
+            "text": [
+                "the team have built an app that implements the idea , we 're going to be shouting out the answers .", 
+                "we get the first one wrong but gideon gets the second one right , with the total number of people immigrating into the uk .", 
+                "having a dedicated quiz app makes a lot of sense ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08c78e4b011581586e537", 
+            "title": "", 
+            "text": [
+                "never switch laptops during the presentations !"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08bf4e4b09d0edf204b5c", 
+            "title": "", 
+            "text": [
+                "quizitorial is a team project that attempts to gamify news catchups .", 
+                "quizzes improve recall compared to just reading ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08b7ae4b011581586e532", 
+            "title": "", 
+            "text": [
+                "gulu is today 's guardian content with up voting to create a kind of hacker news view onto the guardian .", 
+                "nic 's ambition is to solve the aggregation problem by allowing the guardian readership to curate content and that means not just content from the guardian but anything that is relevant ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08b59e4b011581586e531", 
+            "title": "", 
+            "text": [
+                "it 's fast and furious on stage , next its nic long with gulu"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08b07e4b09d0edf204b5b", 
+            "title": "", 
+            "text": [
+                "now it 's fabio crisci with no fluff which can read articles and do word analysis , complete with nice clean stats"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08a9de4b011581586e52f", 
+            "title": "", 
+            "text": [
+                "john duffell is talking about the issue of people rediscovering old content and sharing it on social with no context .", 
+                "so the simple answer is to add a banner ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08a24e4b09d0edf204b5a", 
+            "title": "subtitled videos offer the chance of connecting with a global audience", 
+            "text": [
+                "gideon goldberg is now explaining how he 's hacked subtitles into the guardian 's video page .", 
+                "the subtitles to come from youtube and are the crowd-translated into different languages .", 
+                "not sure how they get into the player though .", 
+                "subtitles are n't just about accessibility they also open up video to global audiences via translation"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                17
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f089d3e4b0d8e22cb8e7cb", 
+            "title": "", 
+            "text": [
+                "it is possible to search the data and find out what both the guardian and the telegraph pay mps for their contributors ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f08924e4b0d8e22cb8e7c9", 
+            "title": "", 
+            "text": [
+                "the member 's register is pretty much free text in a html page .", 
+                "they 've scraped the pages and attempted to create a structured data format from the text of the page .", 
+                "we found the money by looking for pound signs followed by numbers well played phil ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0887fe4b011581586e528", 
+            "title": "", 
+            "text": [
+                "graham tackley and phil wills are going to be talking about interesting mps , and what they 've discovered from ingesting the register of mps interests ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f087d6e4b09d0edf204b56", 
+            "title": "", 
+            "text": [
+                "okay folks we 're about to go into the presentations the first speaker is on the podium"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                15, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f07df4e4b08ec7379dc597", 
+            "title": "", 
+            "text": [
+                "it would be amiss to ignore our coffee team for this hack day : the brilliant team from noble espresso powering the guardian 's hack day since yesterday morning .", 
+                "the kind coffee chaps from noble espresso andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                14, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0767be4b0d8e22cb8e7b5", 
+            "title": "", 
+            "text": [
+                "here 's a hack group planning something world domination , possibly , but more likely their demo presentation for this afternoon .", 
+                "guardian developers planning something andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                13, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f0518be4b08ec7379dc565", 
+            "title": "", 
+            "text": [
+                "our ux architect helene is giving a class for our team in giving strong presentations .", 
+                "for better or worse , the end result of these 24 hours of hacking lives or dies on the strength of the three minute presentation later today .", 
+                "hopefully all these people will go on and nail their presentations thanks to helene .", 
+                "helene sears leading a masterclass on presentation skills andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                11, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f04cf9e4b0c60f7be313d2", 
+            "title": "", 
+            "text": [
+                "here 's what they 're all playing for today : one of the three trophies up for grabs .", 
+                "the three hack day trophies andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                10, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54f04120e4b09d0edf204b00", 
+            "title": "day two", 
+            "text": [
+                "we 're into the second day of our guardian hack event and spirits are high .", 
+                "people are arriving , coffee is being avidly consumed and more than one team are reconsidering their ideas from yesterday in the cold light of day .", 
+                "more soon ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                27, 
+                10, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef5e2ee4b011581586e3b7", 
+            "title": "", 
+            "text": [
+                "that 's it for the day - lots of happy ( and tired ) hackers .", 
+                "more tomorrow"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                17, 
+                56
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef5d3fe4b011581586e3b3", 
+            "title": "", 
+            "text": [
+                "finally , here 's a few folks who are tired of the deskbound life .", 
+                "a few of our team relaxing andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                17, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef5c84e4b09d0edf204a7a", 
+            "title": "", 
+            "text": [
+                "more diagrams : here 's jenny sivapalan demonstrating how her team 's election-themed hack project might work .", 
+                "jenny demonstrating her hack plan ( with a cheeky will haircut franklin in the background ) andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                17, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef5c3be4b011581586e3aa", 
+            "title": "", 
+            "text": [
+                "here 's a complex technical architecture diagram from renowned funster will hipster franklin : a software architecture diagram , yesterday andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                17, 
+                48
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef5520e4b0d8e22cb8e6fc", 
+            "title": "", 
+            "text": [
+                "things are starting to wrap up here for day one of our hack day .", 
+                "the coffee folks of the fantastic noble espresso have packed up and left and our caffeine levels mean some guardian staff are beginning to flag ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                17, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef3354e4b011581586e344", 
+            "title": "", 
+            "text": [
+                "a creative way to attract potential hackers to work on your project andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                14, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef2377e4b011581586e319", 
+            "title": "", 
+            "text": [
+                "we 've also had a suggestion from twitter of a possible hack , from a perhaps disgruntled non-londoner tom martin ( @ deplorableword ) an edition of the guardian which removes all articles relating to `` london ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef235be4b0c60f7be3122e", 
+            "title": "", 
+            "text": [
+                "hacking is in full flow : here 's what some of our journalists are working on : helene sears ( @ mateers ) @ lauraoliver @ twitterid working on quizzes at the hackday !", 
+                "# guhackday15"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef1a17e4b0d8e22cb8e6c1", 
+            "title": "", 
+            "text": [
+                "one of our editorial colleagues , lexy topping , is hacking along with us today .", 
+                "she 's just posted this vine clip showing a hint of the action here at shoreditch town hall : alexandra topping ( @ lexytopping ) it 's all going on at # guhackday15 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                13, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef1990e4b0d8e22cb8e6bc", 
+            "title": "food !", 
+            "text": [
+                "lunchtime is wrapping up here as hacking begins in earnest .", 
+                "we 're being fed korrito who have delivered us a huge array of delicious korean food : just a few of the bags of korrito 's korean food before the hungry guardian staff wolfed it all down andrews/guardian"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                13, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-54ef0a77e4b0c60f7be311ed", 
+            "title": "", 
+            "text": [
+                "here 's another shot of a team in action working on a hack idea around climate change : nabeelah ( @ lahnabee ) the climate change hack team @ twitterid # guhackday15"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef0a0de4b011581586e2d6", 
+            "title": "", 
+            "text": [
+                "here 's a lovely photo of our brilliant venue before our team arrived and filled it full of discarded coffee cups and laptops : jon h-w ( @ jonhw87 ) stunning hack space for the first guardian hack days of 2015 # guhackday15"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef0937e4b0d8e22cb8e6a3", 
+            "title": "", 
+            "text": [
+                "we 've also had a clue from our developer patrick hamann about his plans for the day sounds like there 's something around offline reading happening in at least one team .", 
+                "patrick hamann ( @ patrickhamann ) today i will mostly be hacking around with serviceworker and the push api at the @ twitterid hack day # guhackday13"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef08f3e4b08ec7379dc489", 
+            "title": "", 
+            "text": [
+                "we 've just finished pitching back the initial ideas and heard some fascinating things , including quizzes , mobile analytics , save-for-later across all your devices and something mysterious about sliders .", 
+                "watch this space ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef023be4b09d0edf204a09", 
+            "title": "", 
+            "text": [
+                "guardian staff members discussing ideas for their hack projects andrews/guardian"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54ef0077e4b08ec7379dc47f", 
+            "title": "", 
+            "text": [
+                "we 're being hosted in the beautiful surroundings of shoreditch town hall , a grade ii listed building .", 
+                "right now , our hundred-strong team are engaged in an ideas session , brainstorming concepts and ideas about what the guardian can do digitally to continue to innovate and experiment on the web .", 
+                "and probably some stuff with robots , too ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-54eeff63e4b0d8e22cb8e69a", 
+            "title": "", 
+            "text": [
+                "we are off for guardian hack day february 2015 !", 
+                "now to launch this blog"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2015, 
+                2, 
+                26, 
+                11, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "info", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.05pm GMT\n18:05\nThe results are in!\n", 
+                "block": "block-54f0b0c1e4b0c60f7be314ac"
+            }, 
+            {
+                "text": "\n\n5.15pm GMT\n17:15\nHappy birthday Zofia!\n", 
+                "block": "block-54f0a5ebe4b0d8e22cb8e7f3"
+            }, 
+            {
+                "text": "\n\n4.15pm GMT\n16:15\nHalfway...\n", 
+                "block": "block-54f09803e4b08ec7379dc5b5"
+            }, 
+            {
+                "text": "\n\n4.02pm GMT\n16:02\nSwells tames AWS\n", 
+                "block": "block-54f0936ce4b09d0edf204b70"
+            }, 
+            {
+                "text": "\n\n4.07pm GMT\n16:07\nThe live blog is dead, long-live the live article\n", 
+                "block": "block-54f09539e4b09d0edf204b73"
+            }, 
+            {
+                "text": "\n\n3.38pm GMT\n15:38\nChoose Wisely (or burn in climate change hell)\n", 
+                "block": "block-54f08ecde4b0c60f7be31461"
+            }, 
+            {
+                "text": "\n\n3.31pm GMT\n15:31\nIt's Jenny's birthday tomorrow...\n", 
+                "block": "block-54f08db6e4b0c60f7be3145e"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "It's that time again the Guardian's Digital Development team is having its quarterly Hack Day. Follow along to see what gets built (and how much coffee gets drunk)", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

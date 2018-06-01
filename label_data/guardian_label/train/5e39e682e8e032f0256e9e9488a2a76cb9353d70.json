@@ -1,0 +1,783 @@
+{
+    "blog_id": "5e39e682e8e032f0256e9e9488a2a76cb9353d70", 
+    "title": "Pound under pressure on new Brexit worries - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/feb/27/pound-under-pressure-on-new-brexit-worries-business-live", 
+    "summary": [
+        "wall street opens lower .", 
+        "us capital goods orders unexpectedly fall in january .", 
+        "trump a bigger influence on pound than brexit - city index .", 
+        "insurance changes will see rise in premiums and nhs costs - abi .", 
+        "ftse 100 opens higher but insurers and lse slide .", 
+        "insurers face hit to profits after change in compensation payments .", 
+        "primark owner abf upbeat ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b43a64e4b05f755cc0ceb2", 
+            "title": "", 
+            "text": [
+                "sterling has recovered from its worse levels but is still lower on the day , following renewed worries about the consequences of brexit and talk of a second scottish referendum .", 
+                "the pound is currently down 0.34 % at $ 1.2424 against the dollar having fallen as low as $ 1.2385 .", 
+                "against the euro , it is 0.67 % lower at \u20ac1.1713 .", 
+                "against a basket of currencies , sterling is also on the slide : jamie mcgeever ( @ reutersjamie ) sterling the biggest faller on major fx markets today - steepest fall in over 3 weeks - as scottish independence vote talk up again .", 
+                "on that note , we 're closing up for the day .", 
+                "thanks for all your comments , and we 'll be back tomorrow ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                14, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b43812e4b030b6f7c8fab7", 
+            "title": "wall street opens lower", 
+            "text": [
+                "ahead of president trump 's address to congress on tuesday , us markets have opened lower after their recent record breaking runs .", 
+                "the dow jones industrial average - which closed at a record high for the 11th day in a row on friday - is down 32 points or 0.16 % with technology shares among the decliners .", 
+                "the s & p 500 opened 0.11 % lower while the nasdaq composite lost 0.19 % as trading began ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                14, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b42d3ae4b05f755cc0ce6f", 
+            "title": "", 
+            "text": [
+                "dennis de jong , managing director at ufx.com , said : the first set of durable goods figures from donald trump 's presidency show a rebound after a disappointing december , but there is still plenty of work ahead for the white house administration .", 
+                "trump has spoken at length about his plans to cut taxes and boost infrastructure spending in the manufacturing industry - but his camp is still very light on details .", 
+                "while demand in american production rocketed after his shock election win , doubts continue to build over how many of his promises he 'll actually keep , which could see the often erratic durable goods market continue to wobble for the time being ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b42a32e4b05f755cc0ce65", 
+            "title": "us capital goods orders unexpectedly fall in january", 
+            "text": [
+                "more mixed signals from the us economy ahead of donald trump 's speech to congress on tuesday .", 
+                "new orders for us capital goods fell 0.4 % in january , defying expectations of a 0.5 % increase .", 
+                "however december 's rise of 0.7 % was revised upwards to 1.1 % .", 
+                "there were declines in january for electrical equipment , appliances and components , and increases for machinery and metal products .", 
+                "analysts said the decline last month probably reflected businesses holding fire as they awaited trump 's plans for tax reforms - phenomenal '' reforms at that - and increased infrastructure spending .", 
+                "but durable goods orders rose 1.8 % compared to expectations of a 1.7 % increase , although december 's 0.5 % fall was revised to a 0.8 % decline .", 
+                "excluding transportation , durable goods orders fell 0.2 % in january .", 
+                "sigma squawk ( @ sigmasquawk ) us durable goods sees a miss on ex transports at -0.2 % vs exp 0.5 % , but the headline figure beatsusd little reaction seen"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                13, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b41b72e4b08ddc9a5e4244", 
+            "title": "trump a bigger influence on pound than brexit - city index", 
+            "text": [
+                "the pound may be weaker at the moment thanks to the latest brexit anxieties and the prospect of a second scottish referendum , but it is an event across the atlantic which will prove key to the outlook for the uk currency , says kathleen brooks , research director at city index : while brexit headlines are dominating on an otherwise quiet monday , we have no idea if theresa may will actually block freedom of movement , or if she can do this from legal standpoint at this early stage of our brexit negotiation .", 
+                "we are still years away from officially leaving the eu and a scottish referendum on independence is unlikely to happen for the next two years .", 
+                "thus , today 's reports may not materialise for some time , which is why we think that there impact will be fleeting .", 
+                "in contrast , the immediate risk to the pound could come from president trump 's address to congress on tuesday .", 
+                "the dollar and the us bond market seem to have lost faith in trumpenomics , 10-year us treasury yields fell to their lowest level since november on friday and the dollar index is 2 % away from its december high .", 
+                "if trump can put flesh on the bones of his pro-growth economic plans , then us bond yields could rise and drag the dollar with them , if he fails to do this then we could see further dollar weakness so , do n't put too much stock on brexit headlines and monday 's price action .", 
+                "trump 's speech is a far more important risk even this week , and could determine whether we see further weakness back to $ 1.20 or if we get a recovery rally back towards $ 1.27 the real price movement is likely to happen late tuesday/ early wednesday , trump will talk at 0200 gmt .", 
+                "set your alarm clocks on tuesday night and get ready for this week 's most important event for sterling ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                12, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b416a8e4b08ddc9a5e4229", 
+            "title": "", 
+            "text": [
+                "back with the european business sentiment survey , and here 's a look at how confident various countries are : andy bruce ( @ brucereuters ) brits still among the gloomiest in the eu about the economic outlook , despite slight in feb ( ec survey ) and here 's the overall trend : european sentiment index commission"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                12, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b411b1e4b08ddc9a5e4216", 
+            "title": "", 
+            "text": [
+                "billionaire us investor warren buffett - recently involved in the unsuccessful move by kraft heinz on unilever - has been speaking on cnbc after his annual report to shareholders was released at the weekend .", 
+                "he says his holding in apple is now the second biggest stake in his berkshire hathaway company , and gave some views on the current state of the stock market .", 
+                "cnbc now ( @ cnbcnow ) breaking : buffett says berkshire now owns 133m shares of apple ; the position has more than doubled since year-end cnbc now ( @ cnbcnow ) warren buffett says he 's spent `` maybe $ 20 billion '' on stocks since `` a little before the election '' ; does n't have to do with fed , election cnbc ( @ cnbc ) buffett says his positions in the airlines have remained mostly unchanged since year-end , may have been `` tweaked ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                11, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b4054fe4b05f755cc0cdad", 
+            "title": "", 
+            "text": [
+                "the changes to compensation payments continue to hit shares in the insurers , and are also likely to see premiums rise and the nhs facing extra costs of an estimated \u00a3 1bn .", 
+                "patrick collinson and julia kollewe report : a reckless '' government-ordered change to the way personal injury awards are calculated will add as much as \u00a3 75 to already fast-rising average car insurance premiums , and land the nhs with an annual \u00a3 1bn bill , the insurance industry has warned .", 
+                "the lord chancellor , liz truss , has announced a change to the so-called ogden '' discount rate - which is used to calculate compensation awards for serious personal injuries - to ensure inflation does not erode the future value of a payout .", 
+                "however , the unexpectedly deep cut in this rate , from 2.5 % to -0.75 % , has prompted a furious backlash , amid claims it will over-compensate '' victims of car crashes or medical incompetence in hospitals .", 
+                "the armed forces could also face far higher bills .", 
+                "mohammad khan , insurance expert at pwc said : as a direct result of this change , we anticipate an increase of \u00a3 50-\u00a3 75 on an average comprehensive motor insurance policy , with higher increases for younger and older drivers - potentially up to \u00a3 1,000 for younger drivers ( 18-22-year-olds ) and a rise of up to \u00a3 300 for older drivers ( over 65 years old ) . ''", 
+                "the association of british insurers ( abi ) said the cut was reckless in the extreme '' .", 
+                "huw evans , its director general , said : we have repeatedly warned the government that this could lead to very significant price rises , with younger drivers in particular likely to find it much harder to get affordable insurance .", 
+                "it is also a massive own goal that lands the nhs with a likely \u00a3 1bn hike in compensation bills when it needs it the least . ''", 
+                "the full story is here : nhs faces new \u00a3 1bn annual bill after 'reckless ' change to injury payouts read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                10, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b400e2e4b030b6f7c8f9a9", 
+            "title": "", 
+            "text": [
+                "here 's ing economist bert colijn on the eurozone confidence figures : while consumer confidence declined somewhat in february as inflation rates have recently increased , businesses continue to see sentiment improve .", 
+                "in manufacturing , new orders continued to improve significantly , while also the assessment of recent production has improved .", 
+                "the exports component also improved , indicating that the manufacturing sector is profiting from the recent weakening of the euro .", 
+                "in services , assessments of recent demand have surged , with expectations for future demand increasing as well .", 
+                "this shows that the first quarter could come in stronger than expected .", 
+                "one of the main reasons for the current economic strength is the tailwind from the labour market .", 
+                "businesses are hiring at the fastest pace in years , which is also confirmed by this release of the economic sentiment index .", 
+                "in february , the pace of hiring increased further in manufacturing .", 
+                "in services , recent job growth was slightly weaker than in january , but employment expectations for the coming months increased .", 
+                "this shows that employers seem unfazed by the uncertainty coming from the packed political agenda in the eurozone .", 
+                "consumers may be less unnerved , their expectations for general economic conditions and future unemployment chances weakened in february .", 
+                "consumers also indicated a jump in recent price growth .", 
+                "while this matches the headline inflation rate jump , their expectations of future price growth also increased in february .", 
+                "this is in line with selling price expectations increasing in manufacturing and remaining at a high level in services .", 
+                "the question becomes when these survey indicators are going to cause an increase in the core inflation rate , which has been stagnant so far .", 
+                "we expect that this starts to translate in slightly higher core inflation in the coming months , but nothing that will boost the core rate anywhere near 2 % for now .", 
+                "the ecb will present their latest macroeconomic forecasts next month and it will be interesting to see whether the recent bout of strong indicators has impacted their core inflation forecasts ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                10, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3fc98e4b030b6f7c8f996", 
+            "title": "", 
+            "text": [
+                "eurozone confidence edged up in february , with positive views from industry and the service sector outweighing weakness among consumers and the retail area .", 
+                "the european commission 's monthly sentiment index rose from 107.9 in january to 108 .", 
+                "a business confidence indicator rose from 0.76 points in january to 0.82 , the highest level since june 2011 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                10, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3f76ae4b08ddc9a5e419a", 
+            "title": "", 
+            "text": [
+                "back with the insurers , and pwc have crunched the numbers and calculated how much the new regime would push up premiums .", 
+                "mohammad khan , uk general insurance leader at pwc , said : the lord chancellor 's announcement on the ogden rate change to -0.75 % was not anticipated by the insurance industry and is more than they were expecting .", 
+                "unfortunately , this announcement will have a significant adverse impact on motor insurance prices that drivers pay and also commercial insurance rates paid by small businesses .", 
+                "as a direct result of this change , we anticipate an increase of \u00a3 50-\u00a3 75 on an average comprehensive motor insurance policy , with higher increases for younger and older drivers - potentially up to \u00a3 1,000 for younger drivers ( 18-22 year olds ) and a rise of up to \u00a3 300 for older drivers ( over 65 years old ) .", 
+                "this announcement , on top of the recent increases in insurance premium tax , will make redundant any savings to premiums as a result of the government 's personal injury legal reforms which were anticipated to generate approximately \u00a3 40 saving per motor insurance policy the announcement will also impact reinsurance pricing by pushing prices up for motor and liability reinsurance cover .", 
+                "this may impact the business models of companies that rely on low layers of reinsurance who will be faced with much higher costs of doing business after they renew their reinsurance .", 
+                "( perhaps pwc should award the lord chancellor the best oscar for an unexpected announcement or perhaps not )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                9, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3f4dee4b08ddc9a5e4192", 
+            "title": "", 
+            "text": [
+                "the weakness in the pound may not last despite the times report ( \u00a3 ) about a possible second scottish referendum , says lee hardman , currency analyst at mufg : the report is highly speculative at the current juncture , and we doubt that it will have a lasting negative impact on the pound .", 
+                "also , opinion polls have shown a modest increase in support for scottish independence since the brexit vote , but it remains far from clear that holding another referendum would have a different result .", 
+                "we still continue to expect the pound to strengthen in the coming months benefitting from rising political risk in europe ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                9, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3f2a2e4b08ddc9a5e4185", 
+            "title": "", 
+            "text": [
+                "ing also believes the eurozone lending figures will not lead to the ecb changing policy yet .", 
+                "its senior eurozone economist bert colijn said : the current recovery in lending is no doubt related to the current loose monetary policy of the ecb .", 
+                "the cost of borrowing has come down to historical lows for both households and businesses , which in part drives the recovery of lending in the eurozone .", 
+                "still , with lending growth well below pre-crisis levels for the moment , it seems unlikely that the ecb will take as an argument to make changes to the qe program set out for 2017 .", 
+                "economic growth is up in the eurozone for the moment and accelerating loan growth is underpinning that for the moment .", 
+                "this means that gdp growth may well have further upside in the coming months although political uncertainty continues to loom ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                9, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3f16ee4b05f755cc0cd52", 
+            "title": "", 
+            "text": [
+                "some positive lending figures from the eurozone : howard archer ( @ howardarcheruk ) # ecb - jan # eurozone # bank lending to businesses +2.3 % y/y ( equal best since mid-2009 ) ; lending to households +2.2 % y/y ( best since may 2011 ihs markit economist archer adds : the ecb will likely point to the january lending data as providing ongoing evidence that its monetary policy is providing valuable support to eurozone growth and should not be changed any time soon - particularly as the eurozone is yet to see a convincing upward trend in underlying inflation ( it was stable at just 0.9 % in january ) .", 
+                "additionally , while the ecb is relatively upbeat on eurozone growth prospects , it is very aware that there are appreciable uncertainties ahead , especially political ones ( elections in netherlands , france and germany , the brexit process starting and trump 's presidency in the us ) the ecb has set out its asset buying programme until the end of the year , and we suspect it will not re-visit it until late on in 2017 , very possibly waiting until the german election is out of the way in september ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                9, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3ea77e4b08ddc9a5e4157", 
+            "title": "", 
+            "text": [
+                "the pound is continuing to weaken , as worries about a second referendum in scotland and concerns about the outcome of brexit talks continue .", 
+                "sterling is currently down 0.5 % at $ 1.2402 against the dollar and 0.59 % lower against the euro ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                9, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b3e5dde4b030b6f7c8f94a", 
+            "title": "insurance changes will see rise in premiums and nhs costs - abi", 
+            "text": [
+                "on the changes to compensation payments , the association of british insurers called the decision crazy '' and predicted it would lead to higher premiums and a \u00a3 1bn hike in nhs costs .", 
+                "abi director general huw evans said : cutting the discount rate to -0.75 % from 2.5 % is a crazy decision by liz truss .", 
+                "claims costs will soar , making it inevitable that there will be an increase in motor and liability premiums for millions of drivers and businesses across the uk .", 
+                "we estimate that up to 36 million individual and business motor insurance policies could be affected in order to over-compensate a few thousand claimants a year .", 
+                "to make such a significant change to the rate using a broken formula is reckless in the extreme , and shows an utter disregard for the impact this will have on consumers , businesses and the wider operation of the insurance market .", 
+                "we have repeatedly warned the government that this could lead to very significant price rises , with younger drivers in particular likely to find it much harder to get affordable insurance .", 
+                "it is also a massive own goal that lands the nhs with a likely \u00a3 1billion hike in compensation bills when it needs it the least ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                8, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3e410e4b05f755cc0cd19", 
+            "title": "", 
+            "text": [
+                "over in europe , markets have also opened brightly .", 
+                "germany 's dax and france 's cac are both up around 0.4 % , with the pan-european stoxx 600 up 0.1 % .", 
+                "the banking sector was helped by a rally in intesa sanpaolo after the italian bank said it had abandoned plans to take over insurer generali .", 
+                "the gains came despite a 3 % drop in deutsche b\u00f6rse on new doubts about its planned merger with the london stock exchange ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                8, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3e181e4b030b6f7c8f936", 
+            "title": "", 
+            "text": [
+                "the dip in the pound is of course good for the ftse 100 , which is packed full of dollar earners who benefit from a weaker sterling .", 
+                "connor campbell , financial analyst at spreadex , said : brexit fears are back on the agenda this monday morning , with the pound bearing the brunt of investors ' fretful trading .", 
+                "sterling fell 0.5 % against the dollar and 0.6 % against the euro as the day got underway , following on from the losses seen last friday .", 
+                "the reason behind the pound 's morning wobbles seems to be speculation surrounding a second scottish independence referendum , alongside amber rudd 's comments on sunday that brexit will 'end freedom of movement as we know it ' .", 
+                "the currency 's slide was good news , however , for the ftse , which rose around 20 points after the bell , though that increase still leaves the uk index adrift of its persistent 7300 resistance level ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                8, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-58b3de9ee4b08ddc9a5e4135", 
+            "title": "ftse 100 opens higher but insurers and lse slide", 
+            "text": [
+                "the uk market has got off to a good start for the week , with the ftse 100 up around 0.4 % .", 
+                "positive updates from persimmon and associated british foods have helped , but the london stock exchange has dropped nearly 2 % on doubts about its planned merger with deutsche b\u00f6rse .", 
+                "but the biggest decline is in the insurance sector , after proposed changes in compensation payments which could hit company profits : insurers among leading fallers reuters"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                8, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3d9bbe4b030b6f7c8f915", 
+            "title": "primark owner abf upbeat", 
+            "text": [
+                "associated british foods , which owns discount fashion retailer primark as well as a sugar business , has issued a positive trading statement .", 
+                "it said it had seen excellent progress '' in the first half , with strong growth at primark and better performances in its other businesses .", 
+                "in a buy note , liberum analysts said : despite a tough retail environment , primark sales rose 21 % driven by 11 % new space growth , flat like for like and favourable foreign exchange .", 
+                "primark 's ebit margin remains pressured by adverse foreign exchange .", 
+                "sugar profitability is strongly improving driven by cost savings , lower beet costs and improved pricing coupled with strong production in africa .", 
+                "in [ the full year ] we expect a strong rebound in group profits as sugar profits recover and primark continues a strong store roll-out program .", 
+                "abf offers compelling exposure to secular growth trends in retail over the next 5-10 years .", 
+                "we estimate primark can double sales and profits over the next 5 years .", 
+                "primark sales grow plunkett/reuters"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                8, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3da8fe4b030b6f7c8f918", 
+            "title": "insurers face hit to profits after change in compensation payments", 
+            "text": [
+                "more on the changes to insurance payments , which has already forced admiral to postpone its results .", 
+                "here 's reuters : britain on monday changed the rate at which compensation payments are calculated in personal injury claims , a move likely to increase the size of lump sum pay outs and potentially hit uk motor insurers ' profits .", 
+                "the ministry of justice cut the discount rate used to calculate lump sum payouts to minus 0.75 percent from 2.5 percent , it said in a statement , a rate that had been in place since 2001 .", 
+                "a downwards move in the discount rate is expected to force insurers to pay out more in cash to personal injury claimants now to ensure that returns over their lifetime met the awarded compensation .", 
+                "the current legal framework makes clear that claimants must be treated as risk-averse investors , reflecting the fact that they may be financially dependent on this lump sum , often for long periods or the duration of their life , '' the ministry of justice said .", 
+                "admiral said on monday it was postponing the publication of its annual results as a result of the change , to march 8 from march 1 .", 
+                "the news is likely to see the sector 's share prices come under pressure ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                7, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3da49e4b05f755cc0cd02", 
+            "title": "", 
+            "text": [
+                "bloomberg brexit ( @ brexit ) pound drops as much as 0.6 % after reports of a new scottish referendum"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                7, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3d921e4b05f755cc0ccfd", 
+            "title": "", 
+            "text": [
+                "despite the dip in asian markets , europe is expected to open higher : igsquawk ( @ igsquawk ) our european opening calls : $ ftse 7273 up 29 $ dax 11831 up 27 $ cac 4863 up 18 $ ibex 9482 up 29 $ mib 18691 up 94"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-58b3d2c3e4b05f755cc0cce7", 
+            "title": "the agenda : pound slips , stock exchange woes , us data due", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "the pound is under pressure again this morning following reports that scotland would call for another independence referendum , and that uk prime minister theresa may could play tough over residency rights for eu nationals , once article 50 is triggered .", 
+                "sterling is down 0.35 % against the dollar at $ 1.2422 having earlier fallen as low as $ 1.2392 .", 
+                "it is a similar amount down against the euro to \u20ac1.1754 .", 
+                "ipek ozkardeskaya , senior market analyst at london capital group , said : speculations that scotland could call for another independence vote hammered the mood in the pound market at the start of the week .", 
+                "the pound tanked to # 1.2392 at the early hours of the asian session , as the times of london reported that scotland could ask for a second vote of independency as pm theresa may triggers the article 50 in march .", 
+                "although there is no need for additional panic at this point in time , the week started with brexit related concerns and the current deterioration in the sentiment could dent the appetite in the pound and encourage more bears to join the sell-off at the start of the trading week .", 
+                "naeem aslam , chief market analyst at think markets uk , added : theresa may likes to play hard without knowing how devastating the results could be for the uk .", 
+                "she wants to negotiate a good deal with her eu partners and yet she has upped the ante against freedom of movement .", 
+                "it is reported that any eu national who arrives in the uk before the date brexit is triggered will not automatically get the right to reside permanently in the uk .", 
+                "not only has she set the stage for nothing but a mess by fighting against those with whom she wants to negotiate with , but also there are reports that scotland could call for a referendum next year .", 
+                "all this negative development , which has mostly been self-inflicted by theresa may , is going to make the sterling the least desirable currency against a basket of currencies .", 
+                "meanwhile asian markets have edged lower , with investors cautious ahead of donald trump 's address to congress on tuesday .", 
+                "analysts are anticipating more details of his proposed phenomenal '' news on tax reforms , plus any other moves to boost the us economy .", 
+                "ahead of all that , us durable goods figures are due later , with michael hewson , chief market analyst at cmc markets , saying : we are expected to get further evidence of the improvement in the us economy with january core durable goods orders which are expected to come in at 0.5 % , unchanged from december .", 
+                "we 'll also be keeping an eye on shares in the london stock exchange , which said late on sunday that its proposed merger with deutsche b\u00f6rse was in doubt after european regulators asked it to sell its majority stake in italian trading business mts .", 
+                "the full story is here : london stock exchange says deutsche boerse merger in doubt read more there is also a trading update from primark owner associated british foods , and insurance shares could come under pressure after a change in the discount rate for calculating personal injury damages awards ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                2, 
+                27, 
+                7, 
+                44
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.36pm GMT\n14:36\nWall Street opens lower\n", 
+                "block": "block-58b43812e4b030b6f7c8fab7"
+            }, 
+            {
+                "text": "\n\n1.36pm GMT\n13:36\nUS capital goods orders unexpectedly fall in January\n", 
+                "block": "block-58b42a32e4b05f755cc0ce65"
+            }, 
+            {
+                "text": "\n\n12.32pm GMT\n12:32\nTrump a bigger influence on pound than Brexit - City Index\n", 
+                "block": "block-58b41b72e4b08ddc9a5e4244"
+            }, 
+            {
+                "text": "\n\n8.42am GMT\n08:42\nInsurance changes will see rise in premiums and NHS costs - ABI\n", 
+                "block": "block-58b3e5dde4b030b6f7c8f94a"
+            }, 
+            {
+                "text": "\n\n8.14am GMT\n08:14\nFTSE 100 opens higher but insurers and LSE slide\n", 
+                "block": "block-58b3de9ee4b08ddc9a5e4135"
+            }, 
+            {
+                "text": "\n\n7.56am GMT\n07:56\nInsurers face hit to profits after change in compensation payments\n", 
+                "block": "block-58b3da8fe4b030b6f7c8f918"
+            }, 
+            {
+                "text": "\n\n8.00am GMT\n08:00\nPrimark owner ABF upbeat\n", 
+                "block": "block-58b3d9bbe4b030b6f7c8f915"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/27/pound-under-pressure-on-new-brexit-worries-business-live?page=with:block-58b3de9ee4b08ddc9a5e4135#block-58b3de9ee4b08ddc9a5e4135"
+                ], 
+                "text": "FTSE rises despite slide in insurers and LSE.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/27/pound-under-pressure-on-new-brexit-worries-business-live?page=with:block-58b3da8fe4b030b6f7c8f918#block-58b3da8fe4b030b6f7c8f918"
+                ], 
+                "text": "UK insurers hit by change in compensation payments.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/feb/27/pound-under-pressure-on-new-brexit-worries-business-live?page=with:block-58b3d2c3e4b05f755cc0cce7#block-58b3d2c3e4b05f755cc0cce7"
+                ], 
+                "text": "Sterling hit by talk of second Scottish referendum and concerns about residency rights for EU nationals.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

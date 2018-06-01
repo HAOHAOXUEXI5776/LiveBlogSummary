@@ -1,0 +1,1744 @@
+{
+    "blog_id": "41d020e67fcd8ed507639c3f81b45f78dac85263", 
+    "title": "Tim Peake spacewalk: astronauts back inside ISS after helmet leak - live | Science | The Guardian", 
+    "url": "https://www.theguardian.com/science/live/2016/jan/15/tim-peake-spacewalk-iss-first-time-live", 
+    "summary": [
+        "and that 's a wrap .", 
+        "the spacewalk has ended .", 
+        "eva terminated .", 
+        "tim kopra has reported water in his helmet .", 
+        "first job done .", 
+        "the spacewalk begins ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-56993ec8e4b055cdc5012c81", 
+            "title": "and that 's a wrap", 
+            "text": [
+                "i think that 's enough spacefaring excitement for one day .", 
+                "there you have it : britain 's first esa astronaut has completed his first spacewalk .", 
+                "it may have ended early , but when scott kelly , the station commander , got peake out of is spacesuit , the man from chichester was grinning like a cheshire cat .", 
+                "good to see both tims safely back inside .", 
+                "thanks to all of you who joined us for what turned out to be a truly exhilarating day ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                18, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569934efe4b0c4ceadc16b9e", 
+            "title": "", 
+            "text": [
+                "scott kelly and yuri malenchenko have just pulled tim peake inside what 's called the equipment lock .", 
+                "time for tim peake to doff his spacesuit now .", 
+                "sergey volkov has taken a and i 'll bet he caught peake grinning from ear to ear ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                18, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56993367e4b055cdc50129f2", 
+            "title": "", 
+            "text": [
+                "scott kelly has retrieved 15cc of water from kopra 's helmet .", 
+                "when luca parmitano 's helmet began to fill up with water on a spacewalk in july 2013 , he ended up with 1.5 litres in there .", 
+                "a far more serious incident ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                18, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56992f72e4b0eb2378f35097", 
+            "title": "", 
+            "text": [
+                "this was the 192nd spacewalk from the international space station .", 
+                "in total , astronauts have clocked up 49 days and 23 hours on spacewalks to build and maintain the iss .", 
+                "this is kopra 's 3rd spacewalk , bringing his total to 13 hours 31 mins .", 
+                "it was the first for peake , lasting 4 hours 43 mins .", 
+                "before kopra can take his suit off , the crew will use a syringe to extract some of the water from his helmet for analysis .", 
+                "that could contain material that helps identify the cause of the leak ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56992ecee4b0eb2378f3507c", 
+            "title": "", 
+            "text": [
+                "scott kelly and sergey volkov will open the hatch to allow the tims back into the space station proper .", 
+                "they will then undergo what nasa calls an expedited doffing of their suits . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56992e0be4b0f92912f8d652", 
+            "title": "the spacewalk has ended", 
+            "text": [
+                "nasa has confirmed the end of the spacewalk at 17.31gmt .", 
+                "both astronauts are in the space station but are waiting for the airlock to re-pressurise before they can get further inside and get their suits off .", 
+                "one of the first tasks once inside will be to check kopra 's helmet .", 
+                "he did n't have much water in there , but they 'll need to know where that came from ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                38
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56992c47e4b055cdc50127c6", 
+            "title": "", 
+            "text": [
+                "kopra and peake thanked the space station team for their support in getting the station back up to full power .", 
+                "scott kelly inside the station is now taking over communications with the two astronauts .", 
+                "the airlock is still re-pressurising .", 
+                "we should see that hatch to the rest of the station open soon ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56992b9de4b0eb2378f34f6b", 
+            "title": "", 
+            "text": [
+                "the rest of the iss crew are standing by to help kopra and peake clear the airlock once it has repressurised ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-56992b37e4b0ef2847ba08c9", 
+            "title": "", 
+            "text": [
+                "the outer thermal cover is closed , with the astronauts back inside the airlock .", 
+                "the outer hatch is n't yet closed ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56992a83e4b0ef2847ba088c", 
+            "title": "", 
+            "text": [
+                "once the astronauts are back inside the station , they 'll take detailed photos of the suits .", 
+                "this is normal procedure , but obviously given leakage into kopra 's helmet , they will pay special attention to his suit .", 
+                "incidentally , he 's reported that the water bubble is n't getting bigger ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569929d9e4b0f92912f8d4da", 
+            "title": "", 
+            "text": [
+                "when kopra tasted the water , he told control that it was cold .", 
+                "it 's thought that the water has come from a cooling loop within the suit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569928b8e4b02c3e4ac77e74", 
+            "title": "", 
+            "text": [
+                "kopra has agreed and they are both back at the airlock and about to enter ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5699283de4b04fc877e4aa7f", 
+            "title": "", 
+            "text": [
+                "control want kopra to enter the airlock first , which will put peake in charge of the hatch in case kopra gets too saturated '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569927dde4b0d2b015036f74", 
+            "title": "", 
+            "text": [
+                "kopra is saying that the water pool in his helmet is about four inches long and about two inches wide ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569926e2e4b0d2b015036f27", 
+            "title": "", 
+            "text": [
+                "if you remember , back in 2013 esa astronaut luca parmitano noticed water leaking steadily into his helmet .", 
+                "since then the safety protocol has been to abort spacewalks if water appears .", 
+                "this is nowhere near as severe as that incident .", 
+                "tim peake noted that the water bubble in kopra 's helmet is less than golfball-size '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5699264be4b02c3e4ac77dc7", 
+            "title": "", 
+            "text": [
+                "nasa are emphasising that this is not an emergency , but combined with the failure of one of kopra 's co2 sensors it seems prudent to bring the crew back inside as they 've completed the main objective of today 's spacewalk ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569925cfe4b04fc877e4a9ba", 
+            "title": "eva terminated", 
+            "text": [
+                "today 's eva has been terminated - both astronauts will be returning to the airlock ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569925a1e4b0344549dc01a2", 
+            "title": "", 
+            "text": [
+                "kopra has been told to head back to the airlock ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                17, 
+                0
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5699252de4b0f5d3dc9d2a34", 
+            "title": "tim kopra has reported water in his helmet", 
+            "text": [
+                "tim kopra has a small amount of water in his helmet - the ground control have asked him to try to taste it ( partly so he can tell them what its temperature is ) it so they can ascertain where it has come from"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                59
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569921b7e4b02c3e4ac77b0a", 
+            "title": "", 
+            "text": [
+                "just a reminder of the huge variation in temperature the sunrise and sunset can bring : douglas h. wheelock ( @ astro wheels ) in direct sunlight temperatures soar to 285\u00b0f/140\u00b0c and plummet to -285\u00b0f/-175\u00b0c in eclipse .", 
+                "the crew can feel it .", 
+                "@ twitterid # asknasa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56991f3de4b0d2b015036c4e", 
+            "title": "", 
+            "text": [
+                "tim kopra has finished his valve installation .", 
+                "and just in case you missed it , here 's a video of the two tims undertaking the main repair earlier .", 
+                "and we 're just coming up to another sunrise .", 
+                "the main task of today 's spacewalk ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56991d3fe4b0d2b015036ba6", 
+            "title": "", 
+            "text": [
+                "tim peake is hard at work laying out cable that will be attached along the destiny laboratory and the harmony module .", 
+                "the cable is for new docking adaptors that will allow the arrival of future crew and commercial vehicles .", 
+                "coils of cable as seen from peake 's helmet cam ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56991bdde4b0d2b015036b27", 
+            "title": "", 
+            "text": [
+                "tim kopra has apparently done an excellent job on his task ; the control room has just made this generous promise : we 'll buy you a soda when you get home '' ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56991aade4b02c3e4ac77702", 
+            "title": "", 
+            "text": [
+                "nasa are swapping satellites so that they can view the next stages of the spacewalk , which means communications and from the iss will be temperamental for the next few minutes ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                14
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56991954e4b0344549dbfa76", 
+            "title": "", 
+            "text": [
+                "kopra is at the tranquility module preparing to start his task , which is to install a non-propulsive valve ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569915fce4b0344549dbf8b4", 
+            "title": "", 
+            "text": [
+                "peake is moving onto his next task : cable routing .", 
+                "here he is from kopra 's helmet cam .", 
+                "tim peake with earth in the background ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                16, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569911c0e4b02c3e4ac771cb", 
+            "title": "", 
+            "text": [
+                "meanwhile , peake has safely stowed the faulty unit back inside the airlock .", 
+                "nasa have made a nice gif of him making his way along to the airlock .", 
+                "intl .", 
+                "space station ( @ space station ) .", 
+                "@ astro timpeake moves across football field-sized station during # spacewalk .", 
+                "( hint : move gif with finger on mobile )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5699112fe4b02c3e4ac77155", 
+            "title": "", 
+            "text": [
+                "tim peake 's wife seems to have spotted a family snap out there in space with him rebecca peake ( @ beckspeake ) @ astro timpeake thank you for taking our boys with you into the vacuum of space \ufffd\ufffd\ufffd\ufffd\ufffd"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990f78e4b02c3e4ac7700c", 
+            "title": "", 
+            "text": [
+                "the routine glove check also showed up a small rip in the surface layer of one of kopra 's gloves , but again , no cause for concern .", 
+                "tim kopra 's helmet cam showing the small tear ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990e8ae4b0344549dbf3d2", 
+            "title": "", 
+            "text": [
+                "kopra has reported a faulty co2 sensor in his spacesuit .", 
+                "the suit is still fine , but means he is being closely monitored as a precaution ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990cade4b0344549dbf2d5", 
+            "title": "", 
+            "text": [
+                "the astronauts are asked now and then for a glove check .", 
+                "one reason is to make sure none of the spanner work or traversing has damaged them .", 
+                "a tear in a glove in the vacuum of space is not a good thing ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990c10e4b02c3e4ac76dd4", 
+            "title": "", 
+            "text": [
+                "the space station has emerged from earth 's shadow and into dazzling sunlight over the northern edge of seattle ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                13
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990a80e4b0ecd109f219d4", 
+            "title": "first job done", 
+            "text": [
+                "the replacement power unit is in place and working .", 
+                "nasa confirmed the voltage regulator , known as an ssu , has already beamed data back to earth .", 
+                "plenty more left to do before this spacewalk is over though .", 
+                "at least three more hours to go .", 
+                "kopra will be fitting a valve at a different place on the space station .", 
+                "peake has nearly 30m of cables to run out across the structure ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990982e4b0ecd109f21932", 
+            "title": "", 
+            "text": [
+                "through tim peake 's helmet cam we can see him putting the failed voltage unit into a bag for lugging back to the airlock .", 
+                "the space station will be coming out of earth 's shadow in five minutes .", 
+                "the temperature difference between darkness and light is huge .", 
+                "right now , in the dark , the temperature is -157 celsius .", 
+                "when they come into the sunlight , the temperature will rise to 121 celsius ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                15, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569908fae4b0ecd109f218ee", 
+            "title": "", 
+            "text": [
+                "the unit 's in place .", 
+                "they are now running checks from nasa 's johnson space center in houston .", 
+                "while that 's going on , the tims get to tidying up ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-569908b5e4b01b84906e9a49", 
+            "title": "", 
+            "text": [
+                "here 's why you want to get a tight fit on that power unit : esa operations ( @ esaoperations ) getting a correct fit is paramount .", 
+                "any play could cause high-voltage sparks .", 
+                "everything going smoothly .", 
+                "# spacewalk"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5699069ee4b01b84906e9910", 
+            "title": "", 
+            "text": [
+                "the broken power unit looks fine from the outside , so odds are that the fault is down to a short circuit inside the box of electronics .", 
+                "kopra and peake are trying to verify that the replacement is fully installed .", 
+                "it 's a bit loose , so kopra is going to use the wrench to tighten it up a bit more .", 
+                "they 've got 17 minutes left in darkness .", 
+                "need to be clear well before the end of the window ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990445e4b0062d20374624", 
+            "title": "", 
+            "text": [
+                "the two astronauts have already flown around the planet once during this spacewalk .", 
+                "now working in darkness under the light of their helmet lamps , they have now removed the power unit .", 
+                "kopra holds it up fo peake to inspect - he 's looking any charring or problems with the unit 's electrical connectors that might have caused it to fail .", 
+                "peake says there 's no sign of charring or broken or bent pins .", 
+                "problem must have been internal .", 
+                "a view from tim kopra 's helmet cam : you can see tim peake 's lights and flag shining in the darkness ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5699039fe4b01b84906e973e", 
+            "title": "", 
+            "text": [
+                "nasa 's ground staff expect communications to get a little shaky for five minutes or so as the space station moves into darkness .", 
+                "tim kopra is ready with a pistol-grip screwdriver to start work on removing that broken voltage regulator .", 
+                "the two astronauts want to the get the dud unit out and the new one in well within the 31-minute window that 's coming up ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5699034ee4b0062d203745a1", 
+            "title": "", 
+            "text": [
+                "esa operations has the answer for what happens when the astronauts need the toilet : absorbent pads ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-56990169e4b0ecd109f2145a", 
+            "title": "", 
+            "text": [
+                "one of the bookies is getting in on the act by putting out some peake-related odds .", 
+                "they have him at 1/2 for a knighthood by 2020 .", 
+                "and 33/1 to be the first man on mars .", 
+                "nice idea , but that is not going to happen ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-569900b6e4b0062d20374444", 
+            "title": "", 
+            "text": [
+                "the astronauts are now a quarter way through their spacewalk .", 
+                "food is n't an option while they are out there , but they do have a little straw that they can drink water through ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698fd66e4b0ecd109f21231", 
+            "title": "", 
+            "text": [
+                "we have about 20 minutes now before the space station goes into the earth 's shadow and the tims can start to remove the broken regulator and replace it with the new one .", 
+                "it 's a 31 minute window from 14.37gmt to 15.08gmt during which the solar array hooked up to the power unit wo n't be in sunlight and so wo n't be generating electricity .", 
+                "you do n't want to be handling one those things when the current is on .", 
+                "tim peake ( right ) taking a of tim kopra .", 
+                "menzies/afp/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                14, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698f973e4b0062d20374040", 
+            "title": "", 
+            "text": [
+                "must say it 's really quite breathtaking to watch them working through their helmet cams and then to glimpse earth sat there , all huge and blue , in the background .", 
+                "what .", 
+                "a .", 
+                "view .", 
+                "earth through a helmet cam .", 
+                "/pa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698f932e4b0ecd109f20f77", 
+            "title": "", 
+            "text": [
+                "the space station will head into earth 's shadow in about 47 minutes , so that 's when they 'll be aiming to remove and replace the power unit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698f7fbe4b0ecd109f20ed6", 
+            "title": "", 
+            "text": [
+                "kopra has made it to the far end of the main truss - a traverse of about 200ft - and now has to sort out the tools he 'll need to remove the faulty power unit .", 
+                "we should see him grab a foot restraint too , which he ; ll use to steady himself while he works .", 
+                "peake has been given the green light to continue on the way .", 
+                "he should be with kopra pretty soon .", 
+                "the space station is just west of bermuda right now .", 
+                "kopra 's helmet camera has a 17 in the bottom righthand corner .", 
+                "peake 's has a number 20 .", 
+                "tim kopra installing the foot restraint and attaching equipment for the repairs .", 
+                "/pa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698f620e4b01b84906e8f4c", 
+            "title": "", 
+            "text": [
+                "peake has been asked to hold still while nasa staff on the ground check whether a safety tether got snagged .", 
+                "peake says all looks good , with his going over the top of kopra 's .", 
+                "ground staff are discussing it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698f5f2e4b0ecd109f20d90", 
+            "title": "", 
+            "text": [
+                "no more than a guess , but i doubt peake will be checking twitter for a while ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698f587e4b01b84906e8ef7", 
+            "title": "", 
+            "text": [
+                "good luck wishes have arrived from paul mccartney !", 
+                "paul mccartney ( @ paulmccartney ) good luck @ twitterid timpeake we 're all watching , no pressure !", 
+                "wishing you a happy stroll outdoors in the universe .", 
+                "all the best , pmc # spacewalk"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698f46be4b0062d20373dab", 
+            "title": "", 
+            "text": [
+                "nice exchange between the two tims : kopra : how are you doing ? ''", 
+                "peake : fine .", 
+                "just hanging out . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698f35ee4b01b84906e8dbd", 
+            "title": "", 
+            "text": [
+                "the space station is roughly the size of a football field .", 
+                "most of that is taken up by the 16 massive solar panels .", 
+                "inside , there 's as much room as you 'd find in a five bedroom house .", 
+                "the astronauts inside can work all day without seeing another crew member , though they usually meet up for meals .", 
+                "when the space station is in darkness , the tims will work under the light from their spacesuits .", 
+                "they witness a sunrise and sunset every 90 minutes ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698f105e4b0ecd109f20a96", 
+            "title": "", 
+            "text": [
+                "all of this is taking place at 17,500mph .", 
+                "you need to go that fast - at this altitude - to remain in orbit .", 
+                "peake and kopra are not floating around because they are beyond the pull of gravity .", 
+                "they seem weightless because they are constantly falling around the planet .", 
+                "the space station is moving so fast that it never hits the ground ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                18
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698efdfe4b01b84906e8baf", 
+            "title": "", 
+            "text": [
+                "the space station is soaring 250 miles over australia and the two tims are 15 minutes ahead of schedule .", 
+                "they have set their spacesuits to maximum cool - of course - to see what that feels like , before dialling it back to a comfortable temperature .", 
+                "they are checking they have all their bags and tools before heading down the 200ft long starboard truss when that faulty power unit needs to be replaced ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698ee6be4b0ecd109f208f8", 
+            "title": "", 
+            "text": [
+                "nasa voice ( wiseman ?", 
+                ") : tim , it 's really cool to see that union flag go out .", 
+                "it 's explored all over the world , now it 's explored space . ''", 
+                "peake : it 's great to be wearing it , a real privilege . ''", 
+                "a video of tim peake emerging from the iss into space ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698ed4ee4b0062d203739be", 
+            "title": "", 
+            "text": [
+                "the bag floating around by the airlock contains the replacement voltage regulator that tim peake will carry down to the far end of the space station .", 
+                "there are also cables that will be strung across the destiny lab and the harmony module as part of the electrics for the international docking adaptor , which private companies such as spacex will use to dock their own vessels in future ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                13, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698eb82e4b01b84906e88e8", 
+            "title": "the spacewalk begins", 
+            "text": [
+                "the hatch has opened !", 
+                "the spacewalk is officially underway .", 
+                "first to emerge is nasa 's tim kopra ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                56
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698eaece4b0ecd109f206f1", 
+            "title": "", 
+            "text": [
+                "peake is now moments away from climbing outside the international space station .", 
+                "tim kopra will embark first from the quest airlock for what will be his third spacewalk .", 
+                "peake will follow .", 
+                "nasa build in a moment for the astronauts to gain their bearings before they get on with the hard work ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698e1f2e4b0062d20373426", 
+            "title": "", 
+            "text": [
+                "peake trained hard for spacewalking duties .", 
+                "before he left earth , he described how much he enjoyed virtual-reality simulations of spacewalks and even practising the emergency manoeuvre of using a one-shot jetpack to fly back to the station after falling off .", 
+                "outside the station , astronauts wear a jetpack called safer ( simplified aid for eva rescue ) .", 
+                "in vr training , the instructors make you tumble off the space station to see if you survive .", 
+                "to get back on , you have to orientate yourself and fire your jetpack .", 
+                "it is not as easy as george clooney makes it look in gravity .", 
+                "here 's what peake had to say about using safer : it 's a very difficult task , but i love it as a pilot because it requires a lot of coordination and you have minimum fuel .", 
+                "you have one shot to get yourself back safely , '' peake said .", 
+                "a couple of times i did n't make it back , and then i got to grips with how this thing flew , and since then , touch wood , i 've been ok ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698df50e4b01b84906e817f", 
+            "title": "", 
+            "text": [
+                "it looks like tim is taking it all in his stride .", 
+                "tim peake ( @ astro timpeake ) popping outside for a walk tomorrow .", 
+                "exhilarated - but no time to dwell on emotions .", 
+                "# spacewalk # principia # blog"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                41
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698e2a2e4b0062d2037346f", 
+            "title": "", 
+            "text": [
+                "astronauts laugh in the face of danger .", 
+                "or to phrase it more accurately , they fully assess the risks of a proposed mission and then mitigate them until they lie within acceptable parameters .", 
+                "in short , things can and do go wrong .", 
+                "in 1965 , alexei leonov was making a name for himself by performing the world 's first spacewalk when he hit a snag .", 
+                "in the vacuum of space , his spacesuit puffed up so much that he could no longer fit through the airlock to get back in .", 
+                "he had to release some air into space and only just got back inside after suffering the bends .", 
+                "that was n't the end of his adventures .", 
+                "when the crew finally landed , they were well off course , in the middle of a forest , and had to hunker down to avoid bears .", 
+                "in 2001 , bowie-playing canadian , chris hadfield , felt a stinging in one eye during a spacewalk .", 
+                "before long , both eyes were affected and filled with tears .", 
+                "in orbit , they do not fall and formed every larger blobs on his face .", 
+                "in the end , his vision cleared and he could continue the spacewalk .", 
+                "the problem was caused by hadfield 's over-zealous cleaning of his visor the night before - some cleaning fluid was left over and got into his eyes .", 
+                "in 2013 , esa astronaut luca parmitano noticed water leaking steadily into his helmet .", 
+                "mission controllers aborted the spacewalk and parmitano got back to the space station , but was struggling to see or hear because so much water had poured into his helmet ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698dda2e4b01b84906e8076", 
+            "title": "", 
+            "text": [
+                "nasa has released this animation to explain the 6hrs 20mins spacewalk schedule in more detail : lead spacewalk officer for u.s. eva # 35 paul dum walks through the tasks for the planned 6.5 hour spacewalk .", 
+                "set to be performed by nasa astronaut tim kopra and tim peake on jan. 15 , 2016 , the spacewalk will focus on the replacement of a failed voltage regulator to restore the space station 's power generation system to full functionality ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698db01e4b0ecd109f1fcf4", 
+            "title": "", 
+            "text": [
+                "the two tims have to wait for the space station to fly into the earth 's shadow before they can remove and replace the broken voltage unit .", 
+                "that 's to ensure the station 's huge solar panels are in darkness and not generating electricity while they are pulling the old unit out and putting the new one in .", 
+                "they have three 31-minute slots while the station is in darkness , but will aim to get the work done in the first of these .", 
+                "once the new voltage regulator is in place , the pair will crack on with different jobs .", 
+                "tim kopra 's next task is to install a valve at a different location on the space station .", 
+                "tim peake has to squeeze through some tight spots to lay nearly 30m of fresh cables .", 
+                "one of the big challenges for peake will be not getting snagged on other cables as me moves around .", 
+                "spacewalking astronauts mostly use their hands to clamber around the space station 's exterior .", 
+                "as they move , they have to keep their hands and feet clear of fragile equipment , and must remain tethered at all times .", 
+                "when they stop to work , they can use foot restraints to stabilise themselves .", 
+                "kopra will use one to steady himself while he removes that faulty power unit ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698d720e4b0ecd109f1faa9", 
+            "title": "", 
+            "text": [
+                "here is what tim peake and his nasa partner , tim kopra , have planned for today 's spacewalk .", 
+                "the main job is to replace a faulty voltage regulator which broke in november .", 
+                "kopra will be first to make his way to the work site at the far end of the space station .", 
+                "when he gives the go signal , peake will follow carrying a replacement unit .", 
+                "it 's a large box of electronics , about the size of a suitcase .", 
+                "during the spacewalk , the astronauts and support staff on the ground will refer to the unit as an ssu , for sequential shunt unit .", 
+                "tim kopra is ev1 and will wear red stripes .", 
+                "tim peake is ev2 and will wear white stripes .", 
+                "one voice we can expect to hear throughout is nasa astronaut reid wiseman who is in houston to provide support .", 
+                "he did a couple of similar spacewalks back in 2014 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                12, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5698d6bce4b0062d20372e49", 
+            "title": "", 
+            "text": [
+                "another experienced astronaut , piers sellers , who was born in crowborough , about 50 miles from tim peake 's birthplace of chichester , did his first spacewalk in 2002 .", 
+                "here is what he had to say about the extravehicular activities '' or evas : for most astronauts , eva is the holy grail , the thing you most want to do at some point in your career .", 
+                "it was certainly that way for me .", 
+                "i was incredibly fortunate in getting to do six spacewalks , 41 hours altogether , and i can remember almost every minute of them .", 
+                "looking at earth through the viewports of a shuttle or the iss is a bit like looking into an aquarium through a window .", 
+                "during an eva , you are in the aquarium .", 
+                "if you look straight ahead through your visor , you ca n't see the edges of your helmet , and it 's like you are hanging there 220 miles above the earth , moving at 5 miles per second ( 60 seconds from lands end to dover ) , seeing over a thousand miles in every direction .", 
+                "people have referred to it as the gods eye view .", 
+                "eva is hard work too .", 
+                "the suit and particularly the gloves , resist your movements .", 
+                "one of my friends described it as trying to do watch repair , while wearing oven mitts and falling off an infinitely high building .", 
+                "but excellent training and the right tools make it work ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                11, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698d524e4b0ecd109f1f988", 
+            "title": "", 
+            "text": [
+                "what is it like to spacewalk ?", 
+                "here are some thoughts from astronauts i spoke to in recent days .", 
+                "first up , jeff hoffman , who performed his first space walk 30 years ago when a satellite deployed by the space shuttle failed to switch on properly : when i went outside , i remember thinking to myself 'boy , this really feels like when i was training underwater ' , and then i turned over and there was the earth and the sky and i thought oh .", 
+                "you 're not in the water tank any more . '", 
+                "going into space is a great thing , but to go outside is to really have your dream come true .", 
+                "the windows give you a very nice view , but that 's nothing to going out in your helmet and being surrounded by the whole universe and looking at your hand and realising that between it and your face is a vacuum ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                11, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5698d2e0e4b0062d20372c4b", 
+            "title": "", 
+            "text": [
+                "britain 's first astronaut with the european space agency heads into the void today on what many in the business regard as the high point of life in orbit .", 
+                "tim peake was desperately keen to be selected for spacewalking duties , so today is a big moment for him .", 
+                "the views , no doubt , will be spectacular .", 
+                "but peake and his partner have a busy schedule that begins the moment they clamber out and ends more than six hours later .", 
+                "join us as we follow their progress ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                1, 
+                15, 
+                11, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "science", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n6.50pm GMT\n18:50\nAnd that's a wrap\n", 
+                "block": "block-56993ec8e4b055cdc5012c81"
+            }, 
+            {
+                "text": "\n\n5.38pm GMT\n17:38\nThe spacewalk has ended\n", 
+                "block": "block-56992e0be4b0f92912f8d652"
+            }, 
+            {
+                "text": "\n\n5.01pm GMT\n17:01\nEVA terminated\n", 
+                "block": "block-569925cfe4b04fc877e4a9ba"
+            }, 
+            {
+                "text": "\n\n4.59pm GMT\n16:59\nTim Kopra has reported water in his helmet\n", 
+                "block": "block-5699252de4b0f5d3dc9d2a34"
+            }, 
+            {
+                "text": "\n\n3.06pm GMT\n15:06\nFirst job done\n", 
+                "block": "block-56990a80e4b0ecd109f219d4"
+            }, 
+            {
+                "text": "\n\n12.56pm GMT\n12:56\nThe spacewalk begins\n", 
+                "block": "block-5698eb82e4b01b84906e88e8"
+            }
+        ], 
+        "bulletin": [
+            {
+                "text": "The main task was completed right on schedule, but both astronauts were ordered to return inside after water appeared in Tim Kopra's helmet.", 
+                "type": "p", 
+                "key_points": [], 
+                "link": [
+                    "https://www.theguardian.com/science/2016/jan/15/astronaut-tim-peake-kopra-spacewalk-international-space-station"
+                ], 
+                "time": ""
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,779 @@
+{
+    "blog_id": "80c591f6e182ab062605a10380fab9687d7d906e", 
+    "title": "BBC Local Live: Nottinghamshire on Wednesday 15 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-nottinghamshire-38975236", 
+    "summary": [
+        "updates for wednesday 15 february 2017 .", 
+        "hate crime in nottinghamshire rose after eu referendum .", 
+        "sneinton road closed after gas leak .", 
+        "doctor 's surgery closure leaves 3,000 patients without gp .", 
+        "news , sport , travel and weather updates resume at 08:00 thursday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a48ac3e4b01d0ca871d748", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for nottinghamshire have finished for the day but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a48aa6e4b01d0ca871d747", 
+            "title": "weather : odd showers tonight", 
+            "text": [
+                "radar showing the rain this afternoon but it will be mostly dry tonight , just the odd shower .", 
+                "patchy cloud , with some mist and fog patches later ."
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a48fdbe4b08db782bc0516", 
+            "title": "missing woman found", 
+            "text": [
+                "we told you earlier about 21-year-old jodie morgan who was reported missing from nuthall last night .", 
+                "police said she has now been `` found safe and well '' ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a48904e4b01d0ca871d742", 
+            "title": "trams recover from technical fault", 
+            "text": [
+                "a technical issue has caused delays on the trams throughout the day but nottingham express transit ( net ) says they are now `` back on schedule '' .", 
+                "update , we are back on schedule now , thank you for your patience today , we wish you a safe journey home", 
+                "your noticeboard at the tramstop doesnt say that", 
+                "hi jodie are you talking about the pid display sign ?", 
+                "yes just thought i 'd let you know at 5:30 it still said delays to all services", 
+                "hi jodie , thank you we are just changing this .", 
+                "have a great evening .", 
+                "34 min wait at clifton south !", 
+                "that 's on time ?", 
+                "all the trams are on time mark there is a tram departing now", 
+                "signs all screwed up ?", 
+                "ill get that reported mark .", 
+                "sorry"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a486bfe4b08db782bc04f8", 
+            "title": "east midlands airport sees increase in passengers", 
+            "text": [
+                "east midlands airport has seen a 15 % increase in passenger numbers so far this year .", 
+                "last month nearly 220,000 people travelled through the airport , around 30,000 more than in january 2016 .", 
+                "in total , 4.6 million people walked through its doors last year ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a474e3e4b01d0ca871d6ea", 
+            "title": "mp speaks from refugee camp in jordan", 
+            "text": [
+                "ms soubry spoke to bbc east midlands today 's jeremy ball earlier from jordan and said she was out there because she wanted to help .", 
+                "she said : `` these are just human beings they did not create the situation they are in .", 
+                "they have been bombed out of their homes . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a47286e4b01d0ca871d6e2", 
+            "title": "mp visiting syrian refugees", 
+            "text": [
+                "broxtowe mp anna soubry has been speaking to us from jordan , close to the syrian border , where she 's gone to see how millions of refugees are living in the camps there .", 
+                "she 's visiting with a charity that 's sending british aid donations to the refugees ."
+            ], 
+            "author": [
+                "Jeremy Ball", 
+                "Social affairs correspondent, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a47070e4b08db782bc049b", 
+            "title": "engineers still working on sneinton gas leak", 
+            "text": [
+                "we 've had an update from the national grid on the earlier gas leak in sneinton .", 
+                "a spokeswoman said their engineers are working on a permanent repair for the damaged pipe on the building site of the new lidl supermarket ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10383136", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a457b9e4b01d0ca871d661", 
+            "title": "students say city is best in uk", 
+            "text": [
+                "nottingham was the highest ranking uk university in qs 's new student view category , based on ratings from students and recent graduates .", 
+                "the city ranked sixth in the world in this category .", 
+                "`` gaining a particularly high score for tolerance and inclusion , nottingham also ranks well for ease of getting around , arts and culture and friendliness , '' it said .", 
+                "`` survey respondents praise its student-focused college-town feel '' , green spaces , nightlife , and comparative affordability in the uk context . ''"
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a455e8e4b01d0ca871d655", 
+            "title": "nottingham in top 50 world student cities", 
+            "text": [
+                "nottingham is the 43rd best city for students in the world , according to the qs best student cities rankings out today .", 
+                "it 's one of only a handful of british cities in the top 50 .", 
+                "qs said students are impressed by nottingham 's `` award-winning public transport '' , entertainment , history and culture .", 
+                "montreal took the top spot , beating paris , which has held the title for four years ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a443ffe4b01d0ca871d604", 
+            "title": "artists announced for dot to dot festival", 
+            "text": [
+                "the first wave of artists has been announced for this year 's dot to dot festival in nottingham .", 
+                "among those at the top of the bill is nottingham band , amber run , who featured on bbc introducing a few years ago ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "22:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a45428e4b08db782bc040c", 
+            "title": "'all professionals involved should have met to discuss shanay '", 
+            "text": [
+                "it is thought at least 10 safeguarding referrals about shanay walker were made .", 
+                "dr emma fillmore , a consultant paediatrician told the court she had no contact with the seven-year-old but gave an overview of the case .", 
+                "she said , given the evidence of her injuries , all the professionals involved should have met to discuss it and that such a meeting would happen now .", 
+                "the coroner said : `` communication channels failed miserably between the school , local authority and health professionals . ''", 
+                "the inquest continues ."
+            ], 
+            "author": [
+                "Simon Ward", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a452fbe4b080b4e83a9035", 
+            "title": "shanay walker inquest : information 'withheld from council '", 
+            "text": [
+                "a coroner has said communication between professionals `` failed miserably '' before the death of a seven-year-old girl from nottingham .", 
+                "shanay walker died with more than 50 injuries in july 2014 .", 
+                "her aunt and grandmother are serving prison sentences for cruelty .", 
+                "at an inquest in nottingham , coroner mairin casey said : `` there is evidence that information was withheld from the local authority in the months before she died . ''"
+            ], 
+            "author": [
+                "Simon Ward", 
+                "East Midlands Today Reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a43c9ae4b080b4e83a8fc7", 
+            "title": "your questions : why are there columns on market square buildings ?", 
+            "text": [
+                "terry bartlam used your questions to ask : `` why are most of the buildings on long row , in nottingham 's market square , supported on columns ? ''", 
+                "it 's a great question that takes us back to the medieval origins of the market place , according to frank earp from nottingham hidden history team .", 
+                "back then , as now , there were strict laws restricting building in the market square , mr earp said .", 
+                "eager to expand their businesses , stallholders got round this by building their timber stalls upwards - supporting the larger , overhanging upper storeys with wooden struts .", 
+                "by victorian times , these structures had been replaced with brick buildings and the wooden struts became the stone columns we see today , creating a colonnade shoppers can walk under .", 
+                "for more of nottingham in times gone by , visit picture the past 's website ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "21:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a44504e4b080b4e83a8ff5", 
+            "title": "loans taken out in county for first homes", 
+            "text": [
+                "just over 2,000 loans have been taken out in nottinghamshire under the government 's help to buy scheme .", 
+                "the equity loans help first-time buyers with up to 20 % of the cost of buying a new home .", 
+                "research reveals more than a quarter of those loans in nottinghamshire were in ashfield and the least popular area was broxtowe ."
+            ], 
+            "author": [
+                "BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a43fece4b08db782bc03b1", 
+            "title": "concerns for missing woman", 
+            "text": [
+                "police say they 're concerned for 21-year-old jodie morgan who was reported missing from nuthall last night .", 
+                "she was last seen about 20:30 ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a441d3e4b08db782bc03bc", 
+            "title": "traffic running again in sneinton", 
+            "text": [
+                "the cordon has now been taken down and traffic is back to normal ."
+            ], 
+            "author": [
+                "Elise Chamberlain", 
+                "East Midlands Today reporter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a43e20e4b01d0ca871d5e8", 
+            "title": "quicker than we were expecting", 
+            "text": [
+                "carlton road has now reopened in both directions after earlier gas leak repaired"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a43a1fe4b01d0ca871d5d0", 
+            "title": "road to re-open in the next hour", 
+            "text": [
+                "there is still an 80m cordon around king edward park on carlton road , with around 65 residents and children at a nearby nursery evacuated .", 
+                "i 've been told by workmen at a new lidl supermarket site that a digger fractured a gas pipe and they immediately called the fire service .", 
+                "fire station manager , andy lindley said they hoped to re-open the road in the next hour ."
+            ], 
+            "author": [
+                "Hayley Compton", 
+                "Reporter, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a43876e4b080b4e83a8fb2", 
+            "title": "area around sneinton 'now safe '", 
+            "text": [
+                "the fire service says the gas main on carlton road , sneinton has now `` been plugged '' which has helped `` stem the leak '' .", 
+                "they said the area was now safe but the road and stonebridge road would stay closed for a bit longer ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "19:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a4314ae4b080b4e83a8f91", 
+            "title": "engineers working on gas leak", 
+            "text": [
+                "we 've had a statement from national grid on the carlton road gas leak .", 
+                "a spokeswoman said they were called at about 08:30 and engineers are on site trying to fix the problem , which is thought to have been caused by workers hitting a low pressure gas main pipe ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a42eeae4b01d0ca871d59f", 
+            "title": "mapperley residents warned about sneinton gas leak", 
+            "text": [
+                "nottinghamshire fire and rescue has warned that residents as far as mapperley may be able to smell gas after the leak in sneinton .", 
+                "people have been told to keep their windows and doors closed .", 
+                "meanwhile , residents around the 50m cordon in carlton road have been taken to russell youth centre ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a42af6e4b01d0ca871d57e", 
+            "title": "problems on the trams", 
+            "text": [
+                "disruption to service : due to a technical issue we have a disruption to all services .", 
+                "hucknall and phoenix are running to the station .", 
+                "must be costing a fortune , good job you 've got the parking levy !", 
+                "!"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a42ad4e4b080b4e83a8f72", 
+            "title": "police working to increase hate crime reports", 
+            "text": [
+                "on the hate crime story , nottinghamshire 's police and crime commissioner paddy tipping said they have been trying to get more people to report it .", 
+                "`` we are keen to get reporting levels up so we are doing a lot across the county , '' he said .", 
+                "mr tipping said a lot of the reports they had received were race hate crimes from the polish and eastern european communities , as well as religious hate crime from people of muslim background .", 
+                "`` we need to send a strong message that we wo n't tolerate this kind of behaviour in nottinghamshire , '' he added .", 
+                "`` it is unacceptable . ''"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a42697e4b01d0ca871d56c", 
+            "title": "fire service urges people to avoid sneinton", 
+            "text": [
+                "please rt : crews and specialist officers are currently dealing with a gas leak on # carltonroad , # nottingham - please avoid the area !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "18:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a424e1e4b01d0ca871d566", 
+            "title": "street closed over gas leak", 
+            "text": [
+                "here 's a photo of the area of carlton road , sneinton that is affected ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a42367e4b01d0ca871d564", 
+            "title": "properties being evacuated", 
+            "text": [
+                "a 50m cordon has now beet set up around carlton road and nottinghamshire fire and rescue said they are preparing to evacuate properties nearby .", 
+                "police are also at the scene .", 
+                "a 50 metre cordon is currently being set up on # carltonroad - with specialist officers in attendance .", 
+                "please avoid the area !", 
+                "( 2/2 )"
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a42129e4b01d0ca871d550", 
+            "title": "goals galore last night", 
+            "text": [
+                "both notts county and the stags launched late fightbacks last night .", 
+                "two goals in the last two minutes rescued a point for notts against exeter , while mansfield drew 4-4 at home to accrington stanley .", 
+                "stags manager steve evans said : `` it was as bad of a defensive performance i 've seen and when you score four at home you should win . ''"
+            ], 
+            "author": [
+                "Christian Hewgill", 
+                "Reporter, BBC Radio Nottingham"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a41f5ce4b080b4e83a8f33", 
+            "title": "'caution needed with hate crime figures '", 
+            "text": [
+                "there 's no doubt there was a spike after the brexit vote , but the long-term wo n't become clear for months .", 
+                "and if 2016 turns out to be a record year , there still needs to be some caution about what the figures mean - .", 
+                "because of the complicated way hate crimes are counted .", 
+                "sexual offences rose in recent years thanks to more people coming forward to report what had happened .", 
+                "if there is a long-term rise in hate crime recorded by police , it may simply reflect that victims have more confidence that it is worth speaking to the police ."
+            ], 
+            "author": [
+                "Dominic Casciani", 
+                "Home Affairs Correspondent"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a41e23e4b08db782bc030a", 
+            "title": "reports of hate crime increased after brexit vote", 
+            "text": [
+                "nottinghamshire was one of the areas in the country that saw the biggest rise in reports of hate crime in the months after the eu referendum .", 
+                "the data , compiled by the press association , has come from police forces across the country with figures covering july to september last year ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:35"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a41fb5e4b080b4e83a8f36", 
+            "title": "travel : sneinton road closed", 
+            "text": [
+                "emergency road closure : carlton road closed in both directions near king edward park due to gas leak .", 
+                "emergency services on scene", 
+                "details of the diversions to buses are here :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a4168fe4b080b4e83a8f05", 
+            "title": "'hands off brereton ' says brazil", 
+            "text": [
+                "despite defeat at fulham last night , a second goal in as many games for ben brereton means the 17-year-old is making quite a name for himself .", 
+                "but reds boss gary brazil said : `` he 's not going anywhere .", 
+                "he 's a nottingham forest player .", 
+                "there might well come a point where we need to move ben on , but that 's not happening for a long , long time yet . ''"
+            ], 
+            "author": [
+                "Christian Hewgill", 
+                "Reporter, BBC Radio Nottingham Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a414f8e4b080b4e83a8efe", 
+            "title": "watch : today 's weather outlook", 
+            "text": [
+                "watch : today 's weather outlook"
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a412cae4b01d0ca871d504", 
+            "title": "your photos : blue skies today", 
+            "text": [
+                "it 's grey over nottingham at the moment but our weather watcher annbie has managed to grab a shot of some blue skies over warsop ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a4126ce4b01d0ca871d500", 
+            "title": "patients want to keep gp practice open", 
+            "text": [
+                "dr ghaharian 's patients have to find a new practice by the end of the month after the local clinical commissioning group decided not to replace the gp at the centre .", 
+                "steve lowe from the patient participation group said they are not being told what is happening and no-one is `` engaging '' with them .", 
+                "they 're going to hold a demonstration later to persuade bosses to keep the practice open ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58a41103e4b080b4e83a8ee5", 
+            "title": "gp surgery closure in wollaton", 
+            "text": [
+                "the retirement of a gp in wollaton vale is causing a bit of a stir with his 3,000 patients , who are having to find somewhere else to go .", 
+                "dr ghaharian is the only gp at the wollaton vale health centre and it 's closing in a few weeks as he prepares to hang up his stethoscope ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "16:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a40cb8e4b08db782bc02ab", 
+            "title": "travel : mansfield woodhouse accident", 
+            "text": [
+                "leeming lane north in mansfield woodhouse is partially blocked at the junction with marples avenue this morning because of an accident involving a cyclist ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58a40abbe4b080b4e83a8ec7", 
+            "title": "join us for today 's updates", 
+            "text": [
+                "good morning and happy hump day !", 
+                "today we 're talking roller discos and about a wollaton gp surgery closing ."
+            ], 
+            "author": [
+                "Sandish Shoker", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "16:01"
+        }
+    ], 
+    "genre": "uk-england-nottinghamshire", 
+    "quality": "high"
+}

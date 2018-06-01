@@ -1,0 +1,811 @@
+{
+    "blog_id": "63f9d74fb88b0969ceb95f6adf2d83150d254ffc", 
+    "title": "Storm Doris: As it happened - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-39068972", 
+    "summary": [
+        "storm doris has led to flight cancellations and road and rail disruption across much of britain .", 
+        "a woman has died in wolverhampton after suffering head injuries when a piece of debris fell on to a street .", 
+        "thousands of homes and businesses were left without power in northern ireland , wales and yorkshire .", 
+        "met office severe weather warnings of wind , snow and ice cover almost the entire uk ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af3139e4b07f8d679fe2f8", 
+            "title": "commuter delays", 
+            "text": [
+                "storm doris has caused disruption through the day .", 
+                "and commuters are now facing long delays on roads and the railways - with most train operators reporting cancellations and slower-running services .", 
+                "we 're going to end our live coverage here , but you can keep up to date with the latest developments in our news story ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af2e7ee4b07f8d679fe2f4", 
+            "title": "severn crossing reopens", 
+            "text": [
+                "all restrictions removed on # m48 # severncrossing and bridge open to all traffic in both directions wind speeds subsided .", 
+                "have a safe journey"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "00:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af2e65e4b0ec68546e004d", 
+            "title": "amber warnings", 
+            "text": [
+                "weather forecasters expect the stormy conditions to subside in the next few hours .", 
+                "met office amber warnings predicting strong winds and heavy rain are in place for north wales , the midlands , the east and the north west and london until 20:00 gmt .", 
+                "officials said gusts of 60mph-70mph were possible , with 70mph-80mph expected on coasts and hills ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af2a65e4b0ec68546e0045", 
+            "title": "12,000 homes without power in suffolk", 
+            "text": [
+                "uk power networks say 12,030 homes are without power in suffolk .", 
+                "in total , around 40,000 homes are without power across east anglia ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af295fe4b07f8d679fe2e8", 
+            "title": "euston to remain open overnight", 
+            "text": [
+                "euston station will remain open tonight for customers waiting to travel tomorrow , due to the major disruption caused by # stormdoris"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af2824e4b07f8d679fe2e5", 
+            "title": "wolverhampton victim 29 years old", 
+            "text": [
+                "west midlands police say the family of the woman who died in wolverhampton have been informed and are being supported .", 
+                "a spokeswoman said the victim was 29 years old and had been `` struck '' by wooden debris from a building .", 
+                "officers are working with wolverhampton council to establish how the incident happened , she said .", 
+                "she added : `` the area remains cordoned off while investigations are ongoing . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af2629e4b0ec68546e003a", 
+            "title": "police in doris scam warning", 
+            "text": [
+                "northumbria police are warning that bogus callers may use storm doris as an excuse to scam homeowners .", 
+                "`` on wednesday officers received two reports of men claiming to be builders knocking on doors of homes in the heaton area , '' the force said .", 
+                "`` on both occasions the men told the elderly occupants that they needed repairs doing to their roofs and chimneys and could do the work cash-in-hand .", 
+                "`` if anyone gets any callers at their door offering building work then do not let them into your home .", 
+                "`` do not hand over any money and never assume a cold-caller is telling the truth . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af23bae4b07f8d679fe2da", 
+            "title": "tree down in regent 's park , london", 
+            "text": [
+                "tree down in regent 's park , london"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af22f9e4b0ec68546e002d", 
+            "title": "ferry cancellation", 
+            "text": [
+                "irish sea update : the 15:00 dublin to liverpool is cancelled due to # stormdoris .", 
+                "passengers will be accommodated on the 21:30"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af1ffde4b07f8d679fe2cb", 
+            "title": "another lucky escape", 
+            "text": [
+                "reader matthew saxby has sent in this of his friend hugo 's van .", 
+                "it was taken in west drayton , london , at around 13:00 gmt .", 
+                "`` hugo was sitting in his van sipping a coffee when a tree was blown over , '' says matthew .", 
+                "`` he survived , the coffee and van did n't . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1ebde4b0ec68546e0022", 
+            "title": "dashcam captures falling tree near miss", 
+            "text": [
+                "dashcam footage from driving instructor paul smith shows a narrow escape from a falling tree in spalding , lincolnshire"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af1bbbe4b0ec68546e0014", 
+            "title": "tree falls at art gallery", 
+            "text": [
+                "this tree came down at the serpentine gallery in hyde park , london ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af17abe4b0ec68546e0003", 
+            "title": "debris from tube station roof", 
+            "text": [
+                "more on the incident in central london where a man was taken to hospital with reported head injuries .", 
+                "it has emerged he was hit debris which fell from the roof of the new tube entrance at victoria station .", 
+                "a london ambulance service spokesperson said the man was treated by paramedics at the scene before being taken to hospital .", 
+                "london fire fighters placed a cement bag on the roof of the tube entrance to prevent further damage ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af1536e4b0ec68546dfffa", 
+            "title": "carport roof collapse", 
+            "text": [
+                "west midlands ambulance service said a woman driver in her 60s had been taken to hospital after being hit by a carport roof in hartshill , stoke-on-trent .", 
+                "a spokesman said : crews were told the roof fell down and hit the woman , which subsequently caused her to collide with a wall . ''", 
+                "she was treated for a serious head injury and was said to also be suffering from a slightly reduced level of consciousness ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af13c7e4b07f8d679fe290", 
+            "title": "trees downed across country", 
+            "text": [
+                "some damage that our engineers are seeing from # stormdoris"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af12e7e4b08b1f7dede3bc", 
+            "title": "toppled double-decker photo", 
+            "text": [
+                "police have issued a photograph of the double-decker bus toppled by high winds in wisbech , cambridgeshire .", 
+                "fifteen people were treated at the scene and 11 taken to hospital with minor injuries ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0dfde4b08b1f7dede39e", 
+            "title": "virgin trains to run reduced service", 
+            "text": [
+                "national rail enquiries says high winds and rain are affecting services across the virgin trains network .", 
+                "customers are advised to postpone their journey if possible and tickets will be accepted on services on friday starting before 14:00 gmt .", 
+                "trains across the whole virgin trains network are currently suspended until 17:00 gmt.. a very reduced service is then expected to run until the end of the day .", 
+                "passengers have been told their tickets can also be used on friday before 14:00 gmt on services run by london midland , crosscountry , transpennine express and arriva trains wales ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0cf4e4b07f8d679fe26d", 
+            "title": "man in hospital - met police", 
+            "text": [
+                "a man in central london has been taken to hospital with `` head injuries '' after police were called over reports of `` debris falling from the roof of a building '' .", 
+                "scotland yard said officers found the injured pedestrian after being called to the scene in victoria street at around 15:00 gmt ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af0b6de4b07f8d679fe260", 
+            "title": "'the walk will do you good '", 
+            "text": [
+                "walkers at the sea front in aberystwyth"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0a7ee4b0ec68546dffc2", 
+            "title": "air emergency", 
+            "text": [
+                "apart from heathrow , birmingham , manchester and liverpool were among the other airports affected today .", 
+                "an iceland air flight was forced to declare an in-flight fuel emergency after failing to land at both manchester and liverpool due to the weather .", 
+                "flight fi440 was sent back to manchester following a second failed landing at liverpool and touched down safely at manchester at 11.35 gmt ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af09b6e4b0ec68546dffbf", 
+            "title": "double decker on its side", 
+            "text": [
+                "a double-decker bus has been toppled on its side in wisbech , cambridgeshire by the strong winds .", 
+                "an east of england ambulance service spokesman said four ambulances , two rapid response vehicles , an ambulance officer , and a medical response car attended the scene in lynn road .", 
+                "fifteen people were helped at the scene .", 
+                "eight were taken to north cambridgeshire minor injury unit in stable conditions and three were taken to queen elizabeth hospital with minor injuries ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af087fe4b0ec68546dffb9", 
+            "title": "how are storms named ?", 
+            "text": [
+                "it 's a good opportunity , perhaps , to remind ourselves how doris got her name .", 
+                "a storm is named when it is deemed potentially able to have a substantial impact on the uk or ireland .", 
+                "it is the second year of the `` name our storms '' project by the met office and met eireann , which takes suggestions from submissions by members of the public .", 
+                "the new list is being applied to storms between 1 october 2016 and september 2017 .", 
+                "the naming protocol was covered in our story last september .", 
+                "it 's not on the way yet - but the next storm to hit the uk will be called ewan ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af06a4e4b0ec68546dffaa", 
+            "title": "lambs in raincoats", 
+            "text": [
+                "press association photographer owen humphreys took these in cumbria", 
+                "even the lambs in # cumbria needed there waterproofs today # stormdoris # weather @ twitterid @ twitterid", 
+                "@ twitterid @ twitterid @ twitterid aww bless them cute just got even cuter", 
+                "that is adorable !", 
+                "never knew of waterproofs for sheep .", 
+                "any particular reason for that when the adults do n't ?", 
+                "@ twitterid # lambintoshes", 
+                "@ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0645e4b07f8d679fe24e", 
+            "title": "snow warning downgraded", 
+            "text": [
+                "snow caused the m80 near falkirk to temporarily closed in both directions this morning .", 
+                "but the met office amber `` be prepared '' snow warning for parts of south and central scotland has now been .", 
+                "downgraded to a yellow `` be aware '' warning ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:59"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0533e4b07f8d679fe245", 
+            "title": "'few times a decade '", 
+            "text": [
+                "storm 's do n't occur at regular intervals but the damaging winds brought by # stormdoris ty happen a few times per decade .", 
+                "john h", 
+                "punctuation pedant tweet storm incoming", 
+                "if the bbc ca n't get it right who is setting an example for children ? we will be a country of illiterates before too long", 
+                "oh dear lord the apostrophe", 
+                "whilst we 're on the grammar pedantry , i reckon there 's a comma missing from your tweet !", 
+                "what 's that apostrophe for ?", 
+                "storm 's ? ?", 
+                "do you mean storms ? ?", 
+                "# givemestrength", 
+                "were the damaging winds meaning a wind of change", 
+                "fortunately not a hurricane", 
+                "nothing special was/is doris in leeds", 
+                "storm 's ?", 
+                "you 're the bbc ( or should that be your ? ) .", 
+                "set an example .", 
+                "and surprise surprise our transport infrastructure cocks up"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af04e4e4b0ec68546dffa1", 
+            "title": "not hanging around", 
+            "text": [
+                "# stormdoris is not hanging around .", 
+                "travelling at over a hundred miles an hour , by midnight tonight it 'll already be across poland !", 
+                "john h", 
+                "goes quicker than santa !", 
+                "are they calling it doris too ?", 
+                "just curious .", 
+                "@ twitterid look out poland", 
+                "how do you find out the speed of the low ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aeffb5e4b0ec68546dff7e", 
+            "title": "81mph winds in norfolk", 
+            "text": [
+                "# stormdoris continues to bring gusts of 65 to 75mph and disruption across the region , with 81mph recorded at weybourne on the norfolk coast"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af0185e4b07f8d679fe231", 
+            "title": "starbucks statement on wolverhampton death", 
+            "text": [
+                "it has emerged that the death in wolverhampton took place outside a branch of coffee giant starbucks .", 
+                "the company said in statement : `` we are shocked and saddened by this terrible incident .", 
+                "`` we are supporting the police with their investigation and our store will remain closed until further notice . ''", 
+                "a witness said it was unclear if the debris that hit the woman - said be aged between 20 and 30 - had fallen from the coffee shop or from another building ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af0230e4b08b1f7dede356", 
+            "title": "top professional", 
+            "text": [
+                "falkirk footballer david mccracken did n't let the weather stop his training"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af031de4b08b1f7dede35b", 
+            "title": "rail disruption update", 
+            "text": [
+                "national rail enquiries has just published its latest update on how high wind and rail are affecting services .", 
+                "almost every company is still reporting disruption ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58af030fe4b07f8d679fe237", 
+            "title": "more southern rail disruption", 
+            "text": [
+                "# stormdoris - lines blocked at # catherham , # whyteleafe and # streathamcommon due to fallen trees .", 
+                "please check :", 
+                "what about east grinstead line ?", 
+                "any train running ?", 
+                "hi , there are trains expected to run , are you after a particular service please ?", 
+                "m", 
+                "1st train out of victoria to upper wallingham", 
+                "hi , services are running but subject to disruption .", 
+                "check ahead at ^isana", 
+                "thanks", 
+                "if the lines blocked at # streathamcommon why are other trains still flying through not stopping ?", 
+                "!", 
+                "but the southern website is down , as is nationalrail live departures .", 
+                "has the wind blown over the websites ?", 
+                "that 's very well informed information"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af0116e4b0ec68546dff89", 
+            "title": "4,000 homes without power in lincolnshire", 
+            "text": [
+                "4,000 homes without power .", 
+                "live updates on # stormdoris here"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58af000ee4b08b1f7dede352", 
+            "title": "fallen tree causes fire in ware , hertfordshire", 
+            "text": [
+                "fire near ware train station after fallen tree hits overhead cable .", 
+                "abellio greater anglia say no trains are now running on the line .", 
+                "@ twitterid does this affect you ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aeffffe4b0ec68546dff82", 
+            "title": "road closures", 
+            "text": [
+                "highways england issued a weather alert on major roads and closed several routes .", 
+                "they include m6 thelwall viaduct in cheshire in both directions between junction 20 and 21 in the north west and the qe2 bridge in dartford , kent .", 
+                "in humberside , the m62 ouse bridge is currently closed in both directions to high sided and vulnerable vehicles , between j36 and j37 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aefe6be4b08b1f7dede343", 
+            "title": "doris from space", 
+            "text": [
+                "view # stormdoris from space with this satellite image showing her moving eastwards across the uk", 
+                "which way is it going ?", 
+                "i 'm heading to austria .", 
+                "some flights are being cancelled to germany", 
+                "hi del , you may find our surface pressure charts useful in showing the expected track : ^mo", 
+                "thank you !", 
+                "it was no problem at all del but if you have any further concerns regarding the weather please let us know .", 
+                "we 're here 24/7.^mo", 
+                "how cool is this gif footage thing !", 
+                "@ twitterid bringing their a game to twitter !", 
+                "@ twitterid looks fantastic i love looking at images of storms x", 
+                "wonderful imagery .", 
+                "@ twitterid heyyyy , you can see me waving in that", 
+                "@ twitterid", 
+                "fucking scaremongering .", 
+                "it 's heavy rain , at times , and strong winds , at times .", 
+                "how is an actual of an actual storm scaremongering ?", 
+                "i have always had such a great fasination with the weather .", 
+                "what a great image love to be a weather man .", 
+                "go away storm doris i need to fly from dub to london tomorrow ! !", 
+                "# panic", 
+                "@ twitterid arrh hum !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid \u0645\u0627 \u0636\u0639\u0641\u0647\u0627 \u0627\u0644\u063a\u0631\u0628\u064a", 
+                "hiya , is there any way of getting a copy of the animation ?", 
+                "^hs", 
+                "that 's an image and a half !", 
+                "@ metoffice"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aefee6e4b07f8d679fe220", 
+            "title": "scaffolding dislodged", 
+            "text": [
+                "there was traffic disruption in central london when scaffolding became dislodged on an office block extension in holborn .", 
+                "the roadway was cordoned off as a ribbon of scaffolding hung from the roof at aldwych house , built in 1926 .", 
+                "the met office has extended amber warnings predicting strong winds and heavy rain to include the capital ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "23:26"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aefdede4b0ec68546dff73", 
+            "title": "hair-raising", 
+            "text": [
+                "slight breeze today # stormdoris", 
+                "@ twitterid", 
+                "i appreciate this photo", 
+                "meg why you getting tagged in animal photos : / thought we did that", 
+                "dan it was all her i promise xxx", 
+                "soz about me", 
+                "tsja .", 
+                "dat heb je al gauw met een briesje @ twitterid @ twitterid", 
+                "@ twitterid uiii is windich", 
+                "wirst lachen genauso und ich war beim frs\u00f6r heut", 
+                "@ twitterid", 
+                "@ twitterid omg", 
+                "hh", 
+                "cute ^ ^", 
+                "@ twitterid", 
+                "@ twitterid", 
+                "# image # analysis aerodynamically optimized , add light advanced wings and she can fly for at least 10 seconds # kite # have # fun", 
+                "@ twitterid i ca n't lipsync like this !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aefe3de4b08b1f7dede342", 
+            "title": "flight cancelled", 
+            "text": [
+                "a plane landing in high winds at leeds bradford airport .", 
+                "there were flight cancellations across the country - with heathrow reporting a `` 10 % reduction '' in the airport 's schedule ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "23:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aefd1fe4b08b1f7dede33f", 
+            "title": "the scene in wolverhampton", 
+            "text": [
+                "wolverhampton city centre , where a woman was killed by falling debris today ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "23:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aefc3ee4b07f8d679fe210", 
+            "title": "999 calls soar", 
+            "text": [
+                "over 6 times the amount of 999 calls received today compared to last thurs # stormdoris is keeping us & other agencies v busy indeed !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:14"
+        }
+    ], 
+    "genre": "uk", 
+    "quality": "high"
+}

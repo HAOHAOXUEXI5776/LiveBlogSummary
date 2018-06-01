@@ -1,0 +1,959 @@
+{
+    "blog_id": "1df340fdc1d65b46bdd58e4e9a1074d0f8e4916f", 
+    "title": "Ransomware attacks: Putin says Russia is not responsible - as it happened | Technology | The Guardian", 
+    "url": "https://www.theguardian.com/technology/live/2017/may/15/ransomware-attacks-uk-government-defends-investment-in-security-live", 
+    "summary": [
+        "hunt breaks silence on cyber attack .", 
+        "ransomware attack nothing to do with russia - putin .", 
+        "nhs trusts sent it security patch that would have protected them .", 
+        "where 's hunt ?", 
+        "pm denies claims government ignored cyber-attack warnings .", 
+        "new cyber chaos appears to have been avoided - europol .", 
+        "fewer than a hundred victims of attack have paid ransom - analysis ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-5919b4f2e4b0a8ea08b6e4f3", 
+            "title": "", 
+            "text": [
+                "we 're closing the liveblog coverage now .", 
+                "here 's our latest story from my colleagues haroon siddique and jessica elgot .", 
+                "thanks for reading .", 
+                "warning of nhs cyber-attack risk was not acted on , says cybersecurity adviser read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                14, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5919af11e4b0f5ae171e249c", 
+            "title": "", 
+            "text": [
+                "the guardian has spoken to an it worker whose company has paid out in total around \u00a3 80,000 to ransomware attackers over the last year , most recently following an attack three months ago .", 
+                "the 34-year-old it support worker in the uk , who wishes to remain anonymous , said once the ransom was handed over , those behind the attack were very , very helpful '' .", 
+                "due to the high level of encryption the company was provided keys to decrypt the files with the worker describing the support '' from company from the hackers - given once they had extorted the ransom fee and after causing huge disruption - as excellent '' .", 
+                "the data we had was encrypted on a number of volumes due to a windows vulnerability .", 
+                "we experienced a few attacks which were often happening as a result of someone opening a word document containing a malicious macro , '' he said .", 
+                "these attacks probably happen more often than we think .", 
+                "i do n't think the people behind the ransomware attacks realised it would be as successful as it is .", 
+                "these days it 's about the value of real time data - data that is a day old can normally be recovered by backups .", 
+                "but the possibility of data loss for even 24 hours in some industries can have massive ramifications .", 
+                "this makes the files more valuable . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                13, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5919a7bde4b0f5ae171e246e", 
+            "title": "", 
+            "text": [
+                "the director general of the nca , the law enforcement agency that leads uk response to cyber crime , have said there is no indication of a second surge of cyber-attacks but warned there still could be one .", 
+                "in a statement , lynne owens said : as things stand , there is no indication of a second surge of cases here in the uk .", 
+                "but that does n't mean there wo n't be one .", 
+                "we 're trawling through huge amounts of data associated with the attack and identifying patterns .", 
+                "the nca is leading the criminal investigation into the attack , but for operational reasons we can not give a running commentary .", 
+                "because of the quantity of data involved and the complexity of these kinds of enquiries we need to be clear that this is an investigation which will take time but i want to reassure the public that investigators are working round the clock to secure evidence and have begun to forensically analyse a number of infected computers .", 
+                "specialist cyber-crime officers from the nca and our partner regional organised crime units are speaking directly with victims .", 
+                "that includes visiting nhs sites to help protect victims and secure and preserve evidence .", 
+                "those visits are continuing .", 
+                "more than 150 countries have been affected , and we 're in constant communication with international partners , including europol , interpol and the fbi and the collaboration has been strong and effective .", 
+                "the nca issued the following advice in the wake of the attack : make sure your security software patches are up-to-date .", 
+                "make sure that you are running anti-virus software .", 
+                "back-up your data in multiple locations , including offline .", 
+                "avoid opening unknown email attachments or clicking on links in spam emails .", 
+                "victims of fraud should report it to action fraud .", 
+                "we encourage the public not to pay any ransom demand ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                13, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59199f88e4b0762dda0bb166", 
+            "title": "ransomware attack nothing to do with russia - putin", 
+            "text": [
+                "russia had nothing to do with a massive global cyberattack , president vladimir putin said monday , criticising the us intelligence community for creating the original software , afp reports .", 
+                "as for the source of these threats , microsoft 's leadership stated this directly , they said the source of the virus was the special services of the united states , '' putin said .", 
+                "he was referring to a weekend blog post by microsoft president brad smith stating that the us national security agency had developed the code being used in the attack .", 
+                "it was leaked as part of a document dump , according to researchers .", 
+                "a genie let out of a bottle of this kind , especially created by secret services , can then cause damage to its authors and creators , '' putin said on the sidelines of an international summit in beijing .", 
+                "this completely does n't concern russia . ''", 
+                "the us has accused russia in the past of mounting several cyberattacks ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                12, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59199bc7e4b0a8ea08b6e48a", 
+            "title": "", 
+            "text": [
+                "three hospitals in ireland have been targeted by the cyber attack .", 
+                "health chiefs blocked external communication to servers until wednesday to stop the spread of the ransomware '' virus as officials confirmed that up to 20 computers had been affected .", 
+                "they were quickly isolated , '' a spokeswoman for the republic 's health service executive ( hse ) said .", 
+                "we are not naming the hospitals .", 
+                "it 's just to allow the hospitals themselves to deal with it and so that patients are not unduly concerned .", 
+                "patient care is broadly unaffected . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                12, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59199a07e4b0f5ae171e2435", 
+            "title": "hunt breaks silence on cyber attack", 
+            "text": [
+                "the health secretary , jeremy hunt , has broken his silence on the cyber- attacks after pressure to comment .", 
+                "he said there has not been a second wave of cyber attacks after the nhs was struck by ransomware attacks on friday , pa reports .", 
+                "in his first public comments since the attack on friday , hunt told sky news : i have this morning been briefed by gchq and the national cyber security centre , and according to our latest intelligence , we have not seen a second wave of attacks and the level of criminal activity is at the lower end of the range that we had anticipated , and so i think that is encouraging . ''", 
+                "hunt said all organisations need to do more to protect themselves from cyber attacks , which he said were relatively common '' .", 
+                "he said : although we have never seen anything on this scale when it comes to ransomware attacks , they are relatively common and there are things that you can do , that everyone can do , all of us can do , to protect ourselves against them .", 
+                "in particular , making sure that our data is properly backed up and making sure that we are using the software patches , the anti-virus patches that are sent out regularly by manufacturers .", 
+                "these are things that we can all do to reduce the risk of the impact that we 've seen over the last 48 hours . ''", 
+                "hunt has come under fire for failing to appear in public since the attack , which hit 47 trusts in england and 13 scottish health boards on friday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                12, 
+                8
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591999b4e4b0f5ae171e2434", 
+            "title": "", 
+            "text": [
+                "thousands of nhs computers were still using the old windows xp operating system , the government has revealed , though a number 10 spokesman insisted other windows ' systems were also affected .", 
+                "the prime minister 's spokesman said the nhs had updated the vast majority of its systems but just under 5 % were still operating windows xp .", 
+                "there 's been much focus on the idea that nhs systems were running this xp windows system , '' the spokesman said .", 
+                "firstly , other windows systems were affected , this was not in any way limited to xp and more broadly on that , the percentage of nhs [ england ] systems that were running xp fell from 15-18 % in december 2015 to 4.7 % now . ''", 
+                "number 10 said those using the old operating systems were not limited to pcs .", 
+                "it 's complicated in terms of who uses them , for example with mri scanners , it 's not as simple as just switching a piece of software , '' the spokesman said .", 
+                "there is an extra \u00a3 50m allocated for updating cybersecurity in the spending review made available to nhs bodies . ''", 
+                "no other public bodies have been affected so far but the spokesman said it was too early to say '' that no other breaches were possible .", 
+                "the russian interior ministry was affected for one it was across the range , scottish power , renault , nissan , telefonica , state-owned rail services , fedex .", 
+                "i ca n't rule anything out , experts said over the weekend you can expect the situation to change as people turn on their computers this morning but i am not aware of any at this point . ''", 
+                "hunt has faced criticism over the weekend for allowing rudd to lead on the hack , but downing street said the attack was under the remit of the home office .", 
+                "this is an international cyber crime committed on an unprecedented scale , '' the spokesman said .", 
+                "the home secretary has the lead responding to cyber crime and it 's quite right that she takes the lead .", 
+                "the health secretary has been working round the clock co-ordinating the nhs response to this which has been a hugely impressive response and both the health secretary and the prime minister pass on their gratitude to staff who have been working this weekend . ''", 
+                "authorities were determined to find out who is responsible , '' the spokesman said , though stressed the situation 's complexity ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                12, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59199940e4b0f5ae171e2431", 
+            "title": "nhs trusts sent it security patch that would have protected them", 
+            "text": [
+                "health trusts across england were sent details of an it security patch that would have protected them from the crippling ransomware attack , nhs digital said .", 
+                "nhs digital , the arms-length body of the department of health that provides information , data and it systems for the nhs , said it had made health trusts aware last month of it protection that could have prevented the attack .", 
+                "it said in a statement : nhs digital issued a targeted update on a secure portal accessible to nhs staff on april 25 , and then via a bulletin to more than 10,000 security and it professionals on april 27 to alert them to this specific issue .", 
+                "these alerts included a patch to protect their systems .", 
+                "this guidance was also reissued on friday following emergence of this issue . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                12, 
+                6
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59198a96e4b0762dda0bb113", 
+            "title": "", 
+            "text": [
+                "the french government cyber security agency ansii knows of fewer than 10 '' french companies that have fallen victim to a global hacking attack that hit car factories , hospitals and other organisations in about 100 countries , an ansii spokesman said on monday ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591984c8e4b0f5ae171e23e1", 
+            "title": "where 's hunt ?", 
+            "text": [
+                "the prime minister 's official spokesman has defended health secretary jeremy hunt 's lack of public statements or appearances since the cyberattack on friday .", 
+                "this is an international cyber crime , committed on an unprecedented scale .", 
+                "the home secretary has the lead on responding to crime and cyber crime and it is quite right that she should be taking the lead .", 
+                "the health secretary has been working round the clock on co-ordinating the nhs response to this , which has been a hugely impressive response .", 
+                "both the prime minister and the health secretary pass on their thanks to nhs staff who have been working round the clock over this weekend . ''", 
+                "home secretary amber rudd is to chair a meeting of the government 's emergency cobra committee at the cabinet office on whitehall at 5pm on monday to assess progress on dealing with the attack .", 
+                "hunt will not be attending ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                10, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59197fc6e4b0a8ea08b6e419", 
+            "title": "pm denies claims government ignored cyber-attack warnings", 
+            "text": [
+                "theresa may has rejected claims the government ignored warnings the nhs was vulnerable to a possible cyber security attack .", 
+                "the prime minister said warnings had been given to hospital trusts .", 
+                "during a visit to oxfordshire , she insisted cyber security was being taken seriously in whitehall .", 
+                "asked if warnings had been ignored , may said : no .", 
+                "it was clear warnings were given to hospital trusts but this is not something that focused on attacking the nhs here on the uk . ''", 
+                "may said the government was putting \u00a3 2 billion into cyber security .", 
+                "she added : europol say there are 200,000 victims across the world .", 
+                "cyber security is an issue that we need to address .", 
+                "that 's why the government , when we came into government in 2010 , put money into cyber security .", 
+                "it 's why we are putting \u00a3 2 billion into cyber security over the coming years and , of course , created the national cyber security centre .", 
+                "we take cyber security seriously . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                10, 
+                15
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59197faee4b0a8ea08b6e418", 
+            "title": "", 
+            "text": [
+                "if you paid money as a victim of ransomware we 'd like to hear from you .", 
+                "how much were you asked to pay ?", 
+                "why did you decide to pay the ransom ?", 
+                "what happened afterwards ?", 
+                "we 'd also like to hear the experiences of those who paid in other recent attacks.you can share your stories with us - anonymously if you wish - by filling in our form here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                10, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591979dae4b0f5ae171e23b2", 
+            "title": "", 
+            "text": [
+                "few major problems have been reported in india with the hea of the government response team saying everything seems to be normal , so far '' , ap reports .", 
+                "experts estimated 5 % of affected computers were in india , with the computer emergency response team of india issuing a red-colored critical alert '' .", 
+                "but few major problems were reported .", 
+                "the head of the government response team told press trust of india news agency that everything seems to be normal , so far .", 
+                "no reports have come in '' detailing cyberattacks in the country ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                10, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5919779ee4b0762dda0bb0ce", 
+            "title": "", 
+            "text": [
+                "microsoft 's top lawyer has called on governments around the world to treat the international cyber attack as a wake-up call '' as he laid part of the blame at the door of the us administration , pa reports .", 
+                "brad smith , the technology firm 's president and chief legal officer , criticised us intelligence agencies the cia and the national security agency ( nsa ) for stockpiling '' software code which could be exploited by hackers .", 
+                "smith said the ransomware '' attacks had used data stolen from the nsa earlier this year , which contained information on software vulnerabilities the government had hoped to hoard , and subsequently leaked them online .", 
+                "in a blog post , he said : an equivalent scenario with conventional weapons would be the us military having some of its tomahawk missiles stolen .", 
+                "and this most recent attack represents a completely unintended but disconcerting link between the two most serious forms of cyber security threats in the world today - nation-state action and organised criminal action . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                9, 
+                42
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591974ede4b0a8ea08b6e3e6", 
+            "title": "", 
+            "text": [
+                "hundreds of thousands '' of chinese computers at nearly 30,000 institutions including government agencies have been hit by the global ransomware attack , a leading chinese security-software provider has said .", 
+                "the enterprise-security division of qihoo 360 , one of china 's leading suppliers of anti-virus software , said 29,372 institutions ranging from government offices to universities , atms and hospitals had been infected '' by the outbreak as of late saturday , afp reports .", 
+                "in a statement dated sunday , qihoo 360 said the ransomware had spread particularly quickly through higher education , affecting more than 4,000 chinese universities and research institutions .", 
+                "it gave few details on the extent of any damage , however , and china 's government has said little about the situation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                9, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591971f4e4b0762dda0bb0b5", 
+            "title": "", 
+            "text": [
+                "blackpool teaching hospitals nhs foundation trust , nhs blackpool clinical commissioning group ( ccg ) and nhs fylde and wyre ccg are still experiencing some it problems .", 
+                "they said services are open and operating as best as possible '' but asked patients only to attend a & e in life-threatening and urgent cases .", 
+                "many gp practice computer and telephone systems in the area have also been affected by the attack , though all will be open as usual today .", 
+                "however , patients may be required to wait longer to be seen ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                9, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59196daae4b0a8ea08b6e3cb", 
+            "title": "", 
+            "text": [
+                "the royal liverpool and broadgreen university hospitals trust reported their it system had not been attacked and was operating normally .", 
+                "likewise the pennine acute hospitals nhs trust , which runs hospitals in manchester , oldham and rochdale , said they had not been affected by the attack but had taken precautionary measures to protect their it systems ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59196d92e4b0f5ae171e238b", 
+            "title": "", 
+            "text": [
+                "the southport and ormskirk hospital nhs trust said patient safety is being maintained '' but difficulties are continuing .", 
+                "patients scheduled to have operations today have been asked not to attend hospital unless they have been contacted directly .", 
+                "all outpatients and endoscopy appointments and routine mri and ct scans scheduled for today have also been cancelled .", 
+                "patients have been contacted directly if they need to attend , the trust said .", 
+                "patients needing dialysis have been told to attend as usual and the pregnancy assessment unit and all antenatal clinics will be open as usual ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59196c53e4b0f5ae171e2384", 
+            "title": "new cyber chaos appears to have been avoided - europol", 
+            "text": [
+                "european governments and companies appeared early monday to have avoided further fallout from a crippling global cyberattack , the police agency europol said .", 
+                "the number of victims appears not to have gone up and so far the situation seems stable in europe , which is a success , '' senior spokesman for europol , jan op gen oorth told afp .", 
+                "it seems that a lot of internet security guys over the weekend did their homework and ran the security software updates . ''", 
+                "europol said more than 200,000 computers around the world had been affected over the weekend in what it said was an unprecedented attack '' .", 
+                "europol executive director rob wainwright had warned on sunday the situation could worsen when workers return to their offices on monday after the weekend and logged on ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59196966e4b0f5ae171e2376", 
+            "title": "", 
+            "text": [
+                "no patient data has been lost in the ransomware attack on scottish nhs computer systems , nicola sturgeon has said .", 
+                "eleven health boards as well as nhs national services and the scottish ambulance service were affected friday 's attack , pa reports .", 
+                "the attack impacted on acute hospital sites in lanarkshire , as well as gp surgeries , dental practices and other primary care centres around the country .", 
+                "systems in scotland were expected to be recovered by monday and the first minister said more than 120 public bodies have been contacted to ensure their defences are adequate ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591966ece4b0762dda0bb090", 
+            "title": "", 
+            "text": [
+                "foreign secretary boris johnson , arriving in brussels for a meeting of eu foreign ministers , said the cyber-threat was not on the agenda .", 
+                "he said : cyber-security is a huge issue for all of us in all our countries .", 
+                "it 's not specifically on the agenda today , but a huge amount of work goes on between the uk government and all our friends and partners around europe , and indeed in the united states , where they are now stepping up their precautions against cyber attacks of these kinds . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591962ebe4b0762dda0bb087", 
+            "title": "fewer than a hundred victims of attack have paid ransom - analysis", 
+            "text": [
+                "three days on from the initial outbreak , fewer than a hundred victims of the wecry malware appear to have given in and paid the ransom , according to analysis of the two bitcoin addresses to which the software demanded payment .", 
+                "in order to restore encrypted files , the malware demands a payment of $ 300 in the cryptocurrency , sent to one of two addresses hardcoded into the software .", 
+                "yet the contents of the addresses , which like all bitcoin wallets are publicly viewable , shows just under 14 bitcoin has been sent to them in total .", 
+                "at current exchange rates , that is worth slightly under $ 25,000 , suggesting just 82 victims have paid the ransom .", 
+                "the three-day deadline is notable : at the end of the that period , the ransom doubles , to $ 600 , which means many of those who are planning on paying the fee will have already done so .", 
+                "a week after infection , the malware claims , the encryption key will be deleted forever .", 
+                "the low figure of ransoms paid may not be as counterintuitive as it first seems .", 
+                "for smaller firms and individuals hit by ransomware , the key risk is total loss of files due to faulty , or non-existent , backups .", 
+                "for many of them , the motivation to pay the ransom will be high , even if it is unclear whether the malware author will actually had over the encryption key .", 
+                "but larger firms and organisations , like those very publicly hit on friday , backups will exist .", 
+                "the key damage of the ransomware instead lies in the time during which the machines are rendered unusable , and paying the fine wo n't reduce that period by much more than restoring from backups .", 
+                "additionally , the malware spread itself primarily through exploitation of a windows vulnerability , first discovered by the nsa , leaked by a group of hackers calling themselves shadow brokers , and fixed by microsoft three months ago .", 
+                "smaller organisations with less complex it needs often install patches more quickly than larger firms , which need to test how the update affects their intricate networks .", 
+                "the fact that we have the ability to track the payments sent to the hackers at all is yet another piece of evidence underlining the relative incompetence of the authors of the software , according to security researchers .", 
+                "more advanced ransomware automatically generates a new bitcoin address for each victim , to aid both tracking who has paid , and obscure the identity of the criminals .", 
+                "the other major piece of evidence for the author or authors ' inexperience , according to researchers , is the existence of a kill switch '' in the codewhich allowed a malware researcher to prematurely end the spread of the software ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                8, 
+                13
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59195b3fe4b0f5ae171e2352", 
+            "title": "health secretary warned last year of nhs hacking risk - reports", 
+            "text": [
+                "jeremy hunt was warned last summer that the nhs was failing to prioritise cybersecurity and continued to use obsolete computer systems , the times reported .", 
+                "the care quality commission and dame fiona caldicott , the national data guardian , wrote to the health secretary to point out a worrying lack of understanding of security issues '' and that the external cyberthreat is becoming a bigger consideration '' .", 
+                "the letter last july proposed a 13-point plan to improve cybersecurity including the replacement of obsolete it systems as a matter of urgency '' ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                46
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59195759e4b0f5ae171e2345", 
+            "title": "", 
+            "text": [
+                "york teaching hospital nhs foundation trust , which was hit by the attack on friday , said some out-patient appointments had been cancelled on monday - especially at selby war memorial hospital - but most were not affected .", 
+                "the trust said bone scan appoints had been cancelled in scarborough and in selby : all outpatient appointments are cancelled except blood-taking and msk physiotherapy . ''", 
+                "but it said in a statement : all outpatient clinics at york hospital , malton hospital , bridlington hospital are going ahead .", 
+                "planned operations are also going ahead as scheduled . ''", 
+                "the statement added : the situation will be reviewed daily and information will be shared regarding any cancellations to appointments and services later in the week .", 
+                "there will be some delays to our services as we recover from the effects of the cyber attack , and we ask for people 's patience and understanding as we work to fully restore our systems .", 
+                "we will ensure that we re-schedule any cancelled appointments as soon as possible . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59195631e4b0a8ea08b6e380", 
+            "title": "cyber attack hero fears for safety after being named", 
+            "text": [
+                "the british cybersecurity researcher described as an accidental hero '' for halting the global spread of the ransomware attack has spoken of his fears for his safety after a number of media outlets revealed his identity .", 
+                "the 22-year-old , who tweets as @ twitterid , told the mailonline : in future someone might want to retaliate - they could find my identity within seconds .", 
+                "if they know where i live , they could really do anything . ''", 
+                "he referred to the case of another security blogger who was subject to intimidation , including death threats , after his identity was leaked online .", 
+                "i 've seen posts about the terrible things people have done to him and for me in future it could be the same things , '' he said .", 
+                "writing on his twitter account , he said journalists had already tracked down a friend , whose photograph was published in the press and turned up at her house , saying : please if you want an interview that badly , dm me . ''", 
+                "the online community pleaded for his identity not to be outed online - a research process known as doxing '' - to protect him .", 
+                "he earlier told the guardian : it just does n't make sense to give out my personal information , obviously we 're working against bad guys and they 're not going to be happy about this . ''"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                22
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-591954dae4b0a8ea08b6e379", 
+            "title": "", 
+            "text": [
+                "meanwhile in japan , ap reports the ransomware attack hit computers at 600 locations but appeared to cause no major problems as japanese started their workday monday even as the attack caused chaos elsewhere .", 
+                "nissan motor co. confirmed some units had been targeted , but there was no major impact on its business .", 
+                "hitachi spokeswoman yuko tainiuchi said emails were slow or not getting delivered , and files could not be opened .", 
+                "the company believes the problems are related to the ransomware attack , although no ransom appears to have been demanded so far .", 
+                "they were installing software to fix the problems .", 
+                "the japan computer emergency response team coordination center , a nonprofit providing support for computer attacks , said 2,000 computers at 600 locations in japan were reported affected so far , citing an affiliate foreign security organization that it can not identify .", 
+                "at least one hospital was affected , according to police .", 
+                "the city of osaka said its home page suddenly went blank , although email and other problems had not been detected .", 
+                "we can not confirm why this happened , and we are in the middle of investigating , '' said hajime nishikawa of the city hall 's it division ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-591954b6e4b0762dda0bb055", 
+            "title": "global nature of attack comes into focus", 
+            "text": [
+                "as the uk wakes up on monday braced for fresh impact as nhs returns to work , chinese state media say more than 29,000 institutions across china have been infected by the global ransomware '' cyberattack , ap reports .", 
+                "xinhua news agency reports that by saturday evening , 29,372 institutions had been infected along with hundreds of thousands of devices .", 
+                "it cited the threat intelligence center of qihoo 360 , a chinese internet security services company .", 
+                "it says universities and educational institutions were among the hardest hit , numbering 4,341 , or about 15 percent of internet protocol addresses attacked .", 
+                "also affected were railway stations , mail delivery , gas stations , hospitals , office buildings , shopping malls and government services .", 
+                "xinhua says the system used by petrochina 's gas stations was attacked , meaning customers could not use their cards to pay .", 
+                "most stations had recovered ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59195001e4b0f5ae171e232e", 
+            "title": "", 
+            "text": [
+                "welcome to live coverage of the fallout from last friday 's ransomware attack .", 
+                "ben wallace , uk security minister has been on bbc radio 4 's today programme defending its record on investment in cyber-security .", 
+                "he said he did not know if the ransomware attack would escalate or stabilise .", 
+                "asked if the government was to blame for cutting budgets , wallace said reasons for failures to protect against the attack dated back to decisions made by the labour government in 2007 in relation to agreements with microsoft .", 
+                "wallace said the government had committed \u00a3 1bn to countering cyber threats across all government .", 
+                "the blame lays with these individuals who have decided to blackmail and destroy our public services , '' he said .", 
+                "we have always said as a government that if you follow the very basic steps , continue to back yourself up as an organisation , you will always be in a position where a ransomware attack is minimised if not entirely deferred . ''"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                5, 
+                15, 
+                7, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "technology", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n1.08pm BST\n13:08\nHunt breaks silence on cyber attack\n", 
+                "block": "block-59199a07e4b0f5ae171e2435"
+            }, 
+            {
+                "text": "\n\n1.32pm BST\n13:32\nRansomware attack nothing to do with Russia - Putin\n", 
+                "block": "block-59199f88e4b0762dda0bb166"
+            }, 
+            {
+                "text": "\n\n1.06pm BST\n13:06\nNHS trusts sent IT security patch that would have protected them\n", 
+                "block": "block-59199940e4b0f5ae171e2431"
+            }, 
+            {
+                "text": "\n\n11.39am BST\n11:39\nWhere's Hunt?\n", 
+                "block": "block-591984c8e4b0f5ae171e23e1"
+            }, 
+            {
+                "text": "\n\n11.15am BST\n11:15\nPM denies claims Government ignored cyber-attack warnings\n", 
+                "block": "block-59197fc6e4b0a8ea08b6e419"
+            }, 
+            {
+                "text": "\n\n9.53am BST\n09:53\nNew cyber chaos appears to have been avoided - Europol\n", 
+                "block": "block-59196c53e4b0f5ae171e2384"
+            }, 
+            {
+                "text": "\n\n9.13am BST\n09:13\nFewer than a hundred victims of attack have paid ransom - analysis\n", 
+                "block": "block-591962ebe4b0762dda0bb087"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Health secretary Jeremy Hunt breaks his silence to say NHS has not suffered second wave of attacks.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/technology/2017/may/15/did-you-pay-money-as-a-victim-of-ransomware"
+                ], 
+                "text": "Did you pay money as a victim of ransomware?", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/technology/2017/may/15/windows-xp-patch-wannacry-ransomware-wecry-wanacrypt0r"
+                ], 
+                "text": "How to protect your computer.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

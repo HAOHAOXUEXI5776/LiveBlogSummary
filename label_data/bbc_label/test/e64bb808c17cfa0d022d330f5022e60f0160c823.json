@@ -1,0 +1,673 @@
+{
+    "blog_id": "e64bb808c17cfa0d022d330f5022e60f0160c823", 
+    "title": "BBC Local Live: Norfolk on Friday, 11 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-norfolk-35591379", 
+    "summary": [
+        "devolution for the region is likely to go ahead , the bbc understands .", 
+        "the a1064 near acle has reopened after a sewage tanker overturned in a ditch .", 
+        "charities helping victims of sexual abuse claim funding for their work is becoming harder to find .", 
+        "more news , sport , travel and weather from 08:00 on monday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2f2173b0000d0460a1b67", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's it from the norfolk live team on friday so goodbye we 'll be back from 08:00 on monday , bringing you the news , sport , travel and weather updates as they happen .", 
+                "if you have any photographs from around the county that you 'd like to share , or if there 's anything happening that you 'd like us to know about , you can contact us via email , facebook or twitter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e301d43f0000f24b0f5dad", 
+            "title": "weather : dry with clear spells and patchy cloud", 
+            "text": [
+                "this evening : staying dry with a mix of clear spells and patchy cloud , but also mist and fog patches developing quite widely .", 
+                "minimum temperature : -2c ( 30f ) .", 
+                "tomorrow : dry with early mist and fog patches slow to clear and patchy cloud with sunny intervals later ."
+            ], 
+            "author": [
+                "Chris Bell", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2e6543f0000014a0f5d2e", 
+            "title": "watch : mp back from myanmar democracy mission", 
+            "text": [
+                "norwich north mp chloe smith has just returned from a trip to myanmar , formerly known as burma , where she and other mps from around the world coached newly-elected representatives in the workings of parliamentary democracy ."
+            ], 
+            "author": [
+                "Andrew Sinclair", 
+                "BBC Look East political correspondent"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2e94e3f0000014a0f5d38", 
+            "title": "city centre route closes to traffic despite criticism of scheme", 
+            "text": [
+                "westlegate ( in norwich city centre will be closed to vehicles and golden ball street will become two-way from monday 21 march as part of the transport for norwich scheme .", 
+                "the \u00a3 3.05m scheme will give motorists easier access to car parks and restore all saints green as a traffic-free open space , norfolk county council said .", 
+                "some of the changes to roads across norwich have attracted criticism which the city council has countered by offering residents the opportunity to send their comments for consideration ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2f9df3f0000004a0f5d85", 
+            "title": "travel : a1064 open after sewage lorry crash", 
+            "text": [
+                "the a1064 road near acle has reopened fully to traffic after an overturned sewage tanker lying in a ditch was removed .", 
+                "more details of traffic conditions on bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2f5eb3f000040470f5d6d", 
+            "title": "final headlines : devolution for region likely to go ahead larger air ambulance takes off with blessing", 
+            "text": [
+                "here are tonight 's evening headlines :"
+            ], 
+            "author": [
+                "Tim Addicott", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2f1a93f000040470f5d5b", 
+            "title": "final phase of \u00a3 8m cromer protection scheme begins", 
+            "text": [
+                "the \u00a3 8m cromer coast protection scheme is moving into its final phase on monday when work on surfacing the gangway parking area begins .", 
+                "surfacing work will continue westwards towards the melbourne slope close to the pier and could be completed by the end of the month `` but with poor weather likely to hamper progress , substantial completion is expected in early april '' , north norfolk district council said .", 
+                "council leader tom fitzpatrick said : `` this vital project will help protect cromer for years to come .", 
+                "we have worked hard to minimise the impact on residents and businesses while ensuring the town can benefit from the scheme when the summer season arrives . ''"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2df523b0000ee470a1b2d", 
+            "title": "key three face fitness race for norwich city", 
+            "text": [
+                "norwich city will make a late decision on three of their key players ahead of the visit of manchester city tomorrow .", 
+                "robbie brady , steven naismith and sebastien bassong are all struggling with knocks .", 
+                "andre wisdom is back training after long term injury but is unlikely to feature .", 
+                "manager alex neil confirmed this lunchtime that midfielder alex tettey is out for the rest of the season .", 
+                "i 'm not going to risk people if puts them out of later games ; it could hamstring us .", 
+                "we need to make sure we are competitive tomorrow but we ca n't leave ourselves short going into this vital run-in ."
+            ], 
+            "author": [
+                "Rob Butler", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2dd1f3d0000be474b0a5b", 
+            "title": "travel : congestion around great yarmouth", 
+            "text": [
+                "high volumes of traffic are causing congestion on roads each side of the river crossing in the centre of great yarmouth .", 
+                "traffic is queuing along the southbound a149 between tar works road and the north quay junction as well as westbound towards school road .", 
+                "on the a12 south of the river there is growing congestion northbound between the a1243 pasteur road and the a47 runham roundabout .", 
+                "more details from bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "23:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e286d83d000085424b091e", 
+            "title": "reavell rages as hornets suffer a humbling", 
+            "text": [
+                "here is the back page of today 's diss express :"
+            ], 
+            "author": [
+                "Diss Express"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2d1593d0000bf474b0a31", 
+            "title": "new larger air ambulance carries more medical equipment", 
+            "text": [
+                "the east anglian air ambulance fleet of helicopters has been expanded with a new larger aircraft to be based at norwich airport .", 
+                "the new h145 helicopter is bigger than the ec135 it replaces and has a greater range for the service , which covers norfolk , suffolk , bedfordshire and cambridgeshire .", 
+                "air ambulance chairman maj gen sir william cubitt , said the new aircraft would help enhance the service across the region as it could carry more medical equipment and supplies .", 
+                "the air ambulance was blessed by the rt revd graham james , bishop of norwich , at a ceremony to launch its introduction to operations ."
+            ], 
+            "author": [
+                "Wally Webb", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "22:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e25c243d00005f404b08b5", 
+            "title": "skipper : 'i want to be britain 's greatest ironman '", 
+            "text": [
+                "norfolk athlete joe skipper wants to become the fastest-ever briton to complete an ironman triathlon this year .", 
+                "he recently finished second at an event in new zealand , posting the third-fastest time ever for a briton after completing the grueling 2.4-mile swim , 112-mile bike ride and then running a marathon .", 
+                "skipper told us : `` my big aim this year is to be the first british athlete under eight hours . `` .", 
+                "he 's now targeting the world championship in hawaii in july ."
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e283d03b0000f0410a19ea", 
+            "title": "canaries strive to end sergio streak", 
+            "text": [
+                "here is the back page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2c3543f00003f470f5cab", 
+            "title": "weather : dry but cloudy with sunny spells", 
+            "text": [
+                "cloudy with bright or sunny spells in places but feeling slightly cooler than yesterday although winds remain light .", 
+                "maximum temperature : 8c ( 46f ) .", 
+                "tonight it will be dry with variable cloud cover but where skies remain clear fog and frost patches are possible ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b1b63b0000d9450a1a96", 
+            "title": "two men deny murder over great yarmouth fatal stabbing", 
+            "text": [
+                "two men who are accused of murder over a fatal stabbing in great yarmouth last november will stand trial later this year .", 
+                "warren blake , 18 , of thorncliffe road in london , and tevin birmingham , 21 , of spring road in ipswich , both pleaded not guilty to murder at norwich crown court this morning .", 
+                "andrew mcgowan , 33 , died after being stabbed at a property in dickens court in great yarmouth .", 
+                "the two men are due to go on trial on 1 may ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                1
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2bc0d3b0000d4450a1ac0", 
+            "title": "anglo-saxon gold declared to be treasure", 
+            "text": [
+                "a gold anglo-saxon mount found at sculthorpe near fakenham has been declared treasure at the coroner 's court in norwich .", 
+                "the 2cm-wide item , dating from 6th-7th centuries , was found during a charity metal detecting event in a field .", 
+                "the mount is now the property of the british museum and the independent portable antiquities scheme will decide how much money the landowner and the finder , barrie plasom , are entitled to ."
+            ], 
+            "author": [
+                "Andrew Woodger", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b7b33b0000cf460a1aad", 
+            "title": "travel : a140 congestion near norwich airport", 
+            "text": [
+                "there 's slow traffic on the a140 in both directions between the manor road junction in horsham st faiths and the b1149 holt road near norwich airport because of roadworks .", 
+                "more details from bbc travel ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1
+            ], 
+            "time": "20:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b3c13d000063454b09d8", 
+            "title": "devolution : what does it mean ?", 
+            "text": [
+                "in essence , it 's the power to run more of our own services here in the east - instead of the westminster government taking these decisions .", 
+                "this means local politicians based in norfolk , suffolk or cambridgeshire could be the ones to take control of things like transport , planning , health services , flood defences and further education .", 
+                "but to do so , the government thinks we should form a super local authority - made up of norfolk , suffolk and cambridgeshire county councils , as well as the region 's city and district councils ."
+            ], 
+            "author": [
+                "Deborah McGurran", 
+                "BBC Political editor, East of England"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "20:19"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2b4b23d00007f464b09dd", 
+            "title": "government 'likely to go ahead ' with eastern powerhouse devolution", 
+            "text": [
+                "i understand the government is likely to go ahead with an eastern powerhouse devolution deal , despite the fact that cambridge city council has decided not to take part .", 
+                "their view is that one council 's decision to turn down the offer is not a barrier to a deal being agreed with the remaining 22 councils .", 
+                "more details on bbc look east at 13:30 ."
+            ], 
+            "author": [
+                "Tom Barton", 
+                "BBC Look East political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2b0a13b0000cc430a1a92", 
+            "title": "lunchtime headlines : cambridge rejects devolution deal with norfolk two men plead not guilty to murder over fatal stabbing", 
+            "text": [
+                "here are the lunchtime headlines :"
+            ], 
+            "author": [
+                "Graham Barnard", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2ae6c3f00003f450f5c57", 
+            "title": "rail lines blocked after lorry hits bridge", 
+            "text": [
+                "# ipswich - due to a lorry hitting a railway bridge between stowmarket and ipswich all lines through these stations are blocked .", 
+                "rh"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e292013d000085424b094f", 
+            "title": "follow the leader to a great escape", 
+            "text": [
+                "here is the back page of friday 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:29"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2a7bd3f00003f450f5c3a", 
+            "title": "crashed sewage tanker driver escapes serious injury", 
+            "text": [
+                "a driver has escaped serious injury after the sewage tanker he was driving left the a1064 in the early hours and overturned into a ditch , police have said .", 
+                "traffic was held up during the morning rush hour as the liquid cargo was pumped into a replacement vehicle and the crashed lorry recovered .", 
+                "the road is expected to be cleared later today but remained closed between the acle roundabout and main road in billockby at 11:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "19:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e25f0b3b0000a6400a1981", 
+            "title": "eadie backing canaries ' bid for premier league survival", 
+            "text": [
+                "former norwich city winger darren eadie insists his old club have what it takes to win their battle against premier league relegation .", 
+                "the canaries are in the bottom three after going 10 games without a win .", 
+                "they play manchester city at carrow road tomorrow lunchtime .", 
+                "speaking on the scrimmage on bbc radio norfolk , eadie told us : `` i think norwich have played reasonably well ; the most important part is in the 18-yard boxes and that 's where they seem to be a little bit short . ''"
+            ], 
+            "author": [
+                "Chris Goreham", 
+                "BBC Radio Norfolk sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "19:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e2835b3f000050420f5bbe", 
+            "title": "\u00a3 5 to spend a penny", 
+            "text": [
+                "here is the front page of today 's norwich evening news :"
+            ], 
+            "author": [
+                "Norwich Evening News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e297fd3f000030420f5bff", 
+            "title": "cambridge city council joins county council in turning down devolution deal", 
+            "text": [
+                "cambridge city council has just confirmed to me it has rejected the government 's offer of a devolution deal .", 
+                "the council says it is willing to carry on speaking to ministers and other local authorities about working together , but the offer on the table does n't meet its demands .", 
+                "norfolk and suffolk are keen to join forces in a devolved local government - but cambridgeshire county council had previously rejected the offer ."
+            ], 
+            "author": [
+                "Tom Barton", 
+                "BBC Look East political reporter"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "18:51"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e281d83f000050420f5bb3", 
+            "title": "rare seabird spotted for first time at blakeney during wildlife survey", 
+            "text": [
+                "a survey at blakeney and brancaster on the north norfolk coast has led conservationists to discover some rare wildlife .", 
+                "nearly 3,500 rare species were recorded during a survey of national trust sites during what it called a `` bio-blitz '' , and about a third of them were discovered in norfolk .", 
+                "the first recorded sighting of the balearic shearwater at blakeney was made during the survey .", 
+                "about 1,200 pairs pass through british waters on migration routes per year but few stay , according to the royal society for the protection of birds ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "18:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e28e7d3d000083444b0944", 
+            "title": "at the scene : sewage tanker overturns near billockby", 
+            "text": [
+                "there is a long furrow ploughed into the verge of the a1064 towards acle bridge .", 
+                "a tanker is lying on its side at the end of it , having veered off the road between billockby and acle in the early hours of this morning .", 
+                "a label at the back of the vehicle declares it contains `` non-hazardous product '' .", 
+                "another tanker has been brought in to pump out its liquid cargo , no doubt to lighten the load and help it out of the ditch , and a recovery vehicle is at the scene .", 
+                "traffic has been queuing in either direction but police have been waving through vehicles and hold-ups are not severe ."
+            ], 
+            "author": [
+                "Andrew Turner", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e284c83d000089424b090f", 
+            "title": "tragedy of a devoted dad", 
+            "text": [
+                "front page of friday 's eastern daily press :"
+            ], 
+            "author": [
+                "Eastern Daily Press"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:26"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2792f3b0000f0410a19af", 
+            "title": "charities helping child sex abuse victims fear funding shortage", 
+            "text": [
+                "reports to police of sex abuse involving children and young people are increasing in the county and charities looking after the victims are finding themselves under financial pressure .", 
+                "many are claiming funding is becoming harder to find from donors and official or statutory sources .", 
+                "mette ohrvik , chief executive of the sue lambert trust , said people were asking for help in increasing numbers and more resources were needed ."
+            ], 
+            "author": [
+                "Nick Conrad", 
+                "BBC Radio Norfolk"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2761b3d000085424b08ca", 
+            "title": "weather : becoming brighter after fog lifts", 
+            "text": [
+                "after a chilly and foggy start it will be a dry day with some bright or sunny spells .", 
+                "feeling slightly cooler than yesterday although winds remaining light .", 
+                "maximum temperature : 8c ( 46f ) .", 
+                "more details on bbc weather ."
+            ], 
+            "author": [
+                "Elizabeth Rizzini", 
+                "BBC Look East weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e27e273b0000f1410a19d4", 
+            "title": "travel : a1064 road blocked by overturned sewage tanker near acle", 
+            "text": [
+                "the a1064 road is blocked in both directions between the a47 acle roundabout and the village of billockby after an accident involving a sewage tanker .", 
+                "police are directing traffic and said drivers should approach the scene with care .", 
+                "more details from bbc travel"
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e27ccf3f00004c420f5ba3", 
+            "title": "travel : delays on rail services into liverpool street", 
+            "text": [
+                "abellio great anglia has apologised for delays to rail services into liverpool street due to overrunning engineering work last night but says services are returning to normal ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56e274203f00004d420f5b78", 
+            "title": "news : fears over funding for sex abuse victims ' care rare sea bird spotted by conservationists off norfolk coast", 
+            "text": [
+                "our top stories this morning"
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56e2721d3d000081424b08c5", 
+            "title": "good morning and welcome to our live coverage for norfolk", 
+            "text": [
+                "hello and welcome to friday 's norfolk live .", 
+                "between now and 18:00 , the team here will bring you the news , sport , travel and weather updates as we get them .", 
+                "we 're always interested in what 's happening in your part of norfolk .", 
+                "if there 's anything you wish to share with us you can contact us on email , facebook or twitter ."
+            ], 
+            "author": [
+                "Patrick Byrne", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-norfolk", 
+    "quality": "high"
+}

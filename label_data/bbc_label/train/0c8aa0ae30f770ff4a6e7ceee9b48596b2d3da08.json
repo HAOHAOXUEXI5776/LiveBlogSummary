@@ -1,0 +1,874 @@
+{
+    "blog_id": "0c8aa0ae30f770ff4a6e7ceee9b48596b2d3da08", 
+    "title": "Entertainment Live: 27 February 2015 - BBC News", 
+    "url": "http://www.bbc.com/news/live/entertainment-arts-31430733", 
+    "summary": [
+        "madonna 'suffered whiplash ' at the brits .", 
+        "house of cards premieres on netflix .", 
+        "harrison ford confirmed for blade runner sequel ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31665870", 
+            "title": "goodbye !", 
+            "text": [
+                "and so , like fearne cotton , we 're off .", 
+                "hope you have a great weekend planned .", 
+                "we 'll be back at the usual time on monday morning for more news from the worlds of showbiz and culture ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31665873", 
+            "title": "fearne quits radio 1", 
+            "text": [
+                "fearne cotton has announced she 's leaving bbc radio 1 to `` concentrate on family and new adventures '' .", 
+                "the dj , who 's been at the station for 10 years , also revealed she is pregnant with her second child .", 
+                "`` i have had the most incredible decade broadcasting on radio 1 , meeting wonderful people , helping break artists and watching live music from the world 's best , ''", 
+                "`` i would like to thank radio 1 for being such a great home and most of all to the listeners who have been on this journey with me .", 
+                "`` it 's such a kick to know you heard a band on my show first , or that the songs i 've played have helped you through the day , so thank you . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664554", 
+            "title": "sam smith speaks", 
+            "text": [
+                "sam smith popped into radio 1 this morning to reflect on his night at the brits .", 
+                "he revealed he 'd had an attack of the nerves while he performed lay me down .", 
+                "`` my leg was uncontrollably shaking as i was singing - but luckily you ca n't see it ''", 
+                "`` i normally do n't get nervous .", 
+                "something about being in your own country makes you more scared . ''", 
+                "he revealed that he did n't get to keep either of his two trophies .", 
+                "`` they 've got to engrave your name , then send it to you , '' he said .", 
+                "the star also talked about plans for his next album , and who got drunk at the show ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664553", 
+            "title": "noel gallagher apologises", 
+            "text": [
+                "we started today 's live page with kanye west issuing apologies to beck and bruno mars , so what better way to round things off than with further pop star capitulations ?", 
+                "noel gallagher has", 
+                "his change of heart came after sheeran fulfilled a promise to appear at gallagher 's teenage cancer trust concert at the royal albert hall .", 
+                "`` he 's a good lad and i wo n't have a word said against him , '' the musician said .", 
+                "gallagher is doing the rounds at the moment , as he promotes his second solo album , chasing yesterday , so he 's also popped up at", 
+                "`` i call him father bono , '' he says .", 
+                "you could n't make it up ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664549", 
+            "title": "radiohead redux", 
+            "text": [
+                "radiohead guitarist jonny greenwood has been speaking about the band 's latest recording sessions , saying they 've `` changed their method '' in the recording studio .", 
+                "`` we 're kind of limiting ourselves ; working in limits , '' he", 
+                "`` it 's like we 're trying to use very old and very new technology together to see what happens . ''", 
+                "he added : `` we 've done a couple of months of recording , and it has gone really well .", 
+                "we have n't listened to anything back yet , so at the moment we 're all very happy .", 
+                "`` now , i guess we 're going to go and listen to what we 've done and see if we were right to be so happy .", 
+                "but we left it at a good place when we last stopped . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664551", 
+            "title": "dressed for success", 
+            "text": [
+                "our reporter david sillito has been out to the shop where that infamous black and blue / white and gold dress is for sale ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664546", 
+            "title": "british museum 'deplores ' destruction", 
+            "text": [
+                "the british museum has", 
+                "`` the british museum is very concerned to see the reports that militants have destroyed items in the mosul museum and sculptures in the nergal gate museum on the edge of nineveh , '' it said in a statement .", 
+                "`` we naturally deplore all such acts of vandalism and destruction of cultural heritage , and continue to monitor the situation to the best of our ability .", 
+                "in the absence of further information it is difficult to verify the details of those objects featured in the footage .", 
+                "we can confirm that none of the objects featured in this video are copies of originals at the british museum . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31664545", 
+            "title": "willy wonka", 
+            "text": [
+                "jonathan slinger , who recently starred in west end musical urinetown , has announced his next role will be willy wonka .", 
+                "there 's a joke in there somewhere", 
+                "he 's the third person to play the crackpot confectioner in sam mendes ' production of charlie and the chocolate factory , following alex jennings and douglas hodge , who originated the role .", 
+                "slinger is best known for his appearances with the rsc , including title roles in recent productions of hamlet , macbeth , richard ii and richard iii ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31664002", 
+            "title": "news around the bbc", 
+            "text": [
+                "here are some of the other stories we 've been covering today ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31661652", 
+            "title": "funny for money", 
+            "text": [
+                "efforts of endurance are a mainstay of fundraising - what parent does n't welcome the annual sponsored silence day - but a 27-hour comedy gig is a feat of strength few of us would be prepared to tolerate .", 
+                "either on stage or off .", 
+                "still , that 's what mark watson intends to do tonight , when he takes to the stage at the pleasance in north london .", 
+                "oddly , he has n't written any jokes .", 
+                "`` in terms of written material , there 's nothing , ''", 
+                "the show is a fundraiser for comic relief and you can watch the whole thing at"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "14:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31661655", 
+            "title": "holy sexual orientation , batman !", 
+            "text": [
+                "after toying with batman 's affections for 75 years , selina kyle - aka catwoman - has come out as bisexual .", 
+                "the revelation came in this week 's edition of the catwoman comic , although author", 
+                "accordingly , there 's been very little outrage from the character 's fans .", 
+                "catwoman is n't the first bisexual comic book character - harley quinn , the green lantern and batwoman have both had same-sex relationships .", 
+                "honestly , i 'm surprised dc has n't done a story about catwoman being bisexual before .", 
+                "i 've always assumed she was .", 
+                "so dc comics just decided after 75 years that catwoman is bi-sexual .", 
+                "so i just decided that woman woman is my wife .", 
+                "hey !", 
+                "it 's all fiction !"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31662389", 
+            "title": "bottoms up", 
+            "text": [
+                "the diagram prize has announced its shortlist for the oddest book title of the past year , led by a book about the evolution of genitals .", 
+                "the seven titles include :", 
+                "`` ultimately , it is a stunning collection of books .", 
+                "let other awards cheer the contents within , the diagram will always continually judge the book by its cover ( title ) , '' said horace bent of the bookseller .", 
+                "the award will be presented on 27 march ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "13:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31661651", 
+            "title": "redmayne reimagined", 
+            "text": [
+                "the first of eddie redmayne in the danish girl has been revealed .", 
+                "in the film , the oscar-winner plays artist lili elbe , one of the first to undergo gender reassignment surgery in 1930 .", 
+                "due for release in 2016 , director tom hooper originally cast nicole kidman as elbe but she dropped out after shooting was delayed .", 
+                "film company working title also tweeted a of the newest addition to redmayne 's trailer it 'll be a handy way to store donuts during the make-up process ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31661650", 
+            "title": "john revolting ?", 
+            "text": [
+                "scarlett johansson has defended john travolta - saying the excruciatingly awkward kiss he gave her at the oscars was , in fact , totally welcome .", 
+                "his peck on the cheek had become an internet meme by monday , but johansson said it was `` an unfortunate still-frame from a live-action encounter that was totally sweet and totally welcome '' .", 
+                "the actress told the associated press : `` there is nothing at all strange , creepy or inappropriate about john travolta . ''", 
+                "she ca n't have seen battlefield earth ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31661648", 
+            "title": "tfi all over again", 
+            "text": [
+                "ocean colour scene will be delighted - chris evans is bringing tfi friday back to channel 4 .", 
+                "sadly , though , it 's just a one-off special to celebrate the anarchic show 's 20th anniversary .", 
+                "a product of the britpop era , it captured some of the best live music of the 1990s , as well as courting controversy for running features like `` freak or unique '' .", 
+                "shaun ryder was banned for life by channel 4 after repeatedly swearing on the show , while evans", 
+                "no details have been revealed about the comeback .", 
+                "but it wo n't be the same without wiiiiiiiiiilllllll ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "12:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31660238", 
+            "title": "on the re-bond", 
+            "text": [
+                "ah , mr bond we 've been ex-spectre-ing you .", 
+                "[ you 're fired - puns editor ]", 
+                "ahem .", 
+                "bond director sam mendes has posted a behind-the-scenes vlog from the set of the 24th 007 film , revealing why he decided to sign up for a sequel .", 
+                "spectre is `` a movie entirely driven by bond , '' he says .", 
+                "`` he is on the hunt , on the trail , of somebody .", 
+                "you do n't know why , you do n't know what he 's doing .", 
+                "`` and that sense that something is up is also tied to the second part of the crucial story of bond 's childhood .", 
+                "`` once it was clear those huge things were on the table i felt like i had to do it . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31660234", 
+            "title": "average tv viewing down", 
+            "text": [
+                "it 's taken nearly 30 years , but finally we are heeding the advice of kids ' tv show why do n't you ?", 
+                "- specifically the", 
+                "last year , the british public watched an average of 3 hours , 44 minutes , and 30 seconds a day per person .", 
+                "that 's down 10 minutes on 2013 .", 
+                "it also begs the question : did everyone turn off the tv just before they revealed who killed lucy beale ?", 
+                "the figures , from barb , come out as the bbc reveals january was the biggest-ever month on iplayer , with 343 million requests , 264 million of which were for tv programmes .", 
+                "the month 's top five programmes were :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "12:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31659279", 
+            "title": "tate goes multisensory", 
+            "text": [
+                "a project to enhance artworks with smells , sounds and even tastes will come to tate britain later this year .", 
+                "``", 
+                "describing the project as a `` reunion of the senses '' , the winners said : `` imagine having the overwhelming sound and sulphurous smell of a volcano erupting when you take in the enormity of a john martin painting , or experiencing the tastes , smells and sounds associated with hogarth 's the roast beef of old england . ''", 
+                "we 're particularly interested to see what salvador dali 's"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31660236", 
+            "title": "breakingbreaking newsglitter jailed", 
+            "text": [
+                "former glam rock singer gary glitter jailed for 16 years for historical sex abuse against three girls between 1975-1980 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31659282", 
+            "title": "cards down ?", 
+            "text": [
+                "the first reviews of house of cards are starting to trickle in - and it seems critics are disappointed kevin spacey has n't spent his first hour in the oval office just running about with a knife , gleefully murdering people .", 
+                "the third series is `` slow to rouse itself , '' said ed power", 
+                "`` an anticlimactic opening episode slouched along , touching on underwood 's bonkers plan to reboot the economy and a dreary campaign by toxic spouse claire ( robin wright ) to secure a plum un job . ''", 
+                "`` has underwood gone soft ? ''", 
+                "wonders the independent 's", 
+                "meanwhile , the verge is", 
+                "if you 're watching at home , send us your thoughts tweet"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31659277", 
+            "title": "nollywood goes large :", 
+            "text": [
+                "for the first time a film from nollywood - that 's nigeria 's equivalent of hollywood - will premier at london 's bfi imax , the largest cinema screen in britain .", 
+                "thy will be done is the story a happily married pastor whose life is turned upside down when his first wife reappears - seven years after he buried her .", 
+                "world service 's newshour programme asked director obi emelonye what the london premiere means for nigeria 's film industry ."
+            ], 
+            "author": [
+                "World Service"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "11:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31659275", 
+            "title": "dancing grannies cover uptown funk", 
+            "text": [
+                "just when you thought you 'd had enough of uptown funk , here comes an invigorating cover by nigerian singer alex boye .", 
+                "apart from the fantastic vocal harmony arrangement , the video recreates mark ronson and bruno mars 's dance routines with a cast of pensioners", 
+                "boye posted on facebook the cast of his `` oldtown cover '' were all grandparents who `` did their own stunts '' .", 
+                "a strict mormon , he 's also sanitised the lyrics - so `` put some liquor in it '' has been amended to `` put some kool-aid in it '' , and `` hot damn '' has become `` hot dang '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31658019", 
+            "title": "posted picasso recovered", 
+            "text": [
+                "a picasso stolen from a parisian museum has been recovered in new york .", 
+                "painted in 1911 , la coiffeuse ( the hairdresser ) went missing from a storeroom at the pompidou centre in paris in 2001 .", 
+                "it turned up more than 13 years later when a belgian sender named only as `` robert '' sent the painting to a climate-controlled storage facility in new york last december .", 
+                "in an attempt to avoid detection , the parcel was labelled `` art craft / toy '' , but customs officials smelled a rat .", 
+                "`` a lost treasure has been found , '' said loretta lynch , attorney for the eastern district of new york ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31658020", 
+            "title": "# thedress", 
+            "text": [
+                "kim kardashian could n't break the internet with her bottom - even if she sat on it really heavily - but this dress just might .", 
+                "why ?", 
+                "because no-one can decide what colour it is .", 
+                "# thedress , as it has inevitably become known , was posted by alana mcinnes to facebook a week ago , after it provoked an argument between her friends .", 
+                "`` folks , please tell me what colour this dress is .", 
+                "myself , caitlin , robbie , and murray ca n't come to an agreement wether it 's gold and white or blue and black !", 
+                "and if you 're with someone ask them too ! ''", 
+                "now all of twitter has piled in on the argument .", 
+                "taylor swift says it 's blue and black-", 
+                "oscar-winner julianne moore", 
+                "and anna kendrick", 
+                "luckily , science is on hand to explain everything .", 
+                "and , yes , it is blue and black .", 
+                "white and gold", 
+                "@ twitterid white and gold '' .", 
+                "are you insane", 
+                "@ twitterid @ twitterid what 's the matter with u guys , it 's white and gold .", 
+                "@ twitterid @ twitterid thank you ! and congratulations on your oscar , which mindy thinks is purple and green", 
+                "@ twitterid @ twitterid w/all due respect i feel like you both just want attention ( congratulations on your oscar tho , i agree with that )", 
+                "@ twitterid @ twitterid i love attention .", 
+                "that 's why i 'm an actress .", 
+                "@ twitterid kiss me", 
+                "@ twitterid @ twitterid and me", 
+                "@ twitterid @ twitterid @ twitterid julie i love you to bits and pieces but are you insane", 
+                "@ twitterid luiza no", 
+                "@ twitterid i ca n't believe i am siding with mindy and you 're siding with julianne we have this backwards", 
+                "@ twitterid hahahahhahahahahaha help", 
+                "@ twitterid mindykalings and juliannemoor do n't do any justice to mindy kaling and julianne moore", 
+                "@ twitterid i love us", 
+                "@ twitterid i love us too we 're the best", 
+                "@ twitterid", 
+                "@ twitterid @ twitterid @ twitterid what 's the matter with u guys , it 's white and gold . ''", 
+                "@ belledevingo she 's our mom", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid what 's the matter with u guys , it 's white and gold . ''", 
+                "@ belledevingo she 's our mom '' mom", 
+                "@ twitterid @ twitterid @ twitterid anche julianne vede oro e bianco @ twitterid @ twitterid", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid wow tutte come me !", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid @ twitterid te credo lei preso oscar tu cazzo mariah fuori di testa", 
+                "@ twitterid # trustyou", 
+                "@ twitterid @ twitterid @ twitterid what 's the matter with u guys , it 's white and gold . ''", 
+                "god has spoken ! ! ! ! !", 
+                "!", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid god makes mistakes", 
+                "@ twitterid @ twitterid @ twitterid @ twitterid i have seen it in both colors idek what is going on anymore", 
+                "if that 's not white and gold the universe is falling apart .", 
+                "seriously what is happening ? ? ?", 
+                "?", 
+                "@ twitterid agreed", 
+                "@ twitterid this whole # thedress fad has made me question whether i 'm colorblind # wtf # whoami # whereami", 
+                "@ twitterid finally someone agrees", 
+                "@ twitterid @ twitterid it 's blue and black per the original poster", 
+                "@ twitterid i know .", 
+                "i still ca n't see that in the posted though .", 
+                "insane .", 
+                "@ twitterid i 'm so confused how anyone is seeing white !", 
+                "@ twitterid that 's all i see .", 
+                "white & gold .", 
+                "plain as day .", 
+                "i do n't see anything bear the dress the lady was wearing .", 
+                "i 've tried to see it !", 
+                "@ twitterid the coloring in the dress the lady is wearing is very rich but the pic that 's been going around is more muted", 
+                "@ twitterid yeah .", 
+                "i do n't know .", 
+                "i think it 's crazy how half the world sees it so different from the rest .", 
+                "@ twitterid when it came to that dress 'the force ' left d building your not alone : - )", 
+                "@ twitterid its a dress kendrick but not as we know it", 
+                "@ twitterid exactly its white and gold", 
+                "@ twitterid it 's a # banksponsoredmediafrenzy created by # berkshirehathaway to show # viralnews can be artificially created .", 
+                "@ twitterid @ twitterid", 
+                "@ twitterid i 'm here for you , if you need a shoulder to cry on .", 
+                "just saying", 
+                "@ twitterid @ twitterid smooth", 
+                "@ twitterid @ twitterid listen , do n't ruin this for me , ok justin !", 
+                "she 's hurting , and i 'm just offering a little comfort .", 
+                "@ twitterid @ twitterid need more dudes out there like you birm .", 
+                "so chivalrous", 
+                "@ twitterid @ twitterid i 've been trying to get ol ' anna here to take notice but her millions of followers are ruining it for me ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31658017", 
+            "title": "bjork quits spotify", 
+            "text": [
+                "bjork has joined the ranks of ac/dc and taylor swift by withholding her latest album from spotify .", 
+                "`` to work on something for two or three years and then just , oh , here it is for free .", 
+                "it 's not about the money ; it 's about respect , you know ? ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31657058", 
+            "title": "madonna hacker in court", 
+            "text": [
+                "the man accused of leaking madonna 's new album , rebel heart , has been indicted at the tel aviv magistrates court .", 
+                "adi lederman was accused by the state attorney 's office of illegally hacking into the singer 's email account and selling files for sums ranging up to tens of thousands of dollars , reports the times of israel ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31657056", 
+            "title": "double deckard :", 
+            "text": [
+                "harrison ford will reprise his role as rick deckard in the sequel to ridley scott 's sci-fi film noir blade runner , it has been confirmed .", 
+                "shooting will start in 2016 , with dennis villeneuve in negotiations to direct .", 
+                "the canuck film-maker previously helmed the harrowing kidnap thriller prisoners , making him an interesting choice for the director 's job .", 
+                "the story takes place several decades after the conclusion of the 1982 film , which was based on the philip k. dick novel do androids dream of electric sheep ?"
+            ], 
+            "author": [
+                "Deadline"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "09:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31657053", 
+            "title": "korea kidnap story :", 
+            "text": [
+                "north korea 's former supreme commander kim jong-il was a big film buff .", 
+                "he reportedly owned more than 20,000 videos and counted elizabeth taylor among his favourite actresses .", 
+                "but kim 's appetite for cinema went to bigger , and stranger , extremes .", 
+                "in 1978 , long before he succeeded his father kim il sung , he ordered the kidnapping of south korea 's most famous film director , shin sang-ok , and his star , choi eun-hee .", 
+                "they went on to produce north korean cult classic pulgasari , a monster film with socialist leanings , before eventually escaping .", 
+                "the story , good enough for a film plot of its own , has been brought to life in a new book , a kim jong-il production .", 
+                "radio 4 's today programme spoke to the author , paul fischer ."
+            ], 
+            "author": [
+                "BBC Radio 4 Today"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "09:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31657052", 
+            "title": "broadband behemoth", 
+            "text": [
+                "`` season '' ( series ) three of house of cards is live on netflix this morning - all 677 minutes of it .", 
+                "in other words .", 
+                "if you start watching now , you can get through all 13 episodes by 8:30 this evening .", 
+                "the first episode sees us president frank underwood ( kevin spacey ) urinate on his father 's grave his behaviour is only likely to get worse .", 
+                "if the internet seems a little slower today , the increased traffic to netflix might explain why ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "09:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31656606", 
+            "title": "madonna has whiplash", 
+            "text": [
+                "pop star madonna has told jonathan ross she suffered whiplash after her violent fall at the brit awards .", 
+                "taping a show for broadcast on saturday night , she said : `` i had a little bit of whiplash , i smacked the back of my head .", 
+                "`` and i had a man standing over me with a flashlight until about 3am to make sure i was compos mentis . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "09:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31657051", 
+            "title": "penelope and parker", 
+            "text": [
+                "itv have revealed the new-look lady penelope and parker from the remake of thunderbirds .", 
+                "roasmund pike will play the socialite secret agent , while her chauffeur will be voiced by david graham , who played him in the original series .", 
+                "one episode of thunderbirds are go is written by david baddiel and will feature sylvia anderson , who voiced lady penelope in the original series , voicing an entirely new character .", 
+                "for comparison , here 's how the characters appeared in the original series ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "08:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31656603", 
+            "title": "kanye apologises", 
+            "text": [
+                "it appears that kanye west has located the humility centre in his brain - tweeting a series of humble apologies overnight .", 
+                "then , for no particular reason , he", 
+                "earlier , he", 
+                "`` i want to apologise to everyone right now because i believe season one might still be in that upper price point and there 's still the words 'exclusivity ' being thrown around , '' said the star .", 
+                "`` nothing should be exclusive .", 
+                "everybody should have the opportunity to drink from the same fountain . ''", 
+                "kanye west 's new album will be called `` my mistakes and how i learned from them '' .", 
+                "allegedly ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "cit_31656600", 
+            "title": "get in touch :", 
+            "text": [
+                "so , are you pulling a sickie to binge-watch the entire third series of house of cards ?", 
+                "if so , send us your thoughts", 
+                "and if you have any tips for stories , or comments on today 's coverage , we 'd love to hear from you too .", 
+                "tweet"
+            ], 
+            "author": [
+                "Victoria Lindrea", 
+                "Arts and entertainment reporter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "cit_31656598", 
+            "title": "good morning !", 
+            "text": [
+                "welcome along to our live coverage for friday , 2 february .", 
+                "we 'll be bringing you the latest news from the world of arts and entertainment , as fast as our fingers can type it .", 
+                "if you could bring us a coffee around 11am , that 'd be marvellous .", 
+                "thanks ."
+            ], 
+            "author": [
+                "Mark Savage", 
+                "Entertainment reporter"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:32"
+        }
+    ], 
+    "genre": "entertainment-arts", 
+    "quality": "high"
+}

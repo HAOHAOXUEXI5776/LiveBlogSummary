@@ -1,0 +1,741 @@
+{
+    "blog_id": "8fc202de29d788e4c66462528de9df5a6130ebb3", 
+    "title": "US jobs report disappoints as UK manufacturing hits four-month high - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2017/sep/01/investors-await-key-us-jobs-report-for-clues-on-next-rate-move-business-live", 
+    "summary": [
+        "growth in us manufacturing slows .", 
+        "wall street opens higher after us jobs data .", 
+        "dollar falls after weak us jobs report .", 
+        "us non-farm payrolls disappoint .", 
+        "greek pm : economy has 'turned a page '", 
+        "greek economy grows for second successive quarter .", 
+        "drugs company plunges 40 % on loss of heroin substitute patent case ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a9648ae4b04a1acb62afd5", 
+            "title": "growth in us manufacturing slows", 
+            "text": [
+                "production at us factories in august grew at the weakest rate since june 2016 according to the latest manufacturing pmi report from ihs markit .", 
+                "the headline index slipped to 52.8 in august , from 53.3 in july ( where anything above 50 signals growth ) .", 
+                "chris williamson , chief business economist at ihs markit , said : although still above the 50 'no change ' level , the decline in the pmi shows signs of a renewed stuttering of the manufacturing economy during august .", 
+                "the latest reading indicates one of the weakest improvements in the overall health of the sector seen over the past year , and translates into disappointing signals for comparable official data .", 
+                "the survey brings more encouraging signs of improved domestic demand , however , with orders for both consumer goods and investment goods such as plant and machinery on the rise , boding well for the wider economy to continue to expand as we move through the second half of 2017 .", 
+                "and on that note , we 'll close up for the day .", 
+                "thanks for all your comments and please join us again on monday .", 
+                "have a good weekend .", 
+                "am"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                13, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a96189e4b0be1f0a693260", 
+            "title": "wall street opens higher after us jobs data", 
+            "text": [
+                "the opening bell has been rung on wall street and here is how it looks : dow jones : +0.2 % at 21,984 s & p 500 : +0.2 % at 2,476 nasdaq : +0.2 % at 6,444 european markets have also stayed in positive territory , although the ftse 100 is now up just 7 points or 0.1 % at 7,437 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                13, 
+                37
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a960dee4b04a1acb62afc6", 
+            "title": "", 
+            "text": [
+                "the dollar has broadly recovered after a sharp fall immediately after the weak non-farm payrolls report was published .", 
+                "the dollar index is down just 0.1 % now , but the pound has held on to its gains against the us currency at $ 1.2987 .", 
+                "neil wilson from etx capital : the us dollar was driven down and then snapped back to trade almost flat after a weaker-than-expected jobs report left traders searching for direction .", 
+                "although a miss it looks like this print is n't doing anything to alter projections for what the federal reserve will do later this month or for the rest of the year .", 
+                "the labour market remains in fine health , wage growth is awol and inflation lacklustre - nothing has changed today .", 
+                "one swallow does n't make a summer and one august jobs miss does n't make for a weakening labour market .", 
+                "markets have already decided the fed probably wo n't hike again this year ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                13, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a95b60e4b04a1acb62afb4", 
+            "title": "", 
+            "text": [
+                "craig erlam , senior market analyst at oanda , takes the view that the weak jobs report will make the fed more reluctant to raise interest rates again before the end of the year .", 
+                "if federal reserve policy makers were already starting to question the need for another rate hike this year - and the pace thereafter - then this week 's data wo n't have made them feel any more comfortable .", 
+                "anyone hoping for a signal this month that the fed is on track for another rate hike this year may well be disappointed .", 
+                "the downward revision to july 's non-farm payrolls number was the icing on the cake .", 
+                "it 's worth noting that while the numbers are disappointing , the labor market is still performing very well , but when inflation data is lacking , the fed is relying on the employment data to justify more rate hikes .", 
+                "the jobs report will be seen as a blow to fed chances of another rate hike this year , as well as to donald trump who i 'm sure would have loved nothing more than a reason to post something positive on twitter .", 
+                "i feel this month 's report may not make the twitter cut ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                13, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a959a3e4b0be1f0a693238", 
+            "title": "", 
+            "text": [
+                "paul ashworth , chief us economist at capital economics , says that while the non-farm payrolls report was gloomy , it was n't bad enough to have an impact on the fed 's rate decisions .", 
+                "august 's employment report was disappointing across the board but , given the potential seasonal problems - with weak initial readings in august subsequently revised higher in previous years - it is n't going to have any meaningful impact on the fed .", 
+                "with the survey evidence still strong and third-quarter economic growth on course for another decent gain after the second , there is no reason to believe that the modest drop-off in employment growth is the start of a more serious downturn .", 
+                "nevertheless , since the september figures could be affected by hurricane harvey , the fed might be waiting until the october data are released in early november before confirming that the labour market remains in good health ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                13, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a956b2e4b0be1f0a69322c", 
+            "title": "dollar falls after weak us jobs report", 
+            "text": [
+                "the dollar index , which measures the us currency against a basket of other major currencies , is down 0.5 % following the weak payrolls report from the labor department .", 
+                "the dollar 's loss is the pound 's gain , with sterling now up 0.4 % at $ 1.2986 .", 
+                "bloomberg ( @ business ) the dollar tumbles and treasuries erase losses following the august jobs numbers"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                12, 
+                55
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a95545e4b07c775243da34", 
+            "title": "", 
+            "text": [
+                "the detail of the non-farm payrolls report showed a surprise uptick in the unemployment rate to 4.4 % in august , from 4.3 % in july .", 
+                "earnings growth was unchanged at 2.5 % , disappointing expectations of a to 2.6 % .", 
+                "bloomberg ( @ business ) u.s. employers added 156,000 jobs in august .", 
+                "here 's who 's hiring and who 's not"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                12, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a952bae4b04a1acb62af8d", 
+            "title": "us non-farm payrolls disappoint", 
+            "text": [
+                "breaking : us non-farm payrolls have come in well below expectations , with 156,000 jobs added in august .", 
+                "the consensus among economists was 180,000 jobs .", 
+                "the number for july was also revised down to 189,000 from 209,000 previously .", 
+                "more soon"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                12, 
+                33
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a9501be4b07c775243da1e", 
+            "title": "greek pm : economy has 'turned a page '", 
+            "text": [
+                "over in greece , the government said the economy is finally moving on from the crisis , after a second consecutive quarter of growth between april and june .", 
+                "a statement released by the office of prime minister alexis tsipras said : without any doubt the greek economy has turned a page .", 
+                "we are continuing our efforts for just growth , one in which workers ate protected , and building a new productive model .", 
+                "the leftist-led coalition added that even at the height of tortuous negotiations to unlock emergency funding from creditors and keep debt-stricken greece afloat , the economy exhibited signs of dynamic recovery . ''", 
+                "opposition parties contend that because of bungled negotiations under former finance minister yanis varoufakis , the punishing \u20ac86bn bailout package athens was forced to sign up to - in the form of a third rescue - was much harsher than necessary ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                12, 
+                29
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a94c8de4b04a1acb62af70", 
+            "title": "", 
+            "text": [
+                "time for a look again at european markets , which have extended gains this afternoon ahead of the us non-farm payrolls at 13.30 .", 
+                "ftse 100 : +0.3 % at 7,456 germany 's dax : +0.9 % at 12,165 france 's cac : +1 % at 5,134 italy 's ftse mib : +0.8 % at 21,841 spain 's ibex : +0.6 % at 10,356 europe 's stoxx 600 : +0.6 % at 376"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                12, 
+                10
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a93ceee4b0221ecad14b3b", 
+            "title": "greek economy grows for second successive quarter", 
+            "text": [
+                "some positive news on greece 's economy , which grew for a second successive quarter between april and june .", 
+                "gdp grew by 0.5 % in the second quarter , maintaining the pace of first-quarter growth .", 
+                "annual growth up to 0.8 % from 0.4 % .", 
+                "the main driver of growth in the second quarter was exports , which increased by 3.8 % .", 
+                "kathimerini english ( @ ekathimerini ) greek economy expands for second straight quarter"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                11, 
+                12
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a93acbe4b0221ecad14b33", 
+            "title": "", 
+            "text": [
+                "the pound is roughly stable today against both the dollar and the euro , at $ 1.2926 and \u20ac1.0847 respectively .", 
+                "but ranko berich , head of market analysis at monex europe , says the pound is in for a tough time as uncertainty grows : sterling has had a rough month , particularly against the euro .", 
+                "a big part of that has been driven by euro strength there 's also the fact that recent data suggests the brexit chickens may finally be coming home to roost for the economy , with lukewarm consumer spending and flat business investment .", 
+                "it all adds up to a lot of uncertainty , which of course translates to rich for sterling bears .", 
+                "politics and growth remain the two key considerations for the rest of the year .", 
+                "how quickly brexit negotiations move from divorce terms to the future relationship between the eu and uk stands out as a key issue , as delays risk further dents to business investment .", 
+                "high frequency data , especially retail sales , will also be worth apart with a fine-tooth comb as the last couple of months have shown some recovery , but real wages remain in contraction and it 's unclear how consumers will respond ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                10, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a93712e4b0246be4749ab3", 
+            "title": "", 
+            "text": [
+                "neil wilson , analyst at etx capital , says the us non-farm payrolls number would have to come in a lot higher than expected to give the dollar a major boost .", 
+                "( economists are forecasting a headline figure of 180,000 jobs . )", 
+                "it will require a big beat on the headline jobs number today for the dollar to get another leg up from these levels .", 
+                "with eurusd holding below 1.19 and usjpy above 110 there does not much scope to the upside unless the non-farm payrolls ( nfp ) over deliver in a big way .", 
+                "the dollar was looking a touch oversold but has found its feet - it just needs some more direction but the nfp will only provide that if it 's significantly stronger than expected or undershoots .", 
+                "on hopes for the nfp , it 's all about whether this print is strong enough to get the market talking up another hike this year , which is currently a 1-in-3 chance right now ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                10, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a92e4ce4b0221ecad14b09", 
+            "title": "drugs company plunges 40 % on loss of heroin substitute patent case", 
+            "text": [
+                "shares in drugs group indivior are down almost 40 % after it lost a us patent ruling that could pave the way for the launch of rivals to its suboxone film heroin substitute .", 
+                "the shares plunge made it the biggest faller on the ftse 250 and wiped more than \u00a3 1bn off the value of the company .", 
+                "read our full story here : indivior sees \u00a3 1bn fall in value as it loses heroin treatment patent case read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                10, 
+                2
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a92904e4b0221ecad14aef", 
+            "title": "", 
+            "text": [
+                "italy 's economy grew by 0.4 % in the second quarter , the national statistics bureau istat confirmed .", 
+                "it matched first-quarter growth and left the annual growth rate for q2 unchanged at 1.5 % ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                9, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a924dde4b0d78647cffda9", 
+            "title": "", 
+            "text": [
+                "lee hopley , chief economist at the manufacturing trade body , eef , says that the uk pmi suggests the sector is in store for a better second half of the year .", 
+                "today 's data confirm that uk manufacturers are looking beyond the brexit negotiations to strengthening market opportunities in europe and beyond , with the acceleration in manufacturing activity in august helping to provide some welcome offset to sluggish consumer demand at home .", 
+                "the raft of decent survey data from the sector suggest manufacturing output growth should look better in the second half of this year than it did in the first , but longer term the continued robustness of demand in the rest of the world and the right investment decisions at home to capitalise on it will be key to sustaining this"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                9, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a91fade4b0221ecad14acd", 
+            "title": "", 
+            "text": [
+                "the uk manufacturing pmi hit a four-month high in august .", 
+                "samuel tombs , chief economist at pantheon macroeconomics , says that while the survey signals strong growth , manufacturers remain cautious about the outlook .", 
+                "the in the pmi brings tentative hope that the recent decline in the official manufacturing output data will be reversed swiftly .", 
+                "the manufacturing sector , however , should be doing even better , given sterling 's huge depreciation and the emergence of a strong recovery in the eurozone .", 
+                "indeed , the u.k. 's pmi remained below the eurozone 's for the fourth consecutive month .", 
+                "in addition , manufacturers ' optimism regarding future production growth only edged up in august to its five-year average , suggesting that they will invest only cautiously in extra capacity ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                9, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a91a90e4b0221ecad14abb", 
+            "title": "uk manufacturing beats expectations in august", 
+            "text": [
+                "uk factory output growth accelerated in august according to the ihs markit pmi survey britain 's factories were going full steam ahead in august according to the ihs markit uk manufacturing pmi .", 
+                "the headline index combining factory output , orders and employment , rose to a four-month high of 56.9 , from 55.3 in july .", 
+                "it comfortably beat economists ' expectations of 55 .", 
+                "demand was chiefly driven by domestic customers , but customers also reported new export orders from mainland europe , the us , china and australia .", 
+                "rob dobson , director at ihs markit , said britain 's manufacturing sector was performing well despite brexit uncertainty : the key question is whether this positive start to the second half of the year can be sustained .", 
+                "this is looking increasingly likely during the near-term , given the breadth of the expansion .", 
+                "at the moment , the survey data suggest that the manufacturing economy remains in good health despite brexit uncertainty , and should help support on-going growth in the economy in the third quarter , which will add fuel to hawkish policymakers ' calls for higher interest rates ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                8, 
+                47
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a913cce4b0246be4749a2c", 
+            "title": "eurozone manufacturing activity rises in august on strong demand", 
+            "text": [
+                "eurozone factories enjoyed strong demand in august , with output growing at a faster pace than in july .", 
+                "the headline index on the ihs markit manufacturing pmi rose to 57.4 , from 56.6 in july ( any number above 50 indicates growth ) .", 
+                "domestic and export orders were both strong , and expansion was led by germany , the netherlands , and austria .", 
+                "here is how individual countries performed : austria : 61.1 ( 78-month high ) netherlands : 59.7 ( 78-month high ) germany : 59.3 ( 2-month high ) italy : 56.3 ( 78-month high ) ireland : 56.1 ( 25-month high ) france : 55.8 ( 76-month high ) spain : 52.4 ( 11-month low ) greece : 52.2 ( 108-month high ) chris williamson , chief business economist at ihs markit , said the august survey suggested a positive start to the third quarter for the eurozone economy .", 
+                "the eurozone 's impressive manufacturing upturn regained momentum in august , with a summer surge in factory activity suggesting rising goods production will support another strong gdp reading in the third quarter .", 
+                "the survey indicates that euro area manufacturing output is growing at an annual rate of approximately 4 % .", 
+                "producers across the region are benefitting from rising domestic demand as economic recoveries gain momentum , as well as surging export sales ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                8, 
+                23
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a90d97e4b0221ecad14a92", 
+            "title": "european markets rise in early trading", 
+            "text": [
+                "the ftse 100 is up 15 points this morning , as major markets across europe rise for a third day .", 
+                "the latest scores : ftse 100 : +0.2 % at 7,446 germany 's dax : +0.3 % at 12,090 france 's cac : +0.6 % at 5,118 italy 's ftse mib : +0.4 % at 21,750 spain 's ibex : +0.4 % at 10,336 europe 's stoxx 600 : +0.3 % at 375"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                7, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a9097ae4b0221ecad14a86", 
+            "title": "china manufacturing survey beats expectations", 
+            "text": [
+                "production line in chinese factory china 's august caixin manufacturing pmi has come in ahead of expectations , up to 51.6 from 51.1 in july ( where anything above 50 signals growth ) .", 
+                "it supports the official pmi survey published on thursday , which also signalled stronger-than-expected growth in china 's factories .", 
+                "however julian evans-pritchard , china economist at capital economics , says it 's not all good news for the world 's second largest economy : stronger manufacturing pmi readings for august suggest that industrial output remains resilient .", 
+                "however , momentum elsewhere in the economy has weakened .", 
+                "we suspect that it is speculation over future capacity cuts that has pushed up metal prices and industrial production , rather than stronger underlying demand .", 
+                "indeed , investment growth has cooled recently and we anticipate a further slowdown as the impact of tighter monetary conditions continue to feed through .", 
+                "if we are right , then the current strength of industrial activity ca n't be sustained for long ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                7, 
+                34
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59a90783e4b0d78647cffd3e", 
+            "title": "", 
+            "text": [
+                "adam cole , chief currency strategist at rbc , says that it would be wrong to place too much emphasis on the strong adp jobs report from earlier in the week .", 
+                "us august payrolls dominate the day ahead .", 
+                "expectations are probably for a firmer reading than the published consensus of a 180k increase after the adp survey , though we would note that the adp survey has a very patchy track record and does not consistently improve the accuracy of consensus forecasts ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                7, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59a8f8f9e4b0d78647cffd14", 
+            "title": "the agenda : non-farm payrolls and manufacturing pmis in focus", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the latest news from the world economy , the financial markets , the eurozone and business .", 
+                "it 's that time again : non-farm payrolls day .", 
+                "at 13.30 bst we will get the august report on employment and wages , giving the latest snapshot of how well the us jobs market and wider economy are doing .", 
+                "the official consensus among economists is for a 180,000 increase in jobs , following a 209,000 rise in july .", 
+                "wage growth is expected to edge up to 2.6 % from 2.5 % previously .", 
+                "however , a stronger-than-expected adp jobs report earlier in the week is raising speculation the payrolls report could surprise on the upside .", 
+                "if that was the case , investors would be more willing to bet that the federal reserve will raise rates again before the end of the year .", 
+                "cmc markets ' michael hewson : a decent payrolls number today would be the icing on the cake in a week that has seen some positive signs that the us economy may be in better shape that was previously thought prior to jackson hole .", 
+                "today 's us employment report is expected to see 180k jobs added in august , down from july 's 209k , however this week 's bumper adp report has seen some estimates for today revised higher .", 
+                "of more importance will be how strong the wages numbers come in , given an unemployment rate of 4.3 % .", 
+                "annual hourly wage growth is currently 2.5 % , a little on the weak side for an economy supposedly at full employment so a strong number here could increase the odds of another rate rise this year , most likely in december .", 
+                "of course a stronger report is not a foregone conclusion : forex live ( @ fxlivetradinguk ) in 16 of the past 20 years , august non-farm payrolls has been below the consensus.the fed is the other major focus of the day will be manufacturing pmis from the eurozone and uk , providing the latest clues on the health of those economies : 09.00 bst eurozone manufacturing pmi ( august ) 09.00 bst italian gdp , final estimate ( q2 ) 09.30 bst uk manufacturing pmi ( august )"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                9, 
+                1, 
+                7, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.55pm BST\n14:55\nGrowth in US manufacturing slows\n", 
+                "block": "block-59a9648ae4b04a1acb62afd5"
+            }, 
+            {
+                "text": "\n\n2.37pm BST\n14:37\nWall Street opens higher after US jobs data\n", 
+                "block": "block-59a96189e4b0be1f0a693260"
+            }, 
+            {
+                "text": "\n\n1.55pm BST\n13:55\nDollar falls after weak US jobs report\n", 
+                "block": "block-59a956b2e4b0be1f0a69322c"
+            }, 
+            {
+                "text": "\n\n1.33pm BST\n13:33\nUS non-farm payrolls disappoint\n", 
+                "block": "block-59a952bae4b04a1acb62af8d"
+            }, 
+            {
+                "text": "\n\n1.29pm BST\n13:29\nGreek PM: economy has 'turned a page'\n", 
+                "block": "block-59a9501be4b07c775243da1e"
+            }, 
+            {
+                "text": "\n\n12.12pm BST\n12:12\nGreek economy grows for second successive quarter\n", 
+                "block": "block-59a93ceee4b0221ecad14b3b"
+            }, 
+            {
+                "text": "\n\n11.02am BST\n11:02\nDrugs company plunges 40% on loss of heroin substitute patent case\n", 
+                "block": "block-59a92e4ce4b0221ecad14b09"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "Growth in US jobs slowed sharply in August, diminishing the prospect of another interest rate hike before the end of the year.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/sep/01/investors-await-key-us-jobs-report-for-clues-on-next-rate-move-business-live?page=with:block-59a91a90e4b0221ecad14abb#block-59a91a90e4b0221ecad14abb"
+                ], 
+                "text": "UK manufacturing growth hits four-month high.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/sep/01/investors-await-key-us-jobs-report-for-clues-on-next-rate-move-business-live?page=with:block-59a9501be4b07c775243da1e#block-59a9501be4b07c775243da1e"
+                ], 
+                "text": "Greek PM: economy has turned corner with Q2 growth.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/sep/01/investors-await-key-us-jobs-report-for-clues-on-next-rate-move-business-live?page=with:block-59a90d97e4b0221ecad14a92#block-59a90d97e4b0221ecad14a92"
+                ], 
+                "text": "Markets rise after US jobs data.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/business/live/2017/sep/01/investors-await-key-us-jobs-report-for-clues-on-next-rate-move-business-live?page=with:block-59a913cce4b0246be4749a2c#block-59a913cce4b0246be4749a2c"
+                ], 
+                "text": "Eurozone factories enjoy strong demand in August.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

@@ -1,0 +1,978 @@
+{
+    "blog_id": "26fc19f548be380b938b9b06e7655c938b21231a", 
+    "title": "BBC Local Live: Leicestershire on Tuesday 7 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-38887268", 
+    "summary": [
+        "updates for tuesday 7 february 2017 .", 
+        "man stabbed in city mcdonald 's .", 
+        "lcfc announce 'unwavering support ' for ranieri .", 
+        "school celebrates 300th birthday .", 
+        "couple 's struggle to fund ivf .", 
+        "riders host newcastle in bbl trophy .", 
+        "news , sport , travel and weather updates will resume at 08:00 wednesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_589a0405e4b030b30affab2e", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live - update will start again on wednesday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589a03e3e4b030b30affab2d", 
+            "title": "weather : rain and drizzle", 
+            "text": [
+                "patchy cloud with the risk of an isolated shower this evening .", 
+                "overnight cloud will thicken up with outbreaks of rain and drizzle .", 
+                "a minimum temperature of 3c ( 37f ) .", 
+                "a cold start to wednesday .", 
+                "it 'll be mostly cloudy with chilly easterly winds and outbreaks of light rain and drizzle .", 
+                "a maximum temperate of 4c ( 39f ) ."
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f8b5e4b0e4560c048e31", 
+            "title": "your photos : beacon hill", 
+            "text": [
+                "thanks to weather paul for uploading this brilliant photo of beacon hill in woodhouse eaves"
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f6b3e4b00909cde10dfc", 
+            "title": "watch : marc albrighton issues rallying call", 
+            "text": [
+                "marc albrighton said staff , players and fans need to `` pull together ''"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_589a0422e4b030b30affab2f", 
+            "title": "watch : pupils at humphrey perkins school", 
+            "text": [
+                "school children describe what it 's like to be a part of the 300th birthday celebrations"
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589a0258e4b00909cde10e42", 
+            "title": "how the school has changed", 
+            "text": [
+                "the school moved to cotes road in 1902 with 33 pupils - just one of them a girl .", 
+                "today , as an academy , it educates 850 aged 11-16 ."
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589a0178e4b030b30affab20", 
+            "title": "history of humphrey perkins school", 
+            "text": [
+                "humphrey perkins school was founded in 1717 as a free grammar school named after reverend humphrey perkins .", 
+                "it was then built near the village centre 18 years later"
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589a004ce4b0e4560c048e57", 
+            "title": "students celebrate school anniversary", 
+            "text": [
+                "celebrating a remarkable milestone - humphrey perkins school in barrow-upon-soar has been moulding young minds since the 1700s .", 
+                "today the school 's current pupils have been marking its long and proud history"
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f66fe4b00909cde10dfb", 
+            "title": "have foxes players lost their determination ?", 
+            "text": [
+                "nigel pearson initially struggled in his first season in the top-flight but the club backed him and he led them to the `` greatest escape '' .", 
+                "here 's my concern though - there was real evidence of fight then but i 'm not so sure that steeliness and determination is as prevalent now .", 
+                "i fear for the club this season , but they do have the capability to stay up .", 
+                "i hope they go out there and prove themselves once again .", 
+                "kasper schmeichel has come out with some strong words and the rest of the players could do well to heed his advice ."
+            ], 
+            "author": [
+                "Jason Bourne", 
+                "BBC Radio Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f5b9e4b030b30affaae3", 
+            "title": "watch : no crisis at leicester", 
+            "text": [
+                "leicester city boss claudio ranieri insists there is no crisis at the club , despite the reigning premier league champions being just one point above the relegation zone"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10364796", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899f556e4b030b30affaae2", 
+            "title": "pressure not getting to ranieri", 
+            "text": [
+                "claudio was upbeat and thoroughly charming as he showed no signs of pressure during his news conference this afternoon .", 
+                "leicester city are struggling in the premier league and have n't scored a goal in the competition since 31 december , but you would n't know it from speaking to him today .", 
+                "he suggested the club 's statement was for us in the media rather than for him - but what it does show is that the club are prepared to be patient with him ."
+            ], 
+            "author": [
+                "Jason Bourne", 
+                "BBC Radio Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f32fe4b0e4560c048e11", 
+            "title": "ranieri asks fans to stand by foxes", 
+            "text": [
+                "despite the fa cup match being between `` local rivals '' claudio ranieri said it 's not as important as the premier league right now - `` the premier league is our priority '' .", 
+                "he had a message for fans", 
+                "`` we are close together .", 
+                "last season was fantastic and this season we need to be more solid .", 
+                "we need you . ''"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899f1dbe4b00909cde10de0", 
+            "title": "amartey available for fa cup clash", 
+            "text": [
+                "the conversation did eventually turned to football - ranieri said he will be sticking to the 4-4-2 formation for now after doing a bit of experimenting .", 
+                "he said daniel amartey will be available to play against derby after his time away in the african cup of nations .", 
+                "islam slimani and leonardo ulloa are `` improving '' with slimani expected to return for the match against swansea ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899efeae4b030b30affaaca", 
+            "title": "ranieri not lost confidence", 
+            "text": [
+                "ranieri said the club is not in `` crisis '' claiming `` it 's normal to lose confidence when you 're not winning - he however does have confidence .", 
+                "he said : `` these players came from the bottom of the table to win the title .", 
+                "for this reason i am confident with my players '' ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899ed86e4b00909cde10dc8", 
+            "title": "ranieri reacts to club statment", 
+            "text": [
+                "so what came from the leicester city press conference today", 
+                "well claudio ranieri started by talking about the statement made by the football club saying it has `` unwavering support '' for him .", 
+                "he said : `` i think this is for the media .", 
+                "i know the views of the chairman .", 
+                "maybe the chairman wanted to stop all the speculation .", 
+                "`` i understand football .", 
+                "when you win three matches you are god , when you lose three you are not '' ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899e489e4b030b30affaa98", 
+            "title": "police can 'stop and search ' football fans", 
+            "text": [
+                "police will be using `` stop and search '' in the city tomorrow when leicester city play derby county in the fa cup replay .", 
+                "officers will be able to search you if you are within the ring road between midday and 23:00 - they 'll be looking for things like weapons .", 
+                "there will also be a dispersal order in place during the same time .", 
+                "this means police will be able to tell to anyone over the age of 10 to leave a public area ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899e28ee4b030b30affaa8d", 
+            "title": "man wanted after missing court date", 
+            "text": [
+                "police are appealing for help to find this man", 
+                "jamie day is 28 years old and is originally from the hinckley area .", 
+                "he 's wanted for failing to appear at court after being charged with burglary in september last year ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "23:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899defee4b030b30affaa74", 
+            "title": "leicester city back boss ranieri", 
+            "text": [
+                "leicester city stand by boss claudio ranieri despite the reigning premier league champions being one point above the relegation zone ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899df27e4b030b30affaa76", 
+            "title": "ford 's 'desire is to join leicester '", 
+            "text": [
+                "sale director of rugby steve diamond suggests bath and england fly-half george ford has a will to return to leicester ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899c85be4b00909cde10d27", 
+            "title": "watch : mosaic to go on public display", 
+            "text": [
+                "this roman mosaic , recently discovered in leicester , will soon be going on display at jewry wall museum"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899bebbe4b00909cde10cf1", 
+            "title": "ivf postcode lottery 'heartbreaking '", 
+            "text": [
+                "the couple said they were unable to fund private fertility treatment without causing extreme hardships '' .", 
+                "stacey said : `` it 's heartbreaking , disgusting and upsetting that other people in the country get three ivf cycles .", 
+                "i am really angry and feel letdown .", 
+                "`` why should we move and leave our home , we should be treated equally . ''"
+            ], 
+            "author": [
+                "Sonia Kataria", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899c031e4b00909cde10cfb", 
+            "title": "nhs makes 'difficult decisions ' over local ivf criteria", 
+            "text": [
+                "the nhs leicester city clinical commissioning group decides on the number of ivf cycles for patients in the city .", 
+                "in a letter , it said it was necessary '' to make difficult decisions with limited resources .", 
+                "talking about stacey and leigh 's case it said : we do hope that mr and mrs oswin will understand the necessity in establishing criteria that assists in helping to prioritise our budgets for the benefit of all patients . ''"
+            ], 
+            "author": [
+                "Sonia Kataria", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "22:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899cf85e4b030b30affaa16", 
+            "title": "mcdonald 's stabbing cordon lifted", 
+            "text": [
+                "it looks like mcdonald 's on market street has re-opened .", 
+                "police cordoned it off earlier following a stabbing in the early hours ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899ca9ee4b00909cde10d31", 
+            "title": "breakingfoxes announce 'unwavering ' support for ranieri", 
+            "text": [
+                "leicester city has just released this statement about claudio ranieri 's position at the club"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899c99be4b00909cde10d2d", 
+            "title": "rugby : speculation on ford deal", 
+            "text": [
+                "sale director of rugby steve diamond has said : `` it looks as if leicester have broke the bank to sign [ george ford ] ''", 
+                "no signing has been officially announced by leicester tigers yet ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899c0ade4b00909cde10cfd", 
+            "title": "afternoon weather update", 
+            "text": [
+                "brighter spells expected across the east midlands this afternoon and staying mainly dry , although there is a the risk of a shower later today .", 
+                "highs of 9c ( 48f ) ."
+            ], 
+            "author": [
+                "Rebecca Wood", 
+                "BBC Midlands Today Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899c1e9e4b030b30affa9e0", 
+            "title": "man stabbed in city mcdonald 's", 
+            "text": [
+                "police are investigating a stabbing at mcdonald 's on market street in leicester this morning .", 
+                "they 've said a 21-year-old man sustained a stab wound after a fight at about 4:30 - he 's in hospital but his injuries are not thought to be serious .", 
+                "the restaurant has been cordoned off ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "20:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899b9dce4b030b30affa9af", 
+            "title": "couple 'disadvantaged ' by home city", 
+            "text": [
+                "the oswins said they had become a `` victim of the cruel and unethical postcode lottery '' for nhs fertility services in england .", 
+                "patients in leicester are offered one nhs-funded cycle of ivf treatment , but in greater manchester you get three ."
+            ], 
+            "author": [
+                "Sonia Kataria", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "20:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899b89de4b00909cde10ccb", 
+            "title": "online fundraiser for more fertility treatment", 
+            "text": [
+                "stacey and her husband have been unsuccessful in having a baby in the last 10 years .", 
+                "the 30-year-old said : `` i have no purpose , i feel empty and numb without a child .", 
+                "i 've resulted to crowdfunding - i am desperate it 's my last chance .", 
+                "`` every day is a struggle .", 
+                "i 've even had to move away from family and friends , who are pregnant , because it hurts too much to be around them . ''"
+            ], 
+            "author": [
+                "Sonia Kataria", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899b7c8e4b030b30affa9a1", 
+            "title": "couple 'disgusted ' by ivf postcode lottery", 
+            "text": [
+                "a couple from eyres monsell in leicester have resulted to desperate '' measures to raise money for a second cycle of in vitro fertilisation ( ivf ) treatment .", 
+                "stacey and leigh oswin said they were `` disgusted and angry '' to receive one nhs-funded round because they live in leicester .", 
+                "they have set up an online fundraising campaign to raise \u00a3 5,000 for private treatment ."
+            ], 
+            "author": [
+                "Sonia Kataria", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "20:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899b05ce4b00909cde10c92", 
+            "title": "tigers announce anglo welsh cup fixture", 
+            "text": [
+                "leicester tigers ' anglo welsh cup semi-final at saracens will be a 18:00 kick-off on saturday 11 march ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5899ad5ce4b030b30affa960", 
+            "title": "school celebrates milestone birthday", 
+            "text": [
+                "a special assembly is underway at humphrey perkins school in barrow upon soar to mark its 300th birthday"
+            ], 
+            "author": [
+                "Amy Harris", 
+                "Reporter, BBC East Midlands Today"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899ab1ee4b00909cde10c7a", 
+            "title": "school making 'positive progress '", 
+            "text": [
+                "what is the school saying about the inspection findings ?", 
+                "james mckenna is the principle - .", 
+                "he said : `` the ofsted report highlights a clear need for change .", 
+                "where issues have been identified we have put strategies in place and as a result we can see positive signs of progress .", 
+                "however there is still work to be done and our number one priority will be addressing this . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899a1d3e4b0e4560c048c4e", 
+            "title": "parents 'worried ' about ofsted findings", 
+            "text": [
+                "today parents with children at the school will get a chance to question teachers about the findings of the inspection .", 
+                "one woman with a 15-year-old daugher at the school has told bbc radio leicester : `` after these reports have come out i am quite worried and stressed - especially the bullying part .", 
+                "i 'm thinking every day she goes to school is she going to be ok ?", 
+                "is she safe ? ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:49"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58999c86e4b00909cde10c23", 
+            "title": "frequent physical assaults at school", 
+            "text": [
+                "the education watchdog ofsted has found this school in evington to be `` inadequate ''", 
+                "inspectors found that once concerns were raised , systems to monitor and support children were `` not fit for purpose '' .", 
+                "also , of the limited reports available , `` physical assaults among pupils '' were frequent ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899979ce4b00909cde10c0f", 
+            "title": "what the council is doing to help the homeless", 
+            "text": [
+                "`` we are out every day working with rough sleepers and have just received extra government funding which will allow us to increase our team of outreach workers and continue to fund the 'no second night out ' project .", 
+                "our outreach team know by name the rough sleepers we are working with and we would be happy to work with one roof to identify anyone we may have missed . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58999692e4b0e4560c048c1b", 
+            "title": "charity wants to work with council", 
+            "text": [
+                "salma ravat thinks there 's more the city council can be doing to get homeless people off the streets .", 
+                "she said : `` the city council do n't refer to voluntary and charitable organisations , like ours , that are n't commissioned by them .", 
+                "`` now if they did , together we could actually look at the problem and creative solutions to how we can tackle rough sleeping in the city and hopefully get more people off our streets . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58998e52e4b00909cde10be4", 
+            "title": "your thornton reservoir", 
+            "text": [
+                "sarah summers kindly sent us this photograph on facebook of thornton reservoir in the morning mist .", 
+                "you might have guessed from the weather , this is yesterday .", 
+                "what a difference a day makes !"
+            ], 
+            "author": [
+                "Ben Truslove", 
+                "BBC News Online"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58998bafe4b0e4560c048be7", 
+            "title": "watch : homeless 'gnawed ' by rats", 
+            "text": [
+                "salma ravat from one roof leicester describes the type of people they are helping"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58998b82e4b030b30affa8a5", 
+            "title": "latest leicestershire headlines", 
+            "text": [
+                "latest leicestershire headlines"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:57"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58998844e4b030b30affa891", 
+            "title": "'not enough beds in the city '", 
+            "text": [
+                "`` faith and community groups working with rough sleepers have noticed a real rise in the number of rough sleepers that are using their provision .", 
+                "this is backed up by the official government figures that say rough sleeping has risen by 64 % this year in leicester .", 
+                "in addition to running the shelter , from december to february one roof put people up in hotels as there have not been enough beds in the city . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589985fce4b030b30affa880", 
+            "title": "are there more homeless people in leicester ?", 
+            "text": [
+                "as someone who walks around the city centre most days i must admit i do see a lot of people claiming to be homeless but has the problem got worse ?", 
+                "radio leicester has been asking some of you .", 
+                "one person said : `` when we do out on a saturday night there seems to be more in the doorways - mainly around the fenwick area . ''", 
+                "another said : `` there are clearly more on the streets than there were before .", 
+                "i do n't know the full reason for that . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_589983bce4b0e4560c048bc0", 
+            "title": "east midlands weather forecast", 
+            "text": [
+                "east midlands weather forecast"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899832be4b0e4560c048bbc", 
+            "title": "charity critical of council 's approach to homeless", 
+            "text": [
+                "a charity working with rough sleepers in leicester is accusing the city mayor of not doing enough to tackle the problem .", 
+                "one roof has said the council is underestimating the number of people on the streets .", 
+                "figures by the department for communities and local government suggest 36 people are sleeping rough on leicester 's streets - 14 more than last year .", 
+                "but the city council 's official rough sleeping figure is 16 ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5899804ce4b030b30affa85d", 
+            "title": "travel : queues in kirby bellars", 
+            "text": [
+                "lots of queues on the a607 at kirby bellars temporary lights near to main st causing the problems .", 
+                "avoid if you can ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58997ed6e4b00909cde10b90", 
+            "title": "pietersen shares condolences to former rugby player", 
+            "text": [
+                "leicester tigers south african international jp pietersen paid tribute on twitter last night to joost van der westhuizen who died yesterday", 
+                "# ripjoost condolences and prayers to the van der westhuizen family and his friends # legend # rugbyfamily", 
+                "@ twitterid have had the honour and privilege of meeting joost the legend , my thoughts are with his family", 
+                "@ twitterid rugby legend .", 
+                "my condolences to his family .", 
+                "a fearless warrior to the end .", 
+                "95-98 he was instrumental in the boks writing history .", 
+                "so , so sad .", 
+                "# ripjoost", 
+                "joost one of the greatest ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58997c63e4b0e4560c048b92", 
+            "title": "leicester mercury news", 
+            "text": [
+                "today 's front page - read the headline story here ."
+            ], 
+            "author": [
+                "Leicester Mercury"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58997be0e4b030b30affa843", 
+            "title": "foxes boss to talk to media", 
+            "text": [
+                "claudio ranieri is due to hold his pre-derby press conference today - we 'll have all the key quotes and headlines from 13:00 ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58997a7be4b00909cde10b75", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "hello leicestershire - i hope you 're well this tuesday morning .", 
+                "i 'll be writing the updates on this local live page , where you 'll find all the latest news , sport , weather and travel .", 
+                "if you 'd like to comment on any of the day 's stories you can send an email or use facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:00"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

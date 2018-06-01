@@ -1,0 +1,506 @@
+{
+    "blog_id": "89edb97f7aee4f87d2dc5ce70039586056d5e93f", 
+    "title": "Private plane crashes off Jamaican coast with New York couple aboard \u00e2\u0080\u0093 as it happened | World news | The Guardian", 
+    "url": "https://www.theguardian.com/world/live/2014/sep/05/unresponsive-plane-f15-jets-aircraft-live-updates", 
+    "summary": [
+        "faa : plane 'descended into ocean '", 
+        "plane registered to real estate developer .", 
+        "norad : 'we suspect hypoxia '"
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a1d23e4b0ce3d9c47fe6d", 
+            "title": "", 
+            "text": [
+                "we 're going to wrap up our live coverage .", 
+                "here 's a summary of where things stand : a small plane crashed off the coast of jamaica after flying south over us airspace for hours with an unresponsive pilot .", 
+                "a prominent 68-year-old developer from rochester , new york , and his wife were suspected killed .", 
+                "the us coast guard mounted a search and rescue effort in the area of the crash , about 14 miles off the jamaican coast , as the faa described it .", 
+                "norad , the north american aerospace defense command , dispatched two fighter jets to follow the plane out of us airspace .", 
+                "the jets stopped short of entering cuban airspace .", 
+                "norad said it suspected the pilot of the plane , a small single-propeller socata tbm-700 , had succumbed to a lack of oxygen ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                20, 
+                52
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-540a1e97e4b0b49b582daf06", 
+            "title": "", 
+            "text": [
+                "the us coast guard has begun a search and rescue mission in the area where the plane crashed , according to norad , the washington post reports ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                20, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a18e4e4b0b49b582daeff", 
+            "title": "", 
+            "text": [
+                "the rochester democrat and chronicle , part of gannett , reports that real estate developer larry glazer and his wife , jane , were on the plane and are presumed dead .", 
+                "the d & c report reads in part : within minutes , local officials began issuing public condolences to the family .", 
+                "i am deeply saddened to learn of the unconscionable and tragic passing of longtime personal friends , larry and jane glazer , said assemblyman joseph morelle , of irondequoit .", 
+                "the glazers believed in the full potential of rochester and their passion for our community was always on display , whether through their unrivaled commitment to the rebirth of downtown or through their many philanthropic and charitable activities .", 
+                "no developer held greater significance or hope for rochester than glazer , who was 68 , the report says .", 
+                "read the full piece here , including an interview with glazer about the importance of revitalizing downtown rochester ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                20, 
+                12
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a0df6e4b0f4333c5dc15b", 
+            "title": "", 
+            "text": [
+                "today 's seeming ghost plane incident appears to be the second of its kind this week .", 
+                "on saturday norad launched two fighter jets to follow a single-engine cirrus plane that crashed about 50 miles southeast of chincoteague island along the virginia coast , according to a report quoting coast guard petty officer nate littlejohn : the associated press reported that the pilot lost consciousness and the plane drifted into restricted airspace over the nation 's capital , scrambling fighter jets that stayed with the small aircraft until it ran out of fuel and crashed , the coast guard said .", 
+                "the plane had taken off from waukesha , wisconsin , and was scheduled to fly to manassas , virginia .", 
+                "norad also sent two cf-18 fighter jets to escort a plane flying to toronto last week , the washington post reported ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                19, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a0834e4b0ce3d9c47fe5d", 
+            "title": "faa : plane 'descended into ocean '", 
+            "text": [
+                "guardian us national security editor spencer ackerman ( @ attackerman ) sends this statement from the faa .", 
+                "the flight crashed in the ocean at about 2.15pm , the faa says , but we have not confirmed the number of persons on board : faa statement federal aviation administration air traffic controllers tracked a socata tbm700 aircraft through u.s. airspace after the pilot stopped responding to radio calls at about 10 a.m. edt .", 
+                "the aircraft flew along the east coast of florida and through cuban airspace before descending into the ocean about 14 miles off the coast of port antonio , jamaica at about 2:15 p.m. edt .", 
+                "the flight departed from greater rochester intl .", 
+                "airport in new york and was headed to naples municipal airport in florida .", 
+                "we have not confirmed the number of persons on board .", 
+                "background : the faa routinely coordinates with cuban air traffic controllers on flights that overfly both countries .", 
+                "jamaican and u.s. coast guard ships are en route to the scene ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                19, 
+                1
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a0300e4b0ce3d9c47fe59", 
+            "title": "", 
+            "text": [
+                "the unresponsive aircraft has crashed in jamaica , according to ap quoting local reports : [ update : the plane actually crashed in the water north of the island , the faa says . ]", 
+                "the associated press ( @ ap ) breaking : jamaican officials say unresponsive us plane has crashed on the island .", 
+                "the ap report is undergirded by a report in the jamaican gleaner , which quotes the coast guard as the saying plane crashed 14 miles north east of port antonio , portland .", 
+                "( h/t : @ twitterid )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a045be4b0f4333c5dc151", 
+            "title": "", 
+            "text": [
+                "cnn has broadcast an audio clip in which one of the fighter jet pilots tracking the plane says the plane pilot was slumped over but his chest was visibly rising and falling ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a0430e4b0f4333c5dc150", 
+            "title": "", 
+            "text": [
+                "the plane has disappeared near jamaica from the flight aware tracker and flight radar tracker : flightradar24 ( @ flightradar24 ) # n900kn is gone just north of jamaica .", 
+                "last signal was up at 25000 feet .", 
+                "we have to wait for more information ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a01bee4b0678f1b1104bd", 
+            "title": "", 
+            "text": [
+                "the missing flight , # n900kn , has been identified by norad as a socata tbm-700 , a small , single-propeller plane that ty seats 7 .", 
+                "here 's a roundup of images of the craft .", 
+                "the socata tbm-700"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-540a0038e4b0b49b582daee6", 
+            "title": "", 
+            "text": [
+                "us state department spokeswoman marie harf says washington has been in touch with the two countries the unresponsive plane flew over after leaving the us the bahamas and cuba .", 
+                "harf said that the situation generally presents security concerns but she did not allude to any particular concerns in this specific case ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                28
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409ff24e4b0f4333c5dc14d", 
+            "title": "plane registered to real estate developer", 
+            "text": [
+                "a local news website in rochester , new york , the democrat and chronicle , says the unresponsive plane is believed to be registered to a rochester real estate developer : a small plane believed to be registered to rochester developer larry glazer is flying over the atlantic ocean and is unresponsive .", 
+                "[ ] attempts to reach glazer , who has development projects in naples , on his cellphone were unsuccessful .", 
+                "a voicemail left on his phone was not immediately returned .", 
+                "joseph rowley jr. , director of leasing and marketing at buckingham properties , which is owned by glazer , declined to comment .", 
+                "a glazer biography on the buckingham properties web site says glazer is ceo and managing partner of the company , that he earned a master 's degree in finance in 1969 from columbia university , and that buckingham currently owns manages more than 50 properties totaling over 9 million square feet in the greater rochester/finger lakes region .", 
+                "the bio also says glazer enjoys flying : larry spends some of his spare time on the ground gardening around his house with his wife , jane ; and some in the sky flying his plane .", 
+                "larry serves as president of the tbm owners and pilots association ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409fce5e4b0678f1b1104b6", 
+            "title": "", 
+            "text": [
+                "after malaysia airlines flight mh370 disappeared in march , reports focused on other planes that had become ghost flights craft still airborne with no conscious pilot .", 
+                "a new york magazine roundup listed these five ghost flights : helios airways flight 522 ( 2005 , greece , 121 dead ) golfer payne stewart 's learjet ( 1999 , 6 dead , crashed in 1999 in south dakota after taking off from florida ) australian mine workers ( 2000 , northwestern australia , 8 dead ) football coach bo rein 's small craft ( 1980 , atlantic ocean off virginia , 2 dead ) gulf of mexico crash ( 2012 , gulf of mexico , 1 dead ) here 's part of adam raymond 's writeup of the helios airways crash : human error was the root of this terrifying 2005 ghost flight that crashed outside of athens and killed all 121 people onboard .", 
+                "the problem with this 737 began when ground crew set the plane 's pressurization system to manual to check a reported leak .", 
+                "the system was never switched back to auto .", 
+                "investigations after the crash showed that the flight crew had several opportunities to notice and correct the setting , but they never did .", 
+                "instead , pressure started dropping 13 minutes into the cyprus-to-prague flight .", 
+                "alarms sounded onboard but the pilots , beginning to feel the effects of hypoxia , misinterpreted them .", 
+                "even after oxygen masks dropped to passengers , the plane continued its climb .", 
+                "unresponsive to radio communication , the jet flew into greek airspace , where two f-16s intercepted it .", 
+                "the pilots saw a grim scene .", 
+                "the 737 's pilots were slumped over their controls and passengers were wearing oxygen masks ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                20
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409fbfee4b0ce3d9c47fe51", 
+            "title": "", 
+            "text": [
+                "nyc aviation and other sites devoted to aviation report that the plane had requested to descend : nycaviation ( @ nycaviation ) breaking : before becoming unresponsive aircraft was at 28k ft , requested to descend due to `` indication that was not correct on aircraft . ''", 
+                "reuters : oliver holmes ( @ olireports ) the pilot of a plane ( # n900kn ) is slumped over the control , unresponsive , fighter pilots say .", 
+                "currently flying over cuba ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409f917e4b0678f1b1104b3", 
+            "title": "norad : 'we suspect hypoxia '", 
+            "text": [
+                "norad suspects the pilot of the unresponsive airplane is unconscious due to hypoxia , a lack of oxygen , norad spokeswoman jennifer stabnyck , a canadian army captain , tells guardian us national security editor spencer ackerman ( @ attackerman ) .", 
+                "we suspect hypoxia , stabnyck said .", 
+                "the plane appears to be in cuban airspace .", 
+                "stabnyck explained that the two f-15 jets escorting the unresponsive plane are currently loitering north and east of cuba not wanting to traverse its airspace .", 
+                "the loitering makes it more likely that a tanker plane , a kc-130 , may need to refuel the jets in flight .", 
+                "the norad plan is to see if the plane exits cuban airspace , spencer says .", 
+                "if it does , the two jets will continue flying behind it to see what happens .", 
+                "if the plane leaves the norad ( north american ) area of responsibility , the same two jets would likely continue to follow it , in coordination with the us southern command .", 
+                "no foul play terrorism , a hijacking or a defection is suspected at this time , spencer says ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                18, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409f8a7e4b0678f1b1104b2", 
+            "title": "", 
+            "text": [
+                "the flight aware web site charts the course of flight n900kn out of rochester .", 
+                "the plane is over cuba .", 
+                "the flight aware web site tracks flight n900kn ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                17, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5409f6a3e4b0678f1b1104af", 
+            "title": "", 
+            "text": [
+                "two f15 fighter jets were launched from a us base on friday to investigate an unresponsive aircraft flying over the atlantic ocean .", 
+                "occupants of a small , single-propeller plane , a socata tbm-700 , did not respond to attempts to communicate , according to norad , the north american air defense authority , which directed the fighter jet response .", 
+                "the unresponsive plane had taken off from rochester , new york , and filed a flight plan to naples , florida , norad said .", 
+                "it was last tracked over cuba .", 
+                "the jets were launched at 11.30am and were following the plane , according to norad , which performed at least three similar interceptions in june , without incident ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2014, 
+                9, 
+                5, 
+                17, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }
+    ], 
+    "genre": "world", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n8.01pm BST\n20:01\nFAA: plane 'descended into ocean'\n", 
+                "block": "block-540a0834e4b0ce3d9c47fe5d"
+            }, 
+            {
+                "text": "\n\n7.25pm BST\n19:25\nPlane registered to real estate developer\n", 
+                "block": "block-5409ff24e4b0f4333c5dc14d"
+            }, 
+            {
+                "text": "\n\n7.03pm BST\n19:03\nNorad: 'we suspect hypoxia'\n", 
+                "block": "block-5409f917e4b0678f1b1104b3"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/world/live/2014/sep/05/unresponsive-plane-f15-jets-aircraft-live-updates#block-540a18e4e4b0b49b582daeff"
+                ], 
+                "text": "Rochester developer Larry Glazer and wife Jane suspected killed.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Norad had scrambled jets to track unresponsive plane.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Flight bound from Rochester, New York, to Naples, Florida.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/world/live/2014/sep/05/unresponsive-plane-f15-jets-aircraft-live-updates#block-540a1d23e4b0ce3d9c47fe6d"
+                ], 
+                "text": "Read a summary of this blog.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

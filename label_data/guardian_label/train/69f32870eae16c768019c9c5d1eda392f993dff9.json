@@ -1,0 +1,915 @@
+{
+    "blog_id": "69f32870eae16c768019c9c5d1eda392f993dff9", 
+    "title": "FTSE 100 recovers from worst levels as Dow opens 300 points higher - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2018/feb/09/ftse-100-set-to-fall-after-sell-off-on-wall-street-and-asia-business-live", 
+    "summary": [
+        "wall street opens higher .", 
+        "pound falls after barnier brexit comments .", 
+        "uk economy grew by 0.5 % in three months to january - niesr .", 
+        "clarity needed on future trade with eu - british chambers of commerce .", 
+        "uk industrial production falls , construction improves , trade deficit rises .", 
+        "trinity mirror shares jump 10 % after express deal .", 
+        "european markets open lower ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d9914e4b0365be51689cb", 
+            "title": "summary : wall street recovers but markets remain nervy", 
+            "text": [
+                "stock markets are ending the week on another volatile note .", 
+                "after overnight falls on wall street and in asia , european markets headed lower , although the falls were reduced once us markets opened in positive territory .", 
+                "the ftse 100 was , for once , not much helped by renewed weakness in sterling .", 
+                "the pound fell back against both the dollar and the euro following comments from eu chief negotiator michel barnier that a transition deal was not a given .", 
+                "on the economic front , there was a mixed from the uk 's latest manufacturing , construction and trade figures .", 
+                "but think tank niesr issued a positive estimate of uk gdp for the three months to january .", 
+                "and in corporate news , trinity mirror finally unveiled its long awaited deal to buy rival northern & shell , owner of express newspapers .", 
+                "on that night , it 's time to close for the day .", 
+                "thanks for your comments and we 'll be back next week ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                14, 
+                55
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7daf19e4b05abd28aac666", 
+            "title": "wall street opens higher", 
+            "text": [
+                "after the latest plunge in us markets drove them into correction territory , wall street has got off to a better start , as indicated by the futures earlier .", 
+                "the dow jones industrial average is currently up 310 points ( although not all the constituents are trading yet ) , while the s & p 500 opened up 1 % and the nasdaq composite added 1.1 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                14, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7da7fee4b05abd28aac5ff", 
+            "title": "", 
+            "text": [
+                "it may be too early to buy the dips , and more wild swings are possible , sayd jasper lawler , head of research at london capital group : us benchmark share indices falling into correction territory ( down over 10 % from record highs ) has ignited concern the bull market has ended .", 
+                "there has been a spike in volatility , which has resulted in a blow-up in low-volatility strategies and a sharp dive in negatively correlated us index etfs .", 
+                "the question is whether this is the technical trigger for wider market contagion or just a long overdue healthy '' pullback for an over-extended market .", 
+                "we would make the point that the stock market can deviate massively from economic fundamentals in the short term .", 
+                "fear of rising bond yields can easily produce a bear market ( down 20 % from 52-week highs ) despite a healthy global economy .", 
+                "in fact , that is usually how it happens because the stock market is a future-discounting mechanism .", 
+                "another argument for a bigger move lower is that much of what has helped keep the stock market moving higher is momentum , which is now reversing .", 
+                "we would liken the outlook for the us stock market to making a tackle in sports , the bigger they are the harder they fall . ''", 
+                "a 10 % market correction historically happens on average every 18 months , marking it a very normal '' phenomenon .", 
+                "the key point this time around is that market conditions since 2009 have been very abnormal thanks to unprecedented central bank support .", 
+                "we would interpret these latest market moves as a part of a significant transition .", 
+                "it is most likely a transition to a more normal '' resumption of the bull market with higher volatility but the risk of it being a swift transition to a bear market should not be underestimated .", 
+                "we maintain , but are more cautious of our year-end forecast of the s & p 500 at 2,900 .", 
+                "right now , there is a 'shake out ' taking place as bulls and bears battle for dominance .", 
+                "the dow jones has found near term support above 23,000 .", 
+                "we suspect more mean reversion will take the dow below its 200-day moving average near 22,850 .", 
+                "in conclusion , it may be a bit early to buy the dip but wild swings , potentially as high as 26,000 will provide ample opportunities for day traders ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                13, 
+                55
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7da62be4b0365be5168a8a", 
+            "title": "", 
+            "text": [
+                "here 's a reminder of the falls we 've seen through the bull market , from analyst barry ritholtz : barry ritholtz ( @ ritholtz ) memory is famously short during bull markets .", 
+                "there have been a bunch of corrections in this one via @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                13, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7da0f6e4b07556c9fb889f", 
+            "title": "", 
+            "text": [
+                "this market fall is a dose of reality after greed ran unchecked '' , says mark dowding , co-head of investment grade at bluebay asset management : the equity market reversal this week , may well serve to be a healthy event .", 
+                "greed was running unchecked in january and so markets were due a dose of reality , or else the party risked getting out of hand this is no bad thing at all and may well serve to make life easier for investors over time ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                13, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d9d0de4b05abd28aac544", 
+            "title": "", 
+            "text": [
+                "there could be worse to come for the pound following today 's falls , suggests jeremy cook , chief economist at worldfirst : every single bit of optimism afforded to the pound on the back of governor carney 's comments on interest rate increases and upgraded growth and wage forecasts has been lost this morning following the comments from michel barnier that the transitional period is 'not a given ' .", 
+                "for sterling , nothing is more important in the short term than a transitional deal that extends the uk 's membership of the single market and customs union .", 
+                "the cbi has been vocal on the need for clarity for its members and small and medium sized businesses who we speak to every day have echoed those sentiments .", 
+                "so far , the broad swings in equity and volatility markets that have made headlines this week have not been felt in currency markets but if they do there are a fair many more currencies that would be seen as a 'safer ' bet than sterling given the political atmosphere ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                13, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d9843e4b0365be51689c5", 
+            "title": "", 
+            "text": [
+                "the market falls appear to be getting worse in europe , as the dow futures lose much of their earlier gains .", 
+                "the ftse 100 is now down 61 points or 0.86 % , while germany 's dax has dropped 1.7 % and france 's cac 1.6 % .", 
+                "the dow futures are now indicating a 47 point rise at the open , down from nearly 300 points ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                12, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d93bbe4b0365be516899e", 
+            "title": "pound falls after barnier brexit comments", 
+            "text": [
+                "the pound is coming under pressure on the latest brexit developments .", 
+                "a post-brexit transition deal is not a given , according to the eu 's chief negotiator michel barnier after the latest set of talks .", 
+                "he said britain had raised substantial issues with the eu 's proposal , and said some of the eu positions were not negotiable .", 
+                "he said : if these differences persist , a transition is not a given .", 
+                "if these disagreements were to persist there would undoubtedly be a problem .", 
+                "i hope we will be able to resolve these disagreements in the next round .", 
+                "the sooner the uk makes its choices , the better .", 
+                "the news has sent the pound down 0.63 % against the euro to \u20ac1.1279 , while against the dollar sterling is 0.78 % lower at \u00a21.3803 .", 
+                "barnier addresses the media in brussels after the latest talks vanden wijngaert/ap"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                12, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d9115e4b0365be5168962", 
+            "title": "", 
+            "text": [
+                "but economies and markets do not necessarily go hand in hand , says justin urquart-stewart of seven investment management : just urquhartstewart ( @ ustewart ) fundamentally the market jet stream has changed .", 
+                "thus get used to more weather fronts buffeting the indices .", 
+                "underlying economies still fine .", 
+                "economies & markets do not usually walk in step"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                12, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d8e01e4b05abd28aac46b", 
+            "title": "uk economy grew by 0.5 % in three months to january - niesr", 
+            "text": [
+                "the uk economy grew by 0.5 % in the three months to january , according to the national institute of economic and social research .", 
+                "the think tank said this was the same as the official figures for the final quarter of 2017 .", 
+                "up until now surveys had suggested a slowdown at the start of the year .", 
+                "niesr expects uk gdp to grow by 1.9 % this year and next , but warned there would be a marked slowdown if brexit talks failed .", 
+                "amit kara , head of uk macroeconomic forecasting at niesr , said : we estimate that economic growth was steady at 0.5 per cent in the 3 months to january .", 
+                "activity up in the second half of 2017 after a period of subdued growth in the first half of the year .", 
+                "the recovery was driven by both the manufacturing and the service sectors , supported by a buoyant global economy , while construction output continued to lag .", 
+                "we are forecasting gdp growth of close to 2 per cent this year assuming a soft brexit scenario .", 
+                "at this speed the economy could start to overheat unless the bank of england withdraws some of the stimulus that it has injected by raising the policy rate .", 
+                "our forecast assumes a 25 basis point increase in may and then every 6 months until bank rate reaches 2 per cent by mid-2021 .", 
+                "if instead , brexit talks fail , the uk economy will in our view suffer a marked slowdown with damaging longer term consequences ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                12, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d8775e4b07556c9fb8751", 
+            "title": "", 
+            "text": [
+                "the dow futures are off their best but are still indicating a higher open on wall street after the latest plunge .", 
+                "but the futures have not been the best guide to what happens .", 
+                "craig erlam , senior market analyst at oanda , said : us futures are trading slightly in the green ahead of the open on friday , a day after stock markets once again tumbled leaving indices in correction territory .", 
+                "as we saw on thursday , this is n't necessarily indicative of calm returning to the markets .", 
+                "the dow recorded declines of more than 1,000 points for the second time this week , having never done so before , despite futures prior to the open being relatively unchanged on the previous days close .", 
+                "clearly there remains a lot of volatility and nervousness in the markets and i do n't expect this to ease up heading into the weekend .", 
+                "stock markets will likely remain vulnerable to further shocks heading into today 's close and possible even next week .", 
+                "that said , with a 10 % correction having now completed , i wonder whether investors will now start looking to buy the dips as the fundamental backdrop remains strong .", 
+                "a positive move is that the us congress has passed a funding bill which will avoid a government shutdown , but erlam is not convinced this will have much impact on shares : markets have n't been too concerned about the prospect of a shutdown since the start of the year despite two having now taken place so i do n't expect to see any boost now that a deal has been reached .", 
+                "this is merely just another self-inflicted risk that 's been temporarily averted ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                11, 
+                38
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d7b01e4b07556c9fb86c1", 
+            "title": "", 
+            "text": [
+                "bank of england deputy governor ben broadbent seems relatively relaxed about the recent stock market falls .", 
+                "in his tour of bbc studios , he told the today programme : equity markets go up and down , you have a correction of this size roughly every 18 months on average , so it 's not terrifically unusual if you 're suggesting that this is somehow parallel to what happened in 2007 , then i would say no .", 
+                "i think there are some very big differences and as i pointed out , the equity markets , particularly in the us , have risen a lot over the last 12 months and indeed , even today , we are roughly back where we were a couple of months ago .", 
+                "( that may be true of wall street , but not the ftse 100 according to the charts )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                10, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d77f8e4b0365be5168828", 
+            "title": "", 
+            "text": [
+                "here 's a useful chart of the uk trade figures : capital economics ( @ capeconuk ) trying to figure out the # trade figs is a messy business - but hopefully this chart helps !", 
+                "substantial net imports of erratic components meant net trade in goods dragged on gdp in q4 .", 
+                "excluding oil and erratics , net trade in goods prvided a boost to gdp ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                10, 
+                29
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d7585e4b05abd28aac339", 
+            "title": "", 
+            "text": [
+                "european markets remain fairly calm , although of course that may all change once wall street reopens .", 
+                "david madden , market analyst at cmc markets uk , said : european stocks are lower this morning , but are holding up relatively well when you consider the magnitude of the declines in asia overnight and in the us last night .", 
+                "investor are clearly nervous in this part of the world , and there are still concerns things could turn sour again .", 
+                "the erratic moves that have taken place in the us are unsettling investors here , and the sentiment in europe could change when trading in new york resumes ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                10, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d7377e4b0365be5168800", 
+            "title": "clarity needed on future trade with eu - british chambers of commerce", 
+            "text": [
+                "here 's the british chambers of commerce on the day 's uk data .", 
+                "its head of economics suren thiru said : the sharp deterioration in the uk 's net trade position in december was disappointing and means that trade is likely to have been a drag on uk growth in the final quarter of the year .", 
+                "this deterioration reflects a significant increase in imports in the quarter , more than offsetting the rise in exports .", 
+                "although there was a surprise in construction output , the sector remains a concern and together with the widening in the uk 's trade deficit and weakening industrial output indicates that economic conditions are becoming more sluggish .", 
+                "while many exporters are benefiting from stronger growth in key trading markets , imports continue to grow at a solid pace with businesses continuing to report little in the way of import substitution despite their high cost .", 
+                "if this trend continues as we expect , the contribution of net trade to uk gdp growth over the near term is likely to be limited at best .", 
+                "as we move through the brexit process more needs to be done to provide clarity on what the future trading relationship with the eu will look like .", 
+                "action is also needed to address the longstanding issues , from the uk 's skills gap to our creaking digital and physical infrastructure , that continue to undermine the uk 's trade performance ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                10, 
+                14
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d72d5e4b07556c9fb8687", 
+            "title": "", 
+            "text": [
+                "the uk data has been little help to the pound : city index ( @ cityindex ) # gbpusd was already off $ 1.40 before dec factory data .", 
+                "actually bounced as high as $ 1.3987 ahead of release .", 
+                "now tests $ 1.3914/393 support that was formerly resistance ^ko"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                10, 
+                7
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d6f5ee4b05abd28aac2f7", 
+            "title": "", 
+            "text": [
+                "back with the uk data , and economist james knightley at ing bank says the latest figures suggest fourth quarter growth could be revised downwards : softer december trade and production data coupled with downward revisions suggest the potential for fourth quarter gdp growth to be revised down to 0.4 % quarter on quarter [ from 0.5 % ] uk industrial production fell 1.3 % month on month in december , worse than the 0.9 % consensus while there was a 0.1 percentage point downward revision to november .", 
+                "the december softness relates to the shutdown of the north sea forties pipeline for unplanned maintenance ( oil and gas output fell 24.2 % month on month ) and should rebound in january , but it does suggest the risk of a very modest downward revision to fourth quarter gdp .", 
+                "manufacturing rose 0.3 % month on month , in line with expectations , while november was revised down two-tenths of a percentage point to 0.2 % growth .", 
+                "there was also disappointment in the december trade balance .", 
+                "it showed a deficit of \u00a3 4.9bn [ for total goods and services ] - the worst reading since september 2016 , which is a pretty poor story given the competitiveness boost sterling 's big declines should have provided and the stronger economic activity data we have seen globally .", 
+                "today 's data reinforces the message that the uk continues to underperform other developed market economies , growing at around half the rate of the us and the eurozone .", 
+                "as such , while the bank of england is clearly hinting at the potential for a may rate hike , we remain cautious on the longer term path for rates , particularly given the brexit related uncertainty .", 
+                "the latest gdp estimates from the niesr think tank are due around lunchtime ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                9, 
+                57
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d6ec1e4b07556c9fb8659", 
+            "title": "", 
+            "text": [
+                "here 's the latest view from chris iggo , chief investment officer fixed income at axa investment managers , on the current markets : volatility is back and those that bet on it never coming back have had a tough week .", 
+                "why is it back ?", 
+                "it 's back because the macro fundamentals are evolving in a way that many of us have expected but some have denied .", 
+                "growth is strong , inflation is not dead and interest rates are rising .", 
+                "this is spooking the bond market and the bond market spooks everyone else .", 
+                "the veracity of the moves in equities are explained by the existence of structured trades , algorithms and leverage , but the reason that valuations are being challenged is because the discount rate is rising and is not going back down any time soon .", 
+                "bond investors might start to be tempted to buy us treasuries as we approach a 3 % yield but the cat is out of the bag - we are in a higher yield environment than we have been for the last three years and that is a bit of a problem - not a terminal problem - but a bit of a problem for equities ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                9, 
+                52
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d6c42e4b0365be51687c6", 
+            "title": "", 
+            "text": [
+                "back to the markets and the subdued performance so far in europe despite the hefty falls on wall street and in asia .", 
+                "city index market analyst fiona cincotta said : a renewed , deep , sell off on wall street and in asia overnight ensured a heavy drop was on the cards for european bourses this morning interestingly the selloff in europe is less exaggerated than that in the us and that is because in europe we continue to see dividend yields outpacing government debt yields .", 
+                "meanwhile that dynamic is reversing at a rapid rate in the us which is not working in the favour of us equities despite solid economic data and a strong earnings outlook ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                9, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d6a6ce4b0365be51687c3", 
+            "title": "uk industrial production falls , construction improves , trade deficit rises", 
+            "text": [
+                "there has just been a spate of uk economic data , and it 's a mixed industrial production fell sharply in december , hit by a shutdown of the forties north sea oil pipeline .", 
+                "after a 0.4 % month on month rise in november , it fell 1.3 % the following month , worse than the 0.9 % decline expected .", 
+                "but manufacturing output was in line with forecasts , up 0.3 % month on month .", 
+                "the year on year rise of 1.4 % was the weakest since april 2017 .", 
+                "but there was a better than expected performance from the key construction sector , with output up 1.6 % month on month compared for forecasts of a flat performance .", 
+                "to complete the trade deficit was also higher than expected .", 
+                "the goods trade balance came in at -\u00a3 13.576bn in december , up from the -\u00a3 11.6bn expected and the biggest deficit since september 2016 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                9, 
+                37
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d6476e4b0365be51687a2", 
+            "title": "", 
+            "text": [
+                "the dow futures are still indicating a positive start for us markets .", 
+                "but us bond yields are on the rise again , which could throw a spanner in the works : david morrison ( @ jmoz62 ) yield on the us 10-year treasury pushing higher again .", 
+                "could make it difficult for us indices to recover yesterday 's losses .", 
+                "chart courtesy @ twitterid"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                9, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d5fc0e4b0365be516878c", 
+            "title": "", 
+            "text": [
+                "business today : sign up for a morning shot of financial news read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d5dc1e4b07556c9fb860e", 
+            "title": "", 
+            "text": [
+                "at the risk of tempting fate , it seems a little bit calmer in the markets so far .", 
+                "the ftse 100 's decline is hovering at around 32 points or 0.4 % , while there are similar dips on the german and french markets .", 
+                "the mood is probably being helped by the futures market suggesting an opening bounce on the dow jones industrial average of up to 270 points after yesterday 's slump .", 
+                "but it is early days yet , and in such volatile markets it is dangerous to take anything for granted ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                44
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d5ca5e4b0365be516877b", 
+            "title": "", 
+            "text": [
+                "more on the bbc interview with the bank of england 's ben broadbent .", 
+                "he said the low level of interest rates reflected global factors and said there was no fixed path for tightening policy : but nor do i think if there were to be a couple of 25 basis point rises in a year , that that would somehow be a great shock .", 
+                "reuters has a report here .", 
+                "broadbent jones/pa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d57b8e4b07556c9fb85f7", 
+            "title": "", 
+            "text": [
+                "and another big gainer .", 
+                "hogg robinson shares have surged 50 % to 117p after the business travel group received a 120p a share or near \u00a3 400m takeover offer from american express .", 
+                "at the same time it has agreed to sell its payments technology business to visa .", 
+                "news of the deals has sent its shares up nearly 50 % to 116p ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a7d5714e4b05abd28aac282", 
+            "title": "trinity mirror shares jump 10 % after express deal", 
+            "text": [
+                "one company to buck the downward trend is trinity mirror .", 
+                "its shares have climbed 10 % following news that it has finally completed the long-awaited takeover of rival northern & shell , owner of express newspapers .", 
+                "our report on the deal is here : trinity mirror buys express and star in \u00a3 127m deal read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                11
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d55e7e4b0365be516876d", 
+            "title": "european markets open lower", 
+            "text": [
+                "as expected , the sell-off on wall street and in asia has spilled over into europe , but so far there has not been a dramatic decline .", 
+                "the ftse 100 is down around 30 points or 0.4 % while germany 's dax has dropped 0.1 % , france 's cac is 0.2 % lower and italy 's ftse mib has fallen 0.57 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                7
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d546ae4b05abd28aac27b", 
+            "title": "", 
+            "text": [
+                "tony blair 's old theme song things can only get better '' seems to have been taken up by the bank of england 's ben broadbent .", 
+                "on thursday the bank hinted strongly that interest rate rises were on the way , sooner perhaps than people expected .", 
+                "this of course fed into the markets ' current concerns about dearer borrowing costs and the withdrawal of central bank stimulus .", 
+                "today broadbent has told the bbc 's wake up to money that the worst of the squeeze on real wages was over and the economy is improving : the worst of the squeeze was about a year ago and if you look at what happened to real household incomes during the second half of last year they were flat , and if you ask me what 's happening right now in the first quarter , they are starting to rise .", 
+                "the squeeze from that depreciation is coming off , the path from higher important prices is probably at its peak and we are starting to see wage growth improve .", 
+                "so things will get better from that point of view ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                8, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a7d4997e4b0365be516873e", 
+            "title": "agenda : market volatility set to continue", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "it 's a grim start to the day weatherwise in london and it looks like its going to be a grim start for european stock markets , as the sell-off which began in earnest a week or so ago looks set to continue .", 
+                "if you 're just joining us , wall street and asian markets suffered renewed falls as the concerns about rising interest rates continues to spook investors .", 
+                "with signs of inflation returning , central banks are increasingly withdrawing the measures - low interest rates , quantitative easing - which have been supporting markets since the financial crisis .", 
+                "and markets do not like it .", 
+                "the sell-off has been exacerbated by the growing prevalence of program trades which exaggerate market moves , and a number of bets on the volatility index staying low which have gone wrong .", 
+                "so the dow jones industrial average suffered its second-biggest one-day points fall , down 1,032.89 , while the s & p 500 hit correction territory , ie a 10 % decline from its recent peak .", 
+                "in asia , the nikkei 225 index lost 2.32 % while the turmoil spilled over into china , with the shanghai composite closing down 4.1 % in one of its worst days for two years .", 
+                "positive economic data and hints from the bank of england that interest rates could rise in may put pressure on bond prices , and in turn equities .", 
+                "here 's our overnight blog giving all the developments : asian stock markets drop after dow posts second biggest points fall - live read more and our latest markets story : stock market slide gathers pace with big sell-offs on wall street and asia read more michael hewson , chief market analyst at cmc markets uk , said : it would appear that the brief respite for stocks seen in the middle of the week turned out to be the eye of the storm as once again rising bond yields prompted a further bout of selling across the board , not only in the us last night but in asia again this morning .", 
+                "concerns about rising interest rates were n't helped by an unexpectedly hawkish inflation report from the bank of england yesterday , while the latest chinese trade data suggested that the chinese economy appeared to be ticking along nicely , even if the trade surplus did shrink quite sharply as a result of a big jump in imports .", 
+                "us weekly jobless claims also dropped sharply to 221k , once again reinforcing the tightness of the us labour market which in turn could well put further upward pressure on wages in the months ahead .", 
+                "as a result us bond yields started edging higher again with the 10 year yield once again looking to retest the 2.9 % level and a four year high , with the 3 % level now a very realistic probability .", 
+                "a us government shutdown which started at midnight is n't helping sentiment either .", 
+                "while this continued optimism about how the us economy is likely to perform is a good thing , for us stocks whose valuations are still at elevated levels , they may not be particularly good news given that yield differentials are no longer working in their favour , unlike in europe where dividend yields are still higher than the yields on government debt .", 
+                "this may help explain why the dow and s & p500 once again closed sharply lower again , with the dow losing over 1,000 points , and in the process closing in correction territory , while the vix once again popped higher .", 
+                "as a result of last night 's sell-off in the us , and this morning 's weakness in asia , european markets look set to follow suit this morning and open lower , while the nikkei 225 also slid into correction territory as it tested its long term 200 day moving average .", 
+                "so here are the opening calls for europe from ig : igsquawk ( @ igsquawk ) european opening calls : # ftse 7126 -0.62 % # dax 12236 -0.20 % # cac 5143 -0.17 % # mib 22461 -0.03 % # ibex 9707 -0.51 % almost incidentally there are a few bits of economic data due , including uk trade and industrial production figures .", 
+                "agenda : 9.30 gmt : uk industrial production 9.30 gmt : uk trade figures 9.30 gmt uk construction output 12.00 gmt : niesr economic growth forecast"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                9, 
+                7, 
+                43
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.32pm GMT\n14:32\nWall Street opens higher\n", 
+                "block": "block-5a7daf19e4b05abd28aac666"
+            }, 
+            {
+                "text": "\n\n12.36pm GMT\n12:36\nPound falls after Barnier Brexit comments\n", 
+                "block": "block-5a7d93bbe4b0365be516899e"
+            }, 
+            {
+                "text": "\n\n12.07pm GMT\n12:07\nUK economy grew by 0.5% in three months to January - NIESR\n", 
+                "block": "block-5a7d8e01e4b05abd28aac46b"
+            }, 
+            {
+                "text": "\n\n10.14am GMT\n10:14\nClarity needed on future trade with EU - British Chambers of Commerce\n", 
+                "block": "block-5a7d7377e4b0365be5168800"
+            }, 
+            {
+                "text": "\n\n9.37am GMT\n09:37\nUK industrial production falls, construction improves, trade deficit rises\n", 
+                "block": "block-5a7d6a6ce4b0365be51687c3"
+            }, 
+            {
+                "text": "\n\n8.11am GMT\n08:11\nTrinity Mirror shares jump 10% after Express deal\n", 
+                "block": "block-5a7d5714e4b05abd28aac282"
+            }, 
+            {
+                "text": "\n\n8.07am GMT\n08:07\nEuropean markets open lower\n", 
+                "block": "block-5a7d55e7e4b0365be516876d"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "European markets still in the red despite positive start on Wall Street, while UK trade, construction and manufacturing figures present mixed.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

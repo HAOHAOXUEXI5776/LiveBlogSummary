@@ -1,0 +1,678 @@
+{
+    "blog_id": "d7924dbaffae970b8107b1dfd12a35a0ad0629c2", 
+    "title": "Oxfordshire Live: Monday 7 November - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-oxfordshire-37894226", 
+    "summary": [
+        "two taken to hospital after a34 crash .", 
+        "estimated 850 households in oxfordshire to be hit as new benefit cap starts .", 
+        "downgrading of the maternity unit at horton general hospital in banbury to be reviewed .", 
+        "emergency services warning drivers to take extra care after spate of crashes on m40 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820b484e4b0455bb82a9dde", 
+            "title": "that 's all for today", 
+            "text": [
+                "thanks for reading .", 
+                "we 'll be back with more news , sport , weather and travel from across oxfordshire from 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820a83de4b05d511bb31915", 
+            "title": "latest headlines : two lorries collide on a34", 
+            "text": [
+                "here are the latest headlines from bbc radio oxford , you can also listen to the drive time show online ."
+            ], 
+            "author": [
+                "BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5820c01ae4b0ece2f905d611", 
+            "title": "breakingthree oxfordshire mod sites to be sold", 
+            "text": [
+                "the government is to sell off 56 more sites , including three in oxfordshire , by 2040 as part of a review of ministry of defence land , sir michael fallon has said .", 
+                "in oxfordshire the affected sites are :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820b9f5e4b0455bb82a9e02", 
+            "title": "a34 crash : road to stay closed until at least 11pm", 
+            "text": [
+                "police have said the a34 northbound between milton and botley is likely to remain closed until about 23:00 this evening after an accident .", 
+                "a spokesman said a crane was needed to remove a lorry that has overturned ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820a44ce4b0455bb82a9d75", 
+            "title": "oxfordshire 's big picture : your snaps from the weekend", 
+            "text": [
+                "our eagle-eyed army of photographers were out in their droves this weekend enjoying the autumnal colours .", 
+                "here 's just a taste of what readers were snapping .", 
+                "photographer tim turan snapped his dog preparing for a squirrel chase in brasenose woods ,", 
+                "staying with squirrels , lynda harding caught an empty acorn capsule pillaged by a long-tailed intruder in foxhole wood , breurn .", 
+                "nature enthusiast bob weatherhead was caught this lovely scene of magdalen college tower in the autumnal sun from the university of oxford 's botanic gardens ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5820abb7e4b0455bb82a9dab", 
+            "title": "oxford travel latest : lengthy delays on a34", 
+            "text": [
+                "unfortunately it 's another day and another accident on the a34 .", 
+                "this time northbound between milton and marcham is closed , and that 's likely to be the case until later this evening .", 
+                "there are delays of 1.5 hours currently , so do avoid .", 
+                "elsewhere :"
+            ], 
+            "author": [
+                "Al Ryan", 
+                "BBC Oxford travel presenter"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37894150", 
+            "title": "santa specials face eviction threat", 
+            "text": [
+                "santa specials face eviction threat"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5820b114e4b0455bb82a9dce", 
+            "title": "joyriding women 'steal taxi driver 's car '", 
+            "text": [
+                "two women masqueraded as taxi passengers before assaulting their driver , stealing his car and two mobile phones .", 
+                "thames valley police say that two women entered the taxi - a toyota prius - at 02.40 on 22 october , assaulted the 34-year-old driver , and drove the car away after forcing the driver out .", 
+                "the women were up on the cuddesdon road junction in ladder hill , oxford and the car was eventually discovered in beech road , wheatley , with two phones missing from the car .", 
+                "police are appealing for witnesses ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5820a830e4b05d511bb31914", 
+            "title": "jewellery and camera equipment stolen in thame burglary", 
+            "text": [
+                "burglars broke into a house in moorend lane , thame on thursday between 11:00 and 16:00 .", 
+                "police said they smashed through a rear patio door and conducted an untidy search of the property , leaving personal possessions and clothing discarded .", 
+                "it is believed they left through the same patio door after having taken jewellery and camera equipment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820a25ae4b05d511bb318f5", 
+            "title": "avoid a34 , police warn", 
+            "text": [
+                "thames valley police", 
+                "thamesvp", 
+                "# a34 closed n-bound from milton for up to 4 hours , diversions in place .", 
+                "please avoid the area # drivesafely", 
+                "# a34 closed n-bound from milton for up to 4 hours , diversions in place .", 
+                "please avoid the area # drivesafely", 
+                "is there any update on this ?", 
+                "been in the queue for three hours .", 
+                "a34 n/b to stay shut milton-marcham for 5/6 hrs after earlier lorry rtc .", 
+                "specialist equipment brought in to move 27 ton load .", 
+                "when will this reopen ?", 
+                "do you have an update .", 
+                "needing to head to bournemouth tonight , and any other route is a nightmare .", 
+                "thanks", 
+                "# a34 closed northbound from milton - marcham for next 5/6 hrs as recovery takes place of 2 lorries involved in earlier rtc .", 
+                "thank you for all the work you 've done to keep us safe .", 
+                "southbound towards didcot ?", 
+                "@ twitterid it would be good if we built more houses and no infrastructure on dangerous roads-it might also help the congestion"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58208a64e4b0455bb82a9cd2", 
+            "title": "mother may have been suffering from a disorder", 
+            "text": [
+                "the trial of a mother from oxfordshire , who 's accused of the manslaughter of her baby daughter - who was found dead in a bath - has heard she may have been suffering from an emotionally-unstable disorder .", 
+                "they also heard that she may have drunk two pints of cider on the morning of the incident .", 
+                "jasmine gregory 's 14-month old daughter robyn was found lifeless in the bath of the family home in grove in august 2014 .", 
+                "she believed her daughter had gone missing and had run into the street screaming `` where is my baby . ''", 
+                "today , psychiatrist dr michael alcock said jasmine gregory had a dysfunctional childhood which , in his opinion , led to her suffering a disorder which meant she was disorganised and easily distracted .", 
+                "jasmine gregory denies manslaughter and cruelty to a person under 16 years and the case continues"
+            ], 
+            "author": [
+                "Peter Cooke", 
+                "BBC South Today"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:17"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58208ddae4b0ece2f905d4f6", 
+            "title": "breakingtwo taken to hospital in a34 crash", 
+            "text": [
+                "two people have been taken to hospital after a two-lorry crash on the a34 northbound between the milton interchange and the botley interchange .", 
+                "one of the lorry drivers has suffered multiple limb injuries after being trapped in his lorry .", 
+                "one lane is open but there are long tailbacks on the road ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "22:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58208264e4b0455bb82a9ca5", 
+            "title": "delays on the a34", 
+            "text": [
+                "highways england says delays are building on the a34 after a crash involving two lorries .", 
+                "it happened between the milton interchange and the botley interchange .", 
+                "congestion is stretching back to chilton .", 
+                "# a34 n/b closed btwn # a4130 # milton + # a415 # marcham @ twitterid dealing with collision .", 
+                "delays building .", 
+                "diversion info :", 
+                "@ twitterid @ twitterid"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58205940e4b0455bb82a9bd2", 
+            "title": "oxford united help out non-league opponents", 
+            "text": [
+                "oxford united have already ticked off their good deed for the week .", 
+                "they 've donated their share of the gate receipts from their fa cup tie with merstham to the non-leaguers .", 
+                "`` the spirit of goodwill in football needs to be enhanced , '' chairman darryl eales told bbc radio oxford .", 
+                "`` it 's the least we could do . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "21:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58206574e4b0ece2f905d425", 
+            "title": "feeling the pinch at the pumps", 
+            "text": [
+                "petrol prices around the country have been rising in the past few weeks following a drop in the value of the pound .", 
+                "and it certainly has n't gone unnoticed by one oxfordshire haulage firm", 
+                "last december we were paying \u00a3 1.02 [ a litre ] and this october we were averaging \u00a3 1.12 a litre , an 8.5 % increase - so for the average 44 tonne lorry that 's about \u00a3 3,500 a year ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10164762", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58205369e4b05d511bb3175c", 
+            "title": "poppy pride", 
+            "text": [
+                "fortunately fifa does n't have any rules about putting poppies on council buildings", 
+                "this is the week when we remember those who gave their lives for their country in past conflicts .", 
+                "# poppyappeal"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:19"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582052e8e4b0455bb82a9bb3", 
+            "title": "lane closed at thornhill at p & r", 
+            "text": [
+                "a40 at thornhill p & r inbound down from 2 lanes to 1 for roadworks rebuilding a gully .", 
+                "likely to take around 3 hours ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "21:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5820502be4b0ece2f905d3ae", 
+            "title": "work on hospital pipeline can start this month", 
+            "text": [
+                "work on a pipeline connecting the churchill and john radcliffe hospitals in oxford can start on 28 november .", 
+                "the link will carry hot water , electricity , data , and should reduce energy bills at the hospitals .", 
+                "the project has been held up by planning problems , but now has approval along with the necessary traffic orders .", 
+                "headington councillor , ruth wilkinson , says residents are being kept informed and has warned the work will cause disruption .", 
+                "it is certainly going to be difficult for motorists in headington in the run up to christmas , particularly on the south side of london road ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "21:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10164400", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "20:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58205741e4b05d511bb3176f", 
+            "title": "police search for missing 20-year-old", 
+            "text": [
+                "police say they 're very concerned for the welfare of lauren seamen - who has n't been seen since yesterday afternoon .", 
+                "that was in gloucester street in faringdon at around 3 o'clock .", 
+                "she 's 5 foot 2 inches tall , and is known to visit henley and reading .", 
+                "police says she was wearing blue jeans , a blue or turquoise hoodie , and a reindeer woolly hat with antlers ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:06"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_37895152", 
+            "title": "oxford donate fa cup cash to merstham", 
+            "text": [
+                "oxford donate fa cup cash to merstham"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10164458", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "19:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "clip_2016-11-07T11:12:47.408Z_p04fgfvc", 
+            "title": "south weather", 
+            "text": [
+                "south weather"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58204ac0e4b0455bb82a9b88", 
+            "title": "exhibition marks penicillin anniversary", 
+            "text": [
+                "did you know the first human trials for penicillin took place in oxford ?", 
+                "they happened 75 years ago , and the landmark is being celebrated with an exhibition at the city 's museum of the history of science .", 
+                "sir alexander fleming was the first person to notice mould could destroy bacteria - and is generally credited with discovering penicillin .", 
+                "but the museum 's assistant keeper , dr stephen johnson , says it was the team in oxford unleashed the potential of penicillin .", 
+                "fleming thought this looks very important and interesting and he published on it and then it goes quiet for 10 years because they could n't do anything with this stuff they could see this mould , but how did you get the bit which actually did the work ?"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58204023e4b0455bb82a9b52", 
+            "title": "what affect will benefit cap cut have ?", 
+            "text": [
+                "a cut to the benefits cap - .", 
+                "which limits the income working age households can get in certain benefits - has taken effect today .", 
+                "it 's dropped from \u00a3 26,000 a year to \u00a3 20,000 a year in the uk - except in greater london where the limit is \u00a3 23,000 a year .", 
+                "oxford city councillor , susan brown , says oxford should have the same cap level as london - and fears oxford will no longer be affordable to people on benefits .", 
+                "i fear that might be one of the consequences , that is not something that we want to happen - we want to ensure that oxford remains a welcoming city for everybody but unfortunately that is potentially one of the consequences .", 
+                "but work and pensions secretary damian green says the changes will help people get back to work :", 
+                "all the evidence is that the best route out of poverty is to find a job and the benefit cap is not just fair on everyone , particularly on people paying taxes but it also encourages people to find work , and that is the best thing for them ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "sty_37894146", 
+            "title": "hospital unit downgrade to be reviewed", 
+            "text": [
+                "hospital unit downgrade to be reviewed"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:28"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58203b28e4b0ece2f905d340", 
+            "title": "a & e waiting times target missed", 
+            "text": [
+                "the a & e waiting times target continues to be missed by the trust running the john radcliffe and horton hospitals .", 
+                "82 % of people who attended their emergency departments were seen within four hours in september .", 
+                "the target says 95 % of people should be seen within that time .", 
+                "oxford university hospitals trust has n't hit the benchmark since july 2015 , and has put an urgent improvement plan in place ."
+            ], 
+            "author": [
+                "Marcus Liddell", 
+                "BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_582037cce4b05d511bb316da", 
+            "title": "wintry weekend", 
+            "text": [
+                "it certainly felt like winter truly arrived this weekend .", 
+                "temperatures in benson dropped to -2.3 degrees celsius ( 28f ) ,", 
+                "it 's set to remain cold with temperatures remaining in single figures for most of the week ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58203636e4b05d511bb316ce", 
+            "title": "warning after spate of m40 crashes", 
+            "text": [
+                "emergency services are warning drivers to take extra care after a spate of crashes on the m40 .", 
+                "four people were taken to hospital on thursday after a three-vehicle accident in the early hours near the a40 turn for oxford .", 
+                "on saturday , a car ended up on its roof on a verge after a four-vehicle crash at junction 10 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "16:23"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5820356ce4b0455bb82a9b16", 
+            "title": "benefit cap to hit oxfordshire households", 
+            "text": [
+                "it 's estimated that 850 households in oxfordshire will be hit as the roll out of a new benefit cap starts today .", 
+                "the amount a family can claim has been cut from \u00a3 26,000 to a maximum of \u00a3 20,000 .", 
+                "oxford city council has said it 's worried people will be evicted or will have to move to cheaper areas ."
+            ], 
+            "author": [
+                "Bethan Phillips", 
+                "Political reporter, BBC Radio Oxford"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "16:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10164058", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:02"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58203400e4b0455bb82a9b07", 
+            "title": "good morning", 
+            "text": [
+                "hello and welcome to oxfordshire live on a clear , and rather cold , monday morning .", 
+                "it 's expected to be dry for most of the day , and after a windy start it will become less breezy for the afternoon .", 
+                "highs of 8c .", 
+                "as ever we 'll be bringing you the latest headlines , sport and travel updates throughout the day .", 
+                "do feel free to get in touch via email , facebook and twitter ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:01"
+        }
+    ], 
+    "genre": "uk-england-oxfordshire", 
+    "quality": "high"
+}

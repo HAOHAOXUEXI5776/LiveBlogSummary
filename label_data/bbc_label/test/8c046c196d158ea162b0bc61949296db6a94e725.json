@@ -1,0 +1,787 @@
+{
+    "blog_id": "8c046c196d158ea162b0bc61949296db6a94e725", 
+    "title": "BBC Local Live: Derbyshire on Monday 19 December 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-38327840", 
+    "summary": [
+        "updates for monday 19 december 2016 .", 
+        "borrowash death : witnesses stories emerge .", 
+        "derby and matlock post offices to remain open .", 
+        "derby terror raid : police given more time .", 
+        "news , sport , travel and weather updates resume at 08:00 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_585819f0e4b055b7d25a9890", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire and east staffordshire have finished for the day , but we 'll be back at 08:00 tomorrow with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585819a7e4b055b7d25a988f", 
+            "title": "weather : cloudy with drizzle", 
+            "text": [
+                "it 'll be a cloudy night with some drizzle possible throughout the night .", 
+                "there 's the chance of a few mist patches in places .", 
+                "lows of 4c ( 39f ) ."
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC East Midlands Today Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:57"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58581a88e4b0fb6baf9188fc", 
+            "title": "your photos : beautifully blue bakewell", 
+            "text": [
+                "thank you to our weather watcher huddy for sending this beautiful photo of the sunset in bakewell ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585814f3e4b055b7d25a9876", 
+            "title": "smoke alarm 'saves child 's life '", 
+            "text": [
+                "derbyshire fire and rescue service say a working smoke alarm almost certainly saved the life of a small child in derby this lunchtime .", 
+                "the father was outside washing his car when the alarm started to sound , he immediately ran upstairs to rescue the child from its cot .", 
+                "two crews tackled the fire on nottingham road , which has damaged the first floor ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58581809e4b0fb6baf9188f5", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58580757e4b055b7d25a9824", 
+            "title": "cctv footage released of man wanted over car theft", 
+            "text": [
+                "police have released cctv footage of a man they want to speak to in connection with the theft of cards , cash , a phone and a white peugeot 208 from a house on alvaston street .", 
+                "the theft happened on 1 november at about 06:50 .", 
+                "one of the stolen bank cards was used at a number of shops in allenton and alvaston later that morning .", 
+                "police want to speak to the man seen on the cctv footage below ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58580d67e4b0fb6baf9188be", 
+            "title": "last sportscene talk for 2016", 
+            "text": [
+                "our sports reporter owen bradley is still deciding whether to do the final sportscene talk in a santa 's hat .", 
+                "yes or ho ho no ?", 
+                "get your votes in .", 
+                "should i present tonight 's sportscene talk-in wearing a santa hat ?", 
+                "# dcfcfans", 
+                "the people have spoken .", 
+                "a banta hat more like , amirite ?", 
+                "should you even have to ask !", 
+                "need to get a player on loan new year somebody like fellani in midfield", 
+                "yes so long as craig does too", 
+                "i hope you 'll have some other clothes on besides the santa hat !", 
+                "we ca n't see on the radio anyway lol", 
+                "no headphones ?", 
+                "!"
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857ffe1e4b055b7d25a97ff", 
+            "title": "sir dave brailsford defends team sky", 
+            "text": [
+                "the derbyshire boss of team sky said he was told a controversial package which was delivered to sir bradley wiggins contained a non-prescription decongestant .", 
+                "sir dave brailsford was giving evidence to mps on the commons culture committee , which is investigating the fight against doping in sport .", 
+                "he continues to defend team sky ."
+            ], 
+            "author": [
+                "Aleena Naylor", 
+                "Presenter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58580192e4b055b7d25a980a", 
+            "title": "police dog gets into christmas spirit", 
+            "text": [
+                "aw just look at police dog stan looking adorably cute in his christmas scarf .", 
+                "pd stan in his festive scarf # hohoho"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5858000de4b0fb6baf918875", 
+            "title": "inquests to open into borrowash and m1 deaths", 
+            "text": [
+                "inquests into the deaths of claire and vincent nagle will be opened at 14:00 tomorrow at derby coroner 's court , police have said ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38367927", 
+            "title": "mcclaren feels bad decisions cost rams", 
+            "text": [
+                "mcclaren feels bad decisions cost rams"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:49"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10262618", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:48"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857e946e4b0fb6baf9187f3", 
+            "title": "your photos : colourful chesterfield", 
+            "text": [
+                "seems as if the sky across chesterfield yesterday was very pink .", 
+                "thank you to our weather watcher viki the blue for sending in this beautiful photo of the sunset ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": "15:41"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857f0dee4b0c688e56c9296", 
+            "title": "dog starts fire in kitchen", 
+            "text": [
+                "you read that right .", 
+                "and no , it did n't leave the chip pan on after getting back from the pub .", 
+                "the pesky pooch climbed on top of a cooker in a sandiacre kitchen , turning the electric hob on , firefighters believe .", 
+                "it then knocked a bin over , which caught fire at about midnight on saturday .", 
+                "luckily the smoke alarm sounded and the homeowner and her clumsy pet escaped to safety , where they were given oxygen treatment by firefighters from long eaton and stapleford stations ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857f61ce4b0c688e56c92bd", 
+            "title": "m1 death man named", 
+            "text": [
+                "the man who died on the m1 , near trowell services , on friday has been named as vincent nagle .", 
+                "the 44-year-old , from station road , borrowash died after colliding with a lorry on the motorway at about 11:30 .", 
+                "derbyshire police said his death was linked to the murder of claire nagle , in station road in the village about half an hour earlier .", 
+                "nathan paton , 22 , who was injured at the house remains in the queen 's medical centre , where he is receiving treatment for head injuries , believed to have been caused by a nail gun ."
+            ], 
+            "author": [
+                "Dave Wade", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "15:03"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5857e852e4b0c688e56c926a", 
+            "title": "rams draw at fulham", 
+            "text": [
+                "derby county boss steve mcclaren is looking forward to his christmas break .", 
+                "after drawing 2-2 at fulham on saturday , the rams are next in action on the 27 december , against birmingham .", 
+                "after playing three matches in the last week , mcclaren is glad of the breather ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857dc89e4b055b7d25a9747", 
+            "title": "derby 's christmas party for the lonely", 
+            "text": [
+                "age uk said even people with a family can feel lonely .", 
+                "the charity estimates there are around 66,000 people in this situation across the east midlands .", 
+                "radio derby held a party at the roundhouse this morning for people who 're spending the festive period on their own .", 
+                "by the looks of twitter it was a success ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10262330", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857de6ce4b0c688e56c923c", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:04"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857d6b8e4b0c688e56c9215", 
+            "title": "photos : children in hospital get a special visit", 
+            "text": [
+                "say cheese here are a few more from the pantomime visit ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857d81fe4b055b7d25a9730", 
+            "title": "spreading christmas cheer", 
+            "text": [
+                "and not forgetting safety tips from derbyshire fire and rescue service .", 
+                "notts road red watch @ twitterid and @ twitterid delivering xmas cheer and @ twitterid safety messages # topteam"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "12:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857d20ce4b0fb6baf91878c", 
+            "title": "panto cast visit children in hospital", 
+            "text": [
+                "it 's this time of year when we all go pantomime crazy ( oh no we do n't !", 
+                ") .", 
+                "stars of this year 's panto at derby arena have been meeting children who are spending the last few days before christmas in hospital .", 
+                "the children at the royal derby hospital spoke to stars including lloyd warbey from the children 's show art attack ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38366905", 
+            "title": "clough proud of battling burton", 
+            "text": [
+                "clough proud of battling burton"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5857c963e4b0c688e56c91c0", 
+            "title": "derby terror raid : police given more time", 
+            "text": [
+                "detectives have been granted more time to question five men who were arrested in burton and derby last monday on sus of terror offences .", 
+                "the north east counter terrorism unit had a warrant of detention that lasted until this morning but over the weekend , a court gave them until boxing day to charge or release the men - or apply for a further extension ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "12:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857be29e4b0fb6baf918714", 
+            "title": "will it snow this christmas ?", 
+            "text": [
+                "as ever , we 're all dreaming of a white christmas this year- but will our festive wish be granted ?"
+            ], 
+            "author": [
+                "Belper News"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:01"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5857ba2ce4b0fb6baf9186f9", 
+            "title": "pay rise for jcb staff", 
+            "text": [
+                "shop floor employees at jcb have voted to accept a 2.2 % pay rise for 2017 , as part of a newly agreed three-year wage deal .", 
+                "about 3,200 shop floor employees at plants in foston , uttoxeter , rocester , cheadle rugely and wrexham will receive the increase from 1 january ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "11:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857bd0be4b0fb6baf91870e", 
+            "title": "derby 's christmas party for lonely people", 
+            "text": [
+                "lonely this christmas ?", 
+                "do not fear sally pepper and the team are here", 
+                "they are hosting a christmas party for people who are alone during christmas .", 
+                "welcome @ twitterid and @ twitterid who are hosting a christmas party for listeners that are alone this christmas"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:27"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857bf7be4b0fb6baf91871b", 
+            "title": "east midlands weather", 
+            "text": [
+                "here 's how it 's looking today"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_38363496", 
+            "title": "village man 'was attacked with nail gun '", 
+            "text": [
+                "village man 'was attacked with nail gun '"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857bb4fe4b0fb6baf918704", 
+            "title": "latest headlines for derbyshire", 
+            "text": [
+                "latest headlines for derbyshire"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58579d4ae4b0fb6baf91865f", 
+            "title": "sports personality of the year 2016 : peaty comes 11th in vote", 
+            "text": [
+                "staffordshire and city of derby swimmer adam peaty came 11th in the vote for the bbc sports personality of the year award .", 
+                "andy murray won the accolade for a record third time after claiming his second wimbledon title , olympic gold and became tennis ' world number one in a remarkable 2016 .", 
+                "he won with more than 247,419 votes while uttoxeter 's peaty got 11,129 .", 
+                "uttoxeter 's peaty made the shortlist after smashing his own world record to take olympic gold in the men 's 100m breaststroke ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857b1e9e4b055b7d25a9656", 
+            "title": "borrowash deaths : village left in shock", 
+            "text": [
+                "reverend sumpter said the village was in shock and that one of his parishioners , who came to nathan 's aid , was left traumatised .", 
+                "he said : `` these things when they happen anytime of year they 're so tragic but particularly this time of year , leading up to christmas .", 
+                "`` someone from our church here was involved in offering first aid .", 
+                "`` she had her baby with her and she offered the blanket from the baby for the son who was severly injured .", 
+                "it 's going to take people a long time to get over the trauma of these tragic events . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_5857ae04e4b0c688e56c9110", 
+            "title": "postal strikes : derby and matlock open", 
+            "text": [
+                "if you can remember on friday i told you that derby city post office and matlock post office may be closed today because of a strike .", 
+                "the communication workers union are in a dispute over pensions , job security and branch closures .", 
+                "good news is both derby and matlock branches will remain open ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857abe0e4b0fb6baf9186ae", 
+            "title": "borrowash attacks : 'ordinary lovely , loving family '", 
+            "text": [
+                "the reverend timothy sumpter , from st stephens church in borrowash , said although he never met the family he 's spoken to many people who knew them .", 
+                "`` the impression that i get is of an ordinary lovely , loving family that would do anything for you and were therefore liked a lot and had a very strong network of friends within the community . ''"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857a240e4b0fb6baf918679", 
+            "title": "borrowash attacks : 'he was just thinking purely of his family '", 
+            "text": [
+                "local tattooist taz daley told bbc radio derby he tried to help nathan while they waited for an ambulance .", 
+                "`` he was n't delirious he just basically said this has happened and that he needed to get back there , he 'd got younger brothers and sisters and he needed to get back to look after them .", 
+                "`` he was n't thinking of himself even though he was in such bad condition , he was just thinking purely of his family , '' mr daley said ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_5857a073e4b055b7d25a95d9", 
+            "title": "borrowash deaths : son 'attacked with a nail gun '", 
+            "text": [
+                "a man found with horrific facial injuries in borrowash on friday told people who went to help him he 'd been attacked with a nail gun , bbc radio derby reports .", 
+                "the 22-year-old , who has been named locally , as nathan paton was found wandering the street covered in blood ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58579b13e4b0c688e56c90b1", 
+            "title": "borrowash death : woman named", 
+            "text": [
+                "police have named the woman who was killed in borrowash on friday as 38-year-old claire nagle .", 
+                "she died after being assaulted on charnwood avenue on friday .", 
+                "derbyshire police are linking the attack to the death of a 44-year-old man , named locally as vincent nagle , who was hit by a lorry on the m1 ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58579754e4b0c688e56c909a", 
+            "title": "your photos : sunset in dronfield", 
+            "text": [
+                "thank you to our weather watcher michael hardy for sending in this beautiful photo of the sunset over stoney ridge road , dronfield .", 
+                "if you have any photos please send them into us here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_585793e2e4b055b7d25a958e", 
+            "title": "travel : a38 derbyshire", 
+            "text": [
+                "there 's a lump of wood on the road on the a38 northbound between the coxbench road junction in coxbench and the a610 junction in pentrich .", 
+                "approach with care ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:07"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_585792dde4b0c688e56c9073", 
+            "title": "good morning : join us for today 's live news coverage", 
+            "text": [
+                "i hope you all had a great weekend .", 
+                "it 's me with your news , travel , sport and weather for derbyshire and east staffordshire today .", 
+                "if there 's anything you want to comment on you can email , facebook or tweet us .", 
+                "have a good day ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

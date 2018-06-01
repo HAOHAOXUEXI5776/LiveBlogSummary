@@ -1,0 +1,889 @@
+{
+    "blog_id": "a8de7248ed6d08541c4db41c622fa936d50f9815", 
+    "title": "UK retail sales much lower than expected in January - as it happened | Business | The Guardian", 
+    "url": "https://www.theguardian.com/business/live/2018/feb/16/pound-strengthens-ahead-of-uk-retail-sales-figures-business-live", 
+    "summary": [
+        "wall street opens higher .", 
+        "us import prices higher than expected .", 
+        "us housing market stronger than expected .", 
+        "bcc boss warns of recruitment crisis .", 
+        "pound loses early gains after retail sales figures .", 
+        "uk retail sales weaker than expected .", 
+        "weak uk retail sales : reaction ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86e966e4b066a6256bbc7b", 
+            "title": "summary : weak uk retail sales", 
+            "text": [
+                "despite hopes of a in high street spending after a poor december , uk retail sales came in weaker than expected in january .", 
+                "sales of gym wear improved but food sales fell , according to the office for national statistics .", 
+                "meanwhile the boss of the british chambers of commerce has warned that uk companies face a recruitment crisis .", 
+                "in the us , housing starts were higher than expected in january , as were import prices , a further sign of growing inflationary pressures .", 
+                "on that note it 's time to close for the day .", 
+                "thanks for all your comments , and we 'll be back on monday ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                15, 
+                1
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86eafee4b0860c49268c1c", 
+            "title": "wall street opens higher", 
+            "text": [
+                "after five days of rises , us markets have edged higher at the start of the week 's final trading day .", 
+                "the dow jones industrial average is currently up 35 points or 0.14 % while the s & p 500 is 0.03 % better and the nasdaq composite 0.04 % higher ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                14, 
+                53
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86e556e4b066a6256bbc65", 
+            "title": "", 
+            "text": [
+                "the us housing and import price data and some mixed company results - kraft heinz missed expectations , coca-cola bettered them - has push the futures into the red .", 
+                "reversing earlier gains , the dow jones industrial average is now expected to open around 13 points lower ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                14, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86deb1e4b0767e2673cb59", 
+            "title": "us import prices higher than expected", 
+            "text": [
+                "meanwhile us import prices climbed by more than expected in january , adding to the signs of increasing inflationary pressures .", 
+                "with increases in the cost of imported petrol and other goods , import prices climbed by 1 % last month , compared to a 0.1 % rise in december and expectations of a 0.6 % increase .", 
+                "dept of labor"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                13, 
+                42
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86ddd1e4b066a6256bbc0d", 
+            "title": "us housing market stronger than expected", 
+            "text": [
+                "more signs of strength in the us housing market .", 
+                "housing starts in january came in at 1.326m units , up from a revised december figure of 1.209m and higher than the expected 1.234 .", 
+                "december 's figure was initially given as 1.192m units .", 
+                "spreadex ( @ spreadexfins ) usa housing starts announcement - actual : 1.326mln , expected : 1.234mln"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                13, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86dae5e4b0860c49268ba0", 
+            "title": "", 
+            "text": [
+                "here 's ig 's opening calls for the us markets : igsquawk ( @ igsquawk ) us opening calls : # dow 25276 +0.29 % # spx 2738 +0.21 % # nasdaq 6821 +0.36 % # igopeningcall"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                13, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86cf48e4b0767e2673cab3", 
+            "title": "", 
+            "text": [
+                "us markets are expected to open higher again , with the futures suggesting a 74 point initial rise on the dow jones industrial average .", 
+                "craig erlam , senior market analyst at oanda , said : us equity markets could end the week with a full house of gains as long as indices manage to hold onto the small gains being seen in futures ahead of the open .", 
+                "this would also bring an end to two shocking weeks for equity markets that saw more than 10 % quickly wiped off indices , the first time we 've seen such a move since the start of 2016 .", 
+                "while the prospect of higher yields and interest rates , combined with a surge in volatility , have been blamed for the decline , the rebound we 're now seeing reaffirms the belief that fundamentals are still strong which should prevent the situation deteriorating further ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                12, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86cc1ae4b0767e2673ca8b", 
+            "title": "bcc boss warns of recruitment crisis", 
+            "text": [
+                "the head of the british chambers of commerce has warned companies are facing a recruitment crisis and urged the government to act , in an article for the guardian : british companies are facing a recruitment crisis , with labour shortages hitting critical levels in some sectors , according to a business leader who has urged the government to produce details on a post-brexit immigration system .", 
+                "adam marshall , the director general of the british chambers of commerce , said the lack of candidates for some jobs was biting hard , and he warned ministers against bringing forward a draconian and damaging '' visa or work permit system .", 
+                "surveys by the bcc showed that nearly three-quarters of firms trying to recruit had been experiencing difficulties at or near the highest levels since [ bcc ] records began over 25 years ago '' , he said .", 
+                "here is our full report : business leader warns may against harsh immigration policy read more and here is marshall 's opinion piece : businesses are floundering while whitehall dithers on immigration | adam marshall read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                12, 
+                21
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86c3a9e4b0860c49268a6c", 
+            "title": "", 
+            "text": [
+                "here 's our full story on the uk retail sales .", 
+                "sarah butler writes : january was a tough month for high street retailers as sales rose just 0.1 % , far below city expectations , as higher prices continued to deter shoppers from spending .", 
+                "city analysts had expected a recovery of around 0.5 % last month , after the unexpectedly sharp fall of 1.4 % in december .", 
+                "the figures from the office for national statistics ( ons ) indicate a up in year-on-year growth to 1.6 % in january , from 1.5 % in december , but analysts had hoped for a bigger turnaround after a very disappointing end to last year .", 
+                "food sales fell again - down 0.9 % in volume terms on december - but that was offset by a rise in sales of gym kit and children 's toys .", 
+                "rhian murphy , ons senior statistician , said : retail sales growth was broadly flat at the beginning of the new year with the longer-term showing a continued slowdown in the sector .", 
+                "this can partly be attributed to a background of generally rising prices . ''", 
+                "she said there had been a 0.9 % decline in the volume of food compared with january 2017 while non-food rose 2.6 % , led by sports equipment , games and toys .", 
+                "an uplift in sales of gym kit as consumers resolved to get fit and lose weight contributed to a year-on-year rise .", 
+                "it was the sixth consecutive month of decline in the volume of food sold .", 
+                "read more here : uk high street sales stagnant amid january retail gloom read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                11, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86b9f9e4b0767e2673c9c9", 
+            "title": "pound loses early gains after retail sales figures", 
+            "text": [
+                "sterling has slipped into negative territory against the dollar , as investors mull over the weaker than expected retail sales .", 
+                "the pound is down 0.18 % at $ 1.4070 having earlier been as high as $ 1.4144 .", 
+                "against the euro , sterling is down 0.06 % at \u20ac1.1264 ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                11, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86b9cae4b066a6256bba69", 
+            "title": "", 
+            "text": [
+                "commenting on the retail sales figures , andrew sentance , senior economic adviser at pwc , said : the squeeze on consumer spending created by high inflation and a weakened pound continues .", 
+                "over the three months covering the christmas and new year period ( november to january ) , the volume of retail sales was just 0.1 percent up on the previous three months - the weakest growth we have seen on this measure for nearly a year .", 
+                "while inflation continues to run ahead of pay increases , it is not surprising that consumers are cautious and retail sales growth is sluggish .", 
+                "looking ahead , we should expect the squeeze on consumer spending from high inflation to ease as we progress through this year .", 
+                "but the economic benefits of lower inflation are unlikely to be felt until the second half of 2018 at the earliest .", 
+                "the first half of this year will continue to be a difficult environment for retailers and other consumer-facing sectors .", 
+                "the silver lining to these consumer spending clouds is that the global economy is still performing strongly , as we saw from very positive figures for growth in our eu partners released yesterday .", 
+                "so disappointing performance in retailing and other consumer sectors is being offset by a positive uplift from strong growth elsewhere in europe and across the global economy .", 
+                "uk economic growth should be around 1.5 percent this year - disappointing in comparison with other major economies , but strong enough to prevent a significant rise in unemployment ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                11, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86b3cfe4b08a7971395a13", 
+            "title": "", 
+            "text": [
+                "and the uk research director at global data retail : patrick o'brien ( @ pat gdretail ) ons retail sales data much worse than expected , though why anyone thought people had suddenly gone on a january shopping spree is a mystery to me ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                10, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86b33fe4b0c73a42841850", 
+            "title": "", 
+            "text": [
+                "here 's the chief uk economist at pantheon macroeconomics : samuel tombs ( @ samueltombs ) falling food sales to blame for january 's below-consensus uk retail sales .", 
+                "the good news is that supermarkets have largely finished hiking prices due to the weak \u00a3 .", 
+                "but rising mortgage rates and an intensifying fiscal squeeze suggest sales growth will remain sluggish this year"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                10, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86acd4e4b05f3d2b6e1c3e", 
+            "title": "", 
+            "text": [
+                "here 's breakdown of non-food sales , showing the growth in sports equipment : for national statistics"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                10, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86aa9ee4b0c73a42841810", 
+            "title": "weak uk retail sales : reaction", 
+            "text": [
+                "following the disappointing retail sales , economist james smith at ing bank is not optimistic about the outlook for the sector .", 
+                "but he believes the bank of england could still raise rates in may : after what was a particularly tough christmas trading period for retailers , consumers continued to keep the foot on the brakes through january .", 
+                "retail sales barely increased in the first month of the year ( 0.1 % rise ) , suggesting that shoppers were reluctant to heavily participate in the traditional january sales , backing-up separate findings from visa .", 
+                "for now , we see few catalysts for a sustained rebound in spending over coming months .", 
+                "consumer confidence remains depressed ( despite some recent improvement ) and disposable incomes look set to remain under pressure .", 
+                "true , wage growth has been performing better recently , giving the bank of england increased confidence that the tight labour market is prompting firms to offer more generous pay packets .", 
+                "that said , it 's still early days and we think there remains a risk that some firms take a more cautious stance , amidst slower economic momentum and elevated uncertainty .", 
+                "at the same time , food and fuel costs are continuing to rise , even though in general consumer prices have largely adjusted to the post-brexit weakening in the pound .", 
+                "when it comes to the outlook for interest rates though , it 's worth remembering that the bank of england has already factored much of this weakness into their assessment of uk growth .", 
+                "assuming the next couple of wage growth readings continue to paint an improved we think policymakers will have enough confidence to hike rates in may - although of course , this remains heavily contingent on progress in the brexit negotiations .", 
+                "for national statistics dennis de jong , managing director at ufx.com , said : hopes for a rebound on december 's poor uk retail sales results failed to materialise after today 's data revealed sluggish growth in january .", 
+                "uk shoppers continued the theme of keeping their money in their pockets post-christmas , and weaker than expected data could now have an adverse effect on the pound , which has been heading for its best weekly performance since september .", 
+                "positive brexit negotiations and the 'glass half-full mentality ' surrounding talks could start to rub off on the market and consumers might take heart from this , but the market is currently volatile and retail sales growth could be unpredictable for the next few months .", 
+                "the bigger still shows that consumer price inflation sits at 3 % and wage growth is continuing to languish , so before we see any movement on both fronts , there could be a glass ceiling in place for any retail sales growth .", 
+                "jeremy cook , chief economist at worldfirst , comments : who 'd be a retailer right now ?", 
+                "the ons sees the longer-term for the retail sector as in a continued slowdown '' and the average british consumer is looking at real wage declines , higher borrowing costs , and record levels of consumer deb .", 
+                "the average brit has spent the past few years living the mantra when the going gets tough , the tough go shopping '' but january 's retail sales number shows that uk consumer spending is not as hardy as it once was and this represents a real risk to q1 gdp already ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                10, 
+                3
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a966e4b05f3d2b6e1c1f", 
+            "title": "", 
+            "text": [
+                "here 's societe generale 's kit juckes : kit juckes ( @ kitjuckes ) uk retail sales ex autos 1.5 % y/y , 3-m y/y 1.4 % , last time we were at this kind of rate in 2013 gdp growth was 1 1/2 % too .", 
+                "this is the new normal .", 
+                "does leaving europe doom us to european growth rates ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86a7f2e4b0c73a42841803", 
+            "title": "", 
+            "text": [
+                "the weaker than expected retail sales numbers have taken the shine off sterling .", 
+                "the pound is now up just 0.1 % against the dollar at $ 1.4108 , having earlier climbed as high as $ 1.4144 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a6f9e4b08a79713959ad", 
+            "title": "", 
+            "text": [
+                "rhian murphy , office for national statistics senior statistician said : retail sales growth was broadly flat at the beginning of the new year with the longer-term showing a continued slowdown in the sector .", 
+                "this can partly be attributed to a background of generally rising prices .", 
+                "growth in the quantity of sporting equipment , games and toys being bought was offset by falling food sales when compared with the same month a year earlier .", 
+                "sporting equipment sales have grown more than usual in january 2018 , following an increased uptake for gym wear ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a679e4b08a79713959aa", 
+            "title": "retail sales lifted by sales of sports equipment , but food falls", 
+            "text": [
+                "it seems the retail figures were boosted by people deciding to get fit after possibly overindulging at christmas .", 
+                "the ons said : the main contribution to the year-on-year growth came from non-food stores , with sports equipment , games and toys increasing sales in the quantity bought in this sector by 10.9 % .", 
+                "feedback from retailers suggested that new year 's resolutions to get fit and lose weight '' contributed to this increase of sales when compared with the previous year .", 
+                "as for food sales : the year-on-year growth rate for quantity bought in food stores showed a decline for the sixth consecutive month at negative 0.9 % , due largely to a continued rise in food store prices ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                39
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a581e4b0c73a428417ed", 
+            "title": "", 
+            "text": [
+                "high street sales has dropped sharply in december as shoppers brought forward sales into november to take advantage of discounts including the black friday sales .", 
+                "taking the three months from november to january , sales edged up just 0.1 % after climbing 0.5 % in the three months to december ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a495e4b08a797139599c", 
+            "title": "uk retail sales weaker than expected", 
+            "text": [
+                "british shoppers kept their money in their pockets in january , with retail sales coming in sharply lower than forecast .", 
+                "overall retail sales volumes rose 0.1 % month on month , compared to expectations of an increase of around 0.5 % .", 
+                "year on year growth was 1.6 % , the highest since august but at the bottom end of expectations of around 2.4 % .", 
+                "bigger than usual spending on gym wear was offset by a fall in food sales , said the office for national statistics ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                32
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a86a2f9e4b05f3d2b6e1bf3", 
+            "title": "", 
+            "text": [
+                "anthony barton ( @ antbarton89 ) \ufffd\ufffd retail sales due in 10 mins , barclays are much more downbeat than consensus and look for a 0.6 % m/m fall"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                23
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a86a268e4b0c73a428417d7", 
+            "title": "", 
+            "text": [
+                "the pound is heading for its best weekly performance since september , buoyed by a weaker dollar , the expectation of rising interest rates from a more hawkish bank of england , and hopes that brexit talks will progress .", 
+                "of course , that is before the uk retail sales figures , which could have an influence one way or the other ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a869fb6e4b05f3d2b6e1be8", 
+            "title": "", 
+            "text": [
+                "ahead of the uk retail sales figures , here is economist rupert seggins : rupert seggins ( @ rupert seggins ) uk retail sales stats out at 9:30 .", 
+                "monthly changes are too volatile to be much signal & changing y/y figures are being distorted by the unwinding of a big base effect ( see chart ) .", 
+                "suggest focussing on % 3m/3m changes .", 
+                "or just stare at a chart of the levels like the one below : )"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a869e01e4b08a797139597c", 
+            "title": "", 
+            "text": [
+                "after four weeks of falls - including a 4.7 % decline last week - the ftse 100 is on track for a positive five days of trading .", 
+                "connor campbell , financial analyst at spreadex , said : despite a week that 's been chock full of hawkish data , the markets continued to mount a comeback this friday , extending the gains made on thursday hit it a slew of 7 day-plus highs .", 
+                "the ftse rose a further half a percent after the bell , allowing the index to tickle 7275 .", 
+                "that is the index 's best price in around 10 days , with the ftse finding a way to co-exist with cable 's own climb .", 
+                "against the dollar sterling jumped 0.3 % , lifting the pound towards $ 1.413 for the first time since last monday .", 
+                "the currency has had less success against the euro , with its current \u20ac1.127 levels at the bottom end of the pound 's recent range .", 
+                "sterling is presumably feeling chipper not just because of the dollar 's sustained , hawk-ignoring weakness , but the fact the uk should a solid retail sales reading this friday .", 
+                "analysts are expecting january 's figure to come in at 0.5 % , a colossal improvement on december 's disappointing -1.5 % .", 
+                "elsewhere the eurozone was just as perky as the uk this morning .", 
+                "the dax rose 0.4 % , leaving it a handful of points from 12400 , while the cac was up half a percent , sitting just the wrong side of 5250 .", 
+                "the region has nothing to deal with this friday , so any movement will be dictated by the wider macro-sentiment ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                9, 
+                4
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-5a869497e4b0c73a4284179b", 
+            "title": "", 
+            "text": [
+                "markets are holding on to their gains ahead of the uk retail sales figures .", 
+                "lee wild , head of equity strategy at interactive investor , said : where wall street goes , other markets follow , and this bounce back from last week 's lows is no different .", 
+                "traders are quickly getting used to higher bond yields , higher inflation and another round of hikes in global interest rates that will follow , so much so that us stocks are recovering twice as fast as in london .", 
+                "markets will remain volatile , for sure , but we 've just found out that big investors ca n't stay out of this market for long , and demand for equities ty up in the weeks before tax year-end ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                8, 
+                22
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a868fe4e4b08a7971395933", 
+            "title": "european markets open higher", 
+            "text": [
+                "with wall street and asian markets continuing their recovery after the early february slump , european share prices are off to a good start in early trading .", 
+                "the ftse 100 is 44 points or 0.6 % better , while germany 's dax is up 0.49 % and france 's cac has climbed 0.55 % ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                8, 
+                5
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a868e49e4b08a7971395925", 
+            "title": "", 
+            "text": [
+                "balfour beatty is trying to shake off the cloud of carillion , the collapsed uk contractor , and today it has announced a joint venture contract win in the us .", 
+                "it has been awarded a $ 1.95bn ( \u00a3 1.4bn ) deal to design , build , finance , operate and maintain the 'automated people mover ' at los angeles international airport .", 
+                "balfour 's share amounts to around \u00a3 420m .", 
+                "neil wilson at etx capital said : good news for balfour beatty with a major contract award that should help the stock shrug off the cloud of the carillion mess that has left the shares down more than 10 % in the last month despite some setbacks in the share price following the collapse of carillion , this is yet another sign of the solid progress being made under leo quinn and the build to last strategy .", 
+                "it 's the first major public-private partnership contract win in the us civil infrastructure market - one that could grow significantly in the coming years , particularly if we consider the shape of proposed infrastructure plans .", 
+                "the hope is that donald trump 's infrastructure spending plan will produce more such contracts for balfour .", 
+                "existing heavy us exposure means it is well placed to benefit , although it remains unclear exactly what the spending plan will eventually look like .", 
+                "[ its ] shares have taken a bit of a whipping since carillion went under as investors have bolted for cover from the sector .", 
+                "but aside from the around \u00a3 40m one-off hit from its joint venture with carillion , you have to ask what else are investors assuming ?", 
+                "there are lots of encouraging signs for balfour that should probably override such fears .", 
+                "us exposure is key in tapping growth and in insulating from uk market and this latest contract is a positive sign .", 
+                "los angeles international airport ( lax ) .", 
+                "beck/afp/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                8, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a868c02e4b08a797139591b", 
+            "title": "", 
+            "text": [
+                "holger zschaepitz ( @ schuldensuehner ) # japan 's nikkei decouples from yen .", 
+                "index gained > 1 % despite yen dropped to lowest level in 15mths ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                7, 
+                45
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-5a8682cee4b08a79713958eb", 
+            "title": "agenda : uk retail sales in focus", 
+            "text": [
+                "good morning , and welcome to our rolling coverage of the world economy , the financial markets , the eurozone and business .", 
+                "stock markets continue to recover some of the ground lost during the early february rout , despite further signs yesterday of rising inflation , one of the key factors behind the slump .", 
+                "the concerns about price increases led to a jump in bond yields , and there seems little sign of that ending .", 
+                "so , as michael hewson , chief market analyst at cmc markets uk , put it : the fact that stock markets appear to have recovered their equilibrium when rates are now higher than when markets first sold off , does make you question why the sell-off happened in the first place .", 
+                "with wall street up 306 points or 1.2 % and the nikkei 225 climbing 1 % overnight , european markets are expected to continue the trend : igsquawk ( @ igsquawk ) european opening calls : # ftse 7259 +0.33 % # dax 12386 +0.33 % # cac 5236 +0.26 % # mib 22561 +0.29 % # ibex 9766 +0.52 % the uk market 's positivity comes despite a rise in the pound , which usually puts the dampeners on the ftse 100 's overseas earners .", 
+                "sterling - which is benefiting from the weaker dollar as well as renewed optimism about the outcome of the brexit talks - is currently up 0.27 % to $ 1.4135 and could go higher if today 's uk retail sales figures live up to expectations .", 
+                "the month on month figure for january is expected to rise to 0.6 % after december 's 1.5 % decline .", 
+                "the year on year number is forecast to rise from 1.3 % to 2.4 % .", 
+                "cmc 's hewson again : the uk had a pretty rotten month in december , with a slump of 1.5 % , though that was largely as a result of bumper november number of 1.1 % which had been boosted by black friday sales spending .", 
+                "recent retail sales numbers from the british retail consortium and kpmg earlier this month appeared to show that while some retailers were struggling we did see a in january , as consumers started to re-open their wallets after a slow december .", 
+                "the recent cold weather in january may well have also prompted an increase in demand for coats and gloves , with an expectation that we could see a rise of 0.6 % .", 
+                "jasper lawler at london capital group said : the pound wasted little time capitalising on the weaker dollar and continued to charge higher passing $ 1.41 overnight .", 
+                "investors will now turn their attention towards uk retail sales due this morning at 09:30 gmt .", 
+                "analysts are expecting retail sales to have increased 2.4 % year on year in january , up from 1.3 % in december .", 
+                "given the hawkish tone from the bank of england earlier this month , in addition to the higher than forecast cpi data , a higher reading in retail sales could see the pound target its previous high of $ 1.4375 .", 
+                "the agenda : 9.30 gmt : uk retail sales 13.00 gmt : us housing starts we 'll be following all the developments during the day ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2018, 
+                2, 
+                16, 
+                7, 
+                31
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "business", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n2.53pm GMT\n14:53\nWall Street opens higher\n", 
+                "block": "block-5a86eafee4b0860c49268c1c"
+            }, 
+            {
+                "text": "\n\n1.42pm GMT\n13:42\nUS import prices higher than expected\n", 
+                "block": "block-5a86deb1e4b0767e2673cb59"
+            }, 
+            {
+                "text": "\n\n1.36pm GMT\n13:36\nUS housing market stronger than expected\n", 
+                "block": "block-5a86ddd1e4b066a6256bbc0d"
+            }, 
+            {
+                "text": "\n\n12.21pm GMT\n12:21\nBCC boss warns of recruitment crisis\n", 
+                "block": "block-5a86cc1ae4b0767e2673ca8b"
+            }, 
+            {
+                "text": "\n\n11.03am GMT\n11:03\nPound loses early gains after retail sales figures\n", 
+                "block": "block-5a86b9f9e4b0767e2673c9c9"
+            }, 
+            {
+                "text": "\n\n9.32am GMT\n09:32\nUK retail sales weaker than expected\n", 
+                "block": "block-5a86a495e4b08a797139599c"
+            }, 
+            {
+                "text": "\n\n10.03am GMT\n10:03\nWeak UK retail sales: reaction\n", 
+                "block": "block-5a86aa9ee4b0c73a42841810"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "January high street performance fails to up after disappointing December.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

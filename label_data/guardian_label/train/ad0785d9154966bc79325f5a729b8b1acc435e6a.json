@@ -1,0 +1,494 @@
+{
+    "blog_id": "ad0785d9154966bc79325f5a729b8b1acc435e6a", 
+    "title": "Hurricane Matthew: Haiti death toll nears 900 as serious floods hit US coast - as it happened | World news | The Guardian", 
+    "url": "https://www.theguardian.com/world/live/2016/oct/08/hurricane-matthew-death-toll-nears-900-as-us-braces-for-impact-live", 
+    "summary": [
+        "matthew crosses the coast .", 
+        "matthew weakens to category 1 storm .", 
+        "matthew heads for land ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f91e2ae4b05c2f1e953649", 
+            "title": "", 
+            "text": [
+                "we 're wrapping up our live coverage of hurricane matthew 's wrath .", 
+                "for the latest read my colleague richard luscombe 's wrap : hurricane matthew hammers georgia and carolinas with floods as it departs read more"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                16, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f9121be4b0e4aaeaa8d42f", 
+            "title": "matthew crosses the coast", 
+            "text": [
+                "hurricane matthew has made landfall southeast of mcclellanville in south carolina .", 
+                "the storm has caused a serious inland flooding event '' , the national hurricane center has warned ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                15, 
+                36
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f90641e4b03258bcac5a61", 
+            "title": "", 
+            "text": [
+                "here 's the state of play with hurricane matthew : the death toll from the hurricane in haiti has more than doubled to almost 900 people , with at least four deaths in florida .", 
+                "the storm has weakened to a category 1 - the least severe - but storm surges and high winds are still hitting north and south carolina and georgia .", 
+                "up to 15 inches ( 40 cm ) of rain is expected to fall in some areas , along with massive storm surges and high tides .", 
+                "about 8 inches ( 20cm ) of rain has fallen in the savannah , georgia area , resulting in flooding as well as downed trees .", 
+                "the national hurricane center expects the storm to cross the coast later on saturday : regardless of whether or not the center makes landfall , hurricane-force winds in the northern eyewall will lash much of the coast of south carolina . ''", 
+                "nearly 1.5m million homes in three states are without power ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                14, 
+                58
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f9041ce4b0e4aaeaa8d409", 
+            "title": "", 
+            "text": [
+                "although the winds have dropped , matthew is still posing a serious threat to coastal areas in north and south carolina and georgia .", 
+                "the weather network ( @ weathernetwork ) # hurricanematthew weakens , still major threat to georgia and carolinas .", 
+                "eyewall impacting # charleston , sc mark sudduth ( @ hurricanetrack ) yesterday and right now .", 
+                "the battery , charleston south carolina ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                14, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8fecce4b03258bcac5a40", 
+            "title": "", 
+            "text": [
+                "a resident emerges to inspect the flooding near white point gardens in charleston , south carolina .", 
+                "blanco/getty images matthew is centred about 30 miles southeast of charleston and moving at 12mph .", 
+                "its winds have fallen to 75mph , down from 145 mph .", 
+                "among the centres braced for the storm later on saturday include myrtle beach , south carolina and wilmington , north carolina .", 
+                "matthew brought some of the highest tides on record along the south carolina coast .", 
+                "streets and intersections in historic charleston - a city of handsome pre-civil war homes , church steeples and romantic carriage rides - were flooded ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                14, 
+                17
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8f91ce4b03258bcac5a27", 
+            "title": "", 
+            "text": [
+                "fallen trees and branches at hilton head island , south carolina .", 
+                "collins/ap hurricane matthew 's fury was being felt on hilton head island in south carolina , where power was out and the two roads on to the resort island were blocked by trees .", 
+                "water swamped roads in many areas , and there was extensive damage - much of it from the island 's well-known pine trees .", 
+                "chandler brunson and her fiance were among several of the island 's 40,000 residents trying to make it back home after they evacuated .", 
+                "brunson tried several routes to reach her house , but all were blocked : i think we 're going to have a pine tree splitting our house - that 's what i 'm afraid of . ''", 
+                "emergency officials left the island on friday afternoon and had not returned by mid-morning on saturday ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                13, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8f3dee4b03258bcac5a16", 
+            "title": "", 
+            "text": [
+                "conditions may be worsening in north charleston judging by this tweet from the city 's administration .", 
+                "north charleston ( @ northcharleston ) we have temporarily suspended emergency services .", 
+                "stay at home .", 
+                "# chswx # chstrfc # hurricanematthew"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                13, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8f040e4b0e4aaeaa8d3c0", 
+            "title": "", 
+            "text": [
+                "north carolina governor pat mccrory tweets : nc governor 's office ( @ govofficenc ) as soon # hurricanematthew turned inward , it downgraded with wind but upgraded with volume of water .", 
+                "# matthewnc"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                13, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8ed42e4b05c2f1e95359f", 
+            "title": "", 
+            "text": [
+                "walt disney world was among the florida atractions that closed on thursday ahead of hurricane matthew .", 
+                "newton/afp/getty images every attraction in central florida , except the kennedy space center visitor complex , is expected to re-open today , the disney blog reports .", 
+                "the disney parks , seaworld , legoland and universal orlando are all open on saturday .", 
+                "kennedy space center , on cape canaveral , is one area that experienced high winds .", 
+                "it suffered some roof damage , but dodged a bullet '' and is expected to open again on sunday ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                13, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8ea30e4b05c2f1e953591", 
+            "title": "", 
+            "text": [
+                "jeremie , in western haiti , was badly damaged by the hurricane .", 
+                "garcia/afp/getty images oxfam has set up a haiti hurricane appeal .", 
+                "the charity says it urgently needs donations to help those worst affected by matthew - one of the most powerful atlantic hurricanes in recent years .", 
+                "thousands of people have lost their homes , hundreds have been killed and the number of deaths is likely to rise , '' oxfam says.it is delivering water purification kits and construction materials to the stricken nation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                12, 
+                47
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8e693e4b0e4aaeaa8d3a1", 
+            "title": "matthew weakens to category 1 storm", 
+            "text": [
+                "a trailer is crushed by a fallen tree in hilton head , south carolina .", 
+                "collins/ap hurricane matthew has weakened to a category 1 storm but still remains a threat to the coasts of georgia and the carolinas .", 
+                "the national hurricane center said the storm was centered about 20 miles ( 30km ) south-southeast of charleston , south carolina .", 
+                "its maximum winds have dropped to 85mph ( 140kmh ) , with hurricane-force winds extending up to 45 miles ( 75km ) from the centre .", 
+                "matthew 's strong winds and storm surge were battering the south carolina coast on saturday , with heavy rain and high winds spreading inland .", 
+                "the storm 's centre is expected to be near the coast of southern north carolina by saturday night us time ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                12, 
+                31
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8e07be4b05c2f1e953564", 
+            "title": "matthew heads for land", 
+            "text": [
+                "a motel sign damaged in north cocoa , florida by hurricane matthew .", 
+                "/shutterstock the national hurricane center said wind gusts had reached 80mph ( 130kmh ) in hilton head , south carolina , and predicted the storm could strike the coast on saturday morning or afternoon us time .", 
+                "regardless of whether or not the center makes landfall , hurricane-force winds in the northern eyewall will lash much of the coast of south carolina , '' the nhc said .", 
+                "the storm battered the florida coast with winds of up to 120mph ( 195kmh ) , but did not make landfall there .", 
+                "the storm is a category 2 on the five-step saffir-simpson scale , with category 5 the highest ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                12, 
+                9
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8dff5e4b03258bcac59d9", 
+            "title": "", 
+            "text": [
+                "wciv in charleston reports that much of the city 's old town has been flooded overnight .", 
+                "abc news 4 ( @ abcnews4 ) video : historic charleston flooded as hurricane matthew churns 30 miles ssw # chsnews"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                12, 
+                2
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8de49e4b03258bcac59d0", 
+            "title": "", 
+            "text": [
+                "the weather channel tweets : the weather channel ( @ weatherchannel ) # tornado watch has been issued until 4pm edt for portions of coastal north carolina and northeast south carolina ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                11, 
+                54
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-57f8da79e4b03258bcac59c1", 
+            "title": "", 
+            "text": [
+                "storm surge and waves break over the sea wall in charleston , south carolina last night .", 
+                "drake/reuters nbc news has live radar images of hurricane matthew here ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                11, 
+                43
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8d6dde4b05c2f1e95354b", 
+            "title": "", 
+            "text": [
+                "the wrath of matthew is summed up in this moving image captured by photographer bahare khodabande .", 
+                "a woman in port salut , haiti , injured by hurricane matthew , which has left nearly 900 people dead and tens of thousands homeless .", 
+                "khodabande/epa"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                11, 
+                24
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-57f8d2f7e4b05c2f1e953539", 
+            "title": "", 
+            "text": [
+                "welcome to the guardian 's live coverage of hurricane matthew .", 
+                "here 's what we know right now : almost 900 people have been killed - mostly in haiti , where the death toll is expected to keep rising as isolated areas are reached wind gusts above 90mph and storm surges of up to 4.8ft have been reported in georgia and south carolina the eye of the storm is about 20 miles south-southeast of hilton head , south carolina and is moving northward at 12 mph , with 105mph winds matthew is expected to make landfall on the north carolina coast on saturday night evacuations , power failures and flooding have affected four us states"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2016, 
+                10, 
+                8, 
+                11, 
+                14
+            ], 
+            "block_kind": "block block--content is-summary"
+        }
+    ], 
+    "genre": "world", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n4.36pm BST\n16:36\nMatthew crosses the coast\n", 
+                "block": "block-57f9121be4b0e4aaeaa8d42f"
+            }, 
+            {
+                "text": "\n\n1.31pm BST\n13:31\nMatthew weakens to Category 1 storm\n", 
+                "block": "block-57f8e693e4b0e4aaeaa8d3a1"
+            }, 
+            {
+                "text": "\n\n1.09pm BST\n13:09\nMatthew heads for land\n", 
+                "block": "block-57f8e07be4b05c2f1e953564"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [
+                    "https://www.theguardian.com/world/2016/oct/06/hurricane-matthew-haiti-rescuers-battle-reach-remote-areas"
+                ], 
+                "text": "Death toll in Haiti rises to at least 877, with thousands left homeless.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Charleston hit by flooding as storm crosses coast.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [], 
+                "text": "Up to 15 inches of rain expected in some areas.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/world/video/2016/oct/07/storm-chasers-aeroplane-flies-into-hurricane-matthews-eye-video"
+                ], 
+                "text": "Video: Scientists' plane flies into eye of Hurricane Matthew.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}

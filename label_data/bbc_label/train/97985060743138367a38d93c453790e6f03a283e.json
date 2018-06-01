@@ -1,0 +1,756 @@
+{
+    "blog_id": "97985060743138367a38d93c453790e6f03a283e", 
+    "title": "BBC Local Live: Essex on Monday, 21 March 2016 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-essex-35710899", 
+    "summary": [
+        "former boyfriend found guilty of murdering becky parker .", 
+        "former mp harvey proctor says he has been told he faces no further action over claims of child abuse .", 
+        "news , sport , weather and travel updates resume at 08:00 on tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f025da7100007845b0eb6c", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "thanks for following our updates today .", 
+                "we 'll be back tomorrow morning with more news , travel and sport from across the county .", 
+                "have a great evening ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f0141b1a00004445d27d59", 
+            "title": "becky parker : ex-boyfriend told to expect long sentence", 
+            "text": [
+                "a man who has been found guilty of murdering his ex-partner , who was six months pregnant , will be sentenced tomorrow .", 
+                "judge charles gratwicke said matthew smith , 24 , could expect a substantial sentence when he returns to chelmsford crown court on tuesday .", 
+                "he was found guilty earlier of murdering becky parker .", 
+                "det ch insp martin pasmore said : `` the jury has today seen through his lies and convicted him of murder . ''"
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f018b27100007645b0eb29", 
+            "title": "flare discovered in murder victim 's car", 
+            "text": [
+                "detectives investigating the murder of vilson meshi in basildon are appealing for information after a flare was discovered in his vehicle .", 
+                "mr meshi 's body was found in the back of his fire-damaged audi in pincey mead last month .", 
+                "police have now revealed they discovered a hansson ikaros red hand held flare .", 
+                "three teenagers arrested in connection with the incident have been released on bail ."
+            ], 
+            "author": [
+                "Tom Croasdell", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efd649580000af41c9092b", 
+            "title": "colchester united fans praised for support", 
+            "text": [
+                "the colchester united midfielder alex gilby has been praising the support from u 's fans .", 
+                "he says their backing has been impressive despite the team 's lowly position at the bottom of the league one table .", 
+                "gilby says the supporters ' backing was particularly impressive at walsall , where they were beaten 2-1 on saturday ."
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1
+            ], 
+            "time": "17:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f022c41a00007647d27d9b", 
+            "title": "headlines : maldon man convicted of ex-girlfriend 's murder flare discovered in murder probe", 
+            "text": [
+                "here are your headlines this evening :"
+            ], 
+            "author": [
+                "Claire Gregory", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f0234c7100008c46b0eb60", 
+            "title": "travel : a1306 new road in rainham closed", 
+            "text": [
+                "the a1306 new road in rainham is closed between the marsh way junction and the manor way junction , because of an accident ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f023bc580000ba47c90a8e", 
+            "title": "travel : severe delays and one lane closed on m11 southbound", 
+            "text": [
+                "there are severe delays and one lane is closed on the m11 southbound between j9 a11 saffron walden and j8 , a120 ( bishops stortford ) , because of a serious accident involving a car and recovery work .", 
+                "congestion to j11 , a10 ( cambridge south ) ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:46"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f0032c7100008e43b0eac0", 
+            "title": "harvey proctor : former mp calls for police resignations", 
+            "text": [
+                "harvey proctor has called for scotland yard boss sir bernard hogan-howe and a string of senior officers to resign , after he says he was cleared of child abuse .", 
+                "the investigation , looking at claims that boys were sexually abused by a number of public figures more than 30 years ago , saw raids on the homes of 92-year-old d-day veteran lord bramall and the late lord brittan .", 
+                "mr proctor said : `` i consider that sir bernard hogan-howe , ( assistant commissioner ) pat gallan , ( deputy assistant commissioner ) steve rodhouse and ( det supt ) kenny macdonald should tender their resignations from the metropolitan police service forthwith . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:35"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efee81710000bb42b0ea7e", 
+            "title": "sponsored walk raises \u00a3 2,000 for attacked football fan simon dobbin", 
+            "text": [
+                "friends and family of football fan simon dobbin , who was left with brain damage after an attack , have raised \u00a3 2,000 with a 12-mile sponsored walk .", 
+                "the cambridge united fan was attacked following a match in southend a year ago today .", 
+                "he returned to his home in mildenhall last week .", 
+                "the money will be used to pay for equipment to help provide him with care ."
+            ], 
+            "author": [
+                "Jeremy Sallis", 
+                "BBC Radio Cambridgeshire"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56effb127100008d43b0eaa1", 
+            "title": "union condemns proposed changes to meal breaks for paramedics", 
+            "text": [
+                "the union unison has `` condemned '' the east of england ambulance service over proposed changes to meal breaks and end of shift arrangements .", 
+                "it says the proposals will end the right of staff to have a meal at base , and crews will be expected to answer non-emergency calls at the end of their shifts .", 
+                "fraer stevenson , unison branch secretary at the trust , said the plans were `` a huge risk for patient safety and staff welfare '' .", 
+                "in a consultation document the trust says it intends to trial a number of measures to reduce the number of late finishes and `` better support colleagues '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe82f580000ac43c9097c", 
+            "title": "weather : fine and dry", 
+            "text": [
+                "the rest of today will be fine and dry with sunny spells .", 
+                "highs of 12c ( 54f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:52"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f012df5800007946c90a3d", 
+            "title": "killer matthew smith 'destroyed a loving family '", 
+            "text": [
+                "the murder of a pregnant mother of two by her ex-boyfriend has been described as `` sickening '' by police .", 
+                "det ch insp martin pasmore , who led the investigation into the murder of isobel parker , known as becky , said : .", 
+                "`` despite overwhelming evidence , smith chose to put isobel 's family through the ordeal of a court case .", 
+                "the jury has today seen through his lies and convicted him of murder .", 
+                "`` isobel had everything to live for , but smith took it all away and destroyed a loving and supportive family in the process .", 
+                "my thoughts are very much with them today . ''"
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f00d6c5800006d45c90a22", 
+            "title": "becky parker : pregnant mum found dead in the bath", 
+            "text": [
+                "a man who has been found guilty of murdering the mother of his two children is thought to have strangled her in the kitchen before placing her in the bath .", 
+                "becky parker 's sister called 999 after finding her lying in the bath with cable ties around her neck .", 
+                "she was pronounced dead along with her unborn daughter .", 
+                "ms parker 's former boyfriend matthew smith , 24 , has been found guilty of her murder ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:16"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f00c191a00004545d27d27", 
+            "title": "becky parker : killer matthew smith 'upset ' after relationship ended", 
+            "text": [
+                "a man who has been found guilty of murdering his pregnant ex-girlfriend at her home in burnham-on-crouch was upset that she had ended their relationship , the court heard .", 
+                "factory worker matthew smith , 24 , had been in a relationship for some years with 23-year-old becky parker .", 
+                "they had two children together , a three-year-old boy and an 18-month-old girl .", 
+                "the court heard that smith did not want their relationship to end and felt distressed after finding out she was pregnant with her new partner ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56f006dc7100008e43b0ead0", 
+            "title": "travel : m11 partially blocked", 
+            "text": [
+                "the m11 is partially blocked and there 's queuing traffic southbound between j9 ( a11 saffron walden ) and j8 ( a120 bishops stortford ) because of a crash ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:39"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f006061a00005e44d27d02", 
+            "title": "becky parker : former boyfriend strangled her to death", 
+            "text": [
+                "the former boyfriend of 23-year-old isobel rebecca parker , known as becky , was found guilty of her murder by a majority verdict of 10-2 after two days of deliberations .", 
+                "matthew smith , 24 , of wood corner caravan park , maldon , strangled the pregnant mother of two to death with cable ties , the three-week trial at chelmsford crown court heard .", 
+                "she was found dead at a flat in booth place , burnham-on-crouch , last july ."
+            ], 
+            "author": [
+                "Chris Flynn", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "14:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f004437100007544b0eac6", 
+            "title": "breakingbecky parker : former boyfriend guilty of murder", 
+            "text": [
+                "the former boyfriend of a mother who was strangled to death has been found guilty of her murder ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "14:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f001fd5800009b44c909ec", 
+            "title": "harvey proctor : former mp calls for public inquiry", 
+            "text": [
+                "former basildon and billericay mp harvey proctor , who says he has been cleared of child abuse , had strenuously denied allegations that he was part of a vip paedophile ring that murdered three boys .", 
+                "he is understood to be the last living person who was under investigation .", 
+                "mr proctor has called for a public inquiry into operation midland , the \u00a3 1.8m probe into the claims .", 
+                "the met is expected to make an announcement shortly ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56f000ac1a00008842d27cea", 
+            "title": "harvey proctor : ex-mp 'faces no further police action '", 
+            "text": [
+                "harvey proctor , who says he has been cleared of child abuse , was twice interviewed under caution as part of operation midland .", 
+                "he has consistently denied any wrongdoing , claiming he was the victim of a homosexual witch hunt .", 
+                "the 69-year-old said : `` i have been advised that the metropolitan police service has informed my solicitors that they intend to take no further action with regard to my involvement with operation midland . ''", 
+                "the development comes amid mounting speculation that the met is poised to announce the winding-up of the investigation , which was launched in november 2014 .", 
+                "the force has yet to comment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "14:13"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56effe7d710000ba41b0eaad", 
+            "title": "breakingharvey proctor 'faces no further action over child abuse claims '", 
+            "text": [
+                "former conservative mp harvey proctor says he has been told he will face no further action in relation to scotland yard 's investigation into historical child abuse allegations .", 
+                "he represented basildon from 1979 to 1983 and billericay from 1983 to 1987 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "14:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efeb15710000ba42b0ea6f", 
+            "title": "horse dies in hatfield heath stable fire", 
+            "text": [
+                "a horse has died and another is being treated for injuries after a stable fire in hatfield heath .", 
+                "firefighters put out the fire in dunmow road at 03:50 this morning and are currently investigating the cause .", 
+                "assistant divisional officer len cleary said : `` crews acted swiftly and efficiently to prevent this incident from escalating .", 
+                "some of the buildings were completely destroyed by the fire .", 
+                "`` the quick actions of firefighters helped rescue the remaining six horses from the stables . ''"
+            ], 
+            "author": [
+                "Claire Gregory", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe8a4710000bb42b0ea64", 
+            "title": "headlines : microflight pilot dies man arrested in connection with pensioner attack", 
+            "text": [
+                "here are the top stories we are looking at this lunchtime :"
+            ], 
+            "author": [
+                "Claire Gregory", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efd287710000a540b0ea0b", 
+            "title": "southend united boss sets points target for blues", 
+            "text": [
+                "the southend united boss phil brown is setting his side a points target of the mid-seventies to get into the league one end-of-season play-offs .", 
+                "the promotion hopefuls are currently ninth in the table with 55 points .", 
+                "the blues had to settle for one point on saturday after drawing with gillingham at roots hall ."
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efe51b710000ba41b0ea51", 
+            "title": "ambulance service says current meal break arrangements 'undermining ' ability to respond to patients", 
+            "text": [
+                "the ambulance service says it is considering changes to meal breaks and end of shift arrangements for paramedics because they are `` undermining '' the ability to respond to patients .", 
+                "the eastern daily press reports about 600 ambulance staff have signed an open letter `` condemning the plans '' .", 
+                "in a draft consultation document released last week , the trust says it needs to take `` meaningful '' steps to reduce the risks to patients , but intends to trial a number of measures to `` better support colleagues '' ."
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efe3bc710000a540b0ea4b", 
+            "title": "becky parker jury still out", 
+            "text": [
+                "the jury are still considering what verdict to deliver here at chelmsford crown court , in the case of a young mother who was strangled to death .", 
+                "isobel parker , who was known as becky , was found lying dead in the bath in her burnham-on-crouch flat last july .", 
+                "her former partner matthew smith accepts he killed her but denies murder ."
+            ], 
+            "author": [
+                "Chris Flynn", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "12:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efc9e2710000a840b0e9f5", 
+            "title": "man arrested in connection with pensioner attack", 
+            "text": [
+                "a 41-year-old man from chelmsford has been arrested following an incident in which a 70-year-old woman was punched in the head .", 
+                "the incident happened on the street in little waltham , at around 15:45 on 1 march .", 
+                "a man approached the victim as she walked her dog and punched her three times in the unprovoked attack ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "11:55"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efdbc35800000a3fc90945", 
+            "title": "ambulance service plans to increase use of private vehicles", 
+            "text": [
+                "patients in essex calling for an ambulance could be taken to hospital by taxi ."
+            ], 
+            "author": [
+                "East Anglian Daily Times"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "11:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efd48c710000e73fb0ea11", 
+            "title": "ambulance staff 'sign letter opposing meal-break plans '", 
+            "text": [
+                "about 600 staff at the east of england ambulance service have signed an open letter opposing plans to change meal-breaks for paramedics and other responders , the eastern daily press reports .", 
+                "a consultation document sent out by the trust last week suggests current meal breaks and end of shift agreements are having a `` denigratory '' impact on the service 's ability to respond to patients .", 
+                "a spokesman for eeast said : `` not unlike all ambulance services across england , eeast recognises the impact that shift overruns have on our staff and we have put in place a number of measures to tackle this . ''"
+            ], 
+            "author": [
+                "Mark Williamson", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efd1b0580000ed40c9091c", 
+            "title": "braintree town manager praises team 's 'work ethic '", 
+            "text": [
+                "the braintree town manager danny cowley has been praising his team 's `` work ethic '' as they push for a place in the football league .", 
+                "the iron remain in the national league play-off places , currently sitting in fifth position .", 
+                "at the weekend , they beat the league leaders cheltenham town .", 
+                "cowley says his side is a `` quality team '' rather than a `` group of individuals '' ."
+            ], 
+            "author": [
+                "Nick Alliker", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efcb995800000a3fc90905", 
+            "title": "flights cancelled at stansted", 
+            "text": [
+                "stansted airport says 13 flights were cancelled yesterday and 23 have been cancelled today because of industrial action by french air traffic controllers in protest at planned staff cuts .", 
+                "ryanair has called on the french government and the european commission to intervene in order to prevent uk passengers being `` held to ransom '' by `` tiny numbers '' of french workers .", 
+                "the airline is urging its customers to sign a petition to the european commission , which it hopes will bring an end to the `` repeated blackmail and disruption by atc unions '' ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "10:32"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efc74d1a0000be40d27bfc", 
+            "title": "mother wishes her daughter was treated more quickly", 
+            "text": [
+                "donna howe , from vange near basildon , says her daughter could have survived if she 'd been treated more quickly .", 
+                "she was misdiagnosed by an out-of-hours doctor and an inquest found her death last may could have been avoided .", 
+                "you 're sitting there with a sick child and you just want someone to hurry up and get here .", 
+                "maybe if i had ranted and raved a bit , maybe if i had been a bit more hysterical , they would have understood the severity of it . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:16"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efbe99710000d73eb0e9d3", 
+            "title": "my daughter 'could be alive if she 'd been treated more quickly '", 
+            "text": [
+                "an essex mum says her daughter could still be alive today if it was n't for a number of nhs failures .", 
+                "seven-year-old malaika adam , from vange near basildon , was diagnosed with a stomach bug but she actually had a burst appendix and sepsis .", 
+                "she died in may .", 
+                "both the nhs 111 service and the east of england ambulance trust have apologised to the family for delays in treatment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb4755800000a3fc908b2", 
+            "title": "police release photo of man wanted in connection with nightclub attack", 
+            "text": [
+                "police have released a photo of a man they want to speak to in connection with the assault of a woman inside a basildon nightclub .", 
+                "detectives are investigating the assault of a woman aged in her 30s during the early hours of 21 february .", 
+                "it happened inside unit 7 on the festival leisure park ."
+            ], 
+            "author": [
+                "Charlie Jones", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efb3325800001f3fc908ad", 
+            "title": "singer 'overwhelmed ' at being chosen for the voice 's live shows", 
+            "text": [
+                "essex singer lydia lucy says she is `` overwhelmed '' at being chosen for the voice 's live shows by coach will.i.am.she was one of 16 acts who performed for the all-star panel of paloma faith , boy george , ricky wilson and will.i.am on last night 's knock-out stage .", 
+                "the 22-year-old wowed the judges with her fiery rendition of i knew you were trouble by taylor swift , in which she switched between singing and rapping ."
+            ], 
+            "author": [
+                "Jodie Smith", 
+                "BBC News"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "10:08"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efac54710000ed3db0e980", 
+            "title": "investigation into microlight crash", 
+            "text": [
+                "a crash in which a microlight pilot from essex died is being investigated by the air accidents investigation branch .", 
+                "it happened at 16:18 yesterday in rochester , kent .", 
+                "louise holloway , who lives nearby , was outside in the garden when she heard a `` huge bang '' and saw `` a massive orange flash right across the sky '' .", 
+                "`` one man ran across the field but there was no way the pilot could have got out , '' she said .", 
+                "`` it 's really sad . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efab815800000a3fc90887", 
+            "title": "microlight pilot from essex dies in crash", 
+            "text": [
+                "a pilot has died after his microlight hit an electricity pylon yesterday and burst into flames .", 
+                "the 56-year-old man , from essex , was pronounced dead at the scene of the crash in rochester , kent .", 
+                "his next of kin have been informed .", 
+                "no-one else was in the aircraft ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efaa0c5800001f3fc9087d", 
+            "title": "weather : cloudy but fine", 
+            "text": [
+                "the odd spot of drizzle to begin with , but today will be a fine day with cloud at times , but also some sunny spells .", 
+                "the best of the sunshine will be through the middle part of the day .", 
+                "maximum temperature : 12c ( 54f ) ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_56efa7ca5800001a3fc9086f", 
+            "title": "headlines : microlight pilot dies man has unknown substance thrown in his face", 
+            "text": [
+                "here are your headlines this morning :"
+            ], 
+            "author": [
+                "Sonia Watson", 
+                "BBC Essex"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:18"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_56efa48b1a0000e43ed27b71", 
+            "title": "welcome to monday 's essex live page", 
+            "text": [
+                "hello and welcome to another week on the essex live page , where we 'll bring you all the latest news , sport , weather and travel for the county until 18:00 .", 
+                "if you think there 's something we should be talking about , or you 'd just like to say hello , you can email us , tweet us or head over to our facebook page ."
+            ], 
+            "author": [
+                "Charlie Jones", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "08:00"
+        }
+    ], 
+    "genre": "uk-england-essex", 
+    "quality": "high"
+}

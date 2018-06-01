@@ -1,0 +1,659 @@
+{
+    "blog_id": "9c8a296effa43992f264d54b1970bf9b69cef56f", 
+    "title": "BBC Local Live: Derbyshire on Friday 24 February 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-derbyshire-39067245", 
+    "summary": [
+        "updates for friday 24 february 2017 .", 
+        "derby market hall reopens .", 
+        "one person dies in a50 collision .", 
+        "normanton house damaged by storm doris .", 
+        "plans to improve traffic at royal derby hospital .", 
+        "derby county v aston villa tomorrow .", 
+        "news , sport , travel and weather updates resume at 08:00 tuesday ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b06f2ae4b08b1f7dede82b", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "live updates for derbyshire and east staffordshire have finished for the day , but we 'll be back at 08:00 monday with all the latest news , sport , travel and weather ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b06ed8e4b08b1f7dede829", 
+            "title": "weather : widespread rain", 
+            "text": [
+                "tonight widespread rain will move eastwards over the course of tonight and in the early hours of tomorrow .", 
+                "lows of 6c ( 43f ) ."
+            ], 
+            "author": [
+                "Alexandra Hamilton", 
+                "BBC weather presenter"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b06e2ce4b08b1f7dede825", 
+            "title": "multi-million pound plans to expand derby 's train station", 
+            "text": [
+                "plans for a \u00a3 200m expansion to derby railway station have been submitted to the city council .", 
+                "network rail wants a new platform on the pride park side of the station , resulting in six 'through ' platforms .", 
+                "it 's part of a revamp of the midland mainline which runs between derby and london and sheffield .", 
+                "they hope expanding will help ease congestion as well as increase capacity ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b06990e4b0ec68546e0426", 
+            "title": "derby county at villa park tomorrow", 
+            "text": [
+                "rams will go to aston villa tomorrow and hope to have craig bryson and johnny russell back from injury .", 
+                "defender jason shackell missed training yesterday with a back problem ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "17:34"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b06755e4b07f8d679fe720", 
+            "title": "calls for more custody visitors", 
+            "text": [
+                "police want more people in derbyshire to be custody visitors", 
+                "it 's a voluntary role and it means speaking to detainees at police stations across the county .", 
+                "volunteers check they 're okay and getting everything they 're entitled to while in police custody .", 
+                "sound up your street ?"
+            ], 
+            "author": [
+                "Alex Blakemore", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:05"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b04ff9e4b07f8d679fe6c3", 
+            "title": "a look at the new one-way system", 
+            "text": [
+                "here 's how the new traffic system will look when it comes into effect in april", 
+                "paul brooks , associate director of patient experience , said : `` we just do n't seem to have the spaces at the moment for all the people travelling here . ''"
+            ], 
+            "author": [
+                "Heidi Booth", 
+                "Journalist, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "16:48"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b043c9e4b0ec68546e03a1", 
+            "title": "hospital traffic plans revealed", 
+            "text": [
+                "work is currently underway to improve traffic in and around the royal derby hospital .", 
+                "new traffic lights are being put in place and a one-way system is being introduced on the hospital loop road .", 
+                "it 's hoped the changes will improve traffic flow and reduce delays ."
+            ], 
+            "author": [
+                "Heidi Booth", 
+                "Journalist, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "16:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b034fce4b0ec68546e035b", 
+            "title": "your questions : what 's happening to moorways and the assembly rooms ?", 
+            "text": [
+                "you used your questions to ask : `` what 's happening to moorways and the assembly rooms buildings ? ''", 
+                "the moorways swimming pool closed in january because of budget cuts when the city council decided it was too expensive to run .", 
+                "the site will get a new 50m swimming pool and a proposed plan will look at other opportunities for the rest of the building , the council said .", 
+                "meanwhile , derby assembly rooms , which opened in 1977 , was badly damaged in a huge blaze that broke out in its roof car park in 2014 .", 
+                "the council 's city centre masterplan for 2030 is for a performance venue to replace the assembly rooms but the cabinet has yet to make a final decision on what exactly this will be ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b04503e4b08b1f7dede763", 
+            "title": "car fire caused delays on the a38", 
+            "text": [
+                "derbyshire police has released this dramatic photograph of a car on fire on the a38 .", 
+                "it 's what was causing severe delays on the road earlier ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "15:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b04e0de4b07f8d679fe6bc", 
+            "title": "derby man wanted over offences", 
+            "text": [
+                "derbyshire police has issued a of craig shaw , from derby .", 
+                "they want to speak to him over two alleged offences including burglary and possession with intent to supply drugs .", 
+                "mr shaw also has connections to nottingham , the force said ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:15"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b04b86e4b07f8d679fe6ad", 
+            "title": "a38 reopens with 'long delays '", 
+            "text": [
+                "the fire has been dealt with but expect congestion", 
+                "vehicle fire dealt with by @ twitterid + # a38 s/b has reopened btwn # coxbench and # littleeaton .", 
+                "long delays on approach so pls plan ahead"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b03acfe4b07f8d679fe646", 
+            "title": "delays expected on the a38", 
+            "text": [
+                "police are advising travellers to use alternative routes", 
+                "the # a38 southbound is closed between # coxbench and # littleeaton due to a vehicle fire .", 
+                "delays expected .", 
+                "please use alternative routes .", 
+                "work is being done to try & open a lane .", 
+                "until then , we can not move vehicles on .", 
+                "if you require emergency assistance , call 999 ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b038bbe4b08b1f7dede72d", 
+            "title": "travel : a38 closed due to car fire", 
+            "text": [
+                "there is queueing traffic and the road is blocked due to a car fire on a38 southbound between coxbench and little eaton island ."
+            ], 
+            "author": [
+                "BBC Travel"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:38"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10408968", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b028a1e4b0ec68546e031e", 
+            "title": "to honour region 's music heritage", 
+            "text": [
+                "what local music legend do you think deserves a blue plaque ?", 
+                "we are looking for suggestions for who or where you think should be honoured .", 
+                "email , .", 
+                "tweet .", 
+                "or .", 
+                "facebook .", 
+                "your suggestions ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:40"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b0216de4b07f8d679fe5ca", 
+            "title": "clough wants burton to 'maintain momentum '", 
+            "text": [
+                "burton manager nigel clough wants the momentum to continue as brewers welcome blackburn rovers ."
+            ], 
+            "author": [
+                "Ed Dawes", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b01f08e4b0ec68546e02df", 
+            "title": "polite reminder from derbyshire police", 
+            "text": [
+                "to obey the law .", 
+                "this is a reminder that from march 1 , using a mobile phone whilst driving could land you 6 penalty points & a \u00a3 200 fine .", 
+                "# itcanwait", 
+                "great but can you catch the offenders", 
+                "watch this space - we will be using everything we can to drive ( no pun intended ) this message home", 
+                "does this include hands free ?", 
+                "@ twitterid @ twitterid @ twitterid dear offenders : we will look for you , we will find you and we will fine you !", 
+                "see so many using !", 
+                "bluetooth kits a tenner if that .", 
+                "no excuses eh", 
+                "had near miss with a jeep driver on phone n transit van driver in 1 hand in other", 
+                "i see women putting makeup on from my truck cab all the time.9 points for that surely .", 
+                "let 's hope for the safety of all the courts back you up : no excuses"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:32"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b01e01e4b0ec68546e02d9", 
+            "title": "search for derbyshire 's next chief constable", 
+            "text": [
+                "the search is on for a new recruit to become derbyshire 's next chief constable .", 
+                "yesterday , police and crime commissioner hardyl dhindsa began a recruitment campaign after current chief constable mick creedon ( announced he was stepping down after 10 years .", 
+                "mr dhindsa said he was seeking not just the best candidate , but the best individual for derbyshire ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:11"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b015f0e4b0ec68546e02b0", 
+            "title": "derbyshire abandon samuels interest", 
+            "text": [
+                "derbyshire county cricket club .", 
+                "have confirmed .", 
+                "they are no longer interested in signing west indies all-rounder marlon samuels .", 
+                "samuels has played .", 
+                "71 tests and 238 limited-overs internationals .", 
+                "and was recently .", 
+                "cleared to bowl .", 
+                "after serving a 12-month ban for an illegal action ."
+            ], 
+            "author": [
+                "BBC Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:25"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b01406e4b08b1f7dede66a", 
+            "title": "tree roots 'moved in the drive ' in storm doris", 
+            "text": [
+                "sue tomkins , whose house was damaged when storm doris blew over a tree , said the tree had `` never moved '' before .", 
+                "`` i saw the actual roots moving in the drive and all the slabs were coming up , '' she said .", 
+                "`` my main concern was the house and the contents in it , when you work hard for your house and you see devastation happening it is very frightening . ''"
+            ], 
+            "author": [
+                "Jack Maclaren", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                1
+            ], 
+            "time": "11:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b00bc9e4b08b1f7dede63d", 
+            "title": "burton albion v blackburn rovers", 
+            "text": [
+                "burton albion could move eight points clear of the championship relegation zone tonight .", 
+                "they 're at home to blackburn .", 
+                "burton albion duo jackson irvine and michael kightly both have hamstring injuries and could miss out ."
+            ], 
+            "author": [
+                "Owen Bradley", 
+                "BBC Radio Derby Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b009afe4b0ec68546e0277", 
+            "title": "new call centre to create 160 jobs", 
+            "text": [
+                "a derbyshire company will create 160 jobs when it opens the doors to its new call centre today .", 
+                "energy save is moving into new premises at the old co-op building in ilkeston .", 
+                "the firm said it 's looking for people with the `` right attitude '' to fill the posts ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b00351e4b0ec68546e0258", 
+            "title": "your photos : clowne", 
+            "text": [
+                "you can still see the aftermath of storm doris in clowne .", 
+                "thank you to our weather watcher freddie the frog for sending this in .", 
+                "if you have any snaps then send them our way .", 
+                "here ."
+            ], 
+            "author": [
+                "BBC Weather Watchers"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58affc9ce4b07f8d679fe507", 
+            "title": "investigation begins after a50 fatal collision", 
+            "text": [
+                "more details have been released following last night 's fatal collision on the a50 .", 
+                "a .", 
+                "27-year-old man died when his van collided with a lorry .", 
+                "derbyshire police said he died at the scene and was not local to the area .", 
+                "the collision happened on the eastbound carriageway just after junction 4 , where the a38 and the a50 meet ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58aff8d7e4b0ec68546e0215", 
+            "title": "normanton house damaged by storm doris", 
+            "text": [
+                "sue tomkins from normanton was at home when a tree in her garden was blown over by storm doris yesterday .", 
+                "she told us she was worried about the damage the 50 year old tree could 've caused .", 
+                "storm doris caused road closures and long delays across derbyshire and east staffordshire yesterday .", 
+                "the high winds toppled trees which then blocked routes ."
+            ], 
+            "author": [
+                "Jack Maclaren", 
+                "Reporter, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aff4f4e4b0ec68546e0202", 
+            "title": "a50 reopen after 'serious collision '", 
+            "text": [
+                "if you are heading in this direction this morning expect delays", 
+                "all lanes on # a50 e/b btwn # a38 + # a514 have re-opened following police investigation into a serious collision .", 
+                "thanks for your patience"
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58aff08fe4b08b1f7dede5c4", 
+            "title": "market hall passes safety inspection", 
+            "text": [
+                "derby 's market hall will reopen this morning after it closed yesterday over fears that high winds may damage windows which are under repair .", 
+                "after an inspection this morning the city council said it 's happy the building is safe to use ."
+            ], 
+            "author": [
+                "BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58afecebe4b07f8d679fe4a5", 
+            "title": "watch : friday 's weather outlook", 
+            "text": [
+                "and here 's how today is looking now doris has blown over"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58afec9fe4b0ec68546e01d4", 
+            "title": "one person dies in a50 collision", 
+            "text": [
+                "one person has died in a collision between two vehicles on the a50 near willington last night .", 
+                "emergency services were called out at 22:00 .", 
+                "the a50 eastbound has only just reopened ."
+            ], 
+            "author": [
+                "Sally Swinfen", 
+                "BBC Radio Derby newsreader"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "22:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58afe754e4b07f8d679fe47e", 
+            "title": "welcome to today 's live updates", 
+            "text": [
+                "good morning and welcome along to friday across derbyshire and east staffordshire .", 
+                "i 'll be with you today with the region 's news , sport , weather and travel .", 
+                "if you would like to share your and/or stories , then please get in touch via .", 
+                "facebook , .", 
+                "twitter .", 
+                "or .", 
+                "email ."
+            ], 
+            "author": [
+                "Khia Lewis-Todd", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:00"
+        }
+    ], 
+    "genre": "uk-england-derbyshire", 
+    "quality": "high"
+}

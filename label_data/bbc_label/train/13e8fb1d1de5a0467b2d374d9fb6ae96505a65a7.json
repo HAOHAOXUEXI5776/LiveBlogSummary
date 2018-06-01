@@ -1,0 +1,827 @@
+{
+    "blog_id": "13e8fb1d1de5a0467b2d374d9fb6ae96505a65a7", 
+    "title": "BBC Local Live: Leicestershire on Friday 3 March 2017 - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leicestershire-39145550", 
+    "summary": [
+        "cannabis factory found in thorpe astley .", 
+        "elderly woman 'punched in the face ' .", 
+        "taxi passenger pleads guilty to 'car dooring ' .", 
+        "shakespeare to discuss future after hull match .", 
+        "foxes to take a trip for warm-weather training .", 
+        "updates for friday 3 march 2017 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a704e4b08b1f7dee0676", 
+            "title": "our live coverage across the day", 
+            "text": [
+                "that 's all from leicestershire local live this week .", 
+                "updates will start again on monday at 08:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "18:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b99d56e4b08b1f7dee0631", 
+            "title": "reassurance events to be held following fatal fire", 
+            "text": [
+                "following wednesday 's fatal fire in ashby-de-la-zouch , in which a man died at a commercial property on market street , leicestershire fire and rescue service will be holding some community reassurance sessions .", 
+                "the fire service will be on hand in the town tomorrow and on tuesday to give advice to local business owners and residents ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:46"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a6d7e4b0ec68546e234b", 
+            "title": "east midlands weather update : more rain to come tonight", 
+            "text": [
+                "it 'll be cloudy with further outbreaks of rain through this evening and overnight .", 
+                "the rain could be heavy at times but will become patchier in the early hours ."
+            ], 
+            "author": [
+                "Lucy Martin", 
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a7d6e4b08b1f7dee067a", 
+            "title": "travel : delays on a46", 
+            "text": [
+                "long queues towards the hobby horse island ( a607 ) on the a46 and those queues stretching back towards the markfield road ( a50 ) turn"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a801e4b07f8d67a005a6", 
+            "title": "travel : road closed in barrow", 
+            "text": [
+                "another burst water main", 
+                "flint lane is about to be closed in barrow upon soar due to a burst water main"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "17:37"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a5b2e4b0ec68546e2341", 
+            "title": "burst water pipe causing problems in loughborough", 
+            "text": [
+                "the water supplier has said some people in loughborough might not have any water this afternoon and evening due to a burst pipe on chaveney road .", 
+                "customers in # loughborough # le12 # le11 please see this link if you have no water :", 
+                "i have 2 children with sickness and diarrhoea and no hand washing or toilet facilities now - any advice please ?", 
+                "i 'm sorry to hear this , we were only made aware of the leak a short while a go .", 
+                "we 'll work hard to restore supply asap .", 
+                "of course but that does n't help me keep my children clean or keep the third from catching it .", 
+                "i 've known for 2 hours .", 
+                "i appreciate it 's not ideal .", 
+                "we 've a lot of customers affected by this and will work hard to restore the water asap .", 
+                "holly", 
+                "i understand but watching your child get ill is not `` not ideal ''", 
+                "i am sorry paula & do understand how frustrating this must be but we will do all we can to resolve this asap .", 
+                "laura", 
+                "the 9pm target seems to have disappeared - are we now in for the long haul ?", 
+                "honesty as this point would be appreciated", 
+                "we will do everything we can to get supplies restored by this time but can not always guarantee that this will go to plan .", 
+                "that link tells us nothing ! !", 
+                "!", 
+                "hi daniel - we we 're made aware of the leak a short while ago & will try to restore the water as soon as possible .", 
+                "holly", 
+                "how long before the water is back on ? ? ?", 
+                "?"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:21"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9a0cfe4b0ec68546e2326", 
+            "title": "watch : shakespeare focusing on hull match", 
+            "text": [
+                "craig shakespeare has told the media his focus is only on tomorrow 's match against hull"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "17:07"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b998f2e4b07f8d67a0054c", 
+            "title": "travel : delays continue on m69", 
+            "text": [
+                "having thought the m69 was better it 's not .", 
+                "recovery is needed before the m1 and it 's not going to be an easy job .", 
+                "expect delays"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b99ba6e4b08b1f7dee0624", 
+            "title": "missing man found", 
+            "text": [
+                "missing leicester man , tofikahmed kureshi has been located , thank you all for sharing ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "16:50"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b99427e4b08b1f7dee05f7", 
+            "title": "police appeal after man was knocked unconscious in leicester", 
+            "text": [
+                "police are asking for help to identify this man captured on cctv", 
+                "it 's after an 18-year-old man was assaulted in leicester last month .", 
+                "he was knocked unconscious outside a premises on east gates in leicester and needed hospital treatment for an injury to his face .", 
+                "it happened on saturday 4 february ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:24"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b989d7e4b0ec68546e2295", 
+            "title": "police find 150 cannabis plants in thorpe astley house", 
+            "text": [
+                "police have discovered this cannabis factory at a house in thorpe astley", 
+                "officers went into the property on priestman road on wednesday and discovered more than 150 cannabis plants in the top floor of the address .", 
+                "no-one was arrested and police are investigating ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "15:54"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b98790e4b07f8d67a004e3", 
+            "title": "five arrested after attempt to steal aldi cash machine", 
+            "text": [
+                "you might remember back in december last year there was an attempt to steal the cash machine at aldi on meridian way .", 
+                "well police have said they 've just arrested five people in the west leicester area in connection with the offence .", 
+                "four men aged between 19 and 42 have been arrested on sus of conspiracy to commit robbery .", 
+                "a 39-year-old woman has also been arrested on sus of possession of criminal property .", 
+                "all are in police custody ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:53"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10426875", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "15:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b98881e4b0ec68546e2289", 
+            "title": "family 'worried ' about missing man", 
+            "text": [
+                "have you seen this man ?", 
+                "leicestershire police have told us he 's been reported missing and his family are feeling `` increasingly worried '' .", 
+                "tofikahmed kureshi is 40 years old and was last seen on diseworth street in leicester just before midnight last night ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:22"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b97169e4b07f8d67a00459", 
+            "title": "foxes to get some 'bonding time ' on a trip away", 
+            "text": [
+                "it looks like the foxes will be heading away for some spring sunshine soon .", 
+                "craig shakespeare said the club is taking the players away for a few days after the hull game - a trip that has apparently been in the pipeline for a few months .", 
+                "they 'll do a bit of warm-weather training and use it as an opportunity to get together as a team ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                1
+            ], 
+            "time": "15:08"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b97039e4b07f8d67a00450", 
+            "title": "ulloa fit and 'raring to go '", 
+            "text": [
+                "going back to the game against hull this weekend , craig shakespeare said he thinks the game is `` bigger '' that the match against liverpool .", 
+                "he said : `` we have to put in another performance .", 
+                "the players realise that .", 
+                "`` the first start is getting back-to-back wins and i 'm confident with the squad we have we can pull away ( from the relegation zone ) . ''", 
+                "when asked about leonardo ulloa ( who had said he would n't play for the club again ) , shakespeare said : it was just a case of him getting fit .", 
+                "he 's raring to go . ''"
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:43"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b96eb9e4b08b1f7dee0513", 
+            "title": "foxes interim boss 'comfortable ' with recruitment process", 
+            "text": [
+                "craig shakespeare has started his press conference by confirming `` everyone 's fit '' for their game against hull this weekend .", 
+                "he then moved on to the topic everyone is talking about - who will be claudio ranieri 's long-term successor .", 
+                "the clubs interim boss said : i 'll leave that to the powers that be .", 
+                "i 've been told to prepare for this game .", 
+                "i 've been kept informed and i 'm quite comfortable with that . ''", 
+                "when asked about the roy hodgson rumours he said it was `` just speculation '' ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:17"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b96d13e4b07f8d67a00446", 
+            "title": "watch : woman injured in axe robbery", 
+            "text": [
+                "yesterday we told you about how a woman suffered a head injury when a shop was robbed by a man carrying an axe .", 
+                "well here 's some shocking footage that shows the robbery taking place"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b96bb6e4b07f8d67a0043d", 
+            "title": "elderly woman punched in face during attempted burglary", 
+            "text": [
+                "a man forced himself into a house in leicester and demanded money from a 77-year-old woman .", 
+                "he then punched the woman in the face - she needed hospital treatment for her injuries .", 
+                "the man did n't get any cash and did n't taken anything from the house on richmond road on wednesday .", 
+                "det cons matthew wiggins said : this was a nasty attack on an elderly woman in the middle of the day at a busy period and there would have been numerous people around .", 
+                "if you may have seen the suspect either before or after the offence , or have any information that may assist , please contact me . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "13:42"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b96938e4b07f8d67a00432", 
+            "title": "foxes press conference underway", 
+            "text": [
+                "coffee was interrupted by the caretaker manager 's arrival"
+            ], 
+            "author": [
+                "Ian Stringer", 
+                "BBC Radio Leicester Foxes commentator"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "13:03"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b965fee4b07f8d67a00426", 
+            "title": "travel : m69 stopped for debris clear up", 
+            "text": [
+                "# m69 s/b btwn j1 and the # m6 now has traffic temporarilly stopped for our # trafficofficers to clear debris after collision should n't be long", 
+                "the standing water on this section is horrendous !", 
+                "put up some signs whilst you are there for motorists to put their damned lights on please"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9619ae4b0ec68546e21b5", 
+            "title": "fans of auf wiedersehen , pet campaign to save redmile pub", 
+            "text": [
+                "fans of auf wiedersehen , pet are trying to save this leicestershire pub that featured in series two of the much-loved tv show", 
+                "the windmill inn in redmile ( known as the barley mow to fans of the show ) is going to public auction later in the year so the fate of the property is unknown .", 
+                "the show 's official fan site claims thousands of fans visit the pub every year .", 
+                "they 've set up a consortium to try to save it ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "12:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_58b959a3e4b08b1f7dee0494", 
+            "title": "fatal crash : passenger pleads guilty to 'car dooring '", 
+            "text": [
+                "you might remember hearing about sam boulton , the 26-year-old cyclist who .", 
+                "died after being hit by a van outside leicester railway station in july last year .", 
+                "the van had swerved to avoid the door of a taxi that had been opened into the road .", 
+                "today , 56-year-old mandy chapel from speers road in leicester pleaded guilty to `` opening a vehicle so as to injure or endanger a person '' ( also known as car dooring ) .", 
+                "she was fined \u00a3 80 .", 
+                "the taxi driver , 56-year-old farook bhikhu from wicklow drive in leicester , pleaded not guilty to `` permitting the opening a vehicle so as to injure or endanger a person '' .", 
+                "his trial will take place at loughborough magistrates ' court on 5 june ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "12:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b95945e4b08b1f7dee0491", 
+            "title": "twycross zoo teaching elephants to walk into transport crates", 
+            "text": [
+                "earlier on in the week we told you about twycross zoo moving their asian elephants elsewhere .", 
+                "twycross will now begin a year-long training programme to teach the herd to walk into a transport crate .", 
+                "it 's hoped they will breed and ensure the survival of the species .", 
+                "today i caught up with the zoo 's director of life sciences , dr charlotte macdonald .", 
+                "she said : `` they are very attractive animals - because we have two females of reproductive age , plus a young female calf who will then become a breeder in the future .", 
+                "`` i think actually a few zoos will want to take them '' ."
+            ], 
+            "author": [
+                "Heidi Booth", 
+                "Journalist, BBC Radio Derby"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "12:28"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_10426280", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "12:20"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b9511de4b0ec68546e215d", 
+            "title": "protest about homelessness in leicester returns", 
+            "text": [
+                "the homelessness protesters are back out in leicester - but not at jubilee square this time .", 
+                "they 've pitched up outside town hall square", 
+                "we are aware of the protesters ' tent in town hall square and are considering the options available to us . ''"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": "11:23"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b94ef0e4b0ec68546e214f", 
+            "title": "storytelling festival begins at bbc leicester", 
+            "text": [
+                "radio leicester 's free festival celebrating leicester success stories starts today .", 
+                "events include `` stories of leicester '' food fair , which is under way at bbc leicester now", 
+                "you can sample local delicacies that tell leicester 's gourmet story .", 
+                "there 's a full list of storytelling events here ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "11:22"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b942b5e4b08b1f7dee042c", 
+            "title": "male grooming industry 'flourishing in leicester '", 
+            "text": [
+                "another male grooming salon has just opened in leicester - the owner of l'homme has told the bbc it 's an industry that 's becoming increasingly popular in the midlands .", 
+                "andreas ioannou said the negative stigma of men `` taking care of themselves '' has gone .", 
+                "he said it 's not just hairdressing that 's popular - the salon even does the old-fashioned hot-towel shaves ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:36"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b93e01e4b0ec68546e210b", 
+            "title": "is michael o'neill interested in leicester city job ?", 
+            "text": [
+                "northern ireland manager michael o'neill is the latest boss to be sounded out about the vacant leicester job ."
+            ], 
+            "author": [
+                "The Daily Mail"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b93b3ce4b08b1f7dee0406", 
+            "title": "full electrification of the midland mainline thrown into doubt", 
+            "text": [
+                "plans for the full electrification of the midland mainline have once again been thrown into doubt after a critical report on overspending on a similar project .", 
+                "it 's the only north-south line in the country not to be electrified .", 
+                "earlier this week the department for transport announced which three companies were in the bidding for the east midlands rail franchise , which will start in 2019 .", 
+                "by then the line from corby to london will be electrified - but what about the rest of the line ?", 
+                "today 's report demands major projects must get independent assurances that future electrification plans are actually worthwhile for passengers ."
+            ], 
+            "author": [
+                "Tony Roe", 
+                "BBC East Midlands political editor"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b93861e4b08b1f7dee03f9", 
+            "title": "rugby : veainu felt 'hopeless ' during three month absence", 
+            "text": [
+                "leicester tigers full-back telusa veainu has said he felt lost on the sidelines during his three months out .", 
+                "the tonga international had a break after suffering several concussions .", 
+                "he said : `` it was really hard being cleared to play but not fully clear because of the concussion protocol - i felt so hopeless .", 
+                "he starts for tigers tonight against exeter ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b933e3e4b08b1f7dee03e4", 
+            "title": "latest leicestershire headlines", 
+            "text": [
+                "latest leicestershire headlines"
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b92dd7e4b08b1f7dee03c1", 
+            "title": "council to approve timetable for melton bypass", 
+            "text": [
+                "proposals to build an \u00a3 80m bypass for melton mowbray are `` progressing '' according to leicestershire county council .", 
+                "its ruling cabinet is set to approve a timetable to work up plans for the route , as councillors believe traffic jams are holding back the town 's growth .", 
+                "it said studies suggest an eastern distributor road could be the most cost effective way of easing congestion .", 
+                "the public will be consulted on a preferred route ."
+            ], 
+            "author": [
+                "East Midlands Today"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b92999e4b07f8d67a00316", 
+            "title": "have retailers been 'put off ' using clothing manufacturers in leicester ?", 
+            "text": [
+                "recent figures have shown workers at most of leicester 's clothes factories are being paid half the minimum wage .", 
+                "well , the general manager of a leicester-based garment manufacturer has told the bbc this is discouraging high street retailers from having clothes make in the city .", 
+                "mick cheema from basic premier said there 's a concern among shops that selling clothing made in leicester could give them bad publicity .", 
+                "leicester city council has said it 's `` very concerned '' but claims this is n't just an issue facing leicester ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b92513e4b08b1f7dee039a", 
+            "title": "east midlands weather forecast", 
+            "text": [
+                "east midlands weather forecast"
+            ], 
+            "author": [
+                "Charlie Slater", 
+                "BBC Weather presenter"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "10:14"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b924cce4b0ec68546e208b", 
+            "title": "foxes interim boss to talk to media", 
+            "text": [
+                "craig shakespeare is due to hold his pre-hull city press conference today .", 
+                "we 'll have all the key quotes and headlines from 13:00 on local live ."
+            ], 
+            "author": [
+                "BBC Leicester Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b92441e4b07f8d67a002f2", 
+            "title": "the mentality behind leicester city 's season", 
+            "text": [
+                "last night on the premier league show matthew syed analysed the mentality behind the extraordinary season at leicester city .", 
+                "it was filmed here in leicester with gabby logan , dion dublin and comedian mark watson .", 
+                "you can watch the show again .", 
+                "here ."
+            ], 
+            "author": [
+                "BBC Two"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:00"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_58b92070e4b08b1f7dee0383", 
+            "title": "join us for today 's live news coverage", 
+            "text": [
+                "happy friday leicestershire - i 'll be writing the updates on your local live page today with all the latest news , sport , weather and travel .", 
+                "the photo at the top of today 's page was sent by les golding and shows boats on thornton reservoir - one of my favourite places to go running in the county .", 
+                "if you 'd like to share your photos with us you can send them by email or by facebook or twitter ."
+            ], 
+            "author": [
+                "Amy Woodfield", 
+                "BBC Local Live"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:00"
+        }
+    ], 
+    "genre": "uk-england-leicestershire", 
+    "quality": "high"
+}

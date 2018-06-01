@@ -1,0 +1,1140 @@
+{
+    "blog_id": "13759fc31c1dc8ea669cd4a95be2812e8c5dab2c", 
+    "title": "Yorkshire breaking news: Latest updates - BBC News", 
+    "url": "http://www.bbc.com/news/live/uk-england-leeds-41430097", 
+    "summary": [
+        "man dies in halifax stabbing .", 
+        "northern powerhouse \u00a3 3bn investment call .", 
+        "nurses warn staff shortage is putting patients at risk in yorkshire .", 
+        "girl , 12 , injured in 'hit and run ' crash .", 
+        "vulnerable woman missing from halifax for three weeks .", 
+        "barnsley man jailed for violent robbery .", 
+        "last day for feedback on plan for 19,000 homes in calderdale .", 
+        "record collection of 5,000 goes under the hammer in north yorkshire .", 
+        "first york balloon festival lifts off this weekend .", 
+        "updates on friday 29 september 2017 ."
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce745ce4b0f107d97f5382", 
+            "title": "our five top stories today", 
+            "text": [
+                "that 's all from us for today , we 'll be back on monday from 06:30 with all the latest news , sport , weather and travel for yorkshire .", 
+                "but before we go , let 's look back at some of our top stories from today :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": "06:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce5d2be4b0f107d97f5307", 
+            "title": "call for more money to meet police pay increase", 
+            "text": [
+                "the man who oversees west yorkshire police says he 'll be asking the government for more cash to meet the rise in police officer 's pay .", 
+                "earlier this month the government announced that police officers would get a 1 % rise plus a 1 % bonus .", 
+                "but unions reacted angrily to the pay awards , branding them a real-terms cut , and the prison officers association threatened industrial action .", 
+                "there was also a warning from police chiefs that making forces pay for the increase themselves would put `` financial pressure on already stretched budgets '' .", 
+                "i want police officer to have a pay rise , but they 're not funding that and that 's why you 're seeing as many police on the beat as a few years ago . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "06:30"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce5efae4b0f107d97f530a", 
+            "title": "missing woman from leeds", 
+            "text": [
+                "police in leeds are asking for help in finding this woman :", 
+                "susan jowett , also known as susan catterill , 38 , of rothwell in leeds was reported missing yesterday", 
+                "she was wearing a blue jacket and blue trousers .", 
+                "susan , or anyone who sees susan is asked to call police on 101 quoting log 703 of thursday 28 september ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "06:30"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce6bdae4b01d97d6e6cbfc", 
+            "title": "details of liz dawn 's funeral released", 
+            "text": [
+                "the family of actress liz dawn have released details of her funeral .", 
+                "it will take place on 6 october at at salford cathedral at 14:00 and the tv star 's family have requested that donations be made in her memory to the british lung foundation and breast cancer care uk .", 
+                "the actress from leeds played vera duckworth in coronation street for more than 30 years , and died earlier this week aged 77 .", 
+                "her family said in a statement that they are `` devastated and heartbroken at the passing of our much-loved wife , mother , sister , grandmother and great grandmother , the incredible liz dawn '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce7118e4b0f01a3d88cb12", 
+            "title": "travel update : delays in leeds at rush hour", 
+            "text": [
+                "there are delays of around 40 minutes this afternoon in leeds according to first bus .", 
+                "they say that the delays are across the entire network as people try to get home from work for the weekend .", 
+                "not the news you want to hear ."
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:00"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce5577e4b0f107d97f52e7", 
+            "title": "missing girl from bolton could be in west yorkshire", 
+            "text": [
+                "have you seen this missing teenager ?", 
+                "she 's from bolton but could be in west yorkshire", 
+                "sadia ahmed was last seen on monday in batley but has been missing from her home near bolton since 12 september .", 
+                "police say they think the 15-year-old went to leeds city centre after leaving her house .", 
+                "she was wearing a khaki green thigh-length quilted coat with fur lined along the hood and a grey hooded top underneath ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "23:56"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce66bde4b01d97d6e6cbe3", 
+            "title": "sheffield wednesday boss 'understands fast-food society ' but does not fear sack", 
+            "text": [
+                "sheffield wednesday head coach carlos carvalhal said he is not afraid of losing his job .", 
+                "the owls lost 4-2 at home to cross-city rivals sheffield united on sunday and 1-0 at birmingham on wednesday .", 
+                "carvalhal has led the club to successive top-six finishes in his two full seasons in charge .", 
+                "`` i understand the fast-food nature of society but i do n't feel pressure that if i lose a game something will happen to me , '' he told bbc radio sheffield ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:50"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce62a7e4b01d97d6e6cbd2", 
+            "title": "body found near huddersfield town centre", 
+            "text": [
+                "police have launched an investigation after the discovery of a body close to huddersfield town centre .", 
+                "the body of a man was found at about 12:40 this lunchtime in bushes near shorehead sainsbury 's .", 
+                "officers say that `` enquiries are ongoing to establish the circumstances . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "23:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce6593e4b0f107d97f5331", 
+            "title": "live : how you can become the voice of bradford", 
+            "text": [
+                "if you really want to work for the bbc and have a passion for bradford and the people who live there , this could be your chance !", 
+                "radio leeds is looking for that special someone to join the team reporting on events throughout 2018 .", 
+                "keeley donovan is live right now with a few hints and tips on getting into broadcasting ."
+            ], 
+            "author": [
+                "Voice of Bradford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "23:24"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce6070e4b01d97d6e6cbc8", 
+            "title": "discovery of body in huddersfield town centre", 
+            "text": [
+                "a body has been discovered in huddersfield town centre .", 
+                "more to follow"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "23:12"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce51ffe4b01d97d6e6cb83", 
+            "title": "barnsley bolshoi ballerina embarks on uk tour", 
+            "text": [
+                "a ballerina who was the third british female to graduate from the bolshoi ballet academy is to start her first uk tour as a professional dancer .", 
+                "tala lee turton , 21 , graduated from the elite moscow-based school last year after four years of intensive training .", 
+                "she has secured a place at the russian astrakhan state opera and ballet theatre and will be performing with the company in uk theatres from october .", 
+                "tala , from barnsley , said dancing so close to home would be `` extra special '' .", 
+                "during her uk tour , which runs from 14 october to 7 december , she will perform in productions of swan lake , nutcracker and romeo and juliet ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce5693e4b0f107d97f52ef", 
+            "title": "brewer facing challenge from craft producers", 
+            "text": [
+                "beer producer black sheep brewery posted another loss as the business continued to be challenged by the rise of microbreweries and faced additional uncertainty from brexit ."
+            ], 
+            "author": [
+                "Yorkshire Post"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:41"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce3403e4b01d97d6e6cb0b", 
+            "title": "three drink drivers arrested in one hour in york", 
+            "text": [
+                "police in york say they arrested three drunk drivers in one hour in the early hours of this morning .", 
+                "the first arrest came at 04.40 , when a bmw was spotted by cctv , being driven sus around the city centre and travelling the wrong way down one way roads .", 
+                "the 21-year-old driver was arrested on sus of drink driving after being found to be twice the legal limit .", 
+                "he currently remains in custody .", 
+                "after further examination of the cctv footage , officers realised the other man in the car had also driven the car through the city centre .", 
+                "they then arrested him on sus of drink driving .", 
+                "he also remains in police custody .", 
+                "the third arrest was made at 05.30 when a silver ford ka was spotted by officers driving in the scarcroft road area of york , without any headlights on .", 
+                "officers stopped the vehicle and breathalysed the 26-year-old male driver .", 
+                "he was found to be almost three times over the legal limit .", 
+                "he was arrested on sus of drink driving and of `` taking a vehicle without the owners consent '' and currently remains in police custody ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:25"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "envelope_11012522", 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": null, 
+            "title": "", 
+            "text": [
+                ""
+            ], 
+            "author": "", 
+            "sent_label": [
+                0
+            ], 
+            "time": "22:18"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce529ee4b0f107d97f52d9", 
+            "title": "missing otley man found safe and well", 
+            "text": [
+                "some good news this afternoon , 65-year-old brian locke has been found safe and well .", 
+                "and if you 're going to announce the reappearance of a missing person , what better way than to do it than with puppies :", 
+                "brian locke , 65 , has been found safe and well thanks for all the rts and shares"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "22:09"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce36d4e4b01d97d6e6cb15", 
+            "title": "listen : schools in york to get second largest funding increase", 
+            "text": [
+                "schools in york are to receive the biggest funding rise in england , outside bournemouth .", 
+                "it 's part of the new national funding formula .", 
+                "cash per pupil will rise by \u00a3 700 to \u00a3 4700 .", 
+                "councillor stuart rawlings says even though statistics say york is the lowest funded area in england , that does n't tell the full story :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:59"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce4143e4b0f01a3d88ca39", 
+            "title": "could you be the voice of bradford ?", 
+            "text": [
+                "have you ever wanted to be a bbc reporter ?", 
+                "do you have a passion for bradford and want to shout about the city and its people ?", 
+                "radio leeds is looking for that special someone to join the team reporting on events throughout 2018 .", 
+                "keeley donovan will be one of the judges at the open auditions next weekend .", 
+                "at 16:00 today , she 'll be live on facebook with a few hints and tips .", 
+                "if you think you 've got what it takes , find out more about the voice of bradford on the bbc radio leeds website ."
+            ], 
+            "author": [
+                "Voice of Bradford"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:33"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce3c1ae4b0f01a3d88ca27", 
+            "title": "rotherham man charged with nine sexual offences as part of investigation into historic child sexual exploitation in the town", 
+            "text": [
+                "a 44-year-old man from rotherham has been charged with rape and sexual assault by the national crime agency as part of their investigation into historical child sexual expoitation in rotherham", 
+                "as part of operation stovewood , darren hyett , from broom chase , rotherham has been charged with three counts of raping a female under 16 , two counts of raping a female over 16 , two counts of sexual assault against a female under 16 and the trafficking of persons for sexual exploitation .", 
+                "hyett also faces one charge of perverting the course of justice .", 
+                "to date , a total of 26 men have been arrested and hyett is the ninth to be charged .", 
+                "the investigation currently has more than 80 identified suspects and is in the process of engaging with more than 200 victims and survivors ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "21:15"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce314ee4b0f107d97f524d", 
+            "title": "vulnerable woman missing for three weeks", 
+            "text": [
+                "a fresh appeal has been launched to find a vulnerable 72-year-old woman who has been missing for almost three weeks .", 
+                "cathryn holdsworth from halifax has n't been seen since 8 september when she left calderdale royal hospital , she was then up by cctv a day later at tesco in halifax town centre .", 
+                "police say that they now think she went home to illingworth on a bus that evening , but she was n't reported missing until 19 september by her neighbours .", 
+                "she was last seen wearing distinctive pink earmuffs , a dark coat , pink gloves and using her walking frame .", 
+                "police say she maybe in cornwall , blackpool or brighouse .", 
+                "cathryn lives with a number of health issues which make her more vulnerable and often uses a walking frame . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:58"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce19f6e4b0f107d97f51f0", 
+            "title": "northern powerhouse : what on earth are portable nuclear reactors ?", 
+            "text": [
+                "you may have read this morning that , among other things , the northern powerhouse partnership want the government to invest \u00a3 1bn on `` portable nuclear reactors '' .", 
+                "who knew they were a thing ?", 
+                "we thought we 'd better find out about them - so what are they and can you charge your phone with one on the train ?", 
+                "well , the first thing you need to know is that they 're smaller than your usual nuclear energy plant , for example heysham nuclear power station in lancashire occupies an area of about 315,000m\u00b2 .", 
+                "a portable nuclear reactor , is just around 23m long , small enough to fit onto the back of a lorry .", 
+                "a single one would never provide enough power to light up an entire city like leeds , but the idea is you can link a few of them together and then collectively they 'd be sufficient .", 
+                "the only thing is , no one 's built one yet and this is what the northern powerhouse is saying , the north should be at the front of the race to get smaller , in a nuclear kinda way .", 
+                "but unfortunately it means you ca n't take one in your pocket to keep your phone topped up .", 
+                "personally i think smrs are probably the future of nuclear .", 
+                "these things can be making a substantial contribution from the early 2030s onwards . ''", 
+                "if you 're still a little confused , here 's a little visual representation from the bbc 's environment analyst roger harrabin ."
+            ], 
+            "author": [
+                "Nick Wilmshurst", 
+                "BBC Yorkshire Live"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:47"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce3788e4b0f107d97f5266", 
+            "title": "young women in leeds warned after three students attacked", 
+            "text": [
+                "police are warning female students in leeds to walk with friends and stick to well-lit routes at night after three separate attacks on three 21-year-old women .", 
+                "they all happened in the woodhouse area over the last two weeks .", 
+                "two students were sexually assaulted and one was robbed .", 
+                "on tuesday a woman was walking home across woodhouse moor after a night out when a man came up to her , grabbed her by the wrists and pushed her against a bus stop .", 
+                "she struggled free and carried on home only for the man to approach her again and grab her by the wrists and push her against a building .", 
+                "she shouted for help and the man walked away and a passing taxi driver took her home - police have issued an efit of a man they want to speak to .", 
+                "these incidents are an obvious cause for concern and we are doing everything we can to identify the suspects involved . ''"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce3259e4b01d97d6e6cafe", 
+            "title": "yorkshire coach has county 's backing despite tough season", 
+            "text": [
+                "yorkshire director of cricket martyn moxon says coach andrew gale has the county 's full support despite a difficult first season in charge .", 
+                "the headingley side only ensured their division one status in the final championship game of the summer .", 
+                "they also struggled in the shorter forms of the game , with a group stage exit in the t20 blast and a quarter-final defeat in the one-day cup .", 
+                "`` andrew 's appointment was a long-term measure , '' moxon told the club website ."
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "20:13"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce33fee4b0f107d97f5255", 
+            "title": "machete-wielding masked robbers chased out of leeds bingo club during \u00a3 5,000 raid", 
+            "text": [
+                "staff and customers at a leeds bingo hall were threatened by axe and machete-wielding robbers during a \u00a3 5,000 raid .", 
+                "leeds crown court heard masked men burst into mecca bingo , on balm road , hunslet , but were chased away by brave customers ."
+            ], 
+            "author": [
+                "Yorkshire Evening Post"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:56"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce27e0e4b0f107d97f5225", 
+            "title": "watch : how big is the biggest record collection in the world", 
+            "text": [
+                "radio york dj , dr rock - aka chaz white - is selling some of his record collection - we were telling you about it earlier .", 
+                "he 's got 5,000 records going up for auction which is a lot of vinyl , but is it the largest collection in the world ?", 
+                "no , nowhere near .", 
+                "you 've got to travel out of yorkshire for that , in fact even out of the country - all the way to brazil where zero freitas has amassed 5 million .", 
+                "take a look around his vast collection :"
+            ], 
+            "author": [
+                "Nick Wilmshurst", 
+                "BBC Yorkshire Live"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "19:39"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce25c6e4b0f01a3d88c9d1", 
+            "title": "gale 's dramatic drop-goal sends castleford into grand final", 
+            "text": [
+                "watch luke gale 's golden-point drop-goal in extra-time against st helens to send castleford tigers into the super league grand final for the first time .", 
+                "you can get a full match report here : castleford tigers 23-22 st helens"
+            ], 
+            "author": [
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "19:21"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce2181e4b01d97d6e6cab0", 
+            "title": "barnsley man jailed for 'violent ' robbery", 
+            "text": [
+                "richard dawson from pye avenue , mapplewell was sentenced to four and a half years yesterday at sheffield crown court for a robbery which left the victim with life-changing injuries .", 
+                "in a case of mistaken identity , dawson stopped the victim who was driving along bark house lane in cawthorne in april and attacked him while he was still secured by his seatbelt .", 
+                "detective constable paul woodruff , who investigated the crime , said : this was a violent and unprovoked robbery against an innocent man .", 
+                "the victim continues to require medical treatment today for his injuries , which included cuts , bruising and a fractured eye socket - over five months later .", 
+                "it is fair to say that dawson 's nasty and vicious attack has changed this poor man 's life ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "19:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce1d1ee4b0f01a3d88c9ad", 
+            "title": "have you seen this missing man from otley", 
+            "text": [
+                "have you seen brian locke ?", 
+                "he 's gone missing this morning and police need your help to track him down .", 
+                "the 65-year-old is from otley and was last seen this morning at 08:20 .", 
+                "he was wearing wearing dark glasses , a black fleece , a maroon polo shirt , blue jeans and black shoes .", 
+                "if you spot him , call west yorkshire police on 101 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:51"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce154be4b0f107d97f51d7", 
+            "title": "denying breast cancer drug is a `` shameful irresponsibility '' , says sheffield doctor", 
+            "text": [
+                "a doctor from sheffield is criticising the decision by some clinical commissioning groups to prevent women from having a potentially life-saving breast cancer treatment .", 
+                "a new report found in some parts of the country thousands of women are being denied drugs which cost cost 43 pence a day which prevent cancer from returning .", 
+                "it 's thought to be costing the lives of a thousand women a year .", 
+                "the charity breast cancer now is calling on the nhs to ensure all parts of the country offer the drugs .", 
+                "rob coleman , professor of medical oncoclogy at the university of sheffield described the current situation a `` shameful irresponsibility '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "18:36"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce1c14e4b01d97d6e6ca9c", 
+            "title": "halifax death : picture from the scene", 
+            "text": [
+                "this is the latest from the scene of a stabbing in halifax this morning .", 
+                "two men have been arrested over the stabbing , which happened on mixenden road at around 17:20 yesterday evening .", 
+                "police found a man in his 30s and he was treated by paramedics but died at the scene ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0
+            ], 
+            "time": "18:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce154fe4b0f107d97f51d8", 
+            "title": "monty missing after york holiday - have you seen him ?", 
+            "text": [
+                "a distraught mum-to-be has phoned bbc radio york appealing for the return of her beloved french bulldog , feared stolen from a lakeside retreat .", 
+                "shaanan rutherford was on holiday in york when monty , an 11 month old black and brindle , male french bulldog , disappeared from the grounds of their lodge at york 's lakeside lodges .", 
+                "she phoned me today from her home in scotland , distraught that one member of the family is missing .", 
+                "if you 've seen monty you can use this email to get in touch and we 'll contact shaanan ."
+            ], 
+            "author": [
+                "Jonathan Cowap", 
+                "Presenter, BBC Radio York"
+            ], 
+            "sent_label": [
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:58"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce0db9e4b01d97d6e6ca73", 
+            "title": "final vinyl : 5,000 records under the hammer to reclaim house", 
+            "text": [
+                "i 've been in my element this morning !", 
+                "i 've been to kirkbymoorside , to ryedale auctioneers , because bbc radio york 's chaz white , also known as dr rock , is selling his famous vinyl record collection .", 
+                "five thousand records , including everything from rock 'n ' roll and blues , to jazz and mongolian folk , with much of it signed , is going under the hammer .", 
+                "a self-described `` lifelong rock 'n ' roll enthusiast '' , chaz ran a college course on the development of rock and roll , which led to his nickname `` dr rock '' by the press .", 
+                "he also wrote the life stories of little richard and jerry lee lewis .", 
+                "chas is auctioning off his 5,000 records , because his ever patient wife , annie , has finally had enough of them cluttering up the house .", 
+                "alongside his impressive collection of memorabilia chaz is also selling famous rock 'n ' roll art , photographs , and the jewel in the crown , bill haley 's gold disc for rock around the clock .", 
+                "dr rock told me : it 's become just too much .", 
+                "my dear wife has been highly tolerant but she wants her house back . ''"
+            ], 
+            "author": [
+                "Jericho Keys", 
+                "Reporter, BBC Radio York"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "17:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce0cb1e4b01d97d6e6ca70", 
+            "title": "northern powerhouse : report calls for \u00a3 3bn for 850,000 jobsanalysis", 
+            "text": [
+                "this morning the northern powerhouse partnership released their report on how they think the government should invest in the north .", 
+                "it 's just over three years since the northern powerhouse concept was announced by an excited george osborne .", 
+                "after a meandering start , it 's now gathering pace almost as fast as a high-speed rail link , and this report puts real meat on the bones .", 
+                "george osborne 's ownership of the northern powerhouse narrative is the reason the prime minister barely uttered the phrase when she came in to office .", 
+                "post-election it 's a different story .", 
+                "last month , i heard her cram it into one sentence three times .", 
+                "she ca n't abandon it without appearing to abandon the north , and this week she told me it is government driving the powerhouse agenda , not george osborne .", 
+                "there 's one thing northern conservative mps , labour mayors and the region 's business communities agreed on ; the northern powerhouse lives or dies on a high-speed rail service linking its cities ( crossrail for the north , or hs3 ) .", 
+                "the government has pledged `` commitment '' to the project , but must make it a reality if it 's to convince the north that it really wants their powerhouse to be built ."
+            ], 
+            "author": [
+                "Nina Warhurst", 
+                "BBC North West Political Editor"
+            ], 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": "17:31"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cdf972e4b0f01a3d88c905", 
+            "title": "watch : anti bullying bus comes to sheffield", 
+            "text": [
+                "the 'be nice bus ' , which is touring the uk to promote the message to be kind online , has visited sheffield .", 
+                "it 's part of the diana award kindness campaign marking twenty years since the princess died .", 
+                "here 's how they encourage children at all saints catholic high school in sheffield to be kind online :"
+            ], 
+            "author": [
+                "Kate Linderholm", 
+                "BBC Local Live, Sheffield"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "17:10"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59ce0621e4b0f01a3d88c949", 
+            "title": "take a seat and light up in leeds", 
+            "text": [
+                "people in leeds are being encouraged to take a seat and light up in the city 's victoria gardens .", 
+                "illuminated benches are being installed there ahead of next week 's light night leeds arts event .", 
+                "the light benches created by german artists , lichtbankobjekte , have been made using glass light beams connected by wifi , and change colour every two and a half minutes .", 
+                "following the light night leeds event , the five benches will become a permanent fixture in the city , the only ones of their kind in the uk outside london ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:54"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59ce053ee4b01d97d6e6ca56", 
+            "title": "will yorkshire mep be the new ukip leader ?", 
+            "text": [
+                "we 'll find out later today if jane collins , the yorkshire and humber mep , will become the new leader of ukip .", 
+                "she 's in the running but is n't one of the favourites", 
+                "paul nuttall stepped down as leader after he failed to win a seat at the general election .", 
+                "the new leader will be announced at ukip 's conference this afternoon ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:40"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdfff4e4b0f01a3d88c92d", 
+            "title": "anti-fracking campaign : lorry top protester charged", 
+            "text": [
+                "police have charged a 40-year-old woman who spent five hours on top of a lorry on its way to a north yorkshire fracking site yesterday .", 
+                "she 's been charged with `` getting onto a motor vehicle while it was on a road , without lawful authority or reasonable cause . ''", 
+                "the incident closed habton road for several hours .", 
+                "a total of 25 people have been arrested at the kirby misperton site so far , since protests started last week .", 
+                "the woman is due to appear at york magistrates court in november ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "16:27"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdf01fe4b0f01a3d88c8d1", 
+            "title": "listen : west yorkshire care workers buying own vaccines", 
+            "text": [
+                "trainee health care workers in west yorkshire say they 're having to pay for crucial vaccines for themselves with their own money , to allow them to continue working .", 
+                "it 's as a result of a global shortage of the vaccine for hepatitis b , which is mandatory for dental nurses .", 
+                "joe hendron runs a dental practice in wakefield and says this could have a knock on effect for recruitment :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": "16:14"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdfd07e4b0f107d97f5172", 
+            "title": "man dies after stabbing in halifax", 
+            "text": [
+                "detectives have arrested two men on sus of murder in halifax after the death of a man in the town yesterday afternoon .", 
+                "police were called to mixenden road , following reports a man had been stabbed .", 
+                "officers found a man in his 30s with serious injuries .", 
+                "he was treated by paramedics , but died at the scene .", 
+                "police are questioning two men aged 23 and 28 on sus of murder ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "16:01"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cddf7be4b0f107d97f50fb", 
+            "title": "listen : 'be nice online ' - diana bus spreads anti-bullying message in sheffield", 
+            "text": [
+                "an anti bullying bus is touring schools across the country promoting a message to pupils to be kind online .", 
+                "it 's part of the diana award kindness campaign marking twenty years since the princess died .", 
+                "i 've been to see it in action at all saints catholic high school in sheffield :"
+            ], 
+            "author": [
+                "Kate Linderholm", 
+                "BBC Local Live, Sheffield"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:47"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cdf533e4b01d97d6e6ca0a", 
+            "title": "budgies are being smuggled into doncaster this weekend", 
+            "text": [
+                "well not technically smuggled but it 's a big weekend for budgies in doncaster .", 
+                "they 're hosting the budgerigar society world championship show .", 
+                "and thousands are expected to flock to doncaster dome .", 
+                "the show starts tomorrow and includes categories like best in show and best young bird ."
+            ], 
+            "author": [
+                "Andy Kershaw", 
+                "BBC Radio Sheffield News"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "15:43"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdf516e4b01d97d6e6ca08", 
+            "title": "last day for feedback on calderdale homes plan", 
+            "text": [
+                "today 's the last day for people living in calderdale to have their say on plans to build 19,000 new homes in the area over the next 15 years .", 
+                "in brighouse alone there are plans to build 6,000 .", 
+                "calderdale council is asking for feedback on where they should go .", 
+                "planners say most of them will be affordable , to address a growing need , but not everyone 's happy with the plans , as some homes could be built on greenbelt land .", 
+                "a consultation 's been running for the last 8 weeks and ends at 17:00 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": "15:31"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdebfce4b0f01a3d88c8b8", 
+            "title": "listen : warning staff shortage putting patients at risk in yorkshire", 
+            "text": [
+                "the union representing nurses in yorkshire is warning patients are being put at risk because of staff shortages .", 
+                "a royal college of nursing survey asked nurses to describe their last shift .", 
+                "the organisation surveyed more than 30,000 members across the uk .", 
+                "there were stories of patients wetting their beds , because there was no one to help them to the bathroom and of people dying alone .", 
+                "more than half of those questioned in yorkshire and the humber say there was a shortfall of nurses on their last shift .", 
+                "chris perry was a director of nursing for 40 years :", 
+                "the department for health says it is funding an extra 10,000 places for nurses , midwives and allied health professionals by 2020 ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": "15:05"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cde320e4b01d97d6e6c9c6", 
+            "title": "watch : a wet one to begin with - yorkshire 's friday weather", 
+            "text": [
+                "heavy rain this morning , but clearing up later .", 
+                "here 's my full forecast :"
+            ], 
+            "author": [
+                "Abbie Dewhurst", 
+                "Weather Presenter, BBC Look North"
+            ], 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": "14:55"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cde80fe4b0f107d97f511c", 
+            "title": "listen : lift off for first ever york balloon festival", 
+            "text": [
+                "york 's first ever balloon festival lifts off later .", 
+                "visit york say they expect the event to bring in \u00a3 2m to the economy and attract 30,000 people over the three days at the racecourse .", 
+                "sally greenaway , is head of the organisation , she says she hopes it comes to york long-term :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                1, 
+                0
+            ], 
+            "time": "14:45"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cdd458e4b0f107d97f50e3", 
+            "title": "five released under investigation in national action probe", 
+            "text": [
+                "five men arrested as part of a national investigation into neo-nazi group national action have been released pending further inquiries .", 
+                "the men , aged between 23 and 30 , are from swansea , leeds , wiltshire and sowerby bridge .", 
+                "national action became the first far-right organisation to be banned in the uk last year .", 
+                "six other men arrested by counter-terrorism officers in the north west remain in custody .", 
+                "all of the men who were arrested are suspected of being a member of national action .", 
+                "home secretary amber rudd has previously said the group was `` a racist , anti-semitic and homophobic organisation '' ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cde677e4b0f107d97f5113", 
+            "title": "traffic and travel : trains to manchester disrupted", 
+            "text": [
+                "if you 're heading across the pennines by train this morning , be aware of problems in manchester .", 
+                "signalling problems at manchester piccadilly are causing disruption to trains at the station :", 
+                "you can click on the links below to keep up-to-date with the live departure boards for :"
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:29"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "sty_41402940", 
+            "title": "castleford tigers 23-22 st helens", 
+            "text": [
+                "castleford tigers 23-22 st helens"
+            ], 
+            "author": [
+                "Phil Cartwright", 
+                "BBC Sport"
+            ], 
+            "sent_label": [
+                0
+            ], 
+            "time": "14:20"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cde220e4b0f01a3d88c89c", 
+            "title": "northern powerhouse \u00a3 3bn investment call", 
+            "text": [
+                "the government should invest more than \u00a3 3bn to create 850,000 jobs in the northern powerhouse , a new report has claimed .", 
+                "in its powerhouse 2050 report , the northern powerhouse partnership suggests investing in schemes including portable nuclear reactors and a hydrogen gas network .", 
+                "the partnership 's proposals include the government investing :", 
+                "professor juergen maier , who is a member of the partnership , said the `` bold and original initiatives '' could have a `` transformational effect '' on northern england .", 
+                "the department for communities and local government has been approached for comment ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": "14:12"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "post_59cdd569e4b0f107d97f50e6", 
+            "title": "friday 's yorkshire weather", 
+            "text": [
+                "cloudy with occasionally heavy rain during the morning .", 
+                "drier , sunnier weather will arrive through the afternoon with strong winds easing .", 
+                "isolated afternoon showers are possible over pennine hills .", 
+                "breezy overnight with a few showers ."
+            ], 
+            "author": [
+                "BBC Weather"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "14:04"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cddc38e4b01d97d6e6c9b4", 
+            "title": "listen : call for reassurances following collapse of wakefield city academies trust", 
+            "text": [
+                "a public meeting is being held tonight following the collapse of an academy trust which ran 21 schools across yorkshire .", 
+                "earlier this month the wakefield academies trust said it was unable to `` facilitate the rapid improvement '' its academies needed .", 
+                "the department for education said many of the schools within the trust were performing below the national average .", 
+                "only four of the schools are rated as good or outstanding by ofsted .", 
+                "parents , staff and local politicians will meet at hemsworth community centre this evening .", 
+                "jon trickett , the labour mp for hemsworth , in west yorkshire , will be there and says he 's angry and wants reassurances from ministers :"
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:53"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cce241e4b0f107d97f4e7d", 
+            "title": "check your train journey this morning", 
+            "text": [
+                "rail services across yorkshire appear to be running pretty much to time so far this morning .", 
+                "if you 're travelling across the pennines , be aware there is currently disruption to services at manchester piccadilly .", 
+                "as a result of this , trains may be cancelled , delayed by up to 30 minutes or diverted .", 
+                "you can click on the links below to keep up-to-date with the live departure boards for :"
+            ], 
+            "author": [
+                "BBC News Travel"
+            ], 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:44"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cdd364e4b0f107d97f50e2", 
+            "title": "byram 'hit-and-run ' as school girl hit while crossing road", 
+            "text": [
+                "a 12-year-old girl has been seriously injured when she was hit by a car shortly after getting off a school bus in north yorkshire .", 
+                "the girl was crossing west acres in byram , near knottingley , at about 15:30 when she was hit by a red vauxhall astra that failed to stop , police said .", 
+                "she was airlifted to leeds general infirmary , where she remains .", 
+                "a man has been arrested .", 
+                "officers are appealing for anyone who saw the car in the village to come forward ."
+            ], 
+            "author": "", 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": "13:37"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "post_59cce216e4b01d97d6e6c719", 
+            "title": "good morning : join us for today 's live coverage", 
+            "text": [
+                "hello and welcome to bbc local live in yorkshire on friday 29 september 2017 .", 
+                "we 'll be with you until 18:00 with all the latest news , weather , travel and sport updates from across yorkshire .", 
+                "before the wind and rain sets in , let 's begin the day by reminding ourselves what a glorious day yesterday was :", 
+                "if you have a great pic to share , or want to get in touch with us about what 's happening where you are , just email us here ."
+            ], 
+            "author": [
+                "Andrew Barton", 
+                "BBC Local Live, Yorkshire"
+            ], 
+            "sent_label": [
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": "13:30"
+        }
+    ], 
+    "genre": "uk-england-leeds", 
+    "quality": "high"
+}

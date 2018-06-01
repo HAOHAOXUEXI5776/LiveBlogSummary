@@ -1,0 +1,1567 @@
+{
+    "blog_id": "8695fa5ba8fffd455819db82aa83da616227e546", 
+    "title": "Facebook, Google and Twitter grilled by Congress over Russian meddling \u00e2\u0080\u0093 as it happened | Technology | The Guardian", 
+    "url": "https://www.theguardian.com/technology/live/2017/oct/31/facebook-google-twitter-congress-russian-election-meddling-live", 
+    "summary": [
+        "questioning of tech companies ends .", 
+        "facebook admits it ca n't identify ad buyers .", 
+        "'russia does not have loyalty to a political party in the us '", 
+        "three tech companies agree about russian meddling .", 
+        "facebook : 'we are deeply concerned '", 
+        "'the foreign interference we saw was reprehensible '", 
+        "who coordinated with russian hackers ?"
+    ], 
+    "documents": [
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e5a5e4546a06df012051", 
+            "title": "", 
+            "text": [
+                "we 're going to wrap up our coverage of a senate panel questioning representatives of facebook , google and twitter .", 
+                "here 's what we learned : the questioning was cordial with a few moments of contention .", 
+                "the companies said they took the problem of russia using their platforms to tamper in the us election seriously and vowed new safeguards .", 
+                "there was total agreement that russia specifically had undertaken a broad campaign to meddle in the election on social media platforms .", 
+                "the companies projected competent management of the problem .", 
+                "they were reluctant to acknowledge their inability to identify imposter accounts run by foreign actors and to identify ad buyers .", 
+                "of course the answer is no , said facebook 's colin stretch about identifying all politics ad buyers and discerning foreign agents .", 
+                "challenged about the universe of information about its users that facebook has access to , stretch insisted under oath that facebook had limited access to user information .", 
+                "both google and facebook 's representatives blamed algorithms for certain undesirable activity on their networks including premium ad buys and the creation of offensive ad targeting on facebook ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                21, 
+                40
+            ], 
+            "block_kind": "block block--content is-summary"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e429b54d7306b33f5013", 
+            "title": "questioning of tech companies ends", 
+            "text": [
+                "the tech reps are done .", 
+                "there 's a second panel featuring clint watts of the foreign policy research institute and terrorism analyst michael s smith ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                21, 
+                0
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e30cb54d7306b33f500a", 
+            "title": "", 
+            "text": [
+                "kennedy is back .", 
+                "he asks stretch if fb can generate lists of teenagers who think they 're overweight .", 
+                "stretch says no .", 
+                "kennedy refers to a media report about fb micro-targeting teens during moments of emotional vulnerability .", 
+                "stretch : that reporting relied on an internal document that was overstated kennedy : you have the ability to give me a list of people who are teenagers who are insecure about their weight just like i believe that you have the ability to go look at senator graham 's or me , my profile can you not ?", 
+                "stretch : we have architected our system so that i may not .", 
+                "kennedy : but you could if you wanted to ?", 
+                "stretch : it is precisely because blah blah kennedy : i 'm saying if you wanted to , is it not the case that you can go to john kennedy 's profile and see things about jk as a result of my activity on fb stretch : any user could navigate to your profile .", 
+                "that line of questioning kind of went nowhere ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e236185bdb0682dbe456", 
+            "title": "", 
+            "text": [
+                "franken challenges salgado and they kind of talk past each other .", 
+                "franken turns again to stretch .", 
+                "he asks about ad targeting for the topic jew hater on fb .", 
+                "fb has removed the topic from the ad platform .", 
+                "but how could such categories be generated and allowed to exist .", 
+                "did you not know about jew hater ad targeting until the media told you ?", 
+                "stretch : senator , these categories which of course deeply offensive were algorithmically generated we 're not aware of evidence that they were used we do n't know for certain that they were never used we 're not aware of any revenue that was generated using that ad target"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e1eae4546a06df01202d", 
+            "title": "", 
+            "text": [
+                "franken 's back .", 
+                "can twitter and google vow not to take foreign political ads paid for with foreign money ?", 
+                "twitter 's edgett : sure .", 
+                "google 's salgado : i want to check to make sure it 's a good signal ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                50
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8e10a185bdb0682dbe44b", 
+            "title": "", 
+            "text": [
+                "graham : are any of you in the content business ?", 
+                "stretch : the vast vast majority of content on the platform is user-generated .", 
+                "edgett : we 're not in the content business .", 
+                "salgado : we 're not in the content business ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                46
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8dfa9b54d7306b33f4fe4", 
+            "title": "", 
+            "text": [
+                "stretch , edgett , salgado .", 
+                "somodevilla/getty images"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                40
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8df5cb54d7306b33f4fe1", 
+            "title": "", 
+            "text": [
+                "senator hirono : can you say that content on your platform did not have some kind of effect on the election ?", 
+                "stretch : we 're not well positioned to judge why any one person or an entire electorate voted as it did ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8dea2185bdb0682dbe431", 
+            "title": "", 
+            "text": [
+                "julian sanchez ( @ normative ) franken : `` can i have a little more time ?", 
+                "chair : no .", 
+                "stretch 's inner monologue : oh thank god ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                35
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8dc9d185bdb0682dbe419", 
+            "title": "", 
+            "text": [
+                "senator al franken is up .", 
+                "this is something you guys have to deal with and fix , he says .", 
+                "then he mixes it up pretty good with fb 's stretch .", 
+                "franken : how did fb which prides itself on being able to process billions of data points somehow not make the connection that electoral ads paid for in rubles were coming from russia ?", 
+                "those are two data points .", 
+                "american political ads and russian money , rubles .", 
+                "how could you not connect those two dots ?", 
+                "stretch says the question of account compromise was a threat our security team was intensely focused on in hindsight we should have had a broader lens franken : ok , people are buying ads on your platform with rubles you ca n't put together rubles with a political ad and go like , \u0080\u0098hm , those two data points spell out something bad . '", 
+                "stretch : we should have franken : ok ok ok. will fb commit to not accepting political ads in the future paid for in rubles or say the north korean won ?", 
+                "stretch : we 're not going to permit political advertising by foreign actors .", 
+                "stretch : \u0080\u0098our goal is to franken : \u0080\u0098my goal is to get you to think through this stuff a little bit better ! '"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                33
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8d920b54d7306b33f4fa7", 
+            "title": "", 
+            "text": [
+                "senator patrick leahy says i hear a lot of johnny-come-latelys .", 
+                "there 's a lot that i think you could have done earlier , he says .", 
+                "he bets that the companies made lots of add dollars .", 
+                "anthony de rosa \u00f0\u009f\u0097\u00bd ( @ anthony ) .", 
+                "@ senatorleahy showing ads that show up on facebook today which mimic activity by russian disinfo campaign ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                19
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8d7fee4546a06df011fcc", 
+            "title": "", 
+            "text": [
+                "senator ted cruz accuses google and facebook of serving readers a disproportionate amount of liberal news stories and of excluding conservative outlets .", 
+                "it is disconcerting if those political positions become a lens through which american consumers consume news , cruz says .", 
+                "do you consider your sites to be neutral public fora ?", 
+                "stretch : we think of fb as a platform for all ideas edgett : free expression and free speech is at the core of the twitter mission charlie warzel ( @ cwarzel ) what a waste of incredibly valuable time w/ under oath reps from companies that rarely ever have to answer for themselves"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                11
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8d600e4546a06df011fb0", 
+            "title": "", 
+            "text": [
+                "senator coons brought a poster-size imposter fb ad targeting clinton in the name of veterans .", 
+                "he asks stretch about it .", 
+                "stretch : senator , that advertisement has no place on facebook , and we are committed to preventing that sort of behavior it makes me angry , it makes everyone at our company angry .", 
+                "why has it taken fb 11 months to come forward and help us understand the scope of this problem when former president obama cautioned [ zuckerberg ] nine days after the election ?", 
+                "stretch says facebook has redoubled our efforts to understand what we now see as a sophisticated and systemic effort to interfere in the election .", 
+                "as evidence he brandishes an april white paper .", 
+                "but the wall street journal reported that fb removed references to russia in the paper .", 
+                "seems like less than total transparency ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                20, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8d581b54d7306b33f4f81", 
+            "title": "", 
+            "text": [
+                "a\u00b2 .", 
+                "a\u00b2 .", 
+                "( @ mikeisaac ) this entire hearing : senator asks question to facebook , facebook answers , twitter and google say `` yeah us too '' \u00e1\u00b4 \u00e1\u00b4\u0087\u00ea\u0080\u00e1\u00b4\u0087\u00e1\u00b4\u008b \u00e1\u00b4\u008d\u00e1\u00b4\u0087\u00e1\u00b4\u0080\u00e1\u00b4 ( @ derektmead ) response to sen kennedy here on twitter suggests just how much bipartisan voter support could be found in dragging tech cos"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8d481b54d7306b33f4f6c", 
+            "title": "", 
+            "text": [
+                "senator klobuchar asks for support for an ad transparency bill which she does n't quite get .", 
+                "emma loop ( @ loopemma ) none of the representatives will commit definitively to supporting the klobuchar/warner/mccain legislation to increase ad transparency ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                53
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8d3e8e4546a06df011fa0", 
+            "title": "", 
+            "text": [
+                "then kennedy asks google if they 're a tech platform or a media company .", 
+                "that 's an easy one .", 
+                "tech platform , says salgado .", 
+                "but kennedy , who is on fire , asks salgado if google delivers news ( and makes decisions about what news people see ? )", 
+                "is n't that what a newspaper does ?", 
+                "salgado insists that google is not a media company ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                51
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8d333185bdb0682dbe3a0", 
+            "title": "", 
+            "text": [
+                "kennedy further challenges stretch on what fb knows about the average user .", 
+                "stretch insists the company is blind to certain details .", 
+                "julian sanchez ( @ normative ) kennedy on fb targeting : say i want to know everything about sen. graham ; the bars he goes to\u0080\u00a6 ( ooooohs in hearing room ) stretch insists there are limits to what the company knows about its users .", 
+                "that 's your testimony under oath ?", 
+                "kennedy asks .", 
+                "yup ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8d1c4b54d7306b33f4f57", 
+            "title": "facebook admits it ca n't identify ad buyers", 
+            "text": [
+                "senator john kennedy , republican of louisiana , says he 's proud these companies are american but your power sometimes scares me .", 
+                "then he lights this sleeping hearing up .", 
+                "kennedy asks stretch if north korea ran ads on facebook .", 
+                "stretch says he 's not aware .", 
+                "how could you be aware !", 
+                "kennedy says .", 
+                "you have 5m ads a month !", 
+                "you 're telling me you have the ability to trace through all of these corporations and find the true identity of every one of your advertisers ? !", 
+                "kennedy says .", 
+                "stretch : we 're not able to see beyond the activity we see on the platform , the technical signals that we get can be used to identify kennedy : i 'm trying to get us down from la la land here .", 
+                "the truth of the matter is you do n't have the ability to know who every one of these advertisers is , do you ?", 
+                "of course the answer is no , stretch says .", 
+                "we ca n't see behind the activity ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                44
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8d057185bdb0682dbe381", 
+            "title": "", 
+            "text": [
+                "here 's senator dick durbin .", 
+                "he tells stretch anti-bias organization have raised the alarm about russia-backed pages spreading bigoted messages .", 
+                "he accuses facebook of providing consultant help to an anti-muslim effort .", 
+                "stretch says the content they 've turned over is vile , and it 's vile for precisely the reason you say .", 
+                "it 's particularly exploitative [ of ] groups that have every reason to expect us to protect the authenticity of the debate on fb we are reviewing and tightening our ad policies ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8cfdab54d7306b33f4f39", 
+            "title": "", 
+            "text": [
+                "facebook 's stretch says they have 10,000 people working on safety and security and they 'll double that number by 2018 ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8cf9d185bdb0682dbe376", 
+            "title": "", 
+            "text": [
+                "edgett on how twitter polices content : we have a very respected trust and safety team ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                32
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8ceb0b54d7306b33f4f2e", 
+            "title": "", 
+            "text": [
+                "senator sasse asks for twitter numbers .", 
+                "edgett says 330m monthly active users ( guilty ! ) .", 
+                "feinstein whispers , did he say 330m !", 
+                "hot mic .", 
+                "less than 5 % are automated , edgett says .", 
+                "we look at whether it looks like there is a human behind it or not but people can use synonyms so it 's tricky .", 
+                "sasse says on politics twitter it 's obvious people have fake followers .", 
+                "can twitter tell how much of traffic around a tweet is automated ?", 
+                "edgett says yes twitter prioritizes automated activity .", 
+                "to weed out malicious and automated content , what 's not actually realy .", 
+                "he says twitter is getting closer to being able to tell what a real human tweets versus what a robot tweets ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                30
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8ce8a185bdb0682dbe368", 
+            "title": "", 
+            "text": [
+                "edgett thanks feinstein for asking him what an impression on twitter is .", 
+                "so we 're all on the same page , he says ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                27
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8ce6be4546a06df011f66", 
+            "title": "", 
+            "text": [
+                "a\u00b2 .", 
+                "a\u00b2 .", 
+                "( @ mikeisaac ) it 's important to again note that of the three tech companies -facebook , google or twitter- none of them sent their ceos to testify today .", 
+                "and none of them seem to be feeling much pressure , either ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                26
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8ce36e4546a06df011f64", 
+            "title": "", 
+            "text": [
+                "salgado is asked why rt was allowed to participate in a preferred status ads program and he simply blames algorithms ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8cd6be4546a06df011f5c", 
+            "title": "", 
+            "text": [
+                "feinstein asks about facebook 's custom audiences tool .", 
+                "can fb explain who was targeted with the tool ? stretch says the content is imitative of social causes which is what makes the content to vile , so upsetting so cynical , its attempt to aggravate divisions in our society .", 
+                "he describes broad geographic targeting 75 % targeted usa as a whole , 25 % targeted to states .", 
+                "and they were targeted to interest groups .", 
+                "has fb tweaked the tool ?", 
+                "stretch says we 're making a number of changes to our ad targeting policies including stopping hate speech and sensitive tagging and tightening standards with divisive ads to make sure they 're not targeting particular communities or individuals ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                25
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8cc7cb54d7306b33f4f14", 
+            "title": "", 
+            "text": [
+                "stretch says facebook is working broadly in questions of authenticity on its platform .", 
+                "what they 've learned has helped them create new automated tools , he says .", 
+                "stretch says we have produced [ turned over to congress ] everything that we have identified that is the product of what we call coordinated inauthentic activity .", 
+                "but he does n't say he 's sure they id 'd all of the accounts .", 
+                "stretch says the internal investigation continues and we expect to keep the committee up to date on any further discoveries .", 
+                "grassley : ok. edgett : the same goes for twitter .", 
+                "salgado : for google the answer is similar .", 
+                "grassley : ok ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                21
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8cc11b54d7306b33f4f12", 
+            "title": "'russia does not have loyalty to a political party in the us '", 
+            "text": [
+                "chuck grassley cameo .", 
+                "he has a beef with reporting about a facebook ads targeting hillary clinton .", 
+                "his staff has reviewed the ads .", 
+                "overall the ads do not support a specific candidate and about half of the ads were placed after the election and exploit racial and social divisions .", 
+                "it might be true that these ads were intended to influence the election russia does not have loyalty to a political party in the us ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                18
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8cbd0b54d7306b33f4f11", 
+            "title": "", 
+            "text": [
+                "edgett of twitter says it 's a problem to get to know your client .", 
+                "who is running an ad , who is paying ?", 
+                "who are they targeting ?", 
+                "we 're working on the best approach to getting to know the clients who are signing up for advertising ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                16
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8cb0de4546a06df011f3a", 
+            "title": "", 
+            "text": [
+                "whitehouse asks the witnesses what they 're doing to fix it and what success looks like .", 
+                "they agree to submit testimony on it .", 
+                "julian sanchez ( @ normative ) whitehouse asks for comments on effectiveness of california 's disclosure law .", 
+                "model for federal legislation ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                15
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8ca68b54d7306b33f4f01", 
+            "title": "three tech companies agree about russian meddling", 
+            "text": [
+                "graham sums it up .", 
+                "russia started interfering in 2015 and continued afterward .", 
+                "during the election they were trying to foment discord , mostly against clinton .", 
+                "afterward they attacked the legitimacy of trump 's election .", 
+                "whitehouse : i take it we can all agree that the russians did in fact meddle is that correct ?", 
+                "all three agree ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                10
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8ca30e4546a06df011f34", 
+            "title": "", 
+            "text": [
+                "stretch says the activity is focused on hot-button to inflaming discourse .", 
+                "approximately 90 % of the volume we saw on the ad side was issues-based .", 
+                "in terms of the total volume of material on the site it 's small"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                9
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c9bbe4546a06df011f30", 
+            "title": "", 
+            "text": [
+                "stretch says fb has been tracking foreign actors since before and after the election .", 
+                "following the election , the activity we 've seen really continued , in the sense that this concerted effort to sow division and discord in the wake we saw a lot of activity fomenting discord about the validity of his election it continued until we disabled the accounts .", 
+                "twitter : these automated accounts continued ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                8
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c999b54d7306b33f4efe", 
+            "title": "", 
+            "text": [
+                "edgett , of twitter , says the accounts come \u0080\u0098disproportionately ' out of russia ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c94bb54d7306b33f4ef9", 
+            "title": "", 
+            "text": [
+                "graham starts .", 
+                "other than russia , he says , what nations are you concerned about tampering in elections ?", 
+                "stretch says threat actors tied to nation states around the world .", 
+                "he 's going jargony .", 
+                "it 's really only recently that we 've seen this threat evolve into dissemination of misinformation ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                5
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c8e7e4546a06df011f24", 
+            "title": "", 
+            "text": [
+                "salgado seeks to draw a line between google and the other two companies : google 's products do n't lend themselves to the kind of targeting or viral dissemination that the attackers seem to prefer .", 
+                "he says the company is carrying out new safeguards on election ads ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c80bb54d7306b33f4ed9", 
+            "title": "", 
+            "text": [
+                "now it 's richard salgado , director of law enforcement and infosec at google .", 
+                "he used to be at the justice department , focusing on hacking .", 
+                "we recognize that our services can be misused .", 
+                "state-sponsored attackers can be particularly pernicious they are difficult to recognize .", 
+                "they 've been working for a long time on the threat , he says .", 
+                "youtube stops people from artificially inflate view counts , for example .", 
+                "as for 2016 , were foreign entities disseminating information to interfere in the election ?", 
+                "they reviewed ads from june 15 2016 through the election .", 
+                "we found two accounts that appeared to be engaged in activity spent roughly $ 4,700 in connection with the 2016 election .", 
+                "on youtube 18 channels with 1,100 videos uploaded by suspects that contained political content .", 
+                "just 3 % had more than 1,000 views .", 
+                "relatively small but we understand that any misuse can be very serious .", 
+                "the yt videos were n't targeted but links were posted elsewhere ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                19, 
+                3
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c7eee4546a06df011f15", 
+            "title": "", 
+            "text": [
+                "edgett says they 're working to make sure the experience of 2016 never happens again .", 
+                "holler ?"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                59
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c6e9b54d7306b33f4ecb", 
+            "title": "", 
+            "text": [
+                "twitter is up next .", 
+                "we are troubled by reports that the power of twitter was misused by a foreign actor to tamper in the election , edgett calls it a new challenge for us and one that we are determined to meet .", 
+                "twitter is working to understand what happened and to stop it from happening again , he says .", 
+                "twitter has a review under way to id all the russian shadow accounts , he says .", 
+                "our findings may be supplemented as we work with committee staff he says they studied tweets from 1 september to 15 november 2016 .", 
+                "the number of accounts was small , he says .", 
+                "1/3 of 1 % of election-related tweets came from russian bots , edgett says .", 
+                "advertising by rt and sputnik violated policy and has been banned , he says .", 
+                "he says again that twitter has changed ad policies and safety policies .", 
+                "nothing we did n't already know ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                58
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c5ece4546a06df011f09", 
+            "title": "'the foreign interference we saw was reprehensible '", 
+            "text": [
+                "being at the forefront of technology also means being at the forefront of challenges , stretch says .", 
+                "he says he wants to talk about the threat of extremist content and efforts of foreign actors to interfere with the 2016 election .", 
+                "he talks about posts by terrorists .", 
+                "facebook has a protocol for fighting terrorism .", 
+                "then : we also believe we have an important role to play in the democratic process we take what happened on fb very seriously .", 
+                "the foreign interference we saw was reprehensible that foreign actors abused to try to undermine the election is directly contrary to our values and undermines everything fb stands for .", 
+                "he says an investigation is ongoing .", 
+                "imposter accounts placed ads that were used to create further posts .", 
+                "much of it will be particularly painful to communities who engaged with this content believing it to be authentic .", 
+                "he says fb is hiring more ad reviewers , adding restrictions and engineers and requiring more information from ad buyers ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                54
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c5c4185bdb0682dbe31a", 
+            "title": "facebook : 'we are deeply concerned '", 
+            "text": [
+                "stretch of facebook starts talking .", 
+                "he appreciates the hard work of congress .", 
+                "we are deeply concerned about all of these threats , he says ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                50
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c4fb185bdb0682dbe318", 
+            "title": "", 
+            "text": [
+                "senator feinstein said she had a briefing last week and saw really for the first time how russia has harnessed the frightening-to-me power of social media including by using fake accounts to manipulate opinion .", 
+                "how easily and successfully they turned modern technologies to their advantage , feinstein says .", 
+                "she says that 's not widely recognized yet .", 
+                "feinstein says the committee has documents confirming the russian tampering , including 470 fb pages and more than 3,000 paid ads that sought to sow discord and amplify racial and social divisions ; 2,752 imposter twitter accounts and 37,000 russian bots ; and more .", 
+                "feinstein says she wants to know what 's going on and what the tech companies are prepared to do to stop it ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                49
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c370b54d7306b33f4ead", 
+            "title": "who coordinated with russian hackers ?", 
+            "text": [
+                "whitehouse says no serious person can dispute the hacking and theft of information by russia .", 
+                "now whitehouse jumps in with both feet .", 
+                "it 's been reported that trump adviser roger stone communicated with guccifer 2.0 through a cutout .", 
+                "but we do n't know the full story of who coordinated with wikileaks or even directly with russian hackers .", 
+                "we still know next to nothing about the president 's business dealings in russia and with russians [ because tax returns still secret .", 
+                "we still do n't have answers about the president 's curious relationship with [ former real estate partner ] felix sater we have n't been able to speak with sater or [ trump lawyer michael ] cohen .", 
+                "the trump campaign and administration has had a very bad habit of forgetting meetings with russia .", 
+                "whitehouse touches on the june 2016 trump tower meeting , and the multiple emendations jared kushner had to make to his security clearance forms relating to foreign contacts .", 
+                "we still have more questions than answers .", 
+                "whitehouse says the troll farm in st petersburg , the internet research agency , carried out a strategy of posing as americans to launder russian propaganda messages and obscure their russian origin .", 
+                "he suggests propagandistic narratives became part of the mainstream news information sphere ."
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                1, 
+                1, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                45
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c2e5185bdb0682dbe309", 
+            "title": "", 
+            "text": [
+                "senator sheldon whitehouse of rhode island is up .", 
+                "he uses the phrase russia 's meddling in the 2016 election , which graham , who recently became a bosom golfing buddy of trump , did not .", 
+                "lindsey graham ( @ lindseygrahamsc ) really enjoyed a round of golf with president @ twitterid today .", 
+                "president trump shot a 73 in windy and wet conditions !", 
+                "donald j. trump ( @ realdonaldtrump ) publicity seeking lindsey graham falsely stated that i said there is moral equivalency between the kkk , neo-nazis & white supremacists"
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                39
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c2d1b54d7306b33f4ea9", 
+            "title": "", 
+            "text": [
+                "to those who wish to undermine american life , they found portals into our society that are intermingled with everyday life , graham says .", 
+                "well put ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                37
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c269b54d7306b33f4ea7", 
+            "title": "", 
+            "text": [
+                "graham says we have to be on our guard as a nation against people who would use this technology against us and calls it the national security challenge of the 21st century .", 
+                "the purpose of this hearing is to figure out how we can help you , graham says .", 
+                "oh .", 
+                "he says he thinks the tech companies are taking the problem seriously ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                36
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8c1ebe4546a06df011ee1", 
+            "title": "", 
+            "text": [
+                "graham says trump said from his point of view social media was an invaluable tool to help him win an election .", 
+                "all politicians and millions of americans use your technology , graham says .", 
+                "you 've enriched america .", 
+                "he jokes that some people should probably do less expressing themselves in 140 characters .", 
+                "whose ears are burning ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                34
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8c16c185bdb0682dbe2f3", 
+            "title": "", 
+            "text": [
+                "ok the witnesses are in their chairs and republican lindsey graham , who 's running the show along with ranking member dianne feinstein , looks ready to begin ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                31
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8bfa3e4546a06df011ebc", 
+            "title": "live video stream", 
+            "text": [
+                "here 's a live video stream of the proceedings ( thx @ twitterid049 ) : testifying today are : colin stretch , facebook general counsel sean edgett , twitter acting general counsel richard salgado , google director of information security"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                25
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }, 
+        {
+            "doc_label": 1, 
+            "block_id": "block-59f8ba7fb54d7306b33f4e33", 
+            "title": "", 
+            "text": [
+                "in this blog we 'll consider how russian tampering on social platforms in the 2016 election was carried out by online imposters and totally missed by the platform hosts .", 
+                "we 'll see how bad the hosts now feel about it all , if they do .", 
+                "but another pot in the trump-russia affair has been simmering this week , with the announcement monday that a former senior adviser to trump had pleaded guilty to making false statements to the fbi , with whom he is now cooperating .", 
+                "trump 's former campaign chairman and a deputy were separately charged .", 
+                "you can read about the latest developments here : donald trump tweets dismiss george papadopoulos as 'low level volunteer ' read more do you think the trump campaign colluded with russian operatives to tamper in the 2016 us presidential election ?", 
+                "your answer may reveal your party identity , more than anything .", 
+                "while a majority of the american public now believes that russia tried to disrupt the us election , opinions about trump campaign involvement tend to split along partisan lines : 73 % of republicans , but only 13 % of democrats , believe trump did nothing wrong in his dealings with russia and russian president vladimir putin ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0, 
+                1, 
+                0, 
+                1
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                6
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f8ba06185bdb0682dbe2a0", 
+            "title": "", 
+            "text": [
+                "this is off-topic but with a half hour to go till we 're underway and a national holiday to observe , here 's george hw bush reviewing halloween costumes from the back of a train : cspan ( @ cspan ) # halloween 1992 : `` oh , look at the witch there .", 
+                "and also the princess . ''", 
+                "pres .", 
+                "@ twitterid comments on costumes from back of moving train ."
+            ], 
+            "is_key_event": false, 
+            "sent_label": [
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                18, 
+                1
+            ], 
+            "block_kind": "block block--content"
+        }, 
+        {
+            "doc_label": 0, 
+            "block_id": "block-59f883a370e752069531e515", 
+            "title": "facebook , google and twitter go before congress", 
+            "text": [
+                "hello and welcome to our live coverage as representatives of three american tech giants appear before congress to explain how and why russian operatives were given free rein on their networks to tamper with the 2016 presidential election .", 
+                "starting at 2.30pm et , representatives from facebook , google and twitter are scheduled to appear before the senate judiciary committee .", 
+                "tomorrow the same three companies are to appear before the senate and house intelligence committees .", 
+                "all three companies have admitted extensive russian infiltration .", 
+                "on monday , facebook announced that russia-backed posts had reached 126 million americans during the election .", 
+                "but the tech companies have been slow to hand over information about what happened on their networks , and some analysts believe the true extent of the digital russian invasion may have been even greater .", 
+                "google has said russian operatives bought election-related ads on youtube and gmail as well as on its search engine .", 
+                "on thursday , twitter suspended advertising from all accounts owned by the kremlin-allied media outlets russia today ( rt ) and sputnik .", 
+                "the hearing is titled extremist content and russian disinformation online : working with tech to find solutions .", 
+                "testifying are a couple lawyers ( from facebook and twitter ) and a security officer ( from google ) .", 
+                "we 'll have a live video stream for you when it begins .", 
+                "will public outrage over the failure of the tech companies to prevent widespread election tampering last fall register at the hearing ?", 
+                "or will the committee play nice ?", 
+                "will the witnesses be challenged to provide more information about what happened on their networks ?", 
+                "will they accept responsibility ?", 
+                "one explosive charge against the companies , especially facebook and twitter , is that they failed ( do they continue to fail ? )", 
+                "to stop imposter russian accounts from attacking the american social fabric where it is most vulnerable , along lines of race , gender , class and creed .", 
+                "the imposter accounts took on the identities of activists or extremists on various sides of hot-button issues and interacted with americans who might respond to messaging around those issues , and whose preferences they hoped to shape , reinforce , and track .", 
+                "one question is how sophisticated the effort was to micro-target americans who might belong to key voter groups , meaning swing voters or voters who lived in swing areas .", 
+                "highly sophisticated micro-targeting may have had an effect , though difficult to gauge , on the vote tally .", 
+                "here 's some reading while we wait : how russia used social media to divide americans read more franklin foer : 'big tech has been rattled .", 
+                "the conversation has changed ' read more"
+            ], 
+            "is_key_event": true, 
+            "sent_label": [
+                1, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                1, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0, 
+                0
+            ], 
+            "time": [
+                2017, 
+                10, 
+                31, 
+                15, 
+                41
+            ], 
+            "block_kind": "block block--content is-key-event"
+        }
+    ], 
+    "genre": "technology", 
+    "summary_block": {
+        "key_events": [
+            {
+                "text": "\n\n9.00pm GMT\n21:00\nQuestioning of tech companies ends\n", 
+                "block": "block-59f8e429b54d7306b33f5013"
+            }, 
+            {
+                "text": "\n\n7.44pm GMT\n19:44\nFacebook admits it can't identify ad buyers\n", 
+                "block": "block-59f8d1c4b54d7306b33f4f57"
+            }, 
+            {
+                "text": "\n\n7.18pm GMT\n19:18\n'Russia does not have loyalty to a political party in the US'\n", 
+                "block": "block-59f8cc11b54d7306b33f4f12"
+            }, 
+            {
+                "text": "\n\n7.10pm GMT\n19:10\nThree tech companies agree about Russian meddling\n", 
+                "block": "block-59f8ca68b54d7306b33f4f01"
+            }, 
+            {
+                "text": "\n\n6.50pm GMT\n18:50\nFacebook: 'we are deeply concerned'\n", 
+                "block": "block-59f8c5c4185bdb0682dbe31a"
+            }, 
+            {
+                "text": "\n\n6.54pm GMT\n18:54\n'The foreign interference we saw was reprehensible'\n", 
+                "block": "block-59f8c5ece4546a06df011f09"
+            }, 
+            {
+                "text": "\n\n6.45pm GMT\n18:45\nWho coordinated with Russian hackers?\n", 
+                "block": "block-59f8c370b54d7306b33f4ead"
+            }
+        ], 
+        "bulletin": [
+            {
+                "link": [], 
+                "text": "The tech giants went before Senate judiciary committee to explain how and why Russian operatives were given free rein to tamper with 2016 US election.", 
+                "time": "", 
+                "type": "p", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/technology/2017/oct/30/facebook-russia-fake-accounts-126-million"
+                ], 
+                "text": "Russia-backed Facebook posts reached 126m Americans during election.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }, 
+            {
+                "link": [
+                    "https://www.theguardian.com/us-news/2017/oct/31/mark-warner-silicon-valley-regulation-honest-ads-act"
+                ], 
+                "text": "Mark Warner: senator ready to take tech giants to task.", 
+                "time": "", 
+                "type": "ul", 
+                "key_points": []
+            }
+        ]
+    }, 
+    "quality": "high"
+}
