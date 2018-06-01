@@ -22,7 +22,7 @@ class Vocab():
         else:
             return self.UNK_IDX
 
-    def make_features(self, batch, sent_trunc = 50, doc_trunc = 30):
+    def make_features(self, batch, sent_trunc = 20, doc_trunc = 10):
         # sent_trunc: 每个句子的词数整到sent_trunc
         # doc_trunc： 每个文档的句子数整到doc_trunc
 
@@ -38,9 +38,9 @@ class Vocab():
                 target = 1 if td["is_key_event"] else 0
                 doc_targets.append(target)
 
-        sents = []
-        sents_target = []
-        doc_lens = []
+        sents = [] #存储所有句子（一维、含padding添加的句子
+        sents_target = [] #存储所有句子（一维、不含因padding添加的句子
+        doc_lens = [] # 存储每篇文档包含的句子数（不含padding添加的句子
         for d in batch["documents"]:
             for td in d:
                 cur_sent_num = len(td["text"])
