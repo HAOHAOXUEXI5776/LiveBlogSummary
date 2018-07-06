@@ -26,10 +26,10 @@ class Vocab():
         # sent_trunc: 每个句子的词数整到sent_trunc
         # doc_trunc： 每个文档的句子数整到doc_trunc
 
-        summarys, titles = [], []
-        for s, t in zip(batch["summary"], batch["title"]):
-            summarys.append(''.join(s))
-            titles.append(t)
+        # summarys, titles = [], []
+        # for s, t in zip(batch["summary"], batch["title"]):
+        #     summarys.append(''.join(s))
+        #     titles.append(t)
         doc_nums = [] # 每个liveblog含有多少文档
         doc_targets = [] # 文档的标签，长度为sum(doc_nums)，不固定
         for d in batch["documents"]:
@@ -40,7 +40,7 @@ class Vocab():
 
         sents = [] #存储所有句子（一维、含padding添加的句子
         sents_target = [] # 存储所有句子的标签（一维、不含因padding添加的句子
-        sents_content = [] # 存储所有的句子内容，与sents_target等长，便于之后计算rouge值
+        # sents_content = [] # 存储所有的句子内容，与sents_target等长，便于之后计算rouge值
         doc_lens = [] # 存储每篇文档包含的句子数（不含padding添加的句子
         for d in batch["documents"]:
             for td in d:
@@ -48,12 +48,12 @@ class Vocab():
                 if(cur_sent_num > doc_trunc):
                     sents.extend(td["text"][:doc_trunc])
                     sents_target.extend(td["sent_label"][:doc_trunc])
-                    sents_content.extend(td["text"][:doc_trunc])
+                    # sents_content.extend(td["text"][:doc_trunc])
                     doc_lens.append(doc_trunc)
                 else:
                     sents.extend(td["text"]+(doc_trunc-cur_sent_num)*[""])
                     sents_target.extend(td["sent_label"])
-                    sents_content.extend(td["text"])
+                    # sents_content.extend(td["text"])
                     doc_lens.append(cur_sent_num)
 
         # 将每个句子的单词数固定到sent_trunc
@@ -71,7 +71,7 @@ class Vocab():
         targets = doc_targets+sents_target
         targets = torch.LongTensor(targets)
 
-        return sents, targets, sents_content, summarys, doc_nums, doc_lens
+        return sents, targets, doc_nums, doc_lens
 
 
 
