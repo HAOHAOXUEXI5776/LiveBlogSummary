@@ -1,2 +1,7 @@
 .idea
-__pycache__/
+*.pyc
+.DS_Store
+*/.DS_Store 
+label_data/.DS_Store
+label_data/bbc_label/.DS_Store
+.ftpconfig
