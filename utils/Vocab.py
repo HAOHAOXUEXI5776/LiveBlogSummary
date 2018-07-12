@@ -72,7 +72,7 @@ class Vocab():
 
         sents = torch.LongTensor(sents)
         targets = doc_targets + sents_target
-        targets = torch.LongTensor(targets)
+        targets = torch.FloatTensor(targets)
 
         return sents, targets, sents_content, summarys, doc_nums, doc_lens
 

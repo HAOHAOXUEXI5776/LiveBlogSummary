@@ -43,7 +43,7 @@ class Module1(nn.Module):
 
         self.sent_pre = nn.Linear(2 * self.H, self.doc_trunc)
 
-    def max_pool1d(self, x, sent_lens):
+    def avg_pool1d(self, x, sent_lens):
         out = []
         for index, t in enumerate(x):
             if sent_lens[index] == 0:
@@ -52,12 +52,7 @@ class Module1(nn.Module):
                 else:
                     out.append(torch.zeros(1, 2 * self.H, 1))
             else:
-                try:
-                    tmpsize = t.shape
-                    t = t[:sent_lens[index], :]
-                except:
-                    print(index, sent_lens[index], tmpsize)
-                    exit()
+                t = t[:sent_lens[index], :]
                 t = torch.t(t).unsqueeze(0)
                 out.append(F.avg_pool1d(t, t.size(2)))
 
@@ -65,30 +60,22 @@ class Module1(nn.Module):
         return out
 
     def forward(self, x, doc_nums, doc_lens):
-        # x: total_sent_num* word_num
-        print('mark_begin')
-        print(x)
+        # x: total_sent_num * word_num
         sent_lens = torch.sum(torch.sign(x), dim=1).data
-        print(sent_lens)
-        print('mark_end')
         x = self.embed(x)
-        x = self.word_RNN(x)[0]  # total_sent_num*word_num*(2*H)
-        x = self.max_pool1d(x, sent_lens)  # total_sent_num*(2*H)
+        x = self.word_RNN(x)[0]  # total_sent_num * word_num * (2*H)
+        x = self.avg_pool1d(x, sent_lens)  # total_sent_num * (2*H)
 
         x = x.view(-1, self.args.doc_trunc, 2 * self.H)
         x = self.sent_RNN(x)[0]
-        x = self.max_pool1d(x, doc_lens)  # total_doc_num*(2*H)
+        x = self.avg_pool1d(x, doc_lens)  # total_doc_num * (2*H)
 
         doc_pro = self.doc_pre(x)
         target_pre = doc_pro.view(-1)
 
         sent_pro = self.sent_pre(x)
         for i, cur_doc in enumerate(sent_pro):
-            try:
-                target_pre = torch.cat((target_pre, cur_doc[:doc_lens[i]]))
-            except:
-                print(i, doc_lens[i], cur_doc.shape, target_pre.shape, cur_doc[:doc_lens[i]].shape)
-                exit()
+            target_pre = torch.cat((target_pre, cur_doc[:doc_lens[i]]))
         return F.sigmoid(target_pre)  # 一维tensor，前部分是文档的预测，后部分是所有句子（不含padding）的预测
 
     def save(self, dir):
@@ -96,12 +83,12 @@ class Module1(nn.Module):
         torch.save(checkpoint, dir)
 
     def load(self, dir):
-        if self.args.device is not None:
+        if self.args.use_cuda:
             data = torch.load(dir)['model']
         else:
             data = torch.load(dir, map_location=lambda storage, loc: storage)['model']
         self.load_state_dict(data)
-        if self.args.device is not None:
+        if self.args.use_cuda:
             return self.cuda()
         else:
             return self

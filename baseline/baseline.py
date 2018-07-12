@@ -26,7 +26,7 @@ sys.setdefaultencoding('utf-8')
 corpus = 'bbc'
 jar_path = '/Users/liuhui/Desktop/Lab/Tools/PKUSUMSUM/PKUSUMSUM.jar'
 # jar_path = '/home1/liuhui/PKUSUMSUM/PKUSUMSUM.jar'
-data_dir = '../label_data/' + corpus + '_label/test/'
+data_dir = '../data/' + corpus + '_label/test/'
 tmp_dir = './tmp/'
 tmp_out = './out'
 sum_len = 1  # 摘要长度是原摘要长度的几倍
