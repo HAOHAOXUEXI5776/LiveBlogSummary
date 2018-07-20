@@ -3,6 +3,7 @@
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
+from torch.autograd import Variable
 
 use_cuda = torch.cuda.is_available()
 
@@ -21,7 +22,7 @@ class Module1(nn.Module):
         if embed is not None:
             self.embed.weight.data.copy_(embed)
 
-        # 输入batch_size个live blog，每个blog由doc_num个doc组成，一个doc有若sent_num个sent组成
+        # 输入batch_size个live blog，每个blog由doc_num个doc组成，一个doc有sent_num个sent组成
         # 一个sent有word_num个word组成
         self.word_RNN = nn.GRU(
             input_size=D,
@@ -66,7 +67,7 @@ class Module1(nn.Module):
         x = self.word_RNN(x)[0]  # total_sent_num * word_num * (2*H)
         x = self.avg_pool1d(x, sent_lens)  # total_sent_num * (2*H)
 
-        x = x.view(-1, self.args.doc_trunc, 2 * self.H)
+        x = self.padding(x, doc_lens, self.args.doc_trunc)
         x = self.sent_RNN(x)[0]
         x = self.avg_pool1d(x, doc_lens)  # total_doc_num * (2*H)
 
@@ -78,17 +79,22 @@ class Module1(nn.Module):
             target_pre = torch.cat((target_pre, cur_doc[:doc_lens[i]]))
         return F.sigmoid(target_pre)  # 一维tensor，前部分是文档的预测，后部分是所有句子（不含padding）的预测
 
+    # 对于一个序列进行padding，不足的补上全零向量
+    def padding(self, vec, seq_lens, trunc):
+        pad_dim = vec.size(1)
+        result = []
+        start = 0
+        for seq_len in seq_lens:
+            stop = start + seq_len
+            valid = vec[start:stop]
+            start = stop
+            pad = Variable(torch.zeros(trunc - seq_len, pad_dim))
+            if use_cuda:
+                pad = pad.cuda()
+            result.append(torch.cat([valid, pad]).unsqueeze(0))
+        result = torch.cat(result, dim=0)
+        return result
+
     def save(self, dir):
         checkpoint = {'model': self.state_dict(), 'args': self.args}
         torch.save(checkpoint, dir)
-
-    def load(self, dir):
-        if self.args.use_cuda:
-            data = torch.load(dir)['model']
-        else:
-            data = torch.load(dir, map_location=lambda storage, loc: storage)['model']
-        self.load_state_dict(data)
-        if self.args.use_cuda:
-            return self.cuda()
-        else:
-            return self

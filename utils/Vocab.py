@@ -25,41 +25,44 @@ class Vocab():
         else:
             return self.UNK_IDX
 
-    def make_features(self, batch, sent_trunc=20, doc_trunc=10):
-        # sent_trunc: 每个句子的词数整到sent_trunc
-        # doc_trunc： 每个文档的句子数整到doc_trunc
+    def make_features(self, batch, args):
+        # sent_trunc: 每个句子的词数截取到sent_trunc，不足补全
+        # doc_trunc: 每个文档的句子数截取到doc_trunc，不补全
+        # blog_trunc: 每个live blog的文档数截取到blog_trunc，不补全
+        sent_trunc = args.sent_trunc
+        doc_trunc = args.doc_trunc
+        blog_trunc = args.blog_trunc
 
-        summarys, titles = [], []
-        for s, t in zip(batch["summary"], batch["title"]):
+        summarys = []
+        for s in batch["summary"]:
             summarys.append(' '.join(s))
-            titles.append(t)
-        doc_nums = []  # 每个liveblog含有多少文档
-        doc_targets = []  # 文档的标签，长度为sum(doc_nums)，不固定
-        for d in batch["documents"]:
-            doc_nums.append(len(d))
-            for td in d:
+        doc_nums = []  # 每个live blog含有多少文档
+        doc_targets = []  # 各文档的标签
+        for i, d in enumerate(batch["documents"]):
+            if len(d) > blog_trunc:
+                batch["documents"][i] = d[:blog_trunc]
+            doc_nums.append(len(batch["documents"][i]))
+            for td in batch["documents"][i]:
                 target = td["doc_label"]
                 doc_targets.append(target)
-
-        sents = []  # 存储所有句子（一维、含padding添加的句子
-        sents_target = []  # 存储所有句子（一维、不含padding添加的句子
+        sents = []  # 存储所有句子
+        sents_target = []  # 存储所有句子label
         sents_content = []  # 存储所有的句子内容，与sents_target等长，便于之后计算rouge值
-        doc_lens = []  # 存储每篇文档包含的句子数（不含padding添加的句子
+        doc_lens = []  # 存储每篇文档包含的句子数
         for d in batch["documents"]:
             for td in d:
                 cur_sent_num = len(td["text"])
-                if (cur_sent_num > doc_trunc):
+                if cur_sent_num > doc_trunc:
                     sents.extend(td["text"][:doc_trunc])
                     sents_target.extend(td["sent_label"][:doc_trunc])
                     sents_content.extend(td["text"][:doc_trunc])
                     doc_lens.append(doc_trunc)
                 else:
-                    sents.extend(td["text"] + (doc_trunc - cur_sent_num) * [""])
+                    sents.extend(td["text"])
                     sents_target.extend(td["sent_label"])
                     sents_content.extend(td["text"])
                     doc_lens.append(cur_sent_num)
-
-        # 将每个句子的单词数固定到sent_trunc
+        # 将每个句子的单词数固定到sent_trunc，超过截断，不足补全
         for i, sent in enumerate(sents):
             sent = sent.split()
             cur_sent_len = len(sent)

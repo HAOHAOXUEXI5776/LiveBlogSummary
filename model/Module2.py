@@ -25,7 +25,7 @@ class Module2(nn.Module):
         if embed is not None:
             self.embed.weight.data.copy_(embed)
 
-        # 输入batch_size个live blog，每个blog由doc_num个doc组成，一个doc有若sent_num个sent组成
+        # 输入batch_size个live blog，每个live blog由doc_num个doc组成，一个doc有若sent_num个sent组成
         # 一个sent有word_num个word组成
         self.word_RNN = nn.GRU(
             input_size=D,
@@ -48,11 +48,20 @@ class Module2(nn.Module):
             bidirectional=True
         )
 
-        # 预测doc标签时，考虑doc向量、blog向量
-        self.doc_pre = nn.Bilinear(2 * self.H, 2 * self.H, 1, bias=False)
+        # 预测doc标签时，考虑doc内容，与blog相关性，doc位置，bias
+        self.doc_content = nn.Linear(2 * self.H, 1, bias=False)
+        self.doc_salience = nn.Bilinear(2 * self.H, 2 * self.H, 1, bias=False)
+        self.doc_pos_embed = nn.Embedding(self.args.blog_trunc, self.args.pos_dim)
+        self.doc_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
+        self.doc_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
 
-        # 预测sent标签时，考虑sent向量、doc向量、blog向量（后两个拼接成一个4*H的向量）
-        self.sent_pre = nn.Bilinear(2 * self.H, 4 * self.H, 1, bias=False)
+        # 预测sent标签时，考虑sent内容，与所在doc及blog相关性，sent位置，doc标签，bias
+        self.sent_content = nn.Linear(2 * self.H, 1, bias=False)
+        self.sent_salience = nn.Bilinear(2 * self.H, 4 * self.H, 1, bias=False)
+        self.sent_pos_embed = nn.Embedding(self.args.doc_trunc, self.args.pos_dim)
+        self.sent_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
+        self.sent_doc_label = nn.Linear(1, 1, bias=False)
+        self.sent_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
 
     def avg_pool1d(self, x, seq_lens):
         out = []
@@ -77,11 +86,11 @@ class Module2(nn.Module):
         x = self.word_RNN(x)[0]  # total_sent_num * word_num * (2*H)
         sent_vec = self.avg_pool1d(x, sent_lens)  # total_sent_num * (2*H)
 
-        x = sent_vec.view(-1, self.args.doc_trunc, 2 * self.H)  # total_doc_num * doc_trunc * (2*H)
+        x = self.padding(sent_vec, doc_lens, self.args.doc_trunc)  # total_doc_num * doc_trunc * (2*H)
         x = self.sent_RNN(x)[0]  # total_doc_num * doc_trunc * (2*H)
         doc_vec = self.avg_pool1d(x, doc_lens)  # total_doc_num * (2*H)
 
-        x = self.pad_blog(doc_vec, doc_nums)  # batch_size * blog_trunc * (2*H)
+        x = self.padding(doc_vec, doc_nums, self.args.blog_trunc)  # batch_size * blog_trunc * (2*H)
         x = self.doc_RNN(x)[0]  # batch_size * blog_trunc * (2*H)
         blog_vec = self.avg_pool1d(x, doc_nums)  # batch_size * (2*H)
 
@@ -92,8 +101,15 @@ class Module2(nn.Module):
             end = start + doc_nums[i]
             valid = doc_vec[start:end]
             start = end
-            for doc in valid:
-                probs.append(self.doc_pre(doc, blog_vec[i]))
+            for j, doc in enumerate(valid):
+                doc_content = self.doc_content(doc)
+                doc_salience = self.doc_salience(doc, blog_vec[i])
+                doc_index = torch.LongTensor([[j]])
+                if use_cuda:
+                    doc_index = doc_index.cuda()
+                doc_pos = self.doc_pos(self.doc_pos_embed(doc_index).squeeze(0))
+                doc_pre = F.sigmoid(doc_content + doc_salience + doc_pos + self.doc_bias)
+                probs.append(doc_pre)
 
         # 预测sent标签
         sent_idx = 0
@@ -102,45 +118,39 @@ class Module2(nn.Module):
             end = start + doc_nums[i]
             for j in range(start, end):
                 context = torch.cat((blog_vec[i], doc_vec[j]))
-                next_sent_idx = sent_idx + self.args.doc_trunc
+                # next_sent_idx = sent_idx + doc_lens[j]
                 for k in range(0, doc_lens[j]):
-                    probs.append(self.sent_pre(sent_vec[sent_idx], context))
+                    sent_content = self.sent_content(sent_vec[sent_idx])
+                    sent_salience = self.sent_salience(sent_vec[sent_idx], context)
+                    sent_index = torch.LongTensor([[k]])
+                    if use_cuda:
+                        sent_index = sent_index.cuda()
+                    sent_pos = self.sent_pos(self.sent_pos_embed(sent_index).squeeze(0))
+                    sent_doc_label = self.sent_doc_label(probs[i])
+                    sent_pre = F.sigmoid(sent_content + sent_salience + sent_pos + sent_doc_label + self.sent_bias)
+                    probs.append(sent_pre)
                     sent_idx += 1
-                sent_idx = next_sent_idx
+                # sent_idx = next_sent_idx
             start = end
 
-        return F.sigmoid(torch.cat(probs).squeeze())  # 一维tensor，前部分是文档的预测，后部分是所有句子（不含padding）的预测
+        return torch.cat(probs).squeeze()  # 一维tensor，前部分是文档的预测，后部分是所有句子（不含padding）的预测
 
-    def pad_blog(self, doc_vec, blog_lens):
-        pad_dim = doc_vec.size(1)
-        doc_trunc = self.args.blog_trunc
+    # 对于一个序列进行padding，不足的补上全零向量
+    def padding(self, vec, seq_lens, trunc):
+        pad_dim = vec.size(1)
         result = []
         start = 0
-        for blog_len in blog_lens:
-            stop = start + blog_len
-            valid = doc_vec[start:stop]  # (blog_len,2*H)
+        for seq_len in seq_lens:
+            stop = start + seq_len
+            valid = vec[start:stop]
             start = stop
-            if blog_len >= doc_trunc:
-                result.append(valid[:doc_trunc].unsqueeze(0))
-            else:
-                pad = Variable(torch.zeros(doc_trunc - blog_len, pad_dim))
-                if use_cuda:
-                    pad = pad.cuda()
-                result.append(torch.cat([valid, pad]).unsqueeze(0))  # (1,doc_trunc,2*H)
-        result = torch.cat(result, dim=0)  # (B,doc_trunc,2*H)
+            pad = Variable(torch.zeros(trunc - seq_len, pad_dim))
+            if use_cuda:
+                pad = pad.cuda()
+            result.append(torch.cat([valid, pad]).unsqueeze(0))
+        result = torch.cat(result, dim=0)
         return result
 
     def save(self, dir):
         checkpoint = {'model': self.state_dict(), 'args': self.args}
         torch.save(checkpoint, dir)
-
-    def load(self, dir):
-        if self.args.use_cuda:
-            data = torch.load(dir)['model']
-        else:
-            data = torch.load(dir, map_location=lambda storage, loc: storage)['model']
-        self.load_state_dict(data)
-        if self.args.use_cuda:
-            return self.cuda()
-        else:
-            return self

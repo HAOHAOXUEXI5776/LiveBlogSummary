@@ -15,25 +15,26 @@ parser = argparse.ArgumentParser(description='LiveBlogSum')
 parser.add_argument('-save_dir', type=str, default='checkpoints/')
 parser.add_argument('-embed_dim', type=int, default=100)
 parser.add_argument('-embed_num', type=int, default=100)
-parser.add_argument('-model', type=str, default='Module2')
+parser.add_argument('-model', type=str, default='Module1')
 parser.add_argument('-hidden_size', type=int, default=200)
+parser.add_argument('-pos_dim', type=int, default=10)
 # train
 parser.add_argument('-lr', type=float, default=1e-3)
 parser.add_argument('-max_norm', type=float, default=1.0)
-parser.add_argument('-batch_size', type=int, default=5)
-parser.add_argument('-epochs', type=int, default=5)
+parser.add_argument('-batch_size', type=int, default=2)
+parser.add_argument('-epochs', type=int, default=6)
 parser.add_argument('-seed', type=int, default=1)
 parser.add_argument('-embedding', type=str, default='word2vec/embedding.npz')
 parser.add_argument('-word2id', type=str, default='word2vec/word2id.json')
-parser.add_argument('-train_dir', type=str, default='data/guardian_cont_1/train/')
-parser.add_argument('-valid_dir', type=str, default='data/guardian_cont_1/valid/')
+parser.add_argument('-train_dir', type=str, default='data/guardian_label/train/')
+parser.add_argument('-valid_dir', type=str, default='data/guardian_label/valid/')
 parser.add_argument('-sent_trunc', type=int, default=20)
 parser.add_argument('-doc_trunc', type=int, default=10)
 parser.add_argument('-blog_trunc', type=int, default=80)  # 之后的模型可能会用到这个参数
 parser.add_argument('-valid_every', type=int, default=100)
 # test
 parser.add_argument('-load_model', type=str, default='')
-parser.add_argument('-test_dir', type=str, default='data/guardian_cont_1/test/')
+parser.add_argument('-test_dir', type=str, default='data/guardian_label/test/')
 parser.add_argument('-ref', type=str, default='outputs/ref/')
 parser.add_argument('-hyp', type=str, default='outputs/hyp/')
 parser.add_argument('-sum_len', type=int, default=1)  # 摘要长度为原摘要长度的倍数
@@ -62,10 +63,11 @@ def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是
     loss, r1, r2, rl, rsu = .0, .0, .0, .0, .0  # rouge-1，rouge-2，rouge-l，都使用recall值（长度限定为原摘要长度）
     batch_num = .0
     blog_num = .0
-    for batch in data_iter:
+    for m, batch in enumerate(data_iter):
+        print(m)
         # 计算loss
         features, targets, sents_content, summaries, doc_nums, doc_lens = \
-            vocab.make_features(batch, sent_trunc=args.sent_trunc, doc_trunc=args.doc_trunc)
+            vocab.make_features(batch, args)
         features, targets = Variable(features), Variable(targets.float())
         if use_cuda:
             features = features.cuda()
@@ -74,7 +76,7 @@ def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是
         loss += criterion(probs, targets).data.item()
         batch_num += 1
         doc_nums_sum = np.array(doc_nums).sum()
-        probs = probs[doc_nums_sum:]    # 删除probs前半部分对doc的预测
+        probs = probs[doc_nums_sum:]  # 删除probs前半部分对doc的预测
         probs_start = 0  # 当前blog对应的probs起始下标
         doc_lens_start = 0  # 当前blog对应的doc_lens起始下标
         sents_start = 0  # 当前blog对应的sents_content起始下标
@@ -167,8 +169,7 @@ def train():
 
     for epoch in range(1, args.epochs + 1):
         for i, batch in enumerate(train_iter):
-            features, targets, _1, _2, doc_nums, doc_lens = vocab.make_features(batch, sent_trunc=args.sent_trunc,
-                                                                                doc_trunc=args.doc_trunc)
+            features, targets, _1, _2, doc_nums, doc_lens = vocab.make_features(batch, args)
             features, targets = Variable(features), Variable(targets.float())
             if use_cuda:
                 features = features.cuda()
@@ -188,7 +189,8 @@ def train():
                 cur_loss, r1, r2, rl, rsu = evaluate(net, vocab, val_iter, True)
                 if cur_loss < min_loss:
                     min_loss = cur_loss
-                save_path = args.save_dir + args.model + '_%d_loss_%.3f_r1_%.3f' % (cnt / args.valid_every, cur_loss, r1)
+                save_path = args.save_dir + args.model + '_%d_loss_%.3f_r1_%.3f' % (
+                cnt / args.valid_every, cur_loss, r1)
                 net.save(save_path)
                 print('Epoch: %2d Min_Val_Loss: %f Cur_Val_Loss: %f Rouge-1: %f Rouge-2: %f Rouge-l: %f Rouge-SU*: %F' %
                       (epoch, min_loss, cur_loss, r1, r2, rl, rsu))
@@ -217,9 +219,7 @@ def test():
     if use_cuda:
         checkpoint = torch.load(args.save_dir + args.load_model)
     else:
-        checkpoint = torch.load(args.load_dir, map_location=lambda storage, loc: storage)
-    if not use_cuda:
-        checkpoint['args'].device = None
+        checkpoint = torch.load(args.save_dir + args.load_model, map_location=lambda storage, loc: storage)
     net = getattr(model, checkpoint['args'].model)(checkpoint['args'])
     net.load_state_dict(checkpoint['model'])
     if use_cuda:
@@ -228,7 +228,7 @@ def test():
 
     print('Begin test...')
     test_loss, r1, r2, rl, rsu = evaluate(net, vocab, test_iter, False)
-    print('Test_Loss: %f Rouge-1: %f Rouge-2: %f Rouge-l: %f Rouge-SU*: %F' % (test_loss, r1, r2, rl, rsu))
+    print('Test_Loss: %f Rouge-1: %f Rouge-2: %f Rouge-l: %f Rouge-SU*: %f' % (test_loss, r1, r2, rl, rsu))
 
 
 if __name__ == '__main__':
