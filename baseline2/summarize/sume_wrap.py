@@ -14,8 +14,8 @@ class SumeWrap():
     def __init__(self, language):
         self.s = sume.ConceptBasedILPSummarizer(" ", language)
         self.LANGUAGE = language
-        self.stoplist = set(stopwords.words(self.LANGUAGE))
-        self.stemmer = SnowballStemmer(self.LANGUAGE)
+        # self.stoplist = set(stopwords.words(self.LANGUAGE))
+        # self.stemmer = SnowballStemmer(self.LANGUAGE)
 
     def load_sume_sentences(self, docs, parse_type=None, parse_info=[]):
         """

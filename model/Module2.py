@@ -79,20 +79,36 @@ class Module2(nn.Module):
         out = torch.cat(out).squeeze(2)
         return out
 
+    def max_pool1d(self, x, seq_lens):
+        out = []
+        for index, t in enumerate(x):
+            if seq_lens[index] == 0:
+                if use_cuda:
+                    out.append(torch.zeros(1, 2 * self.H, 1).cuda())
+                else:
+                    out.append(torch.zeros(1, 2 * self.H, 1))
+            else:
+                t = t[:seq_lens[index], :]
+                t = torch.t(t).unsqueeze(0)
+                out.append(F.max_pool1d(t, t.size(2)))
+
+        out = torch.cat(out).squeeze(2)
+        return out
+
     def forward(self, x, doc_nums, doc_lens):
         # x: total_sent_num * word_num
         sent_lens = torch.sum(torch.sign(x), dim=1).data
         x = self.embed(x)  # total_sent_num * word_num * D
         x = self.word_RNN(x)[0]  # total_sent_num * word_num * (2*H)
-        sent_vec = self.avg_pool1d(x, sent_lens)  # total_sent_num * (2*H)
+        sent_vec = self.max_pool1d(x, sent_lens)  # total_sent_num * (2*H)
 
         x = self.padding(sent_vec, doc_lens, self.args.doc_trunc)  # total_doc_num * doc_trunc * (2*H)
         x = self.sent_RNN(x)[0]  # total_doc_num * doc_trunc * (2*H)
-        doc_vec = self.avg_pool1d(x, doc_lens)  # total_doc_num * (2*H)
+        doc_vec = self.max_pool1d(x, doc_lens)  # total_doc_num * (2*H)
 
         x = self.padding(doc_vec, doc_nums, self.args.blog_trunc)  # batch_size * blog_trunc * (2*H)
         x = self.doc_RNN(x)[0]  # batch_size * blog_trunc * (2*H)
-        blog_vec = self.avg_pool1d(x, doc_nums)  # batch_size * (2*H)
+        blog_vec = self.max_pool1d(x, doc_nums)  # batch_size * (2*H)
 
         # 预测doc标签
         probs = []
@@ -108,7 +124,7 @@ class Module2(nn.Module):
                 if use_cuda:
                     doc_index = doc_index.cuda()
                 doc_pos = self.doc_pos(self.doc_pos_embed(doc_index).squeeze(0))
-                doc_pre = F.sigmoid(doc_content + doc_salience + doc_pos + self.doc_bias)
+                doc_pre = doc_content + doc_salience + doc_pos + self.doc_bias
                 probs.append(doc_pre)
 
         # 预测sent标签
@@ -127,7 +143,7 @@ class Module2(nn.Module):
                         sent_index = sent_index.cuda()
                     sent_pos = self.sent_pos(self.sent_pos_embed(sent_index).squeeze(0))
                     sent_doc_label = self.sent_doc_label(probs[i])
-                    sent_pre = F.sigmoid(sent_content + sent_salience + sent_pos + sent_doc_label + self.sent_bias)
+                    sent_pre = sent_content + sent_salience + sent_pos + sent_doc_label + self.sent_bias
                     probs.append(sent_pre)
                     sent_idx += 1
                 # sent_idx = next_sent_idx

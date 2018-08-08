@@ -4,6 +4,7 @@ import os
 import re
 from nltk.tokenize import word_tokenize
 
+
 def load_data(data_path):
     """Load the live blogs corpus data
 
@@ -17,16 +18,11 @@ def load_data(data_path):
     """
     doc_data = []
     with codecs.open(data_path, "r", encoding='utf-8') as fp:
-        #json_text = fp.readline()
-        #json_data = json.loads(json_text)
+        # json_text = fp.readline()
+        # json_data = json.loads(json_text)
         json_data = json.load(fp)
 
-        # Return if the summary is empty or the collection is of low quality
-        if not json_data['summary'] or json_data['quality'] == 'low':
-            print 'impossible!'
-            return doc_data, []
-
-        summaries = [ json_data['summary'] ]
+        summaries = [json_data['summary']]
 
         documents = json_data['documents']
 
@@ -46,13 +42,13 @@ def extract_ngrams(sentences, stoplist, stemmer, language='english', n=2):
 
         # for each ngram of words
         tokens = sent2tokens(sentence, language)
-        for j in range(len(tokens)-(n-1)):
+        for j in range(len(tokens) - (n - 1)):
 
             # initialize ngram container
             ngram = []
 
             # for each token of the ngram
-            for k in range(j, j+n):
+            for k in range(j, j + n):
                 ngram.append(tokens[k].lower())
 
             # do not consider ngrams containing punctuation marks
@@ -71,6 +67,7 @@ def extract_ngrams(sentences, stoplist, stemmer, language='english', n=2):
             # add the ngram to the concepts
             concepts.append(' '.join(ngram))
     return concepts
+
 
 def untokenize(tokens):
     """Untokenizing a list of tokens. 
@@ -105,6 +102,7 @@ def untokenize(tokens):
     text = re.sub(u"\s+", u" ", text.strip())
 
     return text
+
 
 def sent2tokens(sent, language='english', lower=True):
     '''

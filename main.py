@@ -5,39 +5,43 @@ from torch.autograd import Variable
 from torch.nn.utils import clip_grad_norm_
 from torch.utils.data import DataLoader
 from myrouge.rouge import get_rouge_score
+from tqdm import tqdm
 import numpy as np
+import math
+import re
 import utils
 import model
 import os, json, argparse, random
 
 parser = argparse.ArgumentParser(description='LiveBlogSum')
 # model
-parser.add_argument('-save_dir', type=str, default='checkpoints/')
+parser.add_argument('-save_dir', type=str, default='checkpoints3/')
 parser.add_argument('-embed_dim', type=int, default=100)
 parser.add_argument('-embed_num', type=int, default=100)
-parser.add_argument('-model', type=str, default='Module1')
+parser.add_argument('-model', type=str, default='Module2')
 parser.add_argument('-hidden_size', type=int, default=200)
 parser.add_argument('-pos_dim', type=int, default=10)
 # train
 parser.add_argument('-lr', type=float, default=1e-3)
-parser.add_argument('-max_norm', type=float, default=1.0)
-parser.add_argument('-batch_size', type=int, default=2)
-parser.add_argument('-epochs', type=int, default=6)
-parser.add_argument('-seed', type=int, default=1)
+parser.add_argument('-max_norm', type=float, default=5.0)
+parser.add_argument('-batch_size', type=int, default=5)
+parser.add_argument('-epochs', type=int, default=8)
+parser.add_argument('-seed', type=int, default=2)
 parser.add_argument('-embedding', type=str, default='word2vec/embedding.npz')
 parser.add_argument('-word2id', type=str, default='word2vec/word2id.json')
-parser.add_argument('-train_dir', type=str, default='data/guardian_label/train/')
-parser.add_argument('-valid_dir', type=str, default='data/guardian_label/valid/')
+parser.add_argument('-train_dir', type=str, default='data/bbc_cont_1/train/')
+parser.add_argument('-valid_dir', type=str, default='data/bbc_cont_1/valid/')
 parser.add_argument('-sent_trunc', type=int, default=20)
 parser.add_argument('-doc_trunc', type=int, default=10)
-parser.add_argument('-blog_trunc', type=int, default=80)  # 之后的模型可能会用到这个参数
+parser.add_argument('-blog_trunc', type=int, default=80)
 parser.add_argument('-valid_every', type=int, default=100)
 # test
 parser.add_argument('-load_model', type=str, default='')
-parser.add_argument('-test_dir', type=str, default='data/guardian_label/test/')
+parser.add_argument('-test_dir', type=str, default='data/bbc_cont_1/test/')
 parser.add_argument('-ref', type=str, default='outputs/ref/')
 parser.add_argument('-hyp', type=str, default='outputs/hyp/')
 parser.add_argument('-sum_len', type=int, default=1)  # 摘要长度为原摘要长度的倍数
+parser.add_argument('-mmr', type=float, default=0.75)
 # other
 parser.add_argument('-test', action='store_true')
 parser.add_argument('-use_cuda', type=bool, default=False)
@@ -56,15 +60,76 @@ def my_collate(batch):
     return {key: [d[key] for d in batch] for key in batch[0]}
 
 
+# 用rouge_1_f表示两个句子之间的相似度
+def rouge_1_f(hyp, ref):
+    hyp = re.sub(r'[^a-z]', ' ', hyp.lower()).strip().split()
+    ref = re.sub(r'[^a-z]', ' ', ref.lower()).strip().split()
+    if len(hyp) == 0 or len(ref) == 0:
+        return .0
+    ref_flag = [0 for _ in ref]
+    hit = .0
+    for w in hyp:
+        for i in range(0, len(ref)):
+            if w == ref[i] and ref_flag[i] == 0:
+                hit += 1
+                ref_flag[i] = 1
+                break
+    p = hit / len(hyp)
+    r = hit / len(ref)
+    if math.fabs(p + r) < 1e-10:
+        f = .0
+    else:
+        f = 2 * p * r / (p + r)
+    return f
+
+
+# 得到预测分数后，使用MMR策略进行重新排序，以消除冗余
+def re_rank(sents, scores, ref_len):
+    sents_num = len(sents)
+    sim = [sents_num * [.0] for _ in range(0, sents_num)]
+    for i in range(0, sents_num):
+        for j in range(i, sents_num):
+            if j == i:
+                sim[i][j] = 1.0
+            else:
+                sim[i][j] = sim[j][i] = rouge_1_f(sents[i], sents[j])
+    chosen = []
+    candidates = range(0, sents_num)
+    summary = ''
+    cur_len = 0
+    while len(candidates) != 0:
+        max_point = -1e20
+        next = -1
+        for i in candidates:
+            max_sim = .0
+            for j in chosen:
+                max_sim = max(max_sim, sim[i][j])
+            cur_point = args.mmr * scores[i] - (1 - args.mmr) * max_sim
+            if cur_point > max_point:
+                max_point = cur_point
+                next = i
+        chosen.append(next)
+        candidates.remove(next)
+        tmp = sents[next]
+        tmp = tmp.split()
+        tmp_len = len(tmp)
+        if cur_len + tmp_len > ref_len:
+            summary += ' '.join(tmp[:ref_len - cur_len])
+            break
+        else:
+            summary += ' '.join(tmp) + ' '
+            cur_len += tmp_len
+    return summary
+
+
 # 在验证集或测试集上测loss, rouge值
 def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是否要继续训练
     net.eval()
-    criterion = nn.BCELoss()
+    criterion = nn.MSELoss()
     loss, r1, r2, rl, rsu = .0, .0, .0, .0, .0  # rouge-1，rouge-2，rouge-l，都使用recall值（长度限定为原摘要长度）
     batch_num = .0
     blog_num = .0
-    for m, batch in enumerate(data_iter):
-        print(m)
+    for batch in tqdm(data_iter):
         # 计算loss
         features, targets, sents_content, summaries, doc_nums, doc_lens = \
             vocab.make_features(batch, args)
@@ -73,6 +138,7 @@ def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是
             features = features.cuda()
             targets = targets.cuda()
         probs = net(features, doc_nums, doc_lens)
+        # probs = targets
         loss += criterion(probs, targets).data.item()
         batch_num += 1
         doc_nums_sum = np.array(doc_nums).sum()
@@ -96,18 +162,7 @@ def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是
             sorted_index.reverse()
             ref = summaries[i].strip()
             ref_len = len(ref.split())
-            hyp = ''
-            cur_len = 0
-            for index in sorted_index:
-                tmp = cur_sents[index]
-                tmp = tmp.split()
-                tmp_len = len(tmp)
-                if cur_len + tmp_len > args.sum_len * ref_len:
-                    hyp += ' '.join(tmp[:ref_len - cur_len])
-                    break
-                else:
-                    hyp += ' '.join(tmp) + ' '
-                    cur_len += tmp_len
+            hyp = re_rank(cur_sents, cur_probs, ref_len)
             score = get_rouge_score(hyp, ref)
             r1 += score['ROUGE-1']['r']
             r2 += score['ROUGE-2']['r']
@@ -149,8 +204,10 @@ def train():
     val_dataset = utils.Dataset(val_data)
 
     net = getattr(model, args.model)(args, embed)
+    my_loss = getattr(model, 'myLoss')()
     if use_cuda:
         net.cuda()
+        my_loss.cuda()
 
     train_iter = DataLoader(dataset=train_dataset,
                             batch_size=args.batch_size,
@@ -161,9 +218,8 @@ def train():
                           batch_size=args.batch_size,
                           shuffle=False,
                           collate_fn=my_collate)
-
-    criterion = nn.BCELoss()
     optimizer = torch.optim.Adam(net.parameters(), lr=args.lr)
+    # loss_optimizer = torch.optim.Adam(my_loss.parameters(), lr=args.lr)
     net.train()
     min_loss = float('inf')
 
@@ -175,13 +231,18 @@ def train():
                 features = features.cuda()
                 targets = targets.cuda()
             probs = net(features, doc_nums, doc_lens)
-            loss = criterion(probs, targets)
+            doc_num = np.array(doc_nums).sum()
+            loss = my_loss(probs, targets, doc_num)
             optimizer.zero_grad()
+            # loss_optimizer.zero_grad()
             loss.backward()
             clip_grad_norm_(net.parameters(), args.max_norm)
+            clip_grad_norm_(my_loss.parameters(), args.max_norm)
             optimizer.step()
+            # loss_optimizer.step()
 
-            print('EPOCH [%d/%d]: BATCH_ID=[%d/%d] loss=%f' % (epoch, args.epochs, i, len(train_iter), loss))
+            print('EPOCH [%d/%d]: BATCH_ID=[%d/%d] loss=%f beta=%f' % (
+            epoch, args.epochs, i, len(train_iter), loss, float(my_loss.beta)))
 
             cnt = (epoch - 1) * len(train_iter) + i
             if cnt % args.valid_every == 0:
@@ -190,10 +251,11 @@ def train():
                 if cur_loss < min_loss:
                     min_loss = cur_loss
                 save_path = args.save_dir + args.model + '_%d_loss_%.3f_r1_%.3f' % (
-                cnt / args.valid_every, cur_loss, r1)
+                    cnt / args.valid_every, cur_loss, r1)
                 net.save(save_path)
                 print('Epoch: %2d Min_Val_Loss: %f Cur_Val_Loss: %f Rouge-1: %f Rouge-2: %f Rouge-l: %f Rouge-SU*: %F' %
                       (epoch, min_loss, cur_loss, r1, r2, rl, rsu))
+
 
 
 def test():

@@ -3,19 +3,8 @@ import os
 import argparse
 
 '''
-guardian(L)
-UB1 Rouge-1: 0.380137 Rouge-2: 0.127083 Rouge-l: 0.213465
-UB2 Rouge-1: 0.371915 Rouge-2: 0.168840 Rouge-l: 0.237165
-LexRank Rouge-1: 0.217602 Rouge-2: 0.035400 Rouge-l: 0.139641
-TextRank Rouge-1: 0.181454 Rouge-2: 0.025821 Rouge-l: 0.107198
-
-bbc(L)
-UB1 Rouge-1: 0.350821 Rouge-2: 0.115721 Rouge-l: 0.186813
-UB2 Rouge-1: 0.333293 Rouge-2: 0.145361 Rouge-l: 0.194031
-LexRank Rouge-1: 0.179593 Rouge-2: 0.024781 Rouge-l: 0.121246
-TextRank Rouge-1: 0.137366 Rouge-2: 0.014770 Rouge-l: 0.090767
-
 Standard ROUGE
+
 guardian(L)
 UB1 Rouge-1: 0.498439 Rouge-2: 0.216667 Rouge-l: 0.324901 Rouge-SU*: 0.216997
 UB2 Rouge-1: 0.469815 Rouge-2: 0.278474 Rouge-l: 0.344528 Rouge-SU*: 0.208485
@@ -23,6 +12,15 @@ LexRank Rouge-1: 0.210933 Rouge-2: 0.037603 Rouge-l: 0.131110 Rouge-SU*: 0.04671
 TextRank Rouge-1: 0.184086 Rouge-2: 0.029617 Rouge-l: 0.117287 Rouge-SU*: 0.037783
 ICSI Rouge-1: 0.257562 Rouge-2: 0.060022 Rouge-l: 0.157313 Rouge-SU*: 0.065799
 Luhn Rouge-1: 0.154681 Rouge-2: 0.022884 Rouge-l: 0.100451 Rouge-SU*: 0.027575
+
+bbc(L)
+UB1 Rouge-1: 0.464780 Rouge-2: 0.195108 Rouge-l: 0.272242 Rouge-SU*: 0.164087
+UB2 Rouge-1: 0.413318 Rouge-2: 0.227026 Rouge-l: 0.268316 Rouge-SU*: 0.141900
+LexRank Rouge-1: 0.160842 Rouge-2: 0.024327 Rouge-l: 0.097632 Rouge-SU*: 0.028451
+TextRank Rouge-1: 0.139200 Rouge-2: 0.021073 Rouge-l: 0.093124 Rouge-SU*: 0.024044
+ICSI Rouge-1: 0.209584 Rouge-2: 0.046293 Rouge-l: 0.135454 Rouge-SU*: 0.045526
+Luhn Rouge-1: 0.141699 Rouge-2: 0.023175 Rouge-l: 0.091994 Rouge-SU*: 0.023978
+
 '''
 
 sys.path.append('../')
@@ -94,7 +92,7 @@ def get_summary_scores(algo, docs, refs, summary_size):
 
 if __name__ == '__main__':
     file_names = os.listdir(args.path)
-    algos = ['UB1', 'UB2', 'LexRank', 'TextRank', 'ICSI', 'Luhn']
+    algos = ['ICSI']
     R1 = {'UB1': .0, 'UB2': .0, 'ICSI': .0, 'LSA': .0, 'KL': .0, 'Luhn': .0, 'LexRank': .0, 'TextRank': .0}
     R2 = {'UB1': .0, 'UB2': .0, 'ICSI': .0, 'LSA': .0, 'KL': .0, 'Luhn': .0, 'LexRank': .0, 'TextRank': .0}
     Rl = {'UB1': .0, 'UB2': .0, 'ICSI': .0, 'LSA': .0, 'KL': .0, 'Luhn': .0, 'LexRank': .0, 'TextRank': .0}

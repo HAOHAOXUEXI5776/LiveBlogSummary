@@ -60,6 +60,22 @@ class Module1(nn.Module):
         out = torch.cat(out).squeeze(2)
         return out
 
+    def max_pool1d(self, x, sent_lens):
+        out = []
+        for index, t in enumerate(x):
+            if sent_lens[index] == 0:
+                if use_cuda:
+                    out.append(torch.zeros(1, 2 * self.H, 1).cuda())
+                else:
+                    out.append(torch.zeros(1, 2 * self.H, 1))
+            else:
+                t = t[:sent_lens[index], :]
+                t = torch.t(t).unsqueeze(0)
+                out.append(F.max_pool1d(t, t.size(2)))
+
+        out = torch.cat(out).squeeze(2)
+        return out
+
     def forward(self, x, doc_nums, doc_lens):
         # x: total_sent_num * word_num
         sent_lens = torch.sum(torch.sign(x), dim=1).data
