@@ -1,8 +1,6 @@
 # coding:utf-8
 
-# 更完整的层次式网络结构，word => sent => doc => live blog，预测doc标签时，使用doc向量和live blog向量，
-# 预测sent标签时，使用sent向量、doc向量和live blog向量。
-# 注：Module1的网络结构，word => sent => doc，预测doc标签时，只使用doc向量，预测sent标签时，也只使用doc向量
+# 和Module2大体上一样，引入了events线索
 
 import torch
 import torch.nn as nn
@@ -12,14 +10,15 @@ from torch.autograd import Variable
 use_cuda = torch.cuda.is_available()
 
 
-class Module2(nn.Module):
+class Module6(nn.Module):
     def __init__(self, args, embed=None):
-        super(Module2, self).__init__()
-        self.model_name = 'Module2'
+        super(Module6, self).__init__()
+        self.model_name = 'Module6'
         self.args = args
         V = args.embed_num  # 单词表的大小
         D = args.embed_dim  # 词向量长度
         self.H = args.hidden_size  # 隐藏状态维数
+        self.D = D
 
         self.embed = nn.Embedding(V, D, padding_idx=0)
         if embed is not None:
@@ -55,12 +54,15 @@ class Module2(nn.Module):
         self.doc_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
         self.doc_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
 
-        # 预测sent标签时，考虑sent内容，与所在doc及blog相关性，sent位置，doc标签，bias
+        # 预测sent标签时，考虑sent内容，与所在doc及blog相关性，sent位置，doc标签，events相关性，bias
         self.sent_content = nn.Linear(2 * self.H, 1, bias=False)
         self.sent_salience = nn.Bilinear(2 * self.H, 4 * self.H, 1, bias=False)
         self.sent_pos_embed = nn.Embedding(self.args.doc_trunc, self.args.pos_dim)
         self.sent_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
         self.sent_doc_label = nn.Linear(1, 1, bias=False)
+        self.event_pre = nn.Linear(self.D, 2 * self.H)
+        self.event_rel = nn.Bilinear(2 * self.H, 2 * self.H, 1)
+        self.event_para = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
         self.sent_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
 
     def max_pool1d(self, x, seq_lens):
@@ -79,7 +81,7 @@ class Module2(nn.Module):
         out = torch.cat(out).squeeze(2)
         return out
 
-    def forward(self, x, doc_nums, doc_lens):
+    def forward(self, x, doc_nums, doc_lens, events, event_weights):
         # x: total_sent_num * word_num
         sent_lens = torch.sum(torch.sign(x), dim=1).data
         x = self.embed(x)  # total_sent_num * word_num * D
@@ -93,6 +95,11 @@ class Module2(nn.Module):
         x = self.padding(doc_vec, doc_nums, self.args.blog_trunc)  # batch_size * blog_trunc * (2*H)
         x = self.doc_RNN(x)[0]  # batch_size * blog_trunc * (2*H)
         blog_vec = self.max_pool1d(x, doc_nums)  # batch_size * (2*H)
+
+        event_lens = torch.sum(torch.sign(events), dim=1).data
+        events = self.embed(events)
+        events = F.tanh(self.event_pre(events))
+        event_vec = self.max_pool1d(events, event_lens)
 
         # 预测doc标签
         probs = []
@@ -110,13 +117,16 @@ class Module2(nn.Module):
                 doc_pos = self.doc_pos(self.doc_pos_embed(doc_index).squeeze(0))
                 doc_pre = doc_content + doc_salience + doc_pos + self.doc_bias
                 probs.append(doc_pre)
-        doc_num = len(probs)
 
         # 预测sent标签
         sent_idx = 0
         start = 0
+        ratio = [.0, .0, .0, .0, .0, .0]
+        cnt = .0
         for i in range(0, len(doc_nums)):
             end = start + doc_nums[i]
+            valid_event_vec = event_vec[i * self.args.srl_trunc: (i + 1) * self.args.srl_trunc]
+            valid_event_weights = event_weights[i * self.args.srl_trunc: (i + 1) * self.args.srl_trunc]
             for j in range(start, end):
                 context = torch.cat((blog_vec[i], doc_vec[j]))
                 # next_sent_idx = sent_idx + doc_lens[j]
@@ -128,12 +138,25 @@ class Module2(nn.Module):
                         sent_index = sent_index.cuda()
                     sent_pos = self.sent_pos(self.sent_pos_embed(sent_index).squeeze(0))
                     sent_doc_label = self.sent_doc_label(probs[i])
-                    sent_pre = sent_content + sent_salience + sent_pos + sent_doc_label + self.sent_bias
+                    event_sim = self.event_rel(sent_vec[sent_idx].repeat(len(valid_event_vec)).view(len(valid_event_vec), -1),
+                                               valid_event_vec).squeeze(1)
+                    # event_rel = self.event_para * torch.dot(event_sim, valid_event_weights)
+                    event_rel = self.event_para * torch.sum(event_sim)
+
+                    sent_pre = sent_content + sent_salience + sent_pos + sent_doc_label + event_rel + self.sent_bias
+                    ratio[0] += sent_content.data.item() / sent_pre.data.item()
+                    ratio[1] += sent_salience.data.item() / sent_pre.data.item()
+                    ratio[2] += sent_pos.data.item() / sent_pre.data.item()
+                    ratio[3] += sent_doc_label.data.item() / sent_pre.data.item()
+                    ratio[4] += event_rel.data.item() / sent_pre.data.item()
+                    ratio[5] += self.sent_bias.data.item() / sent_pre.data.item()
+                    cnt += 1
                     probs.append(sent_pre)
                     sent_idx += 1
                 # sent_idx = next_sent_idx
             start = end
-
+        for i in range(0, len(ratio)):
+            ratio[i] /= cnt
         return torch.cat(probs).squeeze()  # 一维tensor，前部分是文档的预测，后部分是所有句子（不含padding）的预测
 
     # 对于一个序列进行padding，不足的补上全零向量

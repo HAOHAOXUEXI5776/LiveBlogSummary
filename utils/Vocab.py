@@ -1,5 +1,6 @@
 # coding=utf-8
 import torch
+import numpy as np
 
 
 class Vocab():
@@ -29,9 +30,11 @@ class Vocab():
         # sent_trunc: 每个句子的词数截取到sent_trunc，不足补全
         # doc_trunc: 每个文档的句子数截取到doc_trunc，不补全
         # blog_trunc: 每个live blog的文档数截取到blog_trunc，不补全
+        # srl_trunc: 每个live blog包含的events截取到srl_trunc，不足补全
         sent_trunc = args.sent_trunc
         doc_trunc = args.doc_trunc
         blog_trunc = args.blog_trunc
+        srl_trunc = args.srl_trunc
 
         summarys = []
         for s in batch["summary"]:
@@ -45,6 +48,7 @@ class Vocab():
             for td in batch["documents"][i]:
                 target = td["doc_label"]
                 doc_targets.append(target)
+
         sents = []  # 存储所有句子
         sents_target = []  # 存储所有句子label
         sents_content = []  # 存储所有的句子内容，与sents_target等长，便于之后计算rouge值
@@ -72,10 +76,40 @@ class Vocab():
                 sent += (sent_trunc - cur_sent_len) * [self.PAD_TOKEN]
             sent = [self.w2i(_) for _ in sent]
             sents[i] = sent
-
         sents = torch.LongTensor(sents)
         targets = doc_targets + sents_target
         targets = torch.FloatTensor(targets)
 
-        return sents, targets, sents_content, summarys, doc_nums, doc_lens
+        events = []  # 存储所有events，即SRL四元组
+        event_weights = []  # 存储各events权重
+        for d in batch["events"]:
+            cur_events = []
+            cur_weights = []
+            for td in d:
+                cur_events.append(td["tuple"])
+                cur_weights.append(td["score"])
+                if len(cur_events) == srl_trunc:
+                    break
+            if len(cur_events) < srl_trunc:
+                cur_events += (srl_trunc - len(cur_events)) * ["-\t-\t-\t-"]
+                cur_weights += (srl_trunc - len(cur_weights)) * [.0]
+            cur_weights_sum = np.array(cur_weights).sum()
+            cur_weights = [_ / cur_weights_sum for _ in cur_weights]
+            events.extend(cur_events)
+            event_weights.extend(cur_weights)
+        for i, event in enumerate(events):
+            event = event.replace('-', self.PAD_TOKEN)
+            event = event.strip().split('\t')
+            new_event = []
+            for w in event:
+                if w != self.PAD_TOKEN:
+                    new_event.append(w)
+            new_event += (4 - len(new_event)) * [self.PAD_TOKEN]
+            assert len(new_event) == 4
+            event = [self.w2i(_) for _ in new_event]
+            events[i] = event
+        events = torch.LongTensor(events)
+        event_weights = torch.FloatTensor(event_weights)
+
+        return sents, targets, events, event_weights, sents_content, summarys, doc_nums, doc_lens
 

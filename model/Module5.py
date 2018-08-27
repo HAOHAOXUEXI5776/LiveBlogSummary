@@ -1,8 +1,7 @@
 # coding:utf-8
 
-# 更完整的层次式网络结构，word => sent => doc => live blog，预测doc标签时，使用doc向量和live blog向量，
-# 预测sent标签时，使用sent向量、doc向量和live blog向量。
-# 注：Module1的网络结构，word => sent => doc，预测doc标签时，只使用doc向量，预测sent标签时，也只使用doc向量
+# 几乎与Module2一模一样，删除了doc label预测层（Module4是直接删除了doc表示层）
+# 在预测句子标签时也去掉了和doc label有关的一项
 
 import torch
 import torch.nn as nn
@@ -12,10 +11,10 @@ from torch.autograd import Variable
 use_cuda = torch.cuda.is_available()
 
 
-class Module2(nn.Module):
+class Module5(nn.Module):
     def __init__(self, args, embed=None):
-        super(Module2, self).__init__()
-        self.model_name = 'Module2'
+        super(Module5, self).__init__()
+        self.model_name = 'Module5'
         self.args = args
         V = args.embed_num  # 单词表的大小
         D = args.embed_dim  # 词向量长度
@@ -48,19 +47,11 @@ class Module2(nn.Module):
             bidirectional=True
         )
 
-        # 预测doc标签时，考虑doc内容，与blog相关性，doc位置，bias
-        self.doc_content = nn.Linear(2 * self.H, 1, bias=False)
-        self.doc_salience = nn.Bilinear(2 * self.H, 2 * self.H, 1, bias=False)
-        self.doc_pos_embed = nn.Embedding(self.args.blog_trunc, self.args.pos_dim)
-        self.doc_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
-        self.doc_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
-
         # 预测sent标签时，考虑sent内容，与所在doc及blog相关性，sent位置，doc标签，bias
         self.sent_content = nn.Linear(2 * self.H, 1, bias=False)
-        self.sent_salience = nn.Bilinear(2 * self.H, 4 * self.H, 1, bias=False)
+        self.sent_salience = nn.Bilinear(2 * self.H, 2 * self.H, 1, bias=False)
         self.sent_pos_embed = nn.Embedding(self.args.doc_trunc, self.args.pos_dim)
         self.sent_pos = nn.Linear(self.args.pos_dim, 1, bias=False)
-        self.sent_doc_label = nn.Linear(1, 1, bias=False)
         self.sent_bias = nn.Parameter(torch.FloatTensor(1).uniform_(-0.1, 0.1))
 
     def max_pool1d(self, x, seq_lens):
@@ -94,31 +85,14 @@ class Module2(nn.Module):
         x = self.doc_RNN(x)[0]  # batch_size * blog_trunc * (2*H)
         blog_vec = self.max_pool1d(x, doc_nums)  # batch_size * (2*H)
 
-        # 预测doc标签
         probs = []
-        start = 0
-        for i in range(0, len(doc_nums)):
-            end = start + doc_nums[i]
-            valid = doc_vec[start:end]
-            start = end
-            for j, doc in enumerate(valid):
-                doc_content = self.doc_content(doc)
-                doc_salience = self.doc_salience(doc, blog_vec[i])
-                doc_index = torch.LongTensor([[j]])
-                if use_cuda:
-                    doc_index = doc_index.cuda()
-                doc_pos = self.doc_pos(self.doc_pos_embed(doc_index).squeeze(0))
-                doc_pre = doc_content + doc_salience + doc_pos + self.doc_bias
-                probs.append(doc_pre)
-        doc_num = len(probs)
-
         # 预测sent标签
         sent_idx = 0
         start = 0
         for i in range(0, len(doc_nums)):
             end = start + doc_nums[i]
             for j in range(start, end):
-                context = torch.cat((blog_vec[i], doc_vec[j]))
+                context = blog_vec[i]
                 # next_sent_idx = sent_idx + doc_lens[j]
                 for k in range(0, doc_lens[j]):
                     sent_content = self.sent_content(sent_vec[sent_idx])
@@ -127,8 +101,7 @@ class Module2(nn.Module):
                     if use_cuda:
                         sent_index = sent_index.cuda()
                     sent_pos = self.sent_pos(self.sent_pos_embed(sent_index).squeeze(0))
-                    sent_doc_label = self.sent_doc_label(probs[i])
-                    sent_pre = sent_content + sent_salience + sent_pos + sent_doc_label + self.sent_bias
+                    sent_pre = sent_content + sent_salience + sent_pos + self.sent_bias
                     probs.append(sent_pre)
                     sent_idx += 1
                 # sent_idx = next_sent_idx

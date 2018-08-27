@@ -10,7 +10,7 @@ use_cuda = torch.cuda.is_available()
 
 
 class myLoss(nn.Module):
-    def __init__(self, beta=0.30):
+    def __init__(self, beta=0.0):
         super(myLoss, self).__init__()
         self.beta = beta
         # self.beta = nn.Parameter(torch.Tensor([beta]))
@@ -20,8 +20,8 @@ class myLoss(nn.Module):
         tar_1 = target[:doc_num]
         pre_2 = predict[doc_num:]
         tar_2 = target[doc_num:]
-        loss_1 = F.mse_loss(pre_1, tar_1) / doc_num
-        loss_2 = F.mse_loss(pre_2, tar_2) / (len(predict) - doc_num)
+        loss_1 = F.mse_loss(pre_1, tar_1)
+        loss_2 = F.mse_loss(pre_2, tar_2)
         norm = self.beta + 1.0
-        loss = (self.beta * loss_1 + loss_2) / norm * len(predict)
+        loss = (self.beta * loss_1 + loss_2) / norm
         return loss

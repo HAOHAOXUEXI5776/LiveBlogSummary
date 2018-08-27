@@ -15,7 +15,7 @@ import os, json, argparse, random
 
 parser = argparse.ArgumentParser(description='LiveBlogSum')
 # model
-parser.add_argument('-save_dir', type=str, default='checkpoints3/')
+parser.add_argument('-save_dir', type=str, default='checkpoints1/')
 parser.add_argument('-embed_dim', type=int, default=100)
 parser.add_argument('-embed_num', type=int, default=100)
 parser.add_argument('-model', type=str, default='Module2')
@@ -25,19 +25,20 @@ parser.add_argument('-pos_dim', type=int, default=10)
 parser.add_argument('-lr', type=float, default=1e-3)
 parser.add_argument('-max_norm', type=float, default=5.0)
 parser.add_argument('-batch_size', type=int, default=5)
-parser.add_argument('-epochs', type=int, default=8)
-parser.add_argument('-seed', type=int, default=2)
+parser.add_argument('-epochs', type=int, default=10)
+parser.add_argument('-seed', type=int, default=1)
 parser.add_argument('-embedding', type=str, default='word2vec/embedding.npz')
 parser.add_argument('-word2id', type=str, default='word2vec/word2id.json')
-parser.add_argument('-train_dir', type=str, default='data/bbc_cont_1/train/')
-parser.add_argument('-valid_dir', type=str, default='data/bbc_cont_1/valid/')
+parser.add_argument('-train_dir', type=str, default='data/bbc_srl_2/train/')
+parser.add_argument('-valid_dir', type=str, default='data/bbc_srl_2/test/')
 parser.add_argument('-sent_trunc', type=int, default=20)
 parser.add_argument('-doc_trunc', type=int, default=10)
 parser.add_argument('-blog_trunc', type=int, default=80)
+parser.add_argument('-srl_trunc', type=int, default=200)
 parser.add_argument('-valid_every', type=int, default=100)
 # test
 parser.add_argument('-load_model', type=str, default='')
-parser.add_argument('-test_dir', type=str, default='data/bbc_cont_1/test/')
+parser.add_argument('-test_dir', type=str, default='data/bbc_srl_2/test/')
 parser.add_argument('-ref', type=str, default='outputs/ref/')
 parser.add_argument('-hyp', type=str, default='outputs/hyp/')
 parser.add_argument('-sum_len', type=int, default=1)  # 摘要长度为原摘要长度的倍数
@@ -131,17 +132,20 @@ def evaluate(net, vocab, data_iter, train_next):  # train_next指明接下来是
     blog_num = .0
     for batch in tqdm(data_iter):
         # 计算loss
-        features, targets, sents_content, summaries, doc_nums, doc_lens = \
+        features, targets, events, event_weights, sents_content, summaries, doc_nums, doc_lens = \
             vocab.make_features(batch, args)
-        features, targets = Variable(features), Variable(targets.float())
+        features, targets, events, event_weights = Variable(features), Variable(targets.float()), Variable(
+            events), Variable(event_weights.float())
         if use_cuda:
             features = features.cuda()
             targets = targets.cuda()
+            events = events.cuda()
+            event_weights = event_weights.cuda()
+        # probs = net(features, doc_nums, doc_lens, events, event_weights)
         probs = net(features, doc_nums, doc_lens)
-        # probs = targets
-        loss += criterion(probs, targets).data.item()
         batch_num += 1
         doc_nums_sum = np.array(doc_nums).sum()
+        loss += criterion(probs[doc_nums_sum:], targets[doc_nums_sum:]).data.item()
         probs = probs[doc_nums_sum:]  # 删除probs前半部分对doc的预测
         probs_start = 0  # 当前blog对应的probs起始下标
         doc_lens_start = 0  # 当前blog对应的doc_lens起始下标
@@ -211,7 +215,7 @@ def train():
 
     train_iter = DataLoader(dataset=train_dataset,
                             batch_size=args.batch_size,
-                            shuffle=True,
+                            shuffle=False,
                             collate_fn=my_collate)
 
     val_iter = DataLoader(dataset=val_dataset,
@@ -225,11 +229,15 @@ def train():
 
     for epoch in range(1, args.epochs + 1):
         for i, batch in enumerate(train_iter):
-            features, targets, _1, _2, doc_nums, doc_lens = vocab.make_features(batch, args)
-            features, targets = Variable(features), Variable(targets.float())
+            features, targets, events, event_weights, _1, _2, doc_nums, doc_lens = vocab.make_features(batch, args)
+            features, targets, events, event_weights = Variable(features), Variable(targets.float()), Variable(
+                events), Variable(event_weights.float())
             if use_cuda:
                 features = features.cuda()
                 targets = targets.cuda()
+                events = events.cuda()
+                event_weights = event_weights.cuda()
+            # probs = net(features, doc_nums, doc_lens, events, event_weights)
             probs = net(features, doc_nums, doc_lens)
             doc_num = np.array(doc_nums).sum()
             loss = my_loss(probs, targets, doc_num)
@@ -237,12 +245,11 @@ def train():
             # loss_optimizer.zero_grad()
             loss.backward()
             clip_grad_norm_(net.parameters(), args.max_norm)
-            clip_grad_norm_(my_loss.parameters(), args.max_norm)
             optimizer.step()
             # loss_optimizer.step()
 
-            print('EPOCH [%d/%d]: BATCH_ID=[%d/%d] loss=%f beta=%f' % (
-            epoch, args.epochs, i, len(train_iter), loss, float(my_loss.beta)))
+            print('EPOCH [%d/%d]: BATCH_ID=[%d/%d] loss=%f' % (
+                epoch, args.epochs, i, len(train_iter), loss))
 
             cnt = (epoch - 1) * len(train_iter) + i
             if cnt % args.valid_every == 0:
@@ -250,12 +257,11 @@ def train():
                 cur_loss, r1, r2, rl, rsu = evaluate(net, vocab, val_iter, True)
                 if cur_loss < min_loss:
                     min_loss = cur_loss
-                save_path = args.save_dir + args.model + '_%d_loss_%.3f_r1_%.3f' % (
-                    cnt / args.valid_every, cur_loss, r1)
+                save_path = args.save_dir + args.model + '_%d_%.4f_%.4f_%.4f_%.4f_%.4f' % (
+                    cnt / args.valid_every, cur_loss, r1, r2, rl, rsu)
                 net.save(save_path)
                 print('Epoch: %2d Min_Val_Loss: %f Cur_Val_Loss: %f Rouge-1: %f Rouge-2: %f Rouge-l: %f Rouge-SU*: %F' %
                       (epoch, min_loss, cur_loss, r1, r2, rl, rsu))
-
 
 
 def test():
